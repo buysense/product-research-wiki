@@ -47,6 +47,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - LG전자 퓨리케어 360도 Hit 공기청정기 62㎡: products/lg전자-퓨리케어-360도-hit-공기청정기-62.md
     - 위닉스 타워 엣지 컴팩트 공기청정기 19.8: products/위닉스-타워-엣지-컴팩트-공기청정기-198.md
     - 잔스포츠 Drawsack 드로우 짐색 미니 백팩: products/잔스포츠-drawsack-드로우-짐색-미니-백팩.md
     - 다이슨 빅 + 콰이엇 공기청정기 BP04: products/다이슨-빅--콰이엇-공기청정기-bp04.md
