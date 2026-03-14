@@ -47,6 +47,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 센킨 클래식 니시키 오리가라미 전국 가격비교하고 구매: products/센킨-클래식-니시키-오리가라미-전국-가격비교하고-구매.md
     - 잔스포츠 빅스튜던트 백팩 EK0A5BAHN541: products/잔스포츠-빅스튜던트-백팩-ek0a5bahn541.md
     - 잔스포츠 슈퍼브레이크 원 백팩 EK0A5BAGN551: products/잔스포츠-슈퍼브레이크-원-백팩-ek0a5bagn551.md
     - LG전자 퓨리케어 360도 Hit 공기청정기 62㎡: products/lg전자-퓨리케어-360도-hit-공기청정기-62.md
