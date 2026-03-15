@@ -27,6 +27,11 @@ theme:
         icon: material/brightness-4
         name: 라이트 모드로 전환
 
+extra:
+  analytics:
+    provider: google
+    property: G-LS8MS30RDH
+
 plugins:
   - search:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
