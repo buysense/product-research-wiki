@@ -47,6 +47,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 하네야 준마이 긴죠 키라비 나마겐슈: products/하네야-준마이-긴죠-키라비-나마겐슈.md
     - 센킨 클래식 니시키 오리가라미: products/센킨-클래식-니시키-오리가라미.md
     - 잔스포츠 빅스튜던트 백팩 EK0A5BAHN541: products/잔스포츠-빅스튜던트-백팩-ek0a5bahn541.md
     - 잔스포츠 슈퍼브레이크 원 백팩 EK0A5BAGN551: products/잔스포츠-슈퍼브레이크-원-백팩-ek0a5bagn551.md
