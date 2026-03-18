@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 플럭스 업홀더: products/플럭스-업홀더.md
     - 경탁주 2종 세트 2병: products/경탁주-2종-세트-2병.md
     - 구로 기리시마 900ml: products/구로-기리시마-900ml.md
     - 닌텐도 스위치 OLED 본체 네온 HEG-001 + 포켓몬스터 스칼렛 + 주변기기 7종: products/닌텐도-스위치-oled-본체-네온-heg-001--포켓몬스터-스칼렛--주변기기-7종.md
