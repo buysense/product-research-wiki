@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 마란선 흑당소주: products/마란선-흑당소주.md
     - 뉴에라 아동용 MLB 빅 로고 긴팔 티셔츠: products/뉴에라-아동용-mlb-빅-로고-긴팔-티셔츠.md
     - 노스페이스 빅샷: products/노스페이스-빅샷.md
     - 잔스포츠 슈퍼브레이크 플러스 백팩: products/잔스포츠-슈퍼브레이크-플러스-백팩.md
