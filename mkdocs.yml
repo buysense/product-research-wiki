@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 아키 준마이 다이긴죠: products/아키-준마이-다이긴죠.md
     - 동원참치 슈퍼참치시즌2: products/동원참치-슈퍼참치시즌2.md
     - 나사케시마 보리소주: products/나사케시마-보리소주.md
     - 잔스포츠 하프파인트 백팩: products/잔스포츠-하프파인트-백팩.md
