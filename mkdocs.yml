@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 마이타민 리퀴드씨엠 키즈 영양제: products/마이타민-리퀴드씨엠-키즈-영양제.md
     - 캉골키즈 아동용 카리나 백팩: products/캉골키즈-아동용-카리나-백팩.md
     - 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화: products/휠라키즈-아동용-꼬모-라이트-하트-kd-운동화.md
     - 아키 준마이 다이긴죠: products/아키-준마이-다이긴죠.md
