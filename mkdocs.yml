@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 유니클로 드라이크루넥 반팔티: products/유니클로-드라이크루넥-반팔티.md
     - 탑텐 베이직 코튼 반팔티: products/탑텐-베이직-코튼-반팔티.md
     - 알록달록 3p 반팔 면티셔츠: products/알록달록-3p-반팔-면티셔츠.md
     - 닌텐도 스위치 마인크래프트 한글판: products/닌텐도-스위치-마인크래프트-한글판.md
