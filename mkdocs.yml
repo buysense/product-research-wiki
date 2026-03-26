@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 레노버 2025 씽크패드 E14 ILL G7 U7 AI: products/레노버-2025-씽크패드-e14-ill-g7-u7-ai.md
     - 레노버 2025 아이디어패드 슬림 3 15IRH10 코어i5 인텔 13세대: products/레노버-2025-아이디어패드-슬림-3-15irh10-코어i5-인텔-13세대.md
     - 유니클로 드라이크루넥 반팔티: products/유니클로-드라이크루넥-반팔티.md
     - 탑텐 베이직 코튼 반팔티: products/탑텐-베이직-코튼-반팔티.md
