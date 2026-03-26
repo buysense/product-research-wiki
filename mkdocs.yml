@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 알록달록 3p 반팔 면티셔츠: products/알록달록-3p-반팔-면티셔츠.md
     - 닌텐도 스위치 마인크래프트 한글판: products/닌텐도-스위치-마인크래프트-한글판.md
     - 닌텐도 스위치 OLED: products/닌텐도-스위치-oled.md
     - 닌텐도 스위치 마인크래프트 던전스 얼티메이트 에디션: products/닌텐도-스위치-마인크래프트-던전스-얼티메이트-에디션.md
