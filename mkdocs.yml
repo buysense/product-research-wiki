@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 샤오커오라 무설탕 캔디: products/샤오커오라-무설탕-캔디.md
     - LG전자 2026 그램 14 코어 Ultra 5: products/lg전자-2026-그램-14-코어-ultra-5.md
     - 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5: products/삼성전자-갤럭시북5-프로-14인치-인텔-ultra-5.md
     - HP 파빌리온 인텔 14세대 코어 Ultra 7: products/hp-파빌리온-인텔-14세대-코어-ultra-7.md
