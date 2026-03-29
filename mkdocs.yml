@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5: products/삼성전자-갤럭시북5-프로-14인치-인텔-ultra-5.md
     - HP 파빌리온 인텔 14세대 코어 Ultra 7: products/hp-파빌리온-인텔-14세대-코어-ultra-7.md
     - 큐피 참깨 드레싱: products/큐피-참깨-드레싱.md
     - 피에트로 드레싱 소스: products/피에트로-드레싱-소스.md
