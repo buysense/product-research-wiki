@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/신비오페르민.md': 'products/new-biofermin-s-tablets.md'
         'products/아사히-시나모롤-핑크-실내화.md': 'products/asahi-cinnamoroll-pink-indoor-shoes.md'
 
 markdown_extensions:
@@ -56,7 +57,7 @@ nav:
   - 홈: index.md
   - 상품 리뷰:
     - 아사히 시나모롤 핑크 실내화: products/asahi-cinnamoroll-pink-indoor-shoes.md
-    - 신비오페르민: products/신비오페르민.md
+    - 신비오페르민: products/new-biofermin-s-tablets.md
     - 내셔널지오그래픽 천체망원경 + 현미경 세트: products/내셔널지오그래픽-천체망원경--현미경-세트.md
     - 배대감 국산 고소한 미숫가루: products/배대감-국산-고소한-미숫가루.md
     - 산타마리아노벨라 카르타 다르메니아: products/산타마리아노벨라-카르타-다르메니아.md
