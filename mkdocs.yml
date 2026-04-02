@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/자연애찬-동물복지-구운란.md': 'products/jayeonaechan-animal-welfare-grilled-egg.md'
         'products/팔도-이천햅쌀-비락식혜.md': 'products/paldo-icheon-haepssal-birak-sikhye.md'
         'products/대마도-노바호-승선권--토요코인-숙박.md': 'products/starline-novaho-toyokoin-tsushima-package.md'
         'products/카멜리아호-부산-후쿠오카-배편-승선권.md': 'products/camellialine-busan-fukuoka-ferry-ticket.md'
@@ -65,6 +66,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 자연애찬 동물복지 구운란: products/jayeonaechan-animal-welfare-grilled-egg.md
     - 팔도 이천햅쌀 비락식혜: products/paldo-icheon-haepssal-birak-sikhye.md
     - 대마도 노바호 승선권 + 토요코인 숙박: products/starline-novaho-toyokoin-tsushima-package.md
     - 카멜리아호 부산 후쿠오카 배편 승선권: products/camellialine-busan-fukuoka-ferry-ticket.md
