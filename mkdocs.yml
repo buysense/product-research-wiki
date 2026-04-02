@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/마티에-프리미에르-앙센-스와브-오드퍼퓸.md': 'products/matiere-premiere-encens-suave-edp.md'
         'products/샤넬-알뤼르-옴므-스포츠-오-드-뚜왈렛.md': 'products/chanel-allure-homme-sport-edt.md'
         'products/캘빈클라인-ck-be-오드뚜왈렛.md': 'products/calvin-klein-ck-be-edt-fragrance.md'
         'products/코카콜라-플러스-제로칼로리.md': 'products/coca-cola-plus-zero-calorie.md'
@@ -61,6 +62,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 마티에 프리미에르 앙센 스와브 오드퍼퓸: products/matiere-premiere-encens-suave-edp.md
     - 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛: products/chanel-allure-homme-sport-edt.md
     - 캘빈클라인 CK be 오드뚜왈렛: products/calvin-klein-ck-be-edt-fragrance.md
     - 코카콜라 플러스 제로칼로리: products/coca-cola-plus-zero-calorie.md
