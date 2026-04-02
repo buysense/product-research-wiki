@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/캘빈클라인-ck-be-오드뚜왈렛.md': 'products/calvin-klein-ck-be-edt-fragrance.md'
         'products/코카콜라-플러스-제로칼로리.md': 'products/coca-cola-plus-zero-calorie.md'
         'products/shinbiofermin-s-plus-buy-guide.md': 'products/shinbiofermin-s-plus.md'
         'products/신비오페르민s-플러스.md': 'products/shinbiofermin-s-plus.md'
@@ -59,6 +60,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 캘빈클라인 CK be 오드뚜왈렛: products/calvin-klein-ck-be-edt-fragrance.md
     - 코카콜라 플러스 제로칼로리: products/coca-cola-plus-zero-calorie.md
     - 신비오페르민S 플러스: products/shinbiofermin-s-plus.md
     - 아사히 시나모롤 핑크 실내화: products/asahi-cinnamoroll-pink-indoor-shoes.md
