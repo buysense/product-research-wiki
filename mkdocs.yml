@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/가농-1-중란으로-만든-구운란.md': 'products/ganong-1plus-medium-roasted-egg.md'
         'products/쫀득하고-맛있고-탱탱한-동물복지-구운란-.md': 'products/jjonmattang-animal-welfare-roasted-egg-number2.md'
         'products/자연애찬-동물복지-구운란.md': 'products/jayeonaechan-animal-welfare-grilled-egg.md'
         'products/팔도-이천햅쌀-비락식혜.md': 'products/paldo-icheon-haepssal-birak-sikhye.md'
@@ -67,6 +68,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 가농 1+ 중란으로 만든 구운란: products/ganong-1plus-medium-roasted-egg.md
     - 쫀득하고 맛있고 탱탱한 동물복지 구운란 ): products/jjonmattang-animal-welfare-roasted-egg-number2.md
     - 자연애찬 동물복지 구운란: products/jayeonaechan-animal-welfare-grilled-egg.md
     - 팔도 이천햅쌀 비락식혜: products/paldo-icheon-haepssal-birak-sikhye.md
