@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/샤넬-알뤼르-옴므-스포츠-코롱.md': 'products/chanel-allure-homme-sport-cologne.md'
         'products/디올-옴므-오-드-퍼퓸-인텐스.md': 'products/dior-homme-intense-edp.md'
         'products/조말론런던-블랙베리-앤-베이-코롱.md': 'products/jomalone-blackberry-bay-cologne.md'
         'products/마이크로소프트-windows-11-home-fpp-usb.md': 'products/microsoft-windows-11-home-fpp-usb.md'
@@ -72,6 +73,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 샤넬 알뤼르 옴므 스포츠 코롱: products/chanel-allure-homme-sport-cologne.md
     - 디올 옴므 오 드 퍼퓸 인텐스: products/dior-homme-intense-edp.md
     - 조말론런던 블랙베리 앤 베이 코롱: products/jomalone-blackberry-bay-cologne.md
     - 마이크로소프트 Windows 11 Home FPP USB: products/microsoft-windows-11-home-fpp-usb.md
