@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/조말론런던-블랙베리-앤-베이-코롱.md': 'products/jomalone-blackberry-bay-cologne.md'
         'products/마이크로소프트-windows-11-home-fpp-usb.md': 'products/microsoft-windows-11-home-fpp-usb.md'
         'guides/구운계란-선택.md': 'guides/roasted-egg-recommendation-2026.md'
         'products/가농-1-중란으로-만든-구운란.md': 'products/ganong-1plus-medium-roasted-egg.md'
@@ -70,6 +71,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 조말론런던 블랙베리 앤 베이 코롱: products/jomalone-blackberry-bay-cologne.md
     - 마이크로소프트 Windows 11 Home FPP USB: products/microsoft-windows-11-home-fpp-usb.md
     - 가농 1+ 중란으로 만든 구운란: products/ganong-1plus-medium-roasted-egg.md
     - 쫀득하고 맛있고 탱탱한 동물복지 구운란 ): products/jjonmattang-animal-welfare-roasted-egg-number2.md
