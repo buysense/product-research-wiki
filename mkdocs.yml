@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/가나-빅-마일드-초콜릿.md': 'products/gana-big-mild-chocolate.md'
         'products/포카칩-오리지널.md': 'products/pokachip-original.md'
         'products/밀카-알프스밀크.md': 'products/milka-alps-milk-chocolate.md'
         'products/지오다노-라운드-반팔-면티.md': 'products/giordano-round-short-sleeve-cotton-tee.md'
@@ -77,6 +78,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 가나 빅 마일드 초콜릿: products/gana-big-mild-chocolate.md
     - 포카칩 오리지널: products/pokachip-original.md
     - 밀카 알프스밀크: products/milka-alps-milk-chocolate.md
     - 지오다노 라운드 반팔 면티: products/giordano-round-short-sleeve-cotton-tee.md
