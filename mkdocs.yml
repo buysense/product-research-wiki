@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/포카칩-오리지널.md': 'products/pokachip-original.md'
         'products/밀카-알프스밀크.md': 'products/milka-alps-milk-chocolate.md'
         'products/지오다노-라운드-반팔-면티.md': 'products/giordano-round-short-sleeve-cotton-tee.md'
         'products/다니엘트루스-오일-퍼퓸-시그니처-밤쉘루스.md': 'products/danielstruth-oil-perfume-bombshelluth.md'
@@ -76,6 +77,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 포카칩 오리지널: products/pokachip-original.md
     - 밀카 알프스밀크: products/milka-alps-milk-chocolate.md
     - 지오다노 라운드 반팔 면티: products/giordano-round-short-sleeve-cotton-tee.md
     - 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스: products/danielstruth-oil-perfume-bombshelluth.md
