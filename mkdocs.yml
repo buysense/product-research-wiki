@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/밀카-알프스밀크.md': 'products/milka-alps-milk-chocolate.md'
         'products/지오다노-라운드-반팔-면티.md': 'products/giordano-round-short-sleeve-cotton-tee.md'
         'products/다니엘트루스-오일-퍼퓸-시그니처-밤쉘루스.md': 'products/danielstruth-oil-perfume-bombshelluth.md'
         'products/샤넬-알뤼르-옴므-스포츠-코롱.md': 'products/chanel-allure-homme-sport-cologne.md'
@@ -75,6 +76,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 밀카 알프스밀크: products/milka-alps-milk-chocolate.md
     - 지오다노 라운드 반팔 면티: products/giordano-round-short-sleeve-cotton-tee.md
     - 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스: products/danielstruth-oil-perfume-bombshelluth.md
     - 샤넬 알뤼르 옴므 스포츠 코롱: products/chanel-allure-homme-sport-cologne.md
