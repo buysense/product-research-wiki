@@ -78,6 +78,9 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 프링글스 오리지날 53g vs 110g 비교: products/pringles-original-crisps.md
+    - 프링글스 오리지날 110g: products/pringles-original-crisps-110g.md
+    - 프링글스 오리지날 53g: products/pringles-original-crisps-53g.md
     - 가나 빅 마일드 초콜릿: products/gana-big-mild-chocolate.md
     - 포카칩 오리지널: products/pokachip-original.md
     - 밀카 알프스밀크: products/milka-alps-milk-chocolate.md
@@ -88,7 +91,7 @@ nav:
     - 조말론런던 블랙베리 앤 베이 코롱: products/jomalone-blackberry-bay-cologne.md
     - 마이크로소프트 Windows 11 Home FPP USB: products/microsoft-windows-11-home-fpp-usb.md
     - 가농 1+ 중란으로 만든 구운란: products/ganong-1plus-medium-roasted-egg.md
-    - 쫀득하고 맛있고 탱탱한 동물복지 구운란 ): products/jjonmattang-animal-welfare-roasted-egg-number2.md
+    - 쫀득하고 맛있고 탱탱한 동물복지 구운란: products/jjonmattang-animal-welfare-roasted-egg-number2.md
     - 자연애찬 동물복지 구운란: products/jayeonaechan-animal-welfare-grilled-egg.md
     - 팔도 이천햅쌀 비락식혜: products/paldo-icheon-haepssal-birak-sikhye.md
     - 대마도 노바호 승선권 + 토요코인 숙박: products/starline-novaho-toyokoin-tsushima-package.md
