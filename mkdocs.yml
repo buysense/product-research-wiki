@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/야끼소바-ufo.md': 'products/nissin-yakisoba-ufo-oomori.md'
         'products/우베파우더.md': 'products/ube-powder.md'
         'products/pillsbury-레디-투-베이크-초콜릿-칩-쿠키도우.md': 'products/pillsbury-ready-to-bake-chocolate-chip-cookie-dough.md'
         'products/가나-빅-마일드-초콜릿.md': 'products/gana-big-mild-chocolate.md'
@@ -80,6 +81,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 야끼소바 U.F.O.: products/nissin-yakisoba-ufo-oomori.md
     - 우베파우더: products/ube-powder.md
     - Pillsbury 레디 투 베이크 초콜릿 칩 쿠키도우: products/pillsbury-ready-to-bake-chocolate-chip-cookie-dough.md
     - 프링글스 오리지날 53g vs 110g 비교: products/pringles-original-crisps.md
