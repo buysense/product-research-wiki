@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/아사히-민티아-콜드-스매시.md': 'products/asahi-mintia-cold-smash-candy.md'
         'products/샤넬-여성-샹스-오-드-퍼퓸.md': 'products/chanel-chance-eau-de-parfum.md'
         'products/플라이밀-단백질-쉐이크-파우치-스타터팩.md': 'products/flimeal-protein-shake-pouch-starter-pack.md'
         'products/닛신-돈베이-키츠네-우동.md': 'products/nissin-donbei-kitsune-udon.md'
@@ -85,6 +86,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 아사히 민티아 콜드 스매시: products/asahi-mintia-cold-smash-candy.md
     - 샤넬 여성 샹스 오 드 퍼퓸: products/chanel-chance-eau-de-parfum.md
     - 플라이밀 단백질 쉐이크 파우치 스타터팩: products/flimeal-protein-shake-pouch-starter-pack.md
     - 닛신 돈베이 키츠네 우동: products/nissin-donbei-kitsune-udon.md
