@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/브라이트스타트-2in1-어라운드-위고-쏘서.md': 'products/brightstarts-around-we-go-saucer.md'
         'products/딥디크-룸-스프레이.md': 'products/diptyque-room-spray.md'
         'products/아침에주스-사과.md': 'products/seoulmilk-morning-juice-apple.md'
         'products/이델리-간편집밥-사골-미역국.md': 'products/edeli-sagogol-miyeokguk.md'
@@ -90,6 +91,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 브라이트스타트 2in1 어라운드 위고 쏘서: products/brightstarts-around-we-go-saucer.md
     - 딥디크 룸 스프레이: products/diptyque-room-spray.md
     - 아침에주스 사과: products/seoulmilk-morning-juice-apple.md
     - 이델리 간편집밥 사골 미역국: products/edeli-sagogol-miyeokguk.md
