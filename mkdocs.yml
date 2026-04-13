@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/아침에주스-사과.md': 'products/seoulmilk-morning-juice-apple.md'
         'products/이델리-간편집밥-사골-미역국.md': 'products/edeli-sagogol-miyeokguk.md'
         'products/퓨리븐-퍼플-브라이트닝-가루치약.md': 'products/puriven-purple-brightening-powder-toothpaste.md'
         'products/아사히-민티아-콜드-스매시.md': 'products/asahi-mintia-cold-smash-candy.md'
@@ -88,6 +89,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 아침에주스 사과: products/seoulmilk-morning-juice-apple.md
     - 이델리 간편집밥 사골 미역국: products/edeli-sagogol-miyeokguk.md
     - 퓨리븐 퍼플 브라이트닝 가루치약: products/puriven-purple-brightening-powder-toothpaste.md
     - 아사히 민티아 콜드 스매시: products/asahi-mintia-cold-smash-candy.md
