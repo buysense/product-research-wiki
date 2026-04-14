@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/그라노로-쿠스쿠스.md': 'products/granoro-couscous.md'
         'products/폴렝기-레이지-레몬주스.md': 'products/polenghi-lazy-lemon-juice.md'
         'products/오뗄-한입-핫도그-1kg-1개.md': 'products/ottel-bite-hotdog-1kg.md'
         'products/풍년기름집-생참기름.md': 'products/poongnyun-saeng-sesame-oil.md'
@@ -97,6 +98,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 그라노로 쿠스쿠스: products/granoro-couscous.md
     - 폴렝기 레이지 레몬주스: products/polenghi-lazy-lemon-juice.md
     - 오뗄 한입 핫도그, 1kg, 1개: products/ottel-bite-hotdog-1kg.md
     - 풍년기름집 생참기름: products/poongnyun-saeng-sesame-oil.md
