@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/비에스코리아-전동-에어펌프.md': 'products/bieskorea-ht196-electric-airpump.md'
         'products/홈이즈스토리-수달인형.md': 'products/homeizstory-otter-doll.md'
         'products/브라이트스타트-2in1-어라운드-위고-쏘서.md': 'products/brightstarts-around-we-go-saucer.md'
         'products/딥디크-룸-스프레이.md': 'products/diptyque-room-spray.md'
@@ -92,6 +93,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 비에스코리아 전동 에어펌프: products/bieskorea-ht196-electric-airpump.md
     - 홈이즈스토리 수달인형: products/homeizstory-otter-doll.md
     - 브라이트스타트 2in1 어라운드 위고 쏘서: products/brightstarts-around-we-go-saucer.md
     - 딥디크 룸 스프레이: products/diptyque-room-spray.md
