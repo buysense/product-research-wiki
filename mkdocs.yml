@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/풍년기름집-생참기름.md': 'products/poongnyun-saeng-sesame-oil.md'
         'products/파티클럽-일회용-헬륨가스.md': 'products/partyclub-disposable-helium-gas.md'
         'products/비에스코리아-전동-에어펌프.md': 'products/bieskorea-ht196-electric-airpump.md'
         'products/홈이즈스토리-수달인형.md': 'products/homeizstory-otter-doll.md'
@@ -94,6 +95,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 풍년기름집 생참기름: products/poongnyun-saeng-sesame-oil.md
     - 파티클럽 일회용 헬륨가스: products/partyclub-disposable-helium-gas.md
     - 비에스코리아 전동 에어펌프: products/bieskorea-ht196-electric-airpump.md
     - 홈이즈스토리 수달인형: products/homeizstory-otter-doll.md
