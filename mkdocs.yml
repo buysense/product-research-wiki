@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 가쓰오부시: products/yamaki-hana-katsuobushi-150g.md
     - 베베쿡 더 맛있는 빼빼롱뻥: products/bebecook-tasty-longbbung.md
     - 아이워너 안전망 트램폴린 플러스: products/iwannasafe-trampoline-plus.md
     - 혼쯔유 코이다시: products/hontsuyu-koidashi.md
