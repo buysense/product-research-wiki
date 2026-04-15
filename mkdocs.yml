@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/아이워너-안전망-트램폴린-플러스.md': 'products/iwannasafe-trampoline-plus.md'
         'products/혼쯔유-코이다시.md': 'products/hontsuyu-koidashi.md'
         'products/그라노로-쿠스쿠스.md': 'products/granoro-couscous.md'
         'products/폴렝기-레이지-레몬주스.md': 'products/polenghi-lazy-lemon-juice.md'
@@ -99,6 +100,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 아이워너 안전망 트램폴린 플러스: products/iwannasafe-trampoline-plus.md
     - 혼쯔유 코이다시: products/hontsuyu-koidashi.md
     - 그라노로 쿠스쿠스: products/granoro-couscous.md
     - 폴렝기 레이지 레몬주스: products/polenghi-lazy-lemon-juice.md
