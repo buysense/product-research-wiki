@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 베이비뵨 이유식 턱받이 (2종 세트): products/babybjorn-baby-bib-2set.md
     - 올더히어 허리 스트레칭: products/allthere-spinecorrector-stretching.md
     - 헤파리제 W (숙취 해소제): products/heparize-w-hangover-remedy.md
     - 기꼬만 시보리타테 (생 간장): products/kikkoman-shiboritate-fresh-soy-sauce.md
