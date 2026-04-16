@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 헤파리제 W (숙취 해소제): products/heparize-w-hangover-remedy.md
     - 기꼬만 시보리타테 (생 간장): products/kikkoman-shiboritate-fresh-soy-sauce.md
     - 히가시마루 카키다시 (일본 굴 간장): products/higashimaru-kakidashi-oyster-soy-sauce.md
     - 가쓰오부시: products/yamaki-hana-katsuobushi-150g.md
