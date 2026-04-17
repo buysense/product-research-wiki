@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - iSDG 마라탕 컵라면: products/isdg-maratang-cup-ramen.md
     - 시가야 전통발효 낫또: products/shigaya-traditional-fermented-natto.md
     - 아이배냇 유기농 쌀떡뻥: products/aibenaet-organic-rice-cracker.md
     - 베이비뵨 이유식 턱받이 (2종 세트): products/babybjorn-baby-bib-2set.md
