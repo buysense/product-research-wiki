@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 메이지 프로비요 요거트 (R-1 드링크): products/meiji-probio-yogurt-r1-drink.md
     - iSDG 마라탕 컵라면: products/isdg-maratang-cup-ramen.md
     - 시가야 전통발효 낫또: products/shigaya-traditional-fermented-natto.md
     - 아이배냇 유기농 쌀떡뻥: products/aibenaet-organic-rice-cracker.md
