@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 나마 키리모찌: products/nama-kirimochi-rice-cake.md
     - 메이토 나메라카 푸딩 밀크: products/meito-nameraka-pudding-milk.md
     - 야끼소바-ufo: products/nissin-yakisoba-ufo-oomori.md
     - 메이지 프로비요 요거트 (R-1 드링크): products/meiji-probio-yogurt-r1-drink.md
