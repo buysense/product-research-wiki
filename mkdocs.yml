@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 애리조 태닝 크림: products/arizo-tanning-cream.md
     - 나마 키리모찌: products/nama-kirimochi-rice-cake.md
     - 메이토 나메라카 푸딩 밀크: products/meito-nameraka-pudding-milk.md
     - 야끼소바-ufo: products/nissin-yakisoba-ufo-oomori.md
