@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 라임키친 무타공 슬라이딩 선반: products/limekitchen-no-drill-sliding-shelf.md
     - 리템 우산꽂이 자석형: products/ritem-magnetic-umbrella-holder.md
     - 리카틸 멕세이프 거치대: products/ricatil-magsafe-mount.md
     - 오리지니크 자동 디스펜서: products/originique-auto-dispenser-hygiene-stainless.md
