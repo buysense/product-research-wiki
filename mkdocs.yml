@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 시트몰이 단색 시트지: products/sheetmoli-solid-color-sheet.md
     - 어반홈 철제 2층 벙커 침대 프레임: products/urbanhome-steel-bunk-bed-frame.md
     - 두닷 책선반: products/dudat-bookshelf-milano-1500.md
     - 도르리 셰이커박스: products/doruri-shaker-box-storage-interior.md
