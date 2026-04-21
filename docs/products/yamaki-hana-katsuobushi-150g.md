@@ -9,25 +9,24 @@ description: 야마끼 하나 가쓰오부시 150g은 진한 감칠맛과 훈연
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "가쓰오부시",
-  "url": "https://link.coupang.com/a/epAZW1",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/11/9/3/ae23ea95-c997-4be8-a929-4b5a74f26bf9.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/pje5uxbr/76469244089d497d9a574fa2d401a69a.jpg"
   ],
   "offers": {
     "@type": "Offer",
-    "price": 9980,
     "priceCurrency": "KRW",
-    "availability": "https://schema.org/InStock",
+    "price": "9980",
     "url": "https://link.coupang.com/a/epAZW1",
+    "availability": "https://schema.org/InStock",
     "priceValidUntil": "2026-04-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "4.7",
+    "ratingValue": 4.7,
     "reviewCount": 709,
-    "bestRating": "5",
-    "worstRating": "1"
+    "bestRating": 5,
+    "worstRating": 1
   }
 }
 </script>

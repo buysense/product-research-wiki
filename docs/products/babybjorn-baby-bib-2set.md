@@ -9,25 +9,25 @@ description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "베이비뵨 이유식 턱받이 (2종 세트)",
-  "url": "https://link.coupang.com/a/eqhPpZ",
+  "description": "베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작하는 아기부터 유아까지 성장에 맞춰 사용할 수 있는 BPA 프리 소재의 턱받이입니다. 넓고 깊은 포켓으로 음식물 흘림을 방지하며, 간편한 세척으로 육아의 번거로움을 줄여줍니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/e15c3024c18bc395a0ef4ed2118883216696f4404239d82cf75ad7d6551a_1776245286232.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a284/17282c6c79e43b801e779490ff88285024e2ef52cb1f34579811f6a42abc.jpg"
   ],
   "offers": {
     "@type": "Offer",
-    "price": 26400,
     "priceCurrency": "KRW",
-    "availability": "https://schema.org/InStock",
+    "price": "26400",
     "url": "https://link.coupang.com/a/eqhPpZ",
+    "availability": "https://schema.org/InStock",
     "priceValidUntil": "2026-04-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "4.8",
+    "ratingValue": 4.8,
     "reviewCount": 2228,
-    "bestRating": "5",
-    "worstRating": "1"
+    "bestRating": 5,
+    "worstRating": 1
   }
 }
 </script>

@@ -17,12 +17,16 @@ description: 리템 우산꽂이 자석형은 좁은 현관이나 우산 수납 
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "5580",
-    "url": "https://link.coupang.com/a/er1BTM"
+    "url": "https://link.coupang.com/a/er1BTM",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-04-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 16617
+    "reviewCount": 16617,
+    "bestRating": 5,
+    "worstRating": 1
   }
 }
 </script>

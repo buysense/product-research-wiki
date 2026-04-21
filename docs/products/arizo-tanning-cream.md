@@ -9,6 +9,7 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "애리조 태닝 크림",
+  "description": "애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 피부를 연출하고자 할 때 사용되는 제품으로, 밀착력과 지속력이 좋은 것이 특징입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e5db/6c0db3b0c5928350cb52bf6bca21db0507bd44742bce5204832d2d888a4c.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3770/2d99e988b6bb35349b1989a1e90fba1aa285f8486f61dc8e3034d25ed041.png"
@@ -17,12 +18,16 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "27550",
-    "url": "https://link.coupang.com/a/erthFm"
+    "url": "https://link.coupang.com/a/erthFm",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-04-25"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 21
+    "reviewCount": 21,
+    "bestRating": 5,
+    "worstRating": 1
   }
 }
 </script>

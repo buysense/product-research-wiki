@@ -9,6 +9,7 @@ description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "두닷 책선반",
+  "description": "두닷 책선반은 좁은 공간에 많은 책을 효율적으로 수납하며, 인테리어 효과까지 고려하는 사용자를 위한 견고하고 깔끔한 수직형 수납 솔루션입니다. 집 정리 및 서재 꾸미기 시 활용됩니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f3ec/4b71860ae3ba39608fbf67853d59f90f8a3d46a0c1d19360960d7bd638d3.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d867/1d0bb685fea87bdb75e0d83eff9818925c527b6821b7e48f7e0f06cfd623.jpg"
@@ -17,12 +18,16 @@ description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "141000",
-    "url": "https://link.coupang.com/a/er18Ez"
+    "url": "https://link.coupang.com/a/er18Ez",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-04-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 144
+    "reviewCount": 144,
+    "bestRating": 5,
+    "worstRating": 1
   }
 }
 </script>

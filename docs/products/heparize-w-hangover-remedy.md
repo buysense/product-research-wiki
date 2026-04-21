@@ -9,17 +9,17 @@ description: 헤파리제 W는 일본 제리아신약의 숙취 해소 음료로
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "헤파리제 W (숙취 해소제)",
-  "url": "https://link.coupang.com/a/ep9ktF",
+  "description": "헤파리제 W는 일본 제리아신약의 숙취 해소 음료로, 음주 전후 간 건강과 피로 회복을 돕는 제품입니다. 간가수분해물 등 주요 성분을 함유하여 과음 후 컨디션 관리에 도움을 줍니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e557/ef242f883f80d741b5704783d46dde2e67d1a33c5b79713df4d96660e484.jpeg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3493/1aa050597bdbaa78f117763ba8ed38d34ac3d914377aa7ed68f1dd0e39a7.jpeg"
   ],
   "offers": {
     "@type": "Offer",
-    "price": 79900,
     "priceCurrency": "KRW",
-    "availability": "https://schema.org/InStock",
+    "price": "79900",
     "url": "https://link.coupang.com/a/ep9ktF",
+    "availability": "https://schema.org/InStock",
     "priceValidUntil": "2026-04-23"
   }
 }
