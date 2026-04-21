@@ -9,6 +9,7 @@ description: 리템 우산꽂이 자석형은 좁은 현관이나 우산 수납 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "리템 우산꽂이 자석형",
+  "description": "리템 우산꽂이 자석형은 좁은 현관이나 우산 수납 공간 부족 시 철제문에 부착하여 공간을 효율적으로 활용하고 현관을 깔끔하게 정리하는 데 도움을 주는 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/839808912038422-bf1086f4-f4d9-46c4-a2ad-316f69292af0.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2018/11/23/3639088696/6c1f0f51-94d9-4352-9e2e-86ad8e4aafc7.jpg"
