@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 잔스포츠 아가베: products/jansport-agave-backpack.md
     - 해피데이 3단 런던 캠핑매트: products/happyday-3fold-london-camping-mat.md
     - 이고다 오닉스 핸드 괄사 마사지기: products/igoda-onyx-gua-sha-massager.md
     - 시트몰이 단색 시트지: products/sheetmoli-solid-color-sheet.md
