@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 호미펫 움직이는 춤추는 오징어장난감: products/homipet-dancing-squid-toy.md
     - 유시몰 화이트닝 플렉스펌 칫솔 화이트: products/euthymol-whitening-flexfirm-toothbrush-white.md
     - 농심 짜짜로니: products/nongshim-jjajaroni-ramen.md
     - 최인선 양념 순살 꽃게장: products/choiinsun-seasoned-boneless-crab.md
