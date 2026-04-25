@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 토키즈 어린이 유치원버스: products/tokiz-kids-kindergarten-bus.md
     - 이금기 중화 두반장: products/lee-kum-kee-doubanjiang.md
     - 팔도비빔면 20개입: products/paldo-bibim-myeon-20-pack.md
     - 엄브로 브리즈 투웨이 샤코슈: products/umbro-breeze-two-way-sacoche.md
