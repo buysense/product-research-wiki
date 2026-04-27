@@ -46,7 +46,7 @@ description: 스키피 수퍼 청크 피넛 버터는 큼직한 땅콩 알갱이
 스키피 수퍼 청크 피넛 버터는 큼직한 땅콩 알갱이가 풍부하게 들어있어 씹는 재미와 고소한 풍미를 동시에 느낄 수 있는 땅콩 버터입니다. 아침 식사 토스트에 바르거나, 간편하게 즐기는 고단백 간식, 바쁜 일상 중 에너지 보충을 위한 식사 대용 등 다양한 상황에서 활용됩니다. 땅콩 본연의 깊은 맛과 적당한 단짠의 조화로 질리지 않고 꾸준히 소비되는 제품입니다.
 
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
-  <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4ad4/c4d11cb96b1421a8da55fc881d28116a54dafbd98c3b30f0ac5d39b993df.jpg" alt="스키피 수퍼 청크 피넛ㅍ" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4ad4/c4d11cb96b1421a8da55fc881d28116a54dafbd98c3b30f0ac5d39b993df.jpg" alt="스키피 수퍼 청크 피넛버터" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 ## 기본 정보
