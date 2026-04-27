@@ -101,6 +101,10 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 공 벽등 6인치: products/ball-wall-lamp-6inch.md
+    - 토스티토스 미디움 살사소스: products/tostitos-medium-salsa-sauce.md
+    - 비비고 사골곰탕: products/bibigo-sagolgomtang.md
+    - 바릴라 엔젤헤어: products/barilla-angel-hair-pasta.md
     - 시벅스 지퍼형 레고 정리함 1.5m: products/sebox-zipper-lego-organizer-1-5m.md
     - 레고(LEGO) 창의력 쑥쑥 브릭 박스 11038: products/lego-creative-bricks-11038.md
     - 매직캐슬 토끼 손인형: products/magic-castle-rabbit-hand-puppet.md
@@ -267,11 +271,3 @@ nav:
   - 카테고리별 비교:
     - 백팩 비교: categories/백팩.md
     - 공기청정기 비교: categories/공기청정기.md
-  - 상품 리뷰:
-    - 바릴라 엔젤헤어: products/barilla-angel-hair-pasta.md
-  - 상품 리뷰:
-    - 비비고 사골곰탕: products/bibigo-sagolgomtang.md
-  - 상품 리뷰:
-    - 토스티토스 미디움 살사소스: products/tostitos-medium-salsa-sauce.md
-  - 상품 리뷰:
-    - 공 벽등 6인치: products/ball-wall-lamp-6inch.md
