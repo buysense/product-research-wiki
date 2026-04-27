@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 시벅스 지퍼형 레고 정리함 1.5m: products/sebox-zipper-lego-organizer-1-5m.md
     - 레고(LEGO) 창의력 쑥쑥 브릭 박스 11038: products/lego-creative-bricks-11038.md
     - 매직캐슬 토끼 손인형: products/magic-castle-rabbit-hand-puppet.md
     - 동원 핑거크랩스: products/dongwon-fingercrabs-snack.md
