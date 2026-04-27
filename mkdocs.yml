@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 매직캐슬 토끼 손인형: products/magic-castle-rabbit-hand-puppet.md
     - 동원 핑거크랩스: products/dongwon-fingercrabs-snack.md
     - 스키피 수퍼 청크 피넛ㅍ: products/skippy-super-chunk-peanut-butter.md
     - 네이쳐러브메레 유아용 ABC 비행기 흡착식판: products/naturelovemere-abc-airplane-suction-plate.md
