@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 잔스포츠 슈퍼브레이크 원: products/jansport-superbreak-one-backpack.md
     - 공 벽등 6인치: products/ball-wall-lamp-6inch.md
     - 토스티토스 미디움 살사소스: products/tostitos-medium-salsa-sauce.md
     - 비비고 사골곰탕: products/bibigo-sagolgomtang.md
