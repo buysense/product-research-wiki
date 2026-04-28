@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 휠라 뉴엔트리 백: products/fila-newentry-bag.md
     - 초록매실 제로: products/chorokmaesil-zero-beverage.md
     - 초록매실 1.5L: products/woongjin-chorooc-maesil-15l-zero-drink.md
     - 동원에프앤비 비엔나소시지: products/dongwon-fnb-vienna-sausage.md
