@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 커버낫 뉴 어센틱: products/covernat-new-authentic-backpack.md
     - 마이크로킥보드 맥시T 디럭스 LED: products/micro-kickboard-maxi-t-deluxe-led.md
     - 잔스포츠 빅스튜던트: products/jansport-big-student-backpack.md
     - 엘도라16 어린이자전거: products/eldora16-kids-bicycle.md
