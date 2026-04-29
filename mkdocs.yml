@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 스타벅스 드립백: products/starbucks-drip-bag-coffee-varietyset.md
     - 테라로사 드립백커피: products/terarosa-dripbag-coffee.md
     - 르시랑스 드립백커피: products/lesilence-drip-bag-coffee-variety-set.md
     - 뉴발란스 스트링 백팩: products/newbalance-string-backpack.md
