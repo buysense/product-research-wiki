@@ -20,12 +20,12 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
     "price": "27550",
     "url": "https://link.coupang.com/a/erthFm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-05"
+    "priceValidUntil": "2026-05-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.7,
-    "reviewCount": 22,
+    "ratingValue": 4.8,
+    "reviewCount": 23,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -37,7 +37,7 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 27,550원 · 별점 4.7 · 리뷰 22개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 27,550원 · 별점 4.8 · 리뷰 23개</span>
     <a href="https://link.coupang.com/a/erthFm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -99,12 +99,16 @@ A. 제형이 묽어 건조가 빠르므로 얼룩 없이 균일한 발색을 위
 A. 휴가철, 특별한 이벤트 참여, 혹은 평소 건강하고 섹시한 구릿빛 피부 톤을 선호하는 분들이 특정 분위기를 연출하고 싶을 때 사용하기 적합합니다.
 ---
 ## 참고한 글
+*   [[애리조 태닝 메이크업] 70g... 태닝 크림 솔직후기](https://blog.naver.com/relaxad/224219254347)
+*   [애리조 태닝 메이크업으로 완성한 건강한 글로우✨](https://blog.naver.com/pgt21c/223833694025)
+*   [베스트 10  탠트루 바나나보트 클라랑스 로레알파리 애리조 태닝](https://blog.naver.com/hapbbissong/223657176862)
+*   [셀럽 인기 애리조 태닝 메이크업 신상품 총정리| 2호 토파즈...](https://blog.naver.com/turur3457632/223562039804)
 
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 27,550원 · 별점 4.7 · 리뷰 22개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 27,550원 · 별점 4.8 · 리뷰 23개</span>
     <a href="https://link.coupang.com/a/erthFm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
