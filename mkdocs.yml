@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 토도리브로 원목교구 한글 판퍼즐: products/todolibro-wooden-hangul-puzzle.md
     - 아이재미 한글 수학 각 10권 세트: products/iaijami-hangeul-math-10book-set.md
     - 타이거 한글홈스쿨 만2~4세 10권세트: products/tiger-hangeul-homeschool-2-4y-set.md
     - 자개 병풍 용돈봉투: products/jage-byeongpung-yongdon-bongtu.md
