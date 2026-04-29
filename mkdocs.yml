@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 하루 10분 엄마표 한글 놀이: products/haru-10bun-eommabyo-hangul-nori.md
     - 기적의 한글 학습 1~5 세트: products/gijeok-hangul-hakseup-set.md
     - 프린세스 캐치티니핑 한글카드: products/princess-catch-teenieping-hangeul-card.md
     - 아리아띠 자석글자 한글, 1개, 132피스: products/ariatti-magnet-korean-letters-132pcs.md
