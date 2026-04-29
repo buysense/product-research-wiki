@@ -17,15 +17,15 @@ description: 잔스포츠 슈퍼브레이크 원 백팩은 가벼운 무게, 심
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "43180",
+    "price": "40000",
     "url": "https://link.coupang.com/a/exUnPe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-05"
+    "priceValidUntil": "2026-05-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 82,
+    "reviewCount": 85,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -37,7 +37,7 @@ description: 잔스포츠 슈퍼브레이크 원 백팩은 가벼운 무게, 심
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 43,180원 · 별점 4.5 · 리뷰 82개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 40,000원 · 별점 4.5 · 리뷰 85개</span>
     <a href="https://link.coupang.com/a/exUnPe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -112,11 +112,17 @@ Q. 내부 수납 공간은 어떻게 구성되어 있나요?
 A. 메인 수납 공간 1개와 전면에 지퍼 처리된 보조 포켓 1개로 구성되어 있습니다. 내부 분할이 없어 소지품을 깔끔하게 정리하기 위해서는 별도의 파우치를 활용하는 것이 편리합니다.
 
 ## 참고한 글
+*   [선물용 잔스포츠 라이트팩 미니 백팩 가벼운 데일리 4L 직장인...](https://blog.naver.com/zgawug007/224269225575)
+*   [루시드 에어 vs 테슬라 모델S 전기 세단 비교: ‘싸 보이는’...](https://blog.naver.com/ppdkdk/224269065388)
+*   [“돈이 있을 곳”을 선점하는 쿠팡·파트너스 자수성가 시스템...](https://blog.naver.com/mailer-/224268708688)
+*   [잔스포츠 백팩 슈퍼브레이크 플러스 리뷰: 학교와 노트북...](https://blog.naver.com/her_green/224267615375)
+*   [Kyo야 락페에서 회 먹어봤니? (2026 서울 히어로 락 페스티벌...](https://blog.naver.com/oollng/224268612257)
+
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 43,180원 · 별점 4.5 · 리뷰 82개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 40,000원 · 별점 4.5 · 리뷰 85개</span>
     <a href="https://link.coupang.com/a/exUnPe" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
