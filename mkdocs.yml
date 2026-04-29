@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 서프라이즈 용돈 박스 돈티슈 플라워: products/surprise-money-tissue-flower-box.md
     - 카네이션 용돈박스: products/carnation-money-box.md
     - 휠라 뉴엔트리 백: products/fila-newentry-bag.md
     - 초록매실 제로: products/chorokmaesil-zero-beverage.md
