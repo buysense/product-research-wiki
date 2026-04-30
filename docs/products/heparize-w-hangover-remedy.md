@@ -20,7 +20,7 @@ description: 헤파리제 W는 일본 제리아신약의 숙취 해소 음료로
     "price": "79900",
     "url": "https://link.coupang.com/a/ep9ktF",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-05"
+    "priceValidUntil": "2026-05-07"
   }
 }
 </script>
