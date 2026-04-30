@@ -20,7 +20,7 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
     "price": "27550",
     "url": "https://link.coupang.com/a/erthFm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-06"
+    "priceValidUntil": "2026-05-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -34,6 +34,18 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-18 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+## 구매 타이밍
+
+| 구분 | 가격 |
+|------|------|
+| 현재가 | 27,550원 |
+| 60일 최저가 | 27,550원 |
+| 60일 평균가 | 27,550원 |
+| 60일 최고가 | 27,550원 |
+
+현재 가격은 60일 최저가 수준입니다.
+
+
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
