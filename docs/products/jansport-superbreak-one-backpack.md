@@ -20,7 +20,7 @@ description: 잔스포츠 슈퍼브레이크 원 백팩은 가벼운 무게, 심
     "price": "40000",
     "url": "https://link.coupang.com/a/exUnPe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-06"
+    "priceValidUntil": "2026-05-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
