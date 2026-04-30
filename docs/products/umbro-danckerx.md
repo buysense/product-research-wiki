@@ -20,7 +20,7 @@ description: 엄브로 댄커X는 일상적인 활동이나 가벼운 운동 시
     "price": "164000",
     "url": "https://link.coupang.com/a/evrbdC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-01"
+    "priceValidUntil": "2026-05-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
