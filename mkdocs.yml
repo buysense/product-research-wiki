@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 애플워치 SE3: products/apple-watch-se3-smartwatch-info.md
     - 삼성전자 갤럭시 핏3: products/samsung-galaxy-fit3.md
     - 대구농산 국산 혼합 17곡: products/daegunongsan-korean-mixed-17-grains.md
     - 덴라이프 스탠딩지퍼백: products/denlife-standing-ziploc-bag.md
