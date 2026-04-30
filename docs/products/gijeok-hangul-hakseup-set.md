@@ -19,7 +19,7 @@ description: 기적의 한글 학습 1~5 세트는 유아 및 초등 입학 전 
     "price": "49500",
     "url": "https://link.coupang.com/a/eyNfU9",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-06"
+    "priceValidUntil": "2026-05-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
