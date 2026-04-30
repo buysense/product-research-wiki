@@ -20,7 +20,7 @@ description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 
     "price": "141000",
     "url": "https://link.coupang.com/a/er18Ez",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-05"
+    "priceValidUntil": "2026-05-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
