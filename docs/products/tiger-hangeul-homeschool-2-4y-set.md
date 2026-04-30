@@ -20,7 +20,7 @@ description: 타이거 한글홈스쿨 만2~4세 10권세트는 가정에서 만
     "price": "24000",
     "url": "https://link.coupang.com/a/eyFgd9",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-06"
+    "priceValidUntil": "2026-05-07"
   }
 }
 </script>
