@@ -20,7 +20,7 @@ description: 양재중 어란은 국내산 숭어로 만든 어란으로, 부모
     "price": "56500",
     "url": "https://link.coupang.com/a/ewSzKz",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-03"
+    "priceValidUntil": "2026-05-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
