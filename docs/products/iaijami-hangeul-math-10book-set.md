@@ -20,7 +20,7 @@ description: 아이재미 한글 수학 각 10권 세트는 3~7세 아이들이 
     "price": "15900",
     "url": "https://link.coupang.com/a/eyFkSU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-06"
+    "priceValidUntil": "2026-05-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
