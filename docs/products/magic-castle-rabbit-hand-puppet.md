@@ -17,15 +17,15 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "12040",
+    "price": "11910",
     "url": "https://link.coupang.com/a/exnwQU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-04"
+    "priceValidUntil": "2026-05-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 122,
+    "reviewCount": 123,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -37,7 +37,7 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,040원 · 별점 4.5 · 리뷰 122개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,910원 · 별점 4.5 · 리뷰 123개</span>
     <a href="https://link.coupang.com/a/exnwQU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -110,7 +110,7 @@ A. 기본적인 인형극 놀이에는 적합하지만, 입 부분이 다소 약
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,040원 · 별점 4.5 · 리뷰 122개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,910원 · 별점 4.5 · 리뷰 123개</span>
     <a href="https://link.coupang.com/a/exnwQU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
