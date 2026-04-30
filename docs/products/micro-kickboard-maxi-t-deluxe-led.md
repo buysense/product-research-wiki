@@ -20,7 +20,7 @@ description: 마이크로킥보드 맥시T 디럭스 LED는 5세부터 초등학
     "price": "245410",
     "url": "https://link.coupang.com/a/exVl6H",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-05"
+    "priceValidUntil": "2026-05-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
