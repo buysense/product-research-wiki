@@ -34,17 +34,6 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-18 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-## 구매 타이밍
-
-| 구분 | 가격 |
-|------|------|
-| 현재가 | 27,550원 |
-| 60일 최저가 | 27,550원 |
-| 60일 평균가 | 27,550원 |
-| 60일 최고가 | 27,550원 |
-
-현재 가격은 60일 최저가 수준입니다.
-
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -53,6 +42,33 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
     <a href="https://link.coupang.com/a/erthFm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">27,700</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">27,600</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">27,500</text>
+
+    <path d="M 68 140 L 241 140 L 415 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 241 140 L 415 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">27,550원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
+
 
 ## 상품 개요
 애리조 태닝 크림은 건강하고 매력적인 구릿빛 피부, 특히 라틴 스타일에 가까운 태닝 효과를 연출하고자 할 때 사용되는 제품입니다. 밀착력과 지속력이 우수하며, 묽은 제형으로 발림성이 좋으나 빠른 시간 내에 균일하게 펴 바르는 것이 중요합니다. 이 제품은 쿠팡에서 평점 4.7/5.0(리뷰 21개 기준)을 기록하고 있습니다. 출시연도는 미공개입니다.

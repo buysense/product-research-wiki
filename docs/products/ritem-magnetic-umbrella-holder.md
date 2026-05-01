@@ -34,17 +34,6 @@ description: 리템 우산꽂이 자석형은 좁은 현관이나 우산 수납 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-19 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-## 구매 타이밍
-
-| 구분 | 가격 |
-|------|------|
-| 현재가 | 5,730원 |
-| 60일 최저가 | 5,580원 |
-| 60일 평균가 | 5,677원 |
-| 60일 최고가 | 5,730원 |
-
-현재 가격은 60일 최저가 수준입니다.
-
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -53,6 +42,30 @@ description: 리템 우산꽂이 자석형은 좁은 현관이나 우산 수납 
     <a href="https://link.coupang.com/a/er1BTM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">5,700</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,600</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,500</text>
+
+    <path d="M 68 117 L 328 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 117 L 328 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,730원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 리템 우산꽂이 자석형은 좁은 현관이나 우산 보관 공간이 마땅치 않은 상황에서 철제 현관문 등의 금속면에 부착하여 우산을 깔끔하게 정리할 수 있는 제품입니다. 강력한 자력으로 손쉬운 설치와 이동이 가능하며, 바닥 공간을 차지하지 않아 효율적인 공간 활용을 돕습니다. 젖은 우산으로 인한 현관 바닥 오염을 줄여주는 실용적인 디자인이 특징입니다. 출시연도는 미공개입니다.

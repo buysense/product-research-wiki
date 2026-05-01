@@ -37,17 +37,6 @@ description: 농심 짜짜로니는 진한 액상 춘장 소스와 쫄깃한 면
 ## 참고한 글
 
 
-## 구매 타이밍
-
-| 구분 | 가격 |
-|------|------|
-| 현재가 | 4,030원 |
-| 60일 최저가 | 4,030원 |
-| 60일 평균가 | 4,030원 |
-| 60일 최고가 | 4,030원 |
-
-현재 가격은 60일 최저가 수준입니다.
-
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -56,6 +45,30 @@ description: 농심 짜짜로니는 진한 액상 춘장 소스와 쫄깃한 면
     <a href="https://link.coupang.com/a/et51rA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">4,100</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">3,900</text>
+
+    <path d="M 68 79 L 328 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 328 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="79" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,030원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 농심 짜짜로니 140g은 진한 볶음 춘장 기반의 액상 소스와 쫄깃하고 통통한 면발이 특징인 짜장라면입니다. 1996년에 출시되어 오랜 기간 사랑받고 있으며, 집에서 간편하게 정통 중화요리 짜장의 풍미를 즐기고 싶을 때, 혹은 든든하고 만족스러운 한 끼 식사를 준비할 때 적합합니다.

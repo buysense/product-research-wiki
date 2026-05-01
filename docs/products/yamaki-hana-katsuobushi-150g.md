@@ -34,17 +34,6 @@ description: 야마끼 하나 가쓰오부시 150g은 진한 감칠맛과 훈연
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-## 구매 타이밍
-
-| 구분 | 가격 |
-|------|------|
-| 현재가 | 8,980원 |
-| 60일 최저가 | 8,980원 |
-| 60일 평균가 | 9,313원 |
-| 60일 최고가 | 9,980원 |
-
-현재 가격은 60일 최저가 수준입니다.
-
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -53,6 +42,30 @@ description: 야마끼 하나 가쓰오부시 150g은 진한 감칠맛과 훈연
     <a href="https://link.coupang.com/a/epAZW1" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">9,500</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,500</text>
+
+    <path d="M 68 26 L 328 105 L 588 105 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 328 105 L 588 105" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="105" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="93" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,980원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 야마끼 하나 가쓰오부시 150g은 깊고 진한 훈연 풍미와 감칠맛을 특징으로 하는 가다랑어 포 제품입니다. 가정에서 타코야키, 오코노미야키, 우동 등 일식 요리의 토핑으로 시각적인 즐거움과 맛을 더하거나, 국물 요리의 깊은 육수를 내는 데 활용됩니다. 얇고 꽃잎처럼 썰린 '하나(花)' 타입으로 다양한 요리에 간편하게 사용할 수 있어 집에서 전문점 수준의 맛을 내고자 할 때 적합합니다.

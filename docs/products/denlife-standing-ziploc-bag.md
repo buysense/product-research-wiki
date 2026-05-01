@@ -43,7 +43,7 @@ description: 덴라이프 스탠딩지퍼백은 식재료 보관, 소분, 밀봉
     <a href="https://link.coupang.com/a/ey1ghL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
-
+<!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
@@ -53,18 +53,21 @@ description: 덴라이프 스탠딩지퍼백은 식재료 보관, 소분, 밀봉
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,300</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,200</text>
 
-    <path d="M 68 102 L 333 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 333 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="333" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 110 L 328 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 328 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,290원</text>
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,290원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="333" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
   </svg>
 </div>
+<!-- PRICE_CHART_END -->
+
+
 
 ## 상품 개요
 덴라이프 스탠딩지퍼백은 식재료를 신선하게 보관하거나 소분하여 정리할 때 유용한 제품입니다. 냉장고, 냉동실 보관뿐만 아니라 캠핑이나 야외 활동 시 음식물 및 생활용품을 위생적으로 휴대하고 싶을 때 주로 소비됩니다. 투명한 디자인과 하단 스탠딩 구조로 내용물 확인 및 보관이 용이하며, 밀봉력을 강조한 디자인이 특징입니다.

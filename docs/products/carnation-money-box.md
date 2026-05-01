@@ -33,17 +33,6 @@ description: 카네이션 용돈박스는 부모님 생신, 어버이날 등 특
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-## 구매 타이밍
-
-| 구분 | 가격 |
-|------|------|
-| 현재가 | 22,460원 |
-| 60일 최저가 | 22,460원 |
-| 60일 평균가 | 22,460원 |
-| 60일 최고가 | 22,460원 |
-
-현재 가격은 60일 최저가 수준입니다.
-
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -52,6 +41,30 @@ description: 카네이션 용돈박스는 부모님 생신, 어버이날 등 특
     <a href="https://link.coupang.com/a/eyDKmR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">22,600</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">22,400</text>
+
+    <path d="M 68 132 L 328 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 328 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,460원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 카네이션 용돈박스는 부모님, 시어머니의 생신, 환갑, 칠순, 어버이날 등 특별한 날에 현금을 이색적으로 선물하고자 할 때 활용되는 이벤트용 제품입니다. 비누꽃과 조화로 구성된 꽃 장식과 함께 돈을 뽑아 올리는 재미를 선사하며, 카드, 투명 비닐, 조명, 쇼핑백 등 풍성한 구성품으로 완성도를 높일 수 있습니다.
