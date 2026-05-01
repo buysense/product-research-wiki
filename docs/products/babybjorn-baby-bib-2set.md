@@ -20,7 +20,7 @@ description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작
     "price": "42200",
     "url": "https://link.coupang.com/a/eqhPpZ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-07"
+    "priceValidUntil": "2026-05-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -48,7 +48,7 @@ description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작
 |------|------|
 | 현재가 | 42,200원 |
 | 60일 최저가 | 25,100원 |
-| 60일 평균가 | 36,500원 |
+| 60일 평균가 | 37,925원 |
 | 60일 최고가 | 42,200원 |
 
 현재 가격은 60일 최고가 수준입니다. 잠시 대기가 유리할 수 있습니다.
