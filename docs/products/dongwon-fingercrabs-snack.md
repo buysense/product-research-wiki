@@ -20,12 +20,12 @@ description: 동원 핑거크랩스는 한입 크기로 즐길 수 있는 게맛
     "price": "1370",
     "url": "https://link.coupang.com/a/ewUBfl",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-07"
+    "priceValidUntil": "2026-05-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 10848,
+    "reviewCount": 10855,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,10 +34,22 @@ description: 동원 핑거크랩스는 한입 크기로 즐길 수 있는 게맛
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-26 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+## 구매 타이밍
+
+| 구분 | 가격 |
+|------|------|
+| 현재가 | 1,370원 |
+| 60일 최저가 | 1,090원 |
+| 60일 평균가 | 1,277원 |
+| 60일 최고가 | 1,370원 |
+
+현재 가격은 60일 최고가 수준입니다. 잠시 대기가 유리할 수 있습니다.
+
+
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,370원 · 별점 4.6 · 리뷰 10,848개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,370원 · 별점 4.6 · 리뷰 10,855개</span>
     <a href="https://link.coupang.com/a/ewUBfl" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -121,7 +133,7 @@ A. 그냥 먹어도 맛있지만, 마요네즈나 와사비 소스에 찍어 먹
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,370원 · 별점 4.6 · 리뷰 10,848개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,370원 · 별점 4.6 · 리뷰 10,855개</span>
     <a href="https://link.coupang.com/a/ewUBfl" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
