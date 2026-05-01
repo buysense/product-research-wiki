@@ -20,12 +20,12 @@ description: 야마끼 하나 가쓰오부시 150g은 진한 감칠맛과 훈연
     "price": "8980",
     "url": "https://link.coupang.com/a/epAZW1",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-07"
+    "priceValidUntil": "2026-05-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 734,
+    "reviewCount": 736,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,10 +34,22 @@ description: 야마끼 하나 가쓰오부시 150g은 진한 감칠맛과 훈연
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+## 구매 타이밍
+
+| 구분 | 가격 |
+|------|------|
+| 현재가 | 8,980원 |
+| 60일 최저가 | 8,980원 |
+| 60일 평균가 | 9,313원 |
+| 60일 최고가 | 9,980원 |
+
+현재 가격은 60일 최저가 수준입니다.
+
+
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,980원 · 별점 4.7 · 리뷰 734개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,980원 · 별점 4.7 · 리뷰 736개</span>
     <a href="https://link.coupang.com/a/epAZW1" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -107,7 +119,7 @@ A. 개봉 후에는 제품의 신선도와 풍미 유지를 위해 반드시 지
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,980원 · 별점 4.7 · 리뷰 734개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,980원 · 별점 4.7 · 리뷰 736개</span>
     <a href="https://link.coupang.com/a/epAZW1" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
