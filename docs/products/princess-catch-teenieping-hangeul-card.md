@@ -19,7 +19,7 @@ description: 프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를
     "price": "12390",
     "url": "https://link.coupang.com/a/eyMWue",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-07"
+    "priceValidUntil": "2026-05-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -33,6 +33,18 @@ description: 프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+## 구매 타이밍
+
+| 구분 | 가격 |
+|------|------|
+| 현재가 | 12,390원 |
+| 60일 최저가 | 12,390원 |
+| 60일 평균가 | 12,390원 |
+| 60일 최고가 | 12,390원 |
+
+현재 가격은 60일 최저가 수준입니다.
+
+
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
