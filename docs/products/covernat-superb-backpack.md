@@ -20,7 +20,7 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
     "price": "59560",
     "url": "https://link.coupang.com/a/exWdfA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-07"
+    "priceValidUntil": "2026-05-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -34,6 +34,18 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-28 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+## 구매 타이밍
+
+| 구분 | 가격 |
+|------|------|
+| 현재가 | 59,560원 |
+| 60일 최저가 | 59,560원 |
+| 60일 평균가 | 60,177원 |
+| 60일 최고가 | 61,410원 |
+
+현재 가격은 60일 최저가 수준입니다.
+
+
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
