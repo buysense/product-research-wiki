@@ -20,7 +20,7 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
     "price": "27550",
     "url": "https://link.coupang.com/a/erthFm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-07"
+    "priceValidUntil": "2026-05-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
