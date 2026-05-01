@@ -20,7 +20,7 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
     "price": "22500",
     "url": "https://link.coupang.com/a/evtA6l",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-07"
+    "priceValidUntil": "2026-05-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -35,6 +35,18 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
   📅 작성일: 2026-04-24 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
 ## 참고한 글
+
+
+## 구매 타이밍
+
+| 구분 | 가격 |
+|------|------|
+| 현재가 | 22,500원 |
+| 60일 최저가 | 12,510원 |
+| 60일 평균가 | 19,170원 |
+| 60일 최고가 | 22,500원 |
+
+현재 가격은 60일 최고가 수준입니다. 잠시 대기가 유리할 수 있습니다.
 
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
