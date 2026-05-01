@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 삼호어묵 바른사각: products/samho-eomuk-barun-sagak-fish-cake.md
     - 조스라운지 잠옷: products/joslounge-pajamas-buy.md
     - 애경 울샴푸 다운워시: products/aekyung-woolshampoo-downwash.md
     - 다빈치 코드: products/davinci-code-boardgame.md
