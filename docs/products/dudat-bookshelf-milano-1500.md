@@ -20,7 +20,7 @@ description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 
     "price": "141000",
     "url": "https://link.coupang.com/a/er18Ez",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-07"
+    "priceValidUntil": "2026-05-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -35,6 +35,18 @@ description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 
   📅 작성일: 2026-04-19 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
 ## 참고한 글
+
+
+## 구매 타이밍
+
+| 구분 | 가격 |
+|------|------|
+| 현재가 | 141,000원 |
+| 60일 최저가 | 141,000원 |
+| 60일 평균가 | 141,000원 |
+| 60일 최고가 | 141,000원 |
+
+현재 가격은 60일 최저가 수준입니다.
 
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
