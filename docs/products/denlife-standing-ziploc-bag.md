@@ -32,48 +32,8 @@ description: 덴라이프 스탠딩지퍼백은 식재료 보관, 소분, 밀봉
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
-  📅 가격 업데이트 2026-05-01 · 최초작성 2026-04-29
+  📅 작성일: 2026-04-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-<div style="background:linear-gradient(180deg,#fffdfb 0%,#fff7ef 100%); border:1px solid #f2d6bf; border-radius:20px; padding:20px; margin:16px 0 18px;">
-  <div style="font-size:0.82em; letter-spacing:0.08em; text-transform:uppercase; color:#8a6b57; margin-bottom:8px;">구매 타이밍 요약</div>
-  <div style="font-size:1.15em; font-weight:800; color:#166534; line-height:1.45; margin-bottom:14px;">현재 낮은 가격대에 형성돼 있습니다.</div>
-
-  <div style="background:#ffffff; border:1px solid #f0e4d9; border-radius:16px; padding:12px 12px 10px; margin-bottom:14px;">
-    <svg viewBox="0 0 520 150" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-      <line x1="16" y1="24" x2="504" y2="24" stroke="#f3f4f6" stroke-width="1"></line>
-      <line x1="16" y1="75" x2="504" y2="75" stroke="#f3f4f6" stroke-width="1"></line>
-      <line x1="16" y1="126" x2="504" y2="126" stroke="#f3f4f6" stroke-width="1"></line>
-      <path d="M 24 75 L 260 75 L 496 75 L 496 126 L 24 126 Z" fill="rgba(249,115,22,0.10)"></path>
-      <path d="M 24 75 L 260 75 L 496 75" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-      <circle cx="24" cy="75" r="3" fill="#fdba74"></circle>
-      <circle cx="260" cy="75" r="3" fill="#fdba74"></circle>
-      <circle cx="496" cy="75" r="4.5" fill="#ea580c"></circle>
-      <text x="496" y="60" text-anchor="end" font-size="11" font-weight="700" fill="#c2410c">15,290원</text>
-      <text x="24" y="144" text-anchor="start" font-size="10" fill="#94a3b8">04-29</text>
-      <text x="260" y="144" text-anchor="middle" font-size="10" fill="#94a3b8">04-30</text>
-      <text x="496" y="144" text-anchor="end" font-size="10" fill="#94a3b8">05-01</text>
-    </svg>
-  </div>
-
-  <div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:12px;">
-    <div style="flex:1 1 120px; min-width:120px; background:#fff1e8; border:1px solid #f3b287; border-radius:14px; padding:12px 14px;">
-      <div style="font-size:0.75em; color:#7c2d12; margin-bottom:4px;">현재가</div>
-      <div style="font-size:clamp(0.98em, 2vw, 1.05em); font-weight:800; color:#c2410c; white-space:nowrap; word-break:keep-all;">15,290원</div>
-    </div>
-    <div style="flex:1 1 120px; min-width:120px; background:#ffffff; border:1px solid #ece7e2; border-radius:14px; padding:12px 14px;">
-      <div style="font-size:0.75em; color:#64748b; margin-bottom:4px;">최저가</div>
-      <div style="font-size:clamp(0.92em, 1.9vw, 0.98em); font-weight:700; color:#0f172a; white-space:nowrap; word-break:keep-all;">15,290원</div>
-    </div>
-    <div style="flex:1 1 120px; min-width:120px; background:#ffffff; border:1px solid #ece7e2; border-radius:14px; padding:12px 14px;">
-      <div style="font-size:0.75em; color:#64748b; margin-bottom:4px;">평균가</div>
-      <div style="font-size:clamp(0.92em, 1.9vw, 0.98em); font-weight:700; color:#0f172a; white-space:nowrap; word-break:keep-all;">15,290원</div>
-    </div>
-    <div style="flex:1 1 120px; min-width:120px; background:#ffffff; border:1px solid #ece7e2; border-radius:14px; padding:12px 14px;">
-      <div style="font-size:0.75em; color:#64748b; margin-bottom:4px;">최고가</div>
-      <div style="font-size:clamp(0.92em, 1.9vw, 0.98em); font-weight:700; color:#0f172a; white-space:nowrap; word-break:keep-all;">15,290원</div>
-    </div>
-  </div>
-</div>
 
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
@@ -82,6 +42,28 @@ description: 덴라이프 스탠딩지퍼백은 식재료 보관, 소분, 밀봉
     <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,290원 · 별점 4.8 · 리뷰 3,066개</span>
     <a href="https://link.coupang.com/a/ey1ghL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
+</div>
+
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,400</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,300</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,200</text>
+
+    <path d="M 68 102 L 333 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 333 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="333" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,290원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
+    <text x="333" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+  </svg>
 </div>
 
 ## 상품 개요
