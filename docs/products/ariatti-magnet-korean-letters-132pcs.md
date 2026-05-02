@@ -20,7 +20,7 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
     "price": "17890",
     "url": "https://link.coupang.com/a/eyLoSF",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-08"
+    "priceValidUntil": "2026-05-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,19 +52,22 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,900</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">17,800</text>
 
-    <path d="M 68 79 L 328 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 79 L 328 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 79 L 241 110 L 415 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 241 110 L 415 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,890원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 
