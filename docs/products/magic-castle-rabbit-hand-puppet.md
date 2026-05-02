@@ -20,7 +20,7 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
     "price": "11910",
     "url": "https://link.coupang.com/a/exnwQU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-08"
+    "priceValidUntil": "2026-05-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -41,6 +41,30 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
     <a href="https://link.coupang.com/a/exnwQU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">12,100</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,900</text>
+
+    <path d="M 68 72 L 328 170 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 328 170 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="170" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="158" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,910원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 매직캐슬 토끼 손인형은 아이들의 인형극 놀이, 유아기 자녀의 오감 발달 자극, 부모와의 상호작용 및 스토리텔링, 그리고 반려동물과의 놀이 등 다양한 상황에서 활용될 수 있는 토끼 모양의 손인형입니다. 부드러운 털과 귀여운 디자인이 특징이며, 성인과 아이 모두 손을 넣어 쉽게 조작할 수 있도록 설계되었습니다.
