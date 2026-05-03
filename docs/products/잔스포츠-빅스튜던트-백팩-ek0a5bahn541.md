@@ -15,7 +15,7 @@ description: 잔스포츠(JanSport)는 1967년 미국에서 창립된 글로벌 
     "priceCurrency": "KRW",
     "availability": "https://schema.org/InStock",
     "url": "https://link.coupang.com/a/d3IlpA",
-    "priceValidUntil": "2026-05-10"
+    "priceValidUntil": "2026-05-11"
   }
 }
 </script>
