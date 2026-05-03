@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 이클립스 페퍼민트향: products/eclipse-peppermint-mints.md
     - 고수맛 도리토스: products/doritos-coriander-flavor.md
     - 훗카이도 한정 가리비맛 프링글스: products/hokkaido-limited-scallop-pringles.md
     - 삼호어묵 바른사각: products/samho-eomuk-barun-sagak-fish-cake.md
