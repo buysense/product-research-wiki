@@ -20,7 +20,7 @@ description: 메이지 프로비요 요거트 (R-1 드링크)는 R-1 유산균�
     "price": "35940",
     "url": "https://link.coupang.com/a/eqJLf7",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-10"
+    "priceValidUntil": "2026-05-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -55,23 +55,26 @@ description: 메이지 프로비요 요거트 (R-1 드링크)는 R-1 유산균�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,900</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,800</text>
 
-    <path d="M 68 72 L 198 72 L 328 72 L 458 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 198 72 L 328 72 L 458 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 172 72 L 276 72 L 380 72 L 484 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 172 72 L 276 72 L 380 72 L 484 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">35,940원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 
