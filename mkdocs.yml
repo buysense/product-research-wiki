@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 창억떡 호박인절미: products/changeoktteok-hobakinjeolmi-buy.md
     - 샹달프 블로베리잼: products/st-dalfour-blueberry-jam.md
     - 이클립스 페퍼민트향: products/eclipse-peppermint-mints.md
     - 고수맛 도리토스: products/doritos-coriander-flavor.md
