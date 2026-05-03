@@ -17,10 +17,10 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "11910",
+    "price": "11900",
     "url": "https://link.coupang.com/a/exnwQU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-09"
+    "priceValidUntil": "2026-05-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -37,7 +37,7 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,910원 · 별점 4.5 · 리뷰 123개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,900원 · 별점 4.5 · 리뷰 123개</span>
     <a href="https://link.coupang.com/a/exnwQU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -51,19 +51,22 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,900</text>
 
-    <path d="M 68 72 L 328 170 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 328 170 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 241 170 L 415 170 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 241 170 L 415 170 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="170" r="5" fill="#ea580c"></circle>
+    <circle cx="241" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="178" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="158" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,910원</text>
+    <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 ## 상품 개요
@@ -134,7 +137,7 @@ A. 기본적인 인형극 놀이에는 적합하지만, 입 부분이 다소 약
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,910원 · 별점 4.5 · 리뷰 123개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,900원 · 별점 4.5 · 리뷰 123개</span>
     <a href="https://link.coupang.com/a/exnwQU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
