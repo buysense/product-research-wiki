@@ -20,12 +20,12 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
     "price": "1290",
     "url": "https://link.coupang.com/a/eAsRTR",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-09"
+    "priceValidUntil": "2026-05-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 101603,
+    "reviewCount": 101936,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -37,10 +37,34 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,290원 · 별점 4.8 · 리뷰 101,603개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,290원 · 별점 4.8 · 리뷰 101,936개</span>
     <a href="https://link.coupang.com/a/eAsRTR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">1,400</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,300</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,200</text>
+
+    <path d="M 68 110 L 328 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 328 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,290원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 삼호어묵 바른사각은 김밥, 떡볶이, 어묵볶음, 어묵탕 등 다양한 가정 요리에 활용하기 좋은 얇고 쫄깃한 사각 형태의 어묵 제품이다. 40년 전통의 어묵 제조 기술과 2번 튀기는 공법으로 담백하고 고소한 맛, 양념이 잘 배는 식감이 특징이다. 합성착색료, 합성보존료, 아스파탐, 글루코노델타락톤 등 4가지 첨가물을 사용하지 않아 안심하고 먹을 수 있으며, 일상적인 식탁의 메인 반찬이나 간식 재료로 즐겨 소비된다. 출시연도는 미공개이다.
@@ -111,7 +135,7 @@ A. 연육(중국산), 밀가루(밀/미국산, 호주산), 정제소금(국산),
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,290원 · 별점 4.8 · 리뷰 101,603개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,290원 · 별점 4.8 · 리뷰 101,936개</span>
     <a href="https://link.coupang.com/a/eAsRTR" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
