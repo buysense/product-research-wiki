@@ -20,7 +20,7 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
     "price": "27550",
     "url": "https://link.coupang.com/a/erthFm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-09"
+    "priceValidUntil": "2026-05-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,23 +52,26 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">27,600</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">27,500</text>
 
-    <path d="M 68 140 L 198 140 L 328 140 L 458 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 198 140 L 328 140 L 458 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 140 L 172 140 L 276 140 L 380 140 L 484 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 172 140 L 276 140 L 380 140 L 484 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">27,550원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 
