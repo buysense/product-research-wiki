@@ -20,7 +20,7 @@ description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 
     "price": "141000",
     "url": "https://link.coupang.com/a/er18Ez",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-11"
+    "priceValidUntil": "2026-05-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -38,13 +38,6 @@ description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 
 
 
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 141,000원 · 별점 4.8 · 리뷰 147개</span>
-    <a href="https://link.coupang.com/a/er18Ez" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -55,25 +48,36 @@ description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">141,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">140,900</text>
 
-    <path d="M 68 102 L 172 102 L 276 102 L 380 102 L 484 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 172 102 L 276 102 L 380 102 L 484 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 102 L 501 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 102 L 501 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">141,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 141,000원 · 별점 4.8 · 리뷰 147개</span>
+    <a href="https://link.coupang.com/a/er18Ez" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
 
 
 
