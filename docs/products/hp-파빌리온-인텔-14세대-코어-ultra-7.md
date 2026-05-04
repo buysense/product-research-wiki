@@ -5,6 +5,30 @@ date: 2026-03-29
 description: AI 작업과 일상 멀티태스킹에 최적화된 HP 파빌리온 인텔 14세대 코어 Ultra 7 노트북은 강력한 성능과 뛰어난 휴대성을 제공하여 대학생부터 직장인까지 다양한 사용 환경에 적합합니다.
 ---
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">1,139,100</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,139,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,138,900</text>
+
+    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,139,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
