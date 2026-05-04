@@ -20,12 +20,12 @@ description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작
     "price": "42200",
     "url": "https://link.coupang.com/a/eqhPpZ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-11"
+    "priceValidUntil": "2026-05-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2246,
+    "reviewCount": 2247,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,13 +43,6 @@ description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작
 
 
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 42,200원 · 별점 4.8 · 리뷰 2,246개</span>
-    <a href="https://link.coupang.com/a/eqhPpZ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -60,27 +53,38 @@ description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 139 L 155 26 L 241 26 L 328 26 L 415 26 L 501 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 139 L 155 26 L 241 26 L 328 26 L 415 26 L 501 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 139 L 142 26 L 217 26 L 291 26 L 365 26 L 439 26 L 514 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 139 L 142 26 L 217 26 L 291 26 L 365 26 L 439 26 L 514 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">42,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 42,200원 · 별점 4.8 · 리뷰 2,247개</span>
+    <a href="https://link.coupang.com/a/eqhPpZ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
 
 
 
@@ -171,7 +175,7 @@ A. BPA 프리(비스페놀 A 불검출) 소재로 제작되어 아기가 안전�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 42,200원 · 별점 4.8 · 리뷰 2,246개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 42,200원 · 별점 4.8 · 리뷰 2,247개</span>
     <a href="https://link.coupang.com/a/eqhPpZ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
