@@ -20,7 +20,7 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
     "price": "52000",
     "url": "https://link.coupang.com/a/eCue7p",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-11"
+    "priceValidUntil": "2026-05-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
