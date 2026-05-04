@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 식빵 키보드 클릭커: products/toast-keyboard-clicker-keyring.md
     - 의령망개떡: products/uiryeong-manggaetteok-buyguide.md
     - 샹달프 딸기잼: products/st-dalfour-strawberry-jam.md
     - 경기떡집 이티떡: products/gyeonggitteokjip-ittteok-ricecake.md
