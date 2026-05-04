@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 의령망개떡: products/uiryeong-manggaetteok-buyguide.md
     - 샹달프 딸기잼: products/st-dalfour-strawberry-jam.md
     - 경기떡집 이티떡: products/gyeonggitteokjip-ittteok-ricecake.md
     - 창억떡 호박인절미: products/changeoktteok-hobakinjeolmi-buy.md
