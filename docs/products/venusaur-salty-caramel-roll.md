@@ -19,7 +19,7 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
     "price": "9900",
     "url": "https://link.coupang.com/a/eDegom",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-12"
+    "priceValidUntil": "2026-05-13"
   }
 }
 </script>
