@@ -5,26 +5,30 @@ date: 2026-04-15
 description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 아이들의 실내 에너지 발산을 돕는 안전하고 견고한 놀이 기구입니다. 층간소음 걱정을 줄이고 부모에게 육아의 여유를 제공하며, 악천후 시 집콕놀이에 특히 유용합니다.
 ---
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">137,100</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">137,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">136,900</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">140,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
 
-    <path d="M 68 125 L 328 178 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 328 178 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 49 L 241 50 L 415 49 L 588 172 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 49 L 241 50 L 415 49 L 588 172" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="172" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">137,000원</text>
+    <text x="588" y="160" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">120,850원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
