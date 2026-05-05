@@ -4,6 +4,8 @@ date: 2026-03-12
 description: 잔스포츠 Drawsack은 14L 용량, 약 190g의 초경량 드로우스트링 미니 백팩으로, 상단의 끈을 조이면 '복조리' 모양이 완성되는 독특한 디자인이 특징입니다. 폴리에스터 100% 소재에 전면 포켓을 갖추어 간편한 일상 외출, 운동, 가벼운...
 ---
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-12 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -14,16 +16,18 @@ description: 잔스포츠 Drawsack은 14L 용량, 약 190g의 초경량 드로�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,900</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">60,800</text>
 
-    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 241 102 L 415 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 241 102 L 415 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">60,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
