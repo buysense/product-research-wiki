@@ -5,6 +5,8 @@ date: 2026-03-20
 description: 뉴에라 아동용 MLB 빅 로고 긴팔 티셔츠는 활동량이 많은 어린이를 위한 캐주얼 긴팔 티셔츠로, 뉴에라의 상징적인 MLB 빅 로고 디자인이 특징입니다. 봄·가을 단독 착용 및 겨울 이너웨어로 활용도가 높으며, 편안한 착용감과 깔끔한 스타일로 주말...
 ---
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -15,16 +17,18 @@ description: 뉴에라 아동용 MLB 빅 로고 긴팔 티셔츠는 활동량이
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
 
-    <path d="M 68 26 L 328 26 L 588 113 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 328 26 L 588 113" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 241 26 L 415 113 L 588 113 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 241 26 L 415 113 L 588 113" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="113" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="113" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="101" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">29,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
