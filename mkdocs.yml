@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 트와이닝 클래식 차 컬렉션 티백: products/twinings-classic-tea-collection-teabags.md
     - THORNE 기본 영양소: products/thorne-basic-nutrients.md
     - 차일드라이프 퓨어 DHA 오메가3 딸기맛 90정: products/childlife-pure-dha-omega3-strawberry.md
     - 뉴트리디데이 베이비 앤 키즈 오메가3: products/nutridday-baby-kids-omega3-chewable.md
