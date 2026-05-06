@@ -7,28 +7,32 @@ description: 혼쯔유 코이다시는 깊은 감칠맛을 내는 4배 농축 �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-14 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">6,400</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,300</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,200</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
 
-    <path d="M 68 102 L 241 102 L 415 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 241 102 L 415 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="79" r="5" fill="#ea580c"></circle>
+    <path d="M 68 132 L 198 132 L 328 128 L 458 128 L 588 53 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 198 132 L 328 128 L 458 128 L 588 53" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="53" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,330원</text>
+    <text x="588" y="41" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,820원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
