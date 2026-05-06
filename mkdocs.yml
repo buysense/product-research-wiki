@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 네추럴라이즈 멀티비타민 꾸미, 60정: products/naturalize-multivitamin-gummy-60ct.md
     - 맥 미니 M4: products/mac-mini-m4-buy.md
     - 이상해꽃의 솔티카라멜롤: products/venusaur-salty-caramel-roll.md
     - 시너지 콤부차: products/synergy-kombucha.md
