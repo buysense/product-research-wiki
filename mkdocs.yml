@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 맥 미니 M4: products/mac-mini-m4-buy.md
     - 이상해꽃의 솔티카라멜롤: products/venusaur-salty-caramel-roll.md
     - 시너지 콤부차: products/synergy-kombucha.md
     - 식빵 키보드 클릭커: products/toast-keyboard-clicker-keyring.md
