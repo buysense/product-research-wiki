@@ -20,7 +20,7 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     "price": "34200",
     "url": "https://link.coupang.com/a/eDBeaL",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-13"
+    "priceValidUntil": "2026-05-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
