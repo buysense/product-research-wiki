@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 한라식품 참치액: products/hallafoods-tuna-sauce.md
     - 말리 코코넛워터: products/mali-coconut-water-1l.md
     - 록시땅 시어 버터 핸드 크림 세트: products/loccitane-sheabutter-handcream-set.md
     - 티더블유지 카모마일 티백: products/twg-chamomile-teabag.md
