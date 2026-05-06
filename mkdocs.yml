@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 말리 코코넛워터: products/mali-coconut-water-1l.md
     - 록시땅 시어 버터 핸드 크림 세트: products/loccitane-sheabutter-handcream-set.md
     - 티더블유지 카모마일 티백: products/twg-chamomile-teabag.md
     - 트와이닝 클래식 차 컬렉션 티백: products/twinings-classic-tea-collection-teabags.md
