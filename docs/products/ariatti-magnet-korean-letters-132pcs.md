@@ -17,10 +17,10 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "19530",
+    "price": "19740",
     "url": "https://link.coupang.com/a/eyLoSF",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-13"
+    "priceValidUntil": "2026-05-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -37,6 +37,8 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -47,26 +49,28 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
 
-    <path d="M 68 107 L 142 110 L 217 110 L 291 110 L 365 110 L 439 28 L 514 42 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 107 L 142 110 L 217 110 L 291 110 L 365 110 L 439 28 L 514 42 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 107 L 133 110 L 198 110 L 263 110 L 328 110 L 393 28 L 458 42 L 523 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 107 L 133 110 L 198 110 L 263 110 L 328 110 L 393 28 L 458 42 L 523 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,530원</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,740원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -74,7 +78,7 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,530원 · 별점 4.8 · 리뷰 118개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,740원 · 별점 4.8 · 리뷰 118개</span>
     <a href="https://link.coupang.com/a/eyLoSF" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -154,7 +158,7 @@ A. 자기 이름 만들기, 엄마·아빠 등 가족 호칭 만들기, 좋아�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,530원 · 별점 4.8 · 리뷰 118개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,740원 · 별점 4.8 · 리뷰 118개</span>
     <a href="https://link.coupang.com/a/eyLoSF" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
