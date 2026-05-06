@@ -20,7 +20,7 @@ description: 성장기 아이들의 두뇌 발달과 눈 건강을 위한 차일
     "price": "17300",
     "url": "https://link.coupang.com/a/eDBBum",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-13"
+    "priceValidUntil": "2026-05-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
