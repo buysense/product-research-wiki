@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 세노비스 키즈 츄어블 오메가3 150정: products/cenovis-kids-chewable-omega3-150.md
     - 뭴러스 오메가3 레몬맛: products/mollers-omega3-lemon-liquid.md
     - 네추럴라이즈 오메가 꾸미: products/naturalize-omega-gummy.md
     - 릴크리터스 이뮨 아연 비타민 C D 60정: products/lilcritters-immune-zinc-vitamin-c-d-60count.md
