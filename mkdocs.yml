@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 알레시 안나G 와인오프너: products/alessi-annag-wine-opener.md
     - 한라식품 참치액: products/hallafoods-tuna-sauce.md
     - 말리 코코넛워터: products/mali-coconut-water-1l.md
     - 록시땅 시어 버터 핸드 크림 세트: products/loccitane-sheabutter-handcream-set.md
