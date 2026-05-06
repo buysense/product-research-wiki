@@ -19,7 +19,7 @@ description: THORNE 기본 영양소는 일상적인 영양 균형 유지와 전
     "price": "207590",
     "url": "https://link.coupang.com/a/eDDugl",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-13"
+    "priceValidUntil": "2026-05-14"
   }
 }
 </script>
