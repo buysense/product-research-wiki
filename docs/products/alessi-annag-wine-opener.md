@@ -20,7 +20,7 @@ description: 알레시 안나G 와인오프너는 독특한 인형 디자인과 
     "price": "115000",
     "url": "https://link.coupang.com/a/eDOinN",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-13"
+    "priceValidUntil": "2026-05-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
