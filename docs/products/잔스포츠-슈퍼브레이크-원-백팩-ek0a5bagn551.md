@@ -15,12 +15,14 @@ description: 잔스포츠(JanSport) 슈퍼브레이크 원(Superbreak One) 백�
     "priceCurrency": "KRW",
     "availability": "https://schema.org/InStock",
     "url": "https://link.coupang.com/a/d3G6zZ",
-    "priceValidUntil": "2026-05-14"
+    "priceValidUntil": "2026-05-15"
   }
 }
 </script>
 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-13 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다. 최저가는 실시간으로 변동되므로 구매 전 반드시 재확인하시기 바랍니다.</p>
+
+
 
 
 
@@ -32,26 +34,28 @@ description: 잔스포츠(JanSport) 슈퍼브레이크 원(Superbreak One) 백�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 32 L 172 102 L 276 102 L 380 64 L 484 64 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 32 L 172 102 L 276 102 L 380 64 L 484 64 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
+    <path d="M 68 108 L 155 178 L 241 178 L 328 140 L 415 140 L 501 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 108 L 155 178 L 241 178 L 328 140 L 415 140 L 501 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">44,000원</text>
+    <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">44,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
