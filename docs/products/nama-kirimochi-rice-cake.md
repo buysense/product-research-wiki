@@ -20,12 +20,12 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
     "price": "10790",
     "url": "https://link.coupang.com/a/ersmX2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-14"
+    "priceValidUntil": "2026-05-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 637,
+    "reviewCount": 640,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -35,6 +35,8 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
   📅 작성일: 2026-04-18 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
 ## 참고한 글
+
+
 
 
 
@@ -52,28 +54,30 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,800</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,700</text>
 
-    <path d="M 68 110 L 133 110 L 198 110 L 263 110 L 328 110 L 393 110 L 458 110 L 523 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 133 110 L 198 110 L 263 110 L 328 110 L 393 110 L 458 110 L 523 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 126 110 L 184 110 L 241 110 L 299 110 L 357 110 L 415 110 L 472 110 L 530 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 126 110 L 184 110 L 241 110 L 299 110 L 357 110 L 415 110 L 472 110 L 530 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,790원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -81,7 +85,7 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,790원 · 별점 4.7 · 리뷰 637개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,790원 · 별점 4.7 · 리뷰 640개</span>
     <a href="https://link.coupang.com/a/ersmX2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -162,7 +166,7 @@ A. 네, 나마 키리모찌는 자체적으로 강한 맛이나 향이 없어 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,790원 · 별점 4.7 · 리뷰 637개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,790원 · 별점 4.7 · 리뷰 640개</span>
     <a href="https://link.coupang.com/a/ersmX2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
