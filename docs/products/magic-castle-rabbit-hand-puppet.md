@@ -17,10 +17,10 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "11900",
+    "price": "11710",
     "url": "https://link.coupang.com/a/exnwQU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-14"
+    "priceValidUntil": "2026-05-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -38,36 +38,40 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">12,100</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,900</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">11,800</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,600</text>
 
-    <path d="M 68 72 L 142 170 L 217 170 L 291 178 L 365 178 L 439 178 L 514 178 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 142 170 L 217 170 L 291 178 L 365 178 L 439 178 L 514 178 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="178" r="5" fill="#ea580c"></circle>
+    <path d="M 68 26 L 133 60 L 198 60 L 263 64 L 328 64 L 393 64 L 458 64 L 523 64 L 588 136 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 133 60 L 198 60 L 263 64 L 328 64 L 393 64 L 458 64 L 523 64 L 588 136" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="136" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,900원</text>
+    <text x="588" y="124" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,710원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -75,7 +79,7 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,900원 · 별점 4.5 · 리뷰 123개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,710원 · 별점 4.5 · 리뷰 123개</span>
     <a href="https://link.coupang.com/a/exnwQU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -152,7 +156,7 @@ A. 기본적인 인형극 놀이에는 적합하지만, 입 부분이 다소 약
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,900원 · 별점 4.5 · 리뷰 123개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,710원 · 별점 4.5 · 리뷰 123개</span>
     <a href="https://link.coupang.com/a/exnwQU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
