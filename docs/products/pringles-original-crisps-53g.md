@@ -9,6 +9,8 @@ slug_en: pringles-original-crisps-53g
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -19,20 +21,22 @@ slug_en: pringles-original-crisps-53g
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,500</text>
 
-    <path d="M 68 163 L 198 163 L 328 163 L 458 163 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 163 L 198 163 L 328 163 L 458 163 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 163 L 172 163 L 276 163 L 380 163 L 484 56 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 163 L 172 163 L 276 163 L 380 163 L 484 56 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="56" r="5" fill="#ea580c"></circle>
+    <circle cx="172" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,300원</text>
+    <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
