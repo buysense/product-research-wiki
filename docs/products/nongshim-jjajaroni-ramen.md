@@ -20,12 +20,12 @@ description: 농심 짜짜로니는 진한 액상 춘장 소스와 쫄깃한 면
     "price": "4040",
     "url": "https://link.coupang.com/a/et51rA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-15"
+    "priceValidUntil": "2026-05-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2507,
+    "reviewCount": 2511,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -35,6 +35,8 @@ description: 농심 짜짜로니는 진한 액상 춘장 소스와 쫄깃한 면
   📅 작성일: 2026-04-22 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
 ## 참고한 글
+
+
 
 
 
@@ -54,30 +56,32 @@ description: 농심 짜짜로니는 진한 액상 춘장 소스와 쫄깃한 면
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">4,100</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 155 L 126 155 L 184 155 L 241 148 L 299 26 L 357 26 L 415 148 L 472 148 L 530 148 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 155 L 126 155 L 184 155 L 241 148 L 299 26 L 357 26 L 415 148 L 472 148 L 530 148 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 155 L 120 155 L 172 155 L 224 148 L 276 26 L 328 26 L 380 148 L 432 148 L 484 148 L 536 148 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 155 L 120 155 L 172 155 L 224 148 L 276 26 L 328 26 L 380 148 L 432 148 L 484 148 L 536 148 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="120" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="224" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="432" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="536" cy="148" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="148" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="136" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,040원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -85,7 +89,7 @@ description: 농심 짜짜로니는 진한 액상 춘장 소스와 쫄깃한 면
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,040원 · 별점 4.8 · 리뷰 2,507개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,040원 · 별점 4.8 · 리뷰 2,511개</span>
     <a href="https://link.coupang.com/a/et51rA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -168,7 +172,7 @@ A. 집에서 혼자 간편하게 든든한 한 끼를 해결하고 싶을 때, �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,040원 · 별점 4.8 · 리뷰 2,507개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,040원 · 별점 4.8 · 리뷰 2,511개</span>
     <a href="https://link.coupang.com/a/et51rA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
