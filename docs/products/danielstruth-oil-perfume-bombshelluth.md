@@ -11,32 +11,36 @@ description: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스는 2025�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">53,800</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">53,700</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">53,600</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">54,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">52,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 102 L 172 102 L 276 148 L 380 148 L 484 148 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 172 102 L 276 148 L 380 148 L 484 148 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="148" r="5" fill="#ea580c"></circle>
+    <path d="M 68 37 L 155 37 L 241 40 L 328 40 L 415 40 L 501 40 L 588 142 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 37 L 155 37 L 241 40 L 328 40 L 415 40 L 501 40 L 588 142" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="142" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="136" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">53,640원</text>
+    <text x="588" y="130" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">50,940원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
