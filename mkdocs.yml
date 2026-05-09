@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 촉촉한 황치즈칩: products/orion-hwang-cheese-chip.md
     - 알로 볼캡: products/alo-ballcap-fashion.md
     - 풀무원 블럭치즈 돈가스: products/pulmuone-block-cheese-donkatsu.md
     - 소금집 잠봉: products/sogeumjip-jambon-ham.md
