@@ -20,12 +20,12 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
     "price": "13800",
     "url": "https://link.coupang.com/a/eBvfAG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-16"
+    "priceValidUntil": "2026-05-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 51174,
+    "reviewCount": 51232,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -52,24 +54,26 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
 
-    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 161 L 501 102 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 161 L 501 102 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 161 L 439 102 L 514 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 161 L 439 102 L 514 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="56" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="56" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -77,7 +81,7 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,800원 · 별점 4.8 · 리뷰 51,174개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,800원 · 별점 4.8 · 리뷰 51,232개</span>
     <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -150,7 +154,7 @@ A. 이클립스 페퍼민트향의 가장 큰 특징은 단 한 알만으로도 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,800원 · 별점 4.8 · 리뷰 51,174개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,800원 · 별점 4.8 · 리뷰 51,232개</span>
     <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
