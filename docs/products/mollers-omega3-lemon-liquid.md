@@ -20,7 +20,7 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     "price": "34200",
     "url": "https://link.coupang.com/a/eDBeaL",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-16"
+    "priceValidUntil": "2026-05-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -36,6 +36,8 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
 </p>
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -46,18 +48,20 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">34,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">34,100</text>
 
-    <path d="M 68 102 L 241 102 L 415 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 241 102 L 415 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 198 102 L 328 102 L 458 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 198 102 L 328 102 L 458 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
