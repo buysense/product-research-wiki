@@ -13,6 +13,8 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -23,24 +25,26 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,900</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,800</text>
 
-    <path d="M 68 110 L 155 110 L 241 110 L 328 110 L 415 110 L 501 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 155 110 L 241 110 L 328 110 L 415 110 L 501 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 142 110 L 217 110 L 291 110 L 365 110 L 439 110 L 514 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 142 110 L 217 110 L 291 110 L 365 110 L 439 110 L 514 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">40,890원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
