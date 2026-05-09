@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 왕뚜껑 라볶이: products/wangtukkung-rabokki.md
     - 촉촉한 황치즈칩: products/orion-hwang-cheese-chip.md
     - 알로 볼캡: products/alo-ballcap-fashion.md
     - 풀무원 블럭치즈 돈가스: products/pulmuone-block-cheese-donkatsu.md
