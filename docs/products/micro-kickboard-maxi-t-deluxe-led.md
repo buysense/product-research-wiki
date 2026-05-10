@@ -20,7 +20,7 @@ description: 마이크로킥보드 맥시T 디럭스 LED는 5세부터 초등학
     "price": "245410",
     "url": "https://link.coupang.com/a/exVl6H",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-17"
+    "priceValidUntil": "2026-05-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -45,6 +45,8 @@ description: 마이크로킥보드 맥시T 디럭스 LED는 5세부터 초등학
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -55,34 +57,36 @@ description: 마이크로킥보드 맥시T 디럭스 LED는 5세부터 초등학
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">245,400</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">245,300</text>
 
-    <path d="M 68 94 L 115 94 L 163 94 L 210 94 L 257 94 L 304 94 L 352 94 L 399 94 L 446 94 L 493 94 L 541 94 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 94 L 115 94 L 163 94 L 210 94 L 257 94 L 304 94 L 352 94 L 399 94 L 446 94 L 493 94 L 541 94 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 94 L 111 94 L 155 94 L 198 94 L 241 94 L 285 94 L 328 94 L 371 94 L 415 94 L 458 94 L 501 94 L 545 94 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 94 L 111 94 L 155 94 L 198 94 L 241 94 L 285 94 L 328 94 L 371 94 L 415 94 L 458 94 L 501 94 L 545 94 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="111" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="285" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="371" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="545" cy="94" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="94" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">245,410원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
