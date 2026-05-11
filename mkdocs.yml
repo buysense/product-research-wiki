@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 몰리멜리 차차 플리츠 시원 플리츠: products/molimelli-chacha-pleats-cool-bottom.md
     - 아이스토리키즈 여름봄무지 7부 플리츠: products/istoreykids-summer-plain-7-pleats.md
     - 비비디아 여성용 투피스: products/vividia-womens-two-piece-set.md
     - 왕뚜껑 라볶이: products/wangtukkung-rabokki.md
