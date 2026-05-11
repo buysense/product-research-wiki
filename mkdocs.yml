@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 생미쉘 빨레트 비스킷: products/st-michel-palet-biscuits.md
     - 유니프랜드 쿨 주름지 플리츠 7부: products/unifriend-cool-pleats-7parts-set.md
     - 몰리멜리 차차 플리츠 시원 플리츠: products/molimelli-chacha-pleats-cool-bottom.md
     - 아이스토리키즈 여름봄무지 7부 플리츠: products/istoreykids-summer-plain-7-pleats.md
