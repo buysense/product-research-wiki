@@ -20,7 +20,7 @@ description: 아이스토리키즈 여름봄무지 7부 플리츠는 활동량 �
     "price": "13900",
     "url": "https://link.coupang.com/a/dFf89o0jWC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-18"
+    "priceValidUntil": "2026-05-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
