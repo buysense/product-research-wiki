@@ -15,12 +15,14 @@ description: 잔스포츠(JanSport) 슈퍼브레이크 원(Superbreak One) 백�
     "priceCurrency": "KRW",
     "availability": "https://schema.org/InStock",
     "url": "https://link.coupang.com/a/d3G6zZ",
-    "priceValidUntil": "2026-05-18"
+    "priceValidUntil": "2026-05-19"
   }
 }
 </script>
 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-13 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다. 최저가는 실시간으로 변동되므로 구매 전 반드시 재확인하시기 바랍니다.</p>
+
+
 
 
 
@@ -44,30 +46,32 @@ description: 잔스포츠(JanSport) 슈퍼브레이크 원(Superbreak One) 백�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 108 L 126 178 L 184 178 L 241 140 L 299 140 L 357 117 L 415 117 L 472 117 L 530 131 L 588 138 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 108 L 126 178 L 184 178 L 241 140 L 299 140 L 357 117 L 415 117 L 472 117 L 530 131 L 588 138" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 108 L 120 178 L 172 178 L 224 140 L 276 140 L 328 117 L 380 117 L 432 117 L 484 131 L 536 138 L 588 124 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 108 L 120 178 L 172 178 L 224 140 L 276 140 L 328 117 L 380 117 L 432 117 L 484 131 L 536 138 L 588 124" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="138" r="5" fill="#ea580c"></circle>
+    <circle cx="120" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="224" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="432" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="536" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="124" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="126" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">42,650원</text>
+    <text x="588" y="112" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">43,520원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
