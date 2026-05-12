@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 리락쿠마 아동용 사각 밀폐 2단 도시락: products/rilakkuma-kids-2tier-lunchbox.md
     - 프린세스 캐치티니핑 피크닉 도시락 세트: products/princess-catch-teenieping-picnic-lunchbox-set.md
     - 한성 미니 시카고피자 10개: products/hansung-mini-chicago-pizza.md
     - 픙국면 들기름 막국수 6인분 798g, 2개: products/punggukmyun-perilla-oil-buckwheat-noodles-6servings.md
