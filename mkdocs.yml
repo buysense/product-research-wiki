@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 설성목장 무항생제 한우로 만든 한우 어린이 육포: products/seolsungfarm-antibioticfree-beef-jerky-kids.md
     - 롯데제로 초콜릿 칩 쿠키: products/lotte-zero-chocolate-chip-cookie.md
     - 롯데제로 카카오 케이크 12p, 171g, 2개: products/lottezero-cacao-cake-12p.md
     - 오리온 마이구미 포도 제로 슈가 젤리: products/orion-mygumi-grape-zero-sugar-jelly.md
