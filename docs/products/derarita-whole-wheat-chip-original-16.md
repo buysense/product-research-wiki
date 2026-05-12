@@ -20,7 +20,7 @@ description: 데라리타 통밀칩 오리지널 16개는 건강을 생각하는
     "price": "33250",
     "url": "https://link.coupang.com/a/dGFQmE2VJA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-19"
+    "priceValidUntil": "2026-05-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
