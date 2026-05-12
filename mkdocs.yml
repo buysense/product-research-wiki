@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 정담시루 단호박 듬뿍 카스테라 인절미떡: products/jeongdamsiru-danhohobak-castella-injeolmi.md
     - SHUSHUTONG 플라워 니트 가디건: products/shushutong-flower-knit-cardigan.md
     - 설성목장 무항생제 한우로 만든 한우 어린이 육포: products/seolsungfarm-antibioticfree-beef-jerky-kids.md
     - 롯데제로 초콜릿 칩 쿠키: products/lotte-zero-chocolate-chip-cookie.md
