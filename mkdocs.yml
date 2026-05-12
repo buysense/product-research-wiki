@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 폴라레티 후르츠 아이스바 40ml x 80개: products/polaretti-fruits-ice-bar.md
     - 쿠지 2단 스텐도시락통 밀프랩 가방 세트: products/kuzi-2tier-stainless-lunchbox-mealprep-set.md
     - 리락쿠마 아동용 사각 밀폐 2단 도시락: products/rilakkuma-kids-2tier-lunchbox.md
     - 프린세스 캐치티니핑 피크닉 도시락 세트: products/princess-catch-teenieping-picnic-lunchbox-set.md
