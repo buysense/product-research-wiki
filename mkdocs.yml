@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 데라리타 통밀칩 오리지널 16개: products/derarita-whole-wheat-chip-original-16.md
     - 풍심당 국내산 연근칩: products/pungsimdang-korean-lotus-root-chips.md
     - 다이어터 필수품 왓더파머스 오리지널 무설탕 옥수수칩: products/what-the-farmers-original-sugar-free-corn-chip.md
     - 그레인온 파로 저당 단백칩 10개: products/grainon-farro-lowsugar-protein-chip.md
