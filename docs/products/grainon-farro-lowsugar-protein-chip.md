@@ -20,7 +20,7 @@ description: 그레인온 파로 저당 단백칩 10개는 체중 조절, 혈당
     "price": "17900",
     "url": "https://link.coupang.com/a/dGFdQ11Rpk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-19"
+    "priceValidUntil": "2026-05-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
