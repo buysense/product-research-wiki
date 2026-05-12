@@ -20,7 +20,7 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
     "price": "19950",
     "url": "https://link.coupang.com/a/eyLoSF",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-19"
+    "priceValidUntil": "2026-05-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -49,6 +49,8 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -59,38 +61,40 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 105 L 108 106 L 148 106 L 188 106 L 228 106 L 268 65 L 308 72 L 348 44 L 388 36 L 428 61 L 468 26 L 508 26 L 548 26 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 105 L 108 106 L 148 106 L 188 106 L 228 106 L 268 65 L 308 72 L 348 44 L 388 36 L 428 61 L 468 26 L 508 26 L 548 26 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 105 L 105 106 L 142 106 L 179 106 L 217 106 L 254 65 L 291 72 L 328 44 L 365 36 L 402 61 L 439 26 L 477 26 L 514 26 L 551 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 105 L 105 106 L 142 106 L 179 106 L 217 106 L 254 65 L 291 72 L 328 44 L 365 36 L 402 61 L 439 26 L 477 26 L 514 26 L 551 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="179" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="254" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="28" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="28" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="16" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,950원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="105" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="551" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
