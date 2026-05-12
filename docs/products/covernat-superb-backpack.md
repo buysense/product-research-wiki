@@ -107,14 +107,6 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
 
 
 
-<iframe
-  src="https://jmeggemj.github.io/chart-result/embed.html?v=260422-01&vendor_item_id=91686211894"
-  width="100%"
-  height="340"
-  style="border:0;"
-  loading="lazy"
-></iframe>
-
 ## 상품 개요
 커버낫 수퍼브는 초등 고학년부터 중학생까지, 가볍지만 형태가 잘 유지되는 데일리 백팩을 찾는 소비자를 위한 제품입니다. 기존 가방의 무게에 부담을 느꼈던 학생들이 편안하게 교과서나 소지품을 휴대하며 학교생활이나 일상 활동에 활용하기 적합합니다.
 

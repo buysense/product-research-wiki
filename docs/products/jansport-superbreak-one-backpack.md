@@ -107,14 +107,6 @@ description: 잔스포츠 슈퍼브레이크 원 백팩은 가벼운 무게, 심
 
 
 
-<iframe
-  src="https://jmeggemj.github.io/chart-result/embed.html?v=260422-01&vendor_item_id=94133158714"
-  width="100%"
-  height="340"
-  style="border:0;"
-  loading="lazy"
-></iframe>
-
 ## 상품 개요
 잔스포츠 슈퍼브레이크 원 백팩은 가볍고 심플한 디자인이 특징인 데일리 백팩입니다. 학생들이 학원 가방이나 학교 가방으로 활용하기 좋으며, 성인들도 노트북이나 개인 소지품을 넣어 일상에서 부담 없이 사용할 수 있습니다. 오랜 시간 사랑받아온 스테디셀러로, 유행을 타지 않아 실용적인 가방을 찾는 소비자에게 적합합니다.
 
