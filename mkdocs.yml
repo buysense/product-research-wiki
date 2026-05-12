@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 코스트코 스낵야드 표고버섯 칩: products/costco-snackyard-shiitake-chips.md
     - 맛군 엿구마 바삭칩 8개: products/matgun-yeotguma-basakchip.md
     - 데라리타 통밀칩 오리지널 16개: products/derarita-whole-wheat-chip-original-16.md
     - 풍심당 국내산 연근칩: products/pungsimdang-korean-lotus-root-chips.md
