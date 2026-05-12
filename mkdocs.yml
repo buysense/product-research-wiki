@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 웰콩 병아리콩 볶음, 20개: products/welkong-chickpea-roast-20pk.md
     - 자연이음 유기농 구운 아몬드 현미칩: products/jayeoneum-organic-almond-brownrice-chip.md
     - 폴라레티 후르츠 아이스바 40ml x 80개: products/polaretti-fruits-ice-bar.md
     - 쿠지 2단 스텐도시락통 밀프랩 가방 세트: products/kuzi-2tier-stainless-lunchbox-mealprep-set.md
