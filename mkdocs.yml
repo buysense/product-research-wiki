@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 오리온 마이구미 포도 제로 슈가 젤리: products/orion-mygumi-grape-zero-sugar-jelly.md
     - 롯데웰푸드 티코 밀크초코 저당 (냉동): products/lotte-wellfood-tico-milk-choco-low-sugar-frozen.md
     - 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레인: products/pulmuone-danone-activia-cup-white-sugar-free-plain.md
     - 만전김 무가미 곱창돌김: products/manjeonkim-mugami-gobchangdolgim.md
