@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 만전김 무가미 곱창돌김: products/manjeonkim-mugami-gobchangdolgim.md
     - 티젠 콤부차 요구르트: products/teazen-kombucha-yogurt.md
     - 코스트코 스낵야드 표고버섯 칩: products/costco-snackyard-shiitake-chips.md
     - 맛군 엿구마 바삭칩 8개: products/matgun-yeotguma-basakchip.md
