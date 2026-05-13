@@ -21,6 +21,8 @@ description: 샤넬 샹스 오 드 퍼퓸은 2019년 출시된 플로럴 프루�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -31,32 +33,34 @@ description: 샤넬 샹스 오 드 퍼퓸은 2019년 출시된 플로럴 프루�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 147 L 120 147 L 172 26 L 224 26 L 276 26 L 328 26 L 380 26 L 432 26 L 484 26 L 536 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 147 L 120 147 L 172 26 L 224 26 L 276 26 L 328 26 L 380 26 L 432 26 L 484 26 L 536 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 147 L 115 147 L 163 26 L 210 26 L 257 26 L 304 26 L 352 26 L 399 26 L 446 26 L 493 26 L 541 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 147 L 115 147 L 163 26 L 210 26 L 257 26 L 304 26 L 352 26 L 399 26 L 446 26 L 493 26 L 541 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="120" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="224" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="432" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="536" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="115" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="163" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="210" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="257" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="352" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="399" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="541" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">205,890원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
