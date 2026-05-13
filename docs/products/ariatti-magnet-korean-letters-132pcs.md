@@ -20,12 +20,12 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
     "price": "19950",
     "url": "https://link.coupang.com/a/eyLoSF",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-20"
+    "priceValidUntil": "2026-05-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 118,
+    "reviewCount": 119,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -61,40 +63,42 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 105 L 105 106 L 142 106 L 179 106 L 217 106 L 254 65 L 291 72 L 328 44 L 365 36 L 402 61 L 439 26 L 477 26 L 514 26 L 551 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 105 L 105 106 L 142 106 L 179 106 L 217 106 L 254 65 L 291 72 L 328 44 L 365 36 L 402 61 L 439 26 L 477 26 L 514 26 L 551 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 105 L 103 106 L 137 106 L 172 106 L 207 106 L 241 65 L 276 72 L 311 44 L 345 36 L 380 61 L 415 26 L 449 26 L 484 26 L 519 28 L 553 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 105 L 103 106 L 137 106 L 172 106 L 207 106 L 241 65 L 276 72 L 311 44 L 345 36 L 380 61 L 415 26 L 449 26 L 484 26 L 519 28 L 553 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="105" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="179" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="254" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="402" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="477" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="551" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="103" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="137" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="207" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="311" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="345" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="449" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="519" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="553" cy="28" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="28" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="16" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,950원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="105" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="551" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="103" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="207" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="449" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="553" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -102,7 +106,7 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,950원 · 별점 4.8 · 리뷰 118개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,950원 · 별점 4.8 · 리뷰 119개</span>
     <a href="https://link.coupang.com/a/eyLoSF" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -182,7 +186,7 @@ A. 자기 이름 만들기, 엄마·아빠 등 가족 호칭 만들기, 좋아�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,950원 · 별점 4.8 · 리뷰 118개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,950원 · 별점 4.8 · 리뷰 119개</span>
     <a href="https://link.coupang.com/a/eyLoSF" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
