@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 레고클래식 브릭 박스 혼합색상 1개 DX5898: products/lego-classic-brick-box-mixed-dx5898.md
     - 엄마가 유령이 되었어!: products/mommy-ghost-picture-book.md
     - 정담시루 단호박 듬뿍 카스테라 인절미떡: products/jeongdamsiru-danhohobak-castella-injeolmi.md
     - SHUSHUTONG 플라워 니트 가디건: products/shushutong-flower-knit-cardigan.md
