@@ -20,12 +20,12 @@ description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 
     "price": "17230",
     "url": "https://link.coupang.com/a/eDA2W5",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-20"
+    "priceValidUntil": "2026-05-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 1073,
+    "reviewCount": 1079,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -54,26 +56,28 @@ description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
 
-    <path d="M 68 143 L 142 143 L 217 143 L 291 26 L 365 143 L 439 41 L 514 143 L 588 143 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 143 L 142 143 L 217 143 L 291 26 L 365 143 L 439 41 L 514 143 L 588 143" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 143 L 133 143 L 198 143 L 263 26 L 328 143 L 393 41 L 458 143 L 523 143 L 588 143 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 143 L 133 143 L 198 143 L 263 26 L 328 143 L 393 41 L 458 143 L 523 143 L 588 143" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="143" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="143" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="131" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,230원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -81,7 +85,7 @@ description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,230원 · 별점 4.6 · 리뷰 1,073개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,230원 · 별점 4.6 · 리뷰 1,079개</span>
     <a href="https://link.coupang.com/a/eDA2W5" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -151,7 +155,7 @@ A. 제품에 명확한 연령 제한이 표기되어 있지 않지만, 젤리를
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,230원 · 별점 4.6 · 리뷰 1,073개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,230원 · 별점 4.6 · 리뷰 1,079개</span>
     <a href="https://link.coupang.com/a/eDA2W5" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
