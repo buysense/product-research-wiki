@@ -20,7 +20,7 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
     "price": "12640",
     "url": "https://link.coupang.com/a/exnwQU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-20"
+    "priceValidUntil": "2026-05-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -50,6 +50,8 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -60,38 +62,40 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
 
-    <path d="M 68 99 L 108 109 L 148 109 L 188 110 L 228 110 L 268 110 L 308 110 L 348 110 L 388 124 L 428 26 L 468 84 L 508 84 L 548 26 L 588 53 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 99 L 108 109 L 148 109 L 188 110 L 228 110 L 268 110 L 308 110 L 348 110 L 388 124 L 428 26 L 468 84 L 508 84 L 548 26 L 588 53" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 99 L 105 109 L 142 109 L 179 110 L 217 110 L 254 110 L 291 110 L 328 110 L 365 124 L 402 26 L 439 84 L 477 84 L 514 26 L 551 53 L 588 53 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 99 L 105 109 L 142 109 L 179 110 L 217 110 L 254 110 L 291 110 L 328 110 L 365 124 L 402 26 L 439 84 L 477 84 L 514 26 L 551 53 L 588 53" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="179" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="254" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="53" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="53" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="41" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,640원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="105" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="551" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
