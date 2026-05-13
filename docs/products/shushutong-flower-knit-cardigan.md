@@ -20,7 +20,7 @@ description: SHUSHUTONG 플라워 니트 가디건은 화사한 플라워 패턴
     "price": "1145590",
     "url": "https://link.coupang.com/a/dG1f9z5n1o",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-19"
+    "priceValidUntil": "2026-05-20"
   }
 }
 </script>
