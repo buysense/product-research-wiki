@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 정호영 다카마쓰 우동 컵라면: products/junghoyoung-takamatsu-udon-cup.md
     - 레고클래식 라지 조립 박스 10698: products/lego-classic-large-brick-box-10698.md
     - 레고클래식 브릭 박스 혼합색상 1개 DX5898: products/lego-classic-brick-box-mixed-dx5898.md
     - 엄마가 유령이 되었어!: products/mommy-ghost-picture-book.md
