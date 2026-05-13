@@ -20,7 +20,7 @@ description: 맛군 엿구마 바삭칩 8개는 국산 고구마 100%로 만든 
     "price": "29500",
     "url": "https://link.coupang.com/a/dGF3QsZSGi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-19"
+    "priceValidUntil": "2026-05-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
