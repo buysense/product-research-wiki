@@ -34,7 +34,7 @@ jobs:
 
       - name: Install MkDocs dependencies
         run: |
-          pip install mkdocs-material mkdocs-redirects
+          pip install mkdocs-material mkdocs-redirects mkdocs-git-revision-date-localized
 
       - name: Build MkDocs site
         run: mkdocs build
