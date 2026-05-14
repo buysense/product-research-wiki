@@ -36,6 +36,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: iso_date
+      fallback_to_build_date: true
   - search:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
