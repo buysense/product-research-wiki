@@ -22,44 +22,48 @@ description: 슈피겐 노트북 맥북 가죽 파우치 슬리브 발렌티누�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">38,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">36,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">34,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 149 L 115 149 L 163 149 L 210 149 L 257 26 L 304 26 L 352 26 L 399 26 L 446 26 L 493 26 L 541 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 149 L 115 149 L 163 149 L 210 149 L 257 26 L 304 26 L 352 26 L 399 26 L 446 26 L 493 26 L 541 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <path d="M 68 105 L 111 105 L 155 105 L 198 105 L 241 52 L 285 52 L 328 52 L 371 52 L 415 52 L 458 52 L 501 52 L 545 52 L 588 149 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 105 L 111 105 L 155 105 L 198 105 L 241 52 L 285 52 L 328 52 L 371 52 L 415 52 L 458 52 L 501 52 L 545 52 L 588 149" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="111" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="285" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="371" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="545" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="149" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">38,310원</text>
+    <text x="588" y="137" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">31,910원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
