@@ -20,12 +20,12 @@ description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼�
     "price": "32830",
     "url": "https://link.coupang.com/a/eqHujA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-21"
+    "priceValidUntil": "2026-05-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 99,
+    "reviewCount": 100,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -35,6 +35,8 @@ description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼�
   📅 작성일: 2026-04-17 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
 ## 참고한 글
+
+
 
 
 
@@ -66,42 +68,44 @@ description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 35 L 103 98 L 137 135 L 172 135 L 207 135 L 241 135 L 276 135 L 311 135 L 345 135 L 380 135 L 415 135 L 449 135 L 484 135 L 519 135 L 553 135 L 588 135 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 35 L 103 98 L 137 135 L 172 135 L 207 135 L 241 135 L 276 135 L 311 135 L 345 135 L 380 135 L 415 135 L 449 135 L 484 135 L 519 135 L 553 135 L 588 135" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 35 L 101 98 L 133 135 L 166 135 L 198 135 L 231 135 L 263 135 L 296 135 L 328 135 L 361 135 L 393 135 L 426 135 L 458 135 L 491 135 L 523 135 L 556 135 L 588 135 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 35 L 101 98 L 133 135 L 166 135 L 198 135 L 231 135 L 263 135 L 296 135 L 328 135 L 361 135 L 393 135 L 426 135 L 458 135 L 491 135 L 523 135 L 556 135 L 588 135" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="103" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="137" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="207" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="311" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="345" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="449" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="519" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="553" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="101" cy="98" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="166" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="231" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="296" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="361" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="426" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="491" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="556" cy="135" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="135" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="123" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">32,830원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="103" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="207" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="449" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="553" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="101" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="166" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="491" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="556" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -109,7 +113,7 @@ description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 32,830원 · 별점 4.8 · 리뷰 99개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 32,830원 · 별점 4.8 · 리뷰 100개</span>
     <a href="https://link.coupang.com/a/eqHujA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -186,7 +190,7 @@ A. 일반 라면 면이 아닌 쫀득한 당면을 사용하여 식감이 독특
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 32,830원 · 별점 4.8 · 리뷰 99개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 32,830원 · 별점 4.8 · 리뷰 100개</span>
     <a href="https://link.coupang.com/a/eqHujA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
