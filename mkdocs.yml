@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 빵부장 솔티꽈배기: products/bbangkbujang-soltykkwabaegi-snack.md
     - 라카나스타 통밀 또띠아: products/lakanasta-whole-wheat-tortilla.md
     - 정호영 다카마쓰 우동 컵라면: products/junghoyoung-takamatsu-udon-cup.md
     - 레고클래식 라지 조립 박스 10698: products/lego-classic-large-brick-box-10698.md
