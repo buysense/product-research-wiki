@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 미아방지 팔찌 일회용 손목밴드: products/child-safety-wristband-disposable.md
     - 모찌 슬랑이 스퀴시: products/mochi-slangi-squishy.md
     - 리즈니 구슬 비즈 슬랑이: products/lizny-bead-slime-stressball.md
     - 토이토 샤베트 크런치 슬랑이 슬라임: products/toyto-sherbet-crunchy-slime.md
