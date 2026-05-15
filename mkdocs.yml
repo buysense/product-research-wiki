@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 왁뿌볼 12개: products/wakppuball-12ea.md
     - 말랑스테이 왁뿌볼 세트: products/mallangstay-wakppubol-set.md
     - 모던앳 초코 말랑이 왁뿌볼: products/modernat-choco-malang-wakpuball.md
     - 빵부장 솔티꽈배기: products/bbangkbujang-soltykkwabaegi-snack.md
