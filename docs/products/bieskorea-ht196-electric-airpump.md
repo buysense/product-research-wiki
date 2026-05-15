@@ -25,6 +25,8 @@ description: 비에스코리아 전동 에어펌프 HT-196은 가정, 캠핑, �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -35,36 +37,38 @@ description: 비에스코리아 전동 에어펌프 HT-196은 가정, 캠핑, �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
 
-    <path d="M 68 110 L 111 110 L 155 110 L 198 110 L 241 68 L 285 68 L 328 68 L 371 68 L 415 68 L 458 68 L 501 26 L 545 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 111 110 L 155 110 L 198 110 L 241 68 L 285 68 L 328 68 L 371 68 L 415 68 L 458 68 L 501 26 L 545 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 108 110 L 148 110 L 188 110 L 228 68 L 268 68 L 308 68 L 348 68 L 388 68 L 428 68 L 468 26 L 508 26 L 548 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 108 110 L 148 110 L 188 110 L 228 68 L 268 68 L 308 68 L 348 68 L 388 68 L 428 68 L 468 26 L 508 26 L 548 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="111" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="285" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="371" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="545" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="148" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="228" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="428" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,400원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
