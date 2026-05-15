@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 빌리네집 해파리 말랑이: products/billines-jellyfish-mallang-squishy.md
     - 우리끼리 말랑한 우팡이 마시멜로 말랑이: products/urikiri-upang-marshmallow-malrangi.md
     - 베스트템 왁뿌볼 로제 말랑이: products/bestitem-wakpubol-rose-malangi.md
     - 왁뿌볼 12개: products/wakppuball-12ea.md
