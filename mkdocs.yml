@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 토이토 샤베트 크런치 슬랑이 슬라임: products/toyto-sherbet-crunchy-slime.md
     - 위드스타 쫀득쫀득 얼음 말랑이: products/widestar-jjondeuk-ice-mallangi.md
     - iiGEN 애니멀 말랑 모찌, 랜덤 발송, 5개: products/iigen-animal-malang-mochi.md
     - 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트: products/agaplus-squishy-dumpling-carrot-pig-set.md
