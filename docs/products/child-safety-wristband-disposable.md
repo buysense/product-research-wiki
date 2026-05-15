@@ -19,7 +19,7 @@ description: 미아방지 팔찌 일회용 손목밴드는 아이와 외출 시 
     "price": "15900",
     "url": "https://link.coupang.com/a/dLL7oZT0dU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-22"
+    "priceValidUntil": "2026-05-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
