@@ -20,7 +20,7 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
     "price": "1009930",
     "url": "https://link.coupang.com/a/dL2nfPaZ1U",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-22"
+    "priceValidUntil": "2026-05-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
