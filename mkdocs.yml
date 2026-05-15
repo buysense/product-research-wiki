@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 킨더퍼페츠 100% 써지컬 미아방지 목걸이: products/kinderpuppets-surgical-child-id-necklace.md
     - 써지컬 스틸 미아방지 목걸이 캐릭터 팬던트: products/surgical-steel-lost-child-prevention-necklace-character.md
     - 미아방지 팔찌 일회용 손목밴드: products/child-safety-wristband-disposable.md
     - 모찌 슬랑이 스퀴시: products/mochi-slangi-squishy.md
