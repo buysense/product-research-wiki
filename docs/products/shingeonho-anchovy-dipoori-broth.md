@@ -20,12 +20,12 @@ description: 신선한 국산 디포리와 천일염으로 만든 신건호 육�
     "price": "14900",
     "url": "https://link.coupang.com/a/er1VXD",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-22"
+    "priceValidUntil": "2026-05-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 1137,
+    "reviewCount": 1138,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 신선한 국산 디포리와 천일염으로 만든 신건호 육�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-19 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -64,42 +66,44 @@ description: 신선한 국산 디포리와 천일염으로 만든 신건호 육�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
 
-    <path d="M 68 34 L 103 34 L 137 34 L 172 34 L 207 34 L 241 147 L 276 147 L 311 147 L 345 147 L 380 147 L 415 147 L 449 34 L 484 34 L 519 34 L 553 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 103 34 L 137 34 L 172 34 L 207 34 L 241 147 L 276 147 L 311 147 L 345 147 L 380 147 L 415 147 L 449 34 L 484 34 L 519 34 L 553 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 101 34 L 133 34 L 166 34 L 198 34 L 231 147 L 263 147 L 296 147 L 328 147 L 361 147 L 393 147 L 426 34 L 458 34 L 491 34 L 523 34 L 556 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 101 34 L 133 34 L 166 34 L 198 34 L 231 147 L 263 147 L 296 147 L 328 147 L 361 147 L 393 147 L 426 34 L 458 34 L 491 34 L 523 34 L 556 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="103" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="137" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="207" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="311" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="345" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="449" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="519" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="553" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="101" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="166" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="231" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="296" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="361" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="426" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="491" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="556" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="103" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="207" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="449" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="553" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="101" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="166" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="491" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="556" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -107,7 +111,7 @@ description: 신선한 국산 디포리와 천일염으로 만든 신건호 육�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,900원 · 별점 4.7 · 리뷰 1,137개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,900원 · 별점 4.7 · 리뷰 1,138개</span>
     <a href="https://link.coupang.com/a/er1VXD" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -187,7 +191,7 @@ A. 신선하고 깨끗한 품질, 국산 재료 사용, 깊고 구수한 감칠�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,900원 · 별점 4.7 · 리뷰 1,137개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,900원 · 별점 4.7 · 리뷰 1,138개</span>
     <a href="https://link.coupang.com/a/er1VXD" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
