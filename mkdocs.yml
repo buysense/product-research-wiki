@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 리즈니 구슬 비즈 슬랑이: products/lizny-bead-slime-stressball.md
     - 토이토 샤베트 크런치 슬랑이 슬라임: products/toyto-sherbet-crunchy-slime.md
     - 위드스타 쫀득쫀득 얼음 말랑이: products/widestar-jjondeuk-ice-mallangi.md
     - iiGEN 애니멀 말랑 모찌, 랜덤 발송, 5개: products/iigen-animal-malang-mochi.md
