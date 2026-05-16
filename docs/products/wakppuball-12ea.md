@@ -20,7 +20,7 @@ description: 왁뿌볼 12개는 일상에서 간편하게 즐기거나 소소한
     "price": "26900",
     "url": "https://link.coupang.com/a/dLENTfldhQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-22"
+    "priceValidUntil": "2026-05-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
