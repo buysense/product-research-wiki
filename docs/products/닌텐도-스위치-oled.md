@@ -29,6 +29,8 @@ description: 닌텐도 스위치 OLED는 휴대 및 거치형 게임기를 고�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -39,40 +41,42 @@ description: 닌텐도 스위치 OLED는 휴대 및 거치형 게임기를 고�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">450,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">400,000</text>
 
-    <path d="M 68 152 L 105 152 L 142 152 L 179 152 L 217 152 L 254 152 L 291 152 L 328 152 L 365 152 L 402 152 L 439 111 L 477 72 L 514 72 L 551 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 152 L 105 152 L 142 152 L 179 152 L 217 152 L 254 152 L 291 152 L 328 152 L 365 152 L 402 152 L 439 111 L 477 72 L 514 72 L 551 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 152 L 103 152 L 137 152 L 172 152 L 207 152 L 241 152 L 276 152 L 311 152 L 345 152 L 380 152 L 415 111 L 449 72 L 484 72 L 519 72 L 553 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 152 L 103 152 L 137 152 L 172 152 L 207 152 L 241 152 L 276 152 L 311 152 L 345 152 L 380 152 L 415 111 L 449 72 L 484 72 L 519 72 L 553 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="105" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="179" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="254" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="402" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="477" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="551" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="103" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="137" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="207" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="311" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="345" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="449" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="519" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="553" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">470,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="105" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="551" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="103" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="207" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="449" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="553" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
