@@ -29,6 +29,8 @@ description: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스는 2025�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -39,40 +41,42 @@ description: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스는 2025�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 122 L 105 122 L 142 123 L 179 123 L 217 123 L 254 123 L 291 164 L 328 164 L 365 164 L 402 164 L 439 164 L 477 56 L 514 75 L 551 75 L 588 75 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 122 L 105 122 L 142 123 L 179 123 L 217 123 L 254 123 L 291 164 L 328 164 L 365 164 L 402 164 L 439 164 L 477 56 L 514 75 L 551 75 L 588 75" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 122 L 103 122 L 137 123 L 172 123 L 207 123 L 241 123 L 276 164 L 311 164 L 345 164 L 380 164 L 415 164 L 449 56 L 484 75 L 519 75 L 553 75 L 588 75 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 122 L 103 122 L 137 123 L 172 123 L 207 123 L 241 123 L 276 164 L 311 164 L 345 164 L 380 164 L 415 164 L 449 56 L 484 75 L 519 75 L 553 75 L 588 75" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="105" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="179" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="254" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="402" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="477" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="551" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="103" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="137" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="207" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="311" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="345" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="449" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="519" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="553" cy="75" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="75" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="63" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">56,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="105" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="551" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="103" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="207" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="449" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="553" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
