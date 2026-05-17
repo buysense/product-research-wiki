@@ -19,13 +19,15 @@ description: 베스트템 왁뿌볼 로제 말랑이는 부드러운 촉감과 �
     "price": "21800",
     "url": "https://link.coupang.com/a/dLE4vuXxsW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-24"
+    "priceValidUntil": "2026-05-25"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -36,16 +38,18 @@ description: 베스트템 왁뿌볼 로제 말랑이는 부드러운 촉감과 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,800</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,700</text>
 
-    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 241 102 L 415 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 241 102 L 415 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
