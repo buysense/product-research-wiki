@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 곰곰 납작한 누들 밀 떡볶이떡 (냉장), 500g, 1개: products/gomgom-flat-noodle-tteokbokki-tteok.md
     - 조선호텔 포기김치 프레시: products/chosun-hotel-kimchi-fresh-pogikimchi.md
     - LG전자 QHD 스탠바이미 2 LED TV: products/lg-standbyme-2-qhd-led-tv.md
     - 킨더퍼페츠 100% 써지컬 미아방지 목걸이: products/kinderpuppets-surgical-child-id-necklace.md
