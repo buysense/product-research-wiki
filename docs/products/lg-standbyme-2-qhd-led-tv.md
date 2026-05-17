@@ -20,7 +20,7 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
     "price": "1052670",
     "url": "https://link.coupang.com/a/dL2nfPaZ1U",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-24"
+    "priceValidUntil": "2026-05-25"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -34,6 +34,8 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -44,16 +46,18 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,050,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,000,000</text>
 
-    <path d="M 68 163 L 328 163 L 588 98 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 163 L 328 163 L 588 98" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 163 L 241 163 L 415 98 L 588 98 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 163 L 241 163 L 415 98 L 588 98" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="98" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="98" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="86" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,052,670원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
