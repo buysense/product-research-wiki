@@ -20,12 +20,12 @@ description: 동원 핑거크랩스는 한입 크기로 즐길 수 있는 게맛
     "price": "1370",
     "url": "https://link.coupang.com/a/ewUBfl",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-24"
+    "priceValidUntil": "2026-05-25"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 11117,
+    "reviewCount": 11132,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 동원 핑거크랩스는 한입 크기로 즐길 수 있는 게맛
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-26 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -69,48 +71,50 @@ description: 동원 핑거크랩스는 한입 크기로 즐길 수 있는 게맛
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,000</text>
 
-    <path d="M 68 144 L 97 37 L 126 37 L 155 37 L 184 37 L 212 37 L 241 37 L 270 37 L 299 37 L 328 37 L 357 37 L 386 37 L 415 37 L 444 37 L 472 37 L 501 37 L 530 37 L 559 37 L 588 37 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 144 L 97 37 L 126 37 L 155 37 L 184 37 L 212 37 L 241 37 L 270 37 L 299 37 L 328 37 L 357 37 L 386 37 L 415 37 L 444 37 L 472 37 L 501 37 L 530 37 L 559 37 L 588 37" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 144 L 95 37 L 123 37 L 150 37 L 177 37 L 205 37 L 232 37 L 260 37 L 287 37 L 314 37 L 342 37 L 369 37 L 396 37 L 424 37 L 451 37 L 479 37 L 506 37 L 533 37 L 561 37 L 588 37 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 144 L 95 37 L 123 37 L 150 37 L 177 37 L 205 37 L 232 37 L 260 37 L 287 37 L 314 37 L 342 37 L 369 37 L 396 37 L 424 37 L 451 37 L 479 37 L 506 37 L 533 37 L 561 37 L 588 37" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="97" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="212" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="270" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="386" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="444" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="559" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="95" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="123" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="150" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="177" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="205" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="232" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="260" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="287" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="314" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="342" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="369" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="396" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="424" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="451" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="479" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="506" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="533" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="561" cy="37" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="37" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="25" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,370원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="97" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="212" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="270" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="386" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="444" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="559" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="95" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="150" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="205" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="260" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="314" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="342" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="396" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="451" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="506" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="561" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -118,7 +122,7 @@ description: 동원 핑거크랩스는 한입 크기로 즐길 수 있는 게맛
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,370원 · 별점 4.6 · 리뷰 11,117개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,370원 · 별점 4.6 · 리뷰 11,132개</span>
     <a href="https://link.coupang.com/a/ewUBfl" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -207,7 +211,7 @@ A. 그냥 먹어도 맛있지만, 마요네즈나 와사비 소스에 찍어 먹
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,370원 · 별점 4.6 · 리뷰 11,117개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,370원 · 별점 4.6 · 리뷰 11,132개</span>
     <a href="https://link.coupang.com/a/ewUBfl" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
