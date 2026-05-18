@@ -20,7 +20,7 @@ description: 히가시마루 카키다시 (일본 굴 간장)는 깊은 굴 감�
     "price": "24600",
     "url": "https://link.coupang.com/a/epCcW5",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-25"
+    "priceValidUntil": "2026-05-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -64,6 +64,8 @@ description: 히가시마루 카키다시 (일본 굴 간장)는 깊은 굴 감�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -74,50 +76,52 @@ description: 히가시마루 카키다시 (일본 굴 간장)는 깊은 굴 감�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
 
-    <path d="M 68 34 L 95 34 L 123 110 L 150 34 L 177 110 L 205 110 L 232 110 L 260 110 L 287 110 L 314 110 L 342 34 L 369 34 L 396 34 L 424 34 L 451 34 L 479 34 L 506 34 L 533 132 L 561 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 95 34 L 123 110 L 150 34 L 177 110 L 205 110 L 232 110 L 260 110 L 287 110 L 314 110 L 342 34 L 369 34 L 396 34 L 424 34 L 451 34 L 479 34 L 506 34 L 533 132 L 561 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 94 34 L 120 110 L 146 34 L 172 110 L 198 110 L 224 110 L 250 110 L 276 110 L 302 110 L 328 34 L 354 34 L 380 34 L 406 34 L 432 34 L 458 34 L 484 34 L 510 132 L 536 132 L 562 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 94 34 L 120 110 L 146 34 L 172 110 L 198 110 L 224 110 L 250 110 L 276 110 L 302 110 L 328 34 L 354 34 L 380 34 L 406 34 L 432 34 L 458 34 L 484 34 L 510 132 L 536 132 L 562 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="95" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="123" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="150" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="177" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="205" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="232" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="260" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="287" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="314" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="342" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="369" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="396" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="424" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="451" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="479" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="506" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="533" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="561" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="94" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="120" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="146" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="224" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="250" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="302" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="354" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="406" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="432" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="510" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="536" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="562" cy="132" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="95" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="150" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="205" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="260" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="314" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="342" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="396" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="451" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="506" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="561" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="94" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="146" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="510" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="562" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
