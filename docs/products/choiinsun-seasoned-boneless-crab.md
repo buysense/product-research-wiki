@@ -20,12 +20,12 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
     "price": "22260",
     "url": "https://link.coupang.com/a/et5POZ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-25"
+    "priceValidUntil": "2026-05-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.3,
-    "reviewCount": 12169,
+    "reviewCount": 12173,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-22 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -73,50 +75,52 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 92 L 95 92 L 123 92 L 150 92 L 177 92 L 205 92 L 232 92 L 260 92 L 287 92 L 314 92 L 342 177 L 369 92 L 396 92 L 424 92 L 451 92 L 479 92 L 506 92 L 533 92 L 561 92 L 588 92 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 92 L 95 92 L 123 92 L 150 92 L 177 92 L 205 92 L 232 92 L 260 92 L 287 92 L 314 92 L 342 177 L 369 92 L 396 92 L 424 92 L 451 92 L 479 92 L 506 92 L 533 92 L 561 92 L 588 92" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 92 L 94 92 L 120 92 L 146 92 L 172 92 L 198 92 L 224 92 L 250 92 L 276 92 L 302 92 L 328 177 L 354 92 L 380 92 L 406 92 L 432 92 L 458 92 L 484 92 L 510 92 L 536 92 L 562 92 L 588 92 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 92 L 94 92 L 120 92 L 146 92 L 172 92 L 198 92 L 224 92 L 250 92 L 276 92 L 302 92 L 328 177 L 354 92 L 380 92 L 406 92 L 432 92 L 458 92 L 484 92 L 510 92 L 536 92 L 562 92 L 588 92" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="95" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="123" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="150" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="177" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="205" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="232" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="260" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="287" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="314" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="342" cy="177" r="4" fill="#fdba74"></circle>
-    <circle cx="369" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="396" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="424" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="451" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="479" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="506" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="533" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="561" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="94" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="120" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="146" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="224" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="250" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="302" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="177" r="4" fill="#fdba74"></circle>
+    <circle cx="354" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="406" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="432" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="510" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="536" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="562" cy="92" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="92" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="80" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,260원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="95" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="150" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="205" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="260" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="314" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="342" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="396" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="451" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="506" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="561" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="94" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="146" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="510" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="562" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -124,7 +128,7 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 12,169개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 12,173개</span>
     <a href="https://link.coupang.com/a/et5POZ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -206,7 +210,7 @@ A. 달콤하면서도 매콤한 맛의 균형이 잘 잡혀있습니다. 일반�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 12,169개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 12,173개</span>
     <a href="https://link.coupang.com/a/et5POZ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
