@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 전라도 여수 파김치: products/jeollado-yeosu-green-onion-kimchi.md
     - 청정원 조청쌀엿: products/chungjungone-jocheong-ssalyeot.md
     - 곰곰 납작한 누들 밀 떡볶이떡 (냉장), 500g, 1개: products/gomgom-flat-noodle-tteokbokki-tteok.md
     - 조선호텔 포기김치 프레시: products/chosun-hotel-kimchi-fresh-pogikimchi.md
