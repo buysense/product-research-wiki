@@ -17,15 +17,15 @@ description: 생미쉘 빨레트 비스킷은 프랑스 전통 제법으로 만�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "15540",
+    "price": "16120",
     "url": "https://link.coupang.com/a/dFwLw32QeG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-25"
+    "priceValidUntil": "2026-05-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 2161,
+    "reviewCount": 2162,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 생미쉘 빨레트 비스킷은 프랑스 전통 제법으로 만�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-11 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -54,26 +56,28 @@ description: 생미쉘 빨레트 비스킷은 프랑스 전통 제법으로 만�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,500</text>
 
-    <path d="M 68 172 L 142 172 L 217 172 L 291 172 L 365 96 L 439 172 L 514 172 L 588 172 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 172 L 142 172 L 217 172 L 291 172 L 365 96 L 439 172 L 514 172 L 588 172" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 172 L 133 172 L 198 172 L 263 172 L 328 96 L 393 172 L 458 172 L 523 172 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 172 L 133 172 L 198 172 L 263 172 L 328 96 L 393 172 L 458 172 L 523 172 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="172" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="172" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="172" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="172" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="172" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="172" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="172" r="5" fill="#ea580c"></circle>
+    <circle cx="133" cy="172" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="172" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="172" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="96" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="172" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="172" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="172" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="84" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="160" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,540원</text>
+    <text x="588" y="72" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,120원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -81,7 +85,7 @@ description: 생미쉘 빨레트 비스킷은 프랑스 전통 제법으로 만�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,540원 · 별점 4.6 · 리뷰 2,161개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,120원 · 별점 4.6 · 리뷰 2,162개</span>
     <a href="https://link.coupang.com/a/dFwLw32QeG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -161,7 +165,7 @@ A. 버터 함량이 높아 맛이 풍부하지만, 그만큼 칼로리가 높은
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,540원 · 별점 4.6 · 리뷰 2,161개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,120원 · 별점 4.6 · 리뷰 2,162개</span>
     <a href="https://link.coupang.com/a/dFwLw32QeG" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
