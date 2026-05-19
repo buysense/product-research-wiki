@@ -20,7 +20,7 @@ description: 롤베이비 하우스 착한 폴더 놀이매트는 4cm 두께와 
     "price": "50900",
     "url": "https://link.coupang.com/a/dSG6pQR5DU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-26"
+    "priceValidUntil": "2026-05-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
