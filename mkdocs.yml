@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 골든잇츠 유기농 퀵 오트밀: products/golden-eats-organic-quick-oatmeal.md
     - 홈잼 두꺼운 층간소음 매트 대형 퍼즐매트 베란다 바닥매트: products/homjam-thick-noise-mat-large-puzzle-mat.md
     - 롤베이비 하우스 착한 폴더 놀이매트: products/rollbaby-house-good-folder-playmat.md
     - 풀무원 1+등급 무항생제 목초란: products/pulmuone-1-grade-antibiotic-free-pasture-eggs.md
