@@ -33,6 +33,8 @@ description: 모모야 라유는 튀긴 마늘과 양파의 바삭한 식감, �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -43,44 +45,46 @@ description: 모모야 라유는 튀긴 마늘과 양파의 바삭한 식감, �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,100</text>
 
-    <path d="M 68 132 L 101 132 L 133 132 L 166 132 L 198 64 L 231 49 L 263 49 L 296 49 L 328 49 L 361 49 L 393 49 L 426 49 L 458 49 L 491 49 L 523 49 L 556 49 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 132 L 101 132 L 133 132 L 166 132 L 198 64 L 231 49 L 263 49 L 296 49 L 328 49 L 361 49 L 393 49 L 426 49 L 458 49 L 491 49 L 523 49 L 556 49 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 132 L 99 132 L 129 132 L 160 132 L 190 64 L 221 49 L 252 49 L 282 49 L 313 49 L 343 49 L 374 49 L 404 49 L 435 49 L 466 49 L 496 49 L 527 49 L 557 49 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 99 132 L 129 132 L 160 132 L 190 64 L 221 49 L 252 49 L 282 49 L 313 49 L 343 49 L 374 49 L 404 49 L 435 49 L 466 49 L 496 49 L 527 49 L 557 49 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="101" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="166" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="231" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="296" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="361" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="426" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="491" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="556" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="99" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="129" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="160" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="190" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="221" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="252" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="282" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="313" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="343" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="374" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="404" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="435" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="466" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="496" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="527" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="557" cy="49" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="49" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="37" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,270원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="101" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="166" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="491" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="556" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="99" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="160" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="221" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="282" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="374" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="435" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="496" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="557" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
