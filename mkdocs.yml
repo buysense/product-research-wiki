@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 풀무원 1+등급 무항생제 목초란: products/pulmuone-1-grade-antibiotic-free-pasture-eggs.md
     - 삼양 불닭볶음면: products/samyang-buldak-bokkeum-myeon.md
     - 전라도 여수 파김치: products/jeollado-yeosu-green-onion-kimchi.md
     - 청정원 조청쌀엿: products/chungjungone-jocheong-ssalyeot.md
