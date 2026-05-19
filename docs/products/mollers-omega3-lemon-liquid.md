@@ -17,15 +17,15 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "30780",
+    "price": "34200",
     "url": "https://link.coupang.com/a/eDBeaL",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-26"
+    "priceValidUntil": "2026-05-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 104,
+    "reviewCount": 106,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -66,38 +68,40 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
 
-    <path d="M 68 38 L 108 38 L 148 38 L 188 38 L 228 38 L 268 38 L 308 90 L 348 90 L 388 90 L 428 90 L 468 80 L 508 80 L 548 132 L 588 90 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 38 L 108 38 L 148 38 L 188 38 L 228 38 L 268 38 L 308 90 L 348 90 L 388 90 L 428 90 L 468 80 L 508 80 L 548 132 L 588 90" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 38 L 105 38 L 142 38 L 179 38 L 217 38 L 254 38 L 291 90 L 328 90 L 365 90 L 402 90 L 439 80 L 477 80 L 514 132 L 551 90 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 38 L 105 38 L 142 38 L 179 38 L 217 38 L 254 38 L 291 90 L 328 90 L 365 90 L 402 90 L 439 80 L 477 80 L 514 132 L 551 90 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="90" r="5" fill="#ea580c"></circle>
+    <circle cx="105" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="179" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="254" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="38" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="78" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">30,780원</text>
+    <text x="588" y="26" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="105" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="551" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -105,7 +109,7 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 30,780원 · 별점 4.6 · 리뷰 104개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,200원 · 별점 4.6 · 리뷰 106개</span>
     <a href="https://link.coupang.com/a/eDBeaL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -185,7 +189,7 @@ A. 제품 라벨의 영양 정보 또는 공식 홈페이지에서 DHA와 EPA의
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 30,780원 · 별점 4.6 · 리뷰 104개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,200원 · 별점 4.6 · 리뷰 106개</span>
     <a href="https://link.coupang.com/a/eDBeaL" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
