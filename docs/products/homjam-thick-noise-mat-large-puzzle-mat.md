@@ -20,7 +20,7 @@ description: 홈잼 두꺼운 층간소음 매트는 2.6cm 두께로 아이 있�
     "price": "23900",
     "url": "https://link.coupang.com/a/dSHk40limq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-26"
+    "priceValidUntil": "2026-05-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
