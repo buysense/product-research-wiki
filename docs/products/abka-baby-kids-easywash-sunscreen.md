@@ -20,7 +20,7 @@ description: 아이와 민감성 피부를 위한 아브카 베이비 앤 키즈
     "price": "7060",
     "url": "https://link.coupang.com/a/dSIQT8ti5k",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-26"
+    "priceValidUntil": "2026-05-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
