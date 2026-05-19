@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 보타니컬테라피 베이비 워셔블 유아 썬밀크 SPF32 PA++, 80ml: products/botanical-therapy-baby-washable-sunmilk.md
     - 베스트웨이 엠보싱 유아 사각 욕조 풀장: products/bestway-embossed-baby-square-bathtub-pool.md
     - 베스트웨이 피쉬토이 분수 미끄럼 물놀이 풀장: products/bestway-fishtoy-fountain-slide-pool.md
     - 핑크퐁 아기상어 에어쿠션 풀: products/pinkfong-babyshark-air-cushion-pool.md
