@@ -35,6 +35,8 @@ description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -45,46 +47,48 @@ description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
 
-    <path d="M 68 173 L 99 173 L 129 176 L 160 173 L 190 173 L 221 173 L 252 173 L 282 173 L 313 173 L 343 173 L 374 173 L 404 173 L 435 173 L 466 173 L 496 173 L 527 173 L 557 173 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 173 L 99 173 L 129 176 L 160 173 L 190 173 L 221 173 L 252 173 L 282 173 L 313 173 L 343 173 L 374 173 L 404 173 L 435 173 L 466 173 L 496 173 L 527 173 L 557 173 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 173 L 97 173 L 126 176 L 155 173 L 184 173 L 212 173 L 241 173 L 270 173 L 299 173 L 328 173 L 357 173 L 386 173 L 415 173 L 444 173 L 472 173 L 501 173 L 530 173 L 559 72 L 588 173 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 173 L 97 173 L 126 176 L 155 173 L 184 173 L 212 173 L 241 173 L 270 173 L 299 173 L 328 173 L 357 173 L 386 173 L 415 173 L 444 173 L 472 173 L 501 173 L 530 173 L 559 72 L 588 173" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="99" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="129" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="160" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="190" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="221" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="252" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="282" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="313" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="343" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="374" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="404" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="435" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="466" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="496" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="527" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="557" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
+    <circle cx="97" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="212" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="270" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="386" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="444" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="559" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="173" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">26,800원</text>
+    <text x="588" y="161" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,120원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="99" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="160" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="221" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="282" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="374" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="435" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="496" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="557" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="97" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="212" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="270" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="386" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="444" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="559" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
