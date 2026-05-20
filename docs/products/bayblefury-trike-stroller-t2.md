@@ -20,12 +20,12 @@ description: 베이블퓨어리 트라이크 유모차 T2는 3.7kg 초경량 무
     "price": "53400",
     "url": "https://link.coupang.com/a/dTXmVSYzOC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 2263,
+    "reviewCount": 2267,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -37,7 +37,7 @@ description: 베이블퓨어리 트라이크 유모차 T2는 3.7kg 초경량 무
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 53,400원 · 별점 4.7 · 리뷰 2,263개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 53,400원 · 별점 4.7 · 리뷰 2,267개</span>
     <a href="https://link.coupang.com/a/dTXmVSYzOC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -122,7 +122,7 @@ A. 제품에 기본으로 시트 쿠션이 포함되어 있지 않습니다. 아
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 53,400원 · 별점 4.7 · 리뷰 2,263개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 53,400원 · 별점 4.7 · 리뷰 2,267개</span>
     <a href="https://link.coupang.com/a/dTXmVSYzOC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
