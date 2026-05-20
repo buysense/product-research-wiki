@@ -19,7 +19,7 @@ description: 그레이트북스 안녕 마음아 (전 47종)는 2세~4세 유아
     "price": "355000",
     "url": "https://link.coupang.com/a/dTZNpTpBhQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
