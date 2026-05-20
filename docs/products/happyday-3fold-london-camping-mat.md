@@ -20,12 +20,12 @@ description: 해피데이 3단 런던 캠핑매트는 가족 단위 야외 활�
     "price": "23300",
     "url": "https://link.coupang.com/a/esUMd5",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 7812,
+    "reviewCount": 7814,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -35,6 +35,8 @@ description: 해피데이 3단 런던 캠핑매트는 가족 단위 야외 활�
   📅 작성일: 2026-04-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
 ## 참고한 글
+
+
 
 
 
@@ -78,54 +80,56 @@ description: 해피데이 3단 런던 캠핑매트는 가족 단위 야외 활�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">23,300</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">23,200</text>
 
-    <path d="M 68 102 L 93 102 L 118 102 L 142 102 L 167 102 L 192 102 L 217 102 L 241 102 L 266 102 L 291 102 L 316 102 L 340 102 L 365 102 L 390 102 L 415 102 L 439 102 L 464 102 L 489 102 L 514 102 L 538 102 L 563 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 93 102 L 118 102 L 142 102 L 167 102 L 192 102 L 217 102 L 241 102 L 266 102 L 291 102 L 316 102 L 340 102 L 365 102 L 390 102 L 415 102 L 439 102 L 464 102 L 489 102 L 514 102 L 538 102 L 563 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 92 102 L 115 102 L 139 102 L 163 102 L 186 102 L 210 102 L 233 102 L 257 102 L 281 102 L 304 102 L 328 102 L 352 102 L 375 102 L 399 102 L 423 102 L 446 102 L 470 102 L 493 102 L 517 102 L 541 102 L 564 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 92 102 L 115 102 L 139 102 L 163 102 L 186 102 L 210 102 L 233 102 L 257 102 L 281 102 L 304 102 L 328 102 L 352 102 L 375 102 L 399 102 L 423 102 L 446 102 L 470 102 L 493 102 L 517 102 L 541 102 L 564 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="93" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="118" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="167" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="192" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="266" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="316" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="340" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="390" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="464" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="489" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="538" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="563" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="92" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="115" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="139" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="163" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="186" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="210" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="233" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="257" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="281" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="352" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="375" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="399" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="423" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="470" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="517" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="541" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="564" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,300원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="93" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="167" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="266" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="316" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="340" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="390" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="489" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="563" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="92" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="139" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="281" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="375" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="517" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="564" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -133,7 +137,7 @@ description: 해피데이 3단 런던 캠핑매트는 가족 단위 야외 활�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,300원 · 별점 4.6 · 리뷰 7,812개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,300원 · 별점 4.6 · 리뷰 7,814개</span>
     <a href="https://link.coupang.com/a/esUMd5" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -215,7 +219,7 @@ A. 3단 접이식 구조로 접었을 때 부피가 줄어들어 차량 트렁�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,300원 · 별점 4.6 · 리뷰 7,812개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,300원 · 별점 4.6 · 리뷰 7,814개</span>
     <a href="https://link.coupang.com/a/esUMd5" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
