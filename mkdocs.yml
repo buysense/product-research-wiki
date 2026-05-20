@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 꿈비 분유 쉐이커: products/kkumbi-formula-shaker-infant-feeding.md
     - 코이체 자동차 접이식 트렁크 정리함 대형66L: products/koyiche-car-foldable-trunk-organizer-66l.md
     - 코이체 베이직 라인 접이식 자동차 트렁크 정리함: products/koiche-basic-line-folding-car-trunk-organizer.md
     - 라이프썸 핸디형 무선 청소기: products/lifesum-handheld-cordless-vacuum-cleaner.md
