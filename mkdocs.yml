@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 야물야물 그림책 전 20권 최신 개정판: products/yamul-yamul-picture-book-20-revised.md
     - 팝업 전래 전 10권: products/byeolttongbyeol-popup-jeonrae-10.md
     - 그레이트북스 안녕 마음아 (전 47종): products/greatbooks-hello-my-heart-47-set.md
     - 꿈비 노거품 노배앓이 휴대용 무선 자동 분유쉐이커: products/kumbee-no-bubble-no-colic-portable-formula-shaker.md
