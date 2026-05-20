@@ -19,12 +19,12 @@ description: 아이의 시선으로 이별과 엄마의 사랑을 따뜻하게 �
     "price": "10800",
     "url": "https://link.coupang.com/a/dIgtll77OS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1616,
+    "reviewCount": 1621,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -33,6 +33,8 @@ description: 아이의 시선으로 이별과 엄마의 사랑을 따뜻하게 �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-13 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -53,26 +55,28 @@ description: 아이의 시선으로 이별과 엄마의 사랑을 따뜻하게 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,800</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,700</text>
 
-    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 133 102 L 198 102 L 263 102 L 328 102 L 393 102 L 458 102 L 523 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 133 102 L 198 102 L 263 102 L 328 102 L 393 102 L 458 102 L 523 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -80,7 +84,7 @@ description: 아이의 시선으로 이별과 엄마의 사랑을 따뜻하게 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,800원 · 별점 4.8 · 리뷰 1,616개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,800원 · 별점 4.8 · 리뷰 1,621개</span>
     <a href="https://link.coupang.com/a/dIgtll77OS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -152,7 +156,7 @@ A. 가족 구성원 중 이별을 앞두고 있거나, 소중한 사람을 잃�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,800원 · 별점 4.8 · 리뷰 1,616개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,800원 · 별점 4.8 · 리뷰 1,621개</span>
     <a href="https://link.coupang.com/a/dIgtll77OS" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
