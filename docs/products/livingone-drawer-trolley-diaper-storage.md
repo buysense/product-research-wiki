@@ -20,7 +20,7 @@ description: 리빙원 서랍형트롤리 이동식기저귀함은 아이 기저
     "price": "30800",
     "url": "https://link.coupang.com/a/dTX9PwSvqS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
