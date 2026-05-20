@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - LIVINGSMILE 포켓형 직사각 기저귀정리함: products/livingsmile-pocket-rectangular-diaper-organizer.md
     - 리빙원 서랍형트롤리 이동식기저귀함: products/livingone-drawer-trolley-diaper-storage.md
     - 모네 프리미엄 트라이크 유모차: products/mone-premium-trike-stroller.md
     - 마이크로 초경량 트라이크 디럭스: products/micro-ultralight-trike-deluxe.md
