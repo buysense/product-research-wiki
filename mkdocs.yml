@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 로지오가닉 당당한 젤리 3종 세트: products/rojiorganic-dandang-jelly-3pack-kids-health.md
     - 베이블퓨어리 트라이크 유모차 T2: products/bayblefury-trike-stroller-t2.md
     - 꿈비 분유 쉐이커: products/kkumbi-formula-shaker-infant-feeding.md
     - 코이체 자동차 접이식 트렁크 정리함 대형66L: products/koyiche-car-foldable-trunk-organizer-66l.md
