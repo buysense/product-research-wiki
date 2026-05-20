@@ -19,7 +19,7 @@ description: 팝업 전래 전 10권은 어린 아이들이 전래동화를 쉽�
     "price": "59400",
     "url": "https://link.coupang.com/a/dT0bofqcBE",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
