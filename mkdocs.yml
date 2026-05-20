@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 이베아 두꺼운 퍼즐매트 층간소음 미끄럼방지: products/ibea-thick-puzzle-mat-noise-slip-prevention.md
     - 그린핑거 야외놀이 워셔블 선크림 SPF50+ PA++++, 80ml: products/greenfinger-outdoor-washable-sunscreen-spf50.md
     - 아브카 베이비 앤 키즈 이지워시 선크림 SPF50+ PA++++, 50ml: products/abka-baby-kids-easywash-sunscreen.md
     - 보타니컬테라피 베이비 워셔블 유아 썬밀크 SPF32 PA++, 80ml: products/botanical-therapy-baby-washable-sunmilk.md
