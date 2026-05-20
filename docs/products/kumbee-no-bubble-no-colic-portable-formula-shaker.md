@@ -19,7 +19,7 @@ description: 밤중 수유나 외출 시 편리하게 분유를 타주는 꿈비
     "price": "54000",
     "url": "https://link.coupang.com/a/dTYZTrRkHc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   }
 }
 </script>
