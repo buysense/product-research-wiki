@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 모네 프리미엄 트라이크 유모차: products/mone-premium-trike-stroller.md
     - 마이크로 초경량 트라이크 디럭스: products/micro-ultralight-trike-deluxe.md
     - 로지오가닉 당당한 젤리 3종 세트: products/rojiorganic-dandang-jelly-3pack-kids-health.md
     - 베이블퓨어리 트라이크 유모차 T2: products/bayblefury-trike-stroller-t2.md
