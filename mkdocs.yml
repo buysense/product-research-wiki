@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 라이프썸 핸디형 무선 청소기: products/lifesum-handheld-cordless-vacuum-cleaner.md
     - 잇앤라이프 세워지는 차량용 부착 쓰레기봉투: products/itnlife-standing-car-trashbag.md
     - 이베아 두꺼운 퍼즐매트 층간소음 미끄럼방지: products/ibea-thick-puzzle-mat-noise-slip-prevention.md
     - 그린핑거 야외놀이 워셔블 선크림 SPF50+ PA++++, 80ml: products/greenfinger-outdoor-washable-sunscreen-spf50.md
