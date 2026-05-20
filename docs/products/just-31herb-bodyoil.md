@@ -20,7 +20,7 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
     "price": "63900",
     "url": "https://link.coupang.com/a/dUsgXOCSEm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
