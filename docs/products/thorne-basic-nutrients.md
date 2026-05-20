@@ -19,13 +19,15 @@ description: THORNE 기본 영양소는 일상적인 영양 균형 유지와 전
     "price": "207590",
     "url": "https://link.coupang.com/a/eDDugl",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-26"
+    "priceValidUntil": "2026-05-27"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -58,38 +60,40 @@ description: THORNE 기본 영양소는 일상적인 영양 균형 유지와 전
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">207,600</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">207,500</text>
 
-    <path d="M 68 110 L 108 110 L 148 110 L 188 110 L 228 110 L 268 110 L 308 110 L 348 110 L 388 110 L 428 110 L 468 110 L 508 110 L 548 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 108 110 L 148 110 L 188 110 L 228 110 L 268 110 L 308 110 L 348 110 L 388 110 L 428 110 L 468 110 L 508 110 L 548 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 105 110 L 142 110 L 179 110 L 217 110 L 254 110 L 291 110 L 328 110 L 365 110 L 402 110 L 439 110 L 477 110 L 514 110 L 551 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 105 110 L 142 110 L 179 110 L 217 110 L 254 110 L 291 110 L 328 110 L 365 110 L 402 110 L 439 110 L 477 110 L 514 110 L 551 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="179" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="254" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">207,590원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="105" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="551" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
