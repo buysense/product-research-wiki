@@ -20,7 +20,7 @@ description: 부가부 유모차 컵홀더는 유모차 운행 중 음료 편의
     "price": "42750",
     "url": "https://link.coupang.com/a/dVOIMWuPMi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-28"
+    "priceValidUntil": "2026-05-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
