@@ -20,7 +20,7 @@ description: 풍심당 국내산 연근칩은 국내산 연근을 주원료로 �
     "price": "12830",
     "url": "https://link.coupang.com/a/dGFDhpPesm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -46,6 +46,8 @@ description: 풍심당 국내산 연근칩은 국내산 연근을 주원료로 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -56,28 +58,30 @@ description: 풍심당 국내산 연근칩은 국내산 연근을 주원료로 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,800</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,700</text>
 
-    <path d="M 68 79 L 133 79 L 198 79 L 263 79 L 328 79 L 393 79 L 458 79 L 523 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 79 L 133 79 L 198 79 L 263 79 L 328 79 L 393 79 L 458 79 L 523 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 79 L 126 79 L 184 79 L 241 79 L 299 79 L 357 79 L 415 79 L 472 79 L 530 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 126 79 L 184 79 L 241 79 L 299 79 L 357 79 L 415 79 L 472 79 L 530 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="79" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="79" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,830원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
