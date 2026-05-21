@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 삼대오백 통 흑마늘: products/samdaeobaek-whole-black-garlic.md
     - 탐사 3in1 유모차 2구 컵홀더 + 스마트폰 거치대 세트: products/tamsa-3in1-stroller-cupholder-phone-mount.md
     - 르메이어 3 in 1 유모차 스마트폰 컵홀더, 베이지, 1개: products/lemaire-stroller-cup-phone-holder.md
     - 부가부 유모차 컵홀더: products/bugaboo-stroller-cup-holder.md
