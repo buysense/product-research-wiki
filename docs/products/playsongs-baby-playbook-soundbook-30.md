@@ -19,7 +19,7 @@ description: 플레이송스 유아 놀이북 사운드북 30종은 영유아의
     "price": "13500",
     "url": "https://link.coupang.com/a/dVK5Mks8ZM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-28"
+    "priceValidUntil": "2026-05-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
