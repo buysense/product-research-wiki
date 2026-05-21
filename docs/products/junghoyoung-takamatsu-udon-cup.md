@@ -20,12 +20,12 @@ description: 정호영 셰프의 다카마쓰 우동 컵라면은 집에서 간�
     "price": "12850",
     "url": "https://link.coupang.com/a/dIJ1GnrOIC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-28"
+    "priceValidUntil": "2026-05-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.1,
-    "reviewCount": 81,
+    "reviewCount": 82,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 정호영 셰프의 다카마쓰 우동 컵라면은 집에서 간�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-13 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -56,28 +58,30 @@ description: 정호영 셰프의 다카마쓰 우동 컵라면은 집에서 간�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 171 L 133 171 L 198 171 L 263 93 L 328 59 L 393 59 L 458 59 L 523 59 L 588 59 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 171 L 133 171 L 198 171 L 263 93 L 328 59 L 393 59 L 458 59 L 523 59 L 588 59" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 171 L 126 171 L 184 171 L 241 93 L 299 59 L 357 59 L 415 59 L 472 59 L 530 59 L 588 59 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 171 L 126 171 L 184 171 L 241 93 L 299 59 L 357 59 L 415 59 L 472 59 L 530 59 L 588 59" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="171" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="171" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="171" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="59" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="59" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="47" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,850원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -85,7 +89,7 @@ description: 정호영 셰프의 다카마쓰 우동 컵라면은 집에서 간�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,850원 · 별점 4.1 · 리뷰 81개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,850원 · 별점 4.1 · 리뷰 82개</span>
     <a href="https://link.coupang.com/a/dIJ1GnrOIC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -158,7 +162,7 @@ A. 유명 셰프의 이름으로 출시되어 맛에 대한 기대감이 높다�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,850원 · 별점 4.1 · 리뷰 81개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,850원 · 별점 4.1 · 리뷰 82개</span>
     <a href="https://link.coupang.com/a/dIJ1GnrOIC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
