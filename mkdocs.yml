@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 튤립 사운드북 한글이 세트 전 3권 + 실리콘커버 세트: products/tulip-soundbook-hangul-set-3vol-siliconecover.md
     - 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난감: products/littlecloud-crawling-singing-dinosaur-toy.md
     - 키저스 빙글빙글 스핀팝 딸랑이 장난감 3종 세트: products/kijus-spinpop-rattle-toy-3set.md
     - 키저스 빙글빙글 캔디스핀팝 흡착회전딸랑이 3종 세트: products/kizus-spinning-candyspinpop-suction-rattle-set.md
