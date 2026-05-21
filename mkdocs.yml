@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 국민 튤립 사운드북 전3종 세트: 아기사랑동요 + 오감놀이동요 + 아기똑똑동요: products/gukmin-tulip-soundbook-3set-baby-play.md
     - 플레이송스 유아 놀이북 사운드북 30종: products/playsongs-baby-playbook-soundbook-30.md
     - 유스트 31허브 바디오일: products/just-31herb-bodyoil.md
     - 야물야물 그림책 전 20권 최신 개정판: products/yamul-yamul-picture-book-20-revised.md
