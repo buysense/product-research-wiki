@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 르메이어 3 in 1 유모차 스마트폰 컵홀더, 베이지, 1개: products/lemaire-stroller-cup-phone-holder.md
     - 부가부 유모차 컵홀더: products/bugaboo-stroller-cup-holder.md
     - 튤립 사운드북 한글이 세트 전 3권 + 실리콘커버 세트: products/tulip-soundbook-hangul-set-3vol-siliconecover.md
     - 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난감: products/littlecloud-crawling-singing-dinosaur-toy.md
