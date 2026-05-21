@@ -20,7 +20,7 @@ description: 꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 
     "price": "49590",
     "url": "https://link.coupang.com/a/dTYN0uDfY4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
