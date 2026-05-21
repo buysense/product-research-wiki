@@ -17,10 +17,10 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "8410",
+    "price": "8600",
     "url": "https://link.coupang.com/a/exEeiV",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-28"
+    "priceValidUntil": "2026-05-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -67,66 +67,70 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">8,500</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,400</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,300</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">8,600</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,400</text>
 
-    <path d="M 68 94 L 92 94 L 115 94 L 139 94 L 163 94 L 186 94 L 210 94 L 233 94 L 257 94 L 281 94 L 304 94 L 328 94 L 352 94 L 375 94 L 399 94 L 423 94 L 446 94 L 470 94 L 493 94 L 517 94 L 541 94 L 564 94 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 94 L 92 94 L 115 94 L 139 94 L 163 94 L 186 94 L 210 94 L 233 94 L 257 94 L 281 94 L 304 94 L 328 94 L 352 94 L 375 94 L 399 94 L 423 94 L 446 94 L 470 94 L 493 94 L 517 94 L 541 94 L 564 94 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="139" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="281" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="423" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="517" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="564" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="94" r="5" fill="#ea580c"></circle>
+    <path d="M 68 170 L 91 170 L 113 170 L 136 170 L 158 170 L 181 170 L 204 170 L 226 170 L 249 170 L 271 170 L 294 170 L 317 170 L 339 170 L 362 170 L 385 170 L 407 170 L 430 170 L 452 170 L 475 170 L 498 170 L 520 170 L 543 170 L 565 170 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 170 L 91 170 L 113 170 L 136 170 L 158 170 L 181 170 L 204 170 L 226 170 L 249 170 L 271 170 L 294 170 L 317 170 L 339 170 L 362 170 L 385 170 L 407 170 L 430 170 L 452 170 L 475 170 L 498 170 L 520 170 L 543 170 L 565 170 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="91" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="113" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="136" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="181" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="204" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="226" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="249" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="271" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="294" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="317" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="339" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="385" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="407" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="430" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="452" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="475" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="520" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="543" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="565" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,410원</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="92" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="139" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="281" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="375" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="517" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="564" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="91" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="113" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="158" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="204" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="226" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="271" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="317" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="339" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="385" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="430" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="452" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="498" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="543" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="565" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -134,7 +138,7 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,410원 · 별점 4.4 · 리뷰 58개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,600원 · 별점 4.4 · 리뷰 58개</span>
     <a href="https://link.coupang.com/a/exEeiV" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -208,7 +212,7 @@ A. 벽등은 전기 배선 작업이 필요할 수 있으므로, 자가 설치�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,410원 · 별점 4.4 · 리뷰 58개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,600원 · 별점 4.4 · 리뷰 58개</span>
     <a href="https://link.coupang.com/a/exEeiV" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
