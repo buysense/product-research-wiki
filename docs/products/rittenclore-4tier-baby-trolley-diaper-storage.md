@@ -20,7 +20,7 @@ description: 리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 
     "price": "51900",
     "url": "https://link.coupang.com/a/dTYBRvEl2a",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-27"
+    "priceValidUntil": "2026-05-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
