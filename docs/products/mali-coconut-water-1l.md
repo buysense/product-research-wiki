@@ -20,12 +20,12 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
     "price": "16980",
     "url": "https://link.coupang.com/a/eDJ5YO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-28"
+    "priceValidUntil": "2026-05-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 24195,
+    "reviewCount": 24204,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -70,42 +72,44 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,900</text>
 
-    <path d="M 68 117 L 103 117 L 137 117 L 172 117 L 207 117 L 241 117 L 276 117 L 311 117 L 345 117 L 380 117 L 415 117 L 449 117 L 484 117 L 519 117 L 553 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 117 L 103 117 L 137 117 L 172 117 L 207 117 L 241 117 L 276 117 L 311 117 L 345 117 L 380 117 L 415 117 L 449 117 L 484 117 L 519 117 L 553 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 117 L 101 117 L 133 117 L 166 117 L 198 117 L 231 117 L 263 117 L 296 117 L 328 117 L 361 117 L 393 117 L 426 117 L 458 117 L 491 117 L 523 117 L 556 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 117 L 101 117 L 133 117 L 166 117 L 198 117 L 231 117 L 263 117 L 296 117 L 328 117 L 361 117 L 393 117 L 426 117 L 458 117 L 491 117 L 523 117 L 556 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="103" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="137" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="207" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="311" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="345" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="449" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="519" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="553" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="101" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="166" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="231" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="296" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="361" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="426" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="491" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="556" cy="117" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,980원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="103" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="207" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="449" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="553" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="101" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="166" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="491" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="556" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -113,7 +117,7 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 24,195개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 24,204개</span>
     <a href="https://link.coupang.com/a/eDJ5YO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -187,7 +191,7 @@ A. 전해질은 우리 몸의 체액에 녹아 있는 나트륨, 칼륨, 마그�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 24,195개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 24,204개</span>
     <a href="https://link.coupang.com/a/eDJ5YO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
