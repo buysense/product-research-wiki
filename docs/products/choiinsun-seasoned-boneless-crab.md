@@ -20,12 +20,12 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
     "price": "22260",
     "url": "https://link.coupang.com/a/et5POZ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-28"
+    "priceValidUntil": "2026-05-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.3,
-    "reviewCount": 12186,
+    "reviewCount": 12192,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-22 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -79,56 +81,58 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 92 L 92 92 L 115 92 L 139 92 L 163 92 L 186 92 L 210 92 L 233 92 L 257 92 L 281 92 L 304 177 L 328 92 L 352 92 L 375 92 L 399 92 L 423 92 L 446 92 L 470 92 L 493 92 L 517 92 L 541 92 L 564 92 L 588 92 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 92 L 92 92 L 115 92 L 139 92 L 163 92 L 186 92 L 210 92 L 233 92 L 257 92 L 281 92 L 304 177 L 328 92 L 352 92 L 375 92 L 399 92 L 423 92 L 446 92 L 470 92 L 493 92 L 517 92 L 541 92 L 564 92 L 588 92" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 92 L 91 92 L 113 92 L 136 92 L 158 92 L 181 92 L 204 92 L 226 92 L 249 92 L 271 92 L 294 177 L 317 92 L 339 92 L 362 92 L 385 92 L 407 92 L 430 92 L 452 92 L 475 92 L 498 92 L 520 92 L 543 92 L 565 92 L 588 92 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 92 L 91 92 L 113 92 L 136 92 L 158 92 L 181 92 L 204 92 L 226 92 L 249 92 L 271 92 L 294 177 L 317 92 L 339 92 L 362 92 L 385 92 L 407 92 L 430 92 L 452 92 L 475 92 L 498 92 L 520 92 L 543 92 L 565 92 L 588 92" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="139" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="281" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="177" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="423" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="517" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="564" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="91" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="113" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="136" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="181" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="204" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="226" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="249" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="271" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="294" cy="177" r="4" fill="#fdba74"></circle>
+    <circle cx="317" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="339" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="385" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="407" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="430" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="452" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="475" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="520" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="543" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="565" cy="92" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="92" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="80" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,260원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="92" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="139" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="281" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="375" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="517" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="564" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="91" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="113" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="158" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="204" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="226" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="271" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="317" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="339" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="385" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="430" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="452" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="498" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="543" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="565" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -136,7 +140,7 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 12,186개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 12,192개</span>
     <a href="https://link.coupang.com/a/et5POZ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -218,7 +222,7 @@ A. 달콤하면서도 매콤한 맛의 균형이 잘 잡혀있습니다. 일반�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 12,186개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 12,192개</span>
     <a href="https://link.coupang.com/a/et5POZ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
