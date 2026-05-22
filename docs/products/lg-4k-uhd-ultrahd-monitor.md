@@ -20,7 +20,7 @@ description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화
     "price": "499000",
     "url": "https://link.coupang.com/a/dXaW80UbxA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-29"
+    "priceValidUntil": "2026-05-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
