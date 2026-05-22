@@ -20,7 +20,7 @@ description: 삼대오백 통 흑마늘은 120일 발효를 거친 무첨가 흑
     "price": "37900",
     "url": "https://link.coupang.com/a/dWaEuTBP7A",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-28"
+    "priceValidUntil": "2026-05-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
