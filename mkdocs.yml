@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 예감은 틀리지 않는다: products/yegam-eun-teulliji-anneunda-novel.md
     - 프란츠카프카 변신: products/franz-kafka-metamorphosis-novel.md
     - LG전자 4K UHD 울트라HD 모니터: products/lg-4k-uhd-ultrahd-monitor.md
     - 시디즈 T60 AIR 컴퓨터 사무용 책상 의자: products/sidiz-t60-air-computer-office-chair.md
