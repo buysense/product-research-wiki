@@ -20,7 +20,7 @@ description: 프란츠카프카의 대표작 '변신' 소설은 휴대하기 좋
     "price": "2690",
     "url": "https://link.coupang.com/a/dXMLyyu2PA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-29"
+    "priceValidUntil": "2026-05-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
