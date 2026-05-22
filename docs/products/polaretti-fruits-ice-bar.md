@@ -20,7 +20,7 @@ description: 폴라레티 후르츠 아이스바 40ml x 80개는 여름철 아�
     "price": "18490",
     "url": "https://link.coupang.com/a/dGA7ohPMfk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-29"
+    "priceValidUntil": "2026-05-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -50,6 +50,8 @@ description: 폴라레티 후르츠 아이스바 40ml x 80개는 여름철 아�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -60,32 +62,34 @@ description: 폴라레티 후르츠 아이스바 40ml x 80개는 여름철 아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
 
-    <path d="M 68 97 L 120 97 L 172 178 L 224 97 L 276 117 L 328 100 L 380 99 L 432 99 L 484 104 L 536 104 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 97 L 120 97 L 172 178 L 224 97 L 276 117 L 328 100 L 380 99 L 432 99 L 484 104 L 536 104 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 97 L 115 97 L 163 178 L 210 97 L 257 117 L 304 100 L 352 99 L 399 99 L 446 104 L 493 104 L 541 104 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 97 L 115 97 L 163 178 L 210 97 L 257 117 L 304 100 L 352 99 L 399 99 L 446 104 L 493 104 L 541 104 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="97" r="4" fill="#fdba74"></circle>
-    <circle cx="120" cy="97" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="224" cy="97" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="432" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="536" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="115" cy="97" r="4" fill="#fdba74"></circle>
+    <circle cx="163" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="210" cy="97" r="4" fill="#fdba74"></circle>
+    <circle cx="257" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="352" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="399" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="541" cy="104" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="104" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="92" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,490원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
