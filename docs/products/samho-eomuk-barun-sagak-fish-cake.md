@@ -17,15 +17,15 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "2200",
+    "price": "2130",
     "url": "https://link.coupang.com/a/eAsRTR",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-29"
+    "priceValidUntil": "2026-05-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 106216,
+    "reviewCount": 106403,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -78,54 +80,56 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,000</text>
 
-    <path d="M 68 134 L 93 134 L 118 134 L 142 134 L 167 134 L 192 134 L 217 134 L 241 134 L 266 134 L 291 134 L 316 134 L 340 134 L 365 134 L 390 134 L 415 134 L 439 134 L 464 134 L 489 134 L 514 134 L 538 134 L 563 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 134 L 93 134 L 118 134 L 142 134 L 167 134 L 192 134 L 217 134 L 241 134 L 266 134 L 291 134 L 316 134 L 340 134 L 365 134 L 390 134 L 415 134 L 439 134 L 464 134 L 489 134 L 514 134 L 538 134 L 563 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 134 L 92 134 L 115 134 L 139 134 L 163 134 L 186 134 L 210 134 L 233 134 L 257 134 L 281 134 L 304 134 L 328 134 L 352 134 L 375 134 L 399 134 L 423 134 L 446 134 L 470 134 L 493 134 L 517 134 L 541 26 L 564 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 134 L 92 134 L 115 134 L 139 134 L 163 134 L 186 134 L 210 134 L 233 134 L 257 134 L 281 134 L 304 134 L 328 134 L 352 134 L 375 134 L 399 134 L 423 134 L 446 134 L 470 134 L 493 134 L 517 134 L 541 26 L 564 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="93" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="118" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="167" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="192" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="266" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="316" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="340" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="390" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="464" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="489" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="538" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="563" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="92" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="115" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="139" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="163" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="186" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="210" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="233" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="257" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="281" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="352" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="375" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="399" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="423" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="470" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="517" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="541" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="564" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,200원</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,130원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="93" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="167" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="266" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="316" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="340" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="390" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="489" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="563" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="92" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="139" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="281" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="375" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="517" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="564" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -133,7 +137,7 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,200원 · 별점 4.8 · 리뷰 106,216개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,130원 · 별점 4.8 · 리뷰 106,403개</span>
     <a href="https://link.coupang.com/a/eAsRTR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -210,7 +214,7 @@ A. 연육(중국산), 밀가루(밀/미국산, 호주산), 정제소금(국산),
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,200원 · 별점 4.8 · 리뷰 106,216개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,130원 · 별점 4.8 · 리뷰 106,403개</span>
     <a href="https://link.coupang.com/a/eAsRTR" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
