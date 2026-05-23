@@ -19,7 +19,7 @@ description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된
     "price": "15750",
     "url": "https://link.coupang.com/a/dXOWedqbCe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-29"
+    "priceValidUntil": "2026-05-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
