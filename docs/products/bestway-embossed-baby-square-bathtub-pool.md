@@ -20,7 +20,7 @@ description: 베스트웨이 엠보싱 유아 사각 욕조 풀장은 집에서 
     "price": "13630",
     "url": "https://link.coupang.com/a/dSIm468pHg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-30"
+    "priceValidUntil": "2026-05-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -38,6 +38,8 @@ description: 베스트웨이 엠보싱 유아 사각 욕조 풀장은 집에서 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -48,20 +50,22 @@ description: 베스트웨이 엠보싱 유아 사각 욕조 풀장은 집에서 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,600</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,500</text>
 
-    <path d="M 68 79 L 198 79 L 328 79 L 458 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 79 L 198 79 L 328 79 L 458 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 79 L 172 79 L 276 79 L 380 79 L 484 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 172 79 L 276 79 L 380 79 L 484 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="79" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="79" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,630원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
