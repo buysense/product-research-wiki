@@ -20,7 +20,7 @@ description: 브룩스브라더스 남성용 논아이론 도비 스트라이프
     "price": "79000",
     "url": "https://link.coupang.com/a/dZiFMN1R8e",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-30"
+    "priceValidUntil": "2026-05-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
