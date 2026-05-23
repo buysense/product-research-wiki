@@ -20,7 +20,7 @@ description: 모던앳 초코 말랑이 왁뿌볼은 겉면의 바스락거리�
     "price": "4940",
     "url": "https://link.coupang.com/a/dLEnAd8QDc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-30"
+    "priceValidUntil": "2026-05-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -46,6 +46,8 @@ description: 모던앳 초코 말랑이 왁뿌볼은 겉면의 바스락거리�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -56,28 +58,30 @@ description: 모던앳 초코 말랑이 왁뿌볼은 겉면의 바스락거리�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,800</text>
 
-    <path d="M 68 26 L 133 26 L 198 26 L 263 26 L 328 26 L 393 26 L 458 26 L 523 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 133 26 L 198 26 L 263 26 L 328 26 L 393 26 L 458 26 L 523 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 126 26 L 184 26 L 241 26 L 299 26 L 357 26 L 415 26 L 472 125 L 530 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 126 26 L 184 26 L 241 26 L 299 26 L 357 26 L 415 26 L 472 125 L 530 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,940원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
