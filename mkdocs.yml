@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 레이지지 슬로우 멜로우 데일리 집업 후드: products/lazyage-slow-mellow-daily-zip-up-hoodie.md
     - Apple 맥북 프로 14 M5칩실버 · M5 10코어 · 10코어 GPU · 16GB · 1TB: products/apple-macbook-pro-14-m5-10core-10gpu-16gb-1tb-silver.md
     - 예감은 틀리지 않는다: products/yegam-eun-teulliji-anneunda-novel.md
     - 프란츠카프카 변신: products/franz-kafka-metamorphosis-novel.md
