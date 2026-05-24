@@ -20,12 +20,12 @@ description: 샹달프 블루베리잼은 설탕 대신 과일 농축액으로 �
     "price": "5830",
     "url": "https://link.coupang.com/a/eBvq21",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-30"
+    "priceValidUntil": "2026-05-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 4836,
+    "reviewCount": 4837,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 샹달프 블루베리잼은 설탕 대신 과일 농축액으로 �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -80,52 +82,54 @@ description: 샹달프 블루베리잼은 설탕 대신 과일 농축액으로 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 43 L 94 43 L 120 40 L 146 26 L 172 26 L 198 46 L 224 46 L 250 46 L 276 26 L 302 55 L 328 55 L 354 55 L 380 55 L 406 55 L 432 55 L 458 106 L 484 115 L 510 115 L 536 115 L 562 115 L 588 115 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 43 L 94 43 L 120 40 L 146 26 L 172 26 L 198 46 L 224 46 L 250 46 L 276 26 L 302 55 L 328 55 L 354 55 L 380 55 L 406 55 L 432 55 L 458 106 L 484 115 L 510 115 L 536 115 L 562 115 L 588 115" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 43 L 93 43 L 118 40 L 142 26 L 167 26 L 192 46 L 217 46 L 241 46 L 266 26 L 291 55 L 316 55 L 340 55 L 365 55 L 390 55 L 415 55 L 439 106 L 464 115 L 489 115 L 514 115 L 538 115 L 563 115 L 588 115 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 43 L 93 43 L 118 40 L 142 26 L 167 26 L 192 46 L 217 46 L 241 46 L 266 26 L 291 55 L 316 55 L 340 55 L 365 55 L 390 55 L 415 55 L 439 106 L 464 115 L 489 115 L 514 115 L 538 115 L 563 115 L 588 115" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="94" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="120" cy="40" r="4" fill="#fdba74"></circle>
-    <circle cx="146" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="224" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="250" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="302" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="354" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="406" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="432" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="510" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="536" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="562" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="93" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="118" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="167" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="192" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="266" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="316" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="340" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="390" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="464" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="489" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="538" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="563" cy="115" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="115" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="103" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,830원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="94" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="146" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="510" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="562" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="93" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="167" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="266" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="316" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="340" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="390" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="489" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="563" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -133,7 +137,7 @@ description: 샹달프 블루베리잼은 설탕 대신 과일 농축액으로 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,830원 · 별점 4.8 · 리뷰 4,836개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,830원 · 별점 4.8 · 리뷰 4,837개</span>
     <a href="https://link.coupang.com/a/eBvq21" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -207,7 +211,7 @@ A. 네, 일반적인 설탕 베이스 잼에 비해 가격대가 높은 편입�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,830원 · 별점 4.8 · 리뷰 4,836개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,830원 · 별점 4.8 · 리뷰 4,837개</span>
     <a href="https://link.coupang.com/a/eBvq21" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
