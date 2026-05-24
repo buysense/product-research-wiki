@@ -20,7 +20,7 @@ description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰
     "price": "2690",
     "url": "https://link.coupang.com/a/dPoVerej0u",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-31"
+    "priceValidUntil": "2026-06-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -44,6 +44,8 @@ description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -54,26 +56,28 @@ description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">2,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">2,000</text>
 
-    <path d="M 68 143 L 142 143 L 217 73 L 291 73 L 365 73 L 439 73 L 514 73 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 143 L 142 143 L 217 73 L 291 73 L 365 73 L 439 73 L 514 73 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 143 L 133 143 L 198 73 L 263 73 L 328 73 L 393 73 L 458 73 L 523 73 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 143 L 133 143 L 198 73 L 263 73 L 328 73 L 393 73 L 458 73 L 523 73 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="73" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="61" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,690원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
