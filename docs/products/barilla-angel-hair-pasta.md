@@ -20,12 +20,12 @@ description: 바릴라 엔젤헤어는 얇고 섬세한 면으로, 빠른 조리
     "price": "9400",
     "url": "https://link.coupang.com/a/exB64P",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-31"
+    "priceValidUntil": "2026-06-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 941,
+    "reviewCount": 944,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 바릴라 엔젤헤어는 얇고 섬세한 면으로, 빠른 조리
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-27 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -83,62 +85,64 @@ description: 바릴라 엔젤헤어는 얇고 섬세한 면으로, 빠른 조리
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 62 L 89 119 L 110 119 L 130 119 L 151 119 L 172 119 L 193 119 L 214 119 L 234 53 L 255 53 L 276 53 L 297 53 L 318 53 L 338 73 L 359 73 L 380 111 L 401 111 L 422 111 L 442 111 L 463 111 L 484 111 L 505 111 L 526 111 L 546 111 L 567 111 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 62 L 89 119 L 110 119 L 130 119 L 151 119 L 172 119 L 193 119 L 214 119 L 234 53 L 255 53 L 276 53 L 297 53 L 318 53 L 338 73 L 359 73 L 380 111 L 401 111 L 422 111 L 442 111 L 463 111 L 484 111 L 505 111 L 526 111 L 546 111 L 567 111 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 62 L 88 119 L 108 119 L 128 119 L 148 119 L 168 119 L 188 119 L 208 119 L 228 53 L 248 53 L 268 53 L 288 53 L 308 53 L 328 73 L 348 73 L 368 111 L 388 111 L 408 111 L 428 111 L 448 111 L 468 111 L 488 111 L 508 111 L 528 111 L 548 111 L 568 111 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 62 L 88 119 L 108 119 L 128 119 L 148 119 L 168 119 L 188 119 L 208 119 L 228 53 L 248 53 L 268 53 L 288 53 L 308 53 L 328 73 L 348 73 L 368 111 L 388 111 L 408 111 L 428 111 L 448 111 L 468 111 L 488 111 L 508 111 L 528 111 L 548 111 L 568 111 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="130" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="151" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="193" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="234" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="297" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="359" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="422" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="442" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="463" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="505" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="567" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="88" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="128" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="148" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="168" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="208" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="228" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="248" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="288" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="368" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="408" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="428" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="448" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="488" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="528" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="568" cy="111" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="111" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,400원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="89" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="110" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="151" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="214" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="255" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="318" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="338" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="401" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="442" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="505" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="546" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="567" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="88" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="168" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="208" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="288" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="368" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="448" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="488" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="568" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -146,7 +150,7 @@ description: 바릴라 엔젤헤어는 얇고 섬세한 면으로, 빠른 조리
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,400원 · 별점 4.7 · 리뷰 941개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,400원 · 별점 4.7 · 리뷰 944개</span>
     <a href="https://link.coupang.com/a/exB64P" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -222,7 +226,7 @@ A. 엔젤헤어는 다른 파스타에 비해 면이 훨씬 가늘고 부드러�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,400원 · 별점 4.7 · 리뷰 941개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,400원 · 별점 4.7 · 리뷰 944개</span>
     <a href="https://link.coupang.com/a/exB64P" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
