@@ -17,15 +17,15 @@ description: 국내산 쪽파와 감칠맛 나는 양념이 특징인 전라도 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "10470",
+    "price": "10360",
     "url": "https://link.coupang.com/a/dQ43GUIGyG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-01"
+    "priceValidUntil": "2026-06-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 11048,
+    "reviewCount": 11061,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 국내산 쪽파와 감칠맛 나는 양념이 특징인 전라도 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-18 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -54,26 +56,28 @@ description: 국내산 쪽파와 감칠맛 나는 양념이 특징인 전라도 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 53 L 142 53 L 217 174 L 291 174 L 365 174 L 439 174 L 514 174 L 588 174 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 53 L 142 53 L 217 174 L 291 174 L 365 174 L 439 174 L 514 174 L 588 174" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 53 L 133 53 L 198 174 L 263 174 L 328 174 L 393 174 L 458 174 L 523 174 L 588 175 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 53 L 133 53 L 198 174 L 263 174 L 328 174 L 393 174 L 458 174 L 523 174 L 588 175" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="174" r="5" fill="#ea580c"></circle>
+    <circle cx="133" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="175" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="162" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,470원</text>
+    <text x="588" y="163" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,360원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -81,7 +85,7 @@ description: 국내산 쪽파와 감칠맛 나는 양념이 특징인 전라도 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,470원 · 별점 4.5 · 리뷰 11,048개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,360원 · 별점 4.5 · 리뷰 11,061개</span>
     <a href="https://link.coupang.com/a/dQ43GUIGyG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -161,7 +165,7 @@ A. 전라도식 김치 특성상 멸치액젓, 새우젓 등 해산물 베이스
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,470원 · 별점 4.5 · 리뷰 11,048개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,360원 · 별점 4.5 · 리뷰 11,061개</span>
     <a href="https://link.coupang.com/a/dQ43GUIGyG" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
