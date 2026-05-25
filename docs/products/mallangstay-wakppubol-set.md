@@ -20,12 +20,12 @@ description: 말랑스테이 왁뿌볼 세트는 세탁 시 의류에 붙은 보
     "price": "17730",
     "url": "https://link.coupang.com/a/dLEzuGLCG4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-01"
+    "priceValidUntil": "2026-06-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 3.8,
-    "reviewCount": 6,
+    "ratingValue": 3.6,
+    "reviewCount": 7,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 말랑스테이 왁뿌볼 세트는 세탁 시 의류에 붙은 보
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -60,32 +62,34 @@ description: 말랑스테이 왁뿌볼 세트는 세탁 시 의류에 붙은 보
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,800</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">17,700</text>
 
-    <path d="M 68 26 L 120 26 L 172 26 L 224 26 L 276 155 L 328 155 L 380 155 L 432 155 L 484 155 L 536 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 120 26 L 172 26 L 224 26 L 276 155 L 328 155 L 380 155 L 432 155 L 484 155 L 536 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 115 26 L 163 26 L 210 26 L 257 155 L 304 155 L 352 155 L 399 155 L 446 155 L 493 155 L 541 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 115 26 L 163 26 L 210 26 L 257 155 L 304 155 L 352 155 L 399 155 L 446 155 L 493 155 L 541 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="120" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="224" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="432" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="536" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="115" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="163" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="210" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="257" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="352" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="399" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="541" cy="155" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="155" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="143" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,730원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -93,7 +97,7 @@ description: 말랑스테이 왁뿌볼 세트는 세탁 시 의류에 붙은 보
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,730원 · 별점 3.8 · 리뷰 6개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,730원 · 별점 3.6 · 리뷰 7개</span>
     <a href="https://link.coupang.com/a/dLEzuGLCG4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -167,7 +171,7 @@ A. 왁뿌볼은 세탁물에 직접 붙어있는 이물질을 포집하는 역�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,730원 · 별점 3.8 · 리뷰 6개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,730원 · 별점 3.6 · 리뷰 7개</span>
     <a href="https://link.coupang.com/a/dLEzuGLCG4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
