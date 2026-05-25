@@ -16,15 +16,15 @@ description: 코스트코 스낵야드 표고버섯 칩은 통 표고버섯을 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "15260",
+    "price": "16950",
     "url": "https://link.coupang.com/a/dGGhstbvC8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-01"
+    "priceValidUntil": "2026-06-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 661,
+    "reviewCount": 665,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -55,48 +55,52 @@ description: 코스트코 스낵야드 표고버섯 칩은 통 표고버섯을 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,400</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,300</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,200</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 102 L 108 102 L 148 102 L 188 102 L 228 102 L 268 102 L 308 125 L 348 125 L 388 132 L 428 132 L 468 132 L 508 132 L 548 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 108 102 L 148 102 L 188 102 L 228 102 L 268 102 L 308 125 L 348 125 L 388 132 L 428 132 L 468 132 L 508 132 L 548 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
+    <path d="M 68 155 L 105 155 L 142 155 L 179 155 L 217 155 L 254 155 L 291 157 L 328 157 L 365 158 L 402 158 L 439 158 L 477 158 L 514 158 L 551 158 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 155 L 105 155 L 142 155 L 179 155 L 217 155 L 254 155 L 291 157 L 328 157 L 365 158 L 402 158 L 439 158 L 477 158 L 514 158 L 551 158 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="179" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="254" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="30" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,260원</text>
+    <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,950원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="105" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="551" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -104,7 +108,7 @@ description: 코스트코 스낵야드 표고버섯 칩은 통 표고버섯을 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,260원 · 별점 4.6 · 리뷰 661개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,950원 · 별점 4.6 · 리뷰 665개</span>
     <a href="https://link.coupang.com/a/dGGhstbvC8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -181,7 +185,7 @@ A. 표고버섯 특유의 향이 꽤 느껴지는 편입니다. 버섯 향을 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,260원 · 별점 4.6 · 리뷰 661개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,950원 · 별점 4.6 · 리뷰 665개</span>
     <a href="https://link.coupang.com/a/dGGhstbvC8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
