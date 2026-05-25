@@ -17,15 +17,15 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "34200",
+    "price": "32490",
     "url": "https://link.coupang.com/a/eDBeaL",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-31"
+    "priceValidUntil": "2026-06-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 106,
+    "reviewCount": 107,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -76,48 +78,50 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
 
-    <path d="M 68 38 L 97 38 L 126 38 L 155 38 L 184 38 L 212 38 L 241 90 L 270 90 L 299 90 L 328 90 L 357 80 L 386 80 L 415 132 L 444 90 L 472 38 L 501 38 L 530 38 L 559 38 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 38 L 97 38 L 126 38 L 155 38 L 184 38 L 212 38 L 241 90 L 270 90 L 299 90 L 328 90 L 357 80 L 386 80 L 415 132 L 444 90 L 472 38 L 501 38 L 530 38 L 559 38 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 38 L 95 38 L 123 38 L 150 38 L 177 38 L 205 38 L 232 90 L 260 90 L 287 90 L 314 90 L 342 80 L 369 80 L 396 132 L 424 90 L 451 38 L 479 38 L 506 38 L 533 38 L 561 38 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 38 L 95 38 L 123 38 L 150 38 L 177 38 L 205 38 L 232 90 L 260 90 L 287 90 L 314 90 L 342 80 L 369 80 L 396 132 L 424 90 L 451 38 L 479 38 L 506 38 L 533 38 L 561 38 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="97" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="212" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="270" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="386" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="444" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="559" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="38" r="5" fill="#ea580c"></circle>
+    <circle cx="95" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="123" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="150" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="177" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="205" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="232" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="260" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="287" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="314" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="342" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="369" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="396" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="424" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="451" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="479" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="506" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="533" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="561" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="26" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,200원</text>
+    <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">32,490원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="97" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="212" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="270" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="386" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="444" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="559" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="95" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="150" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="205" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="260" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="314" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="342" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="396" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="451" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="506" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="561" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -125,7 +129,7 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,200원 · 별점 4.6 · 리뷰 106개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 32,490원 · 별점 4.6 · 리뷰 107개</span>
     <a href="https://link.coupang.com/a/eDBeaL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -205,7 +209,7 @@ A. 제품 라벨의 영양 정보 또는 공식 홈페이지에서 DHA와 EPA의
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,200원 · 별점 4.6 · 리뷰 106개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 32,490원 · 별점 4.6 · 리뷰 107개</span>
     <a href="https://link.coupang.com/a/eDBeaL" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
