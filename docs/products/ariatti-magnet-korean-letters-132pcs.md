@@ -17,15 +17,15 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "19800",
+    "price": "22000",
     "url": "https://link.coupang.com/a/eyLoSF",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-01"
+    "priceValidUntil": "2026-06-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 123,
+    "reviewCount": 124,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -75,74 +75,78 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 105 L 88 106 L 108 106 L 128 106 L 148 106 L 168 65 L 188 72 L 208 44 L 228 36 L 248 61 L 268 26 L 288 26 L 308 26 L 328 28 L 348 28 L 368 28 L 388 28 L 408 26 L 428 26 L 448 26 L 468 34 L 488 34 L 508 34 L 528 34 L 548 34 L 568 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 105 L 88 106 L 108 106 L 128 106 L 148 106 L 168 65 L 188 72 L 208 44 L 228 36 L 248 61 L 268 26 L 288 26 L 308 26 L 328 28 L 348 28 L 368 28 L 388 28 L 408 26 L 428 26 L 448 26 L 468 34 L 488 34 L 508 34 L 528 34 L 548 34 L 568 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="88" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="128" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="168" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="208" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="248" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="288" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="368" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="408" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="448" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="488" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="528" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="568" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
+    <path d="M 68 133 L 87 134 L 107 134 L 126 134 L 145 134 L 164 118 L 184 120 L 203 109 L 222 106 L 241 116 L 261 83 L 280 87 L 299 91 L 318 103 L 338 103 L 357 103 L 376 103 L 395 88 L 415 88 L 434 88 L 453 105 L 472 105 L 492 105 L 511 105 L 530 105 L 549 105 L 569 105 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 133 L 87 134 L 107 134 L 126 134 L 145 134 L 164 118 L 184 120 L 203 109 L 222 106 L 241 116 L 261 83 L 280 87 L 299 91 L 318 103 L 338 103 L 357 103 L 376 103 L 395 88 L 415 88 L 434 88 L 453 105 L 472 105 L 492 105 L 511 105 L 530 105 L 549 105 L 569 105 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="133" r="4" fill="#fdba74"></circle>
+    <circle cx="87" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="107" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="145" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="164" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="203" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="222" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="261" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="280" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="91" r="4" fill="#fdba74"></circle>
+    <circle cx="318" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="338" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="376" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="395" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="434" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="453" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="492" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="511" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="549" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,800원</text>
+    <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="88" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="168" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="208" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="288" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="368" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="448" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="488" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="568" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="87" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="107" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="145" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="164" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="203" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="222" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="261" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="280" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="318" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="338" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="376" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="395" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="434" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="453" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="492" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="511" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="549" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="569" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -150,7 +154,7 @@ description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,800원 · 별점 4.8 · 리뷰 123개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,000원 · 별점 4.8 · 리뷰 124개</span>
     <a href="https://link.coupang.com/a/eyLoSF" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -230,7 +234,7 @@ A. 자기 이름 만들기, 엄마·아빠 등 가족 호칭 만들기, 좋아�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,800원 · 별점 4.8 · 리뷰 123개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,000원 · 별점 4.8 · 리뷰 124개</span>
     <a href="https://link.coupang.com/a/eyLoSF" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
