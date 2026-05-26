@@ -19,13 +19,15 @@ description: 밤중 수유나 외출 시 편리하게 분유를 타주는 꿈비
     "price": "54000",
     "url": "https://link.coupang.com/a/dTYZTrRkHc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-02"
+    "priceValidUntil": "2026-06-03"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -44,24 +46,26 @@ description: 밤중 수유나 외출 시 편리하게 분유를 타주는 꿈비
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">54,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">53,900</text>
 
-    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 102 L 501 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 102 L 501 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">54,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
