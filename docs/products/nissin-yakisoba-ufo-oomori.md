@@ -47,68 +47,72 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 88 L 91 88 L 113 88 L 136 88 L 158 88 L 181 88 L 204 88 L 226 88 L 249 88 L 271 162 L 294 165 L 317 165 L 339 165 L 362 165 L 385 165 L 407 165 L 430 165 L 452 165 L 475 165 L 498 165 L 520 165 L 543 165 L 565 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 88 L 91 88 L 113 88 L 136 88 L 158 88 L 181 88 L 204 88 L 226 88 L 249 88 L 271 162 L 294 165 L 317 165 L 339 165 L 362 165 L 385 165 L 407 165 L 430 165 L 452 165 L 475 165 L 498 165 L 520 165 L 543 165 L 565 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="91" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="113" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="136" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="181" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="204" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="226" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="249" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="271" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="294" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="317" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="339" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="362" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="385" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="407" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="430" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="452" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="475" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="520" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="543" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="565" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
+    <path d="M 68 26 L 90 26 L 111 26 L 133 26 L 155 26 L 176 26 L 198 26 L 220 26 L 241 26 L 263 86 L 285 89 L 306 89 L 328 89 L 350 89 L 371 89 L 393 89 L 415 89 L 436 89 L 458 89 L 480 89 L 501 89 L 523 89 L 545 49 L 566 49 L 588 137 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 90 26 L 111 26 L 133 26 L 155 26 L 176 26 L 198 26 L 220 26 L 241 26 L 263 86 L 285 89 L 306 89 L 328 89 L 350 89 L 371 89 L 393 89 L 415 89 L 436 89 L 458 89 L 480 89 L 501 89 L 523 89 L 545 49 L 566 49 L 588 137" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="90" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="111" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="220" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="285" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="306" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="350" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="371" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="436" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="545" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="566" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="137" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">38,480원</text>
+    <text x="588" y="125" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">32,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="91" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="113" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="158" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="204" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="226" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="271" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="317" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="339" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="385" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="430" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="452" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="498" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="543" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="565" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="90" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="220" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="436" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="566" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
