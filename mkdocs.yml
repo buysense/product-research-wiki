@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 드헤베 시스루 소프트 가디건: products/dehebe-sheer-soft-cardigan.md
     - 코멧 심플 미끄럼방지 정장 옷걸이: products/comet-simple-non-slip-suit-hanger.md
     - 에코밍글 어깨뿔방지 논슬립 회전형 옷걸이: products/ecomingle-shoulder-hanger-non-slip-swivel.md
     - 바이오가 우유단백질 로션: products/bioga-milk-protein-lotion.md
