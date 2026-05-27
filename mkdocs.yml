@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "쑥쑥 크는 아이는 이유가 있다:세 살부터 준비하는 평생 키 성장 프로젝트": products/growing-child-height-project-book.md
     - 유디엘 유모차 걸이 후크 2개입: products/udiel-stroller-hook-2pack.md
     - 돗투돗 유모차 안전바 벨트 커버: products/dotdot-stroller-bumper-bar-cover.md
     - 드헤베 쟈카드 셔링 블라우스: products/dehebe-jacquard-shirring-blouse.md
