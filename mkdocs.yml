@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 듀라쿨텍 KC인증 국산 아기 침대 냉감패드: products/duracooltec-baby-bed-cooling-pad.md
     - "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙": products/ai-ui-noe-brain-parenting-principles.md
     - "쑥쑥 크는 아이는 이유가 있다:세 살부터 준비하는 평생 키 성장 프로젝트": products/growing-child-height-project-book.md
     - 유디엘 유모차 걸이 후크 2개입: products/udiel-stroller-hook-2pack.md
