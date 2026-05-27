@@ -20,7 +20,7 @@ description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드�
     "price": "9240",
     "url": "https://link.coupang.com/a/dLFpPtrcrs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-03"
+    "priceValidUntil": "2026-06-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -54,6 +54,8 @@ description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -64,36 +66,38 @@ description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,100</text>
 
-    <path d="M 68 72 L 111 72 L 155 72 L 198 72 L 241 72 L 285 72 L 328 72 L 371 72 L 415 72 L 458 72 L 501 72 L 545 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 111 72 L 155 72 L 198 72 L 241 72 L 285 72 L 328 72 L 371 72 L 415 72 L 458 72 L 501 72 L 545 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 108 72 L 148 72 L 188 72 L 228 72 L 268 72 L 308 72 L 348 72 L 388 72 L 428 72 L 468 72 L 508 72 L 548 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 108 72 L 148 72 L 188 72 L 228 72 L 268 72 L 308 72 L 348 72 L 388 72 L 428 72 L 468 72 L 508 72 L 548 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="111" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="285" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="371" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="545" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="148" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="228" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="428" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,240원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
