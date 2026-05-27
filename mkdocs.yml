@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 유디엘 유모차 걸이 후크 2개입: products/udiel-stroller-hook-2pack.md
     - 돗투돗 유모차 안전바 벨트 커버: products/dotdot-stroller-bumper-bar-cover.md
     - 드헤베 쟈카드 셔링 블라우스: products/dehebe-jacquard-shirring-blouse.md
     - 드헤베 시스루 소프트 가디건: products/dehebe-sheer-soft-cardigan.md
