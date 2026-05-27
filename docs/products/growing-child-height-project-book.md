@@ -19,7 +19,7 @@ description: '세 살부터 준비하는 평생 키 성장 프로젝트 도서�
     "price": "15750",
     "url": "https://link.coupang.com/a/d5TTEyU16q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-03"
+    "priceValidUntil": "2026-06-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
