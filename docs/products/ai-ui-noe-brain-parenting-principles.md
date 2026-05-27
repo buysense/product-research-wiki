@@ -20,7 +20,7 @@ description: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙은 
     "price": "16020",
     "url": "https://link.coupang.com/a/d5UuLRICVU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-03"
+    "priceValidUntil": "2026-06-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
