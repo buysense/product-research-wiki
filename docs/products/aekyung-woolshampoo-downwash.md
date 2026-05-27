@@ -20,12 +20,12 @@ description: 애경 울샴푸 다운워시는 패딩, 구스다운 등 다운 �
     "price": "9640",
     "url": "https://link.coupang.com/a/ez53No",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-03"
+    "priceValidUntil": "2026-06-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 15138,
+    "reviewCount": 15172,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 애경 울샴푸 다운워시는 패딩, 구스다운 등 다운 �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -88,64 +90,66 @@ description: 애경 울샴푸 다운워시는 패딩, 구스다운 등 다운 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,600</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,500</text>
 
-    <path d="M 68 72 L 88 72 L 108 72 L 128 72 L 148 72 L 168 72 L 188 72 L 208 72 L 228 72 L 248 72 L 268 72 L 288 72 L 308 72 L 328 72 L 348 72 L 368 72 L 388 72 L 408 72 L 428 72 L 448 72 L 468 72 L 488 72 L 508 72 L 528 72 L 548 72 L 568 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 88 72 L 108 72 L 128 72 L 148 72 L 168 72 L 188 72 L 208 72 L 228 72 L 248 72 L 268 72 L 288 72 L 308 72 L 328 72 L 348 72 L 368 72 L 388 72 L 408 72 L 428 72 L 448 72 L 468 72 L 488 72 L 508 72 L 528 72 L 548 72 L 568 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 87 72 L 107 72 L 126 72 L 145 72 L 164 72 L 184 72 L 203 72 L 222 72 L 241 72 L 261 72 L 280 72 L 299 72 L 318 72 L 338 72 L 357 72 L 376 72 L 395 72 L 415 72 L 434 72 L 453 72 L 472 72 L 492 72 L 511 72 L 530 72 L 549 72 L 569 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 87 72 L 107 72 L 126 72 L 145 72 L 164 72 L 184 72 L 203 72 L 222 72 L 241 72 L 261 72 L 280 72 L 299 72 L 318 72 L 338 72 L 357 72 L 376 72 L 395 72 L 415 72 L 434 72 L 453 72 L 472 72 L 492 72 L 511 72 L 530 72 L 549 72 L 569 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="88" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="128" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="168" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="208" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="248" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="288" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="368" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="408" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="448" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="488" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="528" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="568" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="87" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="107" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="145" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="164" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="203" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="222" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="261" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="280" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="318" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="338" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="376" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="395" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="434" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="453" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="492" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="511" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="549" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,640원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="88" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="168" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="208" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="288" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="368" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="448" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="488" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="568" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="87" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="107" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="145" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="164" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="203" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="222" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="261" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="280" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="318" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="338" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="376" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="395" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="434" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="453" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="492" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="511" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="549" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="569" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -153,7 +157,7 @@ description: 애경 울샴푸 다운워시는 패딩, 구스다운 등 다운 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,640원 · 별점 4.7 · 리뷰 15,138개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,640원 · 별점 4.7 · 리뷰 15,172개</span>
     <a href="https://link.coupang.com/a/ez53No" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -230,7 +234,7 @@ A. 다운 의류는 드라이클리닝 시 충전재의 유분이 손상될 수 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,640원 · 별점 4.7 · 리뷰 15,138개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,640원 · 별점 4.7 · 리뷰 15,172개</span>
     <a href="https://link.coupang.com/a/ez53No" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
