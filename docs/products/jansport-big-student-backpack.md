@@ -17,10 +17,10 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "69800",
+    "price": "62050",
     "url": "https://link.coupang.com/a/exUBa1",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-03"
+    "priceValidUntil": "2026-06-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -79,6 +79,8 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
@@ -89,68 +91,70 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 114 L 87 114 L 105 114 L 124 114 L 142 114 L 161 114 L 179 86 L 198 86 L 217 70 L 235 70 L 254 70 L 272 70 L 291 55 L 309 63 L 328 70 L 347 70 L 365 70 L 384 70 L 402 70 L 421 86 L 439 86 L 458 170 L 477 86 L 495 114 L 514 114 L 532 41 L 551 28 L 569 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 114 L 87 114 L 105 114 L 124 114 L 142 114 L 161 114 L 179 86 L 198 86 L 217 70 L 235 70 L 254 70 L 272 70 L 291 55 L 309 63 L 328 70 L 347 70 L 365 70 L 384 70 L 402 70 L 421 86 L 439 86 L 458 170 L 477 86 L 495 114 L 514 114 L 532 41 L 551 28 L 569 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 114 L 158 114 L 176 86 L 194 86 L 211 70 L 229 70 L 247 70 L 265 70 L 283 55 L 301 63 L 319 70 L 337 70 L 355 70 L 373 70 L 391 70 L 409 86 L 427 86 L 445 170 L 462 86 L 480 114 L 498 114 L 516 41 L 534 28 L 552 28 L 570 28 L 588 86 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 114 L 158 114 L 176 86 L 194 86 L 211 70 L 229 70 L 247 70 L 265 70 L 283 55 L 301 63 L 319 70 L 337 70 L 355 70 L 373 70 L 391 70 L 409 86 L 427 86 L 445 170 L 462 86 L 480 114 L 498 114 L 516 41 L 534 28 L 552 28 L 570 28 L 588 86" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="87" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="105" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="124" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="161" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="179" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="235" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="254" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="272" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="309" cy="63" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="347" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="384" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="402" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="421" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="477" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="495" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="532" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="551" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="28" r="5" fill="#ea580c"></circle>
+    <circle cx="86" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="63" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="86" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="16" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">69,800원</text>
+    <text x="588" y="74" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">62,050원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="87" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="105" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="161" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="272" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="309" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="347" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="384" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="495" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="551" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="569" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="86" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
+    <text x="104" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="140" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="158" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="194" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="211" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="229" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="265" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="283" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="319" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="337" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="373" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="391" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="427" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="445" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="462" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="498" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="516" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="552" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="570" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -158,7 +162,7 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 69,800원 · 별점 4.7 · 리뷰 45개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 62,050원 · 별점 4.7 · 리뷰 45개</span>
     <a href="https://link.coupang.com/a/exUBa1" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -240,7 +244,7 @@ A. 인체공학적 S자형 패딩 어깨끈과 쿠션감 있는 등판 설계로
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 69,800원 · 별점 4.7 · 리뷰 45개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 62,050원 · 별점 4.7 · 리뷰 45개</span>
     <a href="https://link.coupang.com/a/exUBa1" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
