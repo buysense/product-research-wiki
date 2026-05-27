@@ -20,7 +20,7 @@ description: 돗투돗 유모차 안전바 벨트 커버는 아이의 위생과 
     "price": "26900",
     "url": "https://link.coupang.com/a/d5kyjbRvzg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-03"
+    "priceValidUntil": "2026-06-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
