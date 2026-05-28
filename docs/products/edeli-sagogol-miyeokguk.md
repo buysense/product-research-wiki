@@ -52,16 +52,9 @@ description: 이델리 간편집밥 사골 미역국은 깊고 구수한 사골 
 
 
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,730원</span>
-    <a href="https://link.coupang.com/a/enG25B" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -70,34 +63,43 @@ description: 이델리 간편집밥 사골 미역국은 깊고 구수한 사골 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 148 L 89 148 L 110 64 L 130 64 L 151 64 L 172 64 L 193 64 L 214 64 L 234 64 L 255 64 L 276 66 L 297 66 L 318 66 L 338 66 L 359 66 L 380 66 L 401 43 L 422 43 L 442 43 L 463 43 L 484 43 L 505 43 L 526 53 L 546 126 L 567 126 L 588 126 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 148 L 89 148 L 110 64 L 130 64 L 151 64 L 172 64 L 193 64 L 214 64 L 234 64 L 255 64 L 276 66 L 297 66 L 318 66 L 338 66 L 359 66 L 380 66 L 401 43 L 422 43 L 442 43 L 463 43 L 484 43 L 505 43 L 526 53 L 546 126 L 567 126 L 588 126" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 148 L 88 148 L 108 64 L 128 64 L 148 64 L 168 64 L 188 64 L 208 64 L 228 64 L 248 64 L 268 66 L 288 66 L 308 66 L 328 66 L 348 66 L 368 66 L 388 43 L 408 43 L 428 43 L 448 43 L 468 43 L 488 43 L 508 53 L 528 126 L 548 126 L 568 126 L 588 126 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 148 L 88 148 L 108 64 L 128 64 L 148 64 L 168 64 L 188 64 L 208 64 L 228 64 L 248 64 L 268 66 L 288 66 L 308 66 L 328 66 L 348 66 L 368 66 L 388 43 L 408 43 L 428 43 L 448 43 L 468 43 L 488 43 L 508 53 L 528 126 L 548 126 L 568 126 L 588 126" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="505" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="88" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="248" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="368" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="488" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="528" cy="126" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="126" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="114" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,680원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,730원</span>
+    <a href="https://link.coupang.com/a/enG25B" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
 
 
 
