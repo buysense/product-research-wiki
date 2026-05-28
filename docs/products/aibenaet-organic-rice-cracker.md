@@ -81,85 +81,6 @@ description: 아이배냇 유기농 쌀떡뻥은 이유식을 시작하는 6개�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
-
-    <path d="M 68 79 L 85 79 L 103 159 L 120 159 L 137 159 L 155 159 L 172 159 L 189 159 L 207 159 L 224 159 L 241 159 L 259 159 L 276 159 L 293 159 L 311 159 L 328 159 L 345 79 L 363 79 L 380 79 L 397 79 L 415 79 L 432 79 L 449 79 L 467 79 L 484 79 L 501 79 L 519 79 L 536 79 L 553 79 L 571 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 79 L 85 79 L 103 159 L 120 159 L 137 159 L 155 159 L 172 159 L 189 159 L 207 159 L 224 159 L 241 159 L 259 159 L 276 159 L 293 159 L 311 159 L 328 159 L 345 79 L 363 79 L 380 79 L 397 79 L 415 79 L 432 79 L 449 79 L 467 79 L 484 79 L 501 79 L 519 79 L 536 79 L 553 79 L 571 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="85" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="103" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="120" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="137" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="189" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="207" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="224" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="259" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="293" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="311" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="345" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="363" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="397" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="432" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="449" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="467" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="519" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="536" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="553" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="571" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="85" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="103" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="189" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="207" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="259" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="293" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="363" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="397" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="449" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="467" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="553" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="571" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -168,6 +89,42 @@ description: 아이배냇 유기농 쌀떡뻥은 이유식을 시작하는 6개�
     <a href="https://link.coupang.com/a/eqzI5y" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
+
+    <path d="M 68 79 L 86 159 L 104 159 L 122 159 L 140 159 L 158 159 L 176 159 L 194 159 L 211 159 L 229 159 L 247 159 L 265 159 L 283 159 L 301 159 L 319 159 L 337 79 L 355 79 L 373 79 L 391 79 L 409 79 L 427 79 L 445 79 L 462 79 L 480 79 L 498 79 L 516 79 L 534 79 L 552 79 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 86 159 L 104 159 L 122 159 L 140 159 L 158 159 L 176 159 L 194 159 L 211 159 L 229 159 L 247 159 L 265 159 L 283 159 L 301 159 L 319 159 L 337 79 L 355 79 L 373 79 L 391 79 L 409 79 L 427 79 L 445 79 L 462 79 L 480 79 L 498 79 L 516 79 L 534 79 L 552 79 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 
 
