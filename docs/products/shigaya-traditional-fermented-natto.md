@@ -20,12 +20,12 @@ description: 시가야 전통발효 낫또는 일본 카고시마 공장의 전�
     "price": "24850",
     "url": "https://link.coupang.com/a/eqAcav",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-03"
+    "priceValidUntil": "2026-06-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 13801,
+    "reviewCount": 13815,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 시가야 전통발효 낫또는 일본 카고시마 공장의 전�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-17 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -88,66 +90,68 @@ description: 시가야 전통발효 낫또는 일본 카고시마 공장의 전�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">24,900</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,800</text>
 
-    <path d="M 68 140 L 87 140 L 107 140 L 126 140 L 145 140 L 164 140 L 184 140 L 203 140 L 222 140 L 241 140 L 261 140 L 280 140 L 299 140 L 318 140 L 338 140 L 357 140 L 376 140 L 395 140 L 415 140 L 434 140 L 453 140 L 472 140 L 492 140 L 511 140 L 530 140 L 549 140 L 569 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 87 140 L 107 140 L 126 140 L 145 140 L 164 140 L 184 140 L 203 140 L 222 140 L 241 140 L 261 140 L 280 140 L 299 140 L 318 140 L 338 140 L 357 140 L 376 140 L 395 140 L 415 140 L 434 140 L 453 140 L 472 140 L 492 140 L 511 140 L 530 140 L 549 140 L 569 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 140 L 87 140 L 105 140 L 124 140 L 142 140 L 161 140 L 179 140 L 198 140 L 217 140 L 235 140 L 254 140 L 272 140 L 291 140 L 309 140 L 328 140 L 347 140 L 365 140 L 384 140 L 402 140 L 421 140 L 439 140 L 458 140 L 477 140 L 495 140 L 514 140 L 532 140 L 551 140 L 569 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 87 140 L 105 140 L 124 140 L 142 140 L 161 140 L 179 140 L 198 140 L 217 140 L 235 140 L 254 140 L 272 140 L 291 140 L 309 140 L 328 140 L 347 140 L 365 140 L 384 140 L 402 140 L 421 140 L 439 140 L 458 140 L 477 140 L 495 140 L 514 140 L 532 140 L 551 140 L 569 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="87" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="107" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="145" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="164" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="203" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="222" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="261" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="280" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="376" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="395" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="434" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="453" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="492" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="511" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="549" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="124" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="161" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="179" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="235" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="254" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="272" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="309" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="347" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="384" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="421" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="495" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="532" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="569" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,850원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
     <text x="87" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="107" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="145" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="164" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="203" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="222" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="261" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="280" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="318" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="338" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="376" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="395" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="434" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="453" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="492" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="511" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="549" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="569" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="105" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="161" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="272" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="309" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="347" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="384" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="495" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="551" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="569" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -155,7 +159,7 @@ description: 시가야 전통발효 낫또는 일본 카고시마 공장의 전�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,850원 · 별점 4.7 · 리뷰 13,801개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,850원 · 별점 4.7 · 리뷰 13,815개</span>
     <a href="https://link.coupang.com/a/eqAcav" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -231,7 +235,7 @@ A. 시가야 전통발효 낫또는 60년 전통을 가진 일본 카고시마 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 24,850원 · 별점 4.7 · 리뷰 13,801개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 24,850원 · 별점 4.7 · 리뷰 13,815개</span>
     <a href="https://link.coupang.com/a/eqAcav" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
