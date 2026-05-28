@@ -46,8 +46,17 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 65,900원 · 별점 4.8 · 리뷰 1,004개</span>
+    <a href="https://link.coupang.com/a/dUsgXOCSEm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -63,9 +72,6 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
     <circle cx="198" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="263" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="328" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="30" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">65,900원</text>
@@ -82,13 +88,6 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 65,900원 · 별점 4.8 · 리뷰 1,004개</span>
-    <a href="https://link.coupang.com/a/dUsgXOCSEm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 유스트 31허브 바디오일은 31가지 허브 성분이 블렌딩된 아로마 오일로, 스트레스 완화, 숙면 유도, 뭉친 목이나 어깨 부위를 이완하는 등 다양한 상황에서 활용됩니다. 스위스에서 시작된 브랜드의 제품으로, 샤워 후 보습 케어부터 잠들기 전 심신 안정, 또는 휴대하며 기분 전환이 필요할 때 소량 사용하는 용도로 적합합니다.

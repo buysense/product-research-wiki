@@ -44,8 +44,17 @@ description: 삼대오백 통 흑마늘은 120일 발효를 거친 무첨가 흑
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 37,900원 · 별점 4.8 · 리뷰 782개</span>
+    <a href="https://link.coupang.com/a/dWaEuTBP7A" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 8개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -57,12 +66,6 @@ description: 삼대오백 통 흑마늘은 120일 발효를 거친 무첨가 흑
     <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">37,900원</text>
@@ -78,13 +81,6 @@ description: 삼대오백 통 흑마늘은 120일 발효를 거친 무첨가 흑
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 37,900원 · 별점 4.8 · 리뷰 782개</span>
-    <a href="https://link.coupang.com/a/dWaEuTBP7A" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 삼대오백 통 흑마늘은 120일간 발효시킨 100% 무첨가 통 흑마늘로, 일상 속 피로 회복과 활력 증진을 위해 간편하게 섭취하거나 부모님 선물용으로 고려하기 좋은 건강식품입니다. 특유의 달콤하고 쫄깃한 식감 덕분에 마늘의 강한 맛에 거부감을 느끼는 사람도 부담 없이 즐길 수 있습니다.

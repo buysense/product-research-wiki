@@ -49,8 +49,17 @@ description: 가나 빅 마일드 초콜릿은 부드럽고 달콤한 밀크 초
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,360원</span>
+    <a href="https://link.coupang.com/a/ej8HRR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -65,65 +74,23 @@ description: 가나 빅 마일드 초콜릿은 부드럽고 달콤한 밀크 초
     <circle cx="90" cy="136" r="4" fill="#fdba74"></circle>
     <circle cx="111" cy="113" r="4" fill="#fdba74"></circle>
     <circle cx="133" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="220" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="285" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="306" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="350" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="371" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="436" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="545" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="566" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="90" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
     <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
     <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="220" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
     <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
     <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
     <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
     <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="436" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
     <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="566" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,360원</span>
-    <a href="https://link.coupang.com/a/ej8HRR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 가나 빅 마일드 초콜릿은 오랜 시간 사랑받아온 롯데웰푸드의 대표 밀크 초콜릿으로, 부드럽고 달콤한 맛이 특징입니다. 110g의 넉넉한 대용량으로 온 가족 간식이나 개인의 당 충전, 또는 커피나 우유와 함께 가볍게 즐기기에 적합합니다. 특히 냉장고에 보관 후 차갑게 먹으면 더 단단하면서도 입안에서 부드럽게 녹는 좋은 식감을 느낄 수 있어 일상 속 작은 행복을 선사합니다. 포장재는 카카오 부산물을 활용한 친환경 카카오 종이(Cacao Paper)를 사용하여 환경적 요소도 고려했습니다.

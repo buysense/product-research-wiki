@@ -51,75 +51,6 @@ slug_en: pringles-original-crisps
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">4,400</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">4,300</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,200</text>
-
-    <path d="M 68 79 L 89 79 L 110 79 L 130 79 L 151 79 L 172 79 L 193 79 L 214 79 L 234 79 L 255 79 L 276 79 L 297 79 L 318 132 L 338 79 L 359 79 L 380 79 L 401 79 L 422 79 L 442 79 L 463 79 L 484 79 L 505 79 L 526 79 L 546 79 L 567 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 79 L 89 79 L 110 79 L 130 79 L 151 79 L 172 79 L 193 79 L 214 79 L 234 79 L 255 79 L 276 79 L 297 79 L 318 132 L 338 79 L 359 79 L 380 79 L 401 79 L 422 79 L 442 79 L 463 79 L 484 79 L 505 79 L 526 79 L 546 79 L 567 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="130" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="151" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="193" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="234" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="297" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="359" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="422" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="442" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="463" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="505" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="567" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="79" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,330원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="89" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="110" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="151" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="214" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="255" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="318" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="338" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="401" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="442" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="505" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="546" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="567" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0;">
   <div style="font-size: 0.8em; color: #888; margin-bottom: 10px;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
@@ -140,6 +71,40 @@ slug_en: pringles-original-crisps
     </div>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">4,400</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">4,300</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,200</text>
+
+    <path d="M 68 79 L 89 79 L 110 79 L 130 79 L 151 79 L 172 79 L 193 79 L 214 79 L 234 79 L 255 79 L 276 79 L 297 79 L 318 132 L 338 79 L 359 79 L 380 79 L 401 79 L 422 79 L 442 79 L 463 79 L 484 79 L 505 79 L 526 79 L 546 79 L 567 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 89 79 L 110 79 L 130 79 L 151 79 L 172 79 L 193 79 L 214 79 L 234 79 L 255 79 L 276 79 L 297 79 L 318 132 L 338 79 L 359 79 L 380 79 L 401 79 L 422 79 L 442 79 L 463 79 L 484 79 L 505 79 L 526 79 L 546 79 L 567 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="297" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="318" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="338" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="79" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,330원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 프링글스 오리지날은 특유의 균일한 '말 안장' 모양과 바삭한 식감, 짭짤하면서도 담백한 감자 풍미가 특징인 세계적인 감자 스낵입니다. 원통형 캔에 담겨 과자가 부서지는 것을 방지하고, 뚜껑으로 보관이 용이하여 영화나 게임을 즐길 때, 간단한 간식이나 맥주 안주로, 또는 야외 활동 시 깔끔하게 즐기기 적합합니다.

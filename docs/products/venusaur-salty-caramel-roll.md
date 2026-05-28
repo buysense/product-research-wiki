@@ -68,8 +68,17 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원</span>
+    <a href="https://link.coupang.com/a/eDegom" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -81,66 +90,31 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
     <path d="M 68 34 L 91 34 L 113 34 L 136 34 L 158 34 L 181 34 L 204 34 L 226 34 L 249 34 L 271 72 L 294 72 L 317 72 L 339 72 L 362 72 L 385 110 L 407 112 L 430 112 L 452 113 L 475 113 L 498 113 L 520 113 L 543 113 L 565 113 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 34 L 91 34 L 113 34 L 136 34 L 158 34 L 181 34 L 204 34 L 226 34 L 249 34 L 271 72 L 294 72 L 317 72 L 339 72 L 362 72 L 385 110 L 407 112 L 430 112 L 452 113 L 475 113 L 498 113 L 520 113 L 543 113 L 565 113 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="91" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="113" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="136" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="181" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="204" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="226" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="249" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="271" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="294" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="317" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="339" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="362" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="385" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="407" cy="112" r="4" fill="#fdba74"></circle>
     <circle cx="430" cy="112" r="4" fill="#fdba74"></circle>
     <circle cx="452" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="475" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="520" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="543" cy="113" r="4" fill="#fdba74"></circle>
     <circle cx="565" cy="113" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="129" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,640원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="91" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="113" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
     <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="158" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
     <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="204" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="226" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
     <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="271" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
     <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="317" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="339" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
     <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="385" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
     <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="430" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="452" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
     <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="498" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="543" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="565" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원</span>
-    <a href="https://link.coupang.com/a/eDegom" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 이상해꽃의 솔티카라멜롤은 인기 캐릭터 이상해꽃과의 콜라보레이션으로 출시된 롤케이크로, 달콤한 카라멜과 짭짤한 소금의 조화가 특징입니다. 이 제품은 주로 집에서 즐기는 간식이나 커피/차와 함께하는 디저트, 혹은 주변 지인에게 가볍게 마음을 전하는 선물용으로 소비됩니다. 미공개 연도에 출시되었습니다.

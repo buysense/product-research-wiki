@@ -62,8 +62,17 @@ description: 오리온 마이구미 포도 제로 슈가 젤리는 설탕 없이
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,500원 · 별점 4.5 · 리뷰 1,254개</span>
+    <a href="https://link.coupang.com/a/dGIKI8GVxY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -75,52 +84,23 @@ description: 오리온 마이구미 포도 제로 슈가 젤리는 설탕 없이
     <path d="M 68 102 L 101 102 L 133 102 L 166 102 L 198 102 L 231 102 L 263 102 L 296 102 L 328 102 L 361 102 L 393 102 L 426 102 L 458 102 L 491 102 L 523 102 L 556 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 101 102 L 133 102 L 166 102 L 198 102 L 231 102 L 263 102 L 296 102 L 328 102 L 361 102 L 393 102 L 426 102 L 458 102 L 491 102 L 523 102 L 556 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="101" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="166" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="231" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="296" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="361" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="426" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="491" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="556" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="101" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
     <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="166" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
     <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
     <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
     <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
     <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
     <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
     <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="491" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
     <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="556" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,500원 · 별점 4.5 · 리뷰 1,254개</span>
-    <a href="https://link.coupang.com/a/dGIKI8GVxY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 오리온 마이구미 포도 제로 슈가 젤리는 설탕 없이 포도 맛 젤리의 쫀득한 식감을 즐길 수 있는 제품입니다. 당 섭취를 줄이고 싶은 성인, 다이어트 중인 사람, 혹은 아이에게 부담 없는 간식을 주고 싶은 부모들에게 적합합니다. 개별 소포장(54g)으로 휴대가 간편하여 사무실, 차량, 운동 후 간식 등으로 다양하게 소비됩니다.

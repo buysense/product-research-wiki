@@ -40,8 +40,17 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,425,880원 · 별점 4.8 · 리뷰 780개</span>
+    <a href="https://link.coupang.com/a/dYFmkgvIZM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -54,7 +63,6 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
     <path d="M 68 26 L 172 26 L 276 26 L 380 26 L 484 150 L 588 156" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="380" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="484" cy="150" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="156" r="5" fill="#ea580c"></circle>
@@ -70,13 +78,6 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,425,880원 · 별점 4.8 · 리뷰 780개</span>
-    <a href="https://link.coupang.com/a/dYFmkgvIZM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 Apple 맥북 프로 14 M5칩실버 모델은 M5 10코어 CPU와 10코어 GPU, 16GB 통합 메모리, 1TB SSD를 탑재하여 웹 개발, 전문 영상 편집, 사진 보정, 블로그 콘텐츠 제작 등 고성능 작업을 원활하게 처리할 수 있습니다. 뛰어난 휴대성과 긴 배터리 수명을 바탕으로 카페나 외부에서의 작업, 이동이 잦은 환경에 최적화된 전문가용 노트북입니다. 결혼기념일 선물 등 특별한 가치를 담아 전달되는 경우도 많습니다.

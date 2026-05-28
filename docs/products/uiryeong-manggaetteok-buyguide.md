@@ -78,8 +78,17 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 46,180원 · 별점 4.5 · 리뷰 1,022개</span>
+    <a href="https://link.coupang.com/a/eCue7p" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -91,68 +100,29 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
     <path d="M 68 72 L 90 72 L 111 72 L 133 72 L 155 72 L 176 72 L 198 72 L 220 72 L 241 72 L 263 72 L 285 72 L 306 72 L 328 72 L 350 72 L 371 30 L 393 30 L 415 30 L 436 30 L 458 30 L 480 71 L 501 30 L 523 30 L 545 30 L 566 30 L 588 160 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 72 L 90 72 L 111 72 L 133 72 L 155 72 L 176 72 L 198 72 L 220 72 L 241 72 L 263 72 L 285 72 L 306 72 L 328 72 L 350 72 L 371 30 L 393 30 L 415 30 L 436 30 L 458 30 L 480 71 L 501 30 L 523 30 L 545 30 L 566 30 L 588 160" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="90" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="111" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="220" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="285" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="306" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="350" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="371" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="436" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="458" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="480" cy="71" r="4" fill="#fdba74"></circle>
     <circle cx="501" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="545" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="566" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="160" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="148" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">46,180원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="90" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
     <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
     <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="220" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
     <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
     <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
     <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
     <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="436" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="566" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 46,180원 · 별점 4.5 · 리뷰 1,022개</span>
-    <a href="https://link.coupang.com/a/eCue7p" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 의령망개떡은 신선한 망개잎(청미래덩굴 잎)으로 감싸 향긋함이 특징인 전통 떡입니다. 쫄깃한 식감의 떡과 담백한 팥소의 조화로 남녀노소 즐기기 좋으며, 온 가족 간식이나 부담 없는 선물용으로 적합합니다. 어린 시절의 추억을 떠올리게 하거나 나들이, 손님 접대용 간식으로도 활용됩니다. 출시연도는 미공개입니다.

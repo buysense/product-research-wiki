@@ -48,8 +48,17 @@ description: 롤베이비 하우스 착한 폴더 놀이매트는 4cm 두께와 
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 50,900원 · 별점 4.8 · 리뷰 4,724개</span>
+    <a href="https://link.coupang.com/a/dSG6pQR5DU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,14 +70,6 @@ description: 롤베이비 하우스 착한 폴더 놀이매트는 4cm 두께와 
     <path d="M 68 102 L 126 102 L 184 102 L 241 102 L 299 102 L 357 102 L 415 102 L 472 102 L 530 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 126 102 L 184 102 L 241 102 L 299 102 L 357 102 L 415 102 L 472 102 L 530 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">50,900원</text>
@@ -86,13 +87,6 @@ description: 롤베이비 하우스 착한 폴더 놀이매트는 4cm 두께와 
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 50,900원 · 별점 4.8 · 리뷰 4,724개</span>
-    <a href="https://link.coupang.com/a/dSG6pQR5DU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 롤베이비 하우스 착한 폴더 놀이매트는 4cm 두께의 고밀도 PE폼으로 제작되어 아이들이 뛰거나 넘어질 때 충격을 흡수하고 층간소음을 완화하는 데 도움을 줍니다. 깔끔한 디자인과 다양한 색상, 여러 가지 크기로 제공되어 아이 방뿐만 아니라 거실 인테리어와도 조화롭게 어울리며, 폴더형 구조로 보관 및 청소가 용이하여 육아 가정의 필수 아이템으로 고려됩니다. 특히 아기가 배밀이나 뒤집기를 시작하는 시점부터 활동량이 많아지는 유아기에 안전하고 쾌적한 놀이 공간을 제공하고자 할 때 적합합니다.

@@ -80,8 +80,17 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 3,000원 · 별점 4.8 · 리뷰 52,390개</span>
+    <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -93,70 +102,31 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
     <path d="M 68 75 L 89 75 L 110 75 L 130 75 L 151 78 L 172 75 L 193 73 L 214 73 L 234 73 L 255 73 L 276 73 L 297 73 L 318 73 L 338 73 L 359 155 L 380 73 L 401 155 L 422 155 L 442 155 L 463 155 L 484 155 L 505 155 L 526 155 L 546 155 L 567 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 75 L 89 75 L 110 75 L 130 75 L 151 78 L 172 75 L 193 73 L 214 73 L 234 73 L 255 73 L 276 73 L 297 73 L 318 73 L 338 73 L 359 155 L 380 73 L 401 155 L 422 155 L 442 155 L 463 155 L 484 155 L 505 155 L 526 155 L 546 155 L 567 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="75" r="4" fill="#fdba74"></circle>
     <circle cx="130" cy="75" r="4" fill="#fdba74"></circle>
     <circle cx="151" cy="78" r="4" fill="#fdba74"></circle>
     <circle cx="172" cy="75" r="4" fill="#fdba74"></circle>
     <circle cx="193" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="234" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="297" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="338" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="359" cy="155" r="4" fill="#fdba74"></circle>
     <circle cx="380" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="401" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="422" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="442" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="463" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="505" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="567" cy="155" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="155" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="143" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">3,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="89" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="110" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
     <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="151" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
     <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="214" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
     <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="255" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
     <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="318" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="338" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
     <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="401" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
     <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="442" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
     <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="505" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="546" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="567" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 3,000원 · 별점 4.8 · 리뷰 52,390개</span>
-    <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 이클립스 페퍼민트향은 강력한 상쾌함이 특징인 무설탕 캔디로, 식사 후 입냄새 제거, 중요한 미팅 전 입안 상쾌함 유지, 운전 중 졸음 방지, 또는 집중이 필요할 때 기분 전환용으로 널리 소비됩니다. 휴대가 간편한 틴 케이스 형태로 언제 어디서든 쉽고 빠르게 상쾌함을 느낄 수 있도록 고안된 제품입니다.

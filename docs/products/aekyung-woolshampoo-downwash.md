@@ -80,8 +80,17 @@ description: 애경 울샴푸 다운워시는 패딩, 구스다운 등 다운 �
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,640원 · 별점 4.7 · 리뷰 15,172개</span>
+    <a href="https://link.coupang.com/a/ez53No" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -93,74 +102,23 @@ description: 애경 울샴푸 다운워시는 패딩, 구스다운 등 다운 �
     <path d="M 68 72 L 87 72 L 107 72 L 126 72 L 145 72 L 164 72 L 184 72 L 203 72 L 222 72 L 241 72 L 261 72 L 280 72 L 299 72 L 318 72 L 338 72 L 357 72 L 376 72 L 395 72 L 415 72 L 434 72 L 453 72 L 472 72 L 492 72 L 511 72 L 530 72 L 549 72 L 569 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 72 L 87 72 L 107 72 L 126 72 L 145 72 L 164 72 L 184 72 L 203 72 L 222 72 L 241 72 L 261 72 L 280 72 L 299 72 L 318 72 L 338 72 L 357 72 L 376 72 L 395 72 L 415 72 L 434 72 L 453 72 L 472 72 L 492 72 L 511 72 L 530 72 L 549 72 L 569 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="87" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="107" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="145" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="164" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="203" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="222" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="261" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="280" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="376" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="395" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="434" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="453" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="492" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="511" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="549" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,640원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="87" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="107" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
     <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="145" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="164" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
     <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="203" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="222" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
     <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="261" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="280" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
     <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="318" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="338" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
     <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="376" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="395" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
     <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="434" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="453" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
     <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="492" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="511" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="549" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="569" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,640원 · 별점 4.7 · 리뷰 15,172개</span>
-    <a href="https://link.coupang.com/a/ez53No" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 
 

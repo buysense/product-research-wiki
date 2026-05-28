@@ -74,8 +74,17 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,200원 · 별점 4.6 · 리뷰 108개</span>
+    <a href="https://link.coupang.com/a/eDBeaL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -87,64 +96,34 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     <path d="M 68 38 L 92 38 L 115 38 L 139 38 L 163 38 L 186 38 L 210 90 L 233 90 L 257 90 L 281 90 L 304 80 L 328 80 L 352 132 L 375 90 L 399 38 L 423 38 L 446 38 L 470 38 L 493 38 L 517 64 L 541 64 L 564 64 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 38 L 92 38 L 115 38 L 139 38 L 163 38 L 186 38 L 210 90 L 233 90 L 257 90 L 281 90 L 304 80 L 328 80 L 352 132 L 375 90 L 399 38 L 423 38 L 446 38 L 470 38 L 493 38 L 517 64 L 541 64 L 564 64 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="139" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="186" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="210" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="90" r="4" fill="#fdba74"></circle>
     <circle cx="281" cy="90" r="4" fill="#fdba74"></circle>
     <circle cx="304" cy="80" r="4" fill="#fdba74"></circle>
     <circle cx="328" cy="80" r="4" fill="#fdba74"></circle>
     <circle cx="352" cy="132" r="4" fill="#fdba74"></circle>
     <circle cx="375" cy="90" r="4" fill="#fdba74"></circle>
     <circle cx="399" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="423" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="493" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="517" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="64" r="4" fill="#fdba74"></circle>
     <circle cx="564" cy="64" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="38" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="26" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="92" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
     <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="139" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
     <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
     <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="281" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
     <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
     <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="375" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
     <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
     <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="517" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
     <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="564" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,200원 · 별점 4.6 · 리뷰 108개</span>
-    <a href="https://link.coupang.com/a/eDBeaL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 뭴러스 오메가3 레몬맛은 알약형 오메가3 섭취에 부담을 느끼거나 비린 맛에 민감한 소비자들이 매일 아침 꾸준히 건강을 챙기기 좋은 액상형 오메가3 제품입니다. 상큼한 레몬향으로 오메가3 특유의 비린 맛을 줄여 가족 구성원 모두가 거부감 없이 섭취할 수 있도록 돕습니다. 출시연도 정보는 현재 미공개입니다.

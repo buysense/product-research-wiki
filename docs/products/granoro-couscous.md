@@ -51,8 +51,17 @@ description: 이탈리아산 듀럼밀 세몰리나 100%로 만든 그라노로 
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2026년 4월 14일 쿠팡 기준 5,790원</span>
+    <a href="https://link.coupang.com/a/eoMugR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -64,70 +73,26 @@ description: 이탈리아산 듀럼밀 세몰리나 100%로 만든 그라노로 
     <path d="M 68 125 L 89 125 L 110 125 L 130 125 L 151 26 L 172 125 L 193 125 L 214 125 L 234 125 L 255 125 L 276 125 L 297 125 L 318 125 L 338 125 L 359 125 L 380 125 L 401 125 L 422 125 L 442 125 L 463 125 L 484 125 L 505 125 L 526 125 L 546 125 L 567 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 125 L 89 125 L 110 125 L 130 125 L 151 26 L 172 125 L 193 125 L 214 125 L 234 125 L 255 125 L 276 125 L 297 125 L 318 125 L 338 125 L 359 125 L 380 125 L 401 125 L 422 125 L 442 125 L 463 125 L 484 125 L 505 125 L 526 125 L 546 125 L 567 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="130" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="151" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="172" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="193" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="234" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="297" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="359" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="422" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="442" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="463" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="505" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="567" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,070원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="89" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="110" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
     <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="151" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
     <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="214" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
     <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="255" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
     <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="318" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="338" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
     <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="401" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
     <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="442" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
     <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="505" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="546" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="567" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2026년 4월 14일 쿠팡 기준 5,790원</span>
-    <a href="https://link.coupang.com/a/eoMugR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 그라노로 쿠스쿠스는 바쁜 일상 속에서 건강하고 간편한 한 끼를 찾는 분들을 위한 이탈리아산 듀럼밀 세몰리나 100% 곡물입니다. 뜨거운 물에 3~5분(최대 10분) 내외로 빠르게 조리할 수 있어 다이어트 식단, 샐러드, 스튜, 볶음 요리 등 다양한 레시피에 활용하기 좋습니다. 특히 배우 장근석이 방송에서 쿠스쿠스 샐러드를 만드는 데 사용하며 건강식으로서 주목받기도 했습니다. 현재 유통 중인 패키지 버전은 2023년경 리뉴얼된 것으로 보입니다.

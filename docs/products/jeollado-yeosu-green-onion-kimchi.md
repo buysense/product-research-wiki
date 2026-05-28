@@ -50,8 +50,17 @@ description: 국내산 쪽파와 감칠맛 나는 양념이 특징인 전라도 
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,360원 · 별점 4.5 · 리뷰 11,093개</span>
+    <a href="https://link.coupang.com/a/dQ43GUIGyG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 11개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -65,13 +74,8 @@ description: 국내산 쪽파와 감칠맛 나는 양념이 특징인 전라도 
     <circle cx="68" cy="53" r="4" fill="#fdba74"></circle>
     <circle cx="120" cy="53" r="4" fill="#fdba74"></circle>
     <circle cx="172" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="224" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="174" r="4" fill="#fdba74"></circle>
     <circle cx="432" cy="174" r="4" fill="#fdba74"></circle>
     <circle cx="484" cy="175" r="4" fill="#fdba74"></circle>
-    <circle cx="536" cy="175" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="175" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="163" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,360원</text>
@@ -80,7 +84,6 @@ description: 국내산 쪽파와 감칠맛 나는 양념이 특징인 전라도 
     <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
     <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
     <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
     <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
     <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
@@ -90,13 +93,6 @@ description: 국내산 쪽파와 감칠맛 나는 양념이 특징인 전라도 
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,360원 · 별점 4.5 · 리뷰 11,093개</span>
-    <a href="https://link.coupang.com/a/dQ43GUIGyG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 전라도 여수 파김치는 국내산 쪽파를 사용하여 아삭하고 신선한 식감을 제공하며, 감칠맛 나는 양념이 듬뿍 들어가 깊은 맛을 내는 것이 특징입니다. 받자마자 바로 밥반찬으로 즐기기 좋으며, 시간이 지나 숙성될수록 더욱 깊은 풍미를 더해 따뜻한 흰쌀밥, 라면, 구운 고기 등 다양한 한식 메뉴와 곁들이기에 적합합니다.

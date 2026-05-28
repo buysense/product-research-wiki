@@ -78,8 +78,17 @@ description: 샹달프 딸기잼은 설탕 대신 과일 본연의 단맛과 풍
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,340원 · 별점 4.8 · 리뷰 1,726개</span>
+    <a href="https://link.coupang.com/a/eB37JS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -91,68 +100,30 @@ description: 샹달프 딸기잼은 설탕 대신 과일 본연의 단맛과 풍
     <path d="M 68 99 L 90 99 L 111 99 L 133 99 L 155 99 L 176 99 L 198 99 L 220 153 L 241 153 L 263 153 L 285 153 L 306 153 L 328 153 L 350 153 L 371 76 L 393 142 L 415 142 L 436 142 L 458 142 L 480 142 L 501 142 L 523 142 L 545 76 L 566 76 L 588 76 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 99 L 90 99 L 111 99 L 133 99 L 155 99 L 176 99 L 198 99 L 220 153 L 241 153 L 263 153 L 285 153 L 306 153 L 328 153 L 350 153 L 371 76 L 393 142 L 415 142 L 436 142 L 458 142 L 480 142 L 501 142 L 523 142 L 545 76 L 566 76 L 588 76" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="90" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="111" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="99" r="4" fill="#fdba74"></circle>
     <circle cx="198" cy="99" r="4" fill="#fdba74"></circle>
     <circle cx="220" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="285" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="306" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="153" r="4" fill="#fdba74"></circle>
     <circle cx="350" cy="153" r="4" fill="#fdba74"></circle>
     <circle cx="371" cy="76" r="4" fill="#fdba74"></circle>
     <circle cx="393" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="436" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="142" r="4" fill="#fdba74"></circle>
     <circle cx="523" cy="142" r="4" fill="#fdba74"></circle>
     <circle cx="545" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="566" cy="76" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="76" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="64" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,340원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="90" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
     <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
     <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="220" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
     <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
     <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
     <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
     <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="436" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="566" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,340원 · 별점 4.8 · 리뷰 1,726개</span>
-    <a href="https://link.coupang.com/a/eB37JS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 샹달프 딸기잼은 설탕 대신 과일 농축액으로 단맛을 내어 딸기 본연의 풍미를 살린 제품입니다. 풍부한 과육이 특징으로, 아침 식사로 토스트나 모닝빵에 발라 먹거나, 플레인 요거트, 팬케이크, 와플 등에 곁들여 건강하고 맛있는 한 끼를 완성하는 데 주로 소비됩니다. 자연스러운 맛으로 어린아이 간식으로도 부담 없이 활용하기 좋습니다.

@@ -41,8 +41,17 @@ description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,750원 · 별점 4.7 · 리뷰 27개</span>
+    <a href="https://link.coupang.com/a/dXOWedqbCe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -54,11 +63,6 @@ description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된
     <path d="M 68 140 L 155 140 L 241 140 L 328 140 L 415 140 L 501 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 140 L 155 140 L 241 140 L 328 140 L 415 140 L 501 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,750원</text>
@@ -73,13 +77,6 @@ description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,750원 · 별점 4.7 · 리뷰 27개</span>
-    <a href="https://link.coupang.com/a/dXOWedqbCe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 '예감은 틀리지 않는다'는 맨부커상을 수상한 소설로, 삶과 기억에 대한 깊은 성찰을 제공하여 독자에게 긴 여운을 남기는 것이 특징입니다. 이 책은 자신의 기억이 유리하게 조작될 수 있다는 점을 예리하게 통찰하며, 깊이 있는 생각할 거리를 찾는 독자에게 적합합니다. 또한, 의미 있는 독서를 선물하고자 하는 지인 선물용으로도 많이 구매됩니다.

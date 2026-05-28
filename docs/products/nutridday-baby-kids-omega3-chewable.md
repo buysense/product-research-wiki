@@ -74,8 +74,17 @@ description: 뉴트리디데이 베이비 앤 키즈 오메가3는 생선 비린
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 79,390원 · 별점 4.7 · 리뷰 9,329개</span>
+    <a href="https://link.coupang.com/a/eDBvl8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -87,64 +96,23 @@ description: 뉴트리디데이 베이비 앤 키즈 오메가3는 생선 비린
     <path d="M 68 110 L 92 110 L 115 110 L 139 110 L 163 110 L 186 110 L 210 110 L 233 110 L 257 110 L 281 110 L 304 110 L 328 110 L 352 110 L 375 110 L 399 110 L 423 110 L 446 110 L 470 110 L 493 110 L 517 110 L 541 110 L 564 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 110 L 92 110 L 115 110 L 139 110 L 163 110 L 186 110 L 210 110 L 233 110 L 257 110 L 281 110 L 304 110 L 328 110 L 352 110 L 375 110 L 399 110 L 423 110 L 446 110 L 470 110 L 493 110 L 517 110 L 541 110 L 564 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="139" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="281" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="423" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="517" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="564" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">79,390원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="92" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
     <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="139" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
     <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
     <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="281" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
     <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
     <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="375" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
     <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
     <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="517" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
     <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="564" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 79,390원 · 별점 4.7 · 리뷰 9,329개</span>
-    <a href="https://link.coupang.com/a/eDBvl8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 뉴트리디데이 베이비 앤 키즈 오메가3는 생선 비린 맛에 민감하거나 액상 및 알약 형태의 영양제 섭취를 어려워하는 성장기 아이들을 위해 개발된 츄어블 형태의 오메가3 제품입니다. 귀여운 동물 모양과 상큼한 오렌지 또는 레몬 맛으로 아이들이 영양제를 간식처럼 즐겁게 섭취할 수 있도록 돕습니다. 두뇌 발달과 눈 건강뿐만 아니라 비타민 D, E까지 한 번에 챙길 수 있어, 학습량 증가나 미디어 노출이 많은 아이들의 영양 관리에 적합합니다.

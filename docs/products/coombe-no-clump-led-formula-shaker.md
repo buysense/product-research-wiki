@@ -46,8 +46,17 @@ description: 꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 47,730원 · 별점 4.4 · 리뷰 39개</span>
+    <a href="https://link.coupang.com/a/dTYN0uDfY4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -59,11 +68,6 @@ description: 꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 
     <path d="M 68 26 L 133 26 L 198 26 L 263 26 L 328 26 L 393 26 L 458 26 L 523 46 L 588 123 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 26 L 133 26 L 198 26 L 263 26 L 328 26 L 393 26 L 458 26 L 523 46 L 588 123" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="458" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="523" cy="46" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="123" r="5" fill="#ea580c"></circle>
@@ -82,13 +86,6 @@ description: 꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 47,730원 · 별점 4.4 · 리뷰 39개</span>
-    <a href="https://link.coupang.com/a/dTYN0uDfY4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 꿈비 뭉침없는 LED 분유쉐이커는 분유를 섞을 때 발생하는 손목 부담을 줄이고, 거품 생성을 억제해 아기의 배앓이를 방지하는 데 도움을 주는 자동 분유 혼합기입니다. 어두운 환경에서도 수유 준비를 용이하게 하는 LED 라이트 기능과 무선 충전 방식의 편리함을 제공하여, 새벽 수유가 잦거나 외출 시 간편하게 분유를 준비하려는 부모에게 적합합니다. 출시연도는 미공개입니다.

@@ -56,8 +56,17 @@ description: 킨더퍼페츠 100% 써지컬 미아방지 목걸이는 의료용 
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,000원 · 별점 4.7 · 리뷰 955개</span>
+    <a href="https://link.coupang.com/a/dLMyFANwzs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -69,46 +78,28 @@ description: 킨더퍼페츠 100% 써지컬 미아방지 목걸이는 의료용 
     <path d="M 68 110 L 108 110 L 148 110 L 188 110 L 228 110 L 268 26 L 308 26 L 348 110 L 388 110 L 428 110 L 468 110 L 508 110 L 548 110 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 110 L 108 110 L 148 110 L 188 110 L 228 110 L 268 26 L 308 26 L 348 110 L 388 110 L 428 110 L 468 110 L 508 110 L 548 110 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="228" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="268" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="308" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="348" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="548" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
     <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="148" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
     <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
     <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="268" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
     <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
     <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="388" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
     <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="508" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
     <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,000원 · 별점 4.7 · 리뷰 955개</span>
-    <a href="https://link.coupang.com/a/dLMyFANwzs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 킨더퍼페츠 100% 써지컬 미아방지 목걸이는 아이의 안전을 위해 미아방지 목걸이를 찾는 부모들을 위한 제품입니다. 의료기기 소재로 사용되는 써지컬 스틸 316L로 제작되어 알레르기 걱정 없이 민감한 피부의 아이도 착용 가능하며, 물에 닿아도 부식이나 변색이 없어 물놀이나 샤워 시에도 안심하고 착용할 수 있습니다. 20XX년 출시되었으며, 가볍고 편안한 착용감으로 활동량이 많은 아이들이 일상생활에서 불편함 없이 착용하기에 적합합니다.

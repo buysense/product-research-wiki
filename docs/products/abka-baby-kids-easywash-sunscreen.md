@@ -48,8 +48,17 @@ description: 아이와 민감성 피부를 위한 아브카 베이비 앤 키즈
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,560원 · 별점 4.9 · 리뷰 428개</span>
+    <a href="https://link.coupang.com/a/dSIQT8ti5k" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -63,9 +72,6 @@ description: 아이와 민감성 피부를 위한 아브카 베이비 앤 키즈
     <circle cx="68" cy="173" r="4" fill="#fdba74"></circle>
     <circle cx="126" cy="173" r="4" fill="#fdba74"></circle>
     <circle cx="184" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="135" r="4" fill="#fdba74"></circle>
     <circle cx="415" cy="135" r="4" fill="#fdba74"></circle>
     <circle cx="472" cy="91" r="4" fill="#fdba74"></circle>
     <circle cx="530" cy="135" r="4" fill="#fdba74"></circle>
@@ -86,13 +92,6 @@ description: 아이와 민감성 피부를 위한 아브카 베이비 앤 키즈
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,560원 · 별점 4.9 · 리뷰 428개</span>
-    <a href="https://link.coupang.com/a/dSIQT8ti5k" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 아브카 베이비 앤 키즈 이지워시 선크림 SPF50+ PA++++, 50ml는 영유아부터 어린이, 그리고 민감성 피부를 가진 성인까지 온 가족이 함께 사용할 수 있는 저자극 선크림입니다. 강력한 자외선 차단 효과(SPF50+ PA++++)를 제공하면서도 물세안만으로 간편하게 지워지는 이지워시 타입으로, 어린이집 등원이나 가벼운 야외 활동 등 일상적인 상황에서 편리하게 사용됩니다. 끈적임 없이 산뜻한 마무리감과 무향으로 사용감을 높인 것이 특징이며, 출시연도는 미공개입니다.

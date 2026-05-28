@@ -46,8 +46,17 @@ description: 이베아 두꺼운 퍼즐매트는 2.5cm 두께로 층간소음 �
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,500원 · 별점 4.8 · 리뷰 239개</span>
+    <a href="https://link.coupang.com/a/dTP2aeVEho" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,12 +69,6 @@ description: 이베아 두꺼운 퍼즐매트는 2.5cm 두께로 층간소음 �
     <path d="M 68 41 L 133 140 L 198 140 L 263 140 L 328 140 L 393 140 L 458 140 L 523 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="41" r="4" fill="#fdba74"></circle>
     <circle cx="133" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,500원</text>
@@ -82,13 +85,6 @@ description: 이베아 두꺼운 퍼즐매트는 2.5cm 두께로 층간소음 �
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,500원 · 별점 4.8 · 리뷰 239개</span>
-    <a href="https://link.coupang.com/a/dTP2aeVEho" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 이베아 두꺼운 퍼즐매트는 2.5cm의 두께로 층간소음 완화 및 아이들이 넘어졌을 때의 충격을 흡수하여 안전을 확보하는 데 중점을 둔 제품입니다. 주로 아이들이 활동하는 거실이나 놀이방에 설치하여 층간소음 민원 우려를 줄이고, 바닥 냉기 차단 및 인테리어 효과를 동시에 얻고자 하는 가정에서 소비됩니다. 퍼즐 형태로 조립이 간편하며, 무난한 색상 조합으로 실내 분위기를 해치지 않아 실용성과 심미성을 모두 고려하는 소비자에게 적합합니다.

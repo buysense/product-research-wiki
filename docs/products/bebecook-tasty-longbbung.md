@@ -47,8 +47,17 @@ description: 베베쿡 더 맛있는 빼빼롱뻥은 유기농 현미와 NON-GMO
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,500원</span>
+    <a href="https://link.coupang.com/a/eppvg4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,66 +69,26 @@ description: 베베쿡 더 맛있는 빼빼롱뻥은 유기농 현미와 NON-GMO
     <path d="M 68 45 L 91 45 L 113 45 L 136 45 L 158 45 L 181 45 L 204 45 L 226 45 L 249 45 L 271 45 L 294 169 L 317 45 L 339 45 L 362 45 L 385 45 L 407 45 L 430 45 L 452 45 L 475 45 L 498 45 L 520 45 L 543 45 L 565 45 L 588 45 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 45 L 91 45 L 113 45 L 136 45 L 158 45 L 181 45 L 204 45 L 226 45 L 249 45 L 271 45 L 294 169 L 317 45 L 339 45 L 362 45 L 385 45 L 407 45 L 430 45 L 452 45 L 475 45 L 498 45 L 520 45 L 543 45 L 565 45 L 588 45" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="91" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="113" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="136" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="181" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="204" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="226" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="249" cy="45" r="4" fill="#fdba74"></circle>
     <circle cx="271" cy="45" r="4" fill="#fdba74"></circle>
     <circle cx="294" cy="169" r="4" fill="#fdba74"></circle>
     <circle cx="317" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="339" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="362" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="385" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="407" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="430" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="452" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="475" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="520" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="543" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="565" cy="45" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="45" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="33" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="91" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="113" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
     <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="158" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
     <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="204" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="226" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
     <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="271" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
     <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="317" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="339" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
     <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="385" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
     <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="430" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="452" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
     <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="498" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="543" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="565" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,500원</span>
-    <a href="https://link.coupang.com/a/eppvg4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 베베쿡 더 맛있는 빼빼롱뻥은 12개월 이상 아기를 위한 스틱형 간식으로, 바삭하면서도 입에서 사르르 녹는 식감이 특징입니다. 유기농 국산 현미와 NON-GMO 옥수수를 사용하여 만들었으며, 자일리톨로 건강한 단맛을 더했습니다. 주로 외출 시 아기의 간식으로 활용되거나, 집에서 부모가 잠시 휴식을 취하는 동안 아기가 스스로 잡고 먹기 좋은 제품으로, 2021년 이후 출시되었습니다.

@@ -52,8 +52,17 @@ description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,830원 · 별점 4.6 · 리뷰 5,230개</span>
+    <a href="https://link.coupang.com/a/dPoVerej0u" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -67,13 +76,6 @@ description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰
     <circle cx="68" cy="143" r="4" fill="#fdba74"></circle>
     <circle cx="115" cy="143" r="4" fill="#fdba74"></circle>
     <circle cx="163" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="541" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="52" r="5" fill="#ea580c"></circle>
 
@@ -81,12 +83,10 @@ description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
     <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
     <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="210" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
     <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
     <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
     <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
     <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="446" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
     <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
     <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
@@ -94,13 +94,6 @@ description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,830원 · 별점 4.6 · 리뷰 5,230개</span>
-    <a href="https://link.coupang.com/a/dPoVerej0u" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 곰곰 납작한 누들 밀 떡볶이떡 (냉장)은 집에서 떡볶이나 다양한 떡 요리를 간편하고 맛있게 즐기려는 소비자에게 적합한 제품입니다. 얇고 납작한 누들 형태로 소스 흡수율이 높고, 쫄깃하면서도 부드러운 식감이 특징입니다. 20XX년(미공개) 출시되었으며, 배달 음식 대신 가성비 좋은 집밥을 선호하는 가족 단위 소비자들에게 특히 인기를 얻고 있습니다.
