@@ -20,7 +20,7 @@ description: 유디엘 유모차 걸이 후크는 유모차에 가방, 쇼핑백
     "price": "7500",
     "url": "https://link.coupang.com/a/d5koIIMDsa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-03"
+    "priceValidUntil": "2026-06-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
