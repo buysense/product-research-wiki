@@ -15,7 +15,7 @@ description: 잔스포츠(JanSport) 슈퍼브레이크 원(Superbreak One) 백�
     "priceCurrency": "KRW",
     "availability": "https://schema.org/InStock",
     "url": "https://link.coupang.com/a/d3G6zZ",
-    "priceValidUntil": "2026-06-04"
+    "priceValidUntil": "2026-06-05"
   }
 }
 </script>
@@ -69,16 +69,9 @@ description: 잔스포츠(JanSport) 슈퍼브레이크 원(Superbreak One) 백�
 
 
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 44,610원</span>
-    <a href="https://link.coupang.com/a/d3G6zZ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -87,45 +80,55 @@ description: 잔스포츠(JanSport) 슈퍼브레이크 원(Superbreak One) 백�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 32 L 88 102 L 108 102 L 128 64 L 148 64 L 168 41 L 188 41 L 208 41 L 228 55 L 248 62 L 268 48 L 288 47 L 308 47 L 328 41 L 348 41 L 368 41 L 388 64 L 408 64 L 428 64 L 448 64 L 468 102 L 488 102 L 508 114 L 528 114 L 548 114 L 568 32 L 588 33 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 32 L 88 102 L 108 102 L 128 64 L 148 64 L 168 41 L 188 41 L 208 41 L 228 55 L 248 62 L 268 48 L 288 47 L 308 47 L 328 41 L 348 41 L 368 41 L 388 64 L 408 64 L 428 64 L 448 64 L 468 102 L 488 102 L 508 114 L 528 114 L 548 114 L 568 32 L 588 33" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 32 L 87 102 L 107 102 L 126 64 L 145 64 L 164 41 L 184 41 L 203 41 L 222 55 L 241 62 L 261 48 L 280 47 L 299 47 L 318 41 L 338 41 L 357 41 L 376 64 L 395 64 L 415 64 L 434 64 L 453 102 L 472 102 L 492 114 L 511 114 L 530 114 L 549 32 L 569 33 L 588 32 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 32 L 87 102 L 107 102 L 126 64 L 145 64 L 164 41 L 184 41 L 203 41 L 222 55 L 241 62 L 261 48 L 280 47 L 299 47 L 318 41 L 338 41 L 357 41 L 376 64 L 395 64 L 415 64 L 434 64 L 453 102 L 472 102 L 492 114 L 511 114 L 530 114 L 549 32 L 569 33 L 588 32" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="88" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="128" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="168" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="208" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="248" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="48" r="4" fill="#fdba74"></circle>
-    <circle cx="288" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="368" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="448" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="488" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="568" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="33" r="5" fill="#ea580c"></circle>
+    <circle cx="87" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="107" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="145" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="164" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="203" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="222" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="261" cy="48" r="4" fill="#fdba74"></circle>
+    <circle cx="280" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="318" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="376" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="434" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="453" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="492" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="549" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="32" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="21" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">44,550원</text>
+    <text x="588" y="20" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">44,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 44,610원</span>
+    <a href="https://link.coupang.com/a/d3G6zZ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
 
 
 
