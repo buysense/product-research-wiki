@@ -81,85 +81,6 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">27,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
-
-    <path d="M 68 60 L 85 60 L 103 60 L 120 60 L 137 60 L 155 60 L 172 60 L 189 60 L 207 60 L 224 60 L 241 60 L 259 60 L 276 60 L 293 60 L 311 60 L 328 60 L 345 60 L 363 60 L 380 165 L 397 165 L 415 165 L 432 165 L 449 165 L 467 165 L 484 165 L 501 165 L 519 165 L 536 165 L 553 165 L 571 165 L 588 165 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 60 L 85 60 L 103 60 L 120 60 L 137 60 L 155 60 L 172 60 L 189 60 L 207 60 L 224 60 L 241 60 L 259 60 L 276 60 L 293 60 L 311 60 L 328 60 L 345 60 L 363 60 L 380 165 L 397 165 L 415 165 L 432 165 L 449 165 L 467 165 L 484 165 L 501 165 L 519 165 L 536 165 L 553 165 L 571 165 L 588 165" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="85" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="103" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="120" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="137" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="189" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="207" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="224" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="259" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="293" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="311" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="345" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="363" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="397" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="432" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="449" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="467" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="519" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="536" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="553" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="571" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="165" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="153" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">26,170원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-28</text>
-    <text x="85" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
-    <text x="103" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-30</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-01</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="189" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="207" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="259" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="293" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="363" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="397" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="449" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="467" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="553" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="571" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -168,6 +89,39 @@ description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 
     <a href="https://link.coupang.com/a/erthFm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">27,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
+
+    <path d="M 68 60 L 86 60 L 104 60 L 122 60 L 140 60 L 158 60 L 176 60 L 194 60 L 211 60 L 229 60 L 247 60 L 265 60 L 283 60 L 301 60 L 319 60 L 337 60 L 355 60 L 373 165 L 391 165 L 409 165 L 427 165 L 445 165 L 462 165 L 480 165 L 498 165 L 516 165 L 534 165 L 552 165 L 570 165 L 588 165 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 60 L 86 60 L 104 60 L 122 60 L 140 60 L 158 60 L 176 60 L 194 60 L 211 60 L 229 60 L 247 60 L 265 60 L 283 60 L 301 60 L 319 60 L 337 60 L 355 60 L 373 165 L 391 165 L 409 165 L 427 165 L 445 165 L 462 165 L 480 165 L 498 165 L 516 165 L 534 165 L 552 165 L 570 165 L 588 165" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="165" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="165" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="153" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">26,170원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">04-29</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-02</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 
 
