@@ -128,11 +128,6 @@ Apple 맥북 프로 14 M5칩실버 모델은 M5 10코어 CPU와 10코어 GPU, 16
 
 유명인 또는 인플루언서가 해당 제품을 언급하거나 추천한 내용은 확인되지 않습니다.
 
-## 비교 상품
-
-*   **Apple MacBook Air (M 시리즈)**: 맥북 프로 14인치 모델보다 가벼운 무게와 슬림한 디자인이 특징입니다. 팬이 없어 발열 관리 면에서는 맥북 프로가 유리하며, 고성능 작업보다는 문서 작업, 웹 서핑 등 일반적인 용도와 휴대성을 최우선으로 할 때 적합합니다.
-*   **Apple MacBook Pro 14 (M5 Pro 칩 모델)**: 동일한 폼팩터에서 더 많은 CPU/GPU 코어와 더 높은 메모리 옵션을 제공하여 극강의 성능을 요구하는 전문 사용자(예: 3대 이상 외부 모니터 연결, 8K 영상 편집)에게 더 적합합니다. M5 칩 모델은 성능과 가격 사이의 균형을 중시하는 사용자에게 매력적입니다.
-*   **Apple MacBook Pro 16 (M5 칩 모델)**: 더 큰 화면과 더 강력한 냉각 시스템을 제공하여 데스크톱 대체용으로 적합합니다. 14인치 모델보다 휴대성은 떨어지지만, 넓은 작업 공간을 선호하는 사용자에게 유리합니다.
 
 ## 총평
 
@@ -158,8 +153,6 @@ A. M5 Pro 칩부터는 최대 3대의 외부 모니터 연결을 공식적으로
 ---
 ## 참고한 글
 
-*   [쿠팡 상품 정보](https://www.coupang.com/vp/products/상품ID)
-*   [쿠팡 고객 리뷰](https://www.coupang.com/vp/products/상품ID/reviews)
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space: between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
