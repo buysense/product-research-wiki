@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 자라 ZARA 여성 카프리 팬츠: products/zara-women-capri-pants.md
     - 아이레빗 아이스론 냉감패드: products/irevit-icelon-cooling-pad.md
     - 듀라쿨텍 KC인증 국산 아기 침대 냉감패드: products/duracooltec-baby-bed-cooling-pad.md
     - "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙": products/ai-ui-noe-brain-parenting-principles.md
