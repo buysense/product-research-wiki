@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "캐치티니핑 멀티비타민 미네랄 음료 포도맛, 200ml, 24개": products/catch-teenieping-multivitamin-mineral-drink-grape-200ml.md
     - 상하목장 유기농주스 사과오렌지케일4 + 사과블루베리케일4+ 사과딸기케일4(총12팩): products/sangha-farm-organic-juice-12pack.md
     - 스노우키즈 스노우 유아물감 세트: products/snowkids-snow-kids-paint-set.md
     - "웅진 캐치 티니핑 딸기맛, 200ml, 24개": products/woongjin-catch-teenieping-strawberry-drink.md
