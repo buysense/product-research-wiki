@@ -48,9 +48,11 @@ description: 베베쿡 더 맛있는 빼빼롱뻥은 유기농 현미와 NON-GMO
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -59,25 +61,25 @@ description: 베베쿡 더 맛있는 빼빼롱뻥은 유기농 현미와 NON-GMO
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 45 L 90 45 L 111 45 L 133 45 L 155 45 L 176 45 L 198 45 L 220 45 L 241 45 L 263 45 L 285 169 L 306 45 L 328 45 L 350 45 L 371 45 L 393 45 L 415 45 L 436 45 L 458 45 L 480 45 L 501 45 L 523 45 L 545 45 L 566 45 L 588 45 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 45 L 90 45 L 111 45 L 133 45 L 155 45 L 176 45 L 198 45 L 220 45 L 241 45 L 263 45 L 285 169 L 306 45 L 328 45 L 350 45 L 371 45 L 393 45 L 415 45 L 436 45 L 458 45 L 480 45 L 501 45 L 523 45 L 545 45 L 566 45 L 588 45" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 45 L 89 45 L 110 45 L 130 45 L 151 45 L 172 45 L 193 45 L 214 45 L 234 45 L 255 45 L 276 169 L 297 45 L 318 45 L 338 45 L 359 45 L 380 45 L 401 45 L 422 45 L 442 45 L 463 45 L 484 45 L 505 45 L 526 45 L 546 45 L 567 45 L 588 45 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 45 L 89 45 L 110 45 L 130 45 L 151 45 L 172 45 L 193 45 L 214 45 L 234 45 L 255 45 L 276 169 L 297 45 L 318 45 L 338 45 L 359 45 L 380 45 L 401 45 L 422 45 L 442 45 L 463 45 L 484 45 L 505 45 L 526 45 L 546 45 L 567 45 L 588 45" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="285" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="306" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="255" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="297" cy="45" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="45" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="33" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
