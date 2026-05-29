@@ -16,10 +16,10 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "8640",
+    "price": "8270",
     "url": "https://link.coupang.com/a/eDegom",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-04"
+    "priceValidUntil": "2026-06-05"
   }
 }
 </script>
@@ -69,16 +69,9 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
 
 
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원</span>
-    <a href="https://link.coupang.com/a/eDegom" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -87,33 +80,43 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 34 L 91 34 L 113 34 L 136 34 L 158 34 L 181 34 L 204 34 L 226 34 L 249 34 L 271 72 L 294 72 L 317 72 L 339 72 L 362 72 L 385 110 L 407 112 L 430 112 L 452 113 L 475 113 L 498 113 L 520 113 L 543 113 L 565 113 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 91 34 L 113 34 L 136 34 L 158 34 L 181 34 L 204 34 L 226 34 L 249 34 L 271 72 L 294 72 L 317 72 L 339 72 L 362 72 L 385 110 L 407 112 L 430 112 L 452 113 L 475 113 L 498 113 L 520 113 L 543 113 L 565 113 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 90 34 L 111 34 L 133 34 L 155 34 L 176 34 L 198 34 L 220 34 L 241 34 L 263 72 L 285 72 L 306 72 L 328 72 L 350 72 L 371 110 L 393 112 L 415 112 L 436 113 L 458 113 L 480 113 L 501 113 L 523 113 L 545 113 L 566 129 L 588 157 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 90 34 L 111 34 L 133 34 L 155 34 L 176 34 L 198 34 L 220 34 L 241 34 L 263 72 L 285 72 L 306 72 L 328 72 L 350 72 L 371 110 L 393 112 L 415 112 L 436 113 L 458 113 L 480 113 L 501 113 L 523 113 L 545 113 L 566 129 L 588 157" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="249" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="271" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="362" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="385" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="407" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="430" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="452" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="565" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="129" r="5" fill="#ea580c"></circle>
+    <circle cx="241" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="350" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="371" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="436" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="545" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="566" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="157" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,640원</text>
+    <text x="588" y="145" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,270원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원</span>
+    <a href="https://link.coupang.com/a/eDegom" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
 
 
 ## 상품 개요
