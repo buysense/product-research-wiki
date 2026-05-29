@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 스노우키즈 스노우 유아물감 세트: products/snowkids-snow-kids-paint-set.md
     - "웅진 캐치 티니핑 딸기맛, 200ml, 24개": products/woongjin-catch-teenieping-strawberry-drink.md
     - 닥터노아 미세플라스틱 안심 대나무 유아 아기 칫솔: products/drnoah-microplastic-free-bamboo-baby-toothbrush.md
     - 고재스툴 원목 빈티지 디자인 우드스툴 나무의자 화분스툴 사각 원형 미니: products/gojaestool-wood-vintage-design-mini-stool.md
