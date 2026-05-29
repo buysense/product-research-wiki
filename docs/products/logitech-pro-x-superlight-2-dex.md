@@ -20,7 +20,7 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
     "price": "173280",
     "url": "https://link.coupang.com/a/d9c95Fandc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-05"
+    "priceValidUntil": "2026-06-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
