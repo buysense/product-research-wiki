@@ -53,9 +53,11 @@ description: 2021년 10월 8일에 출시된 닌텐도 스위치 OLED 모델 HEG
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -64,34 +66,34 @@ description: 2021년 10월 8일에 출시된 닌텐도 스위치 OLED 모델 HEG
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">600,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">400,000</text>
 
-    <path d="M 68 112 L 87 112 L 107 112 L 126 30 L 145 30 L 164 30 L 184 112 L 203 112 L 222 112 L 241 132 L 261 132 L 280 132 L 299 132 L 318 132 L 338 132 L 357 113 L 376 113 L 395 113 L 415 113 L 434 110 L 453 110 L 472 110 L 492 110 L 511 110 L 530 110 L 549 110 L 569 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 112 L 87 112 L 107 112 L 126 30 L 145 30 L 164 30 L 184 112 L 203 112 L 222 112 L 241 132 L 261 132 L 280 132 L 299 132 L 318 132 L 338 132 L 357 113 L 376 113 L 395 113 L 415 113 L 434 110 L 453 110 L 472 110 L 492 110 L 511 110 L 530 110 L 549 110 L 569 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 112 L 87 112 L 105 112 L 124 30 L 142 30 L 161 30 L 179 112 L 198 112 L 217 112 L 235 132 L 254 132 L 272 132 L 291 132 L 309 132 L 328 132 L 347 113 L 365 113 L 384 113 L 402 113 L 421 110 L 439 110 L 458 110 L 477 110 L 495 110 L 514 110 L 532 110 L 551 30 L 569 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 112 L 87 112 L 105 112 L 124 30 L 142 30 L 161 30 L 179 112 L 198 112 L 217 112 L 235 132 L 254 132 L 272 132 L 291 132 L 309 132 L 328 132 L 347 113 L 365 113 L 384 113 L 402 113 L 421 110 L 439 110 L 458 110 L 477 110 L 495 110 L 514 110 L 532 110 L 551 30 L 569 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="107" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="164" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="222" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="434" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="549" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="124" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="161" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="179" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="235" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="347" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="421" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="532" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="30" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">788,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
