@@ -20,7 +20,7 @@ description: 홈잼 두꺼운 층간소음 매트는 2.6cm 두께로 아이 있�
     "price": "21500",
     "url": "https://link.coupang.com/a/dSHk40limq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-06"
+    "priceValidUntil": "2026-06-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -51,9 +51,11 @@ description: 홈잼 두꺼운 층간소음 매트는 2.6cm 두께로 아이 있�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,24 +64,24 @@ description: 홈잼 두꺼운 층간소음 매트는 2.6cm 두께로 아이 있�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 30 L 115 30 L 163 30 L 210 30 L 257 121 L 304 121 L 352 121 L 399 121 L 446 121 L 493 121 L 541 121 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 30 L 115 30 L 163 30 L 210 30 L 257 121 L 304 121 L 352 121 L 399 121 L 446 121 L 493 121 L 541 121 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 30 L 111 30 L 155 30 L 198 30 L 241 121 L 285 121 L 328 121 L 371 121 L 415 121 L 458 121 L 501 121 L 545 121 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 30 L 111 30 L 155 30 L 198 30 L 241 121 L 285 121 L 328 121 L 371 121 L 415 121 L 458 121 L 501 121 L 545 121 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="121" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="121" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="109" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
