@@ -54,9 +54,11 @@ description: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스는 2025�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -65,35 +67,35 @@ description: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스는 2025�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
 
-    <path d="M 68 46 L 87 46 L 107 47 L 126 47 L 145 47 L 164 47 L 184 88 L 203 88 L 222 88 L 241 88 L 261 88 L 280 26 L 299 26 L 318 26 L 338 26 L 357 26 L 376 26 L 395 26 L 415 26 L 434 26 L 453 118 L 472 118 L 492 26 L 511 26 L 530 26 L 549 26 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 46 L 87 46 L 107 47 L 126 47 L 145 47 L 164 47 L 184 88 L 203 88 L 222 88 L 241 88 L 261 88 L 280 26 L 299 26 L 318 26 L 338 26 L 357 26 L 376 26 L 395 26 L 415 26 L 434 26 L 453 118 L 472 118 L 492 26 L 511 26 L 530 26 L 549 26 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 46 L 87 46 L 105 47 L 124 47 L 142 47 L 161 47 L 179 88 L 198 88 L 217 88 L 235 88 L 254 88 L 272 26 L 291 26 L 309 26 L 328 26 L 347 26 L 365 26 L 384 26 L 402 26 L 421 26 L 439 118 L 458 118 L 477 26 L 495 26 L 514 26 L 532 26 L 551 26 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 46 L 87 46 L 105 47 L 124 47 L 142 47 L 161 47 L 179 88 L 198 88 L 217 88 L 235 88 L 254 88 L 272 26 L 291 26 L 309 26 L 328 26 L 347 26 L 365 26 L 384 26 L 402 26 L 421 26 L 439 118 L 458 118 L 477 26 L 495 26 L 514 26 L 532 26 L 551 26 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="46" r="4" fill="#fdba74"></circle>
     <circle cx="87" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="107" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="164" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="261" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="280" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="434" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="453" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="492" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="549" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="161" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="179" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="254" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="272" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="421" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="532" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">55,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
