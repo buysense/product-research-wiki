@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 오뚜기 옥수수 마아가린: products/ottogi-corn-margarine-buy.md
     - 로지텍 PRO X SUPERLIGHT 2 DEX: products/logitech-pro-x-superlight-2-dex.md
     - "뽀로로 어린이음료 밀크맛, 235ml, 24개": products/pororo-kids-milk-drink-235ml-24ea.md
     - "캐치티니핑 멀티비타민 미네랄 음료 포도맛, 200ml, 24개": products/catch-teenieping-multivitamin-mineral-drink-grape-200ml.md
