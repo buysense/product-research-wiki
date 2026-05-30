@@ -17,15 +17,15 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "817770",
+    "price": "805270",
     "url": "https://link.coupang.com/a/dL2nfPaZ1U",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-06"
+    "priceValidUntil": "2026-06-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 184,
+    "reviewCount": 186,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -59,9 +59,11 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -70,35 +72,36 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,000,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">800,000</text>
 
-    <path d="M 68 98 L 103 98 L 137 82 L 172 82 L 207 121 L 241 122 L 276 92 L 311 92 L 345 174 L 380 171 L 415 110 L 449 110 L 484 176 L 519 176 L 553 176 L 588 171 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 98 L 103 98 L 137 82 L 172 82 L 207 121 L 241 122 L 276 92 L 311 92 L 345 174 L 380 171 L 415 110 L 449 110 L 484 176 L 519 176 L 553 176 L 588 171" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 98 L 101 98 L 133 82 L 166 82 L 198 121 L 231 122 L 263 92 L 296 92 L 328 174 L 361 171 L 393 110 L 426 110 L 458 176 L 491 176 L 523 176 L 556 171 L 588 176 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 98 L 101 98 L 133 82 L 166 82 L 198 121 L 231 122 L 263 92 L 296 92 L 328 174 L 361 171 L 393 110 L 426 110 L 458 176 L 491 176 L 523 176 L 556 171 L 588 176" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="103" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="137" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="207" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="311" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="345" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="171" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="449" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="553" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="171" r="5" fill="#ea580c"></circle>
+    <circle cx="101" cy="98" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="166" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="231" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="296" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="361" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="426" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="556" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="176" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="159" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">817,770원</text>
+    <text x="588" y="164" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">805,270원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -106,7 +109,7 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 817,770원 · 별점 4.8 · 리뷰 184개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 805,270원 · 별점 4.8 · 리뷰 186개</span>
     <a href="https://link.coupang.com/a/dL2nfPaZ1U" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -184,7 +187,7 @@ A. 네, 터치 조작 외에도 기본 제공되는 리모컨을 통해 조작�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 817,770원 · 별점 4.8 · 리뷰 184개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 805,270원 · 별점 4.8 · 리뷰 186개</span>
     <a href="https://link.coupang.com/a/dL2nfPaZ1U" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
