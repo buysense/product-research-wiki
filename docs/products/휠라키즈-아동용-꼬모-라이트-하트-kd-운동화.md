@@ -56,9 +56,11 @@ description: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화는 활�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -67,30 +69,30 @@ description: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화는 활�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 173 L 87 173 L 105 173 L 124 173 L 142 173 L 161 173 L 179 173 L 198 50 L 217 50 L 235 116 L 254 50 L 272 50 L 291 50 L 309 50 L 328 50 L 347 50 L 365 50 L 384 50 L 402 50 L 421 50 L 439 50 L 458 50 L 477 50 L 495 83 L 514 50 L 532 50 L 551 50 L 569 50 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 173 L 87 173 L 105 173 L 124 173 L 142 173 L 161 173 L 179 173 L 198 50 L 217 50 L 235 116 L 254 50 L 272 50 L 291 50 L 309 50 L 328 50 L 347 50 L 365 50 L 384 50 L 402 50 L 421 50 L 439 50 L 458 50 L 477 50 L 495 83 L 514 50 L 532 50 L 551 50 L 569 50 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 173 L 86 173 L 104 173 L 122 173 L 140 173 L 158 173 L 176 173 L 194 50 L 211 50 L 229 116 L 247 50 L 265 50 L 283 50 L 301 50 L 319 50 L 337 50 L 355 50 L 373 50 L 391 50 L 409 50 L 427 50 L 445 50 L 462 50 L 480 83 L 498 50 L 516 50 L 534 50 L 552 50 L 570 50 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 173 L 86 173 L 104 173 L 122 173 L 140 173 L 158 173 L 176 173 L 194 50 L 211 50 L 229 116 L 247 50 L 265 50 L 283 50 L 301 50 L 319 50 L 337 50 L 355 50 L 373 50 L 391 50 L 409 50 L 427 50 L 445 50 L 462 50 L 480 83 L 498 50 L 516 50 L 534 50 L 552 50 L 570 50 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="179" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="235" cy="116" r="4" fill="#fdba74"></circle>
-    <circle cx="254" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="477" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="495" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="50" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="50" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="38" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">43,450원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
