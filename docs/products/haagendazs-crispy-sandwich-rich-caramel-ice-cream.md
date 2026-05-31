@@ -17,15 +17,15 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "14890",
+    "price": "14160",
     "url": "https://link.coupang.com/a/eDP2cK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-07"
+    "priceValidUntil": "2026-06-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 657,
+    "reviewCount": 660,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -79,43 +79,46 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
     <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,800</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,600</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
 
-    <path d="M 68 106 L 89 106 L 110 106 L 130 106 L 151 106 L 172 106 L 193 106 L 214 163 L 234 163 L 255 163 L 276 163 L 297 163 L 318 163 L 338 106 L 359 110 L 380 159 L 401 49 L 422 102 L 442 102 L 463 102 L 484 102 L 505 102 L 526 102 L 546 68 L 567 68 L 588 68 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 106 L 89 106 L 110 106 L 130 106 L 151 106 L 172 106 L 193 106 L 214 163 L 234 163 L 255 163 L 276 163 L 297 163 L 318 163 L 338 106 L 359 110 L 380 159 L 401 49 L 422 102 L 442 102 L 463 102 L 484 102 L 505 102 L 526 102 L 546 68 L 567 68 L 588 68" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="193" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="359" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="422" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="68" r="5" fill="#ea580c"></circle>
+    <path d="M 68 58 L 88 58 L 108 58 L 128 58 L 148 58 L 168 58 L 188 58 L 208 81 L 228 81 L 248 81 L 268 81 L 288 81 L 308 81 L 328 58 L 348 59 L 368 79 L 388 35 L 408 56 L 428 56 L 448 56 L 468 56 L 488 56 L 508 56 L 528 43 L 548 43 L 568 43 L 588 154 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 58 L 88 58 L 108 58 L 128 58 L 148 58 L 168 58 L 188 58 L 208 81 L 228 81 L 248 81 L 268 81 L 288 81 L 308 81 L 328 58 L 348 59 L 368 79 L 388 35 L 408 56 L 428 56 L 448 56 L 468 56 L 488 56 L 508 56 L 528 43 L 548 43 L 568 43 L 588 154" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="208" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="368" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="408" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="528" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="568" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="154" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="56" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,890원</text>
+    <text x="588" y="142" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,160원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -123,7 +126,7 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,890원 · 별점 4.7 · 리뷰 657개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,160원 · 별점 4.7 · 리뷰 660개</span>
     <a href="https://link.coupang.com/a/eDP2cK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -198,7 +201,7 @@ A. 제품은 개별 박스에 포장되어 있으며, 배송 시에는 로켓프
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,890원 · 별점 4.7 · 리뷰 657개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,160원 · 별점 4.7 · 리뷰 660개</span>
     <a href="https://link.coupang.com/a/eDP2cK" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
