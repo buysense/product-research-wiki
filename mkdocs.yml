@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 아타라 VIP 패키지 금핀 두피마사지 브러쉬: products/atara-goldpin-scalp-massage-brush.md
     - 딥디크 캔들 베이: products/diptyque-candle-baies-190g.md
     - 베지밀 비 달콤한 두유: products/vegemil-b-sweet-soy-milk.md
     - 오뚜기 옥수수 마아가린: products/ottogi-corn-margarine-buy.md
