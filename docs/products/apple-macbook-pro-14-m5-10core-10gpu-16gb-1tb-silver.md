@@ -17,15 +17,15 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "2425810",
+    "price": "2425460",
     "url": "https://link.coupang.com/a/dYFmkgvIZM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-07"
+    "priceValidUntil": "2026-06-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 817,
+    "reviewCount": 823,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -45,9 +45,11 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -56,27 +58,29 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">2,450,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">2,400,000</text>
 
-    <path d="M 68 78 L 133 78 L 198 78 L 263 78 L 328 136 L 393 139 L 458 138 L 523 139 L 588 139 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 78 L 133 78 L 198 78 L 263 78 L 328 136 L 393 139 L 458 138 L 523 139 L 588 139" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 78 L 126 78 L 184 78 L 241 78 L 299 136 L 357 139 L 415 138 L 472 139 L 530 139 L 588 139 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 78 L 126 78 L 184 78 L 241 78 L 299 136 L 357 139 L 415 138 L 472 139 L 530 139 L 588 139" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="139" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="139" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="127" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,425,810원</text>
+    <text x="588" y="127" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,425,460원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -84,7 +88,7 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,425,810원 · 별점 4.8 · 리뷰 817개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,425,460원 · 별점 4.8 · 리뷰 823개</span>
     <a href="https://link.coupang.com/a/dYFmkgvIZM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -177,7 +181,7 @@ A. M5 Pro 칩부터는 최대 3대의 외부 모니터 연결을 공식적으로
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,425,810원 · 별점 4.8 · 리뷰 817개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,425,460원 · 별점 4.8 · 리뷰 823개</span>
     <a href="https://link.coupang.com/a/dYFmkgvIZM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
