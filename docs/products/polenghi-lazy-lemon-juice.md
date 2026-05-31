@@ -54,9 +54,11 @@ description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -65,33 +67,34 @@ description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
 
-    <path d="M 68 144 L 87 144 L 107 132 L 126 132 L 145 26 L 164 87 L 184 87 L 203 87 L 222 144 L 241 132 L 261 132 L 280 132 L 299 132 L 318 132 L 338 132 L 357 132 L 376 121 L 395 121 L 415 121 L 434 121 L 453 121 L 472 121 L 492 121 L 511 121 L 530 121 L 549 121 L 569 121 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 144 L 87 144 L 107 132 L 126 132 L 145 26 L 164 87 L 184 87 L 203 87 L 222 144 L 241 132 L 261 132 L 280 132 L 299 132 L 318 132 L 338 132 L 357 132 L 376 121 L 395 121 L 415 121 L 434 121 L 453 121 L 472 121 L 492 121 L 511 121 L 530 121 L 549 121 L 569 121 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 144 L 87 144 L 105 132 L 124 132 L 142 26 L 161 87 L 179 87 L 198 87 L 217 144 L 235 132 L 254 132 L 272 132 L 291 132 L 309 132 L 328 132 L 347 132 L 365 121 L 384 121 L 402 121 L 421 121 L 439 121 L 458 121 L 477 121 L 495 121 L 514 121 L 532 121 L 551 121 L 569 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 144 L 87 144 L 105 132 L 124 132 L 142 26 L 161 87 L 179 87 L 198 87 L 217 144 L 235 132 L 254 132 L 272 132 L 291 132 L 309 132 L 328 132 L 347 132 L 365 121 L 384 121 L 402 121 L 421 121 L 439 121 L 458 121 L 477 121 L 495 121 L 514 121 L 532 121 L 551 121 L 569 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="144" r="4" fill="#fdba74"></circle>
     <circle cx="87" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="107" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="145" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="164" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="203" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="222" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="376" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="124" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="161" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="235" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="347" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="132" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,120원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
