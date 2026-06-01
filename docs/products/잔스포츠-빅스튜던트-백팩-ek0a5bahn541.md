@@ -8,14 +8,20 @@ description: 잔스포츠(JanSport)는 1967년 미국에서 창립된 글로벌 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "잔스포츠 빅스튜던트 백팩 EK0A5BAHN541",
-  "url": "https://link.coupang.com/a/d3IlpA"
   "offers": {
     "@type": "Offer",
-    "price": 59330,
     "priceCurrency": "KRW",
-    "availability": "https://schema.org/InStock",
+    "price": "122400",
     "url": "https://link.coupang.com/a/d3IlpA",
+    "availability": "https://schema.org/InStock",
     "priceValidUntil": "2026-06-08"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.7,
+    "reviewCount": 27,
+    "bestRating": 5,
+    "worstRating": 1
   }
 }
 </script>
