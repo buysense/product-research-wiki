@@ -17,15 +17,15 @@ description: 잔스포츠 슈퍼브레이크 원 백팩은 가벼운 무게, 심
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "44600",
+    "price": "33490",
     "url": "https://link.coupang.com/a/exUnPe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-08"
+    "priceValidUntil": "2026-06-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 139,
+    "reviewCount": 140,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -88,6 +88,8 @@ description: 잔스포츠 슈퍼브레이크 원 백팩은 가벼운 무게, 심
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -95,47 +97,47 @@ description: 잔스포츠 슈퍼브레이크 원 백팩은 가벼운 무게, 심
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 102 L 86 102 L 104 64 L 122 64 L 140 41 L 158 41 L 176 41 L 194 55 L 211 62 L 229 48 L 247 47 L 265 47 L 283 41 L 301 41 L 319 41 L 337 64 L 355 64 L 373 64 L 391 64 L 409 102 L 427 102 L 445 114 L 462 114 L 480 114 L 498 32 L 516 33 L 534 32 L 552 32 L 570 32 L 588 32 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 86 102 L 104 64 L 122 64 L 140 41 L 158 41 L 176 41 L 194 55 L 211 62 L 229 48 L 247 47 L 265 47 L 283 41 L 301 41 L 319 41 L 337 64 L 355 64 L 373 64 L 391 64 L 409 102 L 427 102 L 445 114 L 462 114 L 480 114 L 498 32 L 516 33 L 534 32 L 552 32 L 570 32 L 588 32" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 86 83 L 104 83 L 122 72 L 140 72 L 158 72 L 176 79 L 194 82 L 211 75 L 229 74 L 247 74 L 265 72 L 283 72 L 301 72 L 319 83 L 337 83 L 355 83 L 373 83 L 391 102 L 409 102 L 427 108 L 445 108 L 462 108 L 480 67 L 498 67 L 516 67 L 534 67 L 552 67 L 570 67 L 588 151 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 86 83 L 104 83 L 122 72 L 140 72 L 158 72 L 176 79 L 194 82 L 211 75 L 229 74 L 247 74 L 265 72 L 283 72 L 301 72 L 319 83 L 337 83 L 355 83 L 373 83 L 391 102 L 409 102 L 427 108 L 445 108 L 462 108 L 480 67 L 498 67 L 516 67 L 534 67 L 552 67 L 570 67 L 588 151" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="48" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="409" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="33" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="32" r="5" fill="#ea580c"></circle>
+    <circle cx="427" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="151" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="20" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">44,600원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="588" y="139" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">33,490원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -143,7 +145,7 @@ description: 잔스포츠 슈퍼브레이크 원 백팩은 가벼운 무게, 심
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 44,600원 · 별점 4.6 · 리뷰 139개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 33,490원 · 별점 4.6 · 리뷰 140개</span>
     <a href="https://link.coupang.com/a/exUnPe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -228,7 +230,7 @@ A. 메인 수납 공간 1개와 전면에 지퍼 처리된 보조 포켓 1개로
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 44,600원 · 별점 4.6 · 리뷰 139개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 33,490원 · 별점 4.6 · 리뷰 140개</span>
     <a href="https://link.coupang.com/a/exUnPe" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
