@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 레이벤 RB4466D 플랫바 선글라스: products/rayban-rb4466d-flatbar-sunglasses.md
     - UCANBE 아이섀도우 팔레트: products/ucanbe-eyeshadow-palette.md
     - 아타라 VIP 패키지 금핀 두피마사지 브러쉬: products/atara-goldpin-scalp-massage-brush.md
     - 딥디크 캔들 베이: products/diptyque-candle-baies-190g.md
