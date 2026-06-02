@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "요미요미 유기농 주스 과일믹스, 125ml, 24개": products/yomiyomi-organic-juice-fruit-mix.md
     - "편강율 키즈 앤 베이비 모이스처 선크림 SPF50+ PA++++, 1개, 150ml": products/pyunkangyul-kids-baby-moisture-sunscreen-spf50-pa4.md
     - 아도르베베 아동용 항아리 플리츠 바지: products/adorbebe-kids-pleats-pants.md
     - 롤리트리 아동 플리츠 와이드 팬츠: products/rollitree-kids-pleats-wide-pants.md
