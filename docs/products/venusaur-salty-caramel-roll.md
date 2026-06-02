@@ -16,10 +16,10 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "8270",
+    "price": "8600",
     "url": "https://link.coupang.com/a/eDegom",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-08"
+    "priceValidUntil": "2026-06-09"
   }
 }
 </script>
@@ -75,9 +75,11 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -86,32 +88,33 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 34 L 87 34 L 107 34 L 126 34 L 145 34 L 164 34 L 184 34 L 203 34 L 222 34 L 241 72 L 261 72 L 280 72 L 299 72 L 318 72 L 338 110 L 357 112 L 376 112 L 395 113 L 415 113 L 434 113 L 453 113 L 472 113 L 492 113 L 511 129 L 530 157 L 549 157 L 569 157 L 588 157 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 87 34 L 107 34 L 126 34 L 145 34 L 164 34 L 184 34 L 203 34 L 222 34 L 241 72 L 261 72 L 280 72 L 299 72 L 318 72 L 338 110 L 357 112 L 376 112 L 395 113 L 415 113 L 434 113 L 453 113 L 472 113 L 492 113 L 511 129 L 530 157 L 549 157 L 569 157 L 588 157" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 87 34 L 105 34 L 124 34 L 142 34 L 161 34 L 179 34 L 198 34 L 217 34 L 235 72 L 254 72 L 272 72 L 291 72 L 309 72 L 328 110 L 347 112 L 365 112 L 384 113 L 402 113 L 421 113 L 439 113 L 458 113 L 477 113 L 495 129 L 514 157 L 532 157 L 551 157 L 569 157 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 87 34 L 105 34 L 124 34 L 142 34 L 161 34 L 179 34 L 198 34 L 217 34 L 235 72 L 254 72 L 272 72 L 291 72 L 309 72 L 328 110 L 347 112 L 365 112 L 384 113 L 402 113 L 421 113 L 439 113 L 458 113 L 477 113 L 495 129 L 514 157 L 532 157 L 551 157 L 569 157 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="222" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="376" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="395" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="492" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="511" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="157" r="5" fill="#ea580c"></circle>
+    <circle cx="217" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="235" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="309" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="347" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="384" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="495" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="145" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,270원</text>
+    <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
