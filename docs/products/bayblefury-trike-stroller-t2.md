@@ -20,12 +20,12 @@ description: 베이블퓨어리 트라이크 유모차 T2는 3.7kg 초경량 무
     "price": "53400",
     "url": "https://link.coupang.com/a/dTXmVSYzOC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-09"
+    "priceValidUntil": "2026-06-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 2357,
+    "reviewCount": 2365,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -55,9 +55,11 @@ description: 베이블퓨어리 트라이크 유모차 T2는 3.7kg 초경량 무
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -66,22 +68,22 @@ description: 베이블퓨어리 트라이크 유모차 T2는 3.7kg 초경량 무
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">53,400</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">53,300</text>
 
-    <path d="M 68 102 L 108 102 L 148 102 L 188 102 L 228 102 L 268 102 L 308 102 L 348 102 L 388 102 L 428 102 L 468 102 L 508 102 L 548 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 108 102 L 148 102 L 188 102 L 228 102 L 268 102 L 308 102 L 348 102 L 388 102 L 428 102 L 468 102 L 508 102 L 548 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 105 102 L 142 102 L 179 102 L 217 102 L 254 102 L 291 102 L 328 102 L 365 102 L 402 102 L 439 102 L 477 102 L 514 102 L 551 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 105 102 L 142 102 L 179 102 L 217 102 L 254 102 L 291 102 L 328 102 L 365 102 L 402 102 L 439 102 L 477 102 L 514 102 L 551 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">53,400원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -89,7 +91,7 @@ description: 베이블퓨어리 트라이크 유모차 T2는 3.7kg 초경량 무
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 53,400원 · 별점 4.7 · 리뷰 2,357개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 53,400원 · 별점 4.7 · 리뷰 2,365개</span>
     <a href="https://link.coupang.com/a/dTXmVSYzOC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -176,7 +178,7 @@ A. 제품에 기본으로 시트 쿠션이 포함되어 있지 않습니다. 아
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 53,400원 · 별점 4.7 · 리뷰 2,357개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 53,400원 · 별점 4.7 · 리뷰 2,365개</span>
     <a href="https://link.coupang.com/a/dTXmVSYzOC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
