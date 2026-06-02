@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 뽀아레 뗑 드 스와 파운데이션: products/poiret-teint-de-soie-foundation.md
     - 핑크퐁 아기상어 스트로우타입 젤리 10p: products/pinkfong-babyshark-straw-jelly-10p.md
     - "요미요미 유기농 주스 과일믹스, 125ml, 24개": products/yomiyomi-organic-juice-fruit-mix.md
     - "편강율 키즈 앤 베이비 모이스처 선크림 SPF50+ PA++++, 1개, 150ml": products/pyunkangyul-kids-baby-moisture-sunscreen-spf50-pa4.md
