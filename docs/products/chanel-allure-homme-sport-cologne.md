@@ -60,6 +60,8 @@ description: 샤넬 알뤼르 옴므 스포츠 코롱은 2007년 출시된 상�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -67,33 +69,33 @@ description: 샤넬 알뤼르 옴므 스포츠 코롱은 2007년 출시된 상�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">210,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">205,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">206,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">204,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">202,000</text>
 
-    <path d="M 68 26 L 86 102 L 104 102 L 122 102 L 140 148 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 148 L 552 148 L 570 148 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 102 L 104 102 L 122 102 L 140 148 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 148 L 552 148 L 570 148 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 178 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 178 L 534 178 L 552 178 L 570 64 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 178 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 178 L 534 178 L 552 178 L 570 64 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="178" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">205,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">202,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
