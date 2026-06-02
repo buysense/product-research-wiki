@@ -20,7 +20,7 @@ description: 부가부 유모차 컵홀더는 유모차 운행 중 음료 편의
     "price": "37620",
     "url": "https://link.coupang.com/a/dVOIMWuPMi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-09"
+    "priceValidUntil": "2026-06-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -53,9 +53,11 @@ description: 부가부 유모차 컵홀더는 유모차 운행 중 음료 편의
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -64,26 +66,27 @@ description: 부가부 유모차 컵홀더는 유모차 운행 중 음료 편의
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 60 L 111 60 L 155 138 L 198 138 L 241 138 L 285 138 L 328 138 L 371 138 L 415 138 L 458 138 L 501 138 L 545 125 L 588 138 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 60 L 111 60 L 155 138 L 198 138 L 241 138 L 285 138 L 328 138 L 371 138 L 415 138 L 458 138 L 501 138 L 545 125 L 588 138" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 60 L 108 60 L 148 138 L 188 138 L 228 138 L 268 138 L 308 138 L 348 138 L 388 138 L 428 138 L 468 138 L 508 125 L 548 138 L 588 138 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 60 L 108 60 L 148 138 L 188 138 L 228 138 L 268 138 L 308 138 L 348 138 L 388 138 L 428 138 L 468 138 L 508 125 L 548 138 L 588 138" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="111" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="545" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="148" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="138" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="138" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="126" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">37,620원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
