@@ -20,7 +20,7 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
     "price": "14800",
     "url": "https://link.coupang.com/a/eDP2cK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-09"
+    "priceValidUntil": "2026-06-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -83,9 +83,11 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -94,34 +96,35 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
 
-    <path d="M 68 58 L 87 58 L 107 58 L 126 58 L 145 58 L 164 58 L 184 58 L 203 81 L 222 81 L 241 81 L 261 81 L 280 81 L 299 81 L 318 58 L 338 59 L 357 79 L 376 35 L 395 56 L 415 56 L 434 56 L 453 56 L 472 56 L 492 56 L 511 43 L 530 43 L 549 43 L 569 154 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 58 L 87 58 L 107 58 L 126 58 L 145 58 L 164 58 L 184 58 L 203 81 L 222 81 L 241 81 L 261 81 L 280 81 L 299 81 L 318 58 L 338 59 L 357 79 L 376 35 L 395 56 L 415 56 L 434 56 L 453 56 L 472 56 L 492 56 L 511 43 L 530 43 L 549 43 L 569 154 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 58 L 87 58 L 105 58 L 124 58 L 142 58 L 161 58 L 179 58 L 198 81 L 217 81 L 235 81 L 254 81 L 272 81 L 291 81 L 309 58 L 328 59 L 347 79 L 365 35 L 384 56 L 402 56 L 421 56 L 439 56 L 458 56 L 477 56 L 495 43 L 514 43 L 532 43 L 551 154 L 569 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 58 L 87 58 L 105 58 L 124 58 L 142 58 L 161 58 L 179 58 L 198 81 L 217 81 L 235 81 L 254 81 L 272 81 L 291 81 L 309 58 L 328 59 L 347 79 L 365 35 L 384 56 L 402 56 L 421 56 L 439 56 L 458 56 L 477 56 L 495 43 L 514 43 L 532 43 L 551 154 L 569 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="203" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="376" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="395" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="492" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="511" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="549" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="179" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="309" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="347" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="384" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="495" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="532" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="56" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="56" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
