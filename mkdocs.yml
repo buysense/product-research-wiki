@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 롤리트리 아동 플리츠 와이드 팬츠: products/rollitree-kids-pleats-wide-pants.md
     - "뽀로로 비타민 C 복숭아맛, 500정": products/pororo-vitamin-c-peach-500ea.md
     - 크리오 펌프팝 키즈 2단계 어린이 칫솔: products/creo-pumppop-kids-2stage-toothbrush.md
     - 레이벤 RB4466D 플랫바 선글라스: products/rayban-rb4466d-flatbar-sunglasses.md
