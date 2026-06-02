@@ -20,12 +20,12 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
     "price": "9950",
     "url": "https://link.coupang.com/a/dLFCtfGf3Q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-09"
+    "priceValidUntil": "2026-06-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.3,
-    "reviewCount": 845,
+    "reviewCount": 846,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -65,9 +65,11 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -76,24 +78,24 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,900</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,800</text>
 
-    <path d="M 68 72 L 97 72 L 126 72 L 155 72 L 184 72 L 212 72 L 241 64 L 270 64 L 299 64 L 328 64 L 357 64 L 386 64 L 415 64 L 444 64 L 472 64 L 501 64 L 530 64 L 559 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 97 72 L 126 72 L 155 72 L 184 72 L 212 72 L 241 64 L 270 64 L 299 64 L 328 64 L 357 64 L 386 64 L 415 64 L 444 64 L 472 64 L 501 64 L 530 64 L 559 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 95 72 L 123 72 L 150 72 L 177 72 L 205 72 L 232 64 L 260 64 L 287 64 L 314 64 L 342 64 L 369 64 L 396 64 L 424 64 L 451 64 L 479 64 L 506 64 L 533 64 L 561 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 95 72 L 123 72 L 150 72 L 177 72 L 205 72 L 232 64 L 260 64 L 287 64 L 314 64 L 342 64 L 369 64 L 396 64 L 424 64 L 451 64 L 479 64 L 506 64 L 533 64 L 561 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="212" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="205" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="232" cy="64" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,950원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -101,7 +103,7 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,950원 · 별점 4.3 · 리뷰 845개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,950원 · 별점 4.3 · 리뷰 846개</span>
     <a href="https://link.coupang.com/a/dLFCtfGf3Q" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -190,7 +192,7 @@ A. KC 인증(한국 어린이 제품 안전 인증)은 제품이 국내 안전 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,950원 · 별점 4.3 · 리뷰 845개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,950원 · 별점 4.3 · 리뷰 846개</span>
     <a href="https://link.coupang.com/a/dLFCtfGf3Q" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
