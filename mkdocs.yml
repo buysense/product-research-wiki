@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "편강율 키즈 앤 베이비 모이스처 선크림 SPF50+ PA++++, 1개, 150ml": products/pyunkangyul-kids-baby-moisture-sunscreen-spf50-pa4.md
     - 아도르베베 아동용 항아리 플리츠 바지: products/adorbebe-kids-pleats-pants.md
     - 롤리트리 아동 플리츠 와이드 팬츠: products/rollitree-kids-pleats-wide-pants.md
     - "뽀로로 비타민 C 복숭아맛, 500정": products/pororo-vitamin-c-peach-500ea.md
