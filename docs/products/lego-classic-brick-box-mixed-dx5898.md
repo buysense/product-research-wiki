@@ -20,12 +20,12 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
     "price": "62300",
     "url": "https://link.coupang.com/a/dIgFPgtowm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-10"
+    "priceValidUntil": "2026-06-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 24,
+    "reviewCount": 25,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -61,9 +61,11 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -72,29 +74,29 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">63,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">62,000</text>
 
-    <path d="M 68 102 L 101 102 L 133 74 L 166 74 L 198 74 L 231 102 L 263 102 L 296 102 L 328 102 L 361 102 L 393 102 L 426 154 L 458 155 L 491 155 L 523 155 L 556 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 101 102 L 133 74 L 166 74 L 198 74 L 231 102 L 263 102 L 296 102 L 328 102 L 361 102 L 393 102 L 426 154 L 458 155 L 491 155 L 523 155 L 556 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 99 102 L 129 74 L 160 74 L 190 74 L 221 102 L 252 102 L 282 102 L 313 102 L 343 102 L 374 102 L 404 154 L 435 155 L 466 155 L 496 155 L 527 155 L 557 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 99 102 L 129 74 L 160 74 L 190 74 L 221 102 L 252 102 L 282 102 L 313 102 L 343 102 L 374 102 L 404 154 L 435 155 L 466 155 L 496 155 L 527 155 L 557 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="101" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="231" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="426" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="99" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="129" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="190" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="221" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="374" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="404" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="435" cy="155" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="155" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="143" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">62,300원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -102,7 +104,7 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 62,300원 · 별점 4.9 · 리뷰 24개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 62,300원 · 별점 4.9 · 리뷰 25개</span>
     <a href="https://link.coupang.com/a/dIgFPgtowm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -188,7 +190,7 @@ A. 네, 레고 클래식 브릭은 일반적으로 다른 모든 레고 시스�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 62,300원 · 별점 4.9 · 리뷰 24개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 62,300원 · 별점 4.9 · 리뷰 25개</span>
     <a href="https://link.coupang.com/a/dIgFPgtowm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
