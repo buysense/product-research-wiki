@@ -20,7 +20,7 @@ description: 왁뿌볼 12개는 일상에서 간편하게 즐기거나 소소한
     "price": "26800",
     "url": "https://link.coupang.com/a/dLENTfldhQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-09"
+    "priceValidUntil": "2026-06-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -65,9 +65,11 @@ description: 왁뿌볼 12개는 일상에서 간편하게 즐기거나 소소한
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -76,31 +78,31 @@ description: 왁뿌볼 12개는 일상에서 간편하게 즐기거나 소소한
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
 
-    <path d="M 68 144 L 97 144 L 126 144 L 155 144 L 184 68 L 212 68 L 241 34 L 270 148 L 299 148 L 328 148 L 357 148 L 386 148 L 415 148 L 444 34 L 472 34 L 501 34 L 530 34 L 559 148 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 144 L 97 144 L 126 144 L 155 144 L 184 68 L 212 68 L 241 34 L 270 148 L 299 148 L 328 148 L 357 148 L 386 148 L 415 148 L 444 34 L 472 34 L 501 34 L 530 34 L 559 148 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 144 L 95 144 L 123 144 L 150 144 L 177 68 L 205 68 L 232 34 L 260 148 L 287 148 L 314 148 L 342 148 L 369 148 L 396 148 L 424 34 L 451 34 L 479 34 L 506 34 L 533 148 L 561 148 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 144 L 95 144 L 123 144 L 150 144 L 177 68 L 205 68 L 232 34 L 260 148 L 287 148 L 314 148 L 342 148 L 369 148 L 396 148 L 424 34 L 451 34 L 479 34 L 506 34 L 533 148 L 561 148 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="212" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="270" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="444" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="559" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="150" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="177" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="205" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="232" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="260" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="396" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="424" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="506" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="533" cy="148" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="148" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="136" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">26,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
