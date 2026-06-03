@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 홀리카홀리카 마이페이브 무드 아이 팔레트: products/holikaholika-myfave-mood-eyepalette.md
     - 하밍 맑은 쌀뜨물 비비 로션: products/haming-clear-rice-water-bb-lotion.md
     - 에뛰드 님프 광채 볼류머 메이크업 베이스: products/etude-nymph-aurora-volumer-makeup-base.md
     - 뽀아레 뗑 드 스와 파운데이션: products/poiret-teint-de-soie-foundation.md
