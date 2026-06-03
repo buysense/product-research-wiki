@@ -20,7 +20,7 @@ description: 뽀아레 뗑 드 스와 파운데이션은 답답함 없이 자연
     "price": "129900",
     "url": "https://link.coupang.com/a/efYTPie40i",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-09"
+    "priceValidUntil": "2026-06-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
