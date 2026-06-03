@@ -20,12 +20,12 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
     "price": "16980",
     "url": "https://link.coupang.com/a/eDJ5YO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-10"
+    "priceValidUntil": "2026-06-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 24472,
+    "reviewCount": 24489,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -85,9 +85,11 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -96,22 +98,22 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,900</text>
 
-    <path d="M 68 117 L 87 117 L 105 117 L 124 117 L 142 117 L 161 117 L 179 117 L 198 117 L 217 117 L 235 117 L 254 117 L 272 117 L 291 117 L 309 117 L 328 117 L 347 117 L 365 117 L 384 117 L 402 117 L 421 117 L 439 117 L 458 117 L 477 117 L 495 117 L 514 117 L 532 117 L 551 117 L 569 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 117 L 87 117 L 105 117 L 124 117 L 142 117 L 161 117 L 179 117 L 198 117 L 217 117 L 235 117 L 254 117 L 272 117 L 291 117 L 309 117 L 328 117 L 347 117 L 365 117 L 384 117 L 402 117 L 421 117 L 439 117 L 458 117 L 477 117 L 495 117 L 514 117 L 532 117 L 551 117 L 569 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 117 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 117 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="117" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,980원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -119,7 +121,7 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 24,472개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 24,489개</span>
     <a href="https://link.coupang.com/a/eDJ5YO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -195,7 +197,7 @@ A. 전해질은 우리 몸의 체액에 녹아 있는 나트륨, 칼륨, 마그�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 24,472개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 24,489개</span>
     <a href="https://link.coupang.com/a/eDJ5YO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
