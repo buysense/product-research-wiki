@@ -20,12 +20,12 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
     "price": "12570",
     "url": "https://link.coupang.com/a/exnwQU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-10"
+    "priceValidUntil": "2026-06-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 124,
+    "reviewCount": 125,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-27 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -102,39 +104,40 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
 
-    <path d="M 68 110 L 86 110 L 104 110 L 122 124 L 140 26 L 158 84 L 176 84 L 194 26 L 211 53 L 229 53 L 247 59 L 265 53 L 283 53 L 301 53 L 319 53 L 337 53 L 355 53 L 373 53 L 391 62 L 409 56 L 427 62 L 445 62 L 462 62 L 480 62 L 498 62 L 516 62 L 534 62 L 552 62 L 570 59 L 588 59 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 86 110 L 104 110 L 122 124 L 140 26 L 158 84 L 176 84 L 194 26 L 211 53 L 229 53 L 247 59 L 265 53 L 283 53 L 301 53 L 319 53 L 337 53 L 355 53 L 373 53 L 391 62 L 409 56 L 427 62 L 445 62 L 462 62 L 480 62 L 498 62 L 516 62 L 534 62 L 552 62 L 570 59 L 588 59" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 86 110 L 104 124 L 122 26 L 140 84 L 158 84 L 176 26 L 194 53 L 211 53 L 229 59 L 247 53 L 265 53 L 283 53 L 301 53 L 319 53 L 337 53 L 355 53 L 373 62 L 391 56 L 409 62 L 427 62 L 445 62 L 462 62 L 480 62 L 498 62 L 516 62 L 534 62 L 552 59 L 570 59 L 588 59 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 86 110 L 104 124 L 122 26 L 140 84 L 158 84 L 176 26 L 194 53 L 211 53 L 229 59 L 247 53 L 265 53 L 283 53 L 301 53 L 319 53 L 337 53 L 355 53 L 373 62 L 391 56 L 409 62 L 427 62 L 445 62 L 462 62 L 480 62 L 498 62 L 516 62 L 534 62 L 552 59 L 570 59 L 588 59" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="84" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="53" r="4" fill="#fdba74"></circle>
     <circle cx="211" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="62" r="4" fill="#fdba74"></circle>
     <circle cx="427" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="59" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="59" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="59" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="47" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,570원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -142,7 +145,7 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,570원 · 별점 4.5 · 리뷰 124개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,570원 · 별점 4.5 · 리뷰 125개</span>
     <a href="https://link.coupang.com/a/exnwQU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -221,7 +224,7 @@ A. 기본적인 인형극 놀이에는 적합하지만, 입 부분이 다소 약
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,570원 · 별점 4.5 · 리뷰 124개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,570원 · 별점 4.5 · 리뷰 125개</span>
     <a href="https://link.coupang.com/a/exnwQU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
