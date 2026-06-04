@@ -62,6 +62,8 @@ slug_en: pringles-original-crisps-53g
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -69,35 +71,35 @@ slug_en: pringles-original-crisps-53g
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">10,500</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,000</text>
 
-    <path d="M 68 163 L 86 163 L 104 56 L 122 132 L 140 132 L 158 132 L 176 163 L 194 163 L 211 163 L 229 163 L 247 163 L 265 163 L 283 163 L 301 163 L 319 148 L 337 148 L 355 148 L 373 148 L 391 148 L 409 148 L 427 148 L 445 148 L 462 148 L 480 148 L 498 148 L 516 163 L 534 163 L 552 163 L 570 163 L 588 163 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 163 L 86 163 L 104 56 L 122 132 L 140 132 L 158 132 L 176 163 L 194 163 L 211 163 L 229 163 L 247 163 L 265 163 L 283 163 L 301 163 L 319 148 L 337 148 L 355 148 L 373 148 L 391 148 L 409 148 L 427 148 L 445 148 L 462 148 L 480 148 L 498 148 L 516 163 L 534 163 L 552 163 L 570 163 L 588 163" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="132" r="4" fill="#fdba74"></circle>
+    <path d="M 68 132 L 86 79 L 104 117 L 122 117 L 140 117 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 132 L 265 132 L 283 132 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 132 L 516 132 L 534 132 L 552 132 L 570 132 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 86 79 L 104 117 L 122 117 L 140 117 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 132 L 265 132 L 283 132 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 132 L 516 132 L 534 132 L 552 132 L 570 132 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="117" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="163" r="5" fill="#ea580c"></circle>
+    <circle cx="283" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="151" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,600원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
