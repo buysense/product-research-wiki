@@ -20,12 +20,12 @@ description: 모찌 슬랑이 스퀴시는 부드럽고 몰캉한 촉감으로 �
     "price": "7800",
     "url": "https://link.coupang.com/a/dLHbR27f1U",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-11"
+    "priceValidUntil": "2026-06-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 19,
+    "reviewCount": 23,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -67,9 +67,11 @@ description: 모찌 슬랑이 스퀴시는 부드럽고 몰캉한 촉감으로 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -78,24 +80,24 @@ description: 모찌 슬랑이 스퀴시는 부드럽고 몰캉한 촉감으로 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,900</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,800</text>
 
-    <path d="M 68 102 L 95 102 L 123 102 L 150 102 L 177 102 L 205 102 L 232 102 L 260 102 L 287 102 L 314 102 L 342 102 L 369 102 L 396 178 L 424 178 L 451 178 L 479 178 L 506 178 L 533 178 L 561 178 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 95 102 L 123 102 L 150 102 L 177 102 L 205 102 L 232 102 L 260 102 L 287 102 L 314 102 L 342 102 L 369 102 L 396 178 L 424 178 L 451 178 L 479 178 L 506 178 L 533 178 L 561 178 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 94 102 L 120 102 L 146 102 L 172 102 L 198 102 L 224 102 L 250 102 L 276 102 L 302 102 L 328 102 L 354 102 L 380 178 L 406 178 L 432 178 L 458 178 L 484 178 L 510 178 L 536 178 L 562 178 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 94 102 L 120 102 L 146 102 L 172 102 L 198 102 L 224 102 L 250 102 L 276 102 L 302 102 L 328 102 L 354 102 L 380 178 L 406 178 L 432 178 L 458 178 L 484 178 L 510 178 L 536 178 L 562 178 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="369" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="396" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="354" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="178" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="178" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -103,7 +105,7 @@ description: 모찌 슬랑이 스퀴시는 부드럽고 몰캉한 촉감으로 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,800원 · 별점 4.6 · 리뷰 19개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,800원 · 별점 4.6 · 리뷰 23개</span>
     <a href="https://link.coupang.com/a/dLHbR27f1U" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -174,7 +176,7 @@ A. 긴장 완화가 필요할 때, 집중력을 높이고 싶을 때, 혹은 단
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,800원 · 별점 4.6 · 리뷰 19개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,800원 · 별점 4.6 · 리뷰 23개</span>
     <a href="https://link.coupang.com/a/dLHbR27f1U" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
