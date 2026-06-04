@@ -20,7 +20,7 @@ description: SHUSHUTONG 플라워 니트 가디건은 화사한 플라워 패턴
     "price": "1145590",
     "url": "https://link.coupang.com/a/dG1f9z5n1o",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-10"
+    "priceValidUntil": "2026-06-11"
   }
 }
 </script>
@@ -66,9 +66,11 @@ description: SHUSHUTONG 플라워 니트 가디건은 화사한 플라워 패턴
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -77,22 +79,22 @@ description: SHUSHUTONG 플라워 니트 가디건은 화사한 플라워 패턴
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,145,600</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,145,500</text>
 
-    <path d="M 68 110 L 92 110 L 115 110 L 139 110 L 163 110 L 186 110 L 210 110 L 233 110 L 257 110 L 281 110 L 304 110 L 328 110 L 352 110 L 375 110 L 399 110 L 423 110 L 446 110 L 470 110 L 493 110 L 517 110 L 541 110 L 564 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 92 110 L 115 110 L 139 110 L 163 110 L 186 110 L 210 110 L 233 110 L 257 110 L 281 110 L 304 110 L 328 110 L 352 110 L 375 110 L 399 110 L 423 110 L 446 110 L 470 110 L 493 110 L 517 110 L 541 110 L 564 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 91 110 L 113 110 L 136 110 L 158 110 L 181 110 L 204 110 L 226 110 L 249 110 L 271 110 L 294 110 L 317 110 L 339 110 L 362 110 L 385 110 L 407 110 L 430 110 L 452 110 L 475 110 L 498 110 L 520 110 L 543 110 L 565 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 91 110 L 113 110 L 136 110 L 158 110 L 181 110 L 204 110 L 226 110 L 249 110 L 271 110 L 294 110 L 317 110 L 339 110 L 362 110 L 385 110 L 407 110 L 430 110 L 452 110 L 475 110 L 498 110 L 520 110 L 543 110 L 565 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,145,590원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
