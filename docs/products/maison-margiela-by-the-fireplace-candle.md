@@ -20,7 +20,7 @@ description: 메종 마르지엘라 바이 더 파이어플레이스 캔들은 �
     "price": "581600",
     "url": "https://link.coupang.com/a/ejeSSKXcOq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-11"
+    "priceValidUntil": "2026-06-12"
   }
 }
 </script>
