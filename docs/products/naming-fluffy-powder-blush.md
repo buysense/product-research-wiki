@@ -20,7 +20,7 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
     "price": "12400",
     "url": "https://link.coupang.com/a/ejlaj37N3A",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-11"
+    "priceValidUntil": "2026-06-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
