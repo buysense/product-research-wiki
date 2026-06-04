@@ -20,12 +20,12 @@ description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 �
     "price": "27510",
     "url": "https://link.coupang.com/a/dGz1HG0ObI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-10"
+    "priceValidUntil": "2026-06-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2596,
+    "reviewCount": 2598,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -73,9 +73,11 @@ description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -84,38 +86,38 @@ description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
 
-    <path d="M 68 136 L 92 148 L 115 148 L 139 148 L 163 148 L 186 136 L 210 148 L 233 135 L 257 135 L 281 148 L 304 72 L 328 72 L 352 72 L 375 72 L 399 135 L 423 140 L 446 140 L 470 148 L 493 140 L 517 140 L 541 140 L 564 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 136 L 92 148 L 115 148 L 139 148 L 163 148 L 186 136 L 210 148 L 233 135 L 257 135 L 281 148 L 304 72 L 328 72 L 352 72 L 375 72 L 399 135 L 423 140 L 446 140 L 470 148 L 493 140 L 517 140 L 541 140 L 564 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 136 L 91 148 L 113 148 L 136 148 L 158 148 L 181 136 L 204 148 L 226 135 L 249 135 L 271 148 L 294 72 L 317 72 L 339 72 L 362 72 L 385 135 L 407 140 L 430 140 L 452 148 L 475 140 L 498 140 L 520 140 L 543 140 L 565 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 136 L 91 148 L 113 148 L 136 148 L 158 148 L 181 136 L 204 148 L 226 135 L 249 135 L 271 148 L 294 72 L 317 72 L 339 72 L 362 72 L 385 135 L 407 140 L 430 140 L 452 148 L 475 140 L 498 140 L 520 140 L 543 140 L 565 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="281" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="423" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="517" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="91" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="181" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="204" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="226" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="249" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="271" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="294" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="385" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="407" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="430" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="452" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="475" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="520" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">27,510원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -123,7 +125,7 @@ description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 27,510원 · 별점 4.8 · 리뷰 2,596개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 27,510원 · 별점 4.8 · 리뷰 2,598개</span>
     <a href="https://link.coupang.com/a/dGz1HG0ObI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -200,7 +202,7 @@ A. 1인분씩 개별 포장된 면과 소스는 그대로 보관 가능합니다
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 27,510원 · 별점 4.8 · 리뷰 2,596개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 27,510원 · 별점 4.8 · 리뷰 2,598개</span>
     <a href="https://link.coupang.com/a/dGz1HG0ObI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
