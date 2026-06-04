@@ -19,12 +19,12 @@ description: 한성 미니 시카고피자 10개는 간편한 조리로 1~2인�
     "price": "15400",
     "url": "https://link.coupang.com/a/dGAffru5iC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-11"
+    "priceValidUntil": "2026-06-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 136,
+    "reviewCount": 138,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -74,9 +74,11 @@ description: 한성 미니 시카고피자 10개는 간편한 조리로 1~2인�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -85,22 +87,22 @@ description: 한성 미니 시카고피자 10개는 간편한 조리로 1~2인�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,400</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,300</text>
 
-    <path d="M 68 102 L 91 102 L 113 102 L 136 102 L 158 102 L 181 102 L 204 102 L 226 102 L 249 102 L 271 102 L 294 102 L 317 102 L 339 102 L 362 102 L 385 102 L 407 102 L 430 102 L 452 102 L 475 102 L 498 102 L 520 102 L 543 102 L 565 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 91 102 L 113 102 L 136 102 L 158 102 L 181 102 L 204 102 L 226 102 L 249 102 L 271 102 L 294 102 L 317 102 L 339 102 L 362 102 L 385 102 L 407 102 L 430 102 L 452 102 L 475 102 L 498 102 L 520 102 L 543 102 L 565 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 90 102 L 111 102 L 133 102 L 155 102 L 176 102 L 198 102 L 220 102 L 241 102 L 263 102 L 285 102 L 306 102 L 328 102 L 350 102 L 371 102 L 393 102 L 415 102 L 436 102 L 458 102 L 480 102 L 501 102 L 523 102 L 545 102 L 566 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 90 102 L 111 102 L 133 102 L 155 102 L 176 102 L 198 102 L 220 102 L 241 102 L 263 102 L 285 102 L 306 102 L 328 102 L 350 102 L 371 102 L 393 102 L 415 102 L 436 102 L 458 102 L 480 102 L 501 102 L 523 102 L 545 102 L 566 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,400원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -108,7 +110,7 @@ description: 한성 미니 시카고피자 10개는 간편한 조리로 1~2인�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,400원 · 별점 4.6 · 리뷰 136개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,400원 · 별점 4.6 · 리뷰 138개</span>
     <a href="https://link.coupang.com/a/dGAffru5iC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -184,7 +186,7 @@ A. 고소하고 진한 치즈와 달콤한 토마토소스의 조화가 특징�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,400원 · 별점 4.6 · 리뷰 136개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,400원 · 별점 4.6 · 리뷰 138개</span>
     <a href="https://link.coupang.com/a/dGAffru5iC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
