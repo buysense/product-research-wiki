@@ -20,12 +20,12 @@ description: 트와이닝 클래식 차 컬렉션 티백은 5가지 대표 홍�
     "price": "8820",
     "url": "https://link.coupang.com/a/eDGXob",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-10"
+    "priceValidUntil": "2026-06-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 9785,
+    "reviewCount": 9787,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -85,9 +85,11 @@ description: 트와이닝 클래식 차 컬렉션 티백은 5가지 대표 홍�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -96,38 +98,38 @@ description: 트와이닝 클래식 차 컬렉션 티백은 5가지 대표 홍�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
 
-    <path d="M 68 34 L 87 34 L 105 34 L 124 34 L 142 34 L 161 89 L 179 89 L 198 89 L 217 114 L 235 114 L 254 114 L 272 114 L 291 114 L 309 112 L 328 34 L 347 34 L 365 34 L 384 37 L 402 37 L 421 37 L 439 37 L 458 41 L 477 37 L 495 37 L 514 34 L 532 34 L 551 34 L 569 71 L 588 71 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 87 34 L 105 34 L 124 34 L 142 34 L 161 89 L 179 89 L 198 89 L 217 114 L 235 114 L 254 114 L 272 114 L 291 114 L 309 112 L 328 34 L 347 34 L 365 34 L 384 37 L 402 37 L 421 37 L 439 37 L 458 41 L 477 37 L 495 37 L 514 34 L 532 34 L 551 34 L 569 71 L 588 71" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 86 34 L 104 34 L 122 34 L 140 34 L 158 89 L 176 89 L 194 89 L 211 114 L 229 114 L 247 114 L 265 114 L 283 114 L 301 112 L 319 34 L 337 34 L 355 34 L 373 37 L 391 37 L 409 37 L 427 37 L 445 41 L 462 37 L 480 37 L 498 34 L 516 34 L 534 34 L 552 71 L 570 71 L 588 71 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 86 34 L 104 34 L 122 34 L 140 34 L 158 89 L 176 89 L 194 89 L 211 114 L 229 114 L 247 114 L 265 114 L 283 114 L 301 112 L 319 34 L 337 34 L 355 34 L 373 37 L 391 37 L 409 37 L 427 37 L 445 41 L 462 37 L 480 37 L 498 34 L 516 34 L 534 34 L 552 71 L 570 71 L 588 71" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="161" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="309" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="384" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="477" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="495" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="551" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="71" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="71" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="59" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,820원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-06</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -135,7 +137,7 @@ description: 트와이닝 클래식 차 컬렉션 티백은 5가지 대표 홍�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,820원 · 별점 4.8 · 리뷰 9,785개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,820원 · 별점 4.8 · 리뷰 9,787개</span>
     <a href="https://link.coupang.com/a/eDGXob" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -210,7 +212,7 @@ A. 네, 다양한 종류의 홍차를 부담 없이 경험할 수 있도록 구�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,820원 · 별점 4.8 · 리뷰 9,785개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,820원 · 별점 4.8 · 리뷰 9,787개</span>
     <a href="https://link.coupang.com/a/eDGXob" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
