@@ -17,15 +17,15 @@ description: 레고클래식 라지 조립 박스 10698은 790개의 다채로�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "55470",
+    "price": "55350",
     "url": "https://link.coupang.com/a/dIgQoNOgTs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-11"
+    "priceValidUntil": "2026-06-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 9525,
+    "reviewCount": 9528,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -73,9 +73,11 @@ description: 레고클래식 라지 조립 박스 10698은 790개의 다채로�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -84,36 +86,37 @@ description: 레고클래식 라지 조립 박스 10698은 790개의 다채로�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">54,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">52,000</text>
 
-    <path d="M 68 86 L 92 86 L 115 86 L 139 86 L 163 86 L 186 86 L 210 86 L 233 86 L 257 51 L 281 51 L 304 162 L 328 162 L 352 51 L 375 35 L 399 51 L 423 35 L 446 35 L 470 162 L 493 162 L 517 162 L 541 51 L 564 46 L 588 46 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 86 L 92 86 L 115 86 L 139 86 L 163 86 L 186 86 L 210 86 L 233 86 L 257 51 L 281 51 L 304 162 L 328 162 L 352 51 L 375 35 L 399 51 L 423 35 L 446 35 L 470 162 L 493 162 L 517 162 L 541 51 L 564 46 L 588 46" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 86 L 91 86 L 113 86 L 136 86 L 158 86 L 181 86 L 204 86 L 226 86 L 249 51 L 271 51 L 294 162 L 317 162 L 339 51 L 362 35 L 385 51 L 407 35 L 430 35 L 452 162 L 475 162 L 498 162 L 520 51 L 543 46 L 565 46 L 588 51 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 86 L 91 86 L 113 86 L 136 86 L 158 86 L 181 86 L 204 86 L 226 86 L 249 51 L 271 51 L 294 162 L 317 162 L 339 51 L 362 35 L 385 51 L 407 35 L 430 35 L 452 162 L 475 162 L 498 162 L 520 51 L 543 46 L 565 46 L 588 51" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="281" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="423" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="517" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="564" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="46" r="5" fill="#ea580c"></circle>
+    <circle cx="226" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="249" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="271" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="294" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="317" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="339" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="385" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="407" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="430" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="452" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="520" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="543" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="565" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="51" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="34" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">55,470원</text>
+    <text x="588" y="39" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">55,350원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -121,7 +124,7 @@ description: 레고클래식 라지 조립 박스 10698은 790개의 다채로�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 55,470원 · 별점 4.8 · 리뷰 9,525개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 55,350원 · 별점 4.8 · 리뷰 9,528개</span>
     <a href="https://link.coupang.com/a/dIgQoNOgTs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -195,7 +198,7 @@ A. 네, 노란색 레고 모양의 튼튼한 보관 박스가 함께 제공되�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 55,470원 · 별점 4.8 · 리뷰 9,525개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 55,350원 · 별점 4.8 · 리뷰 9,528개</span>
     <a href="https://link.coupang.com/a/dIgQoNOgTs" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
