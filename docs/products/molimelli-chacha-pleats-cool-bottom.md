@@ -20,12 +20,12 @@ description: 몰리멜리 차차 플리츠 시원 플리츠는 활동성과 시�
     "price": "22370",
     "url": "https://link.coupang.com/a/dFgleYxOF2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-11"
+    "priceValidUntil": "2026-06-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 12,
+    "reviewCount": 13,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -77,9 +77,11 @@ description: 몰리멜리 차차 플리츠 시원 플리츠는 활동성과 시�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -88,22 +90,22 @@ description: 몰리멜리 차차 플리츠 시원 플리츠는 활동성과 시�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,400</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">22,300</text>
 
-    <path d="M 68 125 L 90 125 L 111 125 L 133 125 L 155 125 L 176 125 L 198 125 L 220 125 L 241 125 L 263 125 L 285 125 L 306 125 L 328 125 L 350 125 L 371 125 L 393 125 L 415 125 L 436 125 L 458 125 L 480 125 L 501 125 L 523 125 L 545 125 L 566 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 90 125 L 111 125 L 133 125 L 155 125 L 176 125 L 198 125 L 220 125 L 241 125 L 263 125 L 285 125 L 306 125 L 328 125 L 350 125 L 371 125 L 393 125 L 415 125 L 436 125 L 458 125 L 480 125 L 501 125 L 523 125 L 545 125 L 566 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 125 L 89 125 L 110 125 L 130 125 L 151 125 L 172 125 L 193 125 L 214 125 L 234 125 L 255 125 L 276 125 L 297 125 L 318 125 L 338 125 L 359 125 L 380 125 L 401 125 L 422 125 L 442 125 L 463 125 L 484 125 L 505 125 L 526 125 L 546 125 L 567 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 89 125 L 110 125 L 130 125 L 151 125 L 172 125 L 193 125 L 214 125 L 234 125 L 255 125 L 276 125 L 297 125 L 318 125 L 338 125 L 359 125 L 380 125 L 401 125 L 422 125 L 442 125 L 463 125 L 484 125 L 505 125 L 526 125 L 546 125 L 567 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,370원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -111,7 +113,7 @@ description: 몰리멜리 차차 플리츠 시원 플리츠는 활동성과 시�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,370원 · 별점 4.8 · 리뷰 12개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,370원 · 별점 4.8 · 리뷰 13개</span>
     <a href="https://link.coupang.com/a/dFgleYxOF2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -182,7 +184,7 @@ A. 캐주얼한 티셔츠, 니트, 블라우스, 셔츠 등 다양한 상의와 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,370원 · 별점 4.8 · 리뷰 12개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,370원 · 별점 4.8 · 리뷰 13개</span>
     <a href="https://link.coupang.com/a/dFgleYxOF2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
