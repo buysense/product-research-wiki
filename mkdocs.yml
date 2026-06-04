@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 클리오 킬브로우 슬림 애쉬 브로우카라: products/clio-killbrow-slim-ash-browcara.md
     - 메종 마르지엘라 바이 더 파이어플레이스 캔들: products/maison-margiela-by-the-fireplace-candle.md
     - 홀리카홀리카 마이페이브 무드 아이 팔레트: products/holikaholika-myfave-mood-eyepalette.md
     - 하밍 맑은 쌀뜨물 비비 로션: products/haming-clear-rice-water-bb-lotion.md
