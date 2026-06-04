@@ -20,12 +20,12 @@ description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드�
     "price": "9240",
     "url": "https://link.coupang.com/a/dLFpPtrcrs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-11"
+    "priceValidUntil": "2026-06-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.1,
-    "reviewCount": 46,
+    "reviewCount": 47,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -69,9 +69,11 @@ description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -80,22 +82,22 @@ description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,100</text>
 
-    <path d="M 68 72 L 94 72 L 120 72 L 146 72 L 172 72 L 198 72 L 224 72 L 250 72 L 276 72 L 302 72 L 328 72 L 354 72 L 380 72 L 406 72 L 432 72 L 458 72 L 484 72 L 510 72 L 536 72 L 562 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 94 72 L 120 72 L 146 72 L 172 72 L 198 72 L 224 72 L 250 72 L 276 72 L 302 72 L 328 72 L 354 72 L 380 72 L 406 72 L 432 72 L 458 72 L 484 72 L 510 72 L 536 72 L 562 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 93 72 L 118 72 L 142 72 L 167 72 L 192 72 L 217 72 L 241 72 L 266 72 L 291 72 L 316 72 L 340 72 L 365 72 L 390 72 L 415 72 L 439 72 L 464 72 L 489 72 L 514 72 L 538 72 L 563 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 93 72 L 118 72 L 142 72 L 167 72 L 192 72 L 217 72 L 241 72 L 266 72 L 291 72 L 316 72 L 340 72 L 365 72 L 390 72 L 415 72 L 439 72 L 464 72 L 489 72 L 514 72 L 538 72 L 563 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,240원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -103,7 +105,7 @@ description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,240원 · 별점 4.1 · 리뷰 46개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,240원 · 별점 4.1 · 리뷰 47개</span>
     <a href="https://link.coupang.com/a/dLFpPtrcrs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -190,7 +192,7 @@ A. KC 안전인증은 대한민국에서 어린이 제품에 대한 안전 기�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,240원 · 별점 4.1 · 리뷰 46개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,240원 · 별점 4.1 · 리뷰 47개</span>
     <a href="https://link.coupang.com/a/dLFpPtrcrs" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
