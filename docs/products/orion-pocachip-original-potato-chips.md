@@ -20,12 +20,12 @@ description: 포카칩 오리지널은 100% 생감자로 만든 얇고 바삭한
     "price": "5440",
     "url": "https://link.coupang.com/a/eGIsSw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-11"
+    "priceValidUntil": "2026-06-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 57642,
+    "reviewCount": 57678,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -79,9 +79,11 @@ description: 포카칩 오리지널은 100% 생감자로 만든 얇고 바삭한
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -90,33 +92,33 @@ description: 포카칩 오리지널은 100% 생감자로 만든 얇고 바삭한
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 26 L 89 26 L 110 117 L 130 53 L 151 53 L 172 53 L 193 53 L 214 75 L 234 53 L 255 53 L 276 69 L 297 69 L 318 69 L 338 117 L 359 69 L 380 69 L 401 69 L 422 69 L 442 69 L 463 69 L 484 69 L 505 69 L 526 69 L 546 69 L 567 69 L 588 69 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 89 26 L 110 117 L 130 53 L 151 53 L 172 53 L 193 53 L 214 75 L 234 53 L 255 53 L 276 69 L 297 69 L 318 69 L 338 117 L 359 69 L 380 69 L 401 69 L 422 69 L 442 69 L 463 69 L 484 69 L 505 69 L 526 69 L 546 69 L 567 69 L 588 69" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 88 26 L 108 117 L 128 53 L 148 53 L 168 53 L 188 53 L 208 75 L 228 53 L 248 53 L 268 69 L 288 69 L 308 69 L 328 117 L 348 69 L 368 69 L 388 69 L 408 69 L 428 69 L 448 69 L 468 69 L 488 69 L 508 69 L 528 69 L 548 69 L 568 69 L 588 69 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 88 26 L 108 117 L 128 53 L 148 53 L 168 53 L 188 53 L 208 75 L 228 53 L 248 53 L 268 69 L 288 69 L 308 69 L 328 117 L 348 69 L 368 69 L 388 69 L 408 69 L 428 69 L 448 69 L 468 69 L 488 69 L 508 69 L 528 69 L 548 69 L 568 69 L 588 69" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="130" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="193" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="234" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="359" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="88" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="128" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="208" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="228" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="248" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="69" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="69" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="57" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,440원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -124,7 +126,7 @@ description: 포카칩 오리지널은 100% 생감자로 만든 얇고 바삭한
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,440원 · 별점 4.8 · 리뷰 57,642개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,440원 · 별점 4.8 · 리뷰 57,678개</span>
     <a href="https://link.coupang.com/a/eGIsSw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -205,7 +207,7 @@ A. 네, 포카칩 오리지널은 짠맛이 과하지 않고 감자의 고소함
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,440원 · 별점 4.8 · 리뷰 57,642개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,440원 · 별점 4.8 · 리뷰 57,678개</span>
     <a href="https://link.coupang.com/a/eGIsSw" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
