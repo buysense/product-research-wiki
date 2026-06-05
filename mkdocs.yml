@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 데이지크 섀도우 팔레트: products/dasique-shadow-palette.md
     - 네이밍 플러피 파우더 블러쉬: products/naming-fluffy-powder-blush.md
     - 클리오 킬브로우 슬림 애쉬 브로우카라: products/clio-killbrow-slim-ash-browcara.md
     - 메종 마르지엘라 바이 더 파이어플레이스 캔들: products/maison-margiela-by-the-fireplace-candle.md
