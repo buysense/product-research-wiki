@@ -17,15 +17,15 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "12500",
+    "price": "12970",
     "url": "https://link.coupang.com/a/d8QKkq0UeW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-12"
+    "priceValidUntil": "2026-06-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 4656,
+    "reviewCount": 4661,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,9 +44,11 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 8개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -55,23 +57,25 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,500</text>
 
-    <path d="M 68 62 L 142 75 L 217 75 L 291 178 L 365 178 L 439 178 L 514 178 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 62 L 142 75 L 217 75 L 291 178 L 365 178 L 439 178 L 514 178 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 62 L 133 75 L 198 75 L 263 178 L 328 178 L 393 178 L 458 178 L 523 178 L 588 107 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 62 L 133 75 L 198 75 L 263 178 L 328 178 L 393 178 L 458 178 L 523 178 L 588 107" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="178" r="5" fill="#ea580c"></circle>
+    <circle cx="133" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="107" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,500원</text>
+    <text x="588" y="95" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,970원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -79,7 +83,7 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,500원 · 별점 4.6 · 리뷰 4,656개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,970원 · 별점 4.6 · 리뷰 4,661개</span>
     <a href="https://link.coupang.com/a/d8QKkq0UeW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -154,7 +158,7 @@ A. 물감이 마르지 않도록 사용 후에는 반드시 뚜껑을 완전히 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,500원 · 별점 4.6 · 리뷰 4,656개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,970원 · 별점 4.6 · 리뷰 4,661개</span>
     <a href="https://link.coupang.com/a/d8QKkq0UeW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
