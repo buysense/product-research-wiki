@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 보로탈코 바디크림: products/borotalco-body-cream.md
     - 비세 레이어드 후루리 티크 블러셔: products/visee-layered-fururi-cheek-blusher.md
     - 데이지크 섀도우 팔레트: products/dasique-shadow-palette.md
     - 네이밍 플러피 파우더 블러쉬: products/naming-fluffy-powder-blush.md
