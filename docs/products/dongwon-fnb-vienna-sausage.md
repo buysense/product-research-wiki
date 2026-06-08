@@ -17,15 +17,15 @@ description: 동원에프앤비 비엔나소시지는 84.53%의 높은 돼지고
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "11980",
+    "price": "9900",
     "url": "https://link.coupang.com/a/ex7g4h",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-14"
+    "priceValidUntil": "2026-06-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 93737,
+    "reviewCount": 93748,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -98,6 +98,8 @@ description: 동원에프앤비 비엔나소시지는 84.53%의 높은 돼지고
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -106,28 +108,28 @@ description: 동원에프앤비 비엔나소시지는 84.53%의 높은 돼지고
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
     <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 119 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 164 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 119 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 164 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="28" r="5" fill="#ea580c"></circle>
+    <path d="M 68 27 L 86 27 L 104 27 L 122 27 L 140 27 L 158 27 L 176 27 L 194 27 L 211 27 L 229 27 L 247 27 L 265 27 L 283 27 L 301 27 L 319 27 L 337 27 L 355 27 L 373 27 L 391 27 L 409 27 L 427 27 L 445 27 L 462 27 L 480 27 L 498 27 L 516 27 L 534 27 L 552 95 L 570 27 L 588 106 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 27 L 86 27 L 104 27 L 122 27 L 140 27 L 158 27 L 176 27 L 194 27 L 211 27 L 229 27 L 247 27 L 265 27 L 283 27 L 301 27 L 319 27 L 337 27 L 355 27 L 373 27 L 391 27 L 409 27 L 427 27 L 445 27 L 462 27 L 480 27 L 498 27 L 516 27 L 534 27 L 552 95 L 570 27 L 588 106" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="106" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="16" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,980원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="588" y="94" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -135,7 +137,7 @@ description: 동원에프앤비 비엔나소시지는 84.53%의 높은 돼지고
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,980원 · 별점 4.8 · 리뷰 93,737개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원 · 별점 4.8 · 리뷰 93,748개</span>
     <a href="https://link.coupang.com/a/ex7g4h" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -215,7 +217,7 @@ A. 씹었을 때 겉은 뽀득하고 속은 탱글탱글하며, 입안에서 '�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,980원 · 별점 4.8 · 리뷰 93,737개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,900원 · 별점 4.8 · 리뷰 93,748개</span>
     <a href="https://link.coupang.com/a/ex7g4h" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
