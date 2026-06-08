@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 메리메이어 오트밀 버니 애착인형: products/marymeyer-oatmeal-bunny-lovey-doll.md
     - 라라스윗 저당 웨하스 헤이즐넛 초코: products/lalasweet-low-sugar-wafer-hazelnut-choco.md
     - 마이노멀 밀가루 없는 제로칩 어니언맛: products/mynormal-no-flour-zero-chip-onion.md
     - 라마즈 핑크 촉감발달완구 선물세트: products/lamaze-pink-sensory-toy-gift-set.md
