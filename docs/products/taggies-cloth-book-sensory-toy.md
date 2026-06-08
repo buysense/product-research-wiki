@@ -20,7 +20,7 @@ description: 태기스 헝겊책 촉감 발달 완구는 신생아부터 사용 
     "price": "29500",
     "url": "https://link.coupang.com/a/epJx7AJBe0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-15"
+    "priceValidUntil": "2026-06-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
