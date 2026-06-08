@@ -20,7 +20,7 @@ description: 올더히어 허리 스트레칭기는 거북목, 허리 통증, �
     "price": "34900",
     "url": "https://link.coupang.com/a/eqbIrf",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-14"
+    "priceValidUntil": "2026-06-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -98,6 +98,8 @@ description: 올더히어 허리 스트레칭기는 거북목, 허리 통증, �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -109,27 +111,26 @@ description: 올더히어 허리 스트레칭기는 거북목, 허리 통증, �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
 
-    <path d="M 68 28 L 86 65 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 104 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 86 65 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 104 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="28" r="4" fill="#fdba74"></circle>
+    <path d="M 68 65 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 104 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 65 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 104 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="28" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="28" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="16" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
