@@ -20,7 +20,7 @@ description: 붕붕 씽씽 탈것 핸드북 전10권 세트는 유아 언어 발
     "price": "34200",
     "url": "https://link.coupang.com/a/epJVz1isZU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-15"
+    "priceValidUntil": "2026-06-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
