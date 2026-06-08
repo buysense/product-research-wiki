@@ -20,7 +20,7 @@ description: 뽀로로 반창고 스티커 병원놀이는 아이들이 의사, 
     "price": "25420",
     "url": "https://link.coupang.com/a/epJJdH1fpc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-15"
+    "priceValidUntil": "2026-06-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
