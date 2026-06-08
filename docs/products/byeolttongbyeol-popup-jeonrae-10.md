@@ -19,7 +19,7 @@ description: 팝업 전래 전 10권은 어린 아이들이 전래동화를 쉽�
     "price": "59400",
     "url": "https://link.coupang.com/a/dT0bofqcBE",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-14"
+    "priceValidUntil": "2026-06-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -62,9 +62,11 @@ description: 팝업 전래 전 10권은 어린 아이들이 전래동화를 쉽�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -73,22 +75,22 @@ description: 팝업 전래 전 10권은 어린 아이들이 전래동화를 쉽�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">59,400</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">59,300</text>
 
-    <path d="M 68 102 L 99 102 L 129 102 L 160 102 L 190 102 L 221 102 L 252 102 L 282 102 L 313 102 L 343 102 L 374 102 L 404 102 L 435 102 L 466 102 L 496 102 L 527 102 L 557 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 99 102 L 129 102 L 160 102 L 190 102 L 221 102 L 252 102 L 282 102 L 313 102 L 343 102 L 374 102 L 404 102 L 435 102 L 466 102 L 496 102 L 527 102 L 557 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 97 102 L 126 102 L 155 102 L 184 102 L 212 102 L 241 102 L 270 102 L 299 102 L 328 102 L 357 102 L 386 102 L 415 102 L 444 102 L 472 102 L 501 102 L 530 102 L 559 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 97 102 L 126 102 L 155 102 L 184 102 L 212 102 L 241 102 L 270 102 L 299 102 L 328 102 L 357 102 L 386 102 L 415 102 L 444 102 L 472 102 L 501 102 L 530 102 L 559 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">59,400원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
