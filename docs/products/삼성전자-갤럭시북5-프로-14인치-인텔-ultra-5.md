@@ -70,6 +70,8 @@ description: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5는 뛰어
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -77,28 +79,29 @@ description: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5는 뛰어
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">2,400,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">2,200,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">2,000,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">2,200,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">2,000,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,800,000</text>
 
-    <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 49 L 516 49 L 534 49 L 552 49 L 570 49 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 49 L 516 49 L 534 49 L 552 49 L 570 49 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="49" r="5" fill="#ea580c"></circle>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="37" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,339,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,999,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
