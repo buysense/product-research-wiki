@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 태기스 헝겊책 촉감 발달 완구: products/taggies-cloth-book-sensory-toy.md
     - 바나나 필링필링젤: products/banana-peeling-gel.md
     - 보로탈코 바디크림: products/borotalco-body-cream.md
     - 비세 레이어드 후루리 티크 블러셔: products/visee-layered-fururi-cheek-blusher.md
