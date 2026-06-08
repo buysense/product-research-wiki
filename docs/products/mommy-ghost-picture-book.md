@@ -19,12 +19,12 @@ description: 아이의 시선으로 이별과 엄마의 사랑을 따뜻하게 �
     "price": "10800",
     "url": "https://link.coupang.com/a/dIgtll77OS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-14"
+    "priceValidUntil": "2026-06-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1944,
+    "reviewCount": 1961,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -76,9 +76,11 @@ description: 아이의 시선으로 이별과 엄마의 사랑을 따뜻하게 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -87,22 +89,22 @@ description: 아이의 시선으로 이별과 엄마의 사랑을 따뜻하게 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,800</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,700</text>
 
-    <path d="M 68 102 L 90 102 L 111 102 L 133 102 L 155 102 L 176 102 L 198 102 L 220 102 L 241 102 L 263 102 L 285 102 L 306 102 L 328 102 L 350 102 L 371 102 L 393 102 L 415 102 L 436 102 L 458 102 L 480 102 L 501 102 L 523 102 L 545 102 L 566 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 90 102 L 111 102 L 133 102 L 155 102 L 176 102 L 198 102 L 220 102 L 241 102 L 263 102 L 285 102 L 306 102 L 328 102 L 350 102 L 371 102 L 393 102 L 415 102 L 436 102 L 458 102 L 480 102 L 501 102 L 523 102 L 545 102 L 566 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 89 102 L 110 102 L 130 102 L 151 102 L 172 102 L 193 102 L 214 102 L 234 102 L 255 102 L 276 102 L 297 102 L 318 102 L 338 102 L 359 102 L 380 102 L 401 102 L 422 102 L 442 102 L 463 102 L 484 102 L 505 102 L 526 102 L 546 102 L 567 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 89 102 L 110 102 L 130 102 L 151 102 L 172 102 L 193 102 L 214 102 L 234 102 L 255 102 L 276 102 L 297 102 L 318 102 L 338 102 L 359 102 L 380 102 L 401 102 L 422 102 L 442 102 L 463 102 L 484 102 L 505 102 L 526 102 L 546 102 L 567 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -110,7 +112,7 @@ description: 아이의 시선으로 이별과 엄마의 사랑을 따뜻하게 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,800원 · 별점 4.8 · 리뷰 1,944개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,800원 · 별점 4.8 · 리뷰 1,961개</span>
     <a href="https://link.coupang.com/a/dIgtll77OS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -184,7 +186,7 @@ A. 가족 구성원 중 이별을 앞두고 있거나, 소중한 사람을 잃�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,800원 · 별점 4.8 · 리뷰 1,944개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,800원 · 별점 4.8 · 리뷰 1,961개</span>
     <a href="https://link.coupang.com/a/dIgtll77OS" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
