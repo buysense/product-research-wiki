@@ -20,7 +20,7 @@ description: 헤파리제 W는 일본 제리아신약의 숙취 해소 음료로
     "price": "79900",
     "url": "https://link.coupang.com/a/ep9ktF",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-14"
+    "priceValidUntil": "2026-06-15"
   }
 }
 </script>
@@ -28,6 +28,8 @@ description: 헤파리제 W는 일본 제리아신약의 숙취 해소 음료로
   📅 작성일: 2026-04-16 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
 ## 참고한 글
+
+
 
 
 
@@ -111,16 +113,16 @@ description: 헤파리제 W는 일본 제리아신약의 숙취 해소 음료로
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">79,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
