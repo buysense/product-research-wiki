@@ -70,6 +70,8 @@ description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -81,37 +83,38 @@ description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 37 L 86 37 L 104 37 L 122 37 L 140 37 L 158 67 L 176 67 L 194 67 L 211 58 L 229 52 L 247 66 L 265 67 L 283 67 L 301 67 L 319 67 L 337 67 L 355 67 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 61 L 516 62 L 534 63 L 552 63 L 570 93 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 37 L 86 37 L 104 37 L 122 37 L 140 37 L 158 67 L 176 67 L 194 67 L 211 58 L 229 52 L 247 66 L 265 67 L 283 67 L 301 67 L 319 67 L 337 67 L 355 67 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 61 L 516 62 L 534 63 L 552 63 L 570 93 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 37 L 86 37 L 104 37 L 122 37 L 140 67 L 158 67 L 176 67 L 194 58 L 211 52 L 229 66 L 247 67 L 265 67 L 283 67 L 301 67 L 319 67 L 337 67 L 355 68 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 61 L 498 62 L 516 63 L 534 63 L 552 93 L 570 120 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 37 L 86 37 L 104 37 L 122 37 L 140 67 L 158 67 L 176 67 L 194 58 L 211 52 L 229 66 L 247 67 L 265 67 L 283 67 L 301 67 L 319 67 L 337 67 L 355 68 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 61 L 498 62 L 516 63 L 534 63 L 552 93 L 570 120 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="52" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="63" r="4" fill="#fdba74"></circle>
     <circle cx="534" cy="63" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="63" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="120" r="5" fill="#ea580c"></circle>
+    <circle cx="552" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="108" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">115,390원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">130,070원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
