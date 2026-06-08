@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 붕붕 씽씽 탈것 핸드북 전10권 세트: products/boongboong-ssingssing-vehicle-handbook-set.md
     - 태기스 헝겊책 촉감 발달 완구: products/taggies-cloth-book-sensory-toy.md
     - 바나나 필링필링젤: products/banana-peeling-gel.md
     - 보로탈코 바디크림: products/borotalco-body-cream.md
