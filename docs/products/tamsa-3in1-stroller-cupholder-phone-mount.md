@@ -20,12 +20,12 @@ description: 탐사 3in1 유모차 컵홀더는 외출 시 유모차 사용자�
     "price": "15990",
     "url": "https://link.coupang.com/a/dVPa7mCWjs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-15"
+    "priceValidUntil": "2026-06-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 990,
+    "reviewCount": 991,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -63,9 +63,11 @@ description: 탐사 3in1 유모차 컵홀더는 외출 시 유모차 사용자�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -74,22 +76,22 @@ description: 탐사 3in1 유모차 컵홀더는 외출 시 유모차 사용자�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,900</text>
 
-    <path d="M 68 110 L 99 110 L 129 110 L 160 110 L 190 110 L 221 110 L 252 110 L 282 110 L 313 110 L 343 110 L 374 110 L 404 110 L 435 110 L 466 110 L 496 110 L 527 110 L 557 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 99 110 L 129 110 L 160 110 L 190 110 L 221 110 L 252 110 L 282 110 L 313 110 L 343 110 L 374 110 L 404 110 L 435 110 L 466 110 L 496 110 L 527 110 L 557 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 97 110 L 126 110 L 155 110 L 184 110 L 212 110 L 241 110 L 270 110 L 299 110 L 328 110 L 357 110 L 386 110 L 415 110 L 444 110 L 472 110 L 501 110 L 530 110 L 559 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 97 110 L 126 110 L 155 110 L 184 110 L 212 110 L 241 110 L 270 110 L 299 110 L 328 110 L 357 110 L 386 110 L 415 110 L 444 110 L 472 110 L 501 110 L 530 110 L 559 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,990원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -97,7 +99,7 @@ description: 탐사 3in1 유모차 컵홀더는 외출 시 유모차 사용자�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,990원 · 별점 4.7 · 리뷰 990개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,990원 · 별점 4.7 · 리뷰 991개</span>
     <a href="https://link.coupang.com/a/dVPa7mCWjs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -173,7 +175,7 @@ A. 유모차 산책 중 손에 짐을 들고 다닐 필요 없이 음료를 마�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,990원 · 별점 4.7 · 리뷰 990개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,990원 · 별점 4.7 · 리뷰 991개</span>
     <a href="https://link.coupang.com/a/dVPa7mCWjs" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
