@@ -20,7 +20,7 @@ description: 라마즈 핑크 촉감발달완구 선물세트는 신생아부터
     "price": "60210",
     "url": "https://link.coupang.com/a/epSYPjwyfQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-15"
+    "priceValidUntil": "2026-06-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
