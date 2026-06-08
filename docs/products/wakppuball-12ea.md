@@ -17,10 +17,10 @@ description: 왁뿌볼 12개는 일상에서 간편하게 즐기거나 소소한
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "31900",
+    "price": "36900",
     "url": "https://link.coupang.com/a/dLENTfldhQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-14"
+    "priceValidUntil": "2026-06-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -73,45 +73,48 @@ description: 왁뿌볼 12개는 일상에서 간편하게 즐기거나 소소한
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 149 L 92 149 L 115 149 L 139 149 L 163 119 L 186 119 L 210 105 L 233 151 L 257 151 L 281 151 L 304 151 L 328 151 L 352 151 L 375 105 L 399 105 L 423 105 L 446 105 L 470 151 L 493 151 L 517 151 L 541 120 L 564 120 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 149 L 92 149 L 115 149 L 139 149 L 163 119 L 186 119 L 210 105 L 233 151 L 257 151 L 281 151 L 304 151 L 328 151 L 352 151 L 375 105 L 399 105 L 423 105 L 446 105 L 470 151 L 493 151 L 517 151 L 541 120 L 564 120 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="139" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="517" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="564" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="73" r="5" fill="#ea580c"></circle>
+    <path d="M 68 126 L 91 126 L 113 126 L 136 126 L 158 110 L 181 110 L 204 104 L 226 126 L 249 126 L 271 126 L 294 126 L 317 126 L 339 126 L 362 104 L 385 104 L 407 104 L 430 104 L 452 126 L 475 126 L 498 126 L 520 111 L 543 111 L 565 88 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 126 L 91 126 L 113 126 L 136 126 L 158 110 L 181 110 L 204 104 L 226 126 L 249 126 L 271 126 L 294 126 L 317 126 L 339 126 L 362 104 L 385 104 L 407 104 L 430 104 L 452 126 L 475 126 L 498 126 L 520 111 L 543 111 L 565 88 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="136" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="181" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="204" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="226" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="339" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="430" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="452" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="520" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="543" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="565" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="50" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="61" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">31,900원</text>
+    <text x="588" y="38" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -119,7 +122,7 @@ description: 왁뿌볼 12개는 일상에서 간편하게 즐기거나 소소한
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 31,900원 · 별점 4.3 · 리뷰 19개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 36,900원 · 별점 4.3 · 리뷰 19개</span>
     <a href="https://link.coupang.com/a/dLENTfldhQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -204,7 +207,7 @@ A. 네, 부담 없는 가격과 12개 묶음이라는 구성 덕분에 소소한
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 31,900원 · 별점 4.3 · 리뷰 19개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 36,900원 · 별점 4.3 · 리뷰 19개</span>
     <a href="https://link.coupang.com/a/dLENTfldhQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
