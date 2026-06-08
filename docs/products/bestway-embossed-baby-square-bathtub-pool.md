@@ -20,7 +20,7 @@ description: 베스트웨이 엠보싱 유아 사각 욕조 풀장은 집에서 
     "price": "13770",
     "url": "https://link.coupang.com/a/dSIm468pHg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-14"
+    "priceValidUntil": "2026-06-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -65,9 +65,11 @@ description: 베스트웨이 엠보싱 유아 사각 욕조 풀장은 집에서 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -76,24 +78,24 @@ description: 베스트웨이 엠보싱 유아 사각 욕조 풀장은 집에서 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,700</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,600</text>
 
-    <path d="M 68 155 L 97 155 L 126 155 L 155 155 L 184 155 L 212 155 L 241 155 L 270 155 L 299 155 L 328 155 L 357 155 L 386 155 L 415 155 L 444 155 L 472 49 L 501 49 L 530 49 L 559 49 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 155 L 97 155 L 126 155 L 155 155 L 184 155 L 212 155 L 241 155 L 270 155 L 299 155 L 328 155 L 357 155 L 386 155 L 415 155 L 444 155 L 472 49 L 501 49 L 530 49 L 559 49 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 155 L 95 155 L 123 155 L 150 155 L 177 155 L 205 155 L 232 155 L 260 155 L 287 155 L 314 155 L 342 155 L 369 155 L 396 155 L 424 155 L 451 49 L 479 49 L 506 49 L 533 49 L 561 49 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 155 L 95 155 L 123 155 L 150 155 L 177 155 L 205 155 L 232 155 L 260 155 L 287 155 L 314 155 L 342 155 L 369 155 L 396 155 L 424 155 L 451 49 L 479 49 L 506 49 L 533 49 L 561 49 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="444" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="424" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="451" cy="49" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="49" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="37" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,770원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
