@@ -20,7 +20,7 @@ description: 라라스윗 저당 웨하스 헤이즐넛 초코는 당 걱정 없
     "price": "5900",
     "url": "https://link.coupang.com/a/epXRsNFmAm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-15"
+    "priceValidUntil": "2026-06-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
