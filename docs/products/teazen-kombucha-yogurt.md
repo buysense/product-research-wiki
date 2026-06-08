@@ -17,15 +17,15 @@ description: 티젠 콤부차 요구르트는 물 대신 가볍게 마시거나 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "10190",
+    "price": "10510",
     "url": "https://link.coupang.com/a/dGHVS5o5nw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-14"
+    "priceValidUntil": "2026-06-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 4812,
+    "reviewCount": 4821,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -79,9 +79,11 @@ description: 티젠 콤부차 요구르트는 물 대신 가볍게 마시거나 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -90,39 +92,40 @@ description: 티젠 콤부차 요구르트는 물 대신 가볍게 마시거나 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 68 L 89 68 L 110 125 L 130 125 L 151 124 L 172 124 L 193 159 L 214 158 L 234 110 L 255 147 L 276 147 L 297 110 L 318 110 L 338 110 L 359 110 L 380 110 L 401 110 L 422 110 L 442 110 L 463 110 L 484 147 L 505 147 L 526 141 L 546 55 L 567 98 L 588 95 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 68 L 89 68 L 110 125 L 130 125 L 151 124 L 172 124 L 193 159 L 214 158 L 234 110 L 255 147 L 276 147 L 297 110 L 318 110 L 338 110 L 359 110 L 380 110 L 401 110 L 422 110 L 442 110 L 463 110 L 484 147 L 505 147 L 526 141 L 546 55 L 567 98 L 588 95" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 68 L 88 68 L 108 125 L 128 125 L 148 124 L 168 124 L 188 159 L 208 158 L 228 110 L 248 147 L 268 147 L 288 110 L 308 110 L 328 110 L 348 110 L 368 110 L 388 110 L 408 110 L 428 110 L 448 110 L 468 147 L 488 147 L 508 141 L 528 55 L 548 98 L 568 95 L 588 83 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 68 L 88 68 L 108 125 L 128 125 L 148 124 L 168 124 L 188 159 L 208 158 L 228 110 L 248 147 L 268 147 L 288 110 L 308 110 L 328 110 L 348 110 L 368 110 L 388 110 L 408 110 L 428 110 L 448 110 L 468 147 L 488 147 L 508 141 L 528 55 L 548 98 L 568 95 L 588 83" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="130" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="151" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="193" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="158" r="4" fill="#fdba74"></circle>
-    <circle cx="234" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="297" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="463" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="505" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="567" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="95" r="5" fill="#ea580c"></circle>
+    <circle cx="88" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="128" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="148" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="168" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="208" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="228" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="248" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="288" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="448" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="488" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="528" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="98" r="4" fill="#fdba74"></circle>
+    <circle cx="568" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="83" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="83" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,190원</text>
+    <text x="588" y="71" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,510원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -130,7 +133,7 @@ description: 티젠 콤부차 요구르트는 물 대신 가볍게 마시거나 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,190원 · 별점 4.7 · 리뷰 4,812개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,510원 · 별점 4.7 · 리뷰 4,821개</span>
     <a href="https://link.coupang.com/a/dGHVS5o5nw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -205,7 +208,7 @@ A. 1포당 15kcal, 당류 0g으로 칼로리 및 당 섭취 부담 없이 즐길
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,190원 · 별점 4.7 · 리뷰 4,812개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,510원 · 별점 4.7 · 리뷰 4,821개</span>
     <a href="https://link.coupang.com/a/dGHVS5o5nw" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
