@@ -17,15 +17,15 @@ description: 삼양 불닭볶음면은 매콤하고 중독성 있는 맛으로 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "35380",
+    "price": "17700",
     "url": "https://link.coupang.com/a/dQ59WCx0Zo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-14"
+    "priceValidUntil": "2026-06-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 134190,
+    "reviewCount": 134307,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -67,9 +67,11 @@ description: 삼양 불닭볶음면은 매콤하고 중독성 있는 맛으로 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -78,39 +80,40 @@ description: 삼양 불닭볶음면은 매콤하고 중독성 있는 맛으로 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 109 L 95 42 L 123 42 L 150 42 L 177 42 L 205 108 L 232 108 L 260 108 L 287 26 L 314 159 L 342 108 L 369 42 L 396 109 L 424 110 L 451 43 L 479 46 L 506 45 L 533 44 L 561 44 L 588 44 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 109 L 95 42 L 123 42 L 150 42 L 177 42 L 205 108 L 232 108 L 260 108 L 287 26 L 314 159 L 342 108 L 369 42 L 396 109 L 424 110 L 451 43 L 479 46 L 506 45 L 533 44 L 561 44 L 588 44" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 109 L 94 42 L 120 42 L 146 42 L 172 42 L 198 108 L 224 108 L 250 108 L 276 26 L 302 159 L 328 108 L 354 42 L 380 109 L 406 110 L 432 43 L 458 46 L 484 45 L 510 44 L 536 44 L 562 44 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 109 L 94 42 L 120 42 L 146 42 L 172 42 L 198 108 L 224 108 L 250 108 L 276 26 L 302 159 L 328 108 L 354 42 L 380 109 L 406 110 L 432 43 L 458 46 L 484 45 L 510 44 L 536 44 L 562 44 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="95" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="123" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="150" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="177" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="205" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="232" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="260" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="287" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="314" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="342" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="369" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="396" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="424" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="451" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="479" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="506" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="533" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="44" r="5" fill="#ea580c"></circle>
+    <circle cx="94" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="120" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="146" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="224" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="250" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="302" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="354" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="406" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="432" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="510" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="562" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="111" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="32" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">35,380원</text>
+    <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -118,7 +121,7 @@ description: 삼양 불닭볶음면은 매콤하고 중독성 있는 맛으로 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 35,380원 · 별점 4.8 · 리뷰 134,190개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,700원 · 별점 4.8 · 리뷰 134,307개</span>
     <a href="https://link.coupang.com/a/dQ59WCx0Zo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -189,7 +192,7 @@ A. 스트레스가 쌓였을 때 매운 음식으로 해소하고 싶을 때, �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 35,380원 · 별점 4.8 · 리뷰 134,190개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,700원 · 별점 4.8 · 리뷰 134,307개</span>
     <a href="https://link.coupang.com/a/dQ59WCx0Zo" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
