@@ -20,12 +20,12 @@ description: 자연이음 유기농 구운 아몬드 현미칩은 당뇨식이�
     "price": "23740",
     "url": "https://link.coupang.com/a/dGEOKC2b7J",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-15"
+    "priceValidUntil": "2026-06-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1023,
+    "reviewCount": 1026,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -81,9 +81,11 @@ description: 자연이음 유기농 구운 아몬드 현미칩은 당뇨식이�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -92,22 +94,22 @@ description: 자연이음 유기농 구운 아몬드 현미칩은 당뇨식이�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">23,700</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">23,600</text>
 
-    <path d="M 68 72 L 88 72 L 108 72 L 128 72 L 148 72 L 168 72 L 188 72 L 208 72 L 228 72 L 248 72 L 268 72 L 288 72 L 308 72 L 328 72 L 348 72 L 368 72 L 388 72 L 408 72 L 428 72 L 448 72 L 468 72 L 488 72 L 508 72 L 528 72 L 548 72 L 568 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 88 72 L 108 72 L 128 72 L 148 72 L 168 72 L 188 72 L 208 72 L 228 72 L 248 72 L 268 72 L 288 72 L 308 72 L 328 72 L 348 72 L 368 72 L 388 72 L 408 72 L 428 72 L 448 72 L 468 72 L 488 72 L 508 72 L 528 72 L 548 72 L 568 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 87 72 L 107 72 L 126 72 L 145 72 L 164 72 L 184 72 L 203 72 L 222 72 L 241 72 L 261 72 L 280 72 L 299 72 L 318 72 L 338 72 L 357 72 L 376 72 L 395 72 L 415 72 L 434 72 L 453 72 L 472 72 L 492 72 L 511 72 L 530 72 L 549 72 L 569 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 87 72 L 107 72 L 126 72 L 145 72 L 164 72 L 184 72 L 203 72 L 222 72 L 241 72 L 261 72 L 280 72 L 299 72 L 318 72 L 338 72 L 357 72 L 376 72 L 395 72 L 415 72 L 434 72 L 453 72 L 472 72 L 492 72 L 511 72 L 530 72 L 549 72 L 569 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,740원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -115,7 +117,7 @@ description: 자연이음 유기농 구운 아몬드 현미칩은 당뇨식이�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,740원 · 별점 4.8 · 리뷰 1,023개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,740원 · 별점 4.8 · 리뷰 1,026개</span>
     <a href="https://link.coupang.com/a/dGEOKC2b7J" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -190,7 +192,7 @@ A. 한 봉지에 50g이 포장되어 있어, 한 번 먹기에 적당한 양입�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,740원 · 별점 4.8 · 리뷰 1,023개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,740원 · 별점 4.8 · 리뷰 1,026개</span>
     <a href="https://link.coupang.com/a/dGEOKC2b7J" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
