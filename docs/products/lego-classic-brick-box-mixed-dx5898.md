@@ -20,7 +20,7 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
     "price": "62300",
     "url": "https://link.coupang.com/a/dIgFPgtowm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-14"
+    "priceValidUntil": "2026-06-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -67,9 +67,11 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -78,29 +80,29 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">63,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">62,000</text>
 
-    <path d="M 68 102 L 95 102 L 123 74 L 150 74 L 177 74 L 205 102 L 232 102 L 260 102 L 287 102 L 314 102 L 342 102 L 369 154 L 396 155 L 424 155 L 451 155 L 479 155 L 506 155 L 533 155 L 561 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 95 102 L 123 74 L 150 74 L 177 74 L 205 102 L 232 102 L 260 102 L 287 102 L 314 102 L 342 102 L 369 154 L 396 155 L 424 155 L 451 155 L 479 155 L 506 155 L 533 155 L 561 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 94 102 L 120 74 L 146 74 L 172 74 L 198 102 L 224 102 L 250 102 L 276 102 L 302 102 L 328 102 L 354 154 L 380 155 L 406 155 L 432 155 L 458 155 L 484 155 L 510 155 L 536 155 L 562 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 94 102 L 120 74 L 146 74 L 172 74 L 198 102 L 224 102 L 250 102 L 276 102 L 302 102 L 328 102 L 354 154 L 380 155 L 406 155 L 432 155 L 458 155 L 484 155 L 510 155 L 536 155 L 562 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="95" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="123" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="177" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="205" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="342" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="369" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="396" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="94" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="120" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="354" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="155" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="155" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="143" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">62,300원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
-    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
