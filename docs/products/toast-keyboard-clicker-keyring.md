@@ -20,7 +20,7 @@ description: 귀여운 식빵 디자인과 경쾌한 키보드 타건감을 선�
     "price": "5900",
     "url": "https://link.coupang.com/a/eCuNBo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-15"
+    "priceValidUntil": "2026-06-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -97,6 +97,8 @@ description: 귀여운 식빵 디자인과 경쾌한 키보드 타건감을 선�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -108,33 +110,32 @@ description: 귀여운 식빵 디자인과 경쾌한 키보드 타건감을 선�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 31 L 86 26 L 104 26 L 122 32 L 140 32 L 158 32 L 176 32 L 194 26 L 211 31 L 229 31 L 247 46 L 265 46 L 283 46 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 68 L 498 106 L 516 106 L 534 106 L 552 106 L 570 106 L 588 106 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 31 L 86 26 L 104 26 L 122 32 L 140 32 L 158 32 L 176 32 L 194 26 L 211 31 L 229 31 L 247 46 L 265 46 L 283 46 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 68 L 498 106 L 516 106 L 534 106 L 552 106 L 570 106 L 588 106" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="31" r="4" fill="#fdba74"></circle>
+    <path d="M 68 26 L 86 26 L 104 32 L 122 32 L 140 32 L 158 32 L 176 26 L 194 31 L 211 31 L 229 46 L 247 46 L 265 46 L 283 46 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 68 L 480 106 L 498 106 L 516 106 L 534 106 L 552 106 L 570 106 L 588 106 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 32 L 122 32 L 140 32 L 158 32 L 176 26 L 194 31 L 211 31 L 229 46 L 247 46 L 265 46 L 283 46 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 68 L 480 106 L 498 106 L 516 106 L 534 106 L 552 106 L 570 106 L 588 106" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="31" r="4" fill="#fdba74"></circle>
     <circle cx="211" cy="31" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="31" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="106" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="106" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="94" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-10</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-13</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
