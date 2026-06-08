@@ -68,6 +68,8 @@ description: 오뗄 한입 핫도그는 부드러운 카스테라 빵과 국내�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -79,41 +81,41 @@ description: 오뗄 한입 핫도그는 부드러운 카스테라 빵과 국내�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 61 L 86 61 L 104 61 L 122 59 L 140 62 L 158 62 L 176 62 L 194 142 L 211 64 L 229 142 L 247 142 L 265 142 L 283 142 L 301 66 L 319 66 L 337 66 L 355 66 L 373 66 L 391 66 L 409 66 L 427 66 L 445 59 L 462 59 L 480 59 L 498 58 L 516 61 L 534 58 L 552 58 L 570 58 L 588 61 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 61 L 86 61 L 104 61 L 122 59 L 140 62 L 158 62 L 176 62 L 194 142 L 211 64 L 229 142 L 247 142 L 265 142 L 283 142 L 301 66 L 319 66 L 337 66 L 355 66 L 373 66 L 391 66 L 409 66 L 427 66 L 445 59 L 462 59 L 480 59 L 498 58 L 516 61 L 534 58 L 552 58 L 570 58 L 588 61" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 61 L 86 61 L 104 59 L 122 62 L 140 62 L 158 62 L 176 142 L 194 64 L 211 142 L 229 142 L 247 142 L 265 142 L 283 66 L 301 66 L 319 66 L 337 66 L 355 66 L 373 66 L 391 66 L 409 66 L 427 59 L 445 59 L 462 59 L 480 58 L 498 61 L 516 58 L 534 58 L 552 58 L 570 61 L 588 61 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 61 L 86 61 L 104 59 L 122 62 L 140 62 L 158 62 L 176 142 L 194 64 L 211 142 L 229 142 L 247 142 L 265 142 L 283 66 L 301 66 L 319 66 L 337 66 L 355 66 L 373 66 L 391 66 L 409 66 L 427 59 L 445 59 L 462 59 L 480 58 L 498 61 L 516 58 L 534 58 L 552 58 L 570 61 L 588 61" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="61" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="62" r="4" fill="#fdba74"></circle>
     <circle cx="140" cy="62" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="66" r="4" fill="#fdba74"></circle>
     <circle cx="301" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="61" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="61" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="49" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,700원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-08</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-09</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
