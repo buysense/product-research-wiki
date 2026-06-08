@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - Jollybaby 헝겊책 꼬리책: products/jollybaby-tail-cloth-book.md
     - 뽀로로 아동용 입체 스텐 교정젓가락: products/pororo-kids-ergonomic-stainless-chopsticks.md
     - 뽀로로 반창고 스티커 병원놀이: products/pororo-band-aid-sticker-hospital-play.md
     - 붕붕 씽씽 탈것 핸드북 전10권 세트: products/boongboong-ssingssing-vehicle-handbook-set.md
