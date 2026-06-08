@@ -20,7 +20,7 @@ description: 생미쉘 빨레트 비스킷은 프랑스 전통 제법으로 만�
     "price": "17300",
     "url": "https://link.coupang.com/a/dFwLw32QeG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-15"
+    "priceValidUntil": "2026-06-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -83,9 +83,11 @@ description: 생미쉘 빨레트 비스킷은 프랑스 전통 제법으로 만�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -94,35 +96,36 @@ description: 생미쉘 빨레트 비스킷은 프랑스 전통 제법으로 만�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 137 L 87 137 L 107 137 L 126 137 L 145 99 L 164 137 L 184 137 L 203 137 L 222 93 L 241 93 L 261 93 L 280 93 L 299 93 L 318 93 L 338 93 L 357 93 L 376 93 L 395 93 L 415 93 L 434 99 L 453 99 L 472 99 L 492 49 L 511 88 L 530 88 L 549 49 L 569 40 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 137 L 87 137 L 107 137 L 126 137 L 145 99 L 164 137 L 184 137 L 203 137 L 222 93 L 241 93 L 261 93 L 280 93 L 299 93 L 318 93 L 338 93 L 357 93 L 376 93 L 395 93 L 415 93 L 434 99 L 453 99 L 472 99 L 492 49 L 511 88 L 530 88 L 549 49 L 569 40 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 137 L 87 137 L 105 137 L 124 137 L 142 99 L 161 137 L 179 137 L 198 137 L 217 93 L 235 93 L 254 93 L 272 93 L 291 93 L 309 93 L 328 93 L 347 93 L 365 93 L 384 93 L 402 93 L 421 99 L 439 99 L 458 99 L 477 49 L 495 88 L 514 88 L 532 49 L 551 40 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 137 L 87 137 L 105 137 L 124 137 L 142 99 L 161 137 L 179 137 L 198 137 L 217 93 L 235 93 L 254 93 L 272 93 L 291 93 L 309 93 L 328 93 L 347 93 L 365 93 L 384 93 L 402 93 L 421 99 L 439 99 L 458 99 L 477 49 L 495 88 L 514 88 L 532 49 L 551 40 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="145" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="164" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="203" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="222" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="434" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="492" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="511" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="549" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="124" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="161" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="421" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="495" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="532" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,300원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
