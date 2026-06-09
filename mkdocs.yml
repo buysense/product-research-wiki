@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 말랑하니 유아용 흡착스피너 빙글빙글 3종세트: products/malanghani-baby-suction-spinner-3p.md
     - 캐스비 유아용 튼튼 티슈촉감놀이: products/casby-baby-durable-tissue-sensory-play.md
     - 오즈토이 쿠션볼 말랑 소프트 촉감 볼 9종: products/oztoy-cushionball-soft-touch-9pcs.md
     - 노블레빗 토끼 애착 인형: products/noble-rabbit-bunny-attachment-doll.md
