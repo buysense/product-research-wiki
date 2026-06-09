@@ -20,7 +20,7 @@ description: 유니프랜드 쿨 주름지 플리츠 7부는 봄부터 여름까
     "price": "11690",
     "url": "https://link.coupang.com/a/dFgwfhArYG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-15"
+    "priceValidUntil": "2026-06-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -83,9 +83,11 @@ description: 유니프랜드 쿨 주름지 플리츠 7부는 봄부터 여름까
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -94,24 +96,24 @@ description: 유니프랜드 쿨 주름지 플리츠 7부는 봄부터 여름까
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,000</text>
 
-    <path d="M 68 110 L 87 110 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 26 L 222 26 L 241 26 L 261 26 L 280 26 L 299 26 L 318 26 L 338 26 L 357 26 L 376 26 L 395 26 L 415 26 L 434 26 L 453 26 L 472 26 L 492 26 L 511 26 L 530 26 L 549 26 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 87 110 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 26 L 222 26 L 241 26 L 261 26 L 280 26 L 299 26 L 318 26 L 338 26 L 357 26 L 376 26 L 395 26 L 415 26 L 434 26 L 453 26 L 472 26 L 492 26 L 511 26 L 530 26 L 549 26 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 87 110 L 105 26 L 124 26 L 142 26 L 161 26 L 179 26 L 198 26 L 217 26 L 235 26 L 254 26 L 272 26 L 291 26 L 309 26 L 328 26 L 347 26 L 365 26 L 384 26 L 402 26 L 421 26 L 439 26 L 458 26 L 477 26 L 495 26 L 514 26 L 532 26 L 551 26 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 87 110 L 105 26 L 124 26 L 142 26 L 161 26 L 179 26 L 198 26 L 217 26 L 235 26 L 254 26 L 272 26 L 291 26 L 309 26 L 328 26 L 347 26 L 365 26 L 384 26 L 402 26 L 421 26 L 439 26 L 458 26 L 477 26 L 495 26 L 514 26 L 532 26 L 551 26 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="87" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="107" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,690원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
