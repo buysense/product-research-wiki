@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - BTS 흑설탕 호떡 오레오 방탄소년단 한정판 에디션: products/bts-black-sugar-hotteok-oreo-limited-edition.md
     - 한스킨 블랙헤드 클렌징 오일 PHA: products/hanskin-blackhead-cleansing-oil-pha.md
     - 스마이즈 그래핀모 칫솔 3.0: products/smaize-graphene-toothbrush-3-0.md
     - 말랑하니 유아용 흡착스피너 빙글빙글 3종세트: products/malanghani-baby-suction-spinner-3p.md
