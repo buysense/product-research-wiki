@@ -20,7 +20,7 @@ description: 타낫 모션 트랙 자켓은 뛰어난 활동성과 세련된 디
     "price": "182000",
     "url": "https://link.coupang.com/a/esJjdhhGXk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-17"
+    "priceValidUntil": "2026-06-18"
   }
 }
 </script>
