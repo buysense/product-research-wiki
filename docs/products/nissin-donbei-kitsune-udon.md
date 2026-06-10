@@ -74,6 +74,8 @@ description: 닛신 돈베이 키츠네 우동은 일본 현지의 맛을 집에
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -85,35 +87,35 @@ description: 닛신 돈베이 키츠네 우동은 일본 현지의 맛을 집에
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 103 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 38 L 211 38 L 229 38 L 247 38 L 265 38 L 283 38 L 301 38 L 319 26 L 337 26 L 355 63 L 373 63 L 391 63 L 409 63 L 427 63 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 137 L 570 69 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 103 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 38 L 211 38 L 229 38 L 247 38 L 265 38 L 283 38 L 301 38 L 319 26 L 337 26 L 355 63 L 373 63 L 391 63 L 409 63 L 427 63 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 137 L 570 69 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="38" r="4" fill="#fdba74"></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 38 L 194 38 L 211 38 L 229 38 L 247 38 L 265 38 L 283 38 L 301 26 L 319 26 L 337 63 L 355 63 L 373 63 L 391 63 L 409 63 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 137 L 552 69 L 570 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 38 L 194 38 L 211 38 L 229 38 L 247 38 L 265 38 L 283 38 L 301 26 L 319 26 L 337 63 L 355 63 L 373 63 L 391 63 L 409 63 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 137 L 552 69 L 570 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="63" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="63" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="63" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="63" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="516" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="43" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="43" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,860원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-11</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-12</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
