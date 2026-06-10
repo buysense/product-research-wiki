@@ -20,12 +20,12 @@ description: 홈잼 두꺼운 층간소음 매트는 2.6cm 두께로 아이 있�
     "price": "19030",
     "url": "https://link.coupang.com/a/dSHk40limq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-17"
+    "priceValidUntil": "2026-06-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 145,
+    "reviewCount": 146,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -71,9 +71,11 @@ description: 홈잼 두꺼운 층간소음 매트는 2.6cm 두께로 아이 있�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -82,26 +84,26 @@ description: 홈잼 두꺼운 층간소음 매트는 2.6cm 두께로 아이 있�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 43 L 93 43 L 118 43 L 142 43 L 167 79 L 192 79 L 217 79 L 241 79 L 266 79 L 291 79 L 316 79 L 340 79 L 365 79 L 390 79 L 415 79 L 439 79 L 464 79 L 489 79 L 514 117 L 538 117 L 563 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 43 L 93 43 L 118 43 L 142 43 L 167 79 L 192 79 L 217 79 L 241 79 L 266 79 L 291 79 L 316 79 L 340 79 L 365 79 L 390 79 L 415 79 L 439 79 L 464 79 L 489 79 L 514 117 L 538 117 L 563 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 43 L 92 43 L 115 43 L 139 43 L 163 79 L 186 79 L 210 79 L 233 79 L 257 79 L 281 79 L 304 79 L 328 79 L 352 79 L 375 79 L 399 79 L 423 79 L 446 79 L 470 79 L 493 117 L 517 117 L 541 117 L 564 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 43 L 92 43 L 115 43 L 139 43 L 163 79 L 186 79 L 210 79 L 233 79 L 257 79 L 281 79 L 304 79 L 328 79 L 352 79 L 375 79 L 399 79 L 423 79 L 446 79 L 470 79 L 493 117 L 517 117 L 541 117 L 564 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="167" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="489" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="139" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="163" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="470" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="117" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,030원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -109,7 +111,7 @@ description: 홈잼 두꺼운 층간소음 매트는 2.6cm 두께로 아이 있�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,030원 · 별점 4.8 · 리뷰 145개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,030원 · 별점 4.8 · 리뷰 146개</span>
     <a href="https://link.coupang.com/a/dSHk40limq" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -185,7 +187,7 @@ A. 주로 아이들이 활동하는 거실, 아이 방, 놀이방 등 층간소�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,030원 · 별점 4.8 · 리뷰 145개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,030원 · 별점 4.8 · 리뷰 146개</span>
     <a href="https://link.coupang.com/a/dSHk40limq" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
