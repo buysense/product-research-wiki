@@ -20,7 +20,7 @@ description: 방탄소년단 한정판으로 출시된 흑설탕 호떡 맛 오�
     "price": "31900",
     "url": "https://link.coupang.com/a/esHKE7nuSa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-17"
+    "priceValidUntil": "2026-06-18"
   }
 }
 </script>
