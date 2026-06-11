@@ -19,7 +19,7 @@ description: 그레이트북스 안녕 마음아 (전 47종)는 2세~4세 유아
     "price": "355000",
     "url": "https://link.coupang.com/a/dTZNpTpBhQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-18"
+    "priceValidUntil": "2026-06-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -70,9 +70,11 @@ description: 그레이트북스 안녕 마음아 (전 47종)는 2세~4세 유아
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -81,22 +83,22 @@ description: 그레이트북스 안녕 마음아 (전 47종)는 2세~4세 유아
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">355,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">354,900</text>
 
-    <path d="M 68 102 L 93 102 L 118 102 L 142 102 L 167 102 L 192 102 L 217 102 L 241 102 L 266 102 L 291 102 L 316 102 L 340 102 L 365 102 L 390 102 L 415 102 L 439 102 L 464 102 L 489 102 L 514 102 L 538 102 L 563 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 93 102 L 118 102 L 142 102 L 167 102 L 192 102 L 217 102 L 241 102 L 266 102 L 291 102 L 316 102 L 340 102 L 365 102 L 390 102 L 415 102 L 439 102 L 464 102 L 489 102 L 514 102 L 538 102 L 563 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 92 102 L 115 102 L 139 102 L 163 102 L 186 102 L 210 102 L 233 102 L 257 102 L 281 102 L 304 102 L 328 102 L 352 102 L 375 102 L 399 102 L 423 102 L 446 102 L 470 102 L 493 102 L 517 102 L 541 102 L 564 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 92 102 L 115 102 L 139 102 L 163 102 L 186 102 L 210 102 L 233 102 L 257 102 L 281 102 L 304 102 L 328 102 L 352 102 L 375 102 L 399 102 L 423 102 L 446 102 L 470 102 L 493 102 L 517 102 L 541 102 L 564 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">355,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
