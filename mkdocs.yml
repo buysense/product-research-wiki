@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "아토팜 판테놀 크림, 100ml, 1개": products/atoparm-panthenol-cream-100ml.md
     - "아이오페 레티놀 슈퍼 바운스 세럼, 50ml, 1개": products/iope-retinol-super-bounce-serum.md
     - "디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너, 240ml, 1개": products/theordinary-glycolic-acid-7-toner.md
     - "라로슈포제 뉴 시카플라스트 밤 B5+ 크림, 40ml, 1개": products/larocheposay-cicaplast-b5-cream-skin-barrier.md
