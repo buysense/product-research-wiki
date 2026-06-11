@@ -20,7 +20,7 @@ description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 
     "price": "66390",
     "url": "https://link.coupang.com/a/euwOqLC9xk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-18"
+    "priceValidUntil": "2026-06-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
