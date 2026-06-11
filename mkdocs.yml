@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너, 240ml, 1개": products/theordinary-glycolic-acid-7-toner.md
     - "라로슈포제 뉴 시카플라스트 밤 B5+ 크림, 40ml, 1개": products/larocheposay-cicaplast-b5-cream-skin-barrier.md
     - 솔리앤 문어 괄사 지압 전신 마사지기: products/solian-octopus-guasa-body-massager.md
     - 멜리사 토박스 젤리슈즈 우먼 아우라 베이직 플랫: products/melissa-toebox-jellyshoes-aura-basic-flat.md
