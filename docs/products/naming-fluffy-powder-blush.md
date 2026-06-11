@@ -20,12 +20,12 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
     "price": "12400",
     "url": "https://link.coupang.com/a/ejlaj37N3A",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-18"
+    "priceValidUntil": "2026-06-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 818,
+    "reviewCount": 819,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,9 +42,11 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 8개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -53,19 +55,20 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,400</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,300</text>
 
-    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 102 L 501 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 102 L 501 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,400원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -73,7 +76,7 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,400원 · 별점 4.8 · 리뷰 818개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,400원 · 별점 4.8 · 리뷰 819개</span>
     <a href="https://link.coupang.com/a/ejlaj37N3A" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -155,7 +158,7 @@ A. 자연스러운 데일리 메이크업을 완성하고 싶을 때, 피부에 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,400원 · 별점 4.8 · 리뷰 818개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,400원 · 별점 4.8 · 리뷰 819개</span>
     <a href="https://link.coupang.com/a/ejlaj37N3A" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
