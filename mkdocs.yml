@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 솔리앤 문어 괄사 지압 전신 마사지기: products/solian-octopus-guasa-body-massager.md
     - 멜리사 토박스 젤리슈즈 우먼 아우라 베이직 플랫: products/melissa-toebox-jellyshoes-aura-basic-flat.md
     - 타낫 모션 트랙 자켓: products/tanat-motion-track-jacket.md
     - BTS 흑설탕 호떡 오레오 방탄소년단 한정판 에디션: products/bts-black-sugar-hotteok-oreo-limited-edition.md
