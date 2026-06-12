@@ -20,12 +20,12 @@ description: 이베아 두꺼운 퍼즐매트는 2.5cm 두께로 층간소음 �
     "price": "21500",
     "url": "https://link.coupang.com/a/dTP2aeVEho",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-19"
+    "priceValidUntil": "2026-06-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 303,
+    "reviewCount": 308,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -73,9 +73,11 @@ description: 이베아 두꺼운 퍼즐매트는 2.5cm 두께로 층간소음 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -84,23 +86,23 @@ description: 이베아 두꺼운 퍼즐매트는 2.5cm 두께로 층간소음 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
 
-    <path d="M 68 41 L 92 140 L 115 140 L 139 140 L 163 140 L 186 140 L 210 140 L 233 140 L 257 140 L 281 140 L 304 140 L 328 140 L 352 140 L 375 140 L 399 140 L 423 140 L 446 140 L 470 140 L 493 140 L 517 140 L 541 140 L 564 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 41 L 92 140 L 115 140 L 139 140 L 163 140 L 186 140 L 210 140 L 233 140 L 257 140 L 281 140 L 304 140 L 328 140 L 352 140 L 375 140 L 399 140 L 423 140 L 446 140 L 470 140 L 493 140 L 517 140 L 541 140 L 564 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 41 L 91 140 L 113 140 L 136 140 L 158 140 L 181 140 L 204 140 L 226 140 L 249 140 L 271 140 L 294 140 L 317 140 L 339 140 L 362 140 L 385 140 L 407 140 L 430 140 L 452 140 L 475 140 L 498 140 L 520 140 L 543 140 L 565 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 41 L 91 140 L 113 140 L 136 140 L 158 140 L 181 140 L 204 140 L 226 140 L 249 140 L 271 140 L 294 140 L 317 140 L 339 140 L 362 140 L 385 140 L 407 140 L 430 140 L 452 140 L 475 140 L 498 140 L 520 140 L 543 140 L 565 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="91" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -108,7 +110,7 @@ description: 이베아 두꺼운 퍼즐매트는 2.5cm 두께로 층간소음 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,500원 · 별점 4.7 · 리뷰 303개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,500원 · 별점 4.7 · 리뷰 308개</span>
     <a href="https://link.coupang.com/a/dTP2aeVEho" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -189,7 +191,7 @@ A. 퍼즐 형태로 디자인되어 누구나 쉽게 끼워 맞춰 조립할 수
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,500원 · 별점 4.7 · 리뷰 303개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,500원 · 별점 4.7 · 리뷰 308개</span>
     <a href="https://link.coupang.com/a/dTP2aeVEho" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
