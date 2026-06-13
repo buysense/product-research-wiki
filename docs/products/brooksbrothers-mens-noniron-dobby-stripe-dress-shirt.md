@@ -20,7 +20,7 @@ description: 브룩스브라더스 남성용 논아이론 도비 스트라이프
     "price": "79000",
     "url": "https://link.coupang.com/a/dZiFMN1R8e",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-20"
+    "priceValidUntil": "2026-06-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -69,9 +69,11 @@ description: 브룩스브라더스 남성용 논아이론 도비 스트라이프
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -80,26 +82,26 @@ description: 브룩스브라더스 남성용 논아이론 도비 스트라이프
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">75,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">70,000</text>
 
-    <path d="M 68 41 L 94 41 L 120 41 L 146 41 L 172 41 L 198 41 L 224 41 L 250 41 L 276 41 L 302 41 L 328 161 L 354 161 L 380 161 L 406 161 L 432 161 L 458 41 L 484 41 L 510 41 L 536 41 L 562 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 41 L 94 41 L 120 41 L 146 41 L 172 41 L 198 41 L 224 41 L 250 41 L 276 41 L 302 41 L 328 161 L 354 161 L 380 161 L 406 161 L 432 161 L 458 41 L 484 41 L 510 41 L 536 41 L 562 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 41 L 93 41 L 118 41 L 142 41 L 167 41 L 192 41 L 217 41 L 241 41 L 266 41 L 291 41 L 316 161 L 340 161 L 365 161 L 390 161 L 415 161 L 439 41 L 464 41 L 489 41 L 514 41 L 538 41 L 563 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 41 L 93 41 L 118 41 L 142 41 L 167 41 L 192 41 L 217 41 L 241 41 L 266 41 L 291 41 L 316 161 L 340 161 L 365 161 L 390 161 L 415 161 L 439 41 L 464 41 L 489 41 L 514 41 L 538 41 L 563 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="302" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="432" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="316" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="41" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">79,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
