@@ -20,12 +20,12 @@ description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화
     "price": "539000",
     "url": "https://link.coupang.com/a/dXaW80UbxA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-20"
+    "priceValidUntil": "2026-06-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 49,
+    "reviewCount": 50,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -71,9 +71,11 @@ description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -82,30 +84,30 @@ description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">500,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">450,000</text>
 
-    <path d="M 68 104 L 93 104 L 118 104 L 142 104 L 167 104 L 192 104 L 217 104 L 241 104 L 266 104 L 291 104 L 316 26 L 340 26 L 365 26 L 390 26 L 415 26 L 439 43 L 464 43 L 489 26 L 514 26 L 538 26 L 563 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 104 L 93 104 L 118 104 L 142 104 L 167 104 L 192 104 L 217 104 L 241 104 L 266 104 L 291 104 L 316 26 L 340 26 L 365 26 L 390 26 L 415 26 L 439 43 L 464 43 L 489 26 L 514 26 L 538 26 L 563 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 104 L 92 104 L 115 104 L 139 104 L 163 104 L 186 104 L 210 104 L 233 104 L 257 104 L 281 104 L 304 26 L 328 26 L 352 26 L 375 26 L 399 26 L 423 43 L 446 43 L 470 26 L 493 26 L 517 26 L 541 43 L 564 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 104 L 92 104 L 115 104 L 139 104 L 163 104 L 186 104 L 210 104 L 233 104 L 257 104 L 281 104 L 304 26 L 328 26 L 352 26 L 375 26 L 399 26 L 423 43 L 446 43 L 470 26 L 493 26 L 517 26 L 541 43 L 564 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="316" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="464" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="489" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="538" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="563" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="281" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="399" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="423" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="470" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="517" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="541" cy="43" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="43" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">539,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -113,7 +115,7 @@ description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 539,000원 · 별점 4.8 · 리뷰 49개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 539,000원 · 별점 4.8 · 리뷰 50개</span>
     <a href="https://link.coupang.com/a/dXaW80UbxA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -189,7 +191,7 @@ A. 이 제품은 별도의 도구 없이 손으로 조립 가능한 설계로 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 539,000원 · 별점 4.8 · 리뷰 49개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 539,000원 · 별점 4.8 · 리뷰 50개</span>
     <a href="https://link.coupang.com/a/dXaW80UbxA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
