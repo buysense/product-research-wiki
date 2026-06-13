@@ -19,7 +19,7 @@ description: 초록매실 1.5L는 칼로리 부담 없이 익숙한 매실 맛�
     "price": "20600",
     "url": "https://link.coupang.com/a/ex7okt",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-20"
+    "priceValidUntil": "2026-06-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -109,6 +109,8 @@ description: 초록매실 1.5L는 칼로리 부담 없이 익숙한 매실 맛�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -120,29 +122,30 @@ description: 초록매실 1.5L는 칼로리 부담 없이 익숙한 매실 맛�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 43 L 86 43 L 104 43 L 122 43 L 140 43 L 158 107 L 176 107 L 194 107 L 211 107 L 229 107 L 247 107 L 265 107 L 283 107 L 301 107 L 319 93 L 337 93 L 355 93 L 373 93 L 391 107 L 409 107 L 427 107 L 445 107 L 462 107 L 480 107 L 498 107 L 516 107 L 534 107 L 552 107 L 570 107 L 588 93 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 43 L 86 43 L 104 43 L 122 43 L 140 43 L 158 107 L 176 107 L 194 107 L 211 107 L 229 107 L 247 107 L 265 107 L 283 107 L 301 107 L 319 93 L 337 93 L 355 93 L 373 93 L 391 107 L 409 107 L 427 107 L 445 107 L 462 107 L 480 107 L 498 107 L 516 107 L 534 107 L 552 107 L 570 107 L 588 93" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 43 L 86 43 L 104 43 L 122 43 L 140 107 L 158 107 L 176 107 L 194 107 L 211 107 L 229 107 L 247 107 L 265 107 L 283 107 L 301 93 L 319 93 L 337 93 L 355 93 L 373 107 L 391 107 L 409 107 L 427 107 L 445 107 L 462 107 L 480 107 L 498 107 L 516 107 L 534 107 L 552 107 L 570 93 L 588 93 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 43 L 86 43 L 104 43 L 122 43 L 140 107 L 158 107 L 176 107 L 194 107 L 211 107 L 229 107 L 247 107 L 265 107 L 283 107 L 301 93 L 319 93 L 337 93 L 355 93 L 373 107 L 391 107 L 409 107 L 427 107 L 445 107 L 462 107 L 480 107 L 498 107 L 516 107 L 534 107 L 552 107 L 570 93 L 588 93" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="93" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="93" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="81" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">20,600원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
