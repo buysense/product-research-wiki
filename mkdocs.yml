@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 옳곡 100% 국내산 땅콩버터 스무스: products/olgok-korean-peanut-butter-smooth.md
     - 크록스 클래식 발레 블랙 플랫슈즈 여성 샌들: products/crocs-classic-ballet-black-flats-women.md
     - 농심 육포깡 매콤한맛: products/nongshim-yukpokkang-spicy-flavor.md
     - "아토팜 판테놀 크림, 100ml, 1개": products/atoparm-panthenol-cream-100ml.md
