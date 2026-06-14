@@ -20,12 +20,12 @@ description: 닥터노아 미세플라스틱 안심 대나무 유아 아기 칫�
     "price": "19800",
     "url": "https://link.coupang.com/a/d8QfJURk3E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-21"
+    "priceValidUntil": "2026-06-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 5973,
+    "reviewCount": 5987,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -60,9 +60,11 @@ description: 닥터노아 미세플라스틱 안심 대나무 유아 아기 칫�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -71,25 +73,25 @@ description: 닥터노아 미세플라스틱 안심 대나무 유아 아기 칫�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">19,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
 
-    <path d="M 68 110 L 103 110 L 137 110 L 172 26 L 207 41 L 241 41 L 276 41 L 311 41 L 345 41 L 380 41 L 415 41 L 449 41 L 484 41 L 519 41 L 553 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 103 110 L 137 110 L 172 26 L 207 41 L 241 41 L 276 41 L 311 41 L 345 41 L 380 41 L 415 41 L 449 41 L 484 41 L 519 41 L 553 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 101 110 L 133 110 L 166 26 L 198 41 L 231 41 L 263 41 L 296 41 L 328 41 L 361 41 L 393 41 L 426 41 L 458 41 L 491 41 L 523 41 L 556 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 101 110 L 133 110 L 166 26 L 198 41 L 231 41 L 263 41 L 296 41 L 328 41 L 361 41 L 393 41 L 426 41 L 458 41 L 491 41 L 523 41 L 556 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="137" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="207" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="166" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="41" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -97,7 +99,7 @@ description: 닥터노아 미세플라스틱 안심 대나무 유아 아기 칫�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,800원 · 별점 4.9 · 리뷰 5,973개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,800원 · 별점 4.9 · 리뷰 5,987개</span>
     <a href="https://link.coupang.com/a/d8QfJURk3E" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -189,7 +191,7 @@ A. 이 칫솔은 아기가 양치 중 칫솔을 물거나 씹는 습관이 있�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,800원 · 별점 4.9 · 리뷰 5,973개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,800원 · 별점 4.9 · 리뷰 5,987개</span>
     <a href="https://link.coupang.com/a/d8QfJURk3E" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
