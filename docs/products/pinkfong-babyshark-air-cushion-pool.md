@@ -20,7 +20,7 @@ description: 핑크퐁 아기상어 에어쿠션 풀은 귀여운 디자인과 �
     "price": "42000",
     "url": "https://link.coupang.com/a/dSHPhWwHfw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-21"
+    "priceValidUntil": "2026-06-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -79,9 +79,11 @@ description: 핑크퐁 아기상어 에어쿠션 풀은 귀여운 디자인과 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -90,22 +92,22 @@ description: 핑크퐁 아기상어 에어쿠션 풀은 귀여운 디자인과 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">42,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">41,900</text>
 
-    <path d="M 68 102 L 89 102 L 110 102 L 130 102 L 151 102 L 172 102 L 193 102 L 214 102 L 234 102 L 255 102 L 276 102 L 297 102 L 318 102 L 338 102 L 359 102 L 380 102 L 401 102 L 422 102 L 442 102 L 463 102 L 484 102 L 505 102 L 526 102 L 546 102 L 567 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 89 102 L 110 102 L 130 102 L 151 102 L 172 102 L 193 102 L 214 102 L 234 102 L 255 102 L 276 102 L 297 102 L 318 102 L 338 102 L 359 102 L 380 102 L 401 102 L 422 102 L 442 102 L 463 102 L 484 102 L 505 102 L 526 102 L 546 102 L 567 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 88 102 L 108 102 L 128 102 L 148 102 L 168 102 L 188 102 L 208 102 L 228 102 L 248 102 L 268 102 L 288 102 L 308 102 L 328 102 L 348 102 L 368 102 L 388 102 L 408 102 L 428 102 L 448 102 L 468 102 L 488 102 L 508 102 L 528 102 L 548 102 L 568 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 88 102 L 108 102 L 128 102 L 148 102 L 168 102 L 188 102 L 208 102 L 228 102 L 248 102 L 268 102 L 288 102 L 308 102 L 328 102 L 348 102 L 368 102 L 388 102 L 408 102 L 428 102 L 448 102 L 468 102 L 488 102 L 508 102 L 528 102 L 548 102 L 568 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">42,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
