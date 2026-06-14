@@ -19,7 +19,7 @@ description: 국민 튤립 사운드북 전3종 세트는 3개월 이상 영유�
     "price": "49950",
     "url": "https://link.coupang.com/a/dVNtCwXShg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-21"
+    "priceValidUntil": "2026-06-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -74,9 +74,11 @@ description: 국민 튤립 사운드북 전3종 세트는 3개월 이상 영유�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -85,22 +87,22 @@ description: 국민 튤립 사운드북 전3종 세트는 3개월 이상 영유�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">49,900</text>
 
-    <path d="M 68 140 L 91 140 L 113 140 L 136 140 L 158 140 L 181 140 L 204 140 L 226 140 L 249 140 L 271 140 L 294 140 L 317 140 L 339 140 L 362 140 L 385 140 L 407 140 L 430 140 L 452 140 L 475 140 L 498 140 L 520 140 L 543 140 L 565 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 91 140 L 113 140 L 136 140 L 158 140 L 181 140 L 204 140 L 226 140 L 249 140 L 271 140 L 294 140 L 317 140 L 339 140 L 362 140 L 385 140 L 407 140 L 430 140 L 452 140 L 475 140 L 498 140 L 520 140 L 543 140 L 565 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 140 L 90 140 L 111 140 L 133 140 L 155 140 L 176 140 L 198 140 L 220 140 L 241 140 L 263 140 L 285 140 L 306 140 L 328 140 L 350 140 L 371 140 L 393 140 L 415 140 L 436 140 L 458 140 L 480 140 L 501 140 L 523 140 L 545 140 L 566 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 90 140 L 111 140 L 133 140 L 155 140 L 176 140 L 198 140 L 220 140 L 241 140 L 263 140 L 285 140 L 306 140 L 328 140 L 350 140 L 371 140 L 393 140 L 415 140 L 436 140 L 458 140 L 480 140 L 501 140 L 523 140 L 545 140 L 566 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,950원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
