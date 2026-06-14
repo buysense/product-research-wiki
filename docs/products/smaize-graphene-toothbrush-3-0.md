@@ -20,7 +20,7 @@ description: 스마이즈 그래핀모 칫솔 3.0은 신소재 그래핀모와 �
     "price": "32200",
     "url": "https://link.coupang.com/a/erGNsnaPDg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-21"
+    "priceValidUntil": "2026-06-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -40,9 +40,11 @@ description: 스마이즈 그래핀모 칫솔 3.0은 신소재 그래핀모와 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -51,20 +53,21 @@ description: 스마이즈 그래핀모 칫솔 3.0은 신소재 그래핀모와 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 44 L 172 44 L 276 161 L 380 161 L 484 161 L 588 161 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 44 L 172 44 L 276 161 L 380 161 L 484 161 L 588 161" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 44 L 155 44 L 241 161 L 328 161 L 415 161 L 501 161 L 588 161 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 44 L 155 44 L 241 161 L 328 161 L 415 161 L 501 161 L 588 161" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="161" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="161" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="149" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">32,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
