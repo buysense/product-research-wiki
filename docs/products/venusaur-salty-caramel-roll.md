@@ -19,13 +19,15 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
     "price": "8430",
     "url": "https://link.coupang.com/a/eDegom",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-21"
+    "priceValidUntil": "2026-06-22"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-05 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -110,39 +112,39 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 110 L 158 112 L 176 112 L 194 113 L 211 113 L 229 113 L 247 113 L 265 113 L 283 113 L 301 129 L 319 157 L 337 157 L 355 157 L 373 157 L 391 132 L 409 140 L 427 148 L 445 145 L 462 145 L 480 145 L 498 145 L 516 152 L 534 152 L 552 145 L 570 145 L 588 145 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 110 L 158 112 L 176 112 L 194 113 L 211 113 L 229 113 L 247 113 L 265 113 L 283 113 L 301 129 L 319 157 L 337 157 L 355 157 L 373 157 L 391 132 L 409 140 L 427 148 L 445 145 L 462 145 L 480 145 L 498 145 L 516 152 L 534 152 L 552 145 L 570 145 L 588 145" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 86 72 L 104 72 L 122 110 L 140 112 L 158 112 L 176 113 L 194 113 L 211 113 L 229 113 L 247 113 L 265 113 L 283 129 L 301 157 L 319 157 L 337 157 L 355 157 L 373 132 L 391 140 L 409 148 L 427 145 L 445 145 L 462 145 L 480 145 L 498 152 L 516 152 L 534 145 L 552 145 L 570 145 L 588 145 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 86 72 L 104 72 L 122 110 L 140 112 L 158 112 L 176 113 L 194 113 L 211 113 L 229 113 L 247 113 L 265 113 L 283 129 L 301 157 L 319 157 L 337 157 L 355 157 L 373 132 L 391 140 L 409 148 L 427 145 L 445 145 L 462 145 L 480 145 L 498 152 L 516 152 L 534 145 L 552 145 L 570 145 L 588 145" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="112" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="152" r="4" fill="#fdba74"></circle>
     <circle cx="516" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="145" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="145" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="133" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,430원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-15</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
