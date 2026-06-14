@@ -19,7 +19,7 @@ description: ZARA 깅엄 체크 코튼 테이블보는 클래식한 패턴과 �
     "price": "89600",
     "url": "https://link.coupang.com/a/d7BLbUKq3o",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-21"
+    "priceValidUntil": "2026-06-22"
   }
 }
 </script>
@@ -54,9 +54,11 @@ description: ZARA 깅엄 체크 코튼 테이블보는 클래식한 패턴과 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -65,24 +67,24 @@ description: ZARA 깅엄 체크 코튼 테이블보는 클래식한 패턴과 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">70,000</text>
 
-    <path d="M 68 166 L 101 166 L 133 166 L 166 166 L 198 166 L 231 166 L 263 166 L 296 166 L 328 166 L 361 166 L 393 166 L 426 166 L 458 166 L 491 166 L 523 29 L 556 29 L 588 29 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 166 L 101 166 L 133 166 L 166 166 L 198 166 L 231 166 L 263 166 L 296 166 L 328 166 L 361 166 L 393 166 L 426 166 L 458 166 L 491 166 L 523 29 L 556 29 L 588 29" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 166 L 99 166 L 129 166 L 160 166 L 190 166 L 221 166 L 252 166 L 282 166 L 313 166 L 343 166 L 374 166 L 404 166 L 435 166 L 466 166 L 496 29 L 527 29 L 557 29 L 588 29 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 166 L 99 166 L 129 166 L 160 166 L 190 166 L 221 166 L 252 166 L 282 166 L 313 166 L 343 166 L 374 166 L 404 166 L 435 166 L 466 166 L 496 29 L 527 29 L 557 29 L 588 29" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="491" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="466" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="496" cy="29" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="29" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="17" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">89,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
