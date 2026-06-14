@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 슈콤마보니 Ribbon jelly sandal: products/suecomma-bonnie-ribbon-jelly-sandal.md
     - 로열스테디 초경량 양산: products/royalsteady-ultralight-parasol.md
     - 칼디 포션 커피: products/kaldi-portion-coffee.md
     - 옳곡 땅콩크런치 그래놀라 시리얼: products/olgok-peanut-crunch-granola-cereal.md
