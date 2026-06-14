@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 칼디 포션 커피: products/kaldi-portion-coffee.md
     - 옳곡 땅콩크런치 그래놀라 시리얼: products/olgok-peanut-crunch-granola-cereal.md
     - 옳곡 100% 국내산 땅콩버터 스무스: products/olgok-korean-peanut-butter-smooth.md
     - 크록스 클래식 발레 블랙 플랫슈즈 여성 샌들: products/crocs-classic-ballet-black-flats-women.md
