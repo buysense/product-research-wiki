@@ -84,6 +84,8 @@ description: 서울우유 아침에주스 사과는 익숙하고 상큼한 맛�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -91,31 +93,32 @@ description: 서울우유 아침에주스 사과는 익숙하고 상큼한 맛�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">21,500</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 175 L 86 175 L 104 175 L 122 175 L 140 175 L 158 175 L 176 175 L 194 175 L 211 175 L 229 175 L 247 175 L 265 175 L 283 175 L 301 175 L 319 175 L 337 175 L 355 175 L 373 175 L 391 175 L 409 175 L 427 175 L 445 175 L 462 175 L 480 175 L 498 148 L 516 93 L 534 66 L 552 66 L 570 66 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 175 L 86 175 L 104 175 L 122 175 L 140 175 L 158 175 L 176 175 L 194 175 L 211 175 L 229 175 L 247 175 L 265 175 L 283 175 L 301 175 L 319 175 L 337 175 L 355 175 L 373 175 L 391 175 L 409 175 L 427 175 L 445 175 L 462 175 L 480 175 L 498 148 L 516 93 L 534 66 L 552 66 L 570 66 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="175" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="175" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="38" r="5" fill="#ea580c"></circle>
+    <path d="M 68 138 L 86 138 L 104 138 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 138 L 355 138 L 373 138 L 391 138 L 409 138 L 427 138 L 445 138 L 462 138 L 480 125 L 498 97 L 516 84 L 534 84 L 552 84 L 570 70 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 138 L 86 138 L 104 138 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 138 L 355 138 L 373 138 L 391 138 L 409 138 L 427 138 L 445 138 L 462 138 L 480 125 L 498 97 L 516 84 L 534 84 L 552 84 L 570 70 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="97" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="56" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="26" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,420원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,600원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
