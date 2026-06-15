@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "나우푸드 실리마린 밀크 시슬 추출물 300mg 베지 캡슐 (200정, 1개)": products/nowfoods-silymarin-milk-thistle-extract-300mg.md
     - "IQ베이비: 손감각 발달토이": products/iqbaby-hand-sensory-development-toy.md
     - 맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구: products/manhattantoy-whistleball-teether.md
     - Greenlife 딸랑이 + 치발기 세트: products/greenlife-rattle-teether-set.md
