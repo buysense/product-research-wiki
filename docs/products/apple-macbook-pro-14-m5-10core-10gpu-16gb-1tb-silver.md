@@ -20,12 +20,12 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
     "price": "2466690",
     "url": "https://link.coupang.com/a/dYFmkgvIZM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-22"
+    "priceValidUntil": "2026-06-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 929,
+    "reviewCount": 939,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -73,9 +73,11 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -84,38 +86,38 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">2,450,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">2,400,000</text>
 
-    <path d="M 68 78 L 92 78 L 115 78 L 139 78 L 163 136 L 186 139 L 210 138 L 233 139 L 257 139 L 281 139 L 304 139 L 328 139 L 352 139 L 375 137 L 399 64 L 423 78 L 446 77 L 470 77 L 493 77 L 517 77 L 541 77 L 564 77 L 588 77 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 78 L 92 78 L 115 78 L 139 78 L 163 136 L 186 139 L 210 138 L 233 139 L 257 139 L 281 139 L 304 139 L 328 139 L 352 139 L 375 137 L 399 64 L 423 78 L 446 77 L 470 77 L 493 77 L 517 77 L 541 77 L 564 77 L 588 77" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 78 L 91 78 L 113 78 L 136 78 L 158 136 L 181 139 L 204 138 L 226 139 L 249 139 L 271 139 L 294 139 L 317 139 L 339 139 L 362 137 L 385 64 L 407 78 L 430 77 L 452 77 L 475 77 L 498 77 L 520 77 L 543 77 L 565 77 L 588 77 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 78 L 91 78 L 113 78 L 136 78 L 158 136 L 181 139 L 204 138 L 226 139 L 249 139 L 271 139 L 294 139 L 317 139 L 339 139 L 362 137 L 385 64 L 407 78 L 430 77 L 452 77 L 475 77 L 498 77 L 520 77 L 543 77 L 565 77 L 588 77" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="139" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="281" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="423" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="77" r="4" fill="#fdba74"></circle>
+    <circle cx="91" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="136" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="181" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="204" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="226" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="249" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="271" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="294" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="317" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="339" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="385" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="407" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="430" cy="77" r="4" fill="#fdba74"></circle>
+    <circle cx="452" cy="77" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="77" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="65" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,466,690원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -123,7 +125,7 @@ description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,466,690원 · 별점 4.9 · 리뷰 929개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,466,690원 · 별점 4.9 · 리뷰 939개</span>
     <a href="https://link.coupang.com/a/dYFmkgvIZM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -216,7 +218,7 @@ A. M5 Pro 칩부터는 최대 3대의 외부 모니터 연결을 공식적으로
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,466,690원 · 별점 4.9 · 리뷰 929개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,466,690원 · 별점 4.9 · 리뷰 939개</span>
     <a href="https://link.coupang.com/a/dYFmkgvIZM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
