@@ -20,7 +20,7 @@ description: 돗투돗 유모차 안전바 벨트 커버는 아이의 위생과 
     "price": "26900",
     "url": "https://link.coupang.com/a/d5kyjbRvzg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-22"
+    "priceValidUntil": "2026-06-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -66,9 +66,11 @@ description: 돗투돗 유모차 안전바 벨트 커버는 아이의 위생과 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -77,22 +79,22 @@ description: 돗투돗 유모차 안전바 벨트 커버는 아이의 위생과 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,900</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">26,800</text>
 
-    <path d="M 68 102 L 97 102 L 126 102 L 155 102 L 184 102 L 212 102 L 241 102 L 270 102 L 299 102 L 328 102 L 357 102 L 386 102 L 415 102 L 444 102 L 472 102 L 501 102 L 530 102 L 559 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 97 102 L 126 102 L 155 102 L 184 102 L 212 102 L 241 102 L 270 102 L 299 102 L 328 102 L 357 102 L 386 102 L 415 102 L 444 102 L 472 102 L 501 102 L 530 102 L 559 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 95 102 L 123 102 L 150 102 L 177 102 L 205 102 L 232 102 L 260 102 L 287 102 L 314 102 L 342 102 L 369 102 L 396 102 L 424 102 L 451 102 L 479 102 L 506 102 L 533 102 L 561 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 95 102 L 123 102 L 150 102 L 177 102 L 205 102 L 232 102 L 260 102 L 287 102 L 314 102 L 342 102 L 369 102 L 396 102 L 424 102 L 451 102 L 479 102 L 506 102 L 533 102 L 561 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">26,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
