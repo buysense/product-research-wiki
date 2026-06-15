@@ -19,7 +19,7 @@ description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일
     "price": "220800",
     "url": "https://link.coupang.com/a/eADAv6Yvfg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-22"
+    "priceValidUntil": "2026-06-23"
   }
 }
 </script>
