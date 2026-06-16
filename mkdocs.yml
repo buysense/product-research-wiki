@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - SETUP-EXE NAPOLEON HIGH-NECK JACKET: products/setup-exe-napoleon-high-neck-jacket.md
     - "GNC 밀크시슬 1300mg 타블렛 (120정, 3개)": products/gnc-milk-thistle-1300mg-tablet.md
     - 해피키드 회전하는 물고기: products/happykid-rotating-fish-toy.md
     - 제임스펄스 남성용 크루넥 기본 반팔티셔츠: products/jamesperse-mens-crewneck-basic-tshirt.md
