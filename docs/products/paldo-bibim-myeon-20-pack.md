@@ -20,7 +20,7 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
     "price": "21790",
     "url": "https://link.coupang.com/a/evtA6l",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-23"
+    "priceValidUntil": "2026-06-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -119,6 +119,8 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -126,48 +128,48 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 128 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 128 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="128" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <path d="M 68 81 L 86 81 L 104 81 L 122 81 L 140 81 L 158 104 L 176 104 L 194 104 L 211 104 L 229 104 L 247 104 L 265 104 L 283 87 L 301 87 L 319 104 L 337 104 L 355 102 L 373 102 L 391 133 L 409 134 L 427 171 L 445 98 L 462 134 L 480 134 L 498 148 L 516 142 L 534 174 L 552 171 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 81 L 86 81 L 104 81 L 122 81 L 140 81 L 158 104 L 176 104 L 194 104 L 211 104 L 229 104 L 247 104 L 265 104 L 283 87 L 301 87 L 319 104 L 337 104 L 355 102 L 373 102 L 391 133 L 409 134 L 427 171 L 445 98 L 462 134 L 480 134 L 498 148 L 516 142 L 534 174 L 552 171 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="133" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="98" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,790원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,790원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
