@@ -20,7 +20,7 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
     "price": "217000",
     "url": "https://link.coupang.com/a/er2k9H",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-23"
+    "priceValidUntil": "2026-06-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -114,6 +114,8 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -125,38 +127,39 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">220,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">210,000</text>
 
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 26 L 176 26 L 194 26 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 26 L 319 125 L 337 125 L 355 26 L 373 26 L 391 125 L 409 125 L 427 26 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 26 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 26 L 176 26 L 194 26 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 26 L 319 125 L 337 125 L 355 26 L 373 26 L 391 125 L 409 125 L 427 26 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 26 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 26 L 158 26 L 176 26 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 26 L 301 125 L 319 125 L 337 26 L 355 26 L 373 125 L 391 125 L 409 26 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 26 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 26 L 158 26 L 176 26 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 26 L 301 125 L 319 125 L 337 26 L 355 26 L 373 125 L 391 125 L 409 26 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 26 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="391" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">217,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
