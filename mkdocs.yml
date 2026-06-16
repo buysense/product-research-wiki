@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 해피키드 회전하는 물고기: products/happykid-rotating-fish-toy.md
     - 제임스펄스 남성용 크루넥 기본 반팔티셔츠: products/jamesperse-mens-crewneck-basic-tshirt.md
     - "나우푸드 실리마린 밀크 시슬 추출물 300mg 베지 캡슐 (200정, 1개)": products/nowfoods-silymarin-milk-thistle-extract-300mg.md
     - "IQ베이비: 손감각 발달토이": products/iqbaby-hand-sensory-development-toy.md
