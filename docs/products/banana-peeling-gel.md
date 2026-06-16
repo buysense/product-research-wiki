@@ -20,7 +20,7 @@ description: 바나나 필링필링젤은 집에서 간편하게 각질을 관�
     "price": "49590",
     "url": "https://link.coupang.com/a/eokIV270eq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-23"
+    "priceValidUntil": "2026-06-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -48,9 +48,11 @@ description: 바나나 필링필링젤은 집에서 간편하게 각질을 관�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 11개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -59,22 +61,22 @@ description: 바나나 필링필링젤은 집에서 간편하게 각질을 관�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">49,600</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">49,500</text>
 
-    <path d="M 68 110 L 126 110 L 184 110 L 241 110 L 299 110 L 357 110 L 415 110 L 472 110 L 530 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 126 110 L 184 110 L 241 110 L 299 110 L 357 110 L 415 110 L 472 110 L 530 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 120 110 L 172 110 L 224 110 L 276 110 L 328 110 L 380 110 L 432 110 L 484 110 L 536 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 120 110 L 172 110 L 224 110 L 276 110 L 328 110 L 380 110 L 432 110 L 484 110 L 536 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,590원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
