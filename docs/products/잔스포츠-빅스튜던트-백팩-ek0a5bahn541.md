@@ -11,10 +11,10 @@ description: 잔스포츠(JanSport)는 1967년 미국에서 창립된 글로벌 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "122400",
+    "price": "60580",
     "url": "https://link.coupang.com/a/d3IlpA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-24"
+    "priceValidUntil": "2026-06-25"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -107,6 +107,8 @@ description: 잔스포츠(JanSport)는 1967년 미국에서 창립된 글로벌 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -114,28 +116,29 @@ description: 잔스포츠(JanSport)는 1967년 미국에서 창립된 글로벌 
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">110,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 161 L 86 161 L 104 161 L 122 161 L 140 161 L 158 161 L 176 161 L 194 161 L 211 161 L 229 161 L 247 161 L 265 161 L 283 84 L 301 84 L 319 84 L 337 84 L 355 84 L 373 84 L 391 84 L 409 84 L 427 84 L 445 84 L 462 84 L 480 84 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 161 L 86 161 L 104 161 L 122 161 L 140 161 L 158 161 L 176 161 L 194 161 L 211 161 L 229 161 L 247 161 L 265 161 L 283 84 L 301 84 L 319 84 L 337 84 L 355 84 L 373 84 L 391 84 L 409 84 L 427 84 L 445 84 L 462 84 L 480 84 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="84" r="5" fill="#ea580c"></circle>
+    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 83 L 158 83 L 176 83 L 194 83 L 211 83 L 229 83 L 247 83 L 265 68 L 283 68 L 301 68 L 319 68 L 337 68 L 355 68 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 162 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 83 L 158 83 L 176 83 L 194 83 L 211 83 L 229 83 L 247 83 L 265 68 L 283 68 L 301 68 L 319 68 L 337 68 L 355 68 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 162" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="162" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="72" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">122,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-17</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="588" y="150" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">60,580원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-18</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
