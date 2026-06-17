@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 립아이스 매직컬러 립밤: products/lipice-magic-color-lip-balm.md
     - 듀이트리 어반 쉐이드 피치 라이크 톤업 선스틱 SPF50+ PA++++: products/dewy-tree-urban-shade-peach-like-toneup-sunstick.md
     - SETUP-EXE NAPOLEON HIGH-NECK JACKET: products/setup-exe-napoleon-high-neck-jacket.md
     - "GNC 밀크시슬 1300mg 타블렛 (120정, 3개)": products/gnc-milk-thistle-1300mg-tablet.md
