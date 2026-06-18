@@ -20,7 +20,7 @@ description: 딥디크 캔들 베이 190g은 플로럴하고 포근한 향과 �
     "price": "73800",
     "url": "https://link.coupang.com/a/ecHYpQAD0e",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-25"
+    "priceValidUntil": "2026-06-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -64,9 +64,11 @@ description: 딥디크 캔들 베이 190g은 플로럴하고 포근한 향과 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -75,26 +77,26 @@ description: 딥디크 캔들 베이 190g은 플로럴하고 포근한 향과 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">73,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">73,000</text>
 
-    <path d="M 68 56 L 99 56 L 129 169 L 160 169 L 190 169 L 221 169 L 252 169 L 282 169 L 313 169 L 343 169 L 374 169 L 404 169 L 435 169 L 466 169 L 496 169 L 527 56 L 557 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 56 L 99 56 L 129 169 L 160 169 L 190 169 L 221 169 L 252 169 L 282 169 L 313 169 L 343 169 L 374 169 L 404 169 L 435 169 L 466 169 L 496 169 L 527 56 L 557 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 56 L 97 56 L 126 169 L 155 169 L 184 169 L 212 169 L 241 169 L 270 169 L 299 169 L 328 169 L 357 169 L 386 169 L 415 169 L 444 169 L 472 169 L 501 56 L 530 56 L 559 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 56 L 97 56 L 126 169 L 155 169 L 184 169 L 212 169 L 241 169 L 270 169 L 299 169 L 328 169 L 357 169 L 386 169 L 415 169 L 444 169 L 472 169 L 501 56 L 530 56 L 559 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="99" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="129" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="496" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="527" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="97" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="56" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="56" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">73,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
