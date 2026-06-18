@@ -20,12 +20,12 @@ description: 토도리브로 원목교구 한글 판퍼즐은 유아의 한글 �
     "price": "11920",
     "url": "https://link.coupang.com/a/eyLh8O",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-25"
+    "priceValidUntil": "2026-06-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.3,
-    "reviewCount": 672,
+    "reviewCount": 673,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 토도리브로 원목교구 한글 판퍼즐은 유아의 한글 �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -131,41 +133,40 @@ description: 토도리브로 원목교구 한글 판퍼즐은 유아의 한글 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,500</text>
 
-    <path d="M 68 158 L 86 129 L 104 151 L 122 129 L 140 134 L 158 129 L 176 34 L 194 34 L 211 138 L 229 129 L 247 129 L 265 148 L 283 148 L 301 26 L 319 26 L 337 47 L 355 47 L 373 38 L 391 176 L 409 114 L 427 114 L 445 114 L 462 114 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 114 L 588 114 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 158 L 86 129 L 104 151 L 122 129 L 140 134 L 158 129 L 176 34 L 194 34 L 211 138 L 229 129 L 247 129 L 265 148 L 283 148 L 301 26 L 319 26 L 337 47 L 355 47 L 373 38 L 391 176 L 409 114 L 427 114 L 445 114 L 462 114 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 114 L 588 114" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="158" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="129" r="4" fill="#fdba74"></circle>
+    <path d="M 68 129 L 86 151 L 104 129 L 122 134 L 140 129 L 158 34 L 176 34 L 194 138 L 211 129 L 229 129 L 247 148 L 265 148 L 283 26 L 301 26 L 319 47 L 337 47 L 355 38 L 373 176 L 391 114 L 409 114 L 427 114 L 445 114 L 462 114 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 114 L 588 114 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 129 L 86 151 L 104 129 L 122 134 L 140 129 L 158 34 L 176 34 L 194 138 L 211 129 L 229 129 L 247 148 L 265 148 L 283 26 L 301 26 L 319 47 L 337 47 L 355 38 L 373 176 L 391 114 L 409 114 L 427 114 L 445 114 L 462 114 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 114 L 588 114" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="176" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="129" r="4" fill="#fdba74"></circle>
     <circle cx="229" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="148" r="4" fill="#fdba74"></circle>
     <circle cx="265" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="47" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="114" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="114" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="102" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,920원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -173,7 +174,7 @@ description: 토도리브로 원목교구 한글 판퍼즐은 유아의 한글 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,920원 · 별점 4.3 · 리뷰 672개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,920원 · 별점 4.3 · 리뷰 673개</span>
     <a href="https://link.coupang.com/a/eyLh8O" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -254,7 +255,7 @@ A. 아이가 강압적이지 않고 놀이처럼 자연스럽게 글자 모양�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,920원 · 별점 4.3 · 리뷰 672개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,920원 · 별점 4.3 · 리뷰 673개</span>
     <a href="https://link.coupang.com/a/eyLh8O" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
