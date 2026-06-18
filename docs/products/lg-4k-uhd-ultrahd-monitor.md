@@ -20,7 +20,7 @@ description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화
     "price": "539000",
     "url": "https://link.coupang.com/a/dXaW80UbxA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-25"
+    "priceValidUntil": "2026-06-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -81,9 +81,11 @@ description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -92,30 +94,30 @@ description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">500,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">450,000</text>
 
-    <path d="M 68 104 L 88 104 L 108 104 L 128 104 L 148 104 L 168 104 L 188 104 L 208 104 L 228 104 L 248 104 L 268 26 L 288 26 L 308 26 L 328 26 L 348 26 L 368 43 L 388 43 L 408 26 L 428 26 L 448 26 L 468 43 L 488 43 L 508 43 L 528 43 L 548 43 L 568 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 104 L 88 104 L 108 104 L 128 104 L 148 104 L 168 104 L 188 104 L 208 104 L 228 104 L 248 104 L 268 26 L 288 26 L 308 26 L 328 26 L 348 26 L 368 43 L 388 43 L 408 26 L 428 26 L 448 26 L 468 43 L 488 43 L 508 43 L 528 43 L 548 43 L 568 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 104 L 87 104 L 107 104 L 126 104 L 145 104 L 164 104 L 184 104 L 203 104 L 222 104 L 241 104 L 261 26 L 280 26 L 299 26 L 318 26 L 338 26 L 357 43 L 376 43 L 395 26 L 415 26 L 434 26 L 453 43 L 472 43 L 492 43 L 511 43 L 530 43 L 549 43 L 569 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 104 L 87 104 L 107 104 L 126 104 L 145 104 L 164 104 L 184 104 L 203 104 L 222 104 L 241 104 L 261 26 L 280 26 L 299 26 L 318 26 L 338 26 L 357 43 L 376 43 L 395 26 L 415 26 L 434 26 L 453 43 L 472 43 L 492 43 L 511 43 L 530 43 L 549 43 L 569 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="248" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="368" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="408" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="448" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="261" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="338" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="376" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="395" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="434" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="453" cy="43" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="43" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">539,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
