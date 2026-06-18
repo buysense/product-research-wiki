@@ -20,7 +20,7 @@ description: 제라헌 제주 동문시장 오메기떡 3종은 팥, 흑임자, 
     "price": "32000",
     "url": "https://link.coupang.com/a/eGrMWYxi3M",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-25"
+    "priceValidUntil": "2026-06-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
