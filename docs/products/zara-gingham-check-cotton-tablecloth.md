@@ -16,10 +16,10 @@ description: ZARA 깅엄 체크 코튼 테이블보는 클래식한 패턴과 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "89600",
+    "price": "140200",
     "url": "https://link.coupang.com/a/d7BLbUKq3o",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-25"
+    "priceValidUntil": "2026-06-26"
   }
 }
 </script>
@@ -62,35 +62,38 @@ description: ZARA 깅엄 체크 코튼 테이블보는 클래식한 패턴과 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">70,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 166 L 94 166 L 120 166 L 146 166 L 172 166 L 198 166 L 224 166 L 250 166 L 276 166 L 302 166 L 328 166 L 354 166 L 380 166 L 406 166 L 432 29 L 458 29 L 484 29 L 510 29 L 536 29 L 562 29 L 588 29 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 166 L 94 166 L 120 166 L 146 166 L 172 166 L 198 166 L 224 166 L 250 166 L 276 166 L 302 166 L 328 166 L 354 166 L 380 166 L 406 166 L 432 29 L 458 29 L 484 29 L 510 29 L 536 29 L 562 29 L 588 29" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="406" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="432" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="29" r="5" fill="#ea580c"></circle>
+    <path d="M 68 145 L 93 145 L 118 145 L 142 145 L 167 145 L 192 145 L 217 145 L 241 145 L 266 145 L 291 145 L 316 145 L 340 145 L 365 145 L 390 145 L 415 118 L 439 118 L 464 118 L 489 118 L 514 118 L 538 118 L 563 118 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 145 L 93 145 L 118 145 L 142 145 L 167 145 L 192 145 L 217 145 L 241 145 L 266 145 L 291 145 L 316 145 L 340 145 L 365 145 L 390 145 L 415 118 L 439 118 L 464 118 L 489 118 L 514 118 L 538 118 L 563 118 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="390" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="563" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="17" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">89,600원</text>
+    <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">140,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
