@@ -20,12 +20,12 @@ description: 오뚜기 옥수수 마아가린은 토스트, 계란프라이 등 
     "price": "2480",
     "url": "https://link.coupang.com/a/ea437X9lYW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-26"
+    "priceValidUntil": "2026-06-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 4553,
+    "reviewCount": 4571,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -68,9 +68,11 @@ description: 오뚜기 옥수수 마아가린은 토스트, 계란프라이 등 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -79,22 +81,22 @@ description: 오뚜기 옥수수 마아가린은 토스트, 계란프라이 등 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">2,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">2,400</text>
 
-    <path d="M 68 117 L 95 117 L 123 117 L 150 117 L 177 117 L 205 117 L 232 117 L 260 117 L 287 117 L 314 117 L 342 117 L 369 117 L 396 117 L 424 117 L 451 117 L 479 117 L 506 117 L 533 117 L 561 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 117 L 95 117 L 123 117 L 150 117 L 177 117 L 205 117 L 232 117 L 260 117 L 287 117 L 314 117 L 342 117 L 369 117 L 396 117 L 424 117 L 451 117 L 479 117 L 506 117 L 533 117 L 561 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 117 L 94 117 L 120 117 L 146 117 L 172 117 L 198 117 L 224 117 L 250 117 L 276 117 L 302 117 L 328 117 L 354 117 L 380 117 L 406 117 L 432 117 L 458 117 L 484 117 L 510 117 L 536 117 L 562 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 117 L 94 117 L 120 117 L 146 117 L 172 117 L 198 117 L 224 117 L 250 117 L 276 117 L 302 117 L 328 117 L 354 117 L 380 117 L 406 117 L 432 117 L 458 117 L 484 117 L 510 117 L 536 117 L 562 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="117" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,480원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -102,7 +104,7 @@ description: 오뚜기 옥수수 마아가린은 토스트, 계란프라이 등 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,480원 · 별점 4.8 · 리뷰 4,553개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,480원 · 별점 4.8 · 리뷰 4,571개</span>
     <a href="https://link.coupang.com/a/ea437X9lYW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -174,7 +176,7 @@ A. 일반적으로 냉장 보관을 권장합니다. 냉장 보관 후에도 너
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,480원 · 별점 4.8 · 리뷰 4,553개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,480원 · 별점 4.8 · 리뷰 4,571개</span>
     <a href="https://link.coupang.com/a/ea437X9lYW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
