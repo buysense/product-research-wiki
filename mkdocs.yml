@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 피노 프리미엄 터치 헤어 마스크 비: products/fino-premium-touch-hair-mask-b.md
     - 메디큐브 PDRN 핑크 텐션 업 마스크: products/medicube-pdrn-pink-tension-up-mask.md
     - 마나 슈파토 우산: products/mana-schupato-umbrella.md
     - "[제라헌] 제주 동문시장 오메기떡 3종 팥 흑임자 쑥": products/jeraheon-jejue-dongmun-market-omegitteok-3types.md
