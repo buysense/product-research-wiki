@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 메디큐브 PDRN 핑크 텐션 업 마스크: products/medicube-pdrn-pink-tension-up-mask.md
     - 마나 슈파토 우산: products/mana-schupato-umbrella.md
     - "[제라헌] 제주 동문시장 오메기떡 3종 팥 흑임자 쑥": products/jeraheon-jejue-dongmun-market-omegitteok-3types.md
     - 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기: products/alisa-iceblastmax-cordless-handheld-fan.md
