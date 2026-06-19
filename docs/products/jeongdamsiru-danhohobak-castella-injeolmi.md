@@ -20,7 +20,7 @@ description: 정담시루 단호박 듬뿍 카스테라 인절미떡은 자연�
     "price": "7500",
     "url": "https://link.coupang.com/a/dG3AodpXbg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-26"
+    "priceValidUntil": "2026-06-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -103,6 +103,8 @@ description: 정담시루 단호박 듬뿍 카스테라 인절미떡은 자연�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -114,26 +116,26 @@ description: 정담시루 단호박 듬뿍 카스테라 인절미떡은 자연�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 77 L 337 77 L 355 77 L 373 77 L 391 77 L 409 77 L 427 77 L 445 77 L 462 77 L 480 77 L 498 77 L 516 77 L 534 77 L 552 140 L 570 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 77 L 337 77 L 355 77 L 373 77 L 391 77 L 409 77 L 427 77 L 445 77 L 462 77 L 480 77 L 498 77 L 516 77 L 534 77 L 552 140 L 570 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 77 L 319 77 L 337 77 L 355 77 L 373 77 L 391 77 L 409 77 L 427 77 L 445 77 L 462 77 L 480 77 L 498 77 L 516 77 L 534 140 L 552 140 L 570 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 77 L 319 77 L 337 77 L 355 77 L 373 77 L 391 77 L 409 77 L 427 77 L 445 77 L 462 77 L 480 77 L 498 77 L 516 77 L 534 140 L 552 140 L 570 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="77" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="77" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
