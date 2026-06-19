@@ -20,13 +20,15 @@ description: SHUSHUTONG 플라워 니트 가디건은 화사한 플라워 패턴
     "price": "1145590",
     "url": "https://link.coupang.com/a/dG1f9z5n1o",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-26"
+    "priceValidUntil": "2026-06-27"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-12 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -113,16 +115,16 @@ description: SHUSHUTONG 플라워 니트 가디건은 화사한 플라워 패턴
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,145,590원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
