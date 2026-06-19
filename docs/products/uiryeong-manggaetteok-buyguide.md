@@ -20,7 +20,7 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
     "price": "45710",
     "url": "https://link.coupang.com/a/eCue7p",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-26"
+    "priceValidUntil": "2026-06-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -119,6 +119,8 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -130,29 +132,29 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
 
-    <path d="M 68 30 L 86 30 L 104 30 L 122 71 L 140 30 L 158 30 L 176 30 L 194 30 L 211 160 L 229 160 L 247 160 L 265 160 L 283 167 L 301 167 L 319 167 L 337 167 L 355 167 L 373 167 L 391 167 L 409 167 L 427 167 L 445 167 L 462 167 L 480 167 L 498 167 L 516 167 L 534 167 L 552 167 L 570 167 L 588 167 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 30 L 86 30 L 104 30 L 122 71 L 140 30 L 158 30 L 176 30 L 194 30 L 211 160 L 229 160 L 247 160 L 265 160 L 283 167 L 301 167 L 319 167 L 337 167 L 355 167 L 373 167 L 391 167 L 409 167 L 427 167 L 445 167 L 462 167 L 480 167 L 498 167 L 516 167 L 534 167 L 552 167 L 570 167 L 588 167" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 30 L 86 30 L 104 71 L 122 30 L 140 30 L 158 30 L 176 30 L 194 160 L 211 160 L 229 160 L 247 160 L 265 167 L 283 167 L 301 167 L 319 167 L 337 167 L 355 167 L 373 167 L 391 167 L 409 167 L 427 167 L 445 167 L 462 167 L 480 167 L 498 167 L 516 167 L 534 167 L 552 167 L 570 167 L 588 167 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 30 L 86 30 L 104 71 L 122 30 L 140 30 L 158 30 L 176 30 L 194 160 L 211 160 L 229 160 L 247 160 L 265 167 L 283 167 L 301 167 L 319 167 L 337 167 L 355 167 L 373 167 L 391 167 L 409 167 L 427 167 L 445 167 L 462 167 L 480 167 L 498 167 L 516 167 L 534 167 L 552 167 L 570 167 L 588 167" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="160" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="160" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="160" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="160" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="167" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="167" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="155" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">45,710원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
