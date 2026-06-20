@@ -94,6 +94,8 @@ description: 캘빈클라인 CK be 오드뚜왈렛은 1996년 출시된 남녀 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -105,45 +107,45 @@ description: 캘빈클라인 CK be 오드뚜왈렛은 1996년 출시된 남녀 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 146 L 86 145 L 104 97 L 122 157 L 140 163 L 158 165 L 176 132 L 194 154 L 211 167 L 229 125 L 247 75 L 265 139 L 283 116 L 301 165 L 319 165 L 337 167 L 355 174 L 373 154 L 391 110 L 409 116 L 427 142 L 445 142 L 462 142 L 480 142 L 498 142 L 516 142 L 534 135 L 552 135 L 570 135 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 146 L 86 145 L 104 97 L 122 157 L 140 163 L 158 165 L 176 132 L 194 154 L 211 167 L 229 125 L 247 75 L 265 139 L 283 116 L 301 165 L 319 165 L 337 167 L 355 174 L 373 154 L 391 110 L 409 116 L 427 142 L 445 142 L 462 142 L 480 142 L 498 142 L 516 142 L 534 135 L 552 135 L 570 135 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="97" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="167" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="116" r="4" fill="#fdba74"></circle>
+    <path d="M 68 145 L 86 97 L 104 157 L 122 163 L 140 165 L 158 132 L 176 154 L 194 167 L 211 125 L 229 75 L 247 139 L 265 116 L 283 165 L 301 165 L 319 167 L 337 174 L 355 154 L 373 110 L 391 116 L 409 142 L 427 142 L 445 142 L 462 142 L 480 142 L 498 142 L 516 135 L 534 135 L 552 135 L 570 121 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 145 L 86 97 L 104 157 L 122 163 L 140 165 L 158 132 L 176 154 L 194 167 L 211 125 L 229 75 L 247 139 L 265 116 L 283 165 L 301 165 L 319 167 L 337 174 L 355 154 L 373 110 L 391 116 L 409 142 L 427 142 L 445 142 L 462 142 L 480 142 L 498 142 L 516 135 L 534 135 L 552 135 L 570 121 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="97" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="165" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="165" r="4" fill="#fdba74"></circle>
     <circle cx="301" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="167" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="116" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="121" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="121" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="109" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,490원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
