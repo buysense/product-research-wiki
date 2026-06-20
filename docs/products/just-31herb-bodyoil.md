@@ -17,15 +17,15 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "63840",
+    "price": "80000",
     "url": "https://link.coupang.com/a/dUsgXOCSEm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-27"
+    "priceValidUntil": "2026-06-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1078,
+    "reviewCount": 1080,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -100,42 +102,42 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 81 L 86 78 L 104 76 L 122 78 L 140 78 L 158 78 L 176 78 L 194 78 L 211 78 L 229 78 L 247 78 L 265 78 L 283 26 L 301 79 L 319 79 L 337 79 L 355 26 L 373 26 L 391 26 L 409 26 L 427 74 L 445 76 L 462 131 L 480 75 L 498 75 L 516 130 L 534 130 L 552 131 L 570 81 L 588 81 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 81 L 86 78 L 104 76 L 122 78 L 140 78 L 158 78 L 176 78 L 194 78 L 211 78 L 229 78 L 247 78 L 265 78 L 283 26 L 301 79 L 319 79 L 337 79 L 355 26 L 373 26 L 391 26 L 409 26 L 427 74 L 445 76 L 462 131 L 480 75 L 498 75 L 516 130 L 534 130 L 552 131 L 570 81 L 588 81" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="78" r="4" fill="#fdba74"></circle>
+    <path d="M 68 78 L 86 76 L 104 78 L 122 78 L 140 78 L 158 78 L 176 78 L 194 78 L 211 78 L 229 78 L 247 78 L 265 26 L 283 79 L 301 79 L 319 79 L 337 26 L 355 26 L 373 26 L 391 26 L 409 74 L 427 76 L 445 131 L 462 75 L 480 75 L 498 130 L 516 130 L 534 131 L 552 81 L 570 81 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 78 L 86 76 L 104 78 L 122 78 L 140 78 L 158 78 L 176 78 L 194 78 L 211 78 L 229 78 L 247 78 L 265 26 L 283 79 L 301 79 L 319 79 L 337 26 L 355 26 L 373 26 L 391 26 L 409 74 L 427 76 L 445 131 L 462 75 L 480 75 L 498 130 L 516 130 L 534 131 L 552 81 L 570 81 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="78" r="4" fill="#fdba74"></circle>
     <circle cx="247" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="75" r="4" fill="#fdba74"></circle>
     <circle cx="480" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="130" r="4" fill="#fdba74"></circle>
     <circle cx="516" cy="130" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="130" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="81" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="81" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="56" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="69" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">63,840원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-21</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">80,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -143,7 +145,7 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 63,840원 · 별점 4.8 · 리뷰 1,078개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 80,000원 · 별점 4.8 · 리뷰 1,080개</span>
     <a href="https://link.coupang.com/a/dUsgXOCSEm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -221,7 +223,7 @@ A. 한 번 사용할 때 한두 방울의 소량만으로도 충분한 효과를
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 63,840원 · 별점 4.8 · 리뷰 1,078개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 80,000원 · 별점 4.8 · 리뷰 1,080개</span>
     <a href="https://link.coupang.com/a/dUsgXOCSEm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
