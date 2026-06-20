@@ -20,7 +20,7 @@ description: 유디엘 유모차 걸이 후크는 유모차에 가방, 쇼핑백
     "price": "7900",
     "url": "https://link.coupang.com/a/d5koIIMDsa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-27"
+    "priceValidUntil": "2026-06-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -76,9 +76,11 @@ description: 유디엘 유모차 걸이 후크는 유모차에 가방, 쇼핑백
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -87,28 +89,28 @@ description: 유디엘 유모차 걸이 후크는 유모차에 가방, 쇼핑백
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
 
-    <path d="M 68 102 L 91 102 L 113 102 L 136 102 L 158 102 L 181 114 L 204 114 L 226 114 L 249 114 L 271 114 L 294 114 L 317 114 L 339 114 L 362 114 L 385 114 L 407 114 L 430 114 L 452 114 L 475 102 L 498 102 L 520 102 L 543 41 L 565 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 91 102 L 113 102 L 136 102 L 158 102 L 181 114 L 204 114 L 226 114 L 249 114 L 271 114 L 294 114 L 317 114 L 339 114 L 362 114 L 385 114 L 407 114 L 430 114 L 452 114 L 475 102 L 498 102 L 520 102 L 543 41 L 565 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 90 102 L 111 102 L 133 102 L 155 102 L 176 114 L 198 114 L 220 114 L 241 114 L 263 114 L 285 114 L 306 114 L 328 114 L 350 114 L 371 114 L 393 114 L 415 114 L 436 114 L 458 102 L 480 102 L 501 102 L 523 41 L 545 41 L 566 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 90 102 L 111 102 L 133 102 L 155 102 L 176 114 L 198 114 L 220 114 L 241 114 L 263 114 L 285 114 L 306 114 L 328 114 L 350 114 L 371 114 L 393 114 L 415 114 L 436 114 L 458 102 L 480 102 L 501 102 L 523 41 L 545 41 L 566 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="181" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="452" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="475" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="520" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="543" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="436" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="41" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
