@@ -20,7 +20,7 @@ description: 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장�
     "price": "7540",
     "url": "https://link.coupang.com/a/eJS1Tf5PzM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-27"
+    "priceValidUntil": "2026-06-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
