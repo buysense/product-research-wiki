@@ -20,12 +20,12 @@ description: 6개월 이상 아기들의 티슈 뽑기 본능을 해소하고 �
     "price": "16680",
     "url": "https://link.coupang.com/a/eqQqzsuMeq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-28"
+    "priceValidUntil": "2026-06-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 1256,
+    "reviewCount": 1257,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -54,9 +54,11 @@ description: 6개월 이상 아기들의 티슈 뽑기 본능을 해소하고 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -65,26 +67,26 @@ description: 6개월 이상 아기들의 티슈 뽑기 본능을 해소하고 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 59 L 111 26 L 155 26 L 198 59 L 241 126 L 285 126 L 328 126 L 371 126 L 415 126 L 458 126 L 501 126 L 545 126 L 588 126 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 59 L 111 26 L 155 26 L 198 59 L 241 126 L 285 126 L 328 126 L 371 126 L 415 126 L 458 126 L 501 126 L 545 126 L 588 126" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 59 L 108 26 L 148 26 L 188 59 L 228 126 L 268 126 L 308 126 L 348 126 L 388 126 L 428 126 L 468 126 L 508 126 L 548 126 L 588 126 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 59 L 108 26 L 148 26 L 188 59 L 228 126 L 268 126 L 308 126 L 348 126 L 388 126 L 428 126 L 468 126 L 508 126 L 548 126 L 588 126" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="111" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="148" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="228" cy="126" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="126" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="114" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,680원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -92,7 +94,7 @@ description: 6개월 이상 아기들의 티슈 뽑기 본능을 해소하고 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,680원 · 별점 4.7 · 리뷰 1,256개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,680원 · 별점 4.7 · 리뷰 1,257개</span>
     <a href="https://link.coupang.com/a/eqQqzsuMeq" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -165,7 +167,7 @@ A. 네, 이 제품은 가볍고 휴대하기 편리하여 외출 시에도 유�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,680원 · 별점 4.7 · 리뷰 1,256개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,680원 · 별점 4.7 · 리뷰 1,257개</span>
     <a href="https://link.coupang.com/a/eqQqzsuMeq" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
