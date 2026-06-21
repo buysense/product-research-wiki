@@ -20,7 +20,7 @@ description: 잔스포츠 라이트팩은 코듀라 원단과 스웨이드 바�
     "price": "119500",
     "url": "https://link.coupang.com/a/ettmUg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-28"
+    "priceValidUntil": "2026-06-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -129,6 +129,8 @@ description: 잔스포츠 라이트팩은 코듀라 원단과 스웨이드 바�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -140,26 +142,26 @@ description: 잔스포츠 라이트팩은 코듀라 원단과 스웨이드 바�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">118,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 121 L 552 121 L 570 121 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 121 L 552 121 L 570 121 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 121 L 552 121 L 570 121 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 121 L 552 121 L 570 121 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="121" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="121" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="109" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">119,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-22</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-25</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-23</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-26</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
