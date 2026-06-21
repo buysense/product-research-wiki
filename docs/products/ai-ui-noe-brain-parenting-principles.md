@@ -20,7 +20,7 @@ description: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙은 
     "price": "16020",
     "url": "https://link.coupang.com/a/d5UuLRICVU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-28"
+    "priceValidUntil": "2026-06-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -78,9 +78,11 @@ description: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙은 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -89,22 +91,22 @@ description: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙은 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,900</text>
 
-    <path d="M 68 87 L 90 87 L 111 87 L 133 87 L 155 87 L 176 87 L 198 87 L 220 87 L 241 87 L 263 87 L 285 87 L 306 87 L 328 87 L 350 87 L 371 87 L 393 87 L 415 87 L 436 87 L 458 87 L 480 87 L 501 87 L 523 87 L 545 87 L 566 87 L 588 87 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 87 L 90 87 L 111 87 L 133 87 L 155 87 L 176 87 L 198 87 L 220 87 L 241 87 L 263 87 L 285 87 L 306 87 L 328 87 L 350 87 L 371 87 L 393 87 L 415 87 L 436 87 L 458 87 L 480 87 L 501 87 L 523 87 L 545 87 L 566 87 L 588 87" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 87 L 89 87 L 110 87 L 130 87 L 151 87 L 172 87 L 193 87 L 214 87 L 234 87 L 255 87 L 276 87 L 297 87 L 318 87 L 338 87 L 359 87 L 380 87 L 401 87 L 422 87 L 442 87 L 463 87 L 484 87 L 505 87 L 526 87 L 546 87 L 567 87 L 588 87 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 87 L 89 87 L 110 87 L 130 87 L 151 87 L 172 87 L 193 87 L 214 87 L 234 87 L 255 87 L 276 87 L 297 87 L 318 87 L 338 87 L 359 87 L 380 87 L 401 87 L 422 87 L 442 87 L 463 87 L 484 87 L 505 87 L 526 87 L 546 87 L 567 87 L 588 87" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="87" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="87" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="75" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,020원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
