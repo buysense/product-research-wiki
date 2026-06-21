@@ -20,12 +20,12 @@ description: 뽀로로 어린이음료 밀크맛은 아이들이 좋아하는 �
     "price": "17100",
     "url": "https://link.coupang.com/a/d8Q1amCOvQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-28"
+    "priceValidUntil": "2026-06-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 33153,
+    "reviewCount": 33172,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -74,9 +74,11 @@ description: 뽀로로 어린이음료 밀크맛은 아이들이 좋아하는 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -85,39 +87,39 @@ description: 뽀로로 어린이음료 밀크맛은 아이들이 좋아하는 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
 
-    <path d="M 68 66 L 92 70 L 115 70 L 139 64 L 163 64 L 186 70 L 210 64 L 233 64 L 257 64 L 281 64 L 304 64 L 328 56 L 352 40 L 375 40 L 399 39 L 423 113 L 446 49 L 470 122 L 493 56 L 517 56 L 541 60 L 564 60 L 588 60 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 66 L 92 70 L 115 70 L 139 64 L 163 64 L 186 70 L 210 64 L 233 64 L 257 64 L 281 64 L 304 64 L 328 56 L 352 40 L 375 40 L 399 39 L 423 113 L 446 49 L 470 122 L 493 56 L 517 56 L 541 60 L 564 60 L 588 60" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 66 L 91 70 L 113 70 L 136 64 L 158 64 L 181 70 L 204 64 L 226 64 L 249 64 L 271 64 L 294 64 L 317 56 L 339 40 L 362 40 L 385 39 L 407 113 L 430 49 L 452 122 L 475 56 L 498 56 L 520 60 L 543 60 L 565 60 L 588 60 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 66 L 91 70 L 113 70 L 136 64 L 158 64 L 181 70 L 204 64 L 226 64 L 249 64 L 271 64 L 294 64 L 317 56 L 339 40 L 362 40 L 385 39 L 407 113 L 430 49 L 452 122 L 475 56 L 498 56 L 520 60 L 543 60 L 565 60 L 588 60" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="139" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="40" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="40" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="39" r="4" fill="#fdba74"></circle>
-    <circle cx="423" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="517" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="91" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="113" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="136" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="181" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="204" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="294" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="317" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="339" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="385" cy="39" r="4" fill="#fdba74"></circle>
+    <circle cx="407" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="430" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="452" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="475" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="520" cy="60" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="60" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="48" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,100원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -125,7 +127,7 @@ description: 뽀로로 어린이음료 밀크맛은 아이들이 좋아하는 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,100원 · 별점 4.9 · 리뷰 33,153개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,100원 · 별점 4.9 · 리뷰 33,172개</span>
     <a href="https://link.coupang.com/a/d8Q1amCOvQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -198,7 +200,7 @@ A. 개봉 전에는 직사광선을 피해 서늘한 곳에 상온 보관이 가
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,100원 · 별점 4.9 · 리뷰 33,153개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,100원 · 별점 4.9 · 리뷰 33,172개</span>
     <a href="https://link.coupang.com/a/d8Q1amCOvQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
