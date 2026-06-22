@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 차차앤코 물광 글로우 하이라이터: products/chachanco-water-glow-highlighter.md
     - 로그이엠 라피아드롭 니트 숄더 백: products/logiem-raffia-drop-knit-shoulder-bag.md
     - 삼성전자 갤럭시 S26 (SM-S942N): products/samsung-galaxy-s26-sm-s942n-smartphone.md
     - 삼성전자 갤럭시 A17 (SM-A175N): products/samsung-galaxy-a17-sm-a175n.md
