@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 삼성전자 갤럭시 S26 (SM-S942N): products/samsung-galaxy-s26-sm-s942n-smartphone.md
     - 삼성전자 갤럭시 A17 (SM-A175N): products/samsung-galaxy-a17-sm-a175n.md
     - 호아인터 유리창닦이: products/hoainter-window-cleaner-stick.md
     - 유리창청소도구: products/window-cleaning-tool-adjustable-pole.md
