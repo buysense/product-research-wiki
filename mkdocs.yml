@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 삼성전자 갤럭시 A17 (SM-A175N): products/samsung-galaxy-a17-sm-a175n.md
     - 호아인터 유리창닦이: products/hoainter-window-cleaner-stick.md
     - 유리창청소도구: products/window-cleaning-tool-adjustable-pole.md
     - 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장노트: products/iconic-souvenir-b6-hardcover-notebook.md
