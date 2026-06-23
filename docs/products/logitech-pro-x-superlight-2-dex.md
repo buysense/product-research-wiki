@@ -17,15 +17,15 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "162420",
+    "price": "170970",
     "url": "https://link.coupang.com/a/d9c95Fandc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-30"
+    "priceValidUntil": "2026-07-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 370,
+    "reviewCount": 371,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -89,8 +91,8 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">170,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">160,000</text>
 
-    <path d="M 68 77 L 90 77 L 111 77 L 133 34 L 155 88 L 176 77 L 198 73 L 220 123 L 241 123 L 263 123 L 285 123 L 306 109 L 328 109 L 350 108 L 371 101 L 393 101 L 415 93 L 436 83 L 458 37 L 480 58 L 501 48 L 523 47 L 545 40 L 566 122 L 588 160 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 77 L 90 77 L 111 77 L 133 34 L 155 88 L 176 77 L 198 73 L 220 123 L 241 123 L 263 123 L 285 123 L 306 109 L 328 109 L 350 108 L 371 101 L 393 101 L 415 93 L 436 83 L 458 37 L 480 58 L 501 48 L 523 47 L 545 40 L 566 122 L 588 160" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 77 L 90 77 L 111 77 L 133 34 L 155 88 L 176 77 L 198 73 L 220 123 L 241 123 L 263 123 L 285 123 L 306 109 L 328 109 L 350 108 L 371 101 L 393 101 L 415 93 L 436 83 L 458 37 L 480 58 L 501 48 L 523 47 L 545 40 L 566 122 L 588 95 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 77 L 90 77 L 111 77 L 133 34 L 155 88 L 176 77 L 198 73 L 220 123 L 241 123 L 263 123 L 285 123 L 306 109 L 328 109 L 350 108 L 371 101 L 393 101 L 415 93 L 436 83 L 458 37 L 480 58 L 501 48 L 523 47 L 545 40 L 566 122 L 588 95" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="77" r="4" fill="#fdba74"></circle>
     <circle cx="111" cy="77" r="4" fill="#fdba74"></circle>
     <circle cx="133" cy="34" r="4" fill="#fdba74"></circle>
@@ -112,9 +114,9 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
     <circle cx="523" cy="47" r="4" fill="#fdba74"></circle>
     <circle cx="545" cy="40" r="4" fill="#fdba74"></circle>
     <circle cx="566" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="160" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="95" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="148" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">162,420원</text>
+    <text x="588" y="83" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">170,970원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
     <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
     <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
@@ -124,7 +126,7 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
     <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
     <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -132,7 +134,7 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 162,420원 · 별점 4.9 · 리뷰 370개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 170,970원 · 별점 4.9 · 리뷰 371개</span>
     <a href="https://link.coupang.com/a/d9c95Fandc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -207,7 +209,7 @@ A. 처음 손에 쥐었을 때 "배터리가 들어있나?" 싶을 정도로 가
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 162,420원 · 별점 4.9 · 리뷰 370개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 170,970원 · 별점 4.9 · 리뷰 371개</span>
     <a href="https://link.coupang.com/a/d9c95Fandc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
