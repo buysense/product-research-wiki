@@ -100,6 +100,8 @@ description: 이탈리아산 듀럼밀 세몰리나 100%로 만든 그라노로 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -133,7 +135,7 @@ description: 이탈리아산 듀럼밀 세몰리나 100%로 만든 그라노로 
     <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
     <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
