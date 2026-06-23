@@ -100,6 +100,8 @@ description: 캘빈클라인 CK be 오드뚜왈렛은 1996년 출시된 남녀 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -111,8 +113,8 @@ description: 캘빈클라인 CK be 오드뚜왈렛은 1996년 출시된 남녀 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 157 L 86 163 L 104 165 L 122 132 L 140 154 L 158 167 L 176 125 L 194 75 L 211 139 L 229 116 L 247 165 L 265 165 L 283 167 L 301 174 L 319 154 L 337 110 L 355 116 L 373 142 L 391 142 L 409 142 L 427 142 L 445 142 L 462 142 L 480 135 L 498 135 L 516 135 L 534 121 L 552 121 L 570 121 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 157 L 86 163 L 104 165 L 122 132 L 140 154 L 158 167 L 176 125 L 194 75 L 211 139 L 229 116 L 247 165 L 265 165 L 283 167 L 301 174 L 319 154 L 337 110 L 355 116 L 373 142 L 391 142 L 409 142 L 427 142 L 445 142 L 462 142 L 480 135 L 498 135 L 516 135 L 534 121 L 552 121 L 570 121 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 157 L 86 163 L 104 165 L 122 132 L 140 154 L 158 167 L 176 125 L 194 75 L 211 139 L 229 116 L 247 165 L 265 165 L 283 167 L 301 174 L 319 154 L 337 110 L 355 116 L 373 142 L 391 142 L 409 142 L 427 142 L 445 142 L 462 142 L 480 135 L 498 135 L 516 135 L 534 121 L 552 121 L 570 121 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 157 L 86 163 L 104 165 L 122 132 L 140 154 L 158 167 L 176 125 L 194 75 L 211 139 L 229 116 L 247 165 L 265 165 L 283 167 L 301 174 L 319 154 L 337 110 L 355 116 L 373 142 L 391 142 L 409 142 L 427 142 L 445 142 L 462 142 L 480 135 L 498 135 L 516 135 L 534 121 L 552 121 L 570 121 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="157" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="163" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="165" r="4" fill="#fdba74"></circle>
@@ -136,9 +138,9 @@ description: 캘빈클라인 CK be 오드뚜왈렛은 1996년 출시된 남녀 �
     <circle cx="516" cy="135" r="4" fill="#fdba74"></circle>
     <circle cx="534" cy="121" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="111" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,780원</text>
+    <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,760원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
@@ -148,7 +150,7 @@ description: 캘빈클라인 CK be 오드뚜왈렛은 1996년 출시된 남녀 �
     <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
     <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
