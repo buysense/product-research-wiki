@@ -20,7 +20,7 @@ description: 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장�
     "price": "7510",
     "url": "https://link.coupang.com/a/eJS1Tf5PzM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-30"
+    "priceValidUntil": "2026-07-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -34,6 +34,8 @@ description: 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 <!-- PRICE_CHART_START -->
@@ -57,7 +59,7 @@ description: 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장�
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
     <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
     <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
