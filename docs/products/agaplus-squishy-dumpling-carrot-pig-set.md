@@ -17,15 +17,15 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "10160",
+    "price": "9940",
     "url": "https://link.coupang.com/a/dLFCtfGf3Q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-30"
+    "priceValidUntil": "2026-07-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.3,
-    "reviewCount": 854,
+    "reviewCount": 855,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -116,16 +118,17 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,800</text>
 
-    <path d="M 68 121 L 86 121 L 104 121 L 122 121 L 140 121 L 158 121 L 176 121 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 121 L 86 121 L 104 121 L 122 121 L 140 121 L 158 121 L 176 121 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 121 L 86 121 L 104 121 L 122 121 L 140 121 L 158 121 L 176 121 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 121 L 86 121 L 104 121 L 122 121 L 140 121 L 158 121 L 176 121 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="121" r="4" fill="#fdba74"></circle>
     <circle cx="283" cy="121" r="4" fill="#fdba74"></circle>
     <circle cx="301" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="462" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="480" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
+    <circle cx="570" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,160원</text>
+    <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,940원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
@@ -135,7 +138,7 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
     <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
     <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -143,7 +146,7 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,160원 · 별점 4.3 · 리뷰 854개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,940원 · 별점 4.3 · 리뷰 855개</span>
     <a href="https://link.coupang.com/a/dLFCtfGf3Q" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -232,7 +235,7 @@ A. KC 인증(한국 어린이 제품 안전 인증)은 제품이 국내 안전 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,160원 · 별점 4.3 · 리뷰 854개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,940원 · 별점 4.3 · 리뷰 855개</span>
     <a href="https://link.coupang.com/a/dLFCtfGf3Q" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
