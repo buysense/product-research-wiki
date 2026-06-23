@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 긴급출동＋도와줘요 타요 시리즈 전4권: products/tayo-emergency-rescue-series-books.md
     - 바다 100층짜리 집: products/bada-100cheung-jip-picture-book.md
     - 차차앤코 물광 글로우 하이라이터: products/chachanco-water-glow-highlighter.md
     - 로그이엠 라피아드롭 니트 숄더 백: products/logiem-raffia-drop-knit-shoulder-bag.md
