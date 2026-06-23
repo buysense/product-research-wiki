@@ -100,6 +100,8 @@ description: 1+ 등급 중란으로 만든 가농 구운란은 다이어트, 단
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -126,7 +128,7 @@ description: 1+ 등급 중란으로 만든 가농 구운란은 다이어트, 단
     <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
     <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
