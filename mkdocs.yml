@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - LMC FN OG TEE flower gray: products/lmc-fn-og-tee-flower-gray.md
     - 아이블린 투명워터매트: products/aivelin-clear-watermat.md
     - 유아용 곰돌이 다용도 플레이매트 볼풀장: products/baby-bear-multipurpose-playmat-ballpit.md
     - 조이올리 볼풀공 200p: products/joyolly-ballpit-balls-200p.md
