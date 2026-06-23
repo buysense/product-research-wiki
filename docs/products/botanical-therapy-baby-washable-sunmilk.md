@@ -17,15 +17,15 @@ description: 보타니컬테라피 베이비 워셔블 유아 썬밀크는 징�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "16250",
+    "price": "16210",
     "url": "https://link.coupang.com/a/dSIEDn9fP2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-30"
+    "priceValidUntil": "2026-07-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2373,
+    "reviewCount": 2379,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 보타니컬테라피 베이비 워셔블 유아 썬밀크는 징�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-19 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -108,8 +110,8 @@ description: 보타니컬테라피 베이비 워셔블 유아 썬밀크는 징�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
 
-    <path d="M 68 164 L 86 164 L 104 164 L 122 161 L 140 161 L 158 161 L 176 161 L 194 160 L 211 156 L 229 160 L 247 160 L 265 160 L 283 160 L 301 156 L 319 160 L 337 160 L 355 161 L 373 161 L 391 161 L 409 161 L 427 161 L 445 161 L 462 157 L 480 69 L 498 101 L 516 99 L 534 93 L 552 94 L 570 93 L 588 93 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 164 L 86 164 L 104 164 L 122 161 L 140 161 L 158 161 L 176 161 L 194 160 L 211 156 L 229 160 L 247 160 L 265 160 L 283 160 L 301 156 L 319 160 L 337 160 L 355 161 L 373 161 L 391 161 L 409 161 L 427 161 L 445 161 L 462 157 L 480 69 L 498 101 L 516 99 L 534 93 L 552 94 L 570 93 L 588 93" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 164 L 86 164 L 104 164 L 122 161 L 140 161 L 158 161 L 176 161 L 194 160 L 211 156 L 229 160 L 247 160 L 265 160 L 283 160 L 301 156 L 319 160 L 337 160 L 355 161 L 373 161 L 391 161 L 409 161 L 427 161 L 445 161 L 462 157 L 480 69 L 498 101 L 516 99 L 534 93 L 552 94 L 570 93 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 164 L 86 164 L 104 164 L 122 161 L 140 161 L 158 161 L 176 161 L 194 160 L 211 156 L 229 160 L 247 160 L 265 160 L 283 160 L 301 156 L 319 160 L 337 160 L 355 161 L 373 161 L 391 161 L 409 161 L 427 161 L 445 161 L 462 157 L 480 69 L 498 101 L 516 99 L 534 93 L 552 94 L 570 93 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="164" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="164" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="164" r="4" fill="#fdba74"></circle>
@@ -134,9 +136,9 @@ description: 보타니컬테라피 베이비 워셔블 유아 썬밀크는 징�
     <circle cx="534" cy="93" r="4" fill="#fdba74"></circle>
     <circle cx="552" cy="94" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="93" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="94" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="81" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,250원</text>
+    <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,210원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-24</text>
     <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
     <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
@@ -146,7 +148,7 @@ description: 보타니컬테라피 베이비 워셔블 유아 썬밀크는 징�
     <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
     <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -154,7 +156,7 @@ description: 보타니컬테라피 베이비 워셔블 유아 썬밀크는 징�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,250원 · 별점 4.8 · 리뷰 2,373개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,210원 · 별점 4.8 · 리뷰 2,379개</span>
     <a href="https://link.coupang.com/a/dSIEDn9fP2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -231,7 +233,7 @@ A. 이 제품은 워셔블 타입으로 물에 쉽게 지워지기 때문에, �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,250원 · 별점 4.8 · 리뷰 2,373개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,210원 · 별점 4.8 · 리뷰 2,379개</span>
     <a href="https://link.coupang.com/a/dSIEDn9fP2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
