@@ -20,7 +20,7 @@ description: 딥디크 캔들 베이 190g은 플로럴하고 포근한 향과 �
     "price": "73060",
     "url": "https://link.coupang.com/a/ecHYpQAD0e",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-30"
+    "priceValidUntil": "2026-07-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -34,6 +34,8 @@ description: 딥디크 캔들 베이 190g은 플로럴하고 포근한 향과 �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-31 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -105,7 +107,7 @@ description: 딥디크 캔들 베이 190g은 플로럴하고 포근한 향과 �
     <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
     <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
     <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
