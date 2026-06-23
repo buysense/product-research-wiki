@@ -20,13 +20,15 @@ description: 방탄소년단 한정판으로 출시된 흑설탕 호떡 맛 오�
     "price": "31900",
     "url": "https://link.coupang.com/a/esHKE7nuSa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-06-30"
+    "priceValidUntil": "2026-07-01"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-10 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -75,7 +77,7 @@ description: 방탄소년단 한정판으로 출시된 흑설탕 호떡 맛 오�
     <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
     <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
     <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
