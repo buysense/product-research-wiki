@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - ROUGHNECK 백플레어 커브드 팬츠 블랙: products/roughneck-backflare-curved-pants-black.md
     - LMC FN OG TEE flower gray: products/lmc-fn-og-tee-flower-gray.md
     - 아이블린 투명워터매트: products/aivelin-clear-watermat.md
     - 유아용 곰돌이 다용도 플레이매트 볼풀장: products/baby-bear-multipurpose-playmat-ballpit.md
