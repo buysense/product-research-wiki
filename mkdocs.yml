@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 디오비 플랫 열판 디테일링 슬림 고데기 10mm: products/diob-flat-detailing-slim-hair-iron-10mm.md
     - 빌리프 뉴메로 10 에센스 (75ml): products/belif-numero10-essence-75ml.md
     - ROUGHNECK 백플레어 커브드 팬츠 블랙: products/roughneck-backflare-curved-pants-black.md
     - LMC FN OG TEE flower gray: products/lmc-fn-og-tee-flower-gray.md
