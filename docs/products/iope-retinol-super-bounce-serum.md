@@ -20,7 +20,7 @@ description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 
     "price": "65900",
     "url": "https://link.coupang.com/a/euwOqLC9xk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-02"
+    "priceValidUntil": "2026-07-03"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -58,9 +58,11 @@ description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -69,23 +71,24 @@ description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">66,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">65,500</text>
 
-    <path d="M 68 43 L 108 43 L 148 43 L 188 43 L 228 43 L 268 43 L 308 43 L 348 43 L 388 43 L 428 43 L 468 43 L 508 43 L 548 43 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 43 L 108 43 L 148 43 L 188 43 L 228 43 L 268 43 L 308 43 L 348 43 L 388 43 L 428 43 L 468 43 L 508 43 L 548 43 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 43 L 105 43 L 142 43 L 179 43 L 217 43 L 254 43 L 291 43 L 328 43 L 365 43 L 402 43 L 439 43 L 477 43 L 514 43 L 551 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 43 L 105 43 L 142 43 L 179 43 L 217 43 L 254 43 L 291 43 L 328 43 L 365 43 L 402 43 L 439 43 L 477 43 L 514 43 L 551 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="117" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">65,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
