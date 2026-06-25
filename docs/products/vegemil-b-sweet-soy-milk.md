@@ -17,15 +17,15 @@ description: 베지밀 비 달콤한 두유는 190ml 용량의 병 타입 두유
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "34960",
+    "price": "36050",
     "url": "https://link.coupang.com/a/ea5f9D6skS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-02"
+    "priceValidUntil": "2026-07-03"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 15562,
+    "reviewCount": 15571,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -80,9 +80,11 @@ description: 베지밀 비 달콤한 두유는 190ml 용량의 병 타입 두유
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -91,38 +93,39 @@ description: 베지밀 비 달콤한 두유는 190ml 용량의 병 타입 두유
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 69 L 89 71 L 110 71 L 130 71 L 151 137 L 172 71 L 193 71 L 214 71 L 234 71 L 255 71 L 276 71 L 297 71 L 318 71 L 338 137 L 359 137 L 380 137 L 401 71 L 422 69 L 442 71 L 463 71 L 484 137 L 505 137 L 526 71 L 546 45 L 567 52 L 588 45 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 69 L 89 71 L 110 71 L 130 71 L 151 137 L 172 71 L 193 71 L 214 71 L 234 71 L 255 71 L 276 71 L 297 71 L 318 71 L 338 137 L 359 137 L 380 137 L 401 71 L 422 69 L 442 71 L 463 71 L 484 137 L 505 137 L 526 71 L 546 45 L 567 52 L 588 45" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 69 L 88 71 L 108 71 L 128 71 L 148 137 L 168 71 L 188 71 L 208 71 L 228 71 L 248 71 L 268 71 L 288 71 L 308 71 L 328 137 L 348 137 L 368 137 L 388 71 L 408 69 L 428 71 L 448 71 L 468 137 L 488 137 L 508 71 L 528 45 L 548 52 L 568 45 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 69 L 88 71 L 108 71 L 128 71 L 148 137 L 168 71 L 188 71 L 208 71 L 228 71 L 248 71 L 268 71 L 288 71 L 308 71 L 328 137 L 348 137 L 368 137 L 388 71 L 408 69 L 428 71 L 448 71 L 468 137 L 488 137 L 508 71 L 528 45 L 548 52 L 568 45 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="130" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="151" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="422" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="442" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="463" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="505" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="567" cy="52" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="45" r="5" fill="#ea580c"></circle>
+    <circle cx="88" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="128" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="148" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="168" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="368" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="408" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="428" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="448" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="488" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="528" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="568" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="33" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,960원</text>
+    <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,050원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -130,7 +133,7 @@ description: 베지밀 비 달콤한 두유는 190ml 용량의 병 타입 두유
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,960원 · 별점 4.8 · 리뷰 15,562개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 36,050원 · 별점 4.8 · 리뷰 15,571개</span>
     <a href="https://link.coupang.com/a/ea5f9D6skS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -219,7 +222,7 @@ A. 네, 병째로 따뜻한 물에 데우거나 별도 용기에 따라 전자�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,960원 · 별점 4.8 · 리뷰 15,562개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 36,050원 · 별점 4.8 · 리뷰 15,571개</span>
     <a href="https://link.coupang.com/a/ea5f9D6skS" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
