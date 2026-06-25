@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 농심 망고킥: products/nongshim-mangokick-snack.md
     - 해태제과 홈런볼 옥수수콘크림맛: products/haetae-homrunball-corncream.md
     - JBL FLIP7 블루투스 스피커: products/jbl-flip7-bluetooth-speaker.md
     - 디오비 플랫 열판 디테일링 슬림 고데기 10mm: products/diob-flat-detailing-slim-hair-iron-10mm.md
