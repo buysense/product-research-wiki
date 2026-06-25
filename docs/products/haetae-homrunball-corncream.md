@@ -20,7 +20,7 @@ description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤
     "price": "6540",
     "url": "https://link.coupang.com/a/eR8E562Kzs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-02"
+    "priceValidUntil": "2026-07-03"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
