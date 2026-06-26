@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 쿠쿠 공기청정기 W8300 (96.8㎡): products/cuckoo-air-purifier-w8300.md
     - LG전자 오브제컬렉션 215L 냉장고: products/lg-objecollection-215l-refrigerator.md
     - 농심 망고킥: products/nongshim-mangokick-snack.md
     - 해태제과 홈런볼 옥수수콘크림맛: products/haetae-homrunball-corncream.md
