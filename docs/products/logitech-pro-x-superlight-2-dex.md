@@ -20,7 +20,7 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
     "price": "170970",
     "url": "https://link.coupang.com/a/d9c95Fandc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-03"
+    "priceValidUntil": "2026-07-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -84,9 +84,11 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -95,43 +97,43 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">170,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">160,000</text>
 
-    <path d="M 68 77 L 88 77 L 108 77 L 128 34 L 148 88 L 168 77 L 188 73 L 208 123 L 228 123 L 248 123 L 268 123 L 288 109 L 308 109 L 328 108 L 348 101 L 368 101 L 388 93 L 408 83 L 428 37 L 448 58 L 468 48 L 488 47 L 508 40 L 528 122 L 548 95 L 568 95 L 588 95 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 77 L 88 77 L 108 77 L 128 34 L 148 88 L 168 77 L 188 73 L 208 123 L 228 123 L 248 123 L 268 123 L 288 109 L 308 109 L 328 108 L 348 101 L 368 101 L 388 93 L 408 83 L 428 37 L 448 58 L 468 48 L 488 47 L 508 40 L 528 122 L 548 95 L 568 95 L 588 95" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 77 L 87 77 L 107 77 L 126 34 L 145 88 L 164 77 L 184 73 L 203 123 L 222 123 L 241 123 L 261 123 L 280 109 L 299 109 L 318 108 L 338 101 L 357 101 L 376 93 L 395 83 L 415 37 L 434 58 L 453 48 L 472 47 L 492 40 L 511 122 L 530 95 L 549 95 L 569 95 L 588 95 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 77 L 87 77 L 107 77 L 126 34 L 145 88 L 164 77 L 184 73 L 203 123 L 222 123 L 241 123 L 261 123 L 280 109 L 299 109 L 318 108 L 338 101 L 357 101 L 376 93 L 395 83 L 415 37 L 434 58 L 453 48 L 472 47 L 492 40 L 511 122 L 530 95 L 549 95 L 569 95 L 588 95" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="128" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="168" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="208" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="288" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="368" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="408" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="448" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="48" r="4" fill="#fdba74"></circle>
-    <circle cx="488" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="40" r="4" fill="#fdba74"></circle>
-    <circle cx="528" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="107" cy="77" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="145" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="164" cy="77" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="203" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="261" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="280" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="318" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="338" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="376" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="395" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="434" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="453" cy="48" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="492" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="511" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="95" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="95" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="83" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">170,970원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
