@@ -20,7 +20,7 @@ description: 광천 어머니김 파래김은 바삭하고 얇은 식감, 향긋
     "price": "11420",
     "url": "https://link.coupang.com/a/eTSFwmLhYW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-03"
+    "priceValidUntil": "2026-07-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
