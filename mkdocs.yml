@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 드리미 올인원 로봇청소기 L40s Pro Ultra: products/dreame-l40s-pro-ultra-robot-vacuum.md
     - 쿠쿠 공기청정기 W8300 (96.8㎡): products/cuckoo-air-purifier-w8300.md
     - LG전자 오브제컬렉션 215L 냉장고: products/lg-objecollection-215l-refrigerator.md
     - 농심 망고킥: products/nongshim-mangokick-snack.md
