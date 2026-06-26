@@ -20,7 +20,7 @@ description: 브라더 컬러 레이저 복합기 MFC-L3760CDW는 학교, 소규
     "price": "649000",
     "url": "https://link.coupang.com/a/eTwwmoaeu4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-03"
+    "priceValidUntil": "2026-07-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
