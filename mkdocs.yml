@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 브라더 컬러 레이저 복합기: products/brother-mfc-l3760cdw-color-laser-mfp.md
     - 5세대 초강력 건습식 업소용 청소기: products/5th-gen-powerful-wet-dry-commercial-vacuum.md
     - 드리미 올인원 로봇청소기 L40s Pro Ultra: products/dreame-l40s-pro-ultra-robot-vacuum.md
     - 쿠쿠 공기청정기 W8300 (96.8㎡): products/cuckoo-air-purifier-w8300.md
