@@ -20,7 +20,7 @@ description: 네이쳐러브메레 유아용 ABC 비행기 흡착식판은 아�
     "price": "21200",
     "url": "https://link.coupang.com/a/ewTbil",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-04"
+    "priceValidUntil": "2026-07-05"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -138,6 +138,8 @@ description: 네이쳐러브메레 유아용 ABC 비행기 흡착식판은 아�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -149,32 +151,32 @@ description: 네이쳐러브메레 유아용 ABC 비행기 흡착식판은 아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 130 L 158 130 L 176 130 L 194 130 L 211 130 L 229 130 L 247 38 L 265 38 L 283 38 L 301 38 L 319 26 L 337 26 L 355 26 L 373 26 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 130 L 158 130 L 176 130 L 194 130 L 211 130 L 229 130 L 247 38 L 265 38 L 283 38 L 301 38 L 319 26 L 337 26 L 355 26 L 373 26 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 130 L 140 130 L 158 130 L 176 130 L 194 130 L 211 130 L 229 38 L 247 38 L 265 38 L 283 38 L 301 26 L 319 26 L 337 26 L 355 26 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 130 L 140 130 L 158 130 L 176 130 L 194 130 L 211 130 L 229 38 L 247 38 L 265 38 L 283 38 L 301 26 L 319 26 L 337 26 L 355 26 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="130" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="130" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="130" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="130" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="84" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="84" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="72" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-29</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
