@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 바다숲 한입에 쏙 구운감태: products/badasup-one-bite-roasted-gamtae.md
     - 아리감성 오리지널 머랭쿠키 원통형: products/arigamsung-original-meringue-cookie-cylinder.md
     - 광천 어머니김 파래김: products/gwangcheon-eomeonigim-paraegim-dosirakgim.md
     - 브라더 컬러 레이저 복합기: products/brother-mfc-l3760cdw-color-laser-mfp.md
