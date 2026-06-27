@@ -108,6 +108,8 @@ description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -119,34 +121,35 @@ description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 83 L 86 83 L 104 83 L 122 120 L 140 120 L 158 93 L 176 93 L 194 83 L 211 83 L 229 83 L 247 83 L 265 83 L 283 83 L 301 83 L 319 83 L 337 83 L 355 83 L 373 83 L 391 83 L 409 83 L 427 83 L 445 83 L 462 83 L 480 83 L 498 53 L 516 83 L 534 38 L 552 38 L 570 38 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 83 L 86 83 L 104 83 L 122 120 L 140 120 L 158 93 L 176 93 L 194 83 L 211 83 L 229 83 L 247 83 L 265 83 L 283 83 L 301 83 L 319 83 L 337 83 L 355 83 L 373 83 L 391 83 L 409 83 L 427 83 L 445 83 L 462 83 L 480 83 L 498 53 L 516 83 L 534 38 L 552 38 L 570 38 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 83 L 86 83 L 104 120 L 122 120 L 140 93 L 158 93 L 176 83 L 194 83 L 211 83 L 229 83 L 247 83 L 265 83 L 283 83 L 301 83 L 319 83 L 337 83 L 355 83 L 373 83 L 391 83 L 409 83 L 427 83 L 445 83 L 462 83 L 480 53 L 498 83 L 516 38 L 534 38 L 552 38 L 570 38 L 588 39 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 83 L 86 83 L 104 120 L 122 120 L 140 93 L 158 93 L 176 83 L 194 83 L 211 83 L 229 83 L 247 83 L 265 83 L 283 83 L 301 83 L 319 83 L 337 83 L 355 83 L 373 83 L 391 83 L 409 83 L 427 83 L 445 83 L 462 83 L 480 53 L 498 83 L 516 38 L 534 38 L 552 38 L 570 38 L 588 39" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="120" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="93" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="534" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="552" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="38" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="39" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="26" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">136,740원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-27</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="588" y="27" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">136,710원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-28</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
