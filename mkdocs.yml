@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 뉴에라 9 FORTY MLB 야구모자 LA 다저스: products/newera-9forty-mlb-la-dodgers-cap.md
     - 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White: products/dauspice-duc-eyelet-stud-tank-top-white.md
     - 국내산 전라도식 전통 열무김치: products/korean-jeollado-traditional-radish-kimchi.md
     - 바다숲 한입에 쏙 구운감태: products/badasup-one-bite-roasted-gamtae.md
