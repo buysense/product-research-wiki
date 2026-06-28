@@ -20,7 +20,7 @@ description: 뉴에라 9 FORTY MLB LA 다저스 야구모자는 어떤 옷에도
     "price": "26810",
     "url": "https://link.coupang.com/a/eXd8PDF9dA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-05"
+    "priceValidUntil": "2026-07-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
