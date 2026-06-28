@@ -20,12 +20,12 @@ description: 뽀로로 비타민 C 복숭아맛 500정은 아이들의 면역력
     "price": "18000",
     "url": "https://link.coupang.com/a/efCTT0Or6q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-05"
+    "priceValidUntil": "2026-07-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 14139,
+    "reviewCount": 14142,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -80,9 +80,11 @@ description: 뽀로로 비타민 C 복숭아맛 500정은 아이들의 면역력
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -91,31 +93,31 @@ description: 뽀로로 비타민 C 복숭아맛 500정은 아이들의 면역력
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 59 L 89 59 L 110 56 L 130 56 L 151 56 L 172 56 L 193 56 L 214 56 L 234 56 L 255 56 L 276 126 L 297 132 L 318 132 L 338 73 L 359 73 L 380 73 L 401 73 L 422 73 L 442 73 L 463 73 L 484 73 L 505 73 L 526 56 L 546 56 L 567 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 59 L 89 59 L 110 56 L 130 56 L 151 56 L 172 56 L 193 56 L 214 56 L 234 56 L 255 56 L 276 126 L 297 132 L 318 132 L 338 73 L 359 73 L 380 73 L 401 73 L 422 73 L 442 73 L 463 73 L 484 73 L 505 73 L 526 56 L 546 56 L 567 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 59 L 88 59 L 108 56 L 128 56 L 148 56 L 168 56 L 188 56 L 208 56 L 228 56 L 248 56 L 268 126 L 288 132 L 308 132 L 328 73 L 348 73 L 368 73 L 388 73 L 408 73 L 428 73 L 448 73 L 468 73 L 488 73 L 508 56 L 528 56 L 548 56 L 568 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 59 L 88 59 L 108 56 L 128 56 L 148 56 L 168 56 L 188 56 L 208 56 L 228 56 L 248 56 L 268 126 L 288 132 L 308 132 L 328 73 L 348 73 L 368 73 L 388 73 L 408 73 L 428 73 L 448 73 L 468 73 L 488 73 L 508 56 L 528 56 L 548 56 L 568 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="297" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="505" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="88" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="248" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="288" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="488" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="56" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="56" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -123,7 +125,7 @@ description: 뽀로로 비타민 C 복숭아맛 500정은 아이들의 면역력
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,000원 · 별점 4.9 · 리뷰 14,139개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,000원 · 별점 4.9 · 리뷰 14,142개</span>
     <a href="https://link.coupang.com/a/efCTT0Or6q" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -197,7 +199,7 @@ A. 500정 대용량은 개당 가격을 낮춰 경제적이며, 잦은 재구매
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,000원 · 별점 4.9 · 리뷰 14,139개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,000원 · 별점 4.9 · 리뷰 14,142개</span>
     <a href="https://link.coupang.com/a/efCTT0Or6q" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
