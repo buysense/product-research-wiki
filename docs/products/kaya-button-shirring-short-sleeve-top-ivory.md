@@ -19,7 +19,7 @@ description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivor
     "price": "122100",
     "url": "https://link.coupang.com/a/eYRe9Fyb5E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-06"
+    "priceValidUntil": "2026-07-07"
   }
 }
 </script>
