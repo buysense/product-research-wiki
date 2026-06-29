@@ -114,6 +114,8 @@ description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -125,44 +127,44 @@ description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
 
-    <path d="M 68 135 L 86 135 L 104 141 L 122 135 L 140 135 L 158 135 L 176 135 L 194 123 L 211 124 L 229 124 L 247 26 L 265 26 L 283 65 L 301 65 L 319 67 L 337 65 L 355 65 L 373 82 L 391 65 L 409 65 L 427 65 L 445 65 L 462 65 L 480 121 L 498 122 L 516 122 L 534 122 L 552 123 L 570 123 L 588 65 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 135 L 86 135 L 104 141 L 122 135 L 140 135 L 158 135 L 176 135 L 194 123 L 211 124 L 229 124 L 247 26 L 265 26 L 283 65 L 301 65 L 319 67 L 337 65 L 355 65 L 373 82 L 391 65 L 409 65 L 427 65 L 445 65 L 462 65 L 480 121 L 498 122 L 516 122 L 534 122 L 552 123 L 570 123 L 588 65" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 135 L 86 141 L 104 135 L 122 135 L 140 135 L 158 135 L 176 123 L 194 124 L 211 124 L 229 26 L 247 26 L 265 65 L 283 65 L 301 67 L 319 65 L 337 65 L 355 82 L 373 65 L 391 65 L 409 65 L 427 65 L 445 65 L 462 121 L 480 122 L 498 122 L 516 122 L 534 123 L 552 123 L 570 65 L 588 82 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 135 L 86 141 L 104 135 L 122 135 L 140 135 L 158 135 L 176 123 L 194 124 L 211 124 L 229 26 L 247 26 L 265 65 L 283 65 L 301 67 L 319 65 L 337 65 L 355 82 L 373 65 L 391 65 L 409 65 L 427 65 L 445 65 L 462 121 L 480 122 L 498 122 L 516 122 L 534 123 L 552 123 L 570 65 L 588 82" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="124" r="4" fill="#fdba74"></circle>
     <circle cx="211" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="65" r="4" fill="#fdba74"></circle>
     <circle cx="283" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="65" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="123" r="4" fill="#fdba74"></circle>
     <circle cx="552" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="65" r="5" fill="#ea580c"></circle>
+    <circle cx="570" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="82" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="53" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,980원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="588" y="70" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,530원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
