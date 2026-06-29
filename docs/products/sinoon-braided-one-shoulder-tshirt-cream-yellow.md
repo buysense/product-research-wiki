@@ -20,7 +20,7 @@ description: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 독특
     "price": "70190",
     "url": "https://link.coupang.com/a/eYQsTmQGQe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-06"
+    "priceValidUntil": "2026-07-07"
   }
 }
 </script>
