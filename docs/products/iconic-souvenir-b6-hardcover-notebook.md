@@ -20,7 +20,7 @@ description: 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장�
     "price": "7510",
     "url": "https://link.coupang.com/a/eJS1Tf5PzM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-06"
+    "priceValidUntil": "2026-07-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -48,9 +48,11 @@ description: 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -59,23 +61,24 @@ description: 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,400</text>
 
-    <path d="M 68 72 L 133 72 L 198 72 L 263 94 L 328 94 L 393 94 L 458 94 L 523 94 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 133 72 L 198 72 L 263 94 L 328 94 L 393 94 L 458 94 L 523 94 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 126 72 L 184 72 L 241 94 L 299 94 L 357 94 L 415 94 L 472 94 L 530 94 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 126 72 L 184 72 L 241 94 L 299 94 L 357 94 L 415 94 L 472 94 L 530 94 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="94" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="94" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,510원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
