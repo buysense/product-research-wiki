@@ -20,7 +20,7 @@ description: 헤파리제 W는 일본 제리아신약의 숙취 해소 음료로
     "price": "64500",
     "url": "https://link.coupang.com/a/ep9ktF",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-07"
+    "priceValidUntil": "2026-07-08"
   }
 }
 </script>
@@ -28,6 +28,8 @@ description: 헤파리제 W는 일본 제리아신약의 숙취 해소 음료로
   📅 작성일: 2026-04-16 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
 ## 참고한 글
+
+
 
 
 
@@ -151,26 +153,26 @@ description: 헤파리제 W는 일본 제리아신약의 숙취 해소 음료로
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">70,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
 
-    <path d="M 68 27 L 86 27 L 104 27 L 122 27 L 140 27 L 158 27 L 176 27 L 194 27 L 211 27 L 229 27 L 247 27 L 265 133 L 283 133 L 301 133 L 319 133 L 337 133 L 355 133 L 373 144 L 391 144 L 409 144 L 427 144 L 445 144 L 462 144 L 480 144 L 498 144 L 516 144 L 534 144 L 552 144 L 570 144 L 588 144 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 27 L 86 27 L 104 27 L 122 27 L 140 27 L 158 27 L 176 27 L 194 27 L 211 27 L 229 27 L 247 27 L 265 133 L 283 133 L 301 133 L 319 133 L 337 133 L 355 133 L 373 144 L 391 144 L 409 144 L 427 144 L 445 144 L 462 144 L 480 144 L 498 144 L 516 144 L 534 144 L 552 144 L 570 144 L 588 144" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 27 L 86 27 L 104 27 L 122 27 L 140 27 L 158 27 L 176 27 L 194 27 L 211 27 L 229 27 L 247 133 L 265 133 L 283 133 L 301 133 L 319 133 L 337 133 L 355 144 L 373 144 L 391 144 L 409 144 L 427 144 L 445 144 L 462 144 L 480 144 L 498 144 L 516 144 L 534 144 L 552 144 L 570 144 L 588 144 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 27 L 86 27 L 104 27 L 122 27 L 140 27 L 158 27 L 176 27 L 194 27 L 211 27 L 229 27 L 247 133 L 265 133 L 283 133 L 301 133 L 319 133 L 337 133 L 355 144 L 373 144 L 391 144 L 409 144 L 427 144 L 445 144 L 462 144 L 480 144 L 498 144 L 516 144 L 534 144 L 552 144 L 570 144 L 588 144" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="133" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="133" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="133" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="133" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="144" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="144" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="132" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">64,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
