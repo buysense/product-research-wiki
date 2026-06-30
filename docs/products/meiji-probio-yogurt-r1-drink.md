@@ -20,7 +20,7 @@ description: 메이지 프로비요 요거트 (R-1 드링크)는 R-1 유산균�
     "price": "36320",
     "url": "https://link.coupang.com/a/eqJLf7",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-07"
+    "priceValidUntil": "2026-07-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -147,6 +147,8 @@ description: 메이지 프로비요 요거트 (R-1 드링크)는 R-1 유산균�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -158,26 +160,26 @@ description: 메이지 프로비요 요거트 (R-1 드링크)는 R-1 유산균�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">36,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 107 L 86 107 L 104 107 L 122 107 L 140 107 L 158 107 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 78 L 283 78 L 301 78 L 319 78 L 337 78 L 355 78 L 373 78 L 391 78 L 409 78 L 427 78 L 445 78 L 462 78 L 480 78 L 498 78 L 516 78 L 534 78 L 552 78 L 570 78 L 588 78 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 107 L 86 107 L 104 107 L 122 107 L 140 107 L 158 107 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 78 L 283 78 L 301 78 L 319 78 L 337 78 L 355 78 L 373 78 L 391 78 L 409 78 L 427 78 L 445 78 L 462 78 L 480 78 L 498 78 L 516 78 L 534 78 L 552 78 L 570 78 L 588 78" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 107 L 86 107 L 104 107 L 122 107 L 140 107 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 78 L 265 78 L 283 78 L 301 78 L 319 78 L 337 78 L 355 78 L 373 78 L 391 78 L 409 78 L 427 78 L 445 78 L 462 78 L 480 78 L 498 78 L 516 78 L 534 78 L 552 78 L 570 78 L 588 78 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 107 L 86 107 L 104 107 L 122 107 L 140 107 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 78 L 265 78 L 283 78 L 301 78 L 319 78 L 337 78 L 355 78 L 373 78 L 391 78 L 409 78 L 427 78 L 445 78 L 462 78 L 480 78 L 498 78 L 516 78 L 534 78 L 552 78 L 570 78 L 588 78" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="78" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="78" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="66" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,320원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
