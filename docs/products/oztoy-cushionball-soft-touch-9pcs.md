@@ -20,12 +20,12 @@ description: 구강기 아기들의 촉감 발달과 소근육 성장을 돕는 
     "price": "9730",
     "url": "https://link.coupang.com/a/eqQeSxHmh2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-07"
+    "priceValidUntil": "2026-07-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 675,
+    "reviewCount": 676,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -72,9 +72,11 @@ description: 구강기 아기들의 촉감 발달과 소근육 성장을 돕는 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -83,22 +85,22 @@ description: 구강기 아기들의 촉감 발달과 소근육 성장을 돕는 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,700</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,600</text>
 
-    <path d="M 68 79 L 93 79 L 118 79 L 142 79 L 167 79 L 192 79 L 217 79 L 241 79 L 266 79 L 291 79 L 316 79 L 340 79 L 365 79 L 390 79 L 415 79 L 439 79 L 464 79 L 489 79 L 514 79 L 538 79 L 563 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 79 L 93 79 L 118 79 L 142 79 L 167 79 L 192 79 L 217 79 L 241 79 L 266 79 L 291 79 L 316 79 L 340 79 L 365 79 L 390 79 L 415 79 L 439 79 L 464 79 L 489 79 L 514 79 L 538 79 L 563 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 79 L 92 79 L 115 79 L 139 79 L 163 79 L 186 79 L 210 79 L 233 79 L 257 79 L 281 79 L 304 79 L 328 79 L 352 79 L 375 79 L 399 79 L 423 79 L 446 79 L 470 79 L 493 79 L 517 79 L 541 79 L 564 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 92 79 L 115 79 L 139 79 L 163 79 L 186 79 L 210 79 L 233 79 L 257 79 L 281 79 L 304 79 L 328 79 L 352 79 L 375 79 L 399 79 L 423 79 L 446 79 L 470 79 L 493 79 L 517 79 L 541 79 L 564 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="79" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="79" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,730원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -106,7 +108,7 @@ description: 구강기 아기들의 촉감 발달과 소근육 성장을 돕는 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,730원 · 별점 4.8 · 리뷰 675개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,730원 · 별점 4.8 · 리뷰 676개</span>
     <a href="https://link.coupang.com/a/eqQeSxHmh2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -179,7 +181,7 @@ A. 공 내부에 물이 들어갈 수 있어 완전히 담가 세척하기보다
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,730원 · 별점 4.8 · 리뷰 675개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,730원 · 별점 4.8 · 리뷰 676개</span>
     <a href="https://link.coupang.com/a/eqQeSxHmh2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
