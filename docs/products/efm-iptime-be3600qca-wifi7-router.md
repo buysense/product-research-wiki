@@ -20,7 +20,7 @@ description: EFM ipTIME BE3600QCA 유무선공유기는 Wi-Fi 7을 지원하며,
     "price": "69900",
     "url": "https://link.coupang.com/a/e1MkwzYOFE",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-08"
+    "priceValidUntil": "2026-07-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
