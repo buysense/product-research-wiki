@@ -20,7 +20,7 @@ description: 레이벤 RB4466D 플랫바 선글라스는 일상생활부터 휴�
     "price": "163400",
     "url": "https://link.coupang.com/a/edTAJxt08W",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-08"
+    "priceValidUntil": "2026-07-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -34,6 +34,8 @@ description: 레이벤 RB4466D 플랫바 선글라스는 일상생활부터 휴�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -105,16 +107,16 @@ description: 레이벤 RB4466D 플랫바 선글라스는 일상생활부터 휴�
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">163,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
