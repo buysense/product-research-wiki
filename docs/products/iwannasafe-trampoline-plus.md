@@ -116,6 +116,8 @@ description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -124,38 +126,38 @@ description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 �
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
     <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">140,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
 
-    <path d="M 68 120 L 86 93 L 104 93 L 122 83 L 140 83 L 158 83 L 176 83 L 194 83 L 211 83 L 229 83 L 247 83 L 265 83 L 283 83 L 301 83 L 319 83 L 337 83 L 355 83 L 373 83 L 391 83 L 409 83 L 427 53 L 445 83 L 462 38 L 480 38 L 498 38 L 516 38 L 534 39 L 552 39 L 570 39 L 588 66 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 120 L 86 93 L 104 93 L 122 83 L 140 83 L 158 83 L 176 83 L 194 83 L 211 83 L 229 83 L 247 83 L 265 83 L 283 83 L 301 83 L 319 83 L 337 83 L 355 83 L 373 83 L 391 83 L 409 83 L 427 53 L 445 83 L 462 38 L 480 38 L 498 38 L 516 38 L 534 39 L 552 39 L 570 39 L 588 66" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="39" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="39" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="39" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="66" r="5" fill="#ea580c"></circle>
+    <path d="M 68 161 L 86 161 L 104 139 L 122 139 L 140 139 L 158 139 L 176 139 L 194 139 L 211 139 L 229 139 L 247 139 L 265 139 L 283 139 L 301 139 L 319 139 L 337 139 L 355 139 L 373 139 L 391 139 L 409 81 L 427 139 L 445 50 L 462 50 L 480 50 L 498 51 L 516 51 L 534 51 L 552 51 L 570 106 L 588 55 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 161 L 86 161 L 104 139 L 122 139 L 140 139 L 158 139 L 176 139 L 194 139 L 211 139 L 229 139 L 247 139 L 265 139 L 283 139 L 301 139 L 319 139 L 337 139 L 355 139 L 373 139 L 391 139 L 409 81 L 427 139 L 445 50 L 462 50 L 480 50 L 498 51 L 516 51 L 534 51 L 552 51 L 570 106 L 588 55" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="55" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="54" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">129,410원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="588" y="43" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">136,200원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
