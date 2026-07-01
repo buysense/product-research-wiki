@@ -19,7 +19,7 @@ description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레�
     "price": "47200",
     "url": "https://link.coupang.com/a/e18gIlYsbA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-08"
+    "priceValidUntil": "2026-07-09"
   }
 }
 </script>
