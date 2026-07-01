@@ -17,15 +17,15 @@ description: 롯데웰푸드 티코 밀크초코 저당은 부담 없이 즐길 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "7790",
+    "price": "6990",
     "url": "https://link.coupang.com/a/dGIyBg15lA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-08"
+    "priceValidUntil": "2026-07-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2343,
+    "reviewCount": 2347,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -127,6 +127,8 @@ description: 롯데웰푸드 티코 밀크초코 저당은 부담 없이 즐길 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -135,28 +137,29 @@ description: 롯데웰푸드 티코 밀크초코 저당은 부담 없이 즐길 
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
     <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,500</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 148 L 391 148 L 409 148 L 427 148 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 148 L 552 148 L 570 148 L 588 58 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 148 L 391 148 L 409 148 L 427 148 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 148 L 552 148 L 570 148 L 588 58" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 87 L 373 87 L 391 87 L 409 87 L 427 87 L 445 87 L 462 87 L 480 87 L 498 87 L 516 87 L 534 87 L 552 87 L 570 42 L 588 103 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 87 L 373 87 L 391 87 L 409 87 L 427 87 L 445 87 L 462 87 L 480 87 L 498 87 L 516 87 L 534 87 L 552 87 L 570 42 L 588 103" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="58" r="5" fill="#ea580c"></circle>
+    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="103" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="46" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,790원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="588" y="91" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,990원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -164,7 +167,7 @@ description: 롯데웰푸드 티코 밀크초코 저당은 부담 없이 즐길 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,790원 · 별점 4.8 · 리뷰 2,343개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,990원 · 별점 4.8 · 리뷰 2,347개</span>
     <a href="https://link.coupang.com/a/dGIyBg15lA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -239,7 +242,7 @@ A. 개별 포장은 위생적인 보관을 가능하게 하며, 하나씩 꺼내
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,790원 · 별점 4.8 · 리뷰 2,343개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,990원 · 별점 4.8 · 리뷰 2,347개</span>
     <a href="https://link.coupang.com/a/dGIyBg15lA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
