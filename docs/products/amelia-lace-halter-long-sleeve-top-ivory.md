@@ -19,7 +19,7 @@ description: Amelia Lace Halter Long Sleeve Top (Ivory)은 섬세한 레이스 �
     "price": "114200",
     "url": "https://link.coupang.com/a/e18A3UaR08",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-08"
+    "priceValidUntil": "2026-07-09"
   }
 }
 </script>
