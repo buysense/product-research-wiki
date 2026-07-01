@@ -20,7 +20,7 @@ description: 신생아의 시각 발달과 정서적 안정에 도움을 주는 
     "price": "24000",
     "url": "https://link.coupang.com/a/e1BgCRuirY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-08"
+    "priceValidUntil": "2026-07-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
