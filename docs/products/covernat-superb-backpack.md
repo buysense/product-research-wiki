@@ -17,10 +17,10 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "61190",
+    "price": "55440",
     "url": "https://link.coupang.com/a/exWdfA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-08"
+    "priceValidUntil": "2026-07-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -146,6 +146,8 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -157,33 +159,33 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 64 L 86 64 L 104 101 L 122 140 L 140 101 L 158 101 L 176 101 L 194 101 L 211 140 L 229 101 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 101 L 355 101 L 373 101 L 391 101 L 409 101 L 427 101 L 445 101 L 462 101 L 480 101 L 498 101 L 516 101 L 534 101 L 552 101 L 570 101 L 588 93 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 64 L 86 64 L 104 101 L 122 140 L 140 101 L 158 101 L 176 101 L 194 101 L 211 140 L 229 101 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 101 L 355 101 L 373 101 L 391 101 L 409 101 L 427 101 L 445 101 L 462 101 L 480 101 L 498 101 L 516 101 L 534 101 L 552 101 L 570 101 L 588 93" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 64 L 86 101 L 104 140 L 122 101 L 140 101 L 158 101 L 176 101 L 194 140 L 211 101 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 101 L 337 101 L 355 101 L 373 101 L 391 101 L 409 101 L 427 101 L 445 101 L 462 101 L 480 101 L 498 101 L 516 101 L 534 101 L 552 101 L 570 93 L 588 137 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 64 L 86 101 L 104 140 L 122 101 L 140 101 L 158 101 L 176 101 L 194 140 L 211 101 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 101 L 337 101 L 355 101 L 373 101 L 391 101 L 409 101 L 427 101 L 445 101 L 462 101 L 480 101 L 498 101 L 516 101 L 534 101 L 552 101 L 570 93 L 588 137" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="93" r="5" fill="#ea580c"></circle>
+    <circle cx="86" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="137" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="81" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">61,190원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">05-31</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="588" y="125" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">55,440원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -191,7 +193,7 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 61,190원 · 별점 4.7 · 리뷰 22개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 55,440원 · 별점 4.7 · 리뷰 22개</span>
     <a href="https://link.coupang.com/a/exWdfA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -279,7 +281,7 @@ A. 매일 학교에 갈 때 교과서나 학용품을 넣고 다니는 통학용
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 61,190원 · 별점 4.7 · 리뷰 22개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 55,440원 · 별점 4.7 · 리뷰 22개</span>
     <a href="https://link.coupang.com/a/exWdfA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
