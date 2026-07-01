@@ -19,7 +19,7 @@ description: 한스킨 블랙헤드 클렌징 오일 PHA는 모공 속 블랙헤
     "price": "39960",
     "url": "https://link.coupang.com/a/erHbFNwEdU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-08"
+    "priceValidUntil": "2026-07-09"
   }
 }
 </script>
@@ -66,9 +66,11 @@ description: 한스킨 블랙헤드 클렌징 오일 PHA는 모공 속 블랙헤
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -77,22 +79,22 @@ description: 한스킨 블랙헤드 클렌징 오일 PHA는 모공 속 블랙헤
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">39,900</text>
 
-    <path d="M 68 132 L 93 132 L 118 132 L 142 132 L 167 132 L 192 132 L 217 132 L 241 132 L 266 132 L 291 132 L 316 132 L 340 132 L 365 132 L 390 132 L 415 132 L 439 132 L 464 132 L 489 132 L 514 132 L 538 132 L 563 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 132 L 93 132 L 118 132 L 142 132 L 167 132 L 192 132 L 217 132 L 241 132 L 266 132 L 291 132 L 316 132 L 340 132 L 365 132 L 390 132 L 415 132 L 439 132 L 464 132 L 489 132 L 514 132 L 538 132 L 563 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 132 L 92 132 L 115 132 L 139 132 L 163 132 L 186 132 L 210 132 L 233 132 L 257 132 L 281 132 L 304 132 L 328 132 L 352 132 L 375 132 L 399 132 L 423 132 L 446 132 L 470 132 L 493 132 L 517 132 L 541 132 L 564 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 92 132 L 115 132 L 139 132 L 163 132 L 186 132 L 210 132 L 233 132 L 257 132 L 281 132 L 304 132 L 328 132 L 352 132 L 375 132 L 399 132 L 423 132 L 446 132 L 470 132 L 493 132 L 517 132 L 541 132 L 564 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="132" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">39,960원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
