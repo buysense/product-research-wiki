@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 아기 모빌 신생아 아기 침대 감성모빌 원목: products/baby-mobile-newborn-crib-aesthetic-wood.md
     - 트리미고 신생아 접이식 휴대용 유아침대: products/trimigo-newborn-folding-portable-crib.md
     - "[플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory)": products/kaya-button-shirring-short-sleeve-top-ivory.md
     - 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow): products/sinoon-braided-one-shoulder-tshirt-cream-yellow.md
