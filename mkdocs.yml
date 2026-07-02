@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 마이디어 냉장고 173L: products/mydear-refrigerator-173l.md
     - "[플리즈노팔로우] Amelia Lace Halter Long Sleeve Top (Ivory)": products/amelia-lace-halter-long-sleeve-top-ivory.md
     - 팬시클럽 00s 슬리브리스 (BLUE) F26QB121: products/fancyclub-00s-sleeveless-blue-f26qb121.md
     - EFM ipTIME BE9400QCA 유무선공유기: products/efm-iptime-be9400qca-wifi7-router.md
