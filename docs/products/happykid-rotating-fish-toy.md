@@ -20,12 +20,12 @@ description: 해피키드 회전하는 물고기는 유아의 시각 및 소근�
     "price": "11070",
     "url": "https://link.coupang.com/a/eBr0jdQ5K0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-09"
+    "priceValidUntil": "2026-07-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.8,
-    "reviewCount": 6,
+    "ratingValue": 4.9,
+    "reviewCount": 7,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -64,9 +64,11 @@ description: 해피키드 회전하는 물고기는 유아의 시각 및 소근�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -75,24 +77,24 @@ description: 해피키드 회전하는 물고기는 유아의 시각 및 소근�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 146 L 101 146 L 133 146 L 166 146 L 198 146 L 231 146 L 263 146 L 296 146 L 328 61 L 361 61 L 393 61 L 426 61 L 458 61 L 491 61 L 523 61 L 556 61 L 588 61 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 146 L 101 146 L 133 146 L 166 146 L 198 146 L 231 146 L 263 146 L 296 146 L 328 61 L 361 61 L 393 61 L 426 61 L 458 61 L 491 61 L 523 61 L 556 61 L 588 61" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 146 L 99 146 L 129 146 L 160 146 L 190 146 L 221 146 L 252 146 L 282 146 L 313 61 L 343 61 L 374 61 L 404 61 L 435 61 L 466 61 L 496 61 L 527 61 L 557 61 L 588 61 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 146 L 99 146 L 129 146 L 160 146 L 190 146 L 221 146 L 252 146 L 282 146 L 313 61 L 343 61 L 374 61 L 404 61 L 435 61 L 466 61 L 496 61 L 527 61 L 557 61 L 588 61" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="296" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="282" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="313" cy="61" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="61" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="49" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,070원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -100,7 +102,7 @@ description: 해피키드 회전하는 물고기는 유아의 시각 및 소근�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,070원 · 별점 4.8 · 리뷰 6개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,070원 · 별점 4.9 · 리뷰 7개</span>
     <a href="https://link.coupang.com/a/eBr0jdQ5K0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -173,7 +175,7 @@ A. 아기가 바운서, 아기침대, 플레이 매트 등에서 누워 있거�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,070원 · 별점 4.8 · 리뷰 6개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,070원 · 별점 4.9 · 리뷰 7개</span>
     <a href="https://link.coupang.com/a/eBr0jdQ5K0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
