@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 컨버스 척 70 X 아머 블루 A24231C: products/converse-chuck70-armor-blue-a24231c.md
     - ROLAROLA MAISON DE ROLA BALL CAP NV+IV: products/rolarola-maison-de-rola-ball-cap-nv-iv.md
     - 마이디어 냉장고 173L: products/mydear-refrigerator-173l.md
     - "[플리즈노팔로우] Amelia Lace Halter Long Sleeve Top (Ivory)": products/amelia-lace-halter-long-sleeve-top-ivory.md
