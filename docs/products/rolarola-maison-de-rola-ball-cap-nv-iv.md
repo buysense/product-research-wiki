@@ -19,7 +19,7 @@ description: 로라로라 메종 드 로라 볼캡 NV+IV는 캐주얼한 스타�
     "price": "55900",
     "url": "https://link.coupang.com/a/e3N9TxYpGe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-09"
+    "priceValidUntil": "2026-07-10"
   }
 }
 </script>
