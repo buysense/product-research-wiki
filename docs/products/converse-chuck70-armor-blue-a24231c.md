@@ -19,7 +19,7 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
     "price": "124900",
     "url": "https://link.coupang.com/a/e3OVmIp8DI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-09"
+    "priceValidUntil": "2026-07-10"
   }
 }
 </script>
