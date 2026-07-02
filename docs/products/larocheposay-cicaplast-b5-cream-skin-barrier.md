@@ -17,15 +17,15 @@ description: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림 40ml는 예�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "23830",
+    "price": "23300",
     "url": "https://link.coupang.com/a/euwouI9g0y",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-09"
+    "priceValidUntil": "2026-07-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 7884,
+    "reviewCount": 7908,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -72,9 +72,11 @@ description: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림 40ml는 예�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -83,29 +85,30 @@ description: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림 40ml는 예�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
 
-    <path d="M 68 107 L 94 107 L 120 107 L 146 107 L 172 26 L 198 26 L 224 26 L 250 26 L 276 26 L 302 26 L 328 26 L 354 26 L 380 57 L 406 57 L 432 57 L 458 57 L 484 57 L 510 57 L 536 26 L 562 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 107 L 94 107 L 120 107 L 146 107 L 172 26 L 198 26 L 224 26 L 250 26 L 276 26 L 302 26 L 328 26 L 354 26 L 380 57 L 406 57 L 432 57 L 458 57 L 484 57 L 510 57 L 536 26 L 562 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 107 L 93 107 L 118 107 L 142 107 L 167 26 L 192 26 L 217 26 L 241 26 L 266 26 L 291 26 L 316 26 L 340 26 L 365 57 L 390 57 L 415 57 L 439 57 L 464 57 L 489 57 L 514 26 L 538 26 L 563 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 107 L 93 107 L 118 107 L 142 107 L 167 26 L 192 26 L 217 26 L 241 26 L 266 26 L 291 26 L 316 26 L 340 26 L 365 57 L 390 57 L 415 57 L 439 57 L 464 57 L 489 57 L 514 26 L 538 26 L 563 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="146" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="354" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="510" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="536" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="562" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="167" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="340" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="489" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="538" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="563" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,830원</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,300원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -113,7 +116,7 @@ description: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림 40ml는 예�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,830원 · 별점 4.7 · 리뷰 7,884개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,300원 · 별점 4.7 · 리뷰 7,908개</span>
     <a href="https://link.coupang.com/a/euwouI9g0y" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -186,7 +189,7 @@ A. 평상시에는 건조하거나 예민한 부위에 국소적으로 사용하
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,830원 · 별점 4.7 · 리뷰 7,884개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,300원 · 별점 4.7 · 리뷰 7,908개</span>
     <a href="https://link.coupang.com/a/euwouI9g0y" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
