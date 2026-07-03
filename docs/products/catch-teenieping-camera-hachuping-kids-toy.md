@@ -20,7 +20,7 @@ description: 캐치티니핑 카메라 하츄핑은 귀여운 디자인과 셀�
     "price": "99000",
     "url": "https://link.coupang.com/a/e5hSzsnCRo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
