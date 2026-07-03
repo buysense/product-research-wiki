@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 캐치티니핑 카메라 하츄핑: products/catch-teenieping-camera-hachuping-kids-toy.md
     - 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13: products/sketchers-kids-boundless-sk0gpcgx13-shoes.md
     - 레고 듀플로 브릭 박스 10913: products/lego-duplo-brick-box-10913.md
     - 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트: products/edison-easy-grip-silicone-spoon-fork-case-set.md
