@@ -20,7 +20,7 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
     "price": "42750",
     "url": "https://link.coupang.com/a/e5cvl2EOTQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
