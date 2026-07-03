@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 베베숲 오리진 유아물티슈 캡형: products/bebesup-origin-baby-wet-wipes-cap.md
     - 페넬로페 본보야지 에펠 아기물티슈 캡형: products/penelope-bonvoyage-eiffel-baby-wipes-cap.md
     - "하기스 네이처메이드 생분해 물티슈 캡형, 70매, 10개": products/huggies-naturemade-biodegradable-wipes-70ct-10pack.md
     - 베베핀 멜로디 쇼핑카트: products/beebefinn-melody-shopping-cart-toy.md
