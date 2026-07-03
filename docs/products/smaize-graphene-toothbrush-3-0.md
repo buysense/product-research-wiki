@@ -20,7 +20,7 @@ description: 스마이즈 그래핀모 칫솔 3.0은 신소재 그래핀모와 �
     "price": "36000",
     "url": "https://link.coupang.com/a/erGNsnaPDg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -78,9 +78,11 @@ description: 스마이즈 그래핀모 칫솔 3.0은 신소재 그래핀모와 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -89,26 +91,26 @@ description: 스마이즈 그래핀모 칫솔 3.0은 신소재 그래핀모와 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 44 L 90 44 L 111 161 L 133 161 L 155 161 L 176 161 L 198 161 L 220 161 L 241 161 L 263 161 L 285 161 L 306 161 L 328 161 L 350 161 L 371 161 L 393 161 L 415 161 L 436 161 L 458 161 L 480 132 L 501 132 L 523 132 L 545 132 L 566 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 44 L 90 44 L 111 161 L 133 161 L 155 161 L 176 161 L 198 161 L 220 161 L 241 161 L 263 161 L 285 161 L 306 161 L 328 161 L 350 161 L 371 161 L 393 161 L 415 161 L 436 161 L 458 161 L 480 132 L 501 132 L 523 132 L 545 132 L 566 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 44 L 89 44 L 110 161 L 130 161 L 151 161 L 172 161 L 193 161 L 214 161 L 234 161 L 255 161 L 276 161 L 297 161 L 318 161 L 338 161 L 359 161 L 380 161 L 401 161 L 422 161 L 442 161 L 463 132 L 484 132 L 505 132 L 526 132 L 546 132 L 567 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 44 L 89 44 L 110 161 L 130 161 L 151 161 L 172 161 L 193 161 L 214 161 L 234 161 L 255 161 L 276 161 L 297 161 L 318 161 L 338 161 L 359 161 L 380 161 L 401 161 L 422 161 L 442 161 L 463 132 L 484 132 L 505 132 L 526 132 L 546 132 L 567 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="90" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="111" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="89" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="110" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="442" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="463" cy="132" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
