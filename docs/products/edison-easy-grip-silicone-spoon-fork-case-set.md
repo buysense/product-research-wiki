@@ -20,7 +20,7 @@ description: 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트는
     "price": "14150",
     "url": "https://link.coupang.com/a/e5amdG8hm8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
