@@ -20,7 +20,7 @@ description: 페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의
     "price": "19790",
     "url": "https://link.coupang.com/a/e48pstcVpc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
