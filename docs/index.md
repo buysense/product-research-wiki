@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 새콤달콤 캐치티니핑 디저트샵 소꿉놀이 | [보기](products/saekomdalcom-catchteenieping-dessert-shop-play.md) |
 | 크록스 바야밴드 클로그 토들러 | [보기](products/crocs-bayaband-clog-toddler.md) |
 | 크록스 슈즈 크록스공식 유아 BAYABAND CLOG | [보기](products/crocs-bayaband-clog-kids.md) |
 | 캐치티니핑 하츄핑 핸드폰 여행세트 | [보기](products/catch-teenieping-hachuping-phone-travel-set.md) |
