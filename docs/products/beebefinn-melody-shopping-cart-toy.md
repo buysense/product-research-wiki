@@ -20,7 +20,7 @@ description: 베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후 아�
     "price": "39800",
     "url": "https://link.coupang.com/a/e47Kyp2X7Y",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
