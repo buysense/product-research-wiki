@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 캐치티니핑 하츄핑 핸드폰 여행세트 | [보기](products/catch-teenieping-hachuping-phone-travel-set.md) |
 | 캐치티니핑 카메라 하츄핑 | [보기](products/catch-teenieping-camera-hachuping-kids-toy.md) |
 | 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13 | [보기](products/sketchers-kids-boundless-sk0gpcgx13-shoes.md) |
 | 레고 듀플로 브릭 박스 10913 | [보기](products/lego-duplo-brick-box-10913.md) |
