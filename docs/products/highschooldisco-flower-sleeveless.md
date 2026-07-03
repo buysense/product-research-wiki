@@ -19,7 +19,7 @@ description: 하이스쿨디스코 플라워 슬리브리스는 다채로운 꽃
     "price": "37200",
     "url": "https://link.coupang.com/a/e5sW4XEOzY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   }
 }
 </script>
