@@ -17,10 +17,10 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "23340",
+    "price": "24500",
     "url": "https://link.coupang.com/a/e498fd5u7E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -37,7 +37,7 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,340원 · 별점 4.9 · 리뷰 1,435개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,500원 · 별점 4.9 · 리뷰 1,435개</span>
     <a href="https://link.coupang.com/a/e498fd5u7E" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -111,7 +111,7 @@ A. 전자레인지 사용은 3분 이내로 음식을 데우는 용도로만 권
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,340원 · 별점 4.9 · 리뷰 1,435개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 24,500원 · 별점 4.9 · 리뷰 1,435개</span>
     <a href="https://link.coupang.com/a/e498fd5u7E" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
