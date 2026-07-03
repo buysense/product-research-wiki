@@ -20,7 +20,7 @@ description: 캐치티니핑 하츄핑 핸드폰 여행세트는 4-7세 여자�
     "price": "35600",
     "url": "https://link.coupang.com/a/e5h7Yzp6uO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
