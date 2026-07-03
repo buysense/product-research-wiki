@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "하기스 네이처메이드 생분해 물티슈 캡형, 70매, 10개": products/huggies-naturemade-biodegradable-wipes-70ct-10pack.md
     - 베베핀 멜로디 쇼핑카트: products/beebefinn-melody-shopping-cart-toy.md
     - 오즈토이 튼튼한 푸드 쇼핑카트: products/oztoy-sturdy-food-shopping-cart.md
     - 아소부 콜드브루 메이커: products/asobu-cold-brew-maker.md

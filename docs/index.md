@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 하기스 네이처메이드 생분해 물티슈 캡형, 70매, 10개 | [보기](products/huggies-naturemade-biodegradable-wipes-70ct-10pack.md) |
 | 베베핀 멜로디 쇼핑카트 | [보기](products/beebefinn-melody-shopping-cart-toy.md) |
 | 오즈토이 튼튼한 푸드 쇼핑카트 | [보기](products/oztoy-sturdy-food-shopping-cart.md) |
 | 아소부 콜드브루 메이커 | [보기](products/asobu-cold-brew-maker.md) |
