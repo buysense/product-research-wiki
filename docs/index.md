@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13 | [보기](products/sketchers-kids-boundless-sk0gpcgx13-shoes.md) |
 | 레고 듀플로 브릭 박스 10913 | [보기](products/lego-duplo-brick-box-10913.md) |
 | 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트 | [보기](products/edison-easy-grip-silicone-spoon-fork-case-set.md) |
 | 네스틱 원플레이트 유아식판 | [보기](products/nestic-oneplate-baby-plate.md) |
