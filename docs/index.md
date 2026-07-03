@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트 | [보기](products/edison-easy-grip-silicone-spoon-fork-case-set.md) |
 | 네스틱 원플레이트 유아식판 | [보기](products/nestic-oneplate-baby-plate.md) |
 | 베베숲 오리진 유아물티슈 캡형 | [보기](products/bebesup-origin-baby-wet-wipes-cap.md) |
 | 페넬로페 본보야지 에펠 아기물티슈 캡형 | [보기](products/penelope-bonvoyage-eiffel-baby-wipes-cap.md) |
