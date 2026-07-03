@@ -20,7 +20,7 @@ description: 아소부 콜드브루 메이커는 집에서 간편하게 콜드�
     "price": "49900",
     "url": "https://link.coupang.com/a/e4Y9dzqJFc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
