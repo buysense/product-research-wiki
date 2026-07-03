@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 크록스 슈즈 크록스공식 유아 BAYABAND CLOG: products/crocs-bayaband-clog-kids.md
     - 캐치티니핑 하츄핑 핸드폰 여행세트: products/catch-teenieping-hachuping-phone-travel-set.md
     - 캐치티니핑 카메라 하츄핑: products/catch-teenieping-camera-hachuping-kids-toy.md
     - 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13: products/sketchers-kids-boundless-sk0gpcgx13-shoes.md
