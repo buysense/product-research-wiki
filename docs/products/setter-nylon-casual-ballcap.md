@@ -20,7 +20,7 @@ description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감�
     "price": "46920",
     "url": "https://link.coupang.com/a/e5tHXjzRO8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
