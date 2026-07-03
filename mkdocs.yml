@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 하이스쿨디스코 플라워 슬리브리스: products/highschooldisco-flower-sleeveless.md
     - 새콤달콤 캐치티니핑 디저트샵 소꿉놀이: products/saekomdalcom-catchteenieping-dessert-shop-play.md
     - 크록스 바야밴드 클로그 토들러: products/crocs-bayaband-clog-toddler.md
     - 크록스 슈즈 크록스공식 유아 BAYABAND CLOG: products/crocs-bayaband-clog-kids.md
