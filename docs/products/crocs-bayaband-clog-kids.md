@@ -19,7 +19,7 @@ description: 크록스 유아 바야밴드 클로그는 아이들이 편안하�
     "price": "38350",
     "url": "https://link.coupang.com/a/e5iq0dMise",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
