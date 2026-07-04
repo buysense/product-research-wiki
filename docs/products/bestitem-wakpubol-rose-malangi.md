@@ -19,13 +19,15 @@ description: 베스트템 왁뿌볼 로제 말랑이는 부드러운 촉감과 �
     "price": "14800",
     "url": "https://link.coupang.com/a/dLE4vuXxsW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-11"
+    "priceValidUntil": "2026-07-12"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -125,28 +127,27 @@ description: 베스트템 왁뿌볼 로제 말랑이는 부드러운 촉감과 �
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
     <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
 
-    <path d="M 68 148 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 148 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
