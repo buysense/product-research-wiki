@@ -16,37 +16,41 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "128800",
+    "price": "130200",
     "url": "https://link.coupang.com/a/e3OVmIp8DI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-11"
+    "priceValidUntil": "2026-07-12"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-02 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">128,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">126,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">124,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">125,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
 
-    <path d="M 68 144 L 328 144 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 144 L 328 144 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="144" r="4" fill="#fdba74"></circle>
+    <path d="M 68 104 L 241 104 L 415 44 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 104 L 241 104 L 415 44 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="44" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">128,800원</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">130,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
