@@ -20,7 +20,7 @@ description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 
     "price": "65900",
     "url": "https://link.coupang.com/a/euwOqLC9xk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-11"
+    "priceValidUntil": "2026-07-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -76,9 +76,11 @@ description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -87,24 +89,24 @@ description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">66,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">65,500</text>
 
-    <path d="M 68 43 L 92 43 L 115 43 L 139 43 L 163 43 L 186 43 L 210 43 L 233 43 L 257 43 L 281 43 L 304 43 L 328 43 L 352 43 L 375 117 L 399 117 L 423 117 L 446 117 L 470 117 L 493 117 L 517 117 L 541 117 L 564 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 43 L 92 43 L 115 43 L 139 43 L 163 43 L 186 43 L 210 43 L 233 43 L 257 43 L 281 43 L 304 43 L 328 43 L 352 43 L 375 117 L 399 117 L 423 117 L 446 117 L 470 117 L 493 117 L 517 117 L 541 117 L 564 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 43 L 91 43 L 113 43 L 136 43 L 158 43 L 181 43 L 204 43 L 226 43 L 249 43 L 271 43 L 294 43 L 317 43 L 339 43 L 362 117 L 385 117 L 407 117 L 430 117 L 452 117 L 475 117 L 498 117 L 520 117 L 543 117 L 565 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 43 L 91 43 L 113 43 L 136 43 L 158 43 L 181 43 L 204 43 L 226 43 L 249 43 L 271 43 L 294 43 L 317 43 L 339 43 L 362 117 L 385 117 L 407 117 L 430 117 L 452 117 L 475 117 L 498 117 L 520 117 L 543 117 L 565 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="339" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="117" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">65,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
