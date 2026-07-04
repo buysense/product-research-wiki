@@ -20,7 +20,7 @@ description: 기꼬만 시보리타테 생 간장은 깊은 감칠맛과 부드�
     "price": "38500",
     "url": "https://link.coupang.com/a/epCERb",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-11"
+    "priceValidUntil": "2026-07-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -155,6 +155,8 @@ description: 기꼬만 시보리타테 생 간장은 깊은 감칠맛과 부드�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -166,29 +168,29 @@ description: 기꼬만 시보리타테 생 간장은 깊은 감칠맛과 부드�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 154 L 86 154 L 104 154 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 154 L 229 154 L 247 154 L 265 154 L 283 156 L 301 156 L 319 156 L 337 156 L 355 156 L 373 156 L 391 156 L 409 156 L 427 156 L 445 156 L 462 156 L 480 156 L 498 32 L 516 32 L 534 32 L 552 154 L 570 32 L 588 32 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 154 L 86 154 L 104 154 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 154 L 229 154 L 247 154 L 265 154 L 283 156 L 301 156 L 319 156 L 337 156 L 355 156 L 373 156 L 391 156 L 409 156 L 427 156 L 445 156 L 462 156 L 480 156 L 498 32 L 516 32 L 534 32 L 552 154 L 570 32 L 588 32" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 154 L 86 154 L 104 154 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 154 L 229 154 L 247 154 L 265 156 L 283 156 L 301 156 L 319 156 L 337 156 L 355 156 L 373 156 L 391 156 L 409 156 L 427 156 L 445 156 L 462 156 L 480 32 L 498 32 L 516 32 L 534 154 L 552 32 L 570 32 L 588 32 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 154 L 86 154 L 104 154 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 154 L 229 154 L 247 154 L 265 156 L 283 156 L 301 156 L 319 156 L 337 156 L 355 156 L 373 156 L 391 156 L 409 156 L 427 156 L 445 156 L 462 156 L 480 32 L 498 32 L 516 32 L 534 154 L 552 32 L 570 32 L 588 32" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="156" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="156" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="156" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="156" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="32" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="32" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="20" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">38,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
