@@ -17,15 +17,15 @@ description: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "16900",
+    "price": "25390",
     "url": "https://link.coupang.com/a/euwA9NHo3U",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-10"
+    "priceValidUntil": "2026-07-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 3170,
+    "reviewCount": 3184,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -74,38 +74,41 @@ description: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 49 L 92 49 L 115 49 L 139 49 L 163 49 L 186 49 L 210 49 L 233 49 L 257 49 L 281 49 L 304 49 L 328 49 L 352 49 L 375 49 L 399 144 L 423 49 L 446 49 L 470 49 L 493 49 L 517 144 L 541 144 L 564 144 L 588 144 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 49 L 92 49 L 115 49 L 139 49 L 163 49 L 186 49 L 210 49 L 233 49 L 257 49 L 281 49 L 304 49 L 328 49 L 352 49 L 375 49 L 399 144 L 423 49 L 446 49 L 470 49 L 493 49 L 517 144 L 541 144 L 564 144 L 588 144" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="423" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="517" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="144" r="5" fill="#ea580c"></circle>
+    <path d="M 68 111 L 91 111 L 113 111 L 136 111 L 158 111 L 181 111 L 204 111 L 226 111 L 249 111 L 271 111 L 294 111 L 317 111 L 339 111 L 362 111 L 385 149 L 407 111 L 430 111 L 452 111 L 475 111 L 498 149 L 520 149 L 543 149 L 565 149 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 111 L 91 111 L 113 111 L 136 111 L 158 111 L 181 111 L 204 111 L 226 111 L 249 111 L 271 111 L 294 111 L 317 111 L 339 111 L 362 111 L 385 149 L 407 111 L 430 111 L 452 111 L 475 111 L 498 149 L 520 149 L 543 149 L 565 149 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="385" cy="149" r="4" fill="#fdba74"></circle>
+    <circle cx="407" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="475" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="149" r="4" fill="#fdba74"></circle>
+    <circle cx="565" cy="149" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="132" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,900원</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">25,390원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -113,7 +116,7 @@ description: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,900원 · 별점 4.7 · 리뷰 3,170개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 25,390원 · 별점 4.7 · 리뷰 3,184개</span>
     <a href="https://link.coupang.com/a/euwA9NHo3U" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -193,7 +196,7 @@ A. 대부분의 경우 매일 사용해도 괜찮지만, 피부 민감도에 따
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,900원 · 별점 4.7 · 리뷰 3,170개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 25,390원 · 별점 4.7 · 리뷰 3,184개</span>
     <a href="https://link.coupang.com/a/euwA9NHo3U" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
