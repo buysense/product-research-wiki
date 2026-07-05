@@ -19,7 +19,7 @@ description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 
     "price": "56200",
     "url": "https://link.coupang.com/a/e6TryVOGey",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-11"
+    "priceValidUntil": "2026-07-13"
   }
 }
 </script>
