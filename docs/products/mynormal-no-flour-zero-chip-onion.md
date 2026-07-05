@@ -17,15 +17,15 @@ description: 마이노멀 밀가루 없는 제로칩 어니언맛은 다이어�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "2900",
+    "price": "18500",
     "url": "https://link.coupang.com/a/epWLdOTHsO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-12"
+    "priceValidUntil": "2026-07-13"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 439,
+    "reviewCount": 444,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -84,9 +84,11 @@ description: 마이노멀 밀가루 없는 제로칩 어니언맛은 다이어�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -95,23 +97,24 @@ description: 마이노멀 밀가루 없는 제로칩 어니언맛은 다이어�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 72 L 87 72 L 107 72 L 126 72 L 145 72 L 164 72 L 184 72 L 203 72 L 222 72 L 241 72 L 261 72 L 280 72 L 299 72 L 318 72 L 338 72 L 357 72 L 376 72 L 395 72 L 415 72 L 434 72 L 453 72 L 472 72 L 492 72 L 511 72 L 530 72 L 549 72 L 569 72 L 588 156 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 87 72 L 107 72 L 126 72 L 145 72 L 164 72 L 184 72 L 203 72 L 222 72 L 241 72 L 261 72 L 280 72 L 299 72 L 318 72 L 338 72 L 357 72 L 376 72 L 395 72 L 415 72 L 434 72 L 453 72 L 472 72 L 492 72 L 511 72 L 530 72 L 549 72 L 569 72 L 588 156" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 87 72 L 105 72 L 124 72 L 142 72 L 161 72 L 179 72 L 198 72 L 217 72 L 235 72 L 254 72 L 272 72 L 291 72 L 309 72 L 328 72 L 347 72 L 365 72 L 384 72 L 402 72 L 421 72 L 439 72 L 458 72 L 477 72 L 495 72 L 514 72 L 532 72 L 551 72 L 569 156 L 588 37 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 87 72 L 105 72 L 124 72 L 142 72 L 161 72 L 179 72 L 198 72 L 217 72 L 235 72 L 254 72 L 272 72 L 291 72 L 309 72 L 328 72 L 347 72 L 365 72 L 384 72 L 402 72 L 421 72 L 439 72 L 458 72 L 477 72 L 495 72 L 514 72 L 532 72 L 551 72 L 569 156 L 588 37" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="156" r="5" fill="#ea580c"></circle>
+    <circle cx="551" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="156" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="37" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="144" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,900원</text>
+    <text x="588" y="25" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -119,7 +122,7 @@ description: 마이노멀 밀가루 없는 제로칩 어니언맛은 다이어�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,900원 · 별점 4.9 · 리뷰 439개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,500원 · 별점 4.9 · 리뷰 444개</span>
     <a href="https://link.coupang.com/a/epWLdOTHsO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -190,7 +193,7 @@ A. 당 부담을 줄인 저당 제품이지만, 프락토올리고당, 나한과
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,900원 · 별점 4.9 · 리뷰 439개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,500원 · 별점 4.9 · 리뷰 444개</span>
     <a href="https://link.coupang.com/a/epWLdOTHsO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
