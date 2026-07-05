@@ -20,12 +20,12 @@ description: 아기 멜로디 휴대폰 버튼식 강아지는 어른 휴대폰�
     "price": "5470",
     "url": "https://link.coupang.com/a/eqPK9lZqCa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-12"
+    "priceValidUntil": "2026-07-13"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 729,
+    "reviewCount": 733,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -82,9 +82,11 @@ description: 아기 멜로디 휴대폰 버튼식 강아지는 어른 휴대폰�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -93,22 +95,22 @@ description: 아기 멜로디 휴대폰 버튼식 강아지는 어른 휴대폰�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,400</text>
 
-    <path d="M 68 125 L 89 125 L 110 125 L 130 125 L 151 125 L 172 125 L 193 125 L 214 125 L 234 125 L 255 125 L 276 125 L 297 125 L 318 125 L 338 125 L 359 125 L 380 125 L 401 125 L 422 125 L 442 125 L 463 125 L 484 125 L 505 125 L 526 125 L 546 125 L 567 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 89 125 L 110 125 L 130 125 L 151 125 L 172 125 L 193 125 L 214 125 L 234 125 L 255 125 L 276 125 L 297 125 L 318 125 L 338 125 L 359 125 L 380 125 L 401 125 L 422 125 L 442 125 L 463 125 L 484 125 L 505 125 L 526 125 L 546 125 L 567 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 125 L 88 125 L 108 125 L 128 125 L 148 125 L 168 125 L 188 125 L 208 125 L 228 125 L 248 125 L 268 125 L 288 125 L 308 125 L 328 125 L 348 125 L 368 125 L 388 125 L 408 125 L 428 125 L 448 125 L 468 125 L 488 125 L 508 125 L 528 125 L 548 125 L 568 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 88 125 L 108 125 L 128 125 L 148 125 L 168 125 L 188 125 L 208 125 L 228 125 L 248 125 L 268 125 L 288 125 L 308 125 L 328 125 L 348 125 L 368 125 L 388 125 L 408 125 L 428 125 L 448 125 L 468 125 L 488 125 L 508 125 L 528 125 L 548 125 L 568 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,470원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -116,7 +118,7 @@ description: 아기 멜로디 휴대폰 버튼식 강아지는 어른 휴대폰�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,470원 · 별점 4.7 · 리뷰 729개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,470원 · 별점 4.7 · 리뷰 733개</span>
     <a href="https://link.coupang.com/a/eqPK9lZqCa" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -202,7 +204,7 @@ A. 대부분의 사용 후기에서 소리가 너무 크지 않고 적당하여 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,470원 · 별점 4.7 · 리뷰 729개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,470원 · 별점 4.7 · 리뷰 733개</span>
     <a href="https://link.coupang.com/a/eqPK9lZqCa" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
