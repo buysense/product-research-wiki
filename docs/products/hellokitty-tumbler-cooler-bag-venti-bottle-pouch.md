@@ -20,7 +20,7 @@ description: 헬로키티 텀블러 보냉백은 벤티 사이즈 음료 용기�
     "price": "6900",
     "url": "https://link.coupang.com/a/e8JHxVMdnU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-12"
+    "priceValidUntil": "2026-07-13"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
