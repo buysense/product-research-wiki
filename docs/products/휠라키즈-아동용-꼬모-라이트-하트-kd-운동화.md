@@ -122,6 +122,8 @@ description: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화는 활�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -133,34 +135,34 @@ description: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화는 활�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 76 L 86 76 L 104 76 L 122 165 L 140 165 L 158 152 L 176 152 L 194 152 L 211 152 L 229 152 L 247 152 L 265 152 L 283 152 L 301 152 L 319 152 L 337 152 L 355 152 L 373 152 L 391 165 L 409 165 L 427 165 L 445 152 L 462 152 L 480 152 L 498 165 L 516 165 L 534 152 L 552 152 L 570 152 L 588 152 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 76 L 86 76 L 104 76 L 122 165 L 140 165 L 158 152 L 176 152 L 194 152 L 211 152 L 229 152 L 247 152 L 265 152 L 283 152 L 301 152 L 319 152 L 337 152 L 355 152 L 373 152 L 391 165 L 409 165 L 427 165 L 445 152 L 462 152 L 480 152 L 498 165 L 516 165 L 534 152 L 552 152 L 570 152 L 588 152" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 76 L 86 76 L 104 165 L 122 165 L 140 152 L 158 152 L 176 152 L 194 152 L 211 152 L 229 152 L 247 152 L 265 152 L 283 152 L 301 152 L 319 152 L 337 152 L 355 152 L 373 165 L 391 165 L 409 165 L 427 152 L 445 152 L 462 152 L 480 165 L 498 165 L 516 152 L 534 152 L 552 152 L 570 152 L 588 152 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 76 L 86 76 L 104 165 L 122 165 L 140 152 L 158 152 L 176 152 L 194 152 L 211 152 L 229 152 L 247 152 L 265 152 L 283 152 L 301 152 L 319 152 L 337 152 L 355 152 L 373 165 L 391 165 L 409 165 L 427 152 L 445 152 L 462 152 L 480 165 L 498 165 L 516 152 L 534 152 L 552 152 L 570 152 L 588 152" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="165" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="165" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="165" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="165" r="4" fill="#fdba74"></circle>
     <circle cx="498" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="152" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="152" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="140" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">33,430원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
