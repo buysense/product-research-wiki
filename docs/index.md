@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 헬로키티 텀블러 보냉백 물병가방 벤티 빨대홀 보틀백 파우치 | [보기](products/hellokitty-tumbler-cooler-bag-venti-bottle-pouch.md) |
 | NOT4NERD W Polka Dot Lace Trim Sleeveless - White | [보기](products/not4nerd-polka-dot-lace-trim-sleeveless-white.md) |
 | [셋업이엑스이] P/L RAGLAN TOP / BLACK | [보기](products/setupex-pl-raglan-top-black.md) |
 | 세터 나일론 캐쥬얼 볼캡 | [보기](products/setter-nylon-casual-ballcap.md) |

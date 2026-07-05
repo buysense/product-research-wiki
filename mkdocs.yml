@@ -101,6 +101,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 헬로키티 텀블러 보냉백 물병가방 벤티 빨대홀 보틀백 파우치: products/hellokitty-tumbler-cooler-bag-venti-bottle-pouch.md
     - NOT4NERD W Polka Dot Lace Trim Sleeveless - White: products/not4nerd-polka-dot-lace-trim-sleeveless-white.md
     - "[셋업이엑스이] P/L RAGLAN TOP / BLACK": products/setupex-pl-raglan-top-black.md
     - 세터 나일론 캐쥬얼 볼캡: products/setter-nylon-casual-ballcap.md
