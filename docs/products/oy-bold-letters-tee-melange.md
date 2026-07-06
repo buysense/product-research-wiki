@@ -19,7 +19,7 @@ description: 오와이 BOLD LETTERS TEE - MELANGE는 멜란지 컬러의 레터�
     "price": "55600",
     "url": "https://link.coupang.com/a/fau7a9e0dg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-13"
+    "priceValidUntil": "2026-07-14"
   }
 }
 </script>
