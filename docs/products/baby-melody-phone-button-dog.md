@@ -20,7 +20,7 @@ description: 아기 멜로디 휴대폰 버튼식 강아지는 어른 휴대폰�
     "price": "5470",
     "url": "https://link.coupang.com/a/eqPK9lZqCa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-13"
+    "priceValidUntil": "2026-07-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -84,9 +84,11 @@ description: 아기 멜로디 휴대폰 버튼식 강아지는 어른 휴대폰�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -95,22 +97,22 @@ description: 아기 멜로디 휴대폰 버튼식 강아지는 어른 휴대폰�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,400</text>
 
-    <path d="M 68 125 L 88 125 L 108 125 L 128 125 L 148 125 L 168 125 L 188 125 L 208 125 L 228 125 L 248 125 L 268 125 L 288 125 L 308 125 L 328 125 L 348 125 L 368 125 L 388 125 L 408 125 L 428 125 L 448 125 L 468 125 L 488 125 L 508 125 L 528 125 L 548 125 L 568 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 88 125 L 108 125 L 128 125 L 148 125 L 168 125 L 188 125 L 208 125 L 228 125 L 248 125 L 268 125 L 288 125 L 308 125 L 328 125 L 348 125 L 368 125 L 388 125 L 408 125 L 428 125 L 448 125 L 468 125 L 488 125 L 508 125 L 528 125 L 548 125 L 568 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 125 L 87 125 L 107 125 L 126 125 L 145 125 L 164 125 L 184 125 L 203 125 L 222 125 L 241 125 L 261 125 L 280 125 L 299 125 L 318 125 L 338 125 L 357 125 L 376 125 L 395 125 L 415 125 L 434 125 L 453 125 L 472 125 L 492 125 L 511 125 L 530 125 L 549 125 L 569 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 87 125 L 107 125 L 126 125 L 145 125 L 164 125 L 184 125 L 203 125 L 222 125 L 241 125 L 261 125 L 280 125 L 299 125 L 318 125 L 338 125 L 357 125 L 376 125 L 395 125 L 415 125 L 434 125 L 453 125 L 472 125 L 492 125 L 511 125 L 530 125 L 549 125 L 569 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,470원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
