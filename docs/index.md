@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 오와이 BOLD LETTERS TEE - MELANGE | [보기](products/oy-bold-letters-tee-melange.md) |
 | [셀리테일즈] FRILL LAYERED BUSTIER DERSS_YELLOW | [보기](products/sellytales-frill-layered-bustier-dress-yellow.md) |
 | 새우깡 (90g, 15개) | [보기](products/nongshim-saewookkang-90g-15ea.md) |
 | 오와이 NOISE CHAOS TRACK JACKET - BLACK | [보기](products/oyy-noise-chaos-track-jacket-black.md) |
