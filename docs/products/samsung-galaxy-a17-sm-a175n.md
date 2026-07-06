@@ -17,15 +17,15 @@ description: 삼성전자 갤럭시 A17 (SM-A175N)은 전화, 카카오톡, 웹�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "287100",
+    "price": "290300",
     "url": "https://link.coupang.com/a/eMW5h6cZMq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-13"
+    "priceValidUntil": "2026-07-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2787,
+    "reviewCount": 2831,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -58,41 +58,44 @@ description: 삼성전자 갤럭시 A17 (SM-A175N)은 전화, 카카오톡, 웹�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">287,200</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">287,100</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">287,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">290,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">288,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">286,000</text>
 
-    <path d="M 68 102 L 105 102 L 142 148 L 179 102 L 217 102 L 254 102 L 291 102 L 328 102 L 365 102 L 402 110 L 439 102 L 477 110 L 514 110 L 551 110 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 105 102 L 142 148 L 179 102 L 217 102 L 254 102 L 291 102 L 328 102 L 365 102 L 402 110 L 439 102 L 477 110 L 514 110 L 551 110 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="105" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="179" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="402" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="477" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="551" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 136 L 103 136 L 137 138 L 172 136 L 207 136 L 241 136 L 276 136 L 311 136 L 345 136 L 380 137 L 415 136 L 449 137 L 484 137 L 519 137 L 553 136 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 136 L 103 136 L 137 138 L 172 136 L 207 136 L 241 136 L 276 136 L 311 136 L 345 136 L 380 137 L 415 136 L 449 137 L 484 137 L 519 137 L 553 136 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="103" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="137" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="345" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="449" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="519" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="553" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">287,100원</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">290,300원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -100,7 +103,7 @@ description: 삼성전자 갤럭시 A17 (SM-A175N)은 전화, 카카오톡, 웹�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 287,100원 · 별점 4.8 · 리뷰 2,787개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 290,300원 · 별점 4.8 · 리뷰 2,831개</span>
     <a href="https://link.coupang.com/a/eMW5h6cZMq" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -176,7 +179,7 @@ A. 5,000mAh의 대용량 배터리를 탑재하여 일반적으로 하루 종일
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 287,100원 · 별점 4.8 · 리뷰 2,787개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 290,300원 · 별점 4.8 · 리뷰 2,831개</span>
     <a href="https://link.coupang.com/a/eMW5h6cZMq" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
