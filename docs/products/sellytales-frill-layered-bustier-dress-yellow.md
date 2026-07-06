@@ -19,7 +19,7 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
     "price": "189400",
     "url": "https://link.coupang.com/a/faukkoH7im",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-13"
+    "priceValidUntil": "2026-07-14"
   }
 }
 </script>
