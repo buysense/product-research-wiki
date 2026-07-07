@@ -8,7 +8,7 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "[셀리테일즈] FRILL LAYERED BUSTIER DERSS_YELLOW",
+  "name": "[셀리테일즈] FRILL LAYERED BUSTIER DRESS_YELLOW",
   "description": "셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로우는 화사한 색감과 러블리한 디테일로 봄, 여름 데이트룩, 휴가철 리조트룩으로 활용하기 좋은 원피스입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/10db/7b8fc92926aa978408409c8a5bfe474ae39ef503a5cffbe7d8d9812958dc.jpg"
@@ -38,7 +38,7 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
 [셀리테일즈] FRILL LAYERED BUSTIER DRESS_YELLOW는 화사한 옐로우 색상과 프릴 디테일이 돋보이는 뷔스티에 디자인의 원피스입니다. 봄과 여름철 데이트, 여행, 휴가 등 특별한 자리에서 로맨틱하고 발랄한 분위기를 연출하기에 적합하며, 단품으로 입거나 가벼운 이너와 함께 레이어드하여 다양한 스타일링이 가능합니다. 이 제품은 주로 따뜻한 계절의 야외 활동이나 기념일 등의 소비 상황에 잘 어울립니다.
 
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
-  <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/10db/7b8fc92926aa978408409c8a5bfe474ae39ef503a5cffbe7d8d9812958dc.jpg" alt="[셀리테일즈] FRILL LAYERED BUSTIER DERSS_YELLOW" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/10db/7b8fc92926aa978408409c8a5bfe474ae39ef503a5cffbe7d8d9812958dc.jpg" alt="[셀리테일즈] FRILL LAYERED BUSTIER DRESS_YELLOW" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 ## 기본 정보
