@@ -20,7 +20,7 @@ description: 토도리브로 원목교구 한글 판퍼즐은 유아의 한글 �
     "price": "12550",
     "url": "https://link.coupang.com/a/eyLh8O",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-13"
+    "priceValidUntil": "2026-07-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -156,6 +156,8 @@ description: 토도리브로 원목교구 한글 판퍼즐은 유아의 한글 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -163,32 +165,32 @@ description: 토도리브로 원목교구 한글 판퍼즐은 유아의 한글 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">12,500</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,500</text>
 
-    <path d="M 68 139 L 86 108 L 104 108 L 122 108 L 140 108 L 158 108 L 176 108 L 194 108 L 211 108 L 229 108 L 247 108 L 265 108 L 283 108 L 301 108 L 319 108 L 337 60 L 355 60 L 373 60 L 391 60 L 409 60 L 427 60 L 445 60 L 462 60 L 480 60 L 498 108 L 516 108 L 534 108 L 552 108 L 570 108 L 588 60 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 139 L 86 108 L 104 108 L 122 108 L 140 108 L 158 108 L 176 108 L 194 108 L 211 108 L 229 108 L 247 108 L 265 108 L 283 108 L 301 108 L 319 108 L 337 60 L 355 60 L 373 60 L 391 60 L 409 60 L 427 60 L 445 60 L 462 60 L 480 60 L 498 108 L 516 108 L 534 108 L 552 108 L 570 108 L 588 60" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="60" r="5" fill="#ea580c"></circle>
+    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 114 L 301 114 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 114 L 301 114 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="48" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,550원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,550원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
