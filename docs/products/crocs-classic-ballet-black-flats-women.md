@@ -20,12 +20,12 @@ description: 크록스 클래식 발레 블랙 플랫슈즈는 가볍고 편안�
     "price": "34450",
     "url": "https://link.coupang.com/a/exzZOTf1bg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-14"
+    "priceValidUntil": "2026-07-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.2,
-    "reviewCount": 223,
+    "reviewCount": 226,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -78,9 +78,11 @@ description: 크록스 클래식 발레 블랙 플랫슈즈는 가볍고 편안�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -89,27 +91,27 @@ description: 크록스 클래식 발레 블랙 플랫슈즈는 가볍고 편안�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 35 L 91 128 L 113 128 L 136 128 L 158 128 L 181 128 L 204 128 L 226 128 L 249 128 L 271 128 L 294 126 L 317 126 L 339 126 L 362 126 L 385 126 L 407 126 L 430 126 L 452 126 L 475 126 L 498 126 L 520 126 L 543 126 L 565 126 L 588 126 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 35 L 91 128 L 113 128 L 136 128 L 158 128 L 181 128 L 204 128 L 226 128 L 249 128 L 271 128 L 294 126 L 317 126 L 339 126 L 362 126 L 385 126 L 407 126 L 430 126 L 452 126 L 475 126 L 498 126 L 520 126 L 543 126 L 565 126 L 588 126" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 35 L 90 128 L 111 128 L 133 128 L 155 128 L 176 128 L 198 128 L 220 128 L 241 128 L 263 128 L 285 126 L 306 126 L 328 126 L 350 126 L 371 126 L 393 126 L 415 126 L 436 126 L 458 126 L 480 126 L 501 126 L 523 126 L 545 126 L 566 126 L 588 126 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 35 L 90 128 L 111 128 L 133 128 L 155 128 L 176 128 L 198 128 L 220 128 L 241 128 L 263 128 L 285 126 L 306 126 L 328 126 L 350 126 L 371 126 L 393 126 L 415 126 L 436 126 L 458 126 L 480 126 L 501 126 L 523 126 L 545 126 L 566 126 L 588 126" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="91" cy="128" r="4" fill="#fdba74"></circle>
-    <circle cx="271" cy="128" r="4" fill="#fdba74"></circle>
-    <circle cx="294" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="430" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="452" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="90" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="285" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="436" cy="126" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="126" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="114" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,450원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -117,7 +119,7 @@ description: 크록스 클래식 발레 블랙 플랫슈즈는 가볍고 편안�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,450원 · 별점 4.2 · 리뷰 223개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,450원 · 별점 4.2 · 리뷰 226개</span>
     <a href="https://link.coupang.com/a/exzZOTf1bg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -191,7 +193,7 @@ A. 네, 크로스라이트 소재는 물에 강하고 빨리 마르는 특성이
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,450원 · 별점 4.2 · 리뷰 223개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,450원 · 별점 4.2 · 리뷰 226개</span>
     <a href="https://link.coupang.com/a/exzZOTf1bg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
