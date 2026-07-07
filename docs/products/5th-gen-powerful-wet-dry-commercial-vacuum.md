@@ -19,12 +19,12 @@ description: 5세대 초강력 건습식 업소용 청소기는 사무실, 로�
     "price": "109000",
     "url": "https://link.coupang.com/a/eTt2nCE29Y",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-14"
+    "priceValidUntil": "2026-07-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 1160,
+    "reviewCount": 1164,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -51,9 +51,11 @@ description: 5세대 초강력 건습식 업소용 청소기는 사무실, 로�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,22 +64,22 @@ description: 5세대 초강력 건습식 업소용 청소기는 사무실, 로�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">109,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">108,900</text>
 
-    <path d="M 68 102 L 115 102 L 163 102 L 210 102 L 257 102 L 304 102 L 352 102 L 399 102 L 446 102 L 493 102 L 541 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 115 102 L 163 102 L 210 102 L 257 102 L 304 102 L 352 102 L 399 102 L 446 102 L 493 102 L 541 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 111 102 L 155 102 L 198 102 L 241 102 L 285 102 L 328 102 L 371 102 L 415 102 L 458 102 L 501 102 L 545 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 111 102 L 155 102 L 198 102 L 241 102 L 285 102 L 328 102 L 371 102 L 415 102 L 458 102 L 501 102 L 545 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">109,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -85,7 +87,7 @@ description: 5세대 초강력 건습식 업소용 청소기는 사무실, 로�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 109,000원 · 별점 4.6 · 리뷰 1,160개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 109,000원 · 별점 4.6 · 리뷰 1,164개</span>
     <a href="https://link.coupang.com/a/eTt2nCE29Y" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -160,7 +162,7 @@ A. 네, 일반 가정용 청소기로는 감당하기 어려운 반려동물 털
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 109,000원 · 별점 4.6 · 리뷰 1,160개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 109,000원 · 별점 4.6 · 리뷰 1,164개</span>
     <a href="https://link.coupang.com/a/eTt2nCE29Y" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
