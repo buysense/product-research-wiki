@@ -20,7 +20,7 @@ description: 말랑하니 유아용 흡착스피너 빙글빙글 3종세트는 �
     "price": "11970",
     "url": "https://link.coupang.com/a/eqQB7jSO5c",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-14"
+    "priceValidUntil": "2026-07-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -86,9 +86,11 @@ description: 말랑하니 유아용 흡착스피너 빙글빙글 3종세트는 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -97,25 +99,25 @@ description: 말랑하니 유아용 흡착스피너 빙글빙글 3종세트는 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
 
-    <path d="M 68 26 L 87 26 L 107 26 L 126 26 L 145 26 L 164 104 L 184 104 L 203 104 L 222 104 L 241 104 L 261 104 L 280 104 L 299 104 L 318 104 L 338 104 L 357 104 L 376 104 L 395 104 L 415 104 L 434 104 L 453 104 L 472 104 L 492 104 L 511 104 L 530 104 L 549 104 L 569 104 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 87 26 L 107 26 L 126 26 L 145 26 L 164 104 L 184 104 L 203 104 L 222 104 L 241 104 L 261 104 L 280 104 L 299 104 L 318 104 L 338 104 L 357 104 L 376 104 L 395 104 L 415 104 L 434 104 L 453 104 L 472 104 L 492 104 L 511 104 L 530 104 L 549 104 L 569 104 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 87 26 L 105 26 L 124 26 L 142 26 L 161 104 L 179 104 L 198 104 L 217 104 L 235 104 L 254 104 L 272 104 L 291 104 L 309 104 L 328 104 L 347 104 L 365 104 L 384 104 L 402 104 L 421 104 L 439 104 L 458 104 L 477 104 L 495 104 L 514 104 L 532 104 L 551 104 L 569 104 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 87 26 L 105 26 L 124 26 L 142 26 L 161 104 L 179 104 L 198 104 L 217 104 L 235 104 L 254 104 L 272 104 L 291 104 L 309 104 L 328 104 L 347 104 L 365 104 L 384 104 L 402 104 L 421 104 L 439 104 L 458 104 L 477 104 L 495 104 L 514 104 L 532 104 L 551 104 L 569 104 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="87" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="145" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="164" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="161" cy="104" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="104" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="92" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,970원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
