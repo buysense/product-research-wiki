@@ -20,7 +20,7 @@ description: 유아용 곰돌이 다용도 플레이매트 볼풀장은 활동�
     "price": "32420",
     "url": "https://link.coupang.com/a/eOq6dOCaIe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-14"
+    "priceValidUntil": "2026-07-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -58,9 +58,11 @@ description: 유아용 곰돌이 다용도 플레이매트 볼풀장은 활동�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -69,24 +71,24 @@ description: 유아용 곰돌이 다용도 플레이매트 볼풀장은 활동�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">32,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">31,500</text>
 
-    <path d="M 68 164 L 105 164 L 142 164 L 179 164 L 217 164 L 254 164 L 291 164 L 328 164 L 365 164 L 402 38 L 439 38 L 477 38 L 514 38 L 551 38 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 164 L 105 164 L 142 164 L 179 164 L 217 164 L 254 164 L 291 164 L 328 164 L 365 164 L 402 38 L 439 38 L 477 38 L 514 38 L 551 38 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 164 L 103 164 L 137 164 L 172 164 L 207 164 L 241 164 L 276 164 L 311 164 L 345 164 L 380 38 L 415 38 L 449 38 L 484 38 L 519 38 L 553 38 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 164 L 103 164 L 137 164 L 172 164 L 207 164 L 241 164 L 276 164 L 311 164 L 345 164 L 380 38 L 415 38 L 449 38 L 484 38 L 519 38 L 553 38 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="402" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="345" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="38" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="26" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">32,420원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
