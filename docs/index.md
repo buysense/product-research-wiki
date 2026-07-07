@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 찰스앤키스 공식 델피나 체인 사이드 벨트 토트백 | [보기](products/charleskeith-delfina-chain-belt-tote.md) |
 | 랩신 V3 항균 스프레이 살균제 | [보기](products/labsin-v3-antibacterial-spray-disinfectant.md) |
 | 오와이 BOLD LETTERS TEE - MELANGE | [보기](products/oy-bold-letters-tee-melange.md) |
 | [셀리테일즈] FRILL LAYERED BUSTIER DRESS_YELLOW | [보기](products/sellytales-frill-layered-bustier-dress-yellow.md) |
