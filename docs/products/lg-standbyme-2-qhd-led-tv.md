@@ -20,7 +20,7 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
     "price": "906000",
     "url": "https://link.coupang.com/a/dL2nfPaZ1U",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-14"
+    "priceValidUntil": "2026-07-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -133,6 +133,8 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -144,34 +146,34 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">950,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">900,000</text>
 
-    <path d="M 68 151 L 86 151 L 104 151 L 122 151 L 140 151 L 158 151 L 176 151 L 194 157 L 211 157 L 229 157 L 247 157 L 265 157 L 283 157 L 301 151 L 319 151 L 337 151 L 355 163 L 373 35 L 391 50 L 409 50 L 427 50 L 445 50 L 462 50 L 480 151 L 498 160 L 516 169 L 534 169 L 552 169 L 570 169 L 588 169 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 151 L 86 151 L 104 151 L 122 151 L 140 151 L 158 151 L 176 151 L 194 157 L 211 157 L 229 157 L 247 157 L 265 157 L 283 157 L 301 151 L 319 151 L 337 151 L 355 163 L 373 35 L 391 50 L 409 50 L 427 50 L 445 50 L 462 50 L 480 151 L 498 160 L 516 169 L 534 169 L 552 169 L 570 169 L 588 169" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 151 L 86 151 L 104 151 L 122 151 L 140 151 L 158 151 L 176 157 L 194 157 L 211 157 L 229 157 L 247 157 L 265 157 L 283 151 L 301 151 L 319 151 L 337 163 L 355 35 L 373 50 L 391 50 L 409 50 L 427 50 L 445 50 L 462 151 L 480 160 L 498 169 L 516 169 L 534 169 L 552 169 L 570 169 L 588 169 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 151 L 86 151 L 104 151 L 122 151 L 140 151 L 158 151 L 176 157 L 194 157 L 211 157 L 229 157 L 247 157 L 265 157 L 283 151 L 301 151 L 319 151 L 337 163 L 355 35 L 373 50 L 391 50 L 409 50 L 427 50 L 445 50 L 462 151 L 480 160 L 498 169 L 516 169 L 534 169 L 552 169 L 570 169 L 588 169" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="160" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="160" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="169" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="169" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="157" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">906,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
