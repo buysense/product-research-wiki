@@ -86,6 +86,7 @@ plugins:
         'products/아사히-시나모롤-핑크-실내화.md': 'products/asahi-cinnamoroll-pink-indoor-shoes.md'
 
 markdown_extensions:
+  - meta
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
