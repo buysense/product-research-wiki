@@ -19,7 +19,7 @@ description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세�
     "price": "153000",
     "url": "https://link.coupang.com/a/fb9V8Zz1iv",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-14"
+    "priceValidUntil": "2026-07-15"
   }
 }
 </script>
