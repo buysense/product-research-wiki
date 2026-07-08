@@ -17,15 +17,15 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "159280",
+    "price": "179000",
     "url": "https://link.coupang.com/a/d9c95Fandc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-15"
+    "priceValidUntil": "2026-07-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 390,
+    "reviewCount": 391,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -119,44 +121,44 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">160,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">140,000</text>
 
-    <path d="M 68 75 L 86 75 L 104 68 L 122 68 L 140 67 L 158 63 L 176 63 L 194 59 L 211 55 L 229 32 L 247 42 L 265 37 L 283 37 L 301 33 L 319 74 L 337 60 L 355 60 L 373 60 L 391 60 L 409 60 L 427 32 L 445 60 L 462 60 L 480 60 L 498 60 L 516 60 L 534 110 L 552 106 L 570 105 L 588 105 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 75 L 86 75 L 104 68 L 122 68 L 140 67 L 158 63 L 176 63 L 194 59 L 211 55 L 229 32 L 247 42 L 265 37 L 283 37 L 301 33 L 319 74 L 337 60 L 355 60 L 373 60 L 391 60 L 409 60 L 427 32 L 445 60 L 462 60 L 480 60 L 498 60 L 516 60 L 534 110 L 552 106 L 570 105 L 588 105" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 75 L 86 68 L 104 68 L 122 67 L 140 63 L 158 63 L 176 59 L 194 55 L 211 32 L 229 42 L 247 37 L 265 37 L 283 33 L 301 74 L 319 60 L 337 60 L 355 60 L 373 60 L 391 60 L 409 32 L 427 60 L 445 60 L 462 60 L 480 60 L 498 60 L 516 110 L 534 106 L 552 105 L 570 105 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 75 L 86 68 L 104 68 L 122 67 L 140 63 L 158 63 L 176 59 L 194 55 L 211 32 L 229 42 L 247 37 L 265 37 L 283 33 L 301 74 L 319 60 L 337 60 L 355 60 L 373 60 L 391 60 L 409 32 L 427 60 L 445 60 L 462 60 L 480 60 L 498 60 L 516 110 L 534 106 L 552 105 L 570 105 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="68" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="63" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="63" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="63" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="37" r="4" fill="#fdba74"></circle>
     <circle cx="265" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="33" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="105" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="105" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="30" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="93" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">159,280원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">179,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -164,7 +166,7 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 159,280원 · 별점 4.9 · 리뷰 390개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 179,000원 · 별점 4.9 · 리뷰 391개</span>
     <a href="https://link.coupang.com/a/d9c95Fandc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -239,7 +241,7 @@ A. 처음 손에 쥐었을 때 "배터리가 들어있나?" 싶을 정도로 가
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 159,280원 · 별점 4.9 · 리뷰 390개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 179,000원 · 별점 4.9 · 리뷰 391개</span>
     <a href="https://link.coupang.com/a/d9c95Fandc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
