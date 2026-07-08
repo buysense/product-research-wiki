@@ -17,15 +17,15 @@ description: IQ베이비 손감각 발달토이는 신생아부터 6개월 전�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "16420",
+    "price": "16830",
     "url": "https://link.coupang.com/a/eBrNdTWlgW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-15"
+    "priceValidUntil": "2026-07-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1769,
+    "reviewCount": 1771,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -76,9 +76,11 @@ description: IQ베이비 손감각 발달토이는 신생아부터 6개월 전�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -87,34 +89,35 @@ description: IQ베이비 손감각 발달토이는 신생아부터 6개월 전�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 93 L 92 93 L 115 173 L 139 173 L 163 173 L 186 93 L 210 93 L 233 93 L 257 93 L 281 93 L 304 93 L 328 93 L 352 93 L 375 93 L 399 165 L 423 93 L 446 173 L 470 173 L 493 93 L 517 93 L 541 93 L 564 162 L 588 162 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 93 L 92 93 L 115 173 L 139 173 L 163 173 L 186 93 L 210 93 L 233 93 L 257 93 L 281 93 L 304 93 L 328 93 L 352 93 L 375 93 L 399 165 L 423 93 L 446 173 L 470 173 L 493 93 L 517 93 L 541 93 L 564 162 L 588 162" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 93 L 91 93 L 113 173 L 136 173 L 158 173 L 181 93 L 204 93 L 226 93 L 249 93 L 271 93 L 294 93 L 317 93 L 339 93 L 362 93 L 385 165 L 407 93 L 430 173 L 452 173 L 475 93 L 498 93 L 520 93 L 543 162 L 565 162 L 588 146 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 93 L 91 93 L 113 173 L 136 173 L 158 173 L 181 93 L 204 93 L 226 93 L 249 93 L 271 93 L 294 93 L 317 93 L 339 93 L 362 93 L 385 165 L 407 93 L 430 173 L 452 173 L 475 93 L 498 93 L 520 93 L 543 162 L 565 162 L 588 146" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="423" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="564" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="162" r="5" fill="#ea580c"></circle>
+    <circle cx="91" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="113" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="181" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="385" cy="165" r="4" fill="#fdba74"></circle>
+    <circle cx="407" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="430" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="452" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="475" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="520" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="543" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="565" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="146" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="150" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,420원</text>
+    <text x="588" y="134" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,830원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -122,7 +125,7 @@ description: IQ베이비 손감각 발달토이는 신생아부터 6개월 전�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,420원 · 별점 4.8 · 리뷰 1,769개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,830원 · 별점 4.8 · 리뷰 1,771개</span>
     <a href="https://link.coupang.com/a/eBrNdTWlgW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -209,7 +212,7 @@ A. 네, 신생아 때부터 사용 가능하며 아기의 발달에 도움을 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,420원 · 별점 4.8 · 리뷰 1,769개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,830원 · 별점 4.8 · 리뷰 1,771개</span>
     <a href="https://link.coupang.com/a/eBrNdTWlgW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
