@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| Lotsyou_Ella Blouse Ivory 109501 | [보기](products/lotsyou-ella-blouse-ivory.md) |
 | COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린 | [보기](products/covernat-woman-check-sleeveless-blouse-green.md) |
 | 찰스앤키스 공식 델피나 체인 사이드 벨트 토트백 | [보기](products/charleskeith-delfina-chain-belt-tote.md) |
 | 랩신 V3 항균 스프레이 살균제 | [보기](products/labsin-v3-antibacterial-spray-disinfectant.md) |
