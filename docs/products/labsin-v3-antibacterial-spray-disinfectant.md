@@ -20,12 +20,12 @@ description: 랩신 V3 항균 스프레이 살균제는 문손잡이, 식탁, �
     "price": "14200",
     "url": "https://link.coupang.com/a/fb7ZUNhXJk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-16"
+    "priceValidUntil": "2026-07-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 23460,
+    "reviewCount": 23517,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,9 +34,11 @@ description: 랩신 V3 항균 스프레이 살균제는 문손잡이, 식탁, �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-07 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -45,16 +47,18 @@ description: 랩신 V3 항균 스프레이 살균제는 문손잡이, 식탁, �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,100</text>
 
-    <path d="M 68 102 L 328 178 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 328 178 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 241 178 L 415 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 241 178 L 415 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -62,7 +66,7 @@ description: 랩신 V3 항균 스프레이 살균제는 문손잡이, 식탁, �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,200원 · 별점 4.8 · 리뷰 23,460개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,200원 · 별점 4.8 · 리뷰 23,517개</span>
     <a href="https://link.coupang.com/a/fb7ZUNhXJk" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -132,7 +136,7 @@ A. 인위적인 향료가 거의 사용되지 않아 알코올 특유의 깔끔�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,200원 · 별점 4.8 · 리뷰 23,460개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,200원 · 별점 4.8 · 리뷰 23,517개</span>
     <a href="https://link.coupang.com/a/fb7ZUNhXJk" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
