@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린: products/covernat-woman-check-sleeveless-blouse-green.md
     - 찰스앤키스 공식 델피나 체인 사이드 벨트 토트백: products/charleskeith-delfina-chain-belt-tote.md
     - 랩신 V3 항균 스프레이 살균제: products/labsin-v3-antibacterial-spray-disinfectant.md
     - 오와이 BOLD LETTERS TEE - MELANGE: products/oy-bold-letters-tee-melange.md
