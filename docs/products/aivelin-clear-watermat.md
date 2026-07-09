@@ -20,7 +20,7 @@ description: 아이블린 투명워터매트는 아기 성장 발달에 도움�
     "price": "13850",
     "url": "https://link.coupang.com/a/eOriwii8qW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-16"
+    "priceValidUntil": "2026-07-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -62,9 +62,11 @@ description: 아이블린 투명워터매트는 아기 성장 발달에 도움�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -73,24 +75,24 @@ description: 아이블린 투명워터매트는 아기 성장 발달에 도움�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 143 L 101 143 L 133 143 L 166 143 L 198 143 L 231 143 L 263 143 L 296 37 L 328 37 L 361 37 L 393 37 L 426 37 L 458 37 L 491 37 L 523 37 L 556 37 L 588 37 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 143 L 101 143 L 133 143 L 166 143 L 198 143 L 231 143 L 263 143 L 296 37 L 328 37 L 361 37 L 393 37 L 426 37 L 458 37 L 491 37 L 523 37 L 556 37 L 588 37" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 143 L 99 143 L 129 143 L 160 143 L 190 143 L 221 143 L 252 143 L 282 37 L 313 37 L 343 37 L 374 37 L 404 37 L 435 37 L 466 37 L 496 37 L 527 37 L 557 37 L 588 37 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 143 L 99 143 L 129 143 L 160 143 L 190 143 L 221 143 L 252 143 L 282 37 L 313 37 L 343 37 L 374 37 L 404 37 L 435 37 L 466 37 L 496 37 L 527 37 L 557 37 L 588 37" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="296" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="252" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="282" cy="37" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="37" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="25" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,850원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
