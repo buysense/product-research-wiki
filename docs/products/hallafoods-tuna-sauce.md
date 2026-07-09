@@ -17,15 +17,15 @@ description: 한라식품 참치액은 요리의 감칠맛을 더하고 싶을 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "13800",
+    "price": "13760",
     "url": "https://link.coupang.com/a/eDKhOM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-16"
+    "priceValidUntil": "2026-07-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 55076,
+    "reviewCount": 55138,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -155,6 +155,8 @@ description: 한라식품 참치액은 요리의 감칠맛을 더하고 싶을 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -162,35 +164,35 @@ description: 한라식품 참치액은 요리의 감칠맛을 더하고 싶을 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">14,200</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,800</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,800</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,600</text>
 
-    <path d="M 68 178 L 86 178 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 87 L 283 87 L 301 87 L 319 117 L 337 117 L 355 117 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 178 L 86 178 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 87 L 283 87 L 301 87 L 319 117 L 337 117 L 355 117 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="178" r="5" fill="#ea580c"></circle>
+    <path d="M 68 102 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 26 L 265 26 L 283 26 L 301 41 L 319 41 L 337 41 L 355 49 L 373 49 L 391 49 L 409 49 L 427 49 L 445 49 L 462 49 L 480 49 L 498 49 L 516 49 L 534 49 L 552 49 L 570 102 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 26 L 265 26 L 283 26 L 301 41 L 319 41 L 337 41 L 355 49 L 373 49 L 391 49 L 409 49 L 427 49 L 445 49 L 462 49 L 480 49 L 498 49 L 516 49 L 534 49 L 552 49 L 570 102 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,760원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -198,7 +200,7 @@ description: 한라식품 참치액은 요리의 감칠맛을 더하고 싶을 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,800원 · 별점 4.8 · 리뷰 55,076개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,760원 · 별점 4.8 · 리뷰 55,138개</span>
     <a href="https://link.coupang.com/a/eDKhOM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -293,7 +295,7 @@ A. 대부분의 사용자 리뷰에 따르면, 한라식품 참치액은 참치 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,800원 · 별점 4.8 · 리뷰 55,076개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,760원 · 별점 4.8 · 리뷰 55,138개</span>
     <a href="https://link.coupang.com/a/eDKhOM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
