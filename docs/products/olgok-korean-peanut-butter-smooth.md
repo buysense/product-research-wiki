@@ -17,15 +17,15 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "12320",
+    "price": "13090",
     "url": "https://link.coupang.com/a/exAdfsMN7k",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-16"
+    "priceValidUntil": "2026-07-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 3808,
+    "reviewCount": 3818,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -82,9 +82,11 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -93,28 +95,29 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 49 L 88 49 L 108 107 L 128 49 L 148 49 L 168 49 L 188 49 L 208 49 L 228 49 L 248 49 L 268 49 L 288 49 L 308 49 L 328 49 L 348 49 L 368 49 L 388 49 L 408 49 L 428 49 L 448 49 L 468 49 L 488 49 L 508 49 L 528 49 L 548 137 L 568 137 L 588 166 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 49 L 88 49 L 108 107 L 128 49 L 148 49 L 168 49 L 188 49 L 208 49 L 228 49 L 248 49 L 268 49 L 288 49 L 308 49 L 328 49 L 348 49 L 368 49 L 388 49 L 408 49 L 428 49 L 448 49 L 468 49 L 488 49 L 508 49 L 528 49 L 548 137 L 568 137 L 588 166" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 49 L 87 49 L 107 107 L 126 49 L 145 49 L 164 49 L 184 49 L 203 49 L 222 49 L 241 49 L 261 49 L 280 49 L 299 49 L 318 49 L 338 49 L 357 49 L 376 49 L 395 49 L 415 49 L 434 49 L 453 49 L 472 49 L 492 49 L 511 49 L 530 137 L 549 137 L 569 166 L 588 137 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 49 L 87 49 L 107 107 L 126 49 L 145 49 L 164 49 L 184 49 L 203 49 L 222 49 L 241 49 L 261 49 L 280 49 L 299 49 L 318 49 L 338 49 L 357 49 L 376 49 L 395 49 L 415 49 L 434 49 L 453 49 L 472 49 L 492 49 L 511 49 L 530 137 L 549 137 L 569 166 L 588 137" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="88" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="128" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="528" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="548" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="568" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="166" r="5" fill="#ea580c"></circle>
+    <circle cx="87" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="107" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="511" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="549" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="137" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="154" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,320원</text>
+    <text x="588" y="125" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,090원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -122,7 +125,7 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,320원 · 별점 4.7 · 리뷰 3,808개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,090원 · 별점 4.7 · 리뷰 3,818개</span>
     <a href="https://link.coupang.com/a/exAdfsMN7k" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -197,7 +200,7 @@ A. 일반적인 땅콩버터는 설탕이나 소금 등의 첨가물로 맛을 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,320원 · 별점 4.7 · 리뷰 3,808개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,090원 · 별점 4.7 · 리뷰 3,818개</span>
     <a href="https://link.coupang.com/a/exAdfsMN7k" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
