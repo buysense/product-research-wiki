@@ -20,7 +20,7 @@ description: 오리지니크 자동 디스펜서는 주방과 욕실의 위생�
     "price": "57900",
     "url": "https://link.coupang.com/a/er1nIk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-16"
+    "priceValidUntil": "2026-07-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -165,6 +165,8 @@ description: 오리지니크 자동 디스펜서는 주방과 욕실의 위생�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -176,29 +178,28 @@ description: 오리지니크 자동 디스펜서는 주방과 욕실의 위생�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 58 L 86 126 L 104 126 L 122 126 L 140 126 L 158 126 L 176 58 L 194 58 L 211 58 L 229 126 L 247 126 L 265 126 L 283 126 L 301 58 L 319 58 L 337 58 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 58 L 552 58 L 570 58 L 588 58 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 58 L 86 126 L 104 126 L 122 126 L 140 126 L 158 126 L 176 58 L 194 58 L 211 58 L 229 126 L 247 126 L 265 126 L 283 126 L 301 58 L 319 58 L 337 58 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 58 L 552 58 L 570 58 L 588 58" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="58" r="4" fill="#fdba74"></circle>
+    <path d="M 68 126 L 86 126 L 104 126 L 122 126 L 140 126 L 158 58 L 176 58 L 194 58 L 211 126 L 229 126 L 247 126 L 265 126 L 283 58 L 301 58 L 319 58 L 337 58 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 58 L 552 58 L 570 58 L 588 58 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 126 L 86 126 L 104 126 L 122 126 L 140 126 L 158 58 L 176 58 L 194 58 L 211 126 L 229 126 L 247 126 L 265 126 L 283 58 L 301 58 L 319 58 L 337 58 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 58 L 552 58 L 570 58 L 588 58" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="58" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="58" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="46" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">57,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
