@@ -16,10 +16,10 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "121700",
+    "price": "151500",
     "url": "https://link.coupang.com/a/faukkoH7im",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-16"
+    "priceValidUntil": "2026-07-17"
   }
 }
 </script>
@@ -28,9 +28,11 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
 </p>
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -39,18 +41,20 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 42 L 241 42 L 415 145 L 588 145 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 42 L 241 42 L 415 145 L 588 145" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 42 L 198 42 L 328 145 L 458 145 L 588 100 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 42 L 198 42 L 328 145 L 458 145 L 588 100" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="145" r="5" fill="#ea580c"></circle>
+    <circle cx="198" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="100" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="133" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">121,700원</text>
+    <text x="588" y="88" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">151,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
