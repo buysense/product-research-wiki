@@ -19,7 +19,7 @@ description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은
     "price": "101200",
     "url": "https://link.coupang.com/a/ffrQM1UY2e",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-16"
+    "priceValidUntil": "2026-07-17"
   }
 }
 </script>
