@@ -20,7 +20,7 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
     "price": "13900",
     "url": "https://link.coupang.com/a/exApag53Ce",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-17"
+    "priceValidUntil": "2026-07-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -84,9 +84,11 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -95,23 +97,24 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 55 L 87 55 L 107 55 L 126 55 L 145 55 L 164 55 L 184 55 L 203 55 L 222 55 L 241 55 L 261 55 L 280 55 L 299 55 L 318 55 L 338 55 L 357 55 L 376 55 L 395 55 L 415 55 L 434 55 L 453 55 L 472 55 L 492 55 L 511 55 L 530 55 L 549 55 L 569 55 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 55 L 87 55 L 107 55 L 126 55 L 145 55 L 164 55 L 184 55 L 203 55 L 222 55 L 241 55 L 261 55 L 280 55 L 299 55 L 318 55 L 338 55 L 357 55 L 376 55 L 395 55 L 415 55 L 434 55 L 453 55 L 472 55 L 492 55 L 511 55 L 530 55 L 549 55 L 569 55 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 55 L 87 55 L 105 55 L 124 55 L 142 55 L 161 55 L 179 55 L 198 55 L 217 55 L 235 55 L 254 55 L 272 55 L 291 55 L 309 55 L 328 55 L 347 55 L 365 55 L 384 55 L 402 55 L 421 55 L 439 55 L 458 55 L 477 55 L 495 55 L 514 55 L 532 55 L 551 55 L 569 148 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 55 L 87 55 L 105 55 L 124 55 L 142 55 L 161 55 L 179 55 L 198 55 L 217 55 L 235 55 L 254 55 L 272 55 L 291 55 L 309 55 L 328 55 L 347 55 L 365 55 L 384 55 L 402 55 L 421 55 L 439 55 L 458 55 L 477 55 L 495 55 L 514 55 L 532 55 L 551 55 L 569 148 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="148" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="148" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="136" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
