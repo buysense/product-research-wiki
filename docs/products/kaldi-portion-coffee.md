@@ -17,15 +17,15 @@ description: 칼디 포션 커피는 믹스 커피 대신 깔끔하고 부담 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "13000",
+    "price": "12300",
     "url": "https://link.coupang.com/a/ezWAKZOXnM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-17"
+    "priceValidUntil": "2026-07-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 72,
+    "reviewCount": 73,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -82,33 +82,36 @@ description: 칼디 포션 커피는 믹스 커피 대신 깔끔하고 부담 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">13,100</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,900</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 102 L 89 102 L 110 102 L 130 102 L 151 102 L 172 102 L 193 102 L 214 102 L 234 102 L 255 102 L 276 102 L 297 102 L 318 102 L 338 102 L 359 102 L 380 102 L 401 102 L 422 102 L 442 102 L 463 102 L 484 102 L 505 102 L 526 102 L 546 102 L 567 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 89 102 L 110 102 L 130 102 L 151 102 L 172 102 L 193 102 L 214 102 L 234 102 L 255 102 L 276 102 L 297 102 L 318 102 L 338 102 L 359 102 L 380 102 L 401 102 L 422 102 L 442 102 L 463 102 L 484 102 L 505 102 L 526 102 L 546 102 L 567 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 26 L 88 26 L 108 26 L 128 26 L 148 26 L 168 26 L 188 26 L 208 26 L 228 26 L 248 26 L 268 26 L 288 26 L 308 26 L 328 26 L 348 26 L 368 26 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 26 L 508 26 L 528 26 L 548 26 L 568 26 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 88 26 L 108 26 L 128 26 L 148 26 L 168 26 L 188 26 L 208 26 L 228 26 L 248 26 L 268 26 L 288 26 L 308 26 L 328 26 L 348 26 L 368 26 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 26 L 508 26 L 528 26 L 548 26 L 568 26 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="568" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,000원</text>
+    <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,300원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -116,7 +119,7 @@ description: 칼디 포션 커피는 믹스 커피 대신 깔끔하고 부담 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,000원 · 별점 4.7 · 리뷰 72개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,300원 · 별점 4.7 · 리뷰 73개</span>
     <a href="https://link.coupang.com/a/ezWAKZOXnM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -187,7 +190,7 @@ A. 칼디 포션 커피는 일본에서 생산되는 제품입니다. 구매 전
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,000원 · 별점 4.7 · 리뷰 72개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,300원 · 별점 4.7 · 리뷰 73개</span>
     <a href="https://link.coupang.com/a/ezWAKZOXnM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
