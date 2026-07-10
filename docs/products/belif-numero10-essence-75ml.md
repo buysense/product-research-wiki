@@ -20,7 +20,7 @@ description: 빌리프 뉴메로 10 에센스 (75ml)는 세안 직후 증발하�
     "price": "29640",
     "url": "https://link.coupang.com/a/eQyKfBupEq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-17"
+    "priceValidUntil": "2026-07-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -62,9 +62,11 @@ description: 빌리프 뉴메로 10 에센스 (75ml)는 세안 직후 증발하�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -73,27 +75,27 @@ description: 빌리프 뉴메로 10 에센스 (75ml)는 세안 직후 증발하�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
 
-    <path d="M 68 56 L 101 56 L 133 56 L 166 56 L 198 56 L 231 56 L 263 56 L 296 26 L 328 45 L 361 45 L 393 45 L 426 45 L 458 45 L 491 45 L 523 45 L 556 116 L 588 116 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 56 L 101 56 L 133 56 L 166 56 L 198 56 L 231 56 L 263 56 L 296 26 L 328 45 L 361 45 L 393 45 L 426 45 L 458 45 L 491 45 L 523 45 L 556 116 L 588 116" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 56 L 99 56 L 129 56 L 160 56 L 190 56 L 221 56 L 252 56 L 282 26 L 313 45 L 343 45 L 374 45 L 404 45 L 435 45 L 466 45 L 496 45 L 527 116 L 557 116 L 588 116 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 56 L 99 56 L 129 56 L 160 56 L 190 56 L 221 56 L 252 56 L 282 26 L 313 45 L 343 45 L 374 45 L 404 45 L 435 45 L 466 45 L 496 45 L 527 116 L 557 116 L 588 116" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="296" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="556" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="252" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="282" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="313" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="496" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="527" cy="116" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="116" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="104" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">29,640원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
