@@ -20,7 +20,7 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
     "price": "9840",
     "url": "https://link.coupang.com/a/dLFCtfGf3Q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-17"
+    "priceValidUntil": "2026-07-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -139,6 +139,8 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -150,35 +152,36 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,800</text>
 
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 125 L 319 125 L 337 121 L 355 121 L 373 83 L 391 83 L 409 83 L 427 83 L 445 163 L 462 163 L 480 163 L 498 163 L 516 163 L 534 163 L 552 125 L 570 125 L 588 163 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 125 L 319 125 L 337 121 L 355 121 L 373 83 L 391 83 L 409 83 L 427 83 L 445 163 L 462 163 L 480 163 L 498 163 L 516 163 L 534 163 L 552 125 L 570 125 L 588 163" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 125 L 301 125 L 319 121 L 337 121 L 355 83 L 373 83 L 391 83 L 409 83 L 427 163 L 445 163 L 462 163 L 480 163 L 498 163 L 516 163 L 534 125 L 552 125 L 570 163 L 588 163 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 125 L 301 125 L 319 121 L 337 121 L 355 83 L 373 83 L 391 83 L 409 83 L 427 163 L 445 163 L 462 163 L 480 163 L 498 163 L 516 163 L 534 125 L 552 125 L 570 163 L 588 163" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="301" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="121" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="552" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="163" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="163" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="151" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,840원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
