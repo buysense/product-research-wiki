@@ -17,10 +17,10 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "9380",
+    "price": "9400",
     "url": "https://link.coupang.com/a/exEeiV",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-17"
+    "priceValidUntil": "2026-07-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -164,6 +164,8 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -175,26 +177,27 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,500</text>
 
-    <path d="M 68 163 L 86 163 L 104 163 L 122 41 L 140 41 L 158 41 L 176 44 L 194 44 L 211 44 L 229 44 L 247 44 L 265 44 L 283 44 L 301 44 L 319 44 L 337 44 L 355 44 L 373 44 L 391 44 L 409 44 L 427 44 L 445 44 L 462 44 L 480 44 L 498 44 L 516 44 L 534 44 L 552 44 L 570 44 L 588 44 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 163 L 86 163 L 104 163 L 122 41 L 140 41 L 158 41 L 176 44 L 194 44 L 211 44 L 229 44 L 247 44 L 265 44 L 283 44 L 301 44 L 319 44 L 337 44 L 355 44 L 373 44 L 391 44 L 409 44 L 427 44 L 445 44 L 462 44 L 480 44 L 498 44 L 516 44 L 534 44 L 552 44 L 570 44 L 588 44" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 163 L 86 163 L 104 41 L 122 41 L 140 41 L 158 44 L 176 44 L 194 44 L 211 44 L 229 44 L 247 44 L 265 44 L 283 44 L 301 44 L 319 44 L 337 44 L 355 44 L 373 44 L 391 44 L 409 44 L 427 44 L 445 44 L 462 44 L 480 44 L 498 44 L 516 44 L 534 44 L 552 44 L 570 44 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 163 L 86 163 L 104 41 L 122 41 L 140 41 L 158 44 L 176 44 L 194 44 L 211 44 L 229 44 L 247 44 L 265 44 L 283 44 L 301 44 L 319 44 L 337 44 L 355 44 L 373 44 L 391 44 L 409 44 L 427 44 L 445 44 L 462 44 L 480 44 L 498 44 L 516 44 L 534 44 L 552 44 L 570 44 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="44" r="5" fill="#ea580c"></circle>
+    <circle cx="86" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="32" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,380원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,400원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -202,7 +205,7 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,380원 · 별점 4.4 · 리뷰 62개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,400원 · 별점 4.4 · 리뷰 62개</span>
     <a href="https://link.coupang.com/a/exEeiV" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -278,7 +281,7 @@ A. 벽등은 전기 배선 작업이 필요할 수 있으므로, 자가 설치�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,380원 · 별점 4.4 · 리뷰 62개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,400원 · 별점 4.4 · 리뷰 62개</span>
     <a href="https://link.coupang.com/a/exEeiV" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
