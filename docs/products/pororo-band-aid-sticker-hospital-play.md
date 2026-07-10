@@ -17,15 +17,15 @@ description: 뽀로로 반창고 스티커 병원놀이는 아이들이 의사, 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "25200",
+    "price": "25380",
     "url": "https://link.coupang.com/a/epJJdH1fpc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-17"
+    "priceValidUntil": "2026-07-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 1630,
+    "reviewCount": 1632,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 뽀로로 반창고 스티커 병원놀이는 아이들이 의사, 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-08 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -105,43 +107,43 @@ description: 뽀로로 반창고 스티커 병원놀이는 아이들이 의사, 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
 
-    <path d="M 68 124 L 86 32 L 104 32 L 122 32 L 140 32 L 158 26 L 176 30 L 194 26 L 211 30 L 229 32 L 247 32 L 265 32 L 283 30 L 301 26 L 319 30 L 337 30 L 355 32 L 373 32 L 391 32 L 409 106 L 427 106 L 445 106 L 462 106 L 480 126 L 498 126 L 516 32 L 534 126 L 552 126 L 570 126 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 124 L 86 32 L 104 32 L 122 32 L 140 32 L 158 26 L 176 30 L 194 26 L 211 30 L 229 32 L 247 32 L 265 32 L 283 30 L 301 26 L 319 30 L 337 30 L 355 32 L 373 32 L 391 32 L 409 106 L 427 106 L 445 106 L 462 106 L 480 126 L 498 126 L 516 32 L 534 126 L 552 126 L 570 126 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
+    <path d="M 68 32 L 86 32 L 104 32 L 122 32 L 140 26 L 158 30 L 176 26 L 194 30 L 211 32 L 229 32 L 247 32 L 265 30 L 283 26 L 301 30 L 319 30 L 337 32 L 355 32 L 373 32 L 391 106 L 409 106 L 427 106 L 445 106 L 462 126 L 480 126 L 498 32 L 516 126 L 534 126 L 552 126 L 570 132 L 588 126 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 32 L 86 32 L 104 32 L 122 32 L 140 26 L 158 30 L 176 26 L 194 30 L 211 32 L 229 32 L 247 32 L 265 30 L 283 26 L 301 30 L 319 30 L 337 32 L 355 32 L 373 32 L 391 106 L 409 106 L 427 106 L 445 106 L 462 126 L 480 126 L 498 32 L 516 126 L 534 126 L 552 126 L 570 132 L 588 126" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="126" r="4" fill="#fdba74"></circle>
     <circle cx="480" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
+    <circle cx="498" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="126" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">25,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="588" y="114" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">25,380원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -149,7 +151,7 @@ description: 뽀로로 반창고 스티커 병원놀이는 아이들이 의사, 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 25,200원 · 별점 4.6 · 리뷰 1,630개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 25,380원 · 별점 4.6 · 리뷰 1,632개</span>
     <a href="https://link.coupang.com/a/epJJdH1fpc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -221,7 +223,7 @@ A. 제품에 포함된 반창고나 스티커는 소모품이므로 모두 사�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 25,200원 · 별점 4.6 · 리뷰 1,630개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 25,380원 · 별점 4.6 · 리뷰 1,632개</span>
     <a href="https://link.coupang.com/a/epJJdH1fpc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
