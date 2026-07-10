@@ -20,12 +20,12 @@ description: 메이지 프로비요 요거트 (R-1 드링크)는 R-1 유산균�
     "price": "36320",
     "url": "https://link.coupang.com/a/eqJLf7",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-17"
+    "priceValidUntil": "2026-07-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 3.9,
-    "reviewCount": 9,
+    "ratingValue": 4,
+    "reviewCount": 10,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -167,6 +167,8 @@ description: 메이지 프로비요 요거트 (R-1 드링크)는 R-1 유산균�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -174,27 +176,26 @@ description: 메이지 프로비요 요거트 (R-1 드링크)는 R-1 유산균�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">37,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">36,500</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">36,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">36,400</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">36,300</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">36,200</text>
 
-    <path d="M 68 26 L 86 129 L 104 129 L 122 129 L 140 129 L 158 129 L 176 129 L 194 129 L 211 129 L 229 129 L 247 129 L 265 129 L 283 129 L 301 129 L 319 129 L 337 129 L 355 129 L 373 129 L 391 129 L 409 129 L 427 129 L 445 129 L 462 129 L 480 129 L 498 129 L 516 129 L 534 129 L 552 129 L 570 129 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 129 L 104 129 L 122 129 L 140 129 L 158 129 L 176 129 L 194 129 L 211 129 L 229 129 L 247 129 L 265 129 L 283 129 L 301 129 L 319 129 L 337 129 L 355 129 L 373 129 L 391 129 L 409 129 L 427 129 L 445 129 L 462 129 L 480 129 L 498 129 L 516 129 L 534 129 L 552 129 L 570 129 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="129" r="5" fill="#ea580c"></circle>
+    <path d="M 68 87 L 86 87 L 104 87 L 122 87 L 140 87 L 158 87 L 176 87 L 194 87 L 211 87 L 229 87 L 247 87 L 265 87 L 283 87 L 301 87 L 319 87 L 337 87 L 355 87 L 373 87 L 391 87 L 409 87 L 427 87 L 445 87 L 462 87 L 480 87 L 498 87 L 516 87 L 534 87 L 552 87 L 570 87 L 588 87 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 87 L 86 87 L 104 87 L 122 87 L 140 87 L 158 87 L 176 87 L 194 87 L 211 87 L 229 87 L 247 87 L 265 87 L 283 87 L 301 87 L 319 87 L 337 87 L 355 87 L 373 87 L 391 87 L 409 87 L 427 87 L 445 87 L 462 87 L 480 87 L 498 87 L 516 87 L 534 87 L 552 87 L 570 87 L 588 87" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="87" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,320원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="588" y="75" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,320원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -202,7 +203,7 @@ description: 메이지 프로비요 요거트 (R-1 드링크)는 R-1 유산균�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 36,320원 · 별점 3.9 · 리뷰 9개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 36,320원 · 별점 4.0 · 리뷰 10개</span>
     <a href="https://link.coupang.com/a/eqJLf7" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -281,7 +282,7 @@ A. 메이지 프로비요 요거트 (R-1 드링크)의 가장 큰 차이점은 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 36,320원 · 별점 3.9 · 리뷰 9개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 36,320원 · 별점 4.0 · 리뷰 10개</span>
     <a href="https://link.coupang.com/a/eqJLf7" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
