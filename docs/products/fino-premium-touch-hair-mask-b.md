@@ -17,15 +17,15 @@ description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "21160",
+    "price": "21850",
     "url": "https://link.coupang.com/a/eIbuIEOHxl",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-17"
+    "priceValidUntil": "2026-07-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 6572,
+    "reviewCount": 6587,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -72,9 +72,11 @@ description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -83,34 +85,35 @@ description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 100 L 94 100 L 120 100 L 146 100 L 172 100 L 198 100 L 224 87 L 250 59 L 276 59 L 302 52 L 328 87 L 354 87 L 380 87 L 406 87 L 432 87 L 458 29 L 484 113 L 510 107 L 536 87 L 562 107 L 588 90 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 100 L 94 100 L 120 100 L 146 100 L 172 100 L 198 100 L 224 87 L 250 59 L 276 59 L 302 52 L 328 87 L 354 87 L 380 87 L 406 87 L 432 87 L 458 29 L 484 113 L 510 107 L 536 87 L 562 107 L 588 90" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 100 L 93 100 L 118 100 L 142 100 L 167 100 L 192 100 L 217 87 L 241 59 L 266 59 L 291 52 L 316 87 L 340 87 L 365 87 L 390 87 L 415 87 L 439 29 L 464 113 L 489 107 L 514 87 L 538 107 L 563 90 L 588 37 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 100 L 93 100 L 118 100 L 142 100 L 167 100 L 192 100 L 217 87 L 241 59 L 266 59 L 291 52 L 316 87 L 340 87 L 365 87 L 390 87 L 415 87 L 439 29 L 464 113 L 489 107 L 514 87 L 538 107 L 563 90 L 588 37" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="224" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="250" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="302" cy="52" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="432" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="510" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="536" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="562" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="90" r="5" fill="#ea580c"></circle>
+    <circle cx="192" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="266" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="316" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="464" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="489" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="538" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="563" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="37" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="78" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,160원</text>
+    <text x="588" y="25" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,850원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -118,7 +121,7 @@ description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,160원 · 별점 4.7 · 리뷰 6,572개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,850원 · 별점 4.7 · 리뷰 6,587개</span>
     <a href="https://link.coupang.com/a/eIbuIEOHxl" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -189,7 +192,7 @@ A. 뚜껑을 돌려 여는 통(단지) 형태입니다. 튜브형과 달리 직�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,160원 · 별점 4.7 · 리뷰 6,572개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,850원 · 별점 4.7 · 리뷰 6,587개</span>
     <a href="https://link.coupang.com/a/eIbuIEOHxl" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
