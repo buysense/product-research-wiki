@@ -20,7 +20,7 @@ description: 유리창청소도구는 높은 창문, 욕실 거울 등 손 닿�
     "price": "7210",
     "url": "https://link.coupang.com/a/eLrf7yCHgi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-16"
+    "priceValidUntil": "2026-07-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -66,9 +66,11 @@ description: 유리창청소도구는 높은 창문, 욕실 거울 등 손 닿�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -77,24 +79,24 @@ description: 유리창청소도구는 높은 창문, 욕실 거울 등 손 닿�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,400</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,200</text>
 
-    <path d="M 68 87 L 97 87 L 126 87 L 155 87 L 184 87 L 212 87 L 241 174 L 270 174 L 299 174 L 328 174 L 357 174 L 386 174 L 415 174 L 444 174 L 472 174 L 501 174 L 530 174 L 559 174 L 588 174 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 87 L 97 87 L 126 87 L 155 87 L 184 87 L 212 87 L 241 174 L 270 174 L 299 174 L 328 174 L 357 174 L 386 174 L 415 174 L 444 174 L 472 174 L 501 174 L 530 174 L 559 174 L 588 174" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 87 L 95 87 L 123 87 L 150 87 L 177 87 L 205 87 L 232 174 L 260 174 L 287 174 L 314 174 L 342 174 L 369 174 L 396 174 L 424 174 L 451 174 L 479 174 L 506 174 L 533 174 L 561 174 L 588 174 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 87 L 95 87 L 123 87 L 150 87 L 177 87 L 205 87 L 232 174 L 260 174 L 287 174 L 314 174 L 342 174 L 369 174 L 396 174 L 424 174 L 451 174 L 479 174 L 506 174 L 533 174 L 561 174 L 588 174" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="212" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="205" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="232" cy="174" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="174" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="162" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,210원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
