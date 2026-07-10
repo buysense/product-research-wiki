@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 락케이크 ROCKCE Slogan Mesh Top - Black RC26TP28500BK 1108538 | [보기](products/rockce-slogan-mesh-top-black.md) |
 | [셋업이엑스이] LACE CROSS T-SHIRT / BLACK | [보기](products/setup-exe-lace-cross-tshirt-black.md) |
 | Lotsyou_Ella Blouse Ivory 109501 | [보기](products/lotsyou-ella-blouse-ivory.md) |
 | COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린 | [보기](products/covernat-woman-check-sleeveless-blouse-green.md) |
