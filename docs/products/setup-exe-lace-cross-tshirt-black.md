@@ -19,7 +19,7 @@ description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이�
     "price": "101200",
     "url": "https://link.coupang.com/a/fgToeAJxtc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-17"
+    "priceValidUntil": "2026-07-18"
   }
 }
 </script>
