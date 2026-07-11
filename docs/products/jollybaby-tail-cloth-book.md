@@ -20,7 +20,7 @@ description: Jollybaby 헝겊책 꼬리책은 아기들의 오감 발달을 위�
     "price": "19800",
     "url": "https://link.coupang.com/a/epSM4aR5uC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-18"
+    "priceValidUntil": "2026-07-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -96,6 +96,8 @@ description: Jollybaby 헝겊책 꼬리책은 아기들의 오감 발달을 위�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -107,32 +109,31 @@ description: Jollybaby 헝겊책 꼬리책은 아기들의 오감 발달을 위�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">19,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">18,500</text>
 
-    <path d="M 68 132 L 86 132 L 104 117 L 122 117 L 140 117 L 158 117 L 176 26 L 194 26 L 211 26 L 229 132 L 247 132 L 265 117 L 283 117 L 301 117 L 319 117 L 337 117 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 132 L 86 132 L 104 117 L 122 117 L 140 117 L 158 117 L 176 26 L 194 26 L 211 26 L 229 132 L 247 132 L 265 117 L 283 117 L 301 117 L 319 117 L 337 117 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 132 L 86 117 L 104 117 L 122 117 L 140 117 L 158 26 L 176 26 L 194 26 L 211 132 L 229 132 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 86 117 L 104 117 L 122 117 L 140 117 L 158 26 L 176 26 L 194 26 L 211 132 L 229 132 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="132" r="4" fill="#fdba74"></circle>
     <circle cx="229" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
