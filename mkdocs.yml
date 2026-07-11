@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "[레이즈미야] 베이비 글라스 시어 풀오버 [BLACK]": products/layzmia-baby-glass-sheer-pullover-black.md
     - 락케이크 ROCKCE Slogan Mesh Top - Black RC26TP28500BK 1108538: products/rockce-slogan-mesh-top-black.md
     - "[셋업이엑스이] LACE CROSS T-SHIRT / BLACK": products/setup-exe-lace-cross-tshirt-black.md
     - Lotsyou_Ella Blouse Ivory 109501: products/lotsyou-ella-blouse-ivory.md
