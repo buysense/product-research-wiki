@@ -17,10 +17,10 @@ description: 브라더 컬러 레이저 복합기 MFC-L3760CDW는 학교, 소규
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "649000",
+    "price": "616550",
     "url": "https://link.coupang.com/a/eTwwmoaeu4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-18"
+    "priceValidUntil": "2026-07-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,33 +60,36 @@ description: 브라더 컬러 레이저 복합기 MFC-L3760CDW는 학교, 소규
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">649,100</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">649,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">648,900</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">640,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">620,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">600,000</text>
 
-    <path d="M 68 102 L 103 102 L 137 102 L 172 102 L 207 102 L 241 102 L 276 102 L 311 102 L 345 102 L 380 102 L 415 102 L 449 102 L 484 102 L 519 102 L 553 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 103 102 L 137 102 L 172 102 L 207 102 L 241 102 L 276 102 L 311 102 L 345 102 L 380 102 L 415 102 L 449 102 L 484 102 L 519 102 L 553 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 26 L 101 26 L 133 26 L 166 26 L 198 26 L 231 26 L 263 26 L 296 26 L 328 26 L 361 26 L 393 26 L 426 26 L 458 26 L 491 26 L 523 26 L 556 26 L 588 115 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 101 26 L 133 26 L 166 26 L 198 26 L 231 26 L 263 26 L 296 26 L 328 26 L 361 26 L 393 26 L 426 26 L 458 26 L 491 26 L 523 26 L 556 26 L 588 115" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="556" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="115" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">649,000원</text>
+    <text x="588" y="103" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">616,550원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -94,7 +97,7 @@ description: 브라더 컬러 레이저 복합기 MFC-L3760CDW는 학교, 소규
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 649,000원 · 별점 4.7 · 리뷰 37개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 616,550원 · 별점 4.7 · 리뷰 37개</span>
     <a href="https://link.coupang.com/a/eTwwmoaeu4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -176,7 +179,7 @@ A. 일반적으로 빠른 속도를 제공하지만, 하루에 100장 이상 대
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 649,000원 · 별점 4.7 · 리뷰 37개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 616,550원 · 별점 4.7 · 리뷰 37개</span>
     <a href="https://link.coupang.com/a/eTwwmoaeu4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
