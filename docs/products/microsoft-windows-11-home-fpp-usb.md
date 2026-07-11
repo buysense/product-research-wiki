@@ -136,6 +136,8 @@ description: 마이크로소프트 Windows 11 Home FPP USB는 조립 PC 및 운�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -143,42 +145,42 @@ description: 마이크로소프트 Windows 11 Home FPP USB는 조립 PC 및 운�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">250,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">180,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">160,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">140,000</text>
 
-    <path d="M 68 95 L 86 145 L 104 145 L 122 145 L 140 113 L 158 145 L 176 145 L 194 145 L 211 145 L 229 145 L 247 145 L 265 145 L 283 145 L 301 145 L 319 151 L 337 151 L 355 151 L 373 151 L 391 151 L 409 143 L 427 143 L 445 160 L 462 151 L 480 155 L 498 155 L 516 155 L 534 142 L 552 151 L 570 151 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 95 L 86 145 L 104 145 L 122 145 L 140 113 L 158 145 L 176 145 L 194 145 L 211 145 L 229 145 L 247 145 L 265 145 L 283 145 L 301 145 L 319 151 L 337 151 L 355 151 L 373 151 L 391 151 L 409 143 L 427 143 L 445 160 L 462 151 L 480 155 L 498 155 L 516 155 L 534 142 L 552 151 L 570 151 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="160" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="170" r="5" fill="#ea580c"></circle>
+    <path d="M 68 56 L 86 56 L 104 56 L 122 26 L 140 56 L 158 56 L 176 56 L 194 56 L 211 56 L 229 56 L 247 56 L 265 56 L 283 56 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 53 L 409 53 L 427 94 L 445 72 L 462 83 L 480 83 L 498 83 L 516 49 L 534 72 L 552 72 L 570 121 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 56 L 86 56 L 104 56 L 122 26 L 140 56 L 158 56 L 176 56 L 194 56 L 211 56 L 229 56 L 247 56 L 265 56 L 283 56 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 53 L 409 53 L 427 94 L 445 72 L 462 83 L 480 83 L 498 83 L 516 49 L 534 72 L 552 72 L 570 121 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="158" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">155,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">170,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
