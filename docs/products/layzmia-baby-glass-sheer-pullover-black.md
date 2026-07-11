@@ -19,7 +19,7 @@ description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가�
     "price": "97200",
     "url": "https://link.coupang.com/a/fiLGJZbuQ8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-18"
+    "priceValidUntil": "2026-07-19"
   }
 }
 </script>
