@@ -20,7 +20,7 @@ description: 리웨이 허그 원터치 분유포트는 신생아부터 유아�
     "price": "57420",
     "url": "https://link.coupang.com/a/e1CH4lOkP6",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-18"
+    "priceValidUntil": "2026-07-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -50,9 +50,11 @@ description: 리웨이 허그 원터치 분유포트는 신생아부터 유아�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 11개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,25 +63,25 @@ description: 리웨이 허그 원터치 분유포트는 신생아부터 유아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">58,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">56,000</text>
 
-    <path d="M 68 34 L 120 102 L 172 102 L 224 102 L 276 102 L 328 102 L 380 124 L 432 124 L 484 124 L 536 124 L 588 124 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 120 102 L 172 102 L 224 102 L 276 102 L 328 102 L 380 124 L 432 124 L 484 124 L 536 124 L 588 124" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 115 102 L 163 102 L 210 102 L 257 102 L 304 102 L 352 124 L 399 124 L 446 124 L 493 124 L 541 124 L 588 124 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 115 102 L 163 102 L 210 102 L 257 102 L 304 102 L 352 124 L 399 124 L 446 124 L 493 124 L 541 124 L 588 124" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="120" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="115" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="352" cy="124" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="124" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="112" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">57,420원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
