@@ -19,7 +19,7 @@ description: LMC FN OG TEE flower gray는 일상 캐주얼 및 스트릿웨어 �
     "price": "67900",
     "url": "https://link.coupang.com/a/eOV9iPVLFs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-18"
+    "priceValidUntil": "2026-07-19"
   }
 }
 </script>
@@ -58,9 +58,11 @@ description: LMC FN OG TEE flower gray는 일상 캐주얼 및 스트릿웨어 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -69,32 +71,32 @@ description: LMC FN OG TEE flower gray는 일상 캐주얼 및 스트릿웨어 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 172 L 97 172 L 126 172 L 155 172 L 184 99 L 212 99 L 241 99 L 270 153 L 299 153 L 328 127 L 357 127 L 386 107 L 415 107 L 444 107 L 472 107 L 501 72 L 530 72 L 559 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 172 L 97 172 L 126 172 L 155 172 L 184 99 L 212 99 L 241 99 L 270 153 L 299 153 L 328 127 L 357 127 L 386 107 L 415 107 L 444 107 L 472 107 L 501 72 L 530 72 L 559 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 172 L 95 172 L 123 172 L 150 172 L 177 99 L 205 99 L 232 99 L 260 153 L 287 153 L 314 127 L 342 127 L 369 107 L 396 107 L 424 107 L 451 107 L 479 72 L 506 72 L 533 72 L 561 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 172 L 95 172 L 123 172 L 150 172 L 177 99 L 205 99 L 232 99 L 260 153 L 287 153 L 314 127 L 342 127 L 369 107 L 396 107 L 424 107 L 451 107 L 479 72 L 506 72 L 533 72 L 561 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="172" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="172" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="270" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="386" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="150" cy="172" r="4" fill="#fdba74"></circle>
+    <circle cx="177" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="232" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="260" cy="153" r="4" fill="#fdba74"></circle>
+    <circle cx="287" cy="153" r="4" fill="#fdba74"></circle>
+    <circle cx="314" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="342" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="369" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="451" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="479" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">67,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
