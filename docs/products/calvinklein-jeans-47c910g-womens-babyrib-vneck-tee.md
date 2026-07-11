@@ -19,7 +19,7 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
     "price": "58800",
     "url": "https://link.coupang.com/a/fiMa3rVXVI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-18"
+    "priceValidUntil": "2026-07-19"
   }
 }
 </script>
