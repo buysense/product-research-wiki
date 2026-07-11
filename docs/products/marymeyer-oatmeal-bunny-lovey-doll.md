@@ -20,7 +20,7 @@ description: 메리메이어 오트밀 버니 애착인형은 부드러운 촉�
     "price": "25470",
     "url": "https://link.coupang.com/a/epSnCgAuwm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-18"
+    "priceValidUntil": "2026-07-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -94,9 +94,11 @@ description: 메리메이어 오트밀 버니 애착인형은 부드러운 촉�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -105,24 +107,24 @@ description: 메리메이어 오트밀 버니 애착인형은 부드러운 촉�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
 
-    <path d="M 68 26 L 87 26 L 105 26 L 124 26 L 142 26 L 161 26 L 179 26 L 198 26 L 217 26 L 235 26 L 254 26 L 272 26 L 291 26 L 309 26 L 328 26 L 347 26 L 365 26 L 384 26 L 402 26 L 421 26 L 439 26 L 458 26 L 477 26 L 495 26 L 514 122 L 532 122 L 551 122 L 569 122 L 588 122 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 87 26 L 105 26 L 124 26 L 142 26 L 161 26 L 179 26 L 198 26 L 217 26 L 235 26 L 254 26 L 272 26 L 291 26 L 309 26 L 328 26 L 347 26 L 365 26 L 384 26 L 402 26 L 421 26 L 439 26 L 458 26 L 477 26 L 495 26 L 514 122 L 532 122 L 551 122 L 569 122 L 588 122" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 122 L 516 122 L 534 122 L 552 122 L 570 122 L 588 122 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 122 L 516 122 L 534 122 L 552 122 L 570 122 L 588 122" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="495" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="122" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="122" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="110" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">25,470원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
