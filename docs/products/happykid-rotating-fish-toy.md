@@ -20,7 +20,7 @@ description: 해피키드 회전하는 물고기는 유아의 시각 및 소근�
     "price": "11070",
     "url": "https://link.coupang.com/a/eBr0jdQ5K0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-19"
+    "priceValidUntil": "2026-07-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -84,9 +84,11 @@ description: 해피키드 회전하는 물고기는 유아의 시각 및 소근�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -95,24 +97,24 @@ description: 해피키드 회전하는 물고기는 유아의 시각 및 소근�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 146 L 88 146 L 108 146 L 128 146 L 148 146 L 168 146 L 188 146 L 208 146 L 228 61 L 248 61 L 268 61 L 288 61 L 308 61 L 328 61 L 348 61 L 368 61 L 388 61 L 408 61 L 428 61 L 448 61 L 468 61 L 488 61 L 508 61 L 528 61 L 548 61 L 568 61 L 588 61 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 146 L 88 146 L 108 146 L 128 146 L 148 146 L 168 146 L 188 146 L 208 146 L 228 61 L 248 61 L 268 61 L 288 61 L 308 61 L 328 61 L 348 61 L 368 61 L 388 61 L 408 61 L 428 61 L 448 61 L 468 61 L 488 61 L 508 61 L 528 61 L 548 61 L 568 61 L 588 61" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 146 L 87 146 L 107 146 L 126 146 L 145 146 L 164 146 L 184 146 L 203 146 L 222 61 L 241 61 L 261 61 L 280 61 L 299 61 L 318 61 L 338 61 L 357 61 L 376 61 L 395 61 L 415 61 L 434 61 L 453 61 L 472 61 L 492 61 L 511 61 L 530 61 L 549 61 L 569 61 L 588 61 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 146 L 87 146 L 107 146 L 126 146 L 145 146 L 164 146 L 184 146 L 203 146 L 222 61 L 241 61 L 261 61 L 280 61 L 299 61 L 318 61 L 338 61 L 357 61 L 376 61 L 395 61 L 415 61 L 434 61 L 453 61 L 472 61 L 492 61 L 511 61 L 530 61 L 549 61 L 569 61 L 588 61" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="208" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="203" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="222" cy="61" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="61" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="49" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,070원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
