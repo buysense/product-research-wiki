@@ -20,12 +20,12 @@ description: 나우푸드 실리마린 밀크 시슬 추출물 300mg 베지 캡�
     "price": "28200",
     "url": "https://link.coupang.com/a/eBxriFIaAu",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-19"
+    "priceValidUntil": "2026-07-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 68551,
+    "reviewCount": 68586,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -84,9 +84,11 @@ description: 나우푸드 실리마린 밀크 시슬 추출물 300mg 베지 캡�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -95,43 +97,43 @@ description: 나우푸드 실리마린 밀크 시슬 추출물 300mg 베지 캡�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 45 L 87 45 L 107 45 L 126 26 L 145 57 L 164 57 L 184 57 L 203 57 L 222 26 L 241 42 L 261 26 L 280 26 L 299 26 L 318 44 L 338 44 L 357 113 L 376 92 L 395 97 L 415 26 L 434 26 L 453 26 L 472 26 L 492 114 L 511 42 L 530 42 L 549 45 L 569 53 L 588 53 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 45 L 87 45 L 107 45 L 126 26 L 145 57 L 164 57 L 184 57 L 203 57 L 222 26 L 241 42 L 261 26 L 280 26 L 299 26 L 318 44 L 338 44 L 357 113 L 376 92 L 395 97 L 415 26 L 434 26 L 453 26 L 472 26 L 492 114 L 511 42 L 530 42 L 549 45 L 569 53 L 588 53" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 45 L 87 45 L 105 45 L 124 26 L 142 57 L 161 57 L 179 57 L 198 57 L 217 26 L 235 42 L 254 26 L 272 26 L 291 26 L 309 44 L 328 44 L 347 113 L 365 92 L 384 97 L 402 26 L 421 26 L 439 26 L 458 26 L 477 114 L 495 42 L 514 42 L 532 45 L 551 53 L 569 53 L 588 53 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 45 L 87 45 L 105 45 L 124 26 L 142 57 L 161 57 L 179 57 L 198 57 L 217 26 L 235 42 L 254 26 L 272 26 L 291 26 L 309 44 L 328 44 L 347 113 L 365 92 L 384 97 L 402 26 L 421 26 L 439 26 L 458 26 L 477 114 L 495 42 L 514 42 L 532 45 L 551 53 L 569 53 L 588 53" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="107" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="145" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="203" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="222" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="261" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="280" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="376" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="395" cy="97" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="492" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="511" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="549" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="124" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="235" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="254" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="272" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="309" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="347" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="384" cy="97" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="495" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="532" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="53" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="53" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="41" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -139,7 +141,7 @@ description: 나우푸드 실리마린 밀크 시슬 추출물 300mg 베지 캡�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,200원 · 별점 4.8 · 리뷰 68,551개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,200원 · 별점 4.8 · 리뷰 68,586개</span>
     <a href="https://link.coupang.com/a/eBxriFIaAu" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -216,7 +218,7 @@ A. 건강기능식품은 의약품과 달리 즉각적인 효과를 기대하기
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,200원 · 별점 4.8 · 리뷰 68,551개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,200원 · 별점 4.8 · 리뷰 68,586개</span>
     <a href="https://link.coupang.com/a/eBxriFIaAu" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
