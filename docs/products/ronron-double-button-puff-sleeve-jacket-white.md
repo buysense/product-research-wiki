@@ -19,7 +19,7 @@ description: 론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 �
     "price": "121800",
     "url": "https://link.coupang.com/a/fkrBMLO4s0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-19"
+    "priceValidUntil": "2026-07-20"
   }
 }
 </script>
