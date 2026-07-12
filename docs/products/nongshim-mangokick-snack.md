@@ -20,12 +20,12 @@ description: 농심 망고킥은 바나나킥의 부드러운 식감에 애플�
     "price": "8500",
     "url": "https://link.coupang.com/a/eR8ReFTYke",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-19"
+    "priceValidUntil": "2026-07-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 514,
+    "reviewCount": 528,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -64,9 +64,11 @@ description: 농심 망고킥은 바나나킥의 부드러운 식감에 애플�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -75,31 +77,31 @@ description: 농심 망고킥은 바나나킥의 부드러운 식감에 애플�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
 
-    <path d="M 68 81 L 99 81 L 129 81 L 160 81 L 190 81 L 221 81 L 252 127 L 282 71 L 313 154 L 343 71 L 374 71 L 404 114 L 435 59 L 466 64 L 496 64 L 527 64 L 557 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 81 L 99 81 L 129 81 L 160 81 L 190 81 L 221 81 L 252 127 L 282 71 L 313 154 L 343 71 L 374 71 L 404 114 L 435 59 L 466 64 L 496 64 L 527 64 L 557 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 81 L 97 81 L 126 81 L 155 81 L 184 81 L 212 81 L 241 127 L 270 71 L 299 154 L 328 71 L 357 71 L 386 114 L 415 59 L 444 64 L 472 64 L 501 64 L 530 64 L 559 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 81 L 97 81 L 126 81 L 155 81 L 184 81 L 212 81 L 241 127 L 270 71 L 299 154 L 328 71 L 357 71 L 386 114 L 415 59 L 444 64 L 472 64 L 501 64 L 530 64 L 559 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="221" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="252" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="282" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="313" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="343" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="374" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="404" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="435" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="466" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="212" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="270" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="386" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="444" cy="64" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -107,7 +109,7 @@ description: 농심 망고킥은 바나나킥의 부드러운 식감에 애플�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,500원 · 별점 4.5 · 리뷰 514개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,500원 · 별점 4.5 · 리뷰 528개</span>
     <a href="https://link.coupang.com/a/eR8ReFTYke" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -199,7 +201,7 @@ A. 기본적으로 입안에서 녹는 부드러운 식감은 동일합니다. �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,500원 · 별점 4.5 · 리뷰 514개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,500원 · 별점 4.5 · 리뷰 528개</span>
     <a href="https://link.coupang.com/a/eR8ReFTYke" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
