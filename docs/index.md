@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 자연지감 프리미엄 온명란 백명란 저염명란젓 소분포장 | [보기](products/jayeonjigam-premium-mentaiko-lowsalt-portion.md) |
 | 펩시 제로슈거 라임향 (210ml, 30개) | [보기](products/pepsi-zerosugar-lime-210ml-30ea.md) |
 | [이지노이지] 크롭 퍼 후드 집업 - 아이보리 | [보기](products/easy-noisy-crop-fur-hoodie-zipup-ivory.md) |
 | 론론 DOUBLE BUTTON PUFF SLEEVE JACKET WHITE | [보기](products/ronron-double-button-puff-sleeve-jacket-white.md) |
