@@ -20,7 +20,7 @@ description: 자연지감 프리미엄 온명란 백명란 저염명란젓 소�
     "price": "37700",
     "url": "https://link.coupang.com/a/fl4PdBAhvo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-20"
+    "priceValidUntil": "2026-07-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
