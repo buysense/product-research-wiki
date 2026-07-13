@@ -17,15 +17,15 @@ description: IQ베이비 손감각 발달토이는 신생아부터 6개월 전�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "16830",
+    "price": "18710",
     "url": "https://link.coupang.com/a/eBrNdTWlgW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-20"
+    "priceValidUntil": "2026-07-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1782,
+    "reviewCount": 1783,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -86,9 +86,11 @@ description: IQ베이비 손감각 발달토이는 신생아부터 6개월 전�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -97,36 +99,37 @@ description: IQ베이비 손감각 발달토이는 신생아부터 6개월 전�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 93 L 87 93 L 107 173 L 126 173 L 145 173 L 164 93 L 184 93 L 203 93 L 222 93 L 241 93 L 261 93 L 280 93 L 299 93 L 318 93 L 338 165 L 357 93 L 376 173 L 395 173 L 415 93 L 434 93 L 453 93 L 472 162 L 492 162 L 511 146 L 530 146 L 549 146 L 569 146 L 588 146 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 93 L 87 93 L 107 173 L 126 173 L 145 173 L 164 93 L 184 93 L 203 93 L 222 93 L 241 93 L 261 93 L 280 93 L 299 93 L 318 93 L 338 165 L 357 93 L 376 173 L 395 173 L 415 93 L 434 93 L 453 93 L 472 162 L 492 162 L 511 146 L 530 146 L 549 146 L 569 146 L 588 146" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 93 L 87 93 L 105 173 L 124 173 L 142 173 L 161 93 L 179 93 L 198 93 L 217 93 L 235 93 L 254 93 L 272 93 L 291 93 L 309 93 L 328 165 L 347 93 L 365 173 L 384 173 L 402 93 L 421 93 L 439 93 L 458 162 L 477 162 L 495 146 L 514 146 L 532 146 L 551 146 L 569 146 L 588 75 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 93 L 87 93 L 105 173 L 124 173 L 142 173 L 161 93 L 179 93 L 198 93 L 217 93 L 235 93 L 254 93 L 272 93 L 291 93 L 309 93 L 328 165 L 347 93 L 365 173 L 384 173 L 402 93 L 421 93 L 439 93 L 458 162 L 477 162 L 495 146 L 514 146 L 532 146 L 551 146 L 569 146 L 588 75" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="93" r="4" fill="#fdba74"></circle>
     <circle cx="87" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="107" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="145" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="164" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="376" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="395" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="453" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="492" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="511" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="146" r="5" fill="#ea580c"></circle>
+    <circle cx="105" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="161" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="309" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="165" r="4" fill="#fdba74"></circle>
+    <circle cx="347" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="384" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="495" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="75" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="134" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,830원</text>
+    <text x="588" y="63" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,710원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -134,7 +137,7 @@ description: IQ베이비 손감각 발달토이는 신생아부터 6개월 전�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,830원 · 별점 4.8 · 리뷰 1,782개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,710원 · 별점 4.8 · 리뷰 1,783개</span>
     <a href="https://link.coupang.com/a/eBrNdTWlgW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -221,7 +224,7 @@ A. 네, 신생아 때부터 사용 가능하며 아기의 발달에 도움을 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,830원 · 별점 4.8 · 리뷰 1,782개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,710원 · 별점 4.8 · 리뷰 1,783개</span>
     <a href="https://link.coupang.com/a/eBrNdTWlgW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
