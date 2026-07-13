@@ -19,13 +19,15 @@ description: 농심 육포깡 매콤한맛은 짭짤하면서도 알싸한 매�
     "price": "10570",
     "url": "https://link.coupang.com/a/ev4JKUXy56",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-20"
+    "priceValidUntil": "2026-07-21"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-12 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -95,27 +97,26 @@ description: 농심 육포깡 매콤한맛은 짭짤하면서도 알싸한 매�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 43 L 86 70 L 104 70 L 122 43 L 140 157 L 158 156 L 176 156 L 194 156 L 211 156 L 229 156 L 247 156 L 265 156 L 283 156 L 301 156 L 319 156 L 337 156 L 355 156 L 373 156 L 391 156 L 409 156 L 427 156 L 445 156 L 462 156 L 480 156 L 498 156 L 516 156 L 534 156 L 552 156 L 570 156 L 588 156 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 43 L 86 70 L 104 70 L 122 43 L 140 157 L 158 156 L 176 156 L 194 156 L 211 156 L 229 156 L 247 156 L 265 156 L 283 156 L 301 156 L 319 156 L 337 156 L 355 156 L 373 156 L 391 156 L 409 156 L 427 156 L 445 156 L 462 156 L 480 156 L 498 156 L 516 156 L 534 156 L 552 156 L 570 156 L 588 156" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="43" r="4" fill="#fdba74"></circle>
+    <path d="M 68 70 L 86 70 L 104 43 L 122 157 L 140 156 L 158 156 L 176 156 L 194 156 L 211 156 L 229 156 L 247 156 L 265 156 L 283 156 L 301 156 L 319 156 L 337 156 L 355 156 L 373 156 L 391 156 L 409 156 L 427 156 L 445 156 L 462 156 L 480 156 L 498 156 L 516 156 L 534 156 L 552 156 L 570 156 L 588 156 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 70 L 86 70 L 104 43 L 122 157 L 140 156 L 158 156 L 176 156 L 194 156 L 211 156 L 229 156 L 247 156 L 265 156 L 283 156 L 301 156 L 319 156 L 337 156 L 355 156 L 373 156 L 391 156 L 409 156 L 427 156 L 445 156 L 462 156 L 480 156 L 498 156 L 516 156 L 534 156 L 552 156 L 570 156 L 588 156" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="70" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="156" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="156" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="156" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="144" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,570원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
