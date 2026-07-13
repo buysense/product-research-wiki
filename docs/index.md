@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 펩시 제로슈거 라임향 (210ml, 30개) | [보기](products/pepsi-zerosugar-lime-210ml-30ea.md) |
 | [이지노이지] 크롭 퍼 후드 집업 - 아이보리 | [보기](products/easy-noisy-crop-fur-hoodie-zipup-ivory.md) |
 | 론론 DOUBLE BUTTON PUFF SLEEVE JACKET WHITE | [보기](products/ronron-double-button-puff-sleeve-jacket-white.md) |
 | 키넬라이프 외창문 클리너 | [보기](products/kinelife-exterior-window-cleaner.md) |
