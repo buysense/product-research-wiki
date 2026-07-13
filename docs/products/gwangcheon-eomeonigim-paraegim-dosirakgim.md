@@ -17,15 +17,15 @@ description: 광천 어머니김 파래김은 바삭하고 얇은 식감, 향긋
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "11400",
+    "price": "13500",
     "url": "https://link.coupang.com/a/eTSFwmLhYW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-20"
+    "priceValidUntil": "2026-07-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 317,
+    "reviewCount": 320,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -64,39 +64,42 @@ description: 광천 어머니김 파래김은 바삭하고 얇은 식감, 향긋
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">11,500</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 114 L 99 114 L 129 114 L 160 114 L 190 96 L 221 96 L 252 41 L 282 41 L 313 41 L 343 41 L 374 41 L 404 117 L 435 117 L 466 117 L 496 117 L 527 117 L 557 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 114 L 99 114 L 129 114 L 160 114 L 190 96 L 221 96 L 252 41 L 282 41 L 313 41 L 343 41 L 374 41 L 404 117 L 435 117 L 466 117 L 496 117 L 527 117 L 557 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="160" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="190" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="221" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="252" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="374" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="404" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
+    <path d="M 68 124 L 97 124 L 126 124 L 155 124 L 184 119 L 212 119 L 241 106 L 270 106 L 299 106 L 328 106 L 357 106 L 386 125 L 415 125 L 444 125 L 472 125 L 501 125 L 530 125 L 559 125 L 588 45 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 124 L 97 124 L 126 124 L 155 124 L 184 119 L 212 119 L 241 106 L 270 106 L 299 106 L 328 106 L 357 106 L 386 125 L 415 125 L 444 125 L 472 125 L 501 125 L 530 125 L 559 125 L 588 45" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="212" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="386" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="559" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="45" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,400원</text>
+    <text x="588" y="33" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -104,7 +107,7 @@ description: 광천 어머니김 파래김은 바삭하고 얇은 식감, 향긋
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,400원 · 별점 4.6 · 리뷰 317개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,500원 · 별점 4.6 · 리뷰 320개</span>
     <a href="https://link.coupang.com/a/eTSFwmLhYW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -172,7 +175,7 @@ A. 일부 구매자들로부터 판매 페이지에 표기된 김 함량이나 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,400원 · 별점 4.6 · 리뷰 317개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,500원 · 별점 4.6 · 리뷰 320개</span>
     <a href="https://link.coupang.com/a/eTSFwmLhYW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
