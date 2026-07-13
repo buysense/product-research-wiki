@@ -17,15 +17,15 @@ description: 드리미 L40s Pro Ultra는 바쁜 일상 속에서 완벽한 바�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "699000",
+    "price": "743070",
     "url": "https://link.coupang.com/a/eTqyfo8ZKC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-20"
+    "priceValidUntil": "2026-07-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 457,
+    "reviewCount": 460,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -64,9 +64,11 @@ description: 드리미 L40s Pro Ultra는 바쁜 일상 속에서 완벽한 바�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -75,32 +77,33 @@ description: 드리미 L40s Pro Ultra는 바쁜 일상 속에서 완벽한 바�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">700,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">600,000</text>
 
-    <path d="M 68 103 L 99 103 L 129 65 L 160 65 L 190 65 L 221 65 L 252 27 L 282 70 L 313 65 L 343 65 L 374 65 L 404 103 L 435 103 L 466 103 L 496 103 L 527 103 L 557 110 L 588 103 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 103 L 99 103 L 129 65 L 160 65 L 190 65 L 221 65 L 252 27 L 282 70 L 313 65 L 343 65 L 374 65 L 404 103 L 435 103 L 466 103 L 496 103 L 527 103 L 557 110 L 588 103" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 103 L 97 103 L 126 65 L 155 65 L 184 65 L 212 65 L 241 27 L 270 70 L 299 65 L 328 65 L 357 65 L 386 103 L 415 103 L 444 103 L 472 103 L 501 103 L 530 110 L 559 103 L 588 69 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 103 L 97 103 L 126 65 L 155 65 L 184 65 L 212 65 L 241 27 L 270 70 L 299 65 L 328 65 L 357 65 L 386 103 L 415 103 L 444 103 L 472 103 L 501 103 L 530 110 L 559 103 L 588 69" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="99" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="129" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="221" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="252" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="282" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="313" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="374" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="404" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="527" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="557" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="103" r="5" fill="#ea580c"></circle>
+    <circle cx="97" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="212" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="270" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="386" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="559" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="69" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="91" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">699,000원</text>
+    <text x="588" y="57" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">743,070원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -108,7 +111,7 @@ description: 드리미 L40s Pro Ultra는 바쁜 일상 속에서 완벽한 바�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 699,000원 · 별점 4.7 · 리뷰 457개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 743,070원 · 별점 4.7 · 리뷰 460개</span>
     <a href="https://link.coupang.com/a/eTqyfo8ZKC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -193,7 +196,7 @@ A. 매우 편리한 편입니다. 먼지통을 직접 비울 필요가 없고, �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 699,000원 · 별점 4.7 · 리뷰 457개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 743,070원 · 별점 4.7 · 리뷰 460개</span>
     <a href="https://link.coupang.com/a/eTqyfo8ZKC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
