@@ -20,12 +20,12 @@ description: 클리오 킬브로우 슬림 애쉬 브로우카라는 자연스�
     "price": "9800",
     "url": "https://link.coupang.com/a/ejkRNbYnka",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-20"
+    "priceValidUntil": "2026-07-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 130,
+    "reviewCount": 132,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 클리오 킬브로우 슬림 애쉬 브로우카라는 자연스�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-04 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -117,24 +119,24 @@ description: 클리오 킬브로우 슬림 애쉬 브로우카라는 자연스�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,700</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,600</text>
 
-    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -142,7 +144,7 @@ description: 클리오 킬브로우 슬림 애쉬 브로우카라는 자연스�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,800원 · 별점 4.7 · 리뷰 130개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,800원 · 별점 4.7 · 리뷰 132개</span>
     <a href="https://link.coupang.com/a/ejkRNbYnka" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -210,7 +212,7 @@ A. 제품명은 애쉬핑크이지만 실제 발색은 핑크빛보다는 애쉬
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,800원 · 별점 4.7 · 리뷰 130개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,800원 · 별점 4.7 · 리뷰 132개</span>
     <a href="https://link.coupang.com/a/ejkRNbYnka" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
