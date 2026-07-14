@@ -20,7 +20,7 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
     "price": "14890",
     "url": "https://link.coupang.com/a/eDP2cK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-21"
+    "priceValidUntil": "2026-07-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -165,6 +165,8 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -176,35 +178,34 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,500</text>
 
-    <path d="M 68 135 L 86 113 L 104 119 L 122 119 L 140 119 L 158 119 L 176 119 L 194 119 L 211 119 L 229 119 L 247 119 L 265 119 L 283 59 L 301 119 L 319 58 L 337 119 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 155 L 462 119 L 480 155 L 498 155 L 516 119 L 534 119 L 552 119 L 570 119 L 588 119 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 135 L 86 113 L 104 119 L 122 119 L 140 119 L 158 119 L 176 119 L 194 119 L 211 119 L 229 119 L 247 119 L 265 119 L 283 59 L 301 119 L 319 58 L 337 119 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 155 L 462 119 L 480 155 L 498 155 L 516 119 L 534 119 L 552 119 L 570 119 L 588 119" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="119" r="4" fill="#fdba74"></circle>
+    <path d="M 68 113 L 86 119 L 104 119 L 122 119 L 140 119 L 158 119 L 176 119 L 194 119 L 211 119 L 229 119 L 247 119 L 265 59 L 283 119 L 301 58 L 319 119 L 337 155 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 119 L 462 155 L 480 155 L 498 119 L 516 119 L 534 119 L 552 119 L 570 119 L 588 119 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 113 L 86 119 L 104 119 L 122 119 L 140 119 L 158 119 L 176 119 L 194 119 L 211 119 L 229 119 L 247 119 L 265 59 L 283 119 L 301 58 L 319 119 L 337 155 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 119 L 462 155 L 480 155 L 498 119 L 516 119 L 534 119 L 552 119 L 570 119 L 588 119" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="155" r="4" fill="#fdba74"></circle>
     <circle cx="480" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="119" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="119" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="107" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,890원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
