@@ -20,12 +20,12 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
     "price": "12730",
     "url": "https://link.coupang.com/a/d8QKkq0UeW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-20"
+    "priceValidUntil": "2026-07-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 4724,
+    "reviewCount": 4726,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -129,37 +131,37 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 50 L 86 52 L 104 52 L 122 46 L 140 46 L 158 46 L 176 46 L 194 46 L 211 28 L 229 28 L 247 28 L 265 28 L 283 103 L 301 103 L 319 103 L 337 103 L 355 103 L 373 103 L 391 103 L 409 103 L 427 103 L 445 103 L 462 104 L 480 104 L 498 26 L 516 104 L 534 104 L 552 38 L 570 26 L 588 123 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 50 L 86 52 L 104 52 L 122 46 L 140 46 L 158 46 L 176 46 L 194 46 L 211 28 L 229 28 L 247 28 L 265 28 L 283 103 L 301 103 L 319 103 L 337 103 L 355 103 L 373 103 L 391 103 L 409 103 L 427 103 L 445 103 L 462 104 L 480 104 L 498 26 L 516 104 L 534 104 L 552 38 L 570 26 L 588 123" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="50" r="4" fill="#fdba74"></circle>
+    <path d="M 68 52 L 86 52 L 104 46 L 122 46 L 140 46 L 158 46 L 176 46 L 194 28 L 211 28 L 229 28 L 247 28 L 265 103 L 283 103 L 301 103 L 319 103 L 337 103 L 355 103 L 373 103 L 391 103 L 409 103 L 427 103 L 445 104 L 462 104 L 480 26 L 498 104 L 516 104 L 534 38 L 552 26 L 570 123 L 588 123 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 52 L 86 52 L 104 46 L 122 46 L 140 46 L 158 46 L 176 46 L 194 28 L 211 28 L 229 28 L 247 28 L 265 103 L 283 103 L 301 103 L 319 103 L 337 103 L 355 103 L 373 103 L 391 103 L 409 103 L 427 103 L 445 104 L 462 104 L 480 26 L 498 104 L 516 104 L 534 38 L 552 26 L 570 123 L 588 123" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="52" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="52" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="52" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="104" r="4" fill="#fdba74"></circle>
     <circle cx="462" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="104" r="4" fill="#fdba74"></circle>
     <circle cx="516" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="123" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="123" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="111" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,730원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -167,7 +169,7 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,730원 · 별점 4.6 · 리뷰 4,724개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,730원 · 별점 4.6 · 리뷰 4,726개</span>
     <a href="https://link.coupang.com/a/d8QKkq0UeW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -242,7 +244,7 @@ A. 물감이 마르지 않도록 사용 후에는 반드시 뚜껑을 완전히 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,730원 · 별점 4.6 · 리뷰 4,724개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,730원 · 별점 4.6 · 리뷰 4,726개</span>
     <a href="https://link.coupang.com/a/d8QKkq0UeW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
