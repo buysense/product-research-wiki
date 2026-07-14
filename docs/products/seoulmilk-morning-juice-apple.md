@@ -140,6 +140,8 @@ description: 서울우유 아침에주스 사과는 익숙하고 상큼한 맛�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -151,31 +153,30 @@ description: 서울우유 아침에주스 사과는 익숙하고 상큼한 맛�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,500</text>
 
-    <path d="M 68 66 L 86 38 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 38 L 265 38 L 283 93 L 301 93 L 319 93 L 337 93 L 355 93 L 373 93 L 391 93 L 409 93 L 427 93 L 445 93 L 462 93 L 480 93 L 498 93 L 516 93 L 534 120 L 552 120 L 570 120 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 66 L 86 38 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 38 L 265 38 L 283 93 L 301 93 L 319 93 L 337 93 L 355 93 L 373 93 L 391 93 L 409 93 L 427 93 L 445 93 L 462 93 L 480 93 L 498 93 L 516 93 L 534 120 L 552 120 L 570 120 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="38" r="4" fill="#fdba74"></circle>
+    <path d="M 68 38 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 38 L 247 38 L 265 93 L 283 93 L 301 93 L 319 93 L 337 93 L 355 93 L 373 93 L 391 93 L 409 93 L 427 93 L 445 93 L 462 93 L 480 93 L 498 93 L 516 120 L 534 120 L 552 120 L 570 120 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 38 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 38 L 247 38 L 265 93 L 283 93 L 301 93 L 319 93 L 337 93 L 355 93 L 373 93 L 391 93 L 409 93 L 427 93 L 445 93 L 462 93 L 480 93 L 498 93 L 516 120 L 534 120 L 552 120 L 570 120 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="247" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="120" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="120" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="108" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">20,880원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
