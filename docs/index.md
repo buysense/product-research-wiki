@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| [플리즈노팔로우] Amanda Shirring Long Sleeve Top (White) | [보기](products/amanda-shirring-long-sleeve-top-white.md) |
 | 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트 | [보기](products/prielle-summer-cooling-quilted-duvet-pillow-set.md) |
 | 자연지감 프리미엄 온명란 백명란 저염명란젓 소분포장 | [보기](products/jayeonjigam-premium-mentaiko-lowsalt-portion.md) |
 | 펩시 제로슈거 라임향 (210ml, 30개) | [보기](products/pepsi-zerosugar-lime-210ml-30ea.md) |
