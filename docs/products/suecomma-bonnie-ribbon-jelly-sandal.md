@@ -19,7 +19,7 @@ description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일
     "price": "190200",
     "url": "https://link.coupang.com/a/eADAv6Yvfg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-20"
+    "priceValidUntil": "2026-07-21"
   }
 }
 </script>
@@ -78,9 +78,11 @@ description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -89,24 +91,24 @@ description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">180,000</text>
 
-    <path d="M 68 26 L 87 26 L 105 26 L 124 26 L 142 26 L 161 26 L 179 26 L 198 26 L 217 26 L 235 26 L 254 26 L 272 26 L 291 26 L 309 139 L 328 139 L 347 139 L 365 139 L 384 139 L 402 139 L 421 139 L 439 139 L 458 139 L 477 139 L 495 139 L 514 139 L 532 139 L 551 139 L 569 139 L 588 139 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 87 26 L 105 26 L 124 26 L 142 26 L 161 26 L 179 26 L 198 26 L 217 26 L 235 26 L 254 26 L 272 26 L 291 26 L 309 139 L 328 139 L 347 139 L 365 139 L 384 139 L 402 139 L 421 139 L 439 139 L 458 139 L 477 139 L 495 139 L 514 139 L 532 139 L 551 139 L 569 139 L 588 139" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 139 L 319 139 L 337 139 L 355 139 L 373 139 L 391 139 L 409 139 L 427 139 L 445 139 L 462 139 L 480 139 L 498 139 L 516 139 L 534 139 L 552 139 L 570 139 L 588 139 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 139 L 319 139 L 337 139 L 355 139 L 373 139 L 391 139 L 409 139 L 427 139 L 445 139 L 462 139 L 480 139 L 498 139 L 516 139 L 534 139 L 552 139 L 570 139 L 588 139" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="309" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="139" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="139" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="127" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">190,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
