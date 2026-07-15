@@ -20,12 +20,12 @@ description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간
     "price": "236610",
     "url": "https://link.coupang.com/a/eTmwEK7NYG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-22"
+    "priceValidUntil": "2026-07-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1971,
+    "reviewCount": 1975,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -68,9 +68,11 @@ description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -79,32 +81,33 @@ description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">238,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">236,000</text>
 
-    <path d="M 68 64 L 95 64 L 123 64 L 150 64 L 177 26 L 205 64 L 232 64 L 260 64 L 287 64 L 314 26 L 342 64 L 369 64 L 396 64 L 424 64 L 451 26 L 479 26 L 506 26 L 533 26 L 561 64 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 64 L 95 64 L 123 64 L 150 64 L 177 26 L 205 64 L 232 64 L 260 64 L 287 64 L 314 26 L 342 64 L 369 64 L 396 64 L 424 64 L 451 26 L 479 26 L 506 26 L 533 26 L 561 64 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 64 L 94 64 L 120 64 L 146 64 L 172 26 L 198 64 L 224 64 L 250 64 L 276 64 L 302 26 L 328 64 L 354 64 L 380 64 L 406 64 L 432 26 L 458 26 L 484 26 L 510 26 L 536 64 L 562 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 64 L 94 64 L 120 64 L 146 64 L 172 26 L 198 64 L 224 64 L 250 64 L 276 64 L 302 26 L 328 64 L 354 64 L 380 64 L 406 64 L 432 26 L 458 26 L 484 26 L 510 26 L 536 64 L 562 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="150" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="177" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="205" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="287" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="314" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="342" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="424" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="451" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="533" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="561" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="146" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="302" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="406" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="432" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="510" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="536" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="562" cy="155" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="155" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="143" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">236,610원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -112,7 +115,7 @@ description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 236,610원 · 별점 4.8 · 리뷰 1,971개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 236,610원 · 별점 4.8 · 리뷰 1,975개</span>
     <a href="https://link.coupang.com/a/eTmwEK7NYG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -188,7 +191,7 @@ A. 제품에 탑재된 센서가 실시간으로 공기 질을 측정하고, 전
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 236,610원 · 별점 4.8 · 리뷰 1,971개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 236,610원 · 별점 4.8 · 리뷰 1,975개</span>
     <a href="https://link.coupang.com/a/eTmwEK7NYG" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
