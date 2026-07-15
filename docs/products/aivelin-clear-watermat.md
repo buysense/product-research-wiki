@@ -20,7 +20,7 @@ description: 아이블린 투명워터매트는 아기 성장 발달에 도움�
     "price": "13850",
     "url": "https://link.coupang.com/a/eOriwii8qW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-22"
+    "priceValidUntil": "2026-07-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -74,9 +74,11 @@ description: 아이블린 투명워터매트는 아기 성장 발달에 도움�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -85,24 +87,24 @@ description: 아이블린 투명워터매트는 아기 성장 발달에 도움�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 143 L 92 143 L 115 143 L 139 143 L 163 143 L 186 143 L 210 143 L 233 37 L 257 37 L 281 37 L 304 37 L 328 37 L 352 37 L 375 37 L 399 37 L 423 37 L 446 37 L 470 37 L 493 37 L 517 37 L 541 37 L 564 37 L 588 37 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 143 L 92 143 L 115 143 L 139 143 L 163 143 L 186 143 L 210 143 L 233 37 L 257 37 L 281 37 L 304 37 L 328 37 L 352 37 L 375 37 L 399 37 L 423 37 L 446 37 L 470 37 L 493 37 L 517 37 L 541 37 L 564 37 L 588 37" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 143 L 91 143 L 113 143 L 136 143 L 158 143 L 181 143 L 204 143 L 226 37 L 249 37 L 271 37 L 294 37 L 317 37 L 339 37 L 362 37 L 385 37 L 407 37 L 430 37 L 452 37 L 475 37 L 498 37 L 520 37 L 543 37 L 565 37 L 588 37 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 143 L 91 143 L 113 143 L 136 143 L 158 143 L 181 143 L 204 143 L 226 37 L 249 37 L 271 37 L 294 37 L 317 37 L 339 37 L 362 37 L 385 37 L 407 37 L 430 37 L 452 37 L 475 37 L 498 37 L 520 37 L 543 37 L 565 37 L 588 37" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="204" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="226" cy="37" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="37" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="25" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,850원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
