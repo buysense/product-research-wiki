@@ -17,10 +17,10 @@ description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "418300",
+    "price": "429400",
     "url": "https://link.coupang.com/a/eJRTrFQUqO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-22"
+    "priceValidUntil": "2026-07-23"
   }
 }
 </script>
@@ -73,33 +73,36 @@ description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">418,400</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">418,300</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">418,200</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">430,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">420,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">410,000</text>
 
-    <path d="M 68 102 L 90 102 L 111 102 L 133 102 L 155 102 L 176 102 L 198 102 L 220 102 L 241 102 L 263 102 L 285 102 L 306 102 L 328 102 L 350 102 L 371 102 L 393 102 L 415 102 L 436 102 L 458 102 L 480 102 L 501 102 L 523 102 L 545 102 L 566 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 90 102 L 111 102 L 133 102 L 155 102 L 176 102 L 198 102 L 220 102 L 241 102 L 263 102 L 285 102 L 306 102 L 328 102 L 350 102 L 371 102 L 393 102 L 415 102 L 436 102 L 458 102 L 480 102 L 501 102 L 523 102 L 545 102 L 566 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 115 L 89 115 L 110 115 L 130 115 L 151 115 L 172 115 L 193 115 L 214 115 L 234 115 L 255 115 L 276 115 L 297 115 L 318 115 L 338 115 L 359 115 L 380 115 L 401 115 L 422 115 L 442 115 L 463 115 L 484 115 L 505 115 L 526 115 L 546 115 L 567 115 L 588 31 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 115 L 89 115 L 110 115 L 130 115 L 151 115 L 172 115 L 193 115 L 214 115 L 234 115 L 255 115 L 276 115 L 297 115 L 318 115 L 338 115 L 359 115 L 380 115 L 401 115 L 422 115 L 442 115 L 463 115 L 484 115 L 505 115 L 526 115 L 546 115 L 567 115 L 588 31" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="567" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="31" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">418,300원</text>
+    <text x="588" y="19" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">429,400원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
