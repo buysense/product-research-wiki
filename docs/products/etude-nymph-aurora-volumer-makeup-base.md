@@ -20,12 +20,12 @@ description: 에뛰드 님프 광채 볼류머 메이크업 베이스는 피부�
     "price": "9970",
     "url": "https://link.coupang.com/a/efZHyznDpc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-22"
+    "priceValidUntil": "2026-07-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 9612,
+    "reviewCount": 9618,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 에뛰드 님프 광채 볼류머 메이크업 베이스는 피부�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-02 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -125,33 +127,32 @@ description: 에뛰드 님프 광채 볼류머 메이크업 베이스는 피부�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 61 L 158 61 L 176 61 L 194 61 L 211 61 L 229 61 L 247 61 L 265 61 L 283 61 L 301 61 L 319 61 L 337 51 L 355 51 L 373 51 L 391 51 L 409 51 L 427 51 L 445 51 L 462 56 L 480 51 L 498 51 L 516 51 L 534 51 L 552 90 L 570 103 L 588 103 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 61 L 158 61 L 176 61 L 194 61 L 211 61 L 229 61 L 247 61 L 265 61 L 283 61 L 301 61 L 319 61 L 337 51 L 355 51 L 373 51 L 391 51 L 409 51 L 427 51 L 445 51 L 462 56 L 480 51 L 498 51 L 516 51 L 534 51 L 552 90 L 570 103 L 588 103" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 61 L 140 61 L 158 61 L 176 61 L 194 61 L 211 61 L 229 61 L 247 61 L 265 61 L 283 61 L 301 61 L 319 51 L 337 51 L 355 51 L 373 51 L 391 51 L 409 51 L 427 51 L 445 56 L 462 51 L 480 51 L 498 51 L 516 51 L 534 90 L 552 103 L 570 103 L 588 103 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 61 L 140 61 L 158 61 L 176 61 L 194 61 L 211 61 L 229 61 L 247 61 L 265 61 L 283 61 L 301 61 L 319 51 L 337 51 L 355 51 L 373 51 L 391 51 L 409 51 L 427 51 L 445 56 L 462 51 L 480 51 L 498 51 L 516 51 L 534 90 L 552 103 L 570 103 L 588 103" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="103" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="103" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="91" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,970원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -159,7 +160,7 @@ description: 에뛰드 님프 광채 볼류머 메이크업 베이스는 피부�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,970원 · 별점 4.6 · 리뷰 9,612개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,970원 · 별점 4.6 · 리뷰 9,618개</span>
     <a href="https://link.coupang.com/a/efZHyznDpc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -231,7 +232,7 @@ A. 피부 속에서 차오르는 듯한 자연스러운 물광 표현, 메이크
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,970원 · 별점 4.6 · 리뷰 9,612개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,970원 · 별점 4.6 · 리뷰 9,618개</span>
     <a href="https://link.coupang.com/a/efZHyznDpc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
