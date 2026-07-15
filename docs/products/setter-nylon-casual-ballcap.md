@@ -17,10 +17,10 @@ description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "38640",
+    "price": "42310",
     "url": "https://link.coupang.com/a/e5tHXjzRO8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-21"
+    "priceValidUntil": "2026-07-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,9 +52,11 @@ description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -63,30 +65,31 @@ description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 49 L 115 49 L 163 49 L 210 37 L 257 41 L 304 36 L 352 36 L 399 36 L 446 39 L 493 71 L 541 108 L 588 112 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 49 L 115 49 L 163 49 L 210 37 L 257 41 L 304 36 L 352 36 L 399 36 L 446 39 L 493 71 L 541 108 L 588 112" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 49 L 111 49 L 155 49 L 198 37 L 241 41 L 285 36 L 328 36 L 371 36 L 415 39 L 458 71 L 501 108 L 545 112 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 49 L 111 49 L 155 49 L 198 37 L 241 41 L 285 36 L 328 36 L 371 36 L 415 39 L 458 71 L 501 108 L 545 112 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="39" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="112" r="5" fill="#ea580c"></circle>
+    <circle cx="155" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="285" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="371" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="39" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="545" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="84" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="100" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">38,640원</text>
+    <text x="588" y="72" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">42,310원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -94,7 +97,7 @@ description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 38,640원 · 별점 4.6 · 리뷰 5개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 42,310원 · 별점 4.6 · 리뷰 5개</span>
     <a href="https://link.coupang.com/a/e5tHXjzRO8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -161,7 +164,7 @@ A. 나일론 소재의 손상을 방지하기 위해 중성세제를 사용하�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 38,640원 · 별점 4.6 · 리뷰 5개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 42,310원 · 별점 4.6 · 리뷰 5개</span>
     <a href="https://link.coupang.com/a/e5tHXjzRO8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
