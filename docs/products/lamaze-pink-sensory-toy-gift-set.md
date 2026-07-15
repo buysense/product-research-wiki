@@ -20,7 +20,7 @@ description: 라마즈 핑크 촉감발달완구 선물세트는 신생아부터
     "price": "74900",
     "url": "https://link.coupang.com/a/epSYPjwyfQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-22"
+    "priceValidUntil": "2026-07-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -104,6 +104,8 @@ description: 라마즈 핑크 촉감발달완구 선물세트는 신생아부터
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -115,39 +117,38 @@ description: 라마즈 핑크 촉감발달완구 선물세트는 신생아부터
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 50 L 86 26 L 104 26 L 122 27 L 140 27 L 158 27 L 176 27 L 194 65 L 211 103 L 229 103 L 247 103 L 265 65 L 283 103 L 301 65 L 319 65 L 337 65 L 355 65 L 373 65 L 391 65 L 409 65 L 427 111 L 445 111 L 462 111 L 480 111 L 498 111 L 516 133 L 534 111 L 552 50 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 50 L 86 26 L 104 26 L 122 27 L 140 27 L 158 27 L 176 27 L 194 65 L 211 103 L 229 103 L 247 103 L 265 65 L 283 103 L 301 65 L 319 65 L 337 65 L 355 65 L 373 65 L 391 65 L 409 65 L 427 111 L 445 111 L 462 111 L 480 111 L 498 111 L 516 133 L 534 111 L 552 50 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="50" r="4" fill="#fdba74"></circle>
+    <path d="M 68 26 L 86 26 L 104 27 L 122 27 L 140 27 L 158 27 L 176 65 L 194 103 L 211 103 L 229 103 L 247 65 L 265 103 L 283 65 L 301 65 L 319 65 L 337 65 L 355 65 L 373 65 L 391 65 L 409 111 L 427 111 L 445 111 L 462 111 L 480 111 L 498 133 L 516 111 L 534 50 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 27 L 122 27 L 140 27 L 158 27 L 176 65 L 194 103 L 211 103 L 229 103 L 247 65 L 265 103 L 283 65 L 301 65 L 319 65 L 337 65 L 355 65 L 373 65 L 391 65 L 409 111 L 427 111 L 445 111 L 462 111 L 480 111 L 498 133 L 516 111 L 534 50 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="133" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="133" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">74,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
