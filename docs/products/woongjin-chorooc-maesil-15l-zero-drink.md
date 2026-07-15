@@ -16,15 +16,15 @@ description: 초록매실 1.5L는 칼로리 부담 없이 익숙한 매실 맛�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "20600",
+    "price": "18900",
     "url": "https://link.coupang.com/a/ex7okt",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-22"
+    "priceValidUntil": "2026-07-23"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 334,
+    "reviewCount": 337,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -173,6 +173,8 @@ description: 초록매실 1.5L는 칼로리 부담 없이 익숙한 매실 맛�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -180,22 +182,23 @@ description: 초록매실 1.5L는 칼로리 부담 없이 익숙한 매실 맛�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">20,500</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">19,500</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">19,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
 
-    <path d="M 68 148 L 86 148 L 104 148 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 148 L 319 148 L 337 148 L 355 148 L 373 148 L 391 148 L 409 148 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 148 L 86 148 L 104 148 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 148 L 319 148 L 337 148 L 355 148 L 373 148 L 391 148 L 409 148 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="148" r="4" fill="#fdba74"></circle>
+    <path d="M 68 49 L 86 49 L 104 49 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 49 L 319 49 L 337 49 L 355 49 L 373 49 L 391 49 L 409 49 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 49 L 86 49 L 104 49 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 49 L 319 49 L 337 49 L 355 49 L 373 49 L 391 49 L 409 49 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="49" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="49" r="4" fill="#fdba74"></circle>
     <circle cx="427" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">20,600원</text>
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
     <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
     <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
@@ -205,7 +208,7 @@ description: 초록매실 1.5L는 칼로리 부담 없이 익숙한 매실 맛�
     <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
     <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -213,7 +216,7 @@ description: 초록매실 1.5L는 칼로리 부담 없이 익숙한 매실 맛�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,600원 · 별점 4.7 · 리뷰 334개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,900원 · 별점 4.7 · 리뷰 337개</span>
     <a href="https://link.coupang.com/a/ex7okt" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -289,7 +292,7 @@ A. 네, 초록매실 제로는 칼로리와 당류가 0g이므로, 다이어트 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,600원 · 별점 4.7 · 리뷰 334개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,900원 · 별점 4.7 · 리뷰 337개</span>
     <a href="https://link.coupang.com/a/ex7okt" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
