@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 에즈이프 캘리 ASIF CALIE TWIST UNBALANCE LETTERING T-SHIRT PINK | [보기](products/asif-calie-twist-unbalance-lettering-tshirt-pink.md) |
 | YOUHEE 유희 [3COLORS] GRAPHIC WAFFLE HOOD ZIP-UP YHHZGA002 1446019 | [보기](products/youhee-graphic-waffle-hood-zipup-yhhzga002.md) |
 | [플리즈노팔로우] Amanda Shirring Long Sleeve Top (White) | [보기](products/amanda-shirring-long-sleeve-top-white.md) |
 | 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트 | [보기](products/prielle-summer-cooling-quilted-duvet-pillow-set.md) |
