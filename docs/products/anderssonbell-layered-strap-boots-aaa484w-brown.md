@@ -19,7 +19,7 @@ description: 앤더슨벨 레이어드 스트랩 부츠 aaa484w 브라운은 독
     "price": "479600",
     "url": "https://link.coupang.com/a/fqcS54FiVw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-23"
+    "priceValidUntil": "2026-07-24"
   }
 }
 </script>
