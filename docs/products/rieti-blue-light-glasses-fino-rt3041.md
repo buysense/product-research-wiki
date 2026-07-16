@@ -20,7 +20,7 @@ description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 �
     "price": "61100",
     "url": "https://link.coupang.com/a/fqcJ1ZGc0q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-23"
+    "priceValidUntil": "2026-07-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
