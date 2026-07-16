@@ -20,12 +20,12 @@ description: 오즈토이 튼튼한 푸드 쇼핑카트는 유아의 걸음마 �
     "price": "16780",
     "url": "https://link.coupang.com/a/e47yEOgAJo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-23"
+    "priceValidUntil": "2026-07-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 157,
+    "reviewCount": 158,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -56,9 +56,11 @@ description: 오즈토이 튼튼한 푸드 쇼핑카트는 유아의 걸음마 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -67,26 +69,26 @@ description: 오즈토이 튼튼한 푸드 쇼핑카트는 유아의 걸음마 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 43 L 108 43 L 148 43 L 188 43 L 228 43 L 268 43 L 308 43 L 348 43 L 388 124 L 428 124 L 468 43 L 508 43 L 548 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 43 L 108 43 L 148 43 L 188 43 L 228 43 L 268 43 L 308 43 L 348 43 L 388 124 L 428 124 L 468 43 L 508 43 L 548 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 43 L 105 43 L 142 43 L 179 43 L 217 43 L 254 43 L 291 43 L 328 43 L 365 124 L 402 124 L 439 43 L 477 43 L 514 43 L 551 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 43 L 105 43 L 142 43 L 179 43 L 217 43 L 254 43 L 291 43 L 328 43 L 365 124 L 402 124 L 439 43 L 477 43 L 514 43 L 551 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="468" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="43" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="43" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,780원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -94,7 +96,7 @@ description: 오즈토이 튼튼한 푸드 쇼핑카트는 유아의 걸음마 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,780원 · 별점 4.6 · 리뷰 157개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,780원 · 별점 4.6 · 리뷰 158개</span>
     <a href="https://link.coupang.com/a/e47yEOgAJo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -171,7 +173,7 @@ A. 일반적으로는 바퀴 움직임이 부드럽다는 평가가 많지만, �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,780원 · 별점 4.6 · 리뷰 157개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,780원 · 별점 4.6 · 리뷰 158개</span>
     <a href="https://link.coupang.com/a/e47yEOgAJo" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
