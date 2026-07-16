@@ -19,7 +19,7 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
     "price": "128800",
     "url": "https://link.coupang.com/a/e3OVmIp8DI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-23"
+    "priceValidUntil": "2026-07-24"
   }
 }
 </script>
@@ -50,9 +50,11 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,27 +63,27 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">125,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
 
-    <path d="M 68 104 L 105 104 L 142 44 L 179 26 L 217 26 L 254 44 L 291 44 L 328 44 L 365 44 L 402 44 L 439 44 L 477 44 L 514 44 L 551 44 L 588 44 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 104 L 105 104 L 142 44 L 179 26 L 217 26 L 254 44 L 291 44 L 328 44 L 365 44 L 402 44 L 439 44 L 477 44 L 514 44 L 551 44 L 588 44" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 104 L 103 104 L 137 44 L 172 26 L 207 26 L 241 44 L 276 44 L 311 44 L 345 44 L 380 44 L 415 44 L 449 44 L 484 44 L 519 44 L 553 44 L 588 44 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 104 L 103 104 L 137 44 L 172 26 L 207 26 L 241 44 L 276 44 L 311 44 L 345 44 L 380 44 L 415 44 L 449 44 L 484 44 L 519 44 L 553 44 L 588 44" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="105" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="179" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="254" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="103" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="137" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="207" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="44" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="44" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="32" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">128,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
