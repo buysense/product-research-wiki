@@ -20,7 +20,7 @@ description: 맥 미니 M4는 컴팩트한 디자인과 강력한 M4 칩 성능�
     "price": "1689000",
     "url": "https://link.coupang.com/a/eDtiIj",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-23"
+    "priceValidUntil": "2026-07-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -169,6 +169,8 @@ description: 맥 미니 M4는 컴팩트한 디자인과 강력한 M4 칩 성능�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -180,24 +182,24 @@ description: 맥 미니 M4는 컴팩트한 디자인과 강력한 M4 칩 성능�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,500,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,000,000</text>
 
-    <path d="M 68 149 L 86 149 L 104 149 L 122 149 L 140 149 L 158 149 L 176 149 L 194 149 L 211 149 L 229 149 L 247 73 L 265 73 L 283 73 L 301 73 L 319 73 L 337 73 L 355 73 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 73 L 498 73 L 516 73 L 534 73 L 552 73 L 570 73 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 149 L 86 149 L 104 149 L 122 149 L 140 149 L 158 149 L 176 149 L 194 149 L 211 149 L 229 149 L 247 73 L 265 73 L 283 73 L 301 73 L 319 73 L 337 73 L 355 73 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 73 L 498 73 L 516 73 L 534 73 L 552 73 L 570 73 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 149 L 86 149 L 104 149 L 122 149 L 140 149 L 158 149 L 176 149 L 194 149 L 211 149 L 229 73 L 247 73 L 265 73 L 283 73 L 301 73 L 319 73 L 337 73 L 355 73 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 73 L 498 73 L 516 73 L 534 73 L 552 73 L 570 73 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 149 L 86 149 L 104 149 L 122 149 L 140 149 L 158 149 L 176 149 L 194 149 L 211 149 L 229 73 L 247 73 L 265 73 L 283 73 L 301 73 L 319 73 L 337 73 L 355 73 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 73 L 498 73 L 516 73 L 534 73 L 552 73 L 570 73 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="149" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="73" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="61" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,689,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
