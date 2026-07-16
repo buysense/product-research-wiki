@@ -19,7 +19,7 @@ description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레�
     "price": "51800",
     "url": "https://link.coupang.com/a/e18gIlYsbA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-23"
+    "priceValidUntil": "2026-07-24"
   }
 }
 </script>
@@ -52,9 +52,11 @@ description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -63,25 +65,26 @@ description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 47 L 103 47 L 137 47 L 172 47 L 207 47 L 241 47 L 276 47 L 311 47 L 345 47 L 380 47 L 415 47 L 449 47 L 484 47 L 519 135 L 553 135 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 47 L 103 47 L 137 47 L 172 47 L 207 47 L 241 47 L 276 47 L 311 47 L 345 47 L 380 47 L 415 47 L 449 47 L 484 47 L 519 135 L 553 135 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 47 L 101 47 L 133 47 L 166 47 L 198 47 L 231 47 L 263 47 L 296 47 L 328 47 L 361 47 L 393 47 L 426 47 L 458 47 L 491 135 L 523 135 L 556 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 47 L 101 47 L 133 47 L 166 47 L 198 47 L 231 47 L 263 47 L 296 47 L 328 47 L 361 47 L 393 47 L 426 47 L 458 47 L 491 135 L 523 135 L 556 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="519" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="553" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="491" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="556" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">51,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
