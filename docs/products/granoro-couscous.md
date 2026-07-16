@@ -146,6 +146,8 @@ description: 이탈리아산 듀럼밀 세몰리나 100%로 만든 그라노로 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -153,37 +155,37 @@ description: 이탈리아산 듀럼밀 세몰리나 100%로 만든 그라노로 
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">6,300</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,200</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,100</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">6,500</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,500</text>
 
-    <path d="M 68 178 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 132 L 229 125 L 247 125 L 265 125 L 283 125 L 301 102 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 178 L 480 178 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 178 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 132 L 229 125 L 247 125 L 265 125 L 283 125 L 301 102 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 178 L 480 178 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 72 L 158 72 L 176 72 L 194 78 L 211 76 L 229 76 L 247 76 L 265 76 L 283 72 L 301 76 L 319 76 L 337 76 L 355 76 L 373 76 L 391 76 L 409 76 L 427 76 L 445 87 L 462 87 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 169 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 72 L 158 72 L 176 72 L 194 78 L 211 76 L 229 76 L 247 76 L 265 76 L 283 72 L 301 76 L 319 76 L 337 76 L 355 76 L 373 76 L 391 76 L 409 76 L 427 76 L 445 87 L 462 87 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 169" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="169" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="588" y="157" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,560원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
