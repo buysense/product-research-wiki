@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 리에티 블루라이트차단 안경 FINO RT 3041 | [보기](products/rieti-blue-light-glasses-fino-rt3041.md) |
 | [노매뉴얼] R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL | [보기](products/nomanual-rv-applique-raglan-tshirt-woman-charcoal.md) |
 | 에즈이프 캘리 ASIF CALIE TWIST UNBALANCE LETTERING T-SHIRT PINK | [보기](products/asif-calie-twist-unbalance-lettering-tshirt-pink.md) |
 | YOUHEE 유희 [3COLORS] GRAPHIC WAFFLE HOOD ZIP-UP YHHZGA002 1446019 | [보기](products/youhee-graphic-waffle-hood-zipup-yhhzga002.md) |
