@@ -20,12 +20,12 @@ description: 마이디어 냉장고 173L은 1인 가구, 원룸 또는 서브 �
     "price": "259000",
     "url": "https://link.coupang.com/a/e23f8W99FY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-23"
+    "priceValidUntil": "2026-07-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 1034,
+    "reviewCount": 1038,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -58,9 +58,11 @@ description: 마이디어 냉장고 173L은 1인 가구, 원룸 또는 서브 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -69,24 +71,25 @@ description: 마이디어 냉장고 173L은 1인 가구, 원룸 또는 서브 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">240,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">220,000</text>
 
-    <path d="M 68 153 L 105 153 L 142 153 L 179 153 L 217 153 L 254 153 L 291 153 L 328 153 L 365 153 L 402 153 L 439 153 L 477 153 L 514 153 L 551 81 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 153 L 105 153 L 142 153 L 179 153 L 217 153 L 254 153 L 291 153 L 328 153 L 365 153 L 402 153 L 439 153 L 477 153 L 514 153 L 551 81 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 153 L 103 153 L 137 153 L 172 153 L 207 153 L 241 153 L 276 153 L 311 153 L 345 153 L 380 153 L 415 153 L 449 153 L 484 153 L 519 81 L 553 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 153 L 103 153 L 137 153 L 172 153 L 207 153 L 241 153 L 276 153 L 311 153 L 345 153 L 380 153 L 415 153 L 449 153 L 484 153 L 519 81 L 553 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="551" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="153" r="4" fill="#fdba74"></circle>
+    <circle cx="519" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="553" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="30" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">259,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -94,7 +97,7 @@ description: 마이디어 냉장고 173L은 1인 가구, 원룸 또는 서브 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 259,000원 · 별점 4.5 · 리뷰 1,034개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 259,000원 · 별점 4.5 · 리뷰 1,038개</span>
     <a href="https://link.coupang.com/a/e23f8W99FY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -165,7 +168,7 @@ A. 제품은 저소음 설계를 적용했으나, 모든 냉장고는 작동 시
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 259,000원 · 별점 4.5 · 리뷰 1,034개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 259,000원 · 별점 4.5 · 리뷰 1,038개</span>
     <a href="https://link.coupang.com/a/e23f8W99FY" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
