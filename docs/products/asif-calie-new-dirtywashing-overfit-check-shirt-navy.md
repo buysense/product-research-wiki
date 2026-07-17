@@ -19,7 +19,7 @@ description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이
     "price": "139500",
     "url": "https://link.coupang.com/a/fsFjZqxFKK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-24"
+    "priceValidUntil": "2026-07-25"
   }
 }
 </script>
