@@ -17,15 +17,15 @@ description: 립아이스 매직컬러 립밤은 입술 온도에 반응하여 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "19230",
+    "price": "6900",
     "url": "https://link.coupang.com/a/eEPWJkgBmC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-24"
+    "priceValidUntil": "2026-07-25"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 7596,
+    "reviewCount": 7614,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 립아이스 매직컬러 립밤은 입술 온도에 반응하여 �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-17 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -101,35 +103,35 @@ description: 립아이스 매직컬러 립밤은 입술 온도에 반응하여 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 33 L 86 33 L 104 109 L 122 109 L 140 109 L 158 109 L 176 109 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 126 L 391 126 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 109 L 516 109 L 534 109 L 552 105 L 570 105 L 588 105 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 33 L 86 33 L 104 109 L 122 109 L 140 109 L 158 109 L 176 109 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 126 L 391 126 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 109 L 516 109 L 534 109 L 552 105 L 570 105 L 588 105" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 33 L 86 109 L 104 109 L 122 109 L 140 109 L 158 109 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 126 L 373 126 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 109 L 498 109 L 516 109 L 534 105 L 552 105 L 570 105 L 588 152 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 33 L 86 109 L 104 109 L 122 109 L 140 109 L 158 109 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 126 L 373 126 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 109 L 498 109 L 516 109 L 534 105 L 552 105 L 570 105 L 588 152" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="33" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="33" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="126" r="4" fill="#fdba74"></circle>
     <circle cx="373" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="105" r="5" fill="#ea580c"></circle>
+    <circle cx="391" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="152" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="93" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,230원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-17</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="588" y="140" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -137,7 +139,7 @@ description: 립아이스 매직컬러 립밤은 입술 온도에 반응하여 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,230원 · 별점 4.7 · 리뷰 7,596개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,900원 · 별점 4.7 · 리뷰 7,614개</span>
     <a href="https://link.coupang.com/a/eEPWJkgBmC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -213,7 +215,7 @@ A. 여러 사용자 리뷰에 따르면, 민감하고 예민한 입술에도 자
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,230원 · 별점 4.7 · 리뷰 7,596개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,900원 · 별점 4.7 · 리뷰 7,614개</span>
     <a href="https://link.coupang.com/a/eEPWJkgBmC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
