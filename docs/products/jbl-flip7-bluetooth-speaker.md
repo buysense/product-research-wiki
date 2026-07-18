@@ -20,12 +20,12 @@ description: JBL FLIP7 블루투스 스피커는 강력한 사운드와 휴대�
     "price": "135910",
     "url": "https://link.coupang.com/a/eQyU7wrbC8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-25"
+    "priceValidUntil": "2026-07-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 706,
+    "reviewCount": 707,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -78,9 +78,11 @@ description: JBL FLIP7 블루투스 스피커는 강력한 사운드와 휴대�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -89,35 +91,35 @@ description: JBL FLIP7 블루투스 스피커는 강력한 사운드와 휴대�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">135,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
 
-    <path d="M 68 28 L 90 28 L 111 28 L 133 28 L 155 28 L 176 28 L 198 28 L 220 40 L 241 161 L 263 28 L 285 28 L 306 28 L 328 88 L 350 88 L 371 164 L 393 28 L 415 88 L 436 88 L 458 88 L 480 88 L 501 88 L 523 88 L 545 124 L 566 88 L 588 88 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 90 28 L 111 28 L 133 28 L 155 28 L 176 28 L 198 28 L 220 40 L 241 161 L 263 28 L 285 28 L 306 28 L 328 88 L 350 88 L 371 164 L 393 28 L 415 88 L 436 88 L 458 88 L 480 88 L 501 88 L 523 88 L 545 124 L 566 88 L 588 88" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 28 L 89 28 L 110 28 L 130 28 L 151 28 L 172 28 L 193 28 L 214 40 L 234 161 L 255 28 L 276 28 L 297 28 L 318 88 L 338 88 L 359 164 L 380 28 L 401 88 L 422 88 L 442 88 L 463 88 L 484 88 L 505 88 L 526 124 L 546 88 L 567 88 L 588 88 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 28 L 89 28 L 110 28 L 130 28 L 151 28 L 172 28 L 193 28 L 214 40 L 234 161 L 255 28 L 276 28 L 297 28 L 318 88 L 338 88 L 359 164 L 380 28 L 401 88 L 422 88 L 442 88 L 463 88 L 484 88 L 505 88 L 526 124 L 546 88 L 567 88 L 588 88" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="220" cy="40" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="306" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="350" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="371" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="545" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="566" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="193" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="214" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="234" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="255" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="297" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="318" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="338" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="359" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="401" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="505" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="526" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="546" cy="88" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="88" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="76" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">135,910원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -125,7 +127,7 @@ description: JBL FLIP7 블루투스 스피커는 강력한 사운드와 휴대�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 135,910원 · 별점 4.8 · 리뷰 706개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 135,910원 · 별점 4.8 · 리뷰 707개</span>
     <a href="https://link.coupang.com/a/eQyU7wrbC8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -216,7 +218,7 @@ A. 완충 시 최대 12시간 동안 음악을 연속으로 재생할 수 있습
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 135,910원 · 별점 4.8 · 리뷰 706개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 135,910원 · 별점 4.8 · 리뷰 707개</span>
     <a href="https://link.coupang.com/a/eQyU7wrbC8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
