@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "[플리즈노팔로우] Heren Corset Short Sleeve Top (Ivory)": products/heren-corset-short-sleeve-top-ivory.md
     - 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트: products/highschool-disco-angel-lace-sleeveless-white.md
     - 에즈이프 캘리 ASIF CALIE NEW DIRTYWASHING OVERFIT CHECK SHIRT NAVY: products/asif-calie-new-dirtywashing-overfit-check-shirt-navy.md
     - 풀리 비건 그린 토마토 클레이 팩 클렌저: products/pully-vegan-green-tomato-clay-pack-cleanser.md
