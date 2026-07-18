@@ -20,7 +20,7 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
     "price": "55440",
     "url": "https://link.coupang.com/a/exWdfA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-25"
+    "priceValidUntil": "2026-07-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -180,6 +180,8 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -191,25 +193,25 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
 
-    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 99 L 176 99 L 194 99 L 211 99 L 229 99 L 247 99 L 265 99 L 283 84 L 301 171 L 319 171 L 337 171 L 355 171 L 373 171 L 391 171 L 409 171 L 427 171 L 445 171 L 462 171 L 480 171 L 498 171 L 516 171 L 534 171 L 552 171 L 570 171 L 588 171 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 99 L 176 99 L 194 99 L 211 99 L 229 99 L 247 99 L 265 99 L 283 84 L 301 171 L 319 171 L 337 171 L 355 171 L 373 171 L 391 171 L 409 171 L 427 171 L 445 171 L 462 171 L 480 171 L 498 171 L 516 171 L 534 171 L 552 171 L 570 171 L 588 171" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 99 L 176 99 L 194 99 L 211 99 L 229 99 L 247 99 L 265 84 L 283 171 L 301 171 L 319 171 L 337 171 L 355 171 L 373 171 L 391 171 L 409 171 L 427 171 L 445 171 L 462 171 L 480 171 L 498 171 L 516 171 L 534 171 L 552 171 L 570 171 L 588 171 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 99 L 176 99 L 194 99 L 211 99 L 229 99 L 247 99 L 265 84 L 283 171 L 301 171 L 319 171 L 337 171 L 355 171 L 373 171 L 391 171 L 409 171 L 427 171 L 445 171 L 462 171 L 480 171 L 498 171 L 516 171 L 534 171 L 552 171 L 570 171 L 588 171" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="171" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="171" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="159" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">55,440원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
