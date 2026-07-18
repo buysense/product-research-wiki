@@ -20,7 +20,7 @@ description: 광천 어머니김 파래김은 바삭하고 얇은 식감, 향긋
     "price": "13500",
     "url": "https://link.coupang.com/a/eTSFwmLhYW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-25"
+    "priceValidUntil": "2026-07-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -74,9 +74,11 @@ description: 광천 어머니김 파래김은 바삭하고 얇은 식감, 향긋
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -85,30 +87,30 @@ description: 광천 어머니김 파래김은 바삭하고 얇은 식감, 향긋
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 124 L 92 124 L 115 124 L 139 124 L 163 119 L 186 119 L 210 106 L 233 106 L 257 106 L 281 106 L 304 106 L 328 125 L 352 125 L 375 125 L 399 125 L 423 125 L 446 125 L 470 125 L 493 45 L 517 45 L 541 45 L 564 45 L 588 45 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 124 L 92 124 L 115 124 L 139 124 L 163 119 L 186 119 L 210 106 L 233 106 L 257 106 L 281 106 L 304 106 L 328 125 L 352 125 L 375 125 L 399 125 L 423 125 L 446 125 L 470 125 L 493 45 L 517 45 L 541 45 L 564 45 L 588 45" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 124 L 91 124 L 113 124 L 136 124 L 158 119 L 181 119 L 204 106 L 226 106 L 249 106 L 271 106 L 294 106 L 317 125 L 339 125 L 362 125 L 385 125 L 407 125 L 430 125 L 452 125 L 475 45 L 498 45 L 520 45 L 543 45 L 565 45 L 588 45 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 124 L 91 124 L 113 124 L 136 124 L 158 119 L 181 119 L 204 106 L 226 106 L 249 106 L 271 106 L 294 106 L 317 125 L 339 125 L 362 125 L 385 125 L 407 125 L 430 125 L 452 125 L 475 45 L 498 45 L 520 45 L 543 45 L 565 45 L 588 45" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="139" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="304" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="136" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="181" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="204" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="294" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="317" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="452" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="475" cy="45" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="45" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="33" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
