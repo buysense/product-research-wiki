@@ -20,7 +20,7 @@ description: 호미펫 움직이는 춤추는 오징어장난감은 SNS에서 �
     "price": "12000",
     "url": "https://link.coupang.com/a/euVq1G",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-25"
+    "priceValidUntil": "2026-07-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -183,6 +183,8 @@ description: 호미펫 움직이는 춤추는 오징어장난감은 SNS에서 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -194,24 +196,24 @@ description: 호미펫 움직이는 춤추는 오징어장난감은 SNS에서 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 83 L 158 83 L 176 83 L 194 83 L 211 83 L 229 83 L 247 178 L 265 178 L 283 178 L 301 178 L 319 178 L 337 178 L 355 178 L 373 178 L 391 178 L 409 178 L 427 178 L 445 178 L 462 178 L 480 178 L 498 178 L 516 178 L 534 178 L 552 178 L 570 178 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 83 L 158 83 L 176 83 L 194 83 L 211 83 L 229 83 L 247 178 L 265 178 L 283 178 L 301 178 L 319 178 L 337 178 L 355 178 L 373 178 L 391 178 L 409 178 L 427 178 L 445 178 L 462 178 L 480 178 L 498 178 L 516 178 L 534 178 L 552 178 L 570 178 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 83 L 158 83 L 176 83 L 194 83 L 211 83 L 229 178 L 247 178 L 265 178 L 283 178 L 301 178 L 319 178 L 337 178 L 355 178 L 373 178 L 391 178 L 409 178 L 427 178 L 445 178 L 462 178 L 480 178 L 498 178 L 516 178 L 534 178 L 552 178 L 570 178 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 83 L 158 83 L 176 83 L 194 83 L 211 83 L 229 178 L 247 178 L 265 178 L 283 178 L 301 178 L 319 178 L 337 178 L 355 178 L 373 178 L 391 178 L 409 178 L 427 178 L 445 178 L 462 178 L 480 178 L 498 178 L 516 178 L 534 178 L 552 178 L 570 178 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="178" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="178" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
