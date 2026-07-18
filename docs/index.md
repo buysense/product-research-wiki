@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트 | [보기](products/highschool-disco-angel-lace-sleeveless-white.md) |
 | 에즈이프 캘리 ASIF CALIE NEW DIRTYWASHING OVERFIT CHECK SHIRT NAVY | [보기](products/asif-calie-new-dirtywashing-overfit-check-shirt-navy.md) |
 | 풀리 비건 그린 토마토 클레이 팩 클렌저 | [보기](products/pully-vegan-green-tomato-clay-pack-cleanser.md) |
 | 앤더슨벨 ADSB ANDERSSON BELL LAYERED STRAP BOOTS aaa484w BROWN | [보기](products/anderssonbell-layered-strap-boots-aaa484w-brown.md) |
