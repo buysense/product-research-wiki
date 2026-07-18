@@ -20,12 +20,12 @@ description: 레고 듀플로 브릭 박스 10913은 18개월 이상 영유아�
     "price": "35900",
     "url": "https://link.coupang.com/a/e5b3lVHjmS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-25"
+    "priceValidUntil": "2026-07-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 649,
+    "reviewCount": 651,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -60,9 +60,11 @@ description: 레고 듀플로 브릭 박스 10913은 18개월 이상 영유아�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -71,31 +73,31 @@ description: 레고 듀플로 브릭 박스 10913은 18개월 이상 영유아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">34,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">32,000</text>
 
-    <path d="M 68 30 L 103 139 L 137 139 L 172 139 L 207 30 L 241 139 L 276 45 L 311 30 L 345 139 L 380 139 L 415 139 L 449 30 L 484 30 L 519 30 L 553 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 30 L 103 139 L 137 139 L 172 139 L 207 30 L 241 139 L 276 45 L 311 30 L 345 139 L 380 139 L 415 139 L 449 30 L 484 30 L 519 30 L 553 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 30 L 101 139 L 133 139 L 166 139 L 198 30 L 231 139 L 263 45 L 296 30 L 328 139 L 361 139 L 393 139 L 426 30 L 458 30 L 491 30 L 523 30 L 556 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 30 L 101 139 L 133 139 L 166 139 L 198 30 L 231 139 L 263 45 L 296 30 L 328 139 L 361 139 L 393 139 L 426 30 L 458 30 L 491 30 L 523 30 L 556 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="103" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="207" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="311" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="345" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="449" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="101" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="166" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="231" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="296" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="426" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="30" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">35,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -103,7 +105,7 @@ description: 레고 듀플로 브릭 박스 10913은 18개월 이상 영유아�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 35,900원 · 별점 4.9 · 리뷰 649개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 35,900원 · 별점 4.9 · 리뷰 651개</span>
     <a href="https://link.coupang.com/a/e5b3lVHjmS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -179,7 +181,7 @@ A. 네, 레고 듀플로 브릭 박스 10913의 모든 브릭은 다른 레고 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 35,900원 · 별점 4.9 · 리뷰 649개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 35,900원 · 별점 4.9 · 리뷰 651개</span>
     <a href="https://link.coupang.com/a/e5b3lVHjmS" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
