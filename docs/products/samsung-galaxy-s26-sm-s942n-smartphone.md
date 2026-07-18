@@ -20,12 +20,12 @@ description: 삼성전자 갤럭시 S26 (SM-S942N)은 최신 기술과 강력한
     "price": "1371370",
     "url": "https://link.coupang.com/a/eM8HVuRqb6",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-24"
+    "priceValidUntil": "2026-07-25"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 7584,
+    "reviewCount": 7603,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -80,9 +80,11 @@ description: 삼성전자 갤럭시 S26 (SM-S942N)은 최신 기술과 강력한
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -91,28 +93,28 @@ description: 삼성전자 갤럭시 S26 (SM-S942N)은 최신 기술과 강력한
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,400,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,350,000</text>
 
-    <path d="M 68 146 L 89 146 L 110 146 L 130 146 L 151 146 L 172 146 L 193 146 L 214 146 L 234 146 L 255 146 L 276 146 L 297 146 L 318 146 L 338 146 L 359 146 L 380 77 L 401 84 L 422 77 L 442 77 L 463 146 L 484 146 L 505 146 L 526 146 L 546 146 L 567 146 L 588 146 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 146 L 89 146 L 110 146 L 130 146 L 151 146 L 172 146 L 193 146 L 214 146 L 234 146 L 255 146 L 276 146 L 297 146 L 318 146 L 338 146 L 359 146 L 380 77 L 401 84 L 422 77 L 442 77 L 463 146 L 484 146 L 505 146 L 526 146 L 546 146 L 567 146 L 588 146" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 146 L 88 146 L 108 146 L 128 146 L 148 146 L 168 146 L 188 146 L 208 146 L 228 146 L 248 146 L 268 146 L 288 146 L 308 146 L 328 146 L 348 146 L 368 77 L 388 84 L 408 77 L 428 77 L 448 146 L 468 146 L 488 146 L 508 146 L 528 146 L 548 146 L 568 146 L 588 146 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 146 L 88 146 L 108 146 L 128 146 L 148 146 L 168 146 L 188 146 L 208 146 L 228 146 L 248 146 L 268 146 L 288 146 L 308 146 L 328 146 L 348 146 L 368 77 L 388 84 L 408 77 L 428 77 L 448 146 L 468 146 L 488 146 L 508 146 L 528 146 L 548 146 L 568 146 L 588 146" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="359" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="422" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="442" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="463" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="368" cy="77" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="408" cy="77" r="4" fill="#fdba74"></circle>
+    <circle cx="428" cy="77" r="4" fill="#fdba74"></circle>
+    <circle cx="448" cy="146" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="146" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="134" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,371,370원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -120,7 +122,7 @@ description: 삼성전자 갤럭시 S26 (SM-S942N)은 최신 기술과 강력한
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,371,370원 · 별점 4.9 · 리뷰 7,584개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,371,370원 · 별점 4.9 · 리뷰 7,603개</span>
     <a href="https://link.coupang.com/a/eM8HVuRqb6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -198,7 +200,7 @@ A. 갤럭시 S26은 대용량 배터리를 탑재하여 하루 종일 사용하�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,371,370원 · 별점 4.9 · 리뷰 7,584개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,371,370원 · 별점 4.9 · 리뷰 7,603개</span>
     <a href="https://link.coupang.com/a/eM8HVuRqb6" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
