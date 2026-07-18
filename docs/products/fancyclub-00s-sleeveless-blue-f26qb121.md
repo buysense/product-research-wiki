@@ -19,7 +19,7 @@ description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레�
     "price": "35600",
     "url": "https://link.coupang.com/a/e18gIlYsbA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-25"
+    "priceValidUntil": "2026-07-26"
   }
 }
 </script>
@@ -56,9 +56,11 @@ description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -67,27 +69,28 @@ description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 47 L 99 47 L 129 47 L 160 47 L 190 47 L 221 47 L 252 47 L 282 47 L 313 47 L 343 47 L 374 47 L 404 47 L 435 47 L 466 135 L 496 135 L 527 26 L 557 26 L 588 135 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 47 L 99 47 L 129 47 L 160 47 L 190 47 L 221 47 L 252 47 L 282 47 L 313 47 L 343 47 L 374 47 L 404 47 L 435 47 L 466 135 L 496 135 L 527 26 L 557 26 L 588 135" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 47 L 97 47 L 126 47 L 155 47 L 184 47 L 212 47 L 241 47 L 270 47 L 299 47 L 328 47 L 357 47 L 386 47 L 415 47 L 444 135 L 472 135 L 501 26 L 530 26 L 559 135 L 588 135 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 47 L 97 47 L 126 47 L 155 47 L 184 47 L 212 47 L 241 47 L 270 47 L 299 47 L 328 47 L 357 47 L 386 47 L 415 47 L 444 135 L 472 135 L 501 26 L 530 26 L 559 135 L 588 135" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="435" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="466" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="496" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="527" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="557" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="444" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="559" cy="135" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="135" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="123" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">35,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
