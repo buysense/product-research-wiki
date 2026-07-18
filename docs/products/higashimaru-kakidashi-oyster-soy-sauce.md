@@ -17,10 +17,10 @@ description: 히가시마루 카키다시 (일본 굴 간장)는 깊은 굴 감�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "21840",
+    "price": "20510",
     "url": "https://link.coupang.com/a/epCcW5",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-25"
+    "priceValidUntil": "2026-07-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -183,6 +183,8 @@ description: 히가시마루 카키다시 (일본 굴 간장)는 깊은 굴 감�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -190,26 +192,27 @@ description: 히가시마루 카키다시 (일본 굴 간장)는 깊은 굴 감�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">21,900</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,800</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,700</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 72 L 158 72 L 176 72 L 194 72 L 211 72 L 229 72 L 247 72 L 265 72 L 283 72 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 72 L 158 72 L 176 72 L 194 72 L 211 72 L 229 72 L 247 72 L 265 72 L 283 72 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
+    <path d="M 68 38 L 86 38 L 104 38 L 122 38 L 140 38 L 158 38 L 176 38 L 194 38 L 211 38 L 229 38 L 247 38 L 265 38 L 283 38 L 301 38 L 319 38 L 337 38 L 355 38 L 373 38 L 391 38 L 409 38 L 427 38 L 445 38 L 462 38 L 480 38 L 498 38 L 516 38 L 534 38 L 552 38 L 570 38 L 588 139 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 38 L 86 38 L 104 38 L 122 38 L 140 38 L 158 38 L 176 38 L 194 38 L 211 38 L 229 38 L 247 38 L 265 38 L 283 38 L 301 38 L 319 38 L 337 38 L 355 38 L 373 38 L 391 38 L 409 38 L 427 38 L 445 38 L 462 38 L 480 38 L 498 38 L 516 38 L 534 38 L 552 38 L 570 38 L 588 139" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="139" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,840원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-18</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="588" y="127" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">20,510원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -217,7 +220,7 @@ description: 히가시마루 카키다시 (일본 굴 간장)는 깊은 굴 감�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,840원 · 별점 4.8 · 리뷰 6개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,510원 · 별점 4.8 · 리뷰 6개</span>
     <a href="https://link.coupang.com/a/epCcW5" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -292,7 +295,7 @@ A. 개봉 전에는 상온 보관이 가능하지만, 개봉 후에는 제품의
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,840원 · 별점 4.8 · 리뷰 6개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,510원 · 별점 4.8 · 리뷰 6개</span>
     <a href="https://link.coupang.com/a/epCcW5" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
