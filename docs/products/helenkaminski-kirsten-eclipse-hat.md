@@ -20,7 +20,7 @@ description: 햇빛이 강한 야외 활동이나 휴가지에서 스타일과 �
     "price": "196000",
     "url": "https://link.coupang.com/a/fv399IJ3ee",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-26"
+    "priceValidUntil": "2026-07-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
