@@ -152,6 +152,8 @@ description: 포카칩 오리지널은 1988년 출시된 국민 감자칩으로,
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -163,37 +165,37 @@ description: 포카칩 오리지널은 1988년 출시된 국민 감자칩으로,
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,500</text>
 
-    <path d="M 68 35 L 86 35 L 104 35 L 122 35 L 140 35 L 158 35 L 176 35 L 194 35 L 211 35 L 229 35 L 247 35 L 265 135 L 283 35 L 301 35 L 319 59 L 337 59 L 355 119 L 373 59 L 391 59 L 409 59 L 427 59 L 445 59 L 462 35 L 480 35 L 498 59 L 516 59 L 534 135 L 552 59 L 570 59 L 588 59 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 35 L 86 35 L 104 35 L 122 35 L 140 35 L 158 35 L 176 35 L 194 35 L 211 35 L 229 35 L 247 35 L 265 135 L 283 35 L 301 35 L 319 59 L 337 59 L 355 119 L 373 59 L 391 59 L 409 59 L 427 59 L 445 59 L 462 35 L 480 35 L 498 59 L 516 59 L 534 135 L 552 59 L 570 59 L 588 59" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 35 L 86 35 L 104 35 L 122 35 L 140 35 L 158 35 L 176 35 L 194 35 L 211 35 L 229 35 L 247 135 L 265 35 L 283 35 L 301 59 L 319 59 L 337 119 L 355 59 L 373 59 L 391 59 L 409 59 L 427 59 L 445 35 L 462 35 L 480 59 L 498 59 L 516 135 L 534 59 L 552 59 L 570 59 L 588 59 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 35 L 86 35 L 104 35 L 122 35 L 140 35 L 158 35 L 176 35 L 194 35 L 211 35 L 229 35 L 247 135 L 265 35 L 283 35 L 301 59 L 319 59 L 337 119 L 355 59 L 373 59 L 391 59 L 409 59 L 427 59 L 445 35 L 462 35 L 480 59 L 498 59 L 516 135 L 534 59 L 552 59 L 570 59 L 588 59" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="35" r="4" fill="#fdba74"></circle>
     <circle cx="283" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="59" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="35" r="4" fill="#fdba74"></circle>
     <circle cx="462" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="59" r="4" fill="#fdba74"></circle>
     <circle cx="498" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="59" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="59" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="47" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,280원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
