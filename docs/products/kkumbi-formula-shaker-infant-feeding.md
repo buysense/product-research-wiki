@@ -17,10 +17,10 @@ description: 꿈비 분유 쉐이커는 신생아 부모의 밤중 수유 편의
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "40900",
+    "price": "37900",
     "url": "https://link.coupang.com/a/dTW3GIXbtk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-26"
+    "priceValidUntil": "2026-07-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -147,6 +147,8 @@ description: 꿈비 분유 쉐이커는 신생아 부모의 밤중 수유 편의
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -154,45 +156,45 @@ description: 꿈비 분유 쉐이커는 신생아 부모의 밤중 수유 편의
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 57 L 86 95 L 104 95 L 122 118 L 140 141 L 158 118 L 176 155 L 194 164 L 211 164 L 229 149 L 247 149 L 265 126 L 283 161 L 301 161 L 319 118 L 337 149 L 355 95 L 373 118 L 391 118 L 409 118 L 427 118 L 445 118 L 462 118 L 480 95 L 498 95 L 516 95 L 534 95 L 552 95 L 570 95 L 588 95 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 57 L 86 95 L 104 95 L 122 118 L 140 141 L 158 118 L 176 155 L 194 164 L 211 164 L 229 149 L 247 149 L 265 126 L 283 161 L 301 161 L 319 118 L 337 149 L 355 95 L 373 118 L 391 118 L 409 118 L 427 118 L 445 118 L 462 118 L 480 95 L 498 95 L 516 95 L 534 95 L 552 95 L 570 95 L 588 95" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="95" r="5" fill="#ea580c"></circle>
+    <path d="M 68 26 L 86 26 L 104 58 L 122 105 L 140 58 L 158 133 L 176 150 L 194 150 L 211 120 L 229 120 L 247 74 L 265 144 L 283 144 L 301 58 L 319 120 L 337 26 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 58 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 58 L 122 105 L 140 58 L 158 133 L 176 150 L 194 150 L 211 120 L 229 120 L 247 74 L 265 144 L 283 144 L 301 58 L 319 120 L 337 26 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 58" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="133" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="150" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="150" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="58" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="83" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">40,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="588" y="46" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">37,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -200,7 +202,7 @@ description: 꿈비 분유 쉐이커는 신생아 부모의 밤중 수유 편의
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 40,900원 · 별점 4.7 · 리뷰 1,094개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 37,900원 · 별점 4.7 · 리뷰 1,094개</span>
     <a href="https://link.coupang.com/a/dTW3GIXbtk" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -280,7 +282,7 @@ A. 대부분의 표준형 젖병과 호환되지만, 리뷰에 따르면 유미 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 40,900원 · 별점 4.7 · 리뷰 1,094개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 37,900원 · 별점 4.7 · 리뷰 1,094개</span>
     <a href="https://link.coupang.com/a/dTW3GIXbtk" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
