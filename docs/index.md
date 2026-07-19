@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 헬렌카민스키 여성모자 커스틴 이클립스 | [보기](products/helenkaminski-kirsten-eclipse-hat.md) |
 | 농협 임금님표 이천쌀 특등급 | [보기](products/nonghyup-icheonrice-special-grade.md) |
 | [플리즈노팔로우] Heren Corset Short Sleeve Top (Ivory) | [보기](products/heren-corset-short-sleeve-top-ivory.md) |
 | 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트 | [보기](products/highschool-disco-angel-lace-sleeveless-white.md) |

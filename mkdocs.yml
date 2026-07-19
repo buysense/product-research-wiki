@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 헬렌카민스키 여성모자 커스틴 이클립스: products/helenkaminski-kirsten-eclipse-hat.md
     - 농협 임금님표 이천쌀 특등급: products/nonghyup-icheonrice-special-grade.md
     - "[플리즈노팔로우] Heren Corset Short Sleeve Top (Ivory)": products/heren-corset-short-sleeve-top-ivory.md
     - 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트: products/highschool-disco-angel-lace-sleeveless-white.md
