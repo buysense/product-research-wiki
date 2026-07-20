@@ -17,15 +17,15 @@ description: JBL FLIP7 블루투스 스피커는 강력한 사운드와 휴대�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "129110",
+    "price": "135910",
     "url": "https://link.coupang.com/a/eQyU7wrbC8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-27"
+    "priceValidUntil": "2026-07-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 710,
+    "reviewCount": 713,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -82,9 +82,11 @@ description: JBL FLIP7 블루투스 스피커는 강력한 사운드와 휴대�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -93,36 +95,37 @@ description: JBL FLIP7 블루투스 스피커는 강력한 사운드와 휴대�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
 
-    <path d="M 68 27 L 88 27 L 108 27 L 128 27 L 148 27 L 168 27 L 188 27 L 208 33 L 228 94 L 248 27 L 268 27 L 288 27 L 308 57 L 328 57 L 348 95 L 368 27 L 388 57 L 408 57 L 428 57 L 448 57 L 468 57 L 488 57 L 508 75 L 528 57 L 548 57 L 568 57 L 588 109 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 27 L 88 27 L 108 27 L 128 27 L 148 27 L 168 27 L 188 27 L 208 33 L 228 94 L 248 27 L 268 27 L 288 27 L 308 57 L 328 57 L 348 95 L 368 27 L 388 57 L 408 57 L 428 57 L 448 57 L 468 57 L 488 57 L 508 75 L 528 57 L 548 57 L 568 57 L 588 109" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 27 L 87 27 L 107 27 L 126 27 L 145 27 L 164 27 L 184 27 L 203 33 L 222 94 L 241 27 L 261 27 L 280 27 L 299 57 L 318 57 L 338 95 L 357 27 L 376 57 L 395 57 L 415 57 L 434 57 L 453 57 L 472 57 L 492 75 L 511 57 L 530 57 L 549 57 L 569 109 L 588 57 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 27 L 87 27 L 107 27 L 126 27 L 145 27 L 164 27 L 184 27 L 203 33 L 222 94 L 241 27 L 261 27 L 280 27 L 299 57 L 318 57 L 338 95 L 357 27 L 376 57 L 395 57 L 415 57 L 434 57 L 453 57 L 472 57 L 492 75 L 511 57 L 530 57 L 549 57 L 569 109 L 588 57" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="208" cy="33" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="248" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="288" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="348" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="368" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="488" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="508" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="528" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="568" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="109" r="5" fill="#ea580c"></circle>
+    <circle cx="184" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="203" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="222" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="280" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="318" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="338" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="376" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="492" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="511" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="549" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="57" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="97" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">129,110원</text>
+    <text x="588" y="45" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">135,910원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -130,7 +133,7 @@ description: JBL FLIP7 블루투스 스피커는 강력한 사운드와 휴대�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 129,110원 · 별점 4.8 · 리뷰 710개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 135,910원 · 별점 4.8 · 리뷰 713개</span>
     <a href="https://link.coupang.com/a/eQyU7wrbC8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -221,7 +224,7 @@ A. 완충 시 최대 12시간 동안 음악을 연속으로 재생할 수 있습
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 129,110원 · 별점 4.8 · 리뷰 710개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 135,910원 · 별점 4.8 · 리뷰 713개</span>
     <a href="https://link.coupang.com/a/eQyU7wrbC8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
