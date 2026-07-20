@@ -16,10 +16,10 @@ description: [이지노이지] 크롭 퍼 후드 집업 아이보리는 따뜻�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "95900",
+    "price": "77100",
     "url": "https://link.coupang.com/a/fkrONQmn5E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-27"
+    "priceValidUntil": "2026-07-28"
   }
 }
 </script>
@@ -38,38 +38,42 @@ description: [이지노이지] 크롭 퍼 후드 집업 아이보리는 따뜻�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">95,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">85,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">70,000</text>
 
-    <path d="M 68 128 L 133 128 L 198 26 L 263 26 L 328 26 L 393 99 L 458 99 L 523 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 128 L 133 128 L 198 26 L 263 26 L 328 26 L 393 99 L 458 99 L 523 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="128" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="128" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <path d="M 68 39 L 126 39 L 184 26 L 241 26 L 299 26 L 357 26 L 415 26 L 472 26 L 530 26 L 588 124 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 39 L 126 39 L 184 26 L 241 26 L 299 26 L 357 26 L 415 26 L 472 26 L 530 26 L 588 124" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="39" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="39" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="357" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="124" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">95,900원</text>
+    <text x="588" y="112" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">77,100원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
