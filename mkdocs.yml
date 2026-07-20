@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 더콜디스트모먼트 TCM starfish patchwork backpack: products/thecoldestmoment-tcm-starfish-patchwork-backpack.md
     - 에즈이프 캘리 ASIF CALIE FLOWER APPLIQUE BOOTCUT PANTS CHARCOAL: products/asif-calie-flower-applique-bootcut-pants-charcoal.md
     - 헬렌카민스키 여성모자 커스틴 이클립스: products/helenkaminski-kirsten-eclipse-hat.md
     - 농협 임금님표 이천쌀 특등급: products/nonghyup-icheonrice-special-grade.md
