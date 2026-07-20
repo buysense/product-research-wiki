@@ -17,15 +17,15 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "45000",
+    "price": "38250",
     "url": "https://link.coupang.com/a/e5cvl2EOTQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-26"
+    "priceValidUntil": "2026-07-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 116,
+    "reviewCount": 117,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -62,41 +62,44 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">46,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">44,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">42,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 150 L 101 150 L 133 64 L 166 150 L 198 150 L 231 150 L 263 150 L 296 150 L 328 150 L 361 64 L 393 150 L 426 150 L 458 150 L 491 150 L 523 64 L 556 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 150 L 101 150 L 133 64 L 166 150 L 198 150 L 231 150 L 263 150 L 296 150 L 328 150 L 361 64 L 393 150 L 426 150 L 458 150 L 491 150 L 523 64 L 556 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="150" r="4" fill="#fdba74"></circle>
-    <circle cx="101" cy="150" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="166" cy="150" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="150" r="4" fill="#fdba74"></circle>
-    <circle cx="361" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="150" r="4" fill="#fdba74"></circle>
-    <circle cx="491" cy="150" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
+    <path d="M 68 60 L 99 60 L 129 26 L 160 60 L 190 60 L 221 60 L 252 60 L 282 60 L 313 60 L 343 26 L 374 60 L 404 60 L 435 60 L 466 60 L 496 26 L 527 26 L 557 26 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 60 L 99 60 L 129 26 L 160 60 L 190 60 L 221 60 L 252 60 L 282 60 L 313 60 L 343 26 L 374 60 L 404 60 L 435 60 L 466 60 L 496 26 L 527 26 L 557 26 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="99" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="129" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="160" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="313" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="343" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="374" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="466" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="496" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="557" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="129" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">45,000원</text>
+    <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">38,250원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -104,7 +107,7 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 45,000원 · 별점 4.8 · 리뷰 116개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 38,250원 · 별점 4.8 · 리뷰 117개</span>
     <a href="https://link.coupang.com/a/e5cvl2EOTQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -175,7 +178,7 @@ A. 메쉬 소재의 가장 큰 장점은 뛰어난 통기성으로 발에 땀이
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 45,000원 · 별점 4.8 · 리뷰 116개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 38,250원 · 별점 4.8 · 리뷰 117개</span>
     <a href="https://link.coupang.com/a/e5cvl2EOTQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
