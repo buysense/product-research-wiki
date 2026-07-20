@@ -20,12 +20,12 @@ description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤
     "price": "6080",
     "url": "https://link.coupang.com/a/eR8E562Kzs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-27"
+    "priceValidUntil": "2026-07-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 143,
+    "reviewCount": 145,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -80,9 +80,11 @@ description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -91,31 +93,32 @@ description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 26 L 89 26 L 110 26 L 130 26 L 151 26 L 172 26 L 193 26 L 214 26 L 234 26 L 255 26 L 276 26 L 297 26 L 318 26 L 338 26 L 359 45 L 380 45 L 401 26 L 422 26 L 442 26 L 463 26 L 484 26 L 505 119 L 526 119 L 546 119 L 567 119 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 89 26 L 110 26 L 130 26 L 151 26 L 172 26 L 193 26 L 214 26 L 234 26 L 255 26 L 276 26 L 297 26 L 318 26 L 338 26 L 359 45 L 380 45 L 401 26 L 422 26 L 442 26 L 463 26 L 484 26 L 505 119 L 526 119 L 546 119 L 567 119 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 88 26 L 108 26 L 128 26 L 148 26 L 168 26 L 188 26 L 208 26 L 228 26 L 248 26 L 268 26 L 288 26 L 308 26 L 328 26 L 348 45 L 368 45 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 119 L 508 119 L 528 119 L 548 119 L 568 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 88 26 L 108 26 L 128 26 L 148 26 L 168 26 L 188 26 L 208 26 L 228 26 L 248 26 L 268 26 L 288 26 L 308 26 L 328 26 L 348 45 L 368 45 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 119 L 508 119 L 528 119 L 548 119 L 568 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="359" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="505" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="567" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="88" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="368" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="488" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="568" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,080원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -123,7 +126,7 @@ description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,080원 · 별점 4.7 · 리뷰 143개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,080원 · 별점 4.7 · 리뷰 145개</span>
     <a href="https://link.coupang.com/a/eR8E562Kzs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -190,7 +193,7 @@ A. 한 봉지당 39g으로, 간식으로 가볍게 즐기기 좋은 양입니다
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,080원 · 별점 4.7 · 리뷰 143개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,080원 · 별점 4.7 · 리뷰 145개</span>
     <a href="https://link.coupang.com/a/eR8E562Kzs" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
