@@ -20,7 +20,7 @@ description: 르메이어 3 in 1 유모차 스마트폰 컵홀더는 유모차 �
     "price": "18900",
     "url": "https://link.coupang.com/a/dVOYkvQexE",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-27"
+    "priceValidUntil": "2026-07-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -147,6 +147,8 @@ description: 르메이어 3 in 1 유모차 스마트폰 컵홀더는 유모차 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -158,24 +160,24 @@ description: 르메이어 3 in 1 유모차 스마트폰 컵홀더는 유모차 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
 
-    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 113 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 41 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 113 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 41 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 41 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 41 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="41" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
