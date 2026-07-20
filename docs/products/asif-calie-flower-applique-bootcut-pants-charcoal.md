@@ -19,7 +19,7 @@ description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜�
     "price": "114900",
     "url": "https://link.coupang.com/a/fxF0AEhqOO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-27"
+    "priceValidUntil": "2026-07-28"
   }
 }
 </script>
