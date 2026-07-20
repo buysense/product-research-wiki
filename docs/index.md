@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 에즈이프 캘리 ASIF CALIE FLOWER APPLIQUE BOOTCUT PANTS CHARCOAL | [보기](products/asif-calie-flower-applique-bootcut-pants-charcoal.md) |
 | 헬렌카민스키 여성모자 커스틴 이클립스 | [보기](products/helenkaminski-kirsten-eclipse-hat.md) |
 | 농협 임금님표 이천쌀 특등급 | [보기](products/nonghyup-icheonrice-special-grade.md) |
 | [플리즈노팔로우] Heren Corset Short Sleeve Top (Ivory) | [보기](products/heren-corset-short-sleeve-top-ivory.md) |
