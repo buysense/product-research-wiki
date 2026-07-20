@@ -20,12 +20,12 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
     "price": "22910",
     "url": "https://link.coupang.com/a/e498fd5u7E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-27"
+    "priceValidUntil": "2026-07-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 1442,
+    "reviewCount": 1443,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -64,9 +64,11 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -75,25 +77,25 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">23,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
 
-    <path d="M 68 76 L 99 26 L 129 26 L 160 109 L 190 109 L 221 109 L 252 109 L 282 109 L 313 109 L 343 109 L 374 109 L 404 109 L 435 109 L 466 109 L 496 109 L 527 109 L 557 109 L 588 109 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 76 L 99 26 L 129 26 L 160 109 L 190 109 L 221 109 L 252 109 L 282 109 L 313 109 L 343 109 L 374 109 L 404 109 L 435 109 L 466 109 L 496 109 L 527 109 L 557 109 L 588 109" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 76 L 97 26 L 126 26 L 155 109 L 184 109 L 212 109 L 241 109 L 270 109 L 299 109 L 328 109 L 357 109 L 386 109 L 415 109 L 444 109 L 472 109 L 501 109 L 530 109 L 559 109 L 588 109 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 76 L 97 26 L 126 26 L 155 109 L 184 109 L 212 109 L 241 109 L 270 109 L 299 109 L 328 109 L 357 109 L 386 109 L 415 109 L 444 109 L 472 109 L 501 109 L 530 109 L 559 109 L 588 109" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="99" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="129" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="160" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="97" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="109" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="109" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="97" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,910원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -101,7 +103,7 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,910원 · 별점 4.9 · 리뷰 1,442개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,910원 · 별점 4.9 · 리뷰 1,443개</span>
     <a href="https://link.coupang.com/a/e498fd5u7E" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -175,7 +177,7 @@ A. 전자레인지 사용은 3분 이내로 음식을 데우는 용도로만 권
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,910원 · 별점 4.9 · 리뷰 1,442개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,910원 · 별점 4.9 · 리뷰 1,443개</span>
     <a href="https://link.coupang.com/a/e498fd5u7E" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
