@@ -20,7 +20,7 @@ description: 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트는
     "price": "14310",
     "url": "https://link.coupang.com/a/e5amdG8hm8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-28"
+    "priceValidUntil": "2026-07-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -66,9 +66,11 @@ description: 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트는
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -77,31 +79,31 @@ description: 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트는
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 96 L 97 96 L 126 96 L 155 145 L 184 145 L 212 145 L 241 145 L 270 145 L 299 145 L 328 145 L 357 175 L 386 145 L 415 145 L 444 36 L 472 36 L 501 36 L 530 36 L 559 90 L 588 90 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 96 L 97 96 L 126 96 L 155 145 L 184 145 L 212 145 L 241 145 L 270 145 L 299 145 L 328 145 L 357 175 L 386 145 L 415 145 L 444 36 L 472 36 L 501 36 L 530 36 L 559 90 L 588 90" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 96 L 95 96 L 123 96 L 150 145 L 177 145 L 205 145 L 232 145 L 260 145 L 287 145 L 314 145 L 342 175 L 369 145 L 396 145 L 424 36 L 451 36 L 479 36 L 506 36 L 533 90 L 561 90 L 588 90 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 96 L 95 96 L 123 96 L 150 145 L 177 145 L 205 145 L 232 145 L 260 145 L 287 145 L 314 145 L 342 175 L 369 145 L 396 145 L 424 36 L 451 36 L 479 36 L 506 36 L 533 90 L 561 90 L 588 90" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="175" r="4" fill="#fdba74"></circle>
-    <circle cx="386" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="444" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="559" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="123" cy="96" r="4" fill="#fdba74"></circle>
+    <circle cx="150" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="314" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="342" cy="175" r="4" fill="#fdba74"></circle>
+    <circle cx="369" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="396" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="424" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="506" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="533" cy="90" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="90" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="78" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,310원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
