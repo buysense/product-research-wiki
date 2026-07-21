@@ -20,7 +20,7 @@ description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아�
     "price": "14900",
     "url": "https://link.coupang.com/a/efCz8fp8I8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-28"
+    "priceValidUntil": "2026-07-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -126,6 +126,8 @@ description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -137,28 +139,28 @@ description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 104 L 86 104 L 104 104 L 122 43 L 140 43 L 158 119 L 176 119 L 194 119 L 211 104 L 229 104 L 247 104 L 265 104 L 283 104 L 301 104 L 319 104 L 337 104 L 355 104 L 373 104 L 391 104 L 409 104 L 427 104 L 445 104 L 462 104 L 480 104 L 498 104 L 516 104 L 534 104 L 552 104 L 570 104 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 104 L 86 104 L 104 104 L 122 43 L 140 43 L 158 119 L 176 119 L 194 119 L 211 104 L 229 104 L 247 104 L 265 104 L 283 104 L 301 104 L 319 104 L 337 104 L 355 104 L 373 104 L 391 104 L 409 104 L 427 104 L 445 104 L 462 104 L 480 104 L 498 104 L 516 104 L 534 104 L 552 104 L 570 104 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 104 L 86 104 L 104 43 L 122 43 L 140 119 L 158 119 L 176 119 L 194 104 L 211 104 L 229 104 L 247 104 L 265 104 L 283 104 L 301 104 L 319 104 L 337 104 L 355 104 L 373 104 L 391 104 L 409 104 L 427 104 L 445 104 L 462 104 L 480 104 L 498 104 L 516 104 L 534 104 L 552 104 L 570 104 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 104 L 86 104 L 104 43 L 122 43 L 140 119 L 158 119 L 176 119 L 194 104 L 211 104 L 229 104 L 247 104 L 265 104 L 283 104 L 301 104 L 319 104 L 337 104 L 355 104 L 373 104 L 391 104 L 409 104 L 427 104 L 445 104 L 462 104 L 480 104 L 498 104 L 516 104 L 534 104 L 552 104 L 570 104 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="43" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="104" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="104" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="92" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-21</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
