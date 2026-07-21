@@ -17,15 +17,15 @@ description: 촉촉한 황치즈칩은 진한 황치즈 풍미와 부드럽고 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "21490",
+    "price": "21960",
     "url": "https://link.coupang.com/a/eFJCvv",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-28"
+    "priceValidUntil": "2026-07-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 6143,
+    "reviewCount": 6218,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 촉촉한 황치즈칩은 진한 황치즈 풍미와 부드럽고 �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-09 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -184,50 +186,50 @@ description: 촉촉한 황치즈칩은 진한 황치즈 풍미와 부드럽고 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 146 L 86 141 L 104 146 L 122 146 L 140 162 L 158 142 L 176 154 L 194 165 L 211 144 L 229 162 L 247 164 L 265 154 L 283 167 L 301 168 L 319 168 L 337 143 L 355 165 L 373 143 L 391 162 L 409 162 L 427 166 L 445 156 L 462 170 L 480 151 L 498 163 L 516 29 L 534 162 L 552 162 L 570 163 L 588 162 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 146 L 86 141 L 104 146 L 122 146 L 140 162 L 158 142 L 176 154 L 194 165 L 211 144 L 229 162 L 247 164 L 265 154 L 283 167 L 301 168 L 319 168 L 337 143 L 355 165 L 373 143 L 391 162 L 409 162 L 427 166 L 445 156 L 462 170 L 480 151 L 498 163 L 516 29 L 534 162 L 552 162 L 570 163 L 588 162" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="141" r="4" fill="#fdba74"></circle>
+    <path d="M 68 141 L 86 146 L 104 146 L 122 162 L 140 142 L 158 154 L 176 165 L 194 144 L 211 162 L 229 164 L 247 154 L 265 167 L 283 168 L 301 168 L 319 143 L 337 165 L 355 143 L 373 162 L 391 162 L 409 166 L 427 156 L 445 170 L 462 151 L 480 163 L 498 29 L 516 162 L 534 162 L 552 163 L 570 162 L 588 161 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 141 L 86 146 L 104 146 L 122 162 L 140 142 L 158 154 L 176 165 L 194 144 L 211 162 L 229 164 L 247 154 L 265 167 L 283 168 L 301 168 L 319 143 L 337 165 L 355 143 L 373 162 L 391 162 L 409 166 L 427 156 L 445 170 L 462 151 L 480 163 L 498 29 L 516 162 L 534 162 L 552 163 L 570 162 L 588 161" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="146" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="165" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="168" r="4" fill="#fdba74"></circle>
     <circle cx="301" cy="168" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="168" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="165" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="162" r="4" fill="#fdba74"></circle>
     <circle cx="391" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="156" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="156" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="162" r="4" fill="#fdba74"></circle>
     <circle cx="534" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="162" r="5" fill="#ea580c"></circle>
+    <circle cx="552" cy="163" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="161" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="150" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,490원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="588" y="149" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,960원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -235,7 +237,7 @@ description: 촉촉한 황치즈칩은 진한 황치즈 풍미와 부드럽고 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,490원 · 별점 4.7 · 리뷰 6,143개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,960원 · 별점 4.7 · 리뷰 6,218개</span>
     <a href="https://link.coupang.com/a/eFJCvv" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -309,7 +311,7 @@ A. 독특한 맛과 식감으로 인한 높은 소비자 만족도와 SNS를 통
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,490원 · 별점 4.7 · 리뷰 6,143개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,960원 · 별점 4.7 · 리뷰 6,218개</span>
     <a href="https://link.coupang.com/a/eFJCvv" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
