@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| GLOWNY 글로니 G DEEP SCOOP TEE (WHITE) | [보기](products/glowny-g-deep-scoop-tee-white.md) |
 | 더콜디스트모먼트 TCM starfish patchwork backpack | [보기](products/thecoldestmoment-tcm-starfish-patchwork-backpack.md) |
 | 에즈이프 캘리 ASIF CALIE FLOWER APPLIQUE BOOTCUT PANTS CHARCOAL | [보기](products/asif-calie-flower-applique-bootcut-pants-charcoal.md) |
 | 헬렌카민스키 여성모자 커스틴 이클립스 | [보기](products/helenkaminski-kirsten-eclipse-hat.md) |
