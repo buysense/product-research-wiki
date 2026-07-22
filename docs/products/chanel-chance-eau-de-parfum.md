@@ -158,6 +158,8 @@ description: 샤넬 샹스 오 드 퍼퓸은 2019년 출시된 플로럴 프루�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -165,27 +167,26 @@ description: 샤넬 샹스 오 드 퍼퓸은 2019년 출시된 플로럴 프루�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">210,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">190,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">206,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">205,900</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">205,800</text>
 
-    <path d="M 68 136 L 86 57 L 104 57 L 122 57 L 140 57 L 158 57 L 176 57 L 194 57 L 211 57 L 229 57 L 247 57 L 265 57 L 283 57 L 301 57 L 319 57 L 337 57 L 355 57 L 373 57 L 391 57 L 409 57 L 427 57 L 445 57 L 462 57 L 480 57 L 498 57 L 516 57 L 534 57 L 552 57 L 570 57 L 588 57 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 136 L 86 57 L 104 57 L 122 57 L 140 57 L 158 57 L 176 57 L 194 57 L 211 57 L 229 57 L 247 57 L 265 57 L 283 57 L 301 57 L 319 57 L 337 57 L 355 57 L 373 57 L 391 57 L 409 57 L 427 57 L 445 57 L 462 57 L 480 57 L 498 57 L 516 57 L 534 57 L 552 57 L 570 57 L 588 57" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="57" r="5" fill="#ea580c"></circle>
+    <path d="M 68 110 L 86 110 L 104 110 L 122 110 L 140 110 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 86 110 L 104 110 L 122 110 L 140 110 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="45" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">205,890원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">205,890원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
