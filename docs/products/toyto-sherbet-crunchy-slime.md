@@ -20,12 +20,12 @@ description: 토이토 샤베트 크런치 슬랑이 슬라임은 독특한 샤�
     "price": "9900",
     "url": "https://link.coupang.com/a/dLGKejHa5Q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-28"
+    "priceValidUntil": "2026-07-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.2,
-    "reviewCount": 53,
+    "ratingValue": 4.3,
+    "reviewCount": 54,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 토이토 샤베트 크런치 슬랑이 슬라임은 독특한 샤�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -172,26 +174,25 @@ description: 토이토 샤베트 크런치 슬랑이 슬라임은 독특한 샤�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,800</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,600</text>
 
-    <path d="M 68 64 L 86 64 L 104 178 L 122 178 L 140 178 L 158 178 L 176 178 L 194 178 L 211 178 L 229 178 L 247 178 L 265 178 L 283 178 L 301 178 L 319 178 L 337 178 L 355 178 L 373 178 L 391 178 L 409 178 L 427 178 L 445 178 L 462 178 L 480 178 L 498 178 L 516 178 L 534 64 L 552 64 L 570 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 64 L 86 64 L 104 178 L 122 178 L 140 178 L 158 178 L 176 178 L 194 178 L 211 178 L 229 178 L 247 178 L 265 178 L 283 178 L 301 178 L 319 178 L 337 178 L 355 178 L 373 178 L 391 178 L 409 178 L 427 178 L 445 178 L 462 178 L 480 178 L 498 178 L 516 178 L 534 64 L 552 64 L 570 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 64 L 86 178 L 104 178 L 122 178 L 140 178 L 158 178 L 176 178 L 194 178 L 211 178 L 229 178 L 247 178 L 265 178 L 283 178 L 301 178 L 319 178 L 337 178 L 355 178 L 373 178 L 391 178 L 409 178 L 427 178 L 445 178 L 462 178 L 480 178 L 498 178 L 516 64 L 534 64 L 552 64 L 570 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 64 L 86 178 L 104 178 L 122 178 L 140 178 L 158 178 L 176 178 L 194 178 L 211 178 L 229 178 L 247 178 L 265 178 L 283 178 L 301 178 L 319 178 L 337 178 L 355 178 L 373 178 L 391 178 L 409 178 L 427 178 L 445 178 L 462 178 L 480 178 L 498 178 L 516 64 L 534 64 L 552 64 L 570 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="64" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -199,7 +200,7 @@ description: 토이토 샤베트 크런치 슬랑이 슬라임은 독특한 샤�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원 · 별점 4.2 · 리뷰 53개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원 · 별점 4.3 · 리뷰 54개</span>
     <a href="https://link.coupang.com/a/dLGKejHa5Q" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -273,7 +274,7 @@ A. 만약 슬라임이 터지더라도 순간접착제 등으로 다시 붙여 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,900원 · 별점 4.2 · 리뷰 53개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,900원 · 별점 4.3 · 리뷰 54개</span>
     <a href="https://link.coupang.com/a/dLGKejHa5Q" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
