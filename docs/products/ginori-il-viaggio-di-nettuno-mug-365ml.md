@@ -20,7 +20,7 @@ description: 지노리 IL VIAGGIO DI NETTUNO 머그 365ml는 독특한 해양 �
     "price": "254000",
     "url": "https://link.coupang.com/a/fAUqPxi6XQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-29"
+    "priceValidUntil": "2026-07-30"
   }
 }
 </script>
