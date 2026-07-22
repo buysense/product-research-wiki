@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 지노리 IL VIAGGIO DI NETTUNO 머그 365ml | [보기](products/ginori-il-viaggio-di-nettuno-mug-365ml.md) |
 | 필립스 3000시리즈 에그 쿠커 계란찜기 | [보기](products/philips-3000series-egg-cooker-steamer.md) |
 | 알에스에스씨 RSSC FRINGE DYED CHECK SHIRT - PINK | [보기](products/rssc-fringe-dyed-check-shirt-pink.md) |
 | GLOWNY 글로니 G DEEP SCOOP TEE (WHITE) | [보기](products/glowny-g-deep-scoop-tee-white.md) |

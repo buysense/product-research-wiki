@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 지노리 IL VIAGGIO DI NETTUNO 머그 365ml: products/ginori-il-viaggio-di-nettuno-mug-365ml.md
     - 필립스 3000시리즈 에그 쿠커 계란찜기: products/philips-3000series-egg-cooker-steamer.md
     - 알에스에스씨 RSSC FRINGE DYED CHECK SHIRT - PINK: products/rssc-fringe-dyed-check-shirt-pink.md
     - GLOWNY 글로니 G DEEP SCOOP TEE (WHITE): products/glowny-g-deep-scoop-tee-white.md
