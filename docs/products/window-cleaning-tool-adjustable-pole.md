@@ -20,7 +20,7 @@ description: 유리창청소도구는 높은 창문, 욕실 거울 등 손 닿�
     "price": "7130",
     "url": "https://link.coupang.com/a/eLrf7yCHgi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-28"
+    "priceValidUntil": "2026-07-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -90,6 +90,8 @@ description: 유리창청소도구는 높은 창문, 욕실 거울 등 손 닿�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -101,26 +103,26 @@ description: 유리창청소도구는 높은 창문, 욕실 거울 등 손 닿�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 98 L 176 98 L 194 98 L 211 98 L 229 98 L 247 98 L 265 98 L 283 98 L 301 98 L 319 98 L 337 98 L 355 98 L 373 98 L 391 98 L 409 98 L 427 98 L 445 98 L 462 98 L 480 98 L 498 98 L 516 98 L 534 98 L 552 98 L 570 129 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 98 L 176 98 L 194 98 L 211 98 L 229 98 L 247 98 L 265 98 L 283 98 L 301 98 L 319 98 L 337 98 L 355 98 L 373 98 L 391 98 L 409 98 L 427 98 L 445 98 L 462 98 L 480 98 L 498 98 L 516 98 L 534 98 L 552 98 L 570 129 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 98 L 158 98 L 176 98 L 194 98 L 211 98 L 229 98 L 247 98 L 265 98 L 283 98 L 301 98 L 319 98 L 337 98 L 355 98 L 373 98 L 391 98 L 409 98 L 427 98 L 445 98 L 462 98 L 480 98 L 498 98 L 516 98 L 534 98 L 552 129 L 570 129 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 98 L 158 98 L 176 98 L 194 98 L 211 98 L 229 98 L 247 98 L 265 98 L 283 98 L 301 98 L 319 98 L 337 98 L 355 98 L 373 98 L 391 98 L 409 98 L 427 98 L 445 98 L 462 98 L 480 98 L 498 98 L 516 98 L 534 98 L 552 129 L 570 129 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="98" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="98" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="129" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="129" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,130원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-22</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-23</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
