@@ -17,15 +17,15 @@ description: 바다숲 한입에 쏙 구운감태는 감태 특유의 깊은 풍
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "10020",
+    "price": "12020",
     "url": "https://link.coupang.com/a/eVxFE1BTMI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-29"
+    "priceValidUntil": "2026-07-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 5875,
+    "reviewCount": 5904,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -80,9 +80,11 @@ description: 바다숲 한입에 쏙 구운감태는 감태 특유의 깊은 풍
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -91,33 +93,34 @@ description: 바다숲 한입에 쏙 구운감태는 감태 특유의 깊은 풍
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 120 L 89 120 L 110 120 L 130 120 L 151 120 L 172 120 L 193 120 L 214 110 L 234 110 L 255 110 L 276 110 L 297 110 L 318 110 L 338 110 L 359 110 L 380 126 L 401 110 L 422 26 L 442 105 L 463 114 L 484 110 L 505 110 L 526 110 L 546 102 L 567 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 120 L 89 120 L 110 120 L 130 120 L 151 120 L 172 120 L 193 120 L 214 110 L 234 110 L 255 110 L 276 110 L 297 110 L 318 110 L 338 110 L 359 110 L 380 126 L 401 110 L 422 26 L 442 105 L 463 114 L 484 110 L 505 110 L 526 110 L 546 102 L 567 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 120 L 88 120 L 108 120 L 128 120 L 148 120 L 168 120 L 188 120 L 208 110 L 228 110 L 248 110 L 268 110 L 288 110 L 308 110 L 328 110 L 348 110 L 368 126 L 388 110 L 408 26 L 428 105 L 448 114 L 468 110 L 488 110 L 508 110 L 528 102 L 548 102 L 568 102 L 588 71 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 120 L 88 120 L 108 120 L 128 120 L 148 120 L 168 120 L 188 120 L 208 110 L 228 110 L 248 110 L 268 110 L 288 110 L 308 110 L 328 110 L 348 110 L 368 126 L 388 110 L 408 26 L 428 105 L 448 114 L 468 110 L 488 110 L 508 110 L 528 102 L 548 102 L 568 102 L 588 71" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="193" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="359" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="422" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="442" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="463" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <circle cx="188" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="208" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="368" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="408" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="428" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="448" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="528" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="568" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="71" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,020원</text>
+    <text x="588" y="59" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,020원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -125,7 +128,7 @@ description: 바다숲 한입에 쏙 구운감태는 감태 특유의 깊은 풍
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,020원 · 별점 4.6 · 리뷰 5,875개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,020원 · 별점 4.6 · 리뷰 5,904개</span>
     <a href="https://link.coupang.com/a/eVxFE1BTMI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -203,7 +206,7 @@ A. 소금과 기름으로 적절히 간이 되어 있어 그냥 먹어도 맛있
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,020원 · 별점 4.6 · 리뷰 5,875개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,020원 · 별점 4.6 · 리뷰 5,904개</span>
     <a href="https://link.coupang.com/a/eVxFE1BTMI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
