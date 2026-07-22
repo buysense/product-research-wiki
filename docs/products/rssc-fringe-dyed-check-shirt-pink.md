@@ -19,7 +19,7 @@ description: 알에스에스씨 RSSC 프렌지 다이드 체크 셔츠 핑크는
     "price": "132400",
     "url": "https://link.coupang.com/a/fzbHf4cJ9E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-28"
+    "priceValidUntil": "2026-07-29"
   }
 }
 </script>
