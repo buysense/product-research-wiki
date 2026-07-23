@@ -20,7 +20,7 @@ description: 페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의
     "price": "19790",
     "url": "https://link.coupang.com/a/e48pstcVpc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-30"
+    "priceValidUntil": "2026-07-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -70,9 +70,11 @@ description: 페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -81,28 +83,28 @@ description: 페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">19,500</text>
 
-    <path d="M 68 134 L 94 134 L 120 134 L 146 134 L 172 26 L 198 26 L 224 26 L 250 26 L 276 26 L 302 134 L 328 26 L 354 134 L 380 134 L 406 134 L 432 134 L 458 134 L 484 134 L 510 134 L 536 134 L 562 134 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 134 L 94 134 L 120 134 L 146 134 L 172 26 L 198 26 L 224 26 L 250 26 L 276 26 L 302 134 L 328 26 L 354 134 L 380 134 L 406 134 L 432 134 L 458 134 L 484 134 L 510 134 L 536 134 L 562 134 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 134 L 93 134 L 118 134 L 142 134 L 167 26 L 192 26 L 217 26 L 241 26 L 266 26 L 291 134 L 316 26 L 340 134 L 365 134 L 390 134 L 415 134 L 439 134 L 464 134 L 489 134 L 514 134 L 538 134 L 563 134 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 134 L 93 134 L 118 134 L 142 134 L 167 26 L 192 26 L 217 26 L 241 26 L 266 26 L 291 134 L 316 26 L 340 134 L 365 134 L 390 134 L 415 134 L 439 134 L 464 134 L 489 134 L 514 134 L 538 134 L 563 134 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="146" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="302" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="354" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="142" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="167" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="266" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="316" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="340" cy="134" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="134" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="122" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,790원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
