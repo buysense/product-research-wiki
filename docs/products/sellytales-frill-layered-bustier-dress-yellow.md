@@ -19,7 +19,7 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
     "price": "151500",
     "url": "https://link.coupang.com/a/faukkoH7im",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-29"
+    "priceValidUntil": "2026-07-30"
   }
 }
 </script>
@@ -54,9 +54,11 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -65,33 +67,33 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 42 L 101 42 L 133 145 L 166 145 L 198 100 L 231 100 L 263 100 L 296 42 L 328 153 L 361 100 L 393 100 L 426 100 L 458 100 L 491 166 L 523 100 L 556 100 L 588 100 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 42 L 101 42 L 133 145 L 166 145 L 198 100 L 231 100 L 263 100 L 296 42 L 328 153 L 361 100 L 393 100 L 426 100 L 458 100 L 491 166 L 523 100 L 556 100 L 588 100" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 42 L 99 42 L 129 145 L 160 145 L 190 100 L 221 100 L 252 100 L 282 42 L 313 153 L 343 100 L 374 100 L 404 100 L 435 100 L 466 166 L 496 100 L 527 100 L 557 100 L 588 100 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 42 L 99 42 L 129 145 L 160 145 L 190 100 L 221 100 L 252 100 L 282 42 L 313 153 L 343 100 L 374 100 L 404 100 L 435 100 L 466 166 L 496 100 L 527 100 L 557 100 L 588 100" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="101" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="166" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="296" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="361" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="491" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="99" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="129" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="160" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="190" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="252" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="282" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="313" cy="153" r="4" fill="#fdba74"></circle>
+    <circle cx="343" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="435" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="466" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="496" cy="100" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="100" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="88" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">151,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
