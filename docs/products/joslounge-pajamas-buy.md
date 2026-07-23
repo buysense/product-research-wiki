@@ -19,13 +19,15 @@ description: 조스라운지 잠옷은 집에서 편안한 휴식과 숙면을 �
     "price": "115900",
     "url": "https://link.coupang.com/a/eAsds3",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-30"
+    "priceValidUntil": "2026-07-31"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -192,27 +194,26 @@ description: 조스라운지 잠옷은 집에서 편안한 휴식과 숙면을 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
 
-    <path d="M 68 113 L 86 113 L 104 50 L 122 50 L 140 50 L 158 50 L 176 50 L 194 26 L 211 42 L 229 42 L 247 42 L 265 42 L 283 42 L 301 42 L 319 42 L 337 42 L 355 42 L 373 42 L 391 42 L 409 42 L 427 42 L 445 42 L 462 42 L 480 42 L 498 42 L 516 42 L 534 42 L 552 42 L 570 42 L 588 42 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 113 L 86 113 L 104 50 L 122 50 L 140 50 L 158 50 L 176 50 L 194 26 L 211 42 L 229 42 L 247 42 L 265 42 L 283 42 L 301 42 L 319 42 L 337 42 L 355 42 L 373 42 L 391 42 L 409 42 L 427 42 L 445 42 L 462 42 L 480 42 L 498 42 L 516 42 L 534 42 L 552 42 L 570 42 L 588 42" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 113 L 86 50 L 104 50 L 122 50 L 140 50 L 158 50 L 176 26 L 194 42 L 211 42 L 229 42 L 247 42 L 265 42 L 283 42 L 301 42 L 319 42 L 337 42 L 355 42 L 373 42 L 391 42 L 409 42 L 427 42 L 445 42 L 462 42 L 480 42 L 498 42 L 516 42 L 534 42 L 552 42 L 570 42 L 588 42 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 113 L 86 50 L 104 50 L 122 50 L 140 50 L 158 50 L 176 26 L 194 42 L 211 42 L 229 42 L 247 42 L 265 42 L 283 42 L 301 42 L 319 42 L 337 42 L 355 42 L 373 42 L 391 42 L 409 42 L 427 42 L 445 42 L 462 42 L 480 42 L 498 42 L 516 42 L 534 42 L 552 42 L 570 42 L 588 42" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="42" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="42" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="30" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">115,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-24</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
