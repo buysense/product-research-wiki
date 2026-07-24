@@ -20,7 +20,7 @@ description: 아소부 콜드브루 메이커는 집에서 간편하게 콜드�
     "price": "42650",
     "url": "https://link.coupang.com/a/e4Y9dzqJFc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -72,38 +72,6 @@ description: 아소부 콜드브루 메이커는 집에서 간편하게 콜드�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
-
-    <path d="M 68 28 L 93 28 L 118 28 L 142 28 L 167 28 L 192 28 L 217 28 L 241 28 L 266 28 L 291 28 L 316 28 L 340 28 L 365 28 L 390 28 L 415 28 L 439 28 L 464 28 L 489 28 L 514 138 L 538 138 L 563 138 L 588 138 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 93 28 L 118 28 L 142 28 L 167 28 L 192 28 L 217 28 L 241 28 L 266 28 L 291 28 L 316 28 L 340 28 L 365 28 L 390 28 L 415 28 L 439 28 L 464 28 L 489 28 L 514 138 L 538 138 L 563 138 L 588 138" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="489" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="138" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="126" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">42,650원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -112,6 +80,39 @@ description: 아소부 콜드브루 메이커는 집에서 간편하게 콜드�
     <a href="https://link.coupang.com/a/e4Y9dzqJFc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+
+    <path d="M 68 28 L 92 28 L 115 28 L 139 28 L 163 28 L 186 28 L 210 28 L 233 28 L 257 28 L 281 28 L 304 28 L 328 28 L 352 28 L 375 28 L 399 28 L 423 28 L 446 28 L 470 28 L 493 138 L 517 138 L 541 138 L 564 138 L 588 138 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 28 L 92 28 L 115 28 L 139 28 L 163 28 L 186 28 L 210 28 L 233 28 L 257 28 L 281 28 L 304 28 L 328 28 L 352 28 L 375 28 L 399 28 L 423 28 L 446 28 L 470 28 L 493 138 L 517 138 L 541 138 L 564 138 L 588 138" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="470" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="138" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="126" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">42,650원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 아소부 콜드브루 메이커는 집에서 직접 콜드브루 커피를 추출하여 손님에게 대접하거나 일상적으로 커피값을 절약하고자 하는 사용자에게 적합한 주방 용품입니다. 세련된 디자인과 비교적 편리한 추출 방식, 그리고 쉬운 세척이 특징으로, 가정에서 카페 스타일의 음료를 즐기려는 수요에 맞춰 활용될 수 있습니다.
