@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - GLOWNY 글로니 G SLIM TEE: products/glowny-g-slim-tee.md
     - "[플리즈노팔로우] Riri Leopard Lace Top (Pink/Grey)": products/please-no-follow-riri-leopard-lace-top-pink-grey.md
     - 쏘내추럴 올 데이 타이트 메이크업 세팅 픽서: products/sonatural-all-day-tight-makeup-setting-fixer.md
     - 비렌느 스팟 엑스: products/birenne-spot-ex-skin-serum.md
