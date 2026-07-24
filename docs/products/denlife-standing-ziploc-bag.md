@@ -20,12 +20,12 @@ description: 덴라이프 스탠딩지퍼백은 식재료 보관, 소분, 밀봉
     "price": "15070",
     "url": "https://link.coupang.com/a/ey1ghL",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 3606,
+    "reviewCount": 3609,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -193,6 +193,14 @@ description: 덴라이프 스탠딩지퍼백은 식재료 보관, 소분, 밀봉
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,070원 · 별점 4.8 · 리뷰 3,609개</span>
+    <a href="https://link.coupang.com/a/ey1ghL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -204,46 +212,39 @@ description: 덴라이프 스탠딩지퍼백은 식재료 보관, 소분, 밀봉
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 157 L 283 89 L 301 89 L 319 86 L 337 89 L 355 89 L 373 89 L 391 28 L 409 89 L 427 89 L 445 89 L 462 89 L 480 89 L 498 91 L 516 91 L 534 61 L 552 61 L 570 61 L 588 61 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 157 L 283 89 L 301 89 L 319 86 L 337 89 L 355 89 L 373 89 L 391 28 L 409 89 L 427 89 L 445 89 L 462 89 L 480 89 L 498 91 L 516 91 L 534 61 L 552 61 L 570 61 L 588 61" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 157 L 265 89 L 283 89 L 301 86 L 319 89 L 337 89 L 355 89 L 373 28 L 391 89 L 409 89 L 427 89 L 445 89 L 462 89 L 480 91 L 498 91 L 516 61 L 534 61 L 552 61 L 570 61 L 588 61 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 157 L 265 89 L 283 89 L 301 86 L 319 89 L 337 89 L 355 89 L 373 28 L 391 89 L 409 89 L 427 89 L 445 89 L 462 89 L 480 91 L 498 91 L 516 61 L 534 61 L 552 61 L 570 61 L 588 61" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="89" r="4" fill="#fdba74"></circle>
     <circle cx="283" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="91" r="4" fill="#fdba74"></circle>
     <circle cx="498" cy="91" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="91" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="61" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="61" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="49" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,070원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,070원 · 별점 4.8 · 리뷰 3,606개</span>
-    <a href="https://link.coupang.com/a/ey1ghL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 
 
@@ -338,7 +339,7 @@ A. 네, 깨끗하게 세척하여 재사용할 수 있습니다. 하지만 기�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,070원 · 별점 4.8 · 리뷰 3,606개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,070원 · 별점 4.8 · 리뷰 3,609개</span>
     <a href="https://link.coupang.com/a/ey1ghL" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
