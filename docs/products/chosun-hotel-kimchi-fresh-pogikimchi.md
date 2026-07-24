@@ -20,12 +20,12 @@ description: 조선호텔 포기김치 프레시는 국내산 배추와 황태�
     "price": "27230",
     "url": "https://link.coupang.com/a/dL5tLqcFd6",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 2480,
+    "reviewCount": 2501,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -167,6 +167,14 @@ description: 조선호텔 포기김치 프레시는 국내산 배추와 황태�
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 27,230원 · 별점 4.5 · 리뷰 2,501개</span>
+    <a href="https://link.coupang.com/a/dL5tLqcFd6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -178,42 +186,36 @@ description: 조선호텔 포기김치 프레시는 국내산 배추와 황태�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 43 L 86 43 L 104 43 L 122 43 L 140 43 L 158 68 L 176 68 L 194 68 L 211 68 L 229 68 L 247 68 L 265 68 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 73 L 498 73 L 516 73 L 534 73 L 552 123 L 570 47 L 588 123 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 43 L 86 43 L 104 43 L 122 43 L 140 43 L 158 68 L 176 68 L 194 68 L 211 68 L 229 68 L 247 68 L 265 68 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 73 L 498 73 L 516 73 L 534 73 L 552 123 L 570 47 L 588 123" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 43 L 86 43 L 104 43 L 122 43 L 140 68 L 158 68 L 176 68 L 194 68 L 211 68 L 229 68 L 247 68 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 73 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 73 L 498 73 L 516 73 L 534 123 L 552 47 L 570 123 L 588 123 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 43 L 86 43 L 104 43 L 122 43 L 140 68 L 158 68 L 176 68 L 194 68 L 211 68 L 229 68 L 247 68 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 73 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 73 L 498 73 L 516 73 L 534 123 L 552 47 L 570 123 L 588 123" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="123" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="123" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="111" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">27,230원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 27,230원 · 별점 4.5 · 리뷰 2,480개</span>
-    <a href="https://link.coupang.com/a/dL5tLqcFd6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 
 
@@ -291,7 +293,7 @@ A. 조선호텔 포기김치 프레시는 국내산 배추, 고춧가루 등 엄
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 27,230원 · 별점 4.5 · 리뷰 2,480개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 27,230원 · 별점 4.5 · 리뷰 2,501개</span>
     <a href="https://link.coupang.com/a/dL5tLqcFd6" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
