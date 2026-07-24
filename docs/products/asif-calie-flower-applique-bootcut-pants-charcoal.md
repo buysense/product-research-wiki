@@ -19,7 +19,7 @@ description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜�
     "price": "116900",
     "url": "https://link.coupang.com/a/fxF0AEhqOO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -30,33 +30,6 @@ description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">116,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">115,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">114,000</text>
-
-    <path d="M 68 110 L 198 110 L 328 26 L 458 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 198 110 L 328 26 L 458 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">116,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -65,6 +38,35 @@ description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜�
     <a href="https://link.coupang.com/a/fxF0AEhqOO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">116,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">115,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">114,000</text>
+
+    <path d="M 68 110 L 172 110 L 276 26 L 380 26 L 484 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 172 110 L 276 26 L 380 26 L 484 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">116,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 에즈이프 캘리 ASIF CALIE FLOWER APPLIQUE BOOTCUT PANTS CHARCOAL은 하이웨이스트 디자인과 다리 라인을 보정하는 부츠컷 실루엣에 꽃 문양 아플리케(appliqué, 천 조각을 다른 천 위에 덧대어 붙이거나 꿰매 장식하는 기법) 장식이 특징인 팬츠입니다. 이는 평범한 데일리룩에 포인트를 더하거나, 개성을 표현하고 싶은 캐주얼한 모임, 혹은 특별한 분위기를 연출하고 싶은 상황에 착용하기 적합합니다. 20XX년 출시.
