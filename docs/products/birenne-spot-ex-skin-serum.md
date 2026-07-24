@@ -20,12 +20,12 @@ description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 �
     "price": "31800",
     "url": "https://link.coupang.com/a/fCHSYndlS0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 3.6,
-    "reviewCount": 4958,
+    "reviewCount": 5042,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -37,10 +37,34 @@ description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 31,800원 · 별점 3.6 · 리뷰 4,958개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 31,800원 · 별점 3.6 · 리뷰 5,042개</span>
     <a href="https://link.coupang.com/a/fCHSYndlS0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">31,900</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">31,800</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">31,700</text>
+
+    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">31,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 비립종, 여드름 및 피부 요철과 같은 국소 부위 피부 고민을 집에서 간편하게 관리하고자 할 때 활용되는 스킨케어 제품입니다. 병풀추출물과 율무가루, 녹차가루를 주성분으로 하며, 매일 밤 꾸준히 문제 부위에 도포하여 점진적인 피부 개선을 목표로 합니다. 피부과 시술에 대한 부담을 느끼는 소비자들이 자극 없이 부드럽게 피부를 관리하기 위해 선택하는 경우가 많습니다.
@@ -135,7 +159,7 @@ A. 비렌느 스팟 엑스는 의약품이 아닌 화장품으로, 즉각적인 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 31,800원 · 별점 3.6 · 리뷰 4,958개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 31,800원 · 별점 3.6 · 리뷰 5,042개</span>
     <a href="https://link.coupang.com/a/fCHSYndlS0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
