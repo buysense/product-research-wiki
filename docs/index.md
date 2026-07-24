@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| [플리즈노팔로우] Riri Leopard Lace Top (Pink/Grey) | [보기](products/please-no-follow-riri-leopard-lace-top-pink-grey.md) |
 | 쏘내추럴 올 데이 타이트 메이크업 세팅 픽서 | [보기](products/sonatural-all-day-tight-makeup-setting-fixer.md) |
 | 비렌느 스팟 엑스 | [보기](products/birenne-spot-ex-skin-serum.md) |
 | 지노리 IL VIAGGIO DI NETTUNO 머그 365ml | [보기](products/ginori-il-viaggio-di-nettuno-mug-365ml.md) |
