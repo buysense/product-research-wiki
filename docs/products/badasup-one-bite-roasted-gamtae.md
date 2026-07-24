@@ -17,15 +17,15 @@ description: 바다숲 한입에 쏙 구운감태는 감태 특유의 깊은 풍
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "11120",
+    "price": "9500",
     "url": "https://link.coupang.com/a/eVxFE1BTMI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 5914,
+    "reviewCount": 5925,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -84,9 +84,17 @@ description: 바다숲 한입에 쏙 구운감태는 감태 특유의 깊은 풍
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,500원 · 별점 4.6 · 리뷰 5,925개</span>
+    <a href="https://link.coupang.com/a/eVxFE1BTMI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -95,46 +103,40 @@ description: 바다숲 한입에 쏙 구운감태는 감태 특유의 깊은 풍
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 120 L 87 120 L 107 120 L 126 120 L 145 120 L 164 120 L 184 120 L 203 110 L 222 110 L 241 110 L 261 110 L 280 110 L 299 110 L 318 110 L 338 110 L 357 126 L 376 110 L 395 26 L 415 105 L 434 114 L 453 110 L 472 110 L 492 110 L 511 102 L 530 102 L 549 102 L 569 71 L 588 85 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 120 L 87 120 L 107 120 L 126 120 L 145 120 L 164 120 L 184 120 L 203 110 L 222 110 L 241 110 L 261 110 L 280 110 L 299 110 L 318 110 L 338 110 L 357 126 L 376 110 L 395 26 L 415 105 L 434 114 L 453 110 L 472 110 L 492 110 L 511 102 L 530 102 L 549 102 L 569 71 L 588 85" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 120 L 87 120 L 105 120 L 124 120 L 142 120 L 161 120 L 179 120 L 198 110 L 217 110 L 235 110 L 254 110 L 272 110 L 291 110 L 309 110 L 328 110 L 347 126 L 365 110 L 384 26 L 402 105 L 421 114 L 439 110 L 458 110 L 477 110 L 495 102 L 514 102 L 532 102 L 551 71 L 569 85 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 120 L 87 120 L 105 120 L 124 120 L 142 120 L 161 120 L 179 120 L 198 110 L 217 110 L 235 110 L 254 110 L 272 110 L 291 110 L 309 110 L 328 110 L 347 126 L 365 110 L 384 26 L 402 105 L 421 114 L 439 110 L 458 110 L 477 110 L 495 102 L 514 102 L 532 102 L 551 71 L 569 85 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="203" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="376" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="395" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="434" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="453" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="492" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="511" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="549" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="85" r="5" fill="#ea580c"></circle>
+    <circle cx="179" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="347" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="384" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="421" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="477" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="495" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="532" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="569" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="73" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,120원</text>
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,120원 · 별점 4.6 · 리뷰 5,914개</span>
-    <a href="https://link.coupang.com/a/eVxFE1BTMI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 바다숲 한입에 쏙 구운감태는 감태 특유의 향긋한 바다 풍미와 바삭한 식감을 간편하게 즐길 수 있도록 소포장된 제품입니다. 따뜻한 밥에 곁들이는 반찬은 물론, 회, 수육, 새우회, 우니 등 다양한 고급 식재료와 함께 즐기는 특별한 별미로 소비됩니다. 개별 포장되어 있어 보관 및 휴대가 용이하며, 간식이나 가벼운 술안주로도 적합합니다.
@@ -209,7 +211,7 @@ A. 소금과 기름으로 적절히 간이 되어 있어 그냥 먹어도 맛있
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,120원 · 별점 4.6 · 리뷰 5,914개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,500원 · 별점 4.6 · 리뷰 5,925개</span>
     <a href="https://link.coupang.com/a/eVxFE1BTMI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
