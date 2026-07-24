@@ -19,7 +19,7 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
     "price": "128800",
     "url": "https://link.coupang.com/a/e3OVmIp8DI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -66,41 +66,6 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">125,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
-
-    <path d="M 68 104 L 92 104 L 115 44 L 139 26 L 163 26 L 186 44 L 210 44 L 233 44 L 257 44 L 281 44 L 304 44 L 328 44 L 352 44 L 375 44 L 399 44 L 423 44 L 446 44 L 470 44 L 493 44 L 517 44 L 541 44 L 564 44 L 588 44 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 104 L 92 104 L 115 44 L 139 26 L 163 26 L 186 44 L 210 44 L 233 44 L 257 44 L 281 44 L 304 44 L 328 44 L 352 44 L 375 44 L 399 44 L 423 44 L 446 44 L 470 44 L 493 44 L 517 44 L 541 44 L 564 44 L 588 44" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="139" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="44" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="32" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">128,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -109,6 +74,42 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
     <a href="https://link.coupang.com/a/e3OVmIp8DI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">125,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
+
+    <path d="M 68 104 L 91 104 L 113 44 L 136 26 L 158 26 L 181 44 L 204 44 L 226 44 L 249 44 L 271 44 L 294 44 L 317 44 L 339 44 L 362 44 L 385 44 L 407 44 L 430 44 L 452 44 L 475 44 L 498 44 L 520 44 L 543 44 L 565 44 L 588 44 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 104 L 91 104 L 113 44 L 136 26 L 158 26 L 181 44 L 204 44 L 226 44 L 249 44 L 271 44 L 294 44 L 317 44 L 339 44 L 362 44 L 385 44 L 407 44 L 430 44 L 452 44 L 475 44 L 498 44 L 520 44 L 543 44 L 565 44 L 588 44" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="91" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="113" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="136" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="181" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="44" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="32" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">128,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인과 향상된 착화감을 겸비한 스니커즈로, 일상적인 캐주얼 복장은 물론 다양한 패션 스타일에 포인트를 주고자 할 때 적합합니다. 고급스러운 아머 블루 컬러가 특징이며, 척 70 라인 특유의 강화된 내구성으로 편안하게 오래 신을 수 있도록 설계되었습니다. 출시연도는 미공개입니다.
