@@ -20,12 +20,12 @@ description: 캐치티니핑 멀티비타민 미네랄 음료 포도맛은 아�
     "price": "15500",
     "url": "https://link.coupang.com/a/d8QVcP6okC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 672,
+    "reviewCount": 674,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -140,6 +140,14 @@ description: 캐치티니핑 멀티비타민 미네랄 음료 포도맛은 아�
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,500원 · 별점 4.9 · 리뷰 674개</span>
+    <a href="https://link.coupang.com/a/d8QVcP6okC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -151,38 +159,30 @@ description: 캐치티니핑 멀티비타민 미네랄 음료 포도맛은 아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
 
-    <path d="M 68 155 L 86 154 L 104 155 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 154 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 155 L 86 154 L 104 155 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 154 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="64" r="4" fill="#fdba74"></circle>
+    <path d="M 68 154 L 86 155 L 104 154 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 154 L 86 155 L 104 154 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="64" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,500원 · 별점 4.9 · 리뷰 672개</span>
-    <a href="https://link.coupang.com/a/d8QVcP6okC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 캐치티니핑 멀티비타민 미네랄 음료 포도맛은 아이들이 좋아하는 캐치티니핑 캐릭터가 디자인된 200ml 소용량 포도맛 음료입니다. 멀티비타민과 미네랄을 함유하고 있어, 아이들의 간식 시간이나 식사 시 영양을 보충하는 용도로 활용하기 적합합니다. 특히 24개 구성은 가정에서 꾸준히 섭취하거나, 어린이집 및 유치원 간식, 야외 활동 시 편리하게 휴대하며 즐기기 좋습니다. 출시연도는 미공개입니다.
@@ -253,7 +253,7 @@ A. 24개입 대량 구매는 개별 구매보다 가격 효율성이 좋고, 자
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,500원 · 별점 4.9 · 리뷰 672개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,500원 · 별점 4.9 · 리뷰 674개</span>
     <a href="https://link.coupang.com/a/d8QVcP6okC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
