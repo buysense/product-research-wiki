@@ -16,10 +16,10 @@ description: [이지노이지] 크롭 퍼 후드 집업 아이보리는 따뜻�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "98800",
+    "price": "123000",
     "url": "https://link.coupang.com/a/fkrONQmn5E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -46,46 +46,6 @@ description: [이지노이지] 크롭 퍼 후드 집업 아이보리는 따뜻�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-
-    <path d="M 68 120 L 111 120 L 155 108 L 198 108 L 241 108 L 285 117 L 328 117 L 371 108 L 415 108 L 458 137 L 501 67 L 545 104 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 120 L 111 120 L 155 108 L 198 108 L 241 108 L 285 117 L 328 117 L 371 108 L 415 108 L 458 137 L 501 67 L 545 104 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="111" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="285" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="371" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="545" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="104" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="92" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">98,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -94,6 +54,48 @@ description: [이지노이지] 크롭 퍼 후드 집업 아이보리는 따뜻�
     <a href="https://link.coupang.com/a/fkrONQmn5E" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
+
+    <path d="M 68 120 L 108 120 L 148 108 L 188 108 L 228 108 L 268 117 L 308 117 L 348 108 L 388 108 L 428 137 L 468 67 L 508 104 L 548 104 L 588 67 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 120 L 108 120 L 148 108 L 188 108 L 228 108 L 268 117 L 308 117 L 348 108 L 388 108 L 428 137 L 468 67 L 508 104 L 548 104 L 588 67" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="148" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="228" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="428" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="67" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="55" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">123,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 [이지노이지] 크롭 퍼 후드 집업 아이보리는 부드러운 퍼(fur) 소재와 트렌디한 크롭 기장이 특징인 아우터입니다. 간절기부터 초겨울까지 데일리 캐주얼룩이나 레이어드 스타일링에 활용되며, 특히 하이웨이스트 하의와 매치하여 스타일리시하고 따뜻한 코디를 연출할 때 적합합니다.
