@@ -16,10 +16,10 @@ description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "39600",
+    "price": "41300",
     "url": "https://link.coupang.com/a/e18gIlYsbA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -68,46 +68,6 @@ description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
-
-    <path d="M 68 47 L 91 47 L 113 47 L 136 47 L 158 47 L 181 47 L 204 47 L 226 47 L 249 47 L 271 47 L 294 47 L 317 47 L 339 47 L 362 135 L 385 135 L 407 26 L 430 26 L 452 135 L 475 135 L 498 135 L 520 26 L 543 26 L 565 137 L 588 105 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 47 L 91 47 L 113 47 L 136 47 L 158 47 L 181 47 L 204 47 L 226 47 L 249 47 L 271 47 L 294 47 L 317 47 L 339 47 L 362 135 L 385 135 L 407 26 L 430 26 L 452 135 L 475 135 L 498 135 L 520 26 L 543 26 L 565 137 L 588 105" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="339" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="362" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="385" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="407" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="430" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="452" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="520" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="543" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="565" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="105" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="93" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">39,600원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -116,6 +76,48 @@ description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레�
     <a href="https://link.coupang.com/a/e18gIlYsbA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
+
+    <path d="M 68 47 L 90 47 L 111 47 L 133 47 L 155 47 L 176 47 L 198 47 L 220 47 L 241 47 L 263 47 L 285 47 L 306 47 L 328 47 L 350 135 L 371 135 L 393 26 L 415 26 L 436 135 L 458 135 L 480 135 L 501 26 L 523 26 L 545 137 L 566 105 L 588 92 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 47 L 90 47 L 111 47 L 133 47 L 155 47 L 176 47 L 198 47 L 220 47 L 241 47 L 263 47 L 285 47 L 306 47 L 328 47 L 350 135 L 371 135 L 393 26 L 415 26 L 436 135 L 458 135 L 480 135 L 501 26 L 523 26 L 545 137 L 566 105 L 588 92" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="350" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="371" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="436" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="545" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="566" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="92" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="80" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">41,300원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레트로 패션을 반영한 디자인의 슬리브리스 상의로, 여름철 시원하고 활동적인 캐주얼룩을 연출하거나 다양한 아우터 안에 레이어드하여 활용하기 적합한 제품입니다. Y2K 감성을 선호하는 소비층에게 특히 주목받을 수 있으며, 트렌디한 스타일을 표현하고자 할 때 좋은 선택이 될 수 있습니다. 출시연도는 미공개입니다.
