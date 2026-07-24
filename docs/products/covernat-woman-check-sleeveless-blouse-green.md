@@ -19,7 +19,7 @@ description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은
     "price": "91100",
     "url": "https://link.coupang.com/a/ffrQM1UY2e",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -52,38 +52,6 @@ description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">110,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
-
-    <path d="M 68 93 L 103 93 L 137 93 L 172 93 L 207 93 L 241 93 L 276 93 L 311 170 L 345 170 L 380 170 L 415 170 L 449 170 L 484 170 L 519 170 L 553 170 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 93 L 103 93 L 137 93 L 172 93 L 207 93 L 241 93 L 276 93 L 311 170 L 345 170 L 380 170 L 415 170 L 449 170 L 484 170 L 519 170 L 553 170 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="311" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="170" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="158" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">91,100원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -92,6 +60,39 @@ description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은
     <a href="https://link.coupang.com/a/ffrQM1UY2e" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">110,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
+
+    <path d="M 68 93 L 101 93 L 133 93 L 166 93 L 198 93 L 231 93 L 263 93 L 296 170 L 328 170 L 361 170 L 393 170 L 426 170 L 458 170 L 491 170 L 523 170 L 556 170 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 93 L 101 93 L 133 93 L 166 93 L 198 93 L 231 93 L 263 93 L 296 170 L 328 170 L 361 170 L 393 170 L 426 170 L 458 170 L 491 170 L 523 170 L 556 170 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="263" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="296" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="170" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="158" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">91,100원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은 시원한 슬리브리스 디자인에 클래식한 체크 패턴이 더해져 다양한 분위기를 연출할 수 있는 여성 블라우스입니다. 주로 따뜻한 봄부터 가을까지 일상적인 캐주얼룩이나 가벼운 외출복으로 활용하기 적합하며, 재킷이나 가디건 안에 이너로 매치하여 오피스 캐주얼룩으로도 연출될 수 있습니다. 20XX년 출시 정보는 미공개입니다.
