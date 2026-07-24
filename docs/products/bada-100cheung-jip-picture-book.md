@@ -19,12 +19,12 @@ description: 바다 100층짜리 집은 독특한 세로형 구성으로 바닷�
     "price": "9900",
     "url": "https://link.coupang.com/a/eOqyBOfqGi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 597,
+    "reviewCount": 598,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -91,6 +91,14 @@ description: 바다 100층짜리 집은 독특한 세로형 구성으로 바닷�
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원 · 별점 4.8 · 리뷰 598개</span>
+    <a href="https://link.coupang.com/a/eOqyBOfqGi" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -108,27 +116,20 @@ description: 바다 100층짜리 집은 독특한 세로형 구성으로 바닷�
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원 · 별점 4.8 · 리뷰 597개</span>
-    <a href="https://link.coupang.com/a/eOqyBOfqGi" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 '바다 100층짜리 집'은 깊은 바닷속 100층 아파트에서 살아가는 다양한 해양 생물들의 이야기를 담은 그림책입니다. 세로로 책장을 넘기며 바다 깊은 곳으로 내려가는 독특한 구성은 3세에서 7세 아이들의 호기심을 자극하고, 1부터 100까지의 숫자를 자연스럽게 익히는 데 도움을 줍니다. 해양 생물에 대한 관심이 많거나 숫자 학습에 흥미를 붙이고 싶은 아이들에게 적합하며, 풍부한 상상력과 관찰력을 길러줄 수 있는 콘텐츠로 구성되어 있습니다.
@@ -207,7 +208,7 @@ A. 세로로 길게 펼쳐지는 형태이므로, 앉아서 아이와 함께 책
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,900원 · 별점 4.8 · 리뷰 597개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,900원 · 별점 4.8 · 리뷰 598개</span>
     <a href="https://link.coupang.com/a/eOqyBOfqGi" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
