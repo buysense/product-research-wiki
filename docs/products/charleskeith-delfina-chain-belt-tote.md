@@ -19,7 +19,7 @@ description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세�
     "price": "173700",
     "url": "https://link.coupang.com/a/fb9V8Zz1iv",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -56,38 +56,6 @@ description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">180,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">160,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">140,000</text>
-
-    <path d="M 68 129 L 99 129 L 129 129 L 160 129 L 190 129 L 221 129 L 252 129 L 282 129 L 313 50 L 343 50 L 374 50 L 404 50 L 435 50 L 466 50 L 496 50 L 527 50 L 557 50 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 129 L 99 129 L 129 129 L 160 129 L 190 129 L 221 129 L 252 129 L 282 129 L 313 50 L 343 50 L 374 50 L 404 50 L 435 50 L 466 50 L 496 50 L 527 50 L 557 50 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="282" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="313" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="50" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="38" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">173,700원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -96,6 +64,39 @@ description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세�
     <a href="https://link.coupang.com/a/fb9V8Zz1iv" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">180,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">160,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">140,000</text>
+
+    <path d="M 68 129 L 97 129 L 126 129 L 155 129 L 184 129 L 212 129 L 241 129 L 270 129 L 299 50 L 328 50 L 357 50 L 386 50 L 415 50 L 444 50 L 472 50 L 501 50 L 530 50 L 559 50 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 129 L 97 129 L 126 129 L 155 129 L 184 129 L 212 129 L 241 129 L 270 129 L 299 50 L 328 50 L 357 50 L 386 50 L 415 50 L 444 50 L 472 50 L 501 50 L 530 50 L 559 50 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="270" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="50" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="38" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">173,700원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 이 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세련된 체인 디테일과 벨트 장식이 특징인 가방으로, 일상적인 외출부터 오피스룩, 가벼운 모임까지 다양한 상황에서 활용하기 좋습니다. 넉넉한 수납공간과 안정적인 형태로 실용성을 중시하면서도 스타일에 포인트를 주고 싶은 소비자에게 적합합니다. 출시연도는 미공개입니다.
