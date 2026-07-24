@@ -20,7 +20,7 @@ description: 보로탈코 바디크림은 건조한 피부에 보습과 포근�
     "price": "27880",
     "url": "https://link.coupang.com/a/eokxmG05AW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -124,6 +124,14 @@ description: 보로탈코 바디크림은 건조한 피부에 보습과 포근�
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 27,880원 · 별점 4.6 · 리뷰 85개</span>
+    <a href="https://link.coupang.com/a/eokxmG05AW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -141,27 +149,20 @@ description: 보로탈코 바디크림은 건조한 피부에 보습과 포근�
     <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">27,880원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 27,880원 · 별점 4.6 · 리뷰 85개</span>
-    <a href="https://link.coupang.com/a/eokxmG05AW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 보로탈코 바디크림은 샤워 후나 건조한 날씨에 피부 보습을 위해 사용되는 제품입니다. 포근하고 향긋한 베이비파우더 향이 특징이며, 끈적임 없이 보송하게 마무리되어 피부 건조함을 해소합니다. 특히 수영 후 염소물로 인한 피부 건조함과 냄새를 중화하는 용도로도 활용되며, 일부 뷰티 콘텐츠에서 일상 아이템으로 언급되기도 합니다.
