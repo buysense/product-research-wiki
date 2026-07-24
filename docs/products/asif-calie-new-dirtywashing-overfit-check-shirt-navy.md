@@ -19,7 +19,7 @@ description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이
     "price": "129800",
     "url": "https://link.coupang.com/a/fsFjZqxFKK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -36,36 +36,6 @@ description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 8개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">135,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">125,000</text>
-
-    <path d="M 68 26 L 142 26 L 217 105 L 291 105 L 365 105 L 439 105 L 514 105 L 588 105 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 142 26 L 217 105 L 291 105 L 365 105 L 439 105 L 514 105 L 588 105" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="105" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="93" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">129,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -74,6 +44,38 @@ description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이
     <a href="https://link.coupang.com/a/fsFjZqxFKK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">135,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">125,000</text>
+
+    <path d="M 68 26 L 133 26 L 198 105 L 263 105 L 328 105 L 393 105 L 458 105 L 523 105 L 588 105 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 133 26 L 198 105 L 263 105 L 328 105 L 393 105 L 458 105 L 523 105 L 588 105" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="133" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="105" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="93" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">129,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이비는 빈티지한 더티워싱 가공과 여유로운 오버핏 실루엣이 특징인 체크 셔츠입니다. 가을, 겨울철 일상적인 캐주얼룩을 완성하거나, 티셔츠 위에 가볍게 걸쳐 입는 아우터 형식으로 활용하기에 적합합니다. 셔츠 단독 착용 외에 니트나 맨투맨 위에 레이어드하여 보온성과 스타일을 더할 때도 유용합니다. 출시연도는 미공개입니다.
