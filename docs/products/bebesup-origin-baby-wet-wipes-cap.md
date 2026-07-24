@@ -20,12 +20,12 @@ description: 베베숲 오리진 유아물티슈 캡형은 아기 기저귀 교�
     "price": "12900",
     "url": "https://link.coupang.com/a/e48A1dZOh2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 84705,
+    "reviewCount": 84816,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -72,9 +72,17 @@ description: 베베숲 오리진 유아물티슈 캡형은 아기 기저귀 교�
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,900원 · 별점 4.8 · 리뷰 84,816개</span>
+    <a href="https://link.coupang.com/a/e48A1dZOh2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -83,46 +91,40 @@ description: 베베숲 오리진 유아물티슈 캡형은 아기 기저귀 교�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 68 L 93 49 L 118 49 L 142 49 L 167 49 L 192 49 L 217 49 L 241 68 L 266 68 L 291 68 L 316 49 L 340 144 L 365 49 L 390 49 L 415 49 L 439 68 L 464 68 L 489 49 L 514 54 L 538 54 L 563 54 L 588 68 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 68 L 93 49 L 118 49 L 142 49 L 167 49 L 192 49 L 217 49 L 241 68 L 266 68 L 291 68 L 316 49 L 340 144 L 365 49 L 390 49 L 415 49 L 439 68 L 464 68 L 489 49 L 514 54 L 538 54 L 563 54 L 588 68" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 68 L 92 49 L 115 49 L 139 49 L 163 49 L 186 49 L 210 49 L 233 68 L 257 68 L 281 68 L 304 49 L 328 144 L 352 49 L 375 49 L 399 49 L 423 68 L 446 68 L 470 49 L 493 54 L 517 54 L 541 54 L 564 68 L 588 68 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 68 L 92 49 L 115 49 L 139 49 L 163 49 L 186 49 L 210 49 L 233 68 L 257 68 L 281 68 L 304 49 L 328 144 L 352 49 L 375 49 L 399 49 L 423 68 L 446 68 L 470 49 L 493 54 L 517 54 L 541 54 L 564 68 L 588 68" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="93" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="316" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="340" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="464" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="489" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="54" r="4" fill="#fdba74"></circle>
-    <circle cx="563" cy="54" r="4" fill="#fdba74"></circle>
+    <circle cx="92" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="210" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="233" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="281" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="352" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="399" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="423" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="470" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="54" r="4" fill="#fdba74"></circle>
+    <circle cx="541" cy="54" r="4" fill="#fdba74"></circle>
+    <circle cx="564" cy="68" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="68" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="56" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,900원 · 별점 4.8 · 리뷰 84,705개</span>
-    <a href="https://link.coupang.com/a/e48A1dZOh2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 베베숲 오리진 유아물티슈 캡형은 아기 기저귀 교체 시, 식사 후 손과 입을 닦을 때, 그리고 식탁이나 장난감 등 집안 곳곳의 생활 오염을 제거할 때 두루 사용되는 데일리 필수품입니다. 50g 평량의 적당한 두께와 촉촉함, 캡형 디자인으로 마지막 장까지 편리하게 사용할 수 있는 것이 특징입니다. 넉넉한 100매 10팩 구성으로 온 가족이 함께 부담 없이 활용하기에 적합합니다.
@@ -198,7 +200,7 @@ A. 유아용 물티슈로 제작되어 아기 피부에 자극이 적고 부드�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,900원 · 별점 4.8 · 리뷰 84,705개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,900원 · 별점 4.8 · 리뷰 84,816개</span>
     <a href="https://link.coupang.com/a/e48A1dZOh2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
