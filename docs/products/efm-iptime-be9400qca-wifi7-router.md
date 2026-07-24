@@ -20,7 +20,7 @@ description: EFM ipTIME BE9400QCA 유무선공유기는 NAS나 내부망을 활�
     "price": "239000",
     "url": "https://link.coupang.com/a/e1MCWy45wi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -76,37 +76,6 @@ description: EFM ipTIME BE9400QCA 유무선공유기는 NAS나 내부망을 활�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">250,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
-
-    <path d="M 68 134 L 91 134 L 113 134 L 136 134 L 158 134 L 181 134 L 204 134 L 226 134 L 249 134 L 271 134 L 294 134 L 317 134 L 339 134 L 362 134 L 385 134 L 407 134 L 430 134 L 452 134 L 475 134 L 498 134 L 520 134 L 543 134 L 565 134 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 134 L 91 134 L 113 134 L 136 134 L 158 134 L 181 134 L 204 134 L 226 134 L 249 134 L 271 134 L 294 134 L 317 134 L 339 134 L 362 134 L 385 134 L 407 134 L 430 134 L 452 134 L 475 134 L 498 134 L 520 134 L 543 134 L 565 134 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="565" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="43" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">239,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -115,6 +84,39 @@ description: EFM ipTIME BE9400QCA 유무선공유기는 NAS나 내부망을 활�
     <a href="https://link.coupang.com/a/e1MCWy45wi" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">250,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
+
+    <path d="M 68 134 L 90 134 L 111 134 L 133 134 L 155 134 L 176 134 L 198 134 L 220 134 L 241 134 L 263 134 L 285 134 L 306 134 L 328 134 L 350 134 L 371 134 L 393 134 L 415 134 L 436 134 L 458 134 L 480 134 L 501 134 L 523 134 L 545 134 L 566 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 134 L 90 134 L 111 134 L 133 134 L 155 134 L 176 134 L 198 134 L 220 134 L 241 134 L 263 134 L 285 134 L 306 134 L 328 134 L 350 134 L 371 134 L 393 134 L 415 134 L 436 134 L 458 134 L 480 134 L 501 134 L 523 134 L 545 134 L 566 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="545" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="566" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="43" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">239,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 EFM ipTIME BE9400QCA 유무선공유기는 최신 Wi-Fi 7(802.11be) 규격과 모든 유선 포트에서 2.5GbE(2.5기가비트 이더넷)를 지원하는 고성능 유무선공유기입니다. 기존 네트워크 환경을 업그레이드하여 NAS 사용, 고화질 스트리밍, 다수의 기기 연결 시에도 끊김 없이 안정적이고 빠른 속도를 원하는 사용자에게 적합합니다.
