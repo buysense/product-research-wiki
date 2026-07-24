@@ -19,7 +19,7 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
     "price": "49800",
     "url": "https://link.coupang.com/a/eXdTgfWhzg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -74,44 +74,6 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
-
-    <path d="M 68 140 L 88 140 L 108 140 L 128 140 L 148 140 L 168 70 L 188 70 L 208 29 L 228 29 L 248 29 L 268 29 L 288 29 L 308 29 L 328 70 L 348 70 L 368 70 L 388 70 L 408 29 L 428 29 L 448 29 L 468 29 L 488 29 L 508 29 L 528 29 L 548 29 L 568 29 L 588 29 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 88 140 L 108 140 L 128 140 L 148 140 L 168 70 L 188 70 L 208 29 L 228 29 L 248 29 L 268 29 L 288 29 L 308 29 L 328 70 L 348 70 L 368 70 L 388 70 L 408 29 L 428 29 L 448 29 L 468 29 L 488 29 L 508 29 L 528 29 L 548 29 L 568 29 L 588 29" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="168" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="208" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="408" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="29" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="17" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -120,6 +82,45 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
     <a href="https://link.coupang.com/a/eXdTgfWhzg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+
+    <path d="M 68 140 L 87 140 L 107 140 L 126 140 L 145 140 L 164 70 L 184 70 L 203 29 L 222 29 L 241 29 L 261 29 L 280 29 L 299 29 L 318 70 L 338 70 L 357 70 L 376 70 L 395 29 L 415 29 L 434 29 L 453 29 L 472 29 L 492 29 L 511 29 L 530 29 L 549 29 L 569 29 L 588 29 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 87 140 L 107 140 L 126 140 L 145 140 L 164 70 L 184 70 L 203 29 L 222 29 L 241 29 L 261 29 L 280 29 L 299 29 L 318 70 L 338 70 L 357 70 L 376 70 L 395 29 L 415 29 L 434 29 L 453 29 L 472 29 L 492 29 L 511 29 L 530 29 L 549 29 L 569 29 L 588 29" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="145" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="164" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="203" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="318" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="376" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="395" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="29" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="17" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 따뜻한 계절 캐주얼룩이나 다양한 상의와 레이어드하여 활용하기 좋은 민소매 상의입니다. 아일렛 스터드 디테일이 더해져 기본적인 탱크탑에 스타일리시한 포인트를 주며, 일상복뿐만 아니라 휴가지에서 편안하면서도 멋스러운 연출에 적합합니다. 출시연도는 미공개입니다.
