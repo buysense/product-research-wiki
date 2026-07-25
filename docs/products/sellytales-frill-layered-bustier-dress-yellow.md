@@ -19,7 +19,7 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
     "price": "132500",
     "url": "https://link.coupang.com/a/faukkoH7im",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -58,48 +58,6 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
-
-    <path d="M 68 42 L 97 42 L 126 145 L 155 145 L 184 100 L 212 100 L 241 100 L 270 42 L 299 153 L 328 100 L 357 100 L 386 100 L 415 100 L 444 166 L 472 100 L 501 100 L 530 100 L 559 100 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 42 L 97 42 L 126 145 L 155 145 L 184 100 L 212 100 L 241 100 L 270 42 L 299 153 L 328 100 L 357 100 L 386 100 L 415 100 L 444 166 L 472 100 L 501 100 L 530 100 L 559 100 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="97" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="270" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="444" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="559" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="129" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">132,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -108,6 +66,50 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
     <a href="https://link.coupang.com/a/faukkoH7im" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
+
+    <path d="M 68 42 L 95 42 L 123 145 L 150 145 L 177 100 L 205 100 L 232 100 L 260 42 L 287 153 L 314 100 L 342 100 L 369 100 L 396 100 L 424 166 L 451 100 L 479 100 L 506 100 L 533 100 L 561 129 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 42 L 95 42 L 123 145 L 150 145 L 177 100 L 205 100 L 232 100 L 260 42 L 287 153 L 314 100 L 342 100 L 369 100 L 396 100 L 424 166 L 451 100 L 479 100 L 506 100 L 533 100 L 561 129 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="95" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="123" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="150" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="177" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="232" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="260" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="287" cy="153" r="4" fill="#fdba74"></circle>
+    <circle cx="314" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="396" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="424" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="451" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="533" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="561" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="129" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">132,500원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 [셀리테일즈] FRILL LAYERED BUSTIER DRESS_YELLOW는 화사한 옐로우 색상과 프릴 디테일이 돋보이는 뷔스티에 디자인의 원피스입니다. 봄과 여름철 데이트, 여행, 휴가 등 특별한 자리에서 로맨틱하고 발랄한 분위기를 연출하기에 적합하며, 단품으로 입거나 가벼운 이너와 함께 레이어드하여 다양한 스타일링이 가능합니다. 이 제품은 주로 따뜻한 계절의 야외 활동이나 기념일 등의 소비 상황에 잘 어울립니다.
