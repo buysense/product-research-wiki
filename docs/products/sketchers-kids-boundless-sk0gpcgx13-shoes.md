@@ -20,12 +20,12 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
     "price": "40500",
     "url": "https://link.coupang.com/a/e5cvl2EOTQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 119,
+    "reviewCount": 120,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -72,9 +72,17 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 40,500원 · 별점 4.8 · 리뷰 120개</span>
+    <a href="https://link.coupang.com/a/e5cvl2EOTQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -83,45 +91,39 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 60 L 93 60 L 118 26 L 142 60 L 167 60 L 192 60 L 217 60 L 241 60 L 266 60 L 291 26 L 316 60 L 340 60 L 365 60 L 390 60 L 415 26 L 439 26 L 464 26 L 489 129 L 514 129 L 538 129 L 563 26 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 60 L 93 60 L 118 26 L 142 60 L 167 60 L 192 60 L 217 60 L 241 60 L 266 60 L 291 26 L 316 60 L 340 60 L 365 60 L 390 60 L 415 26 L 439 26 L 464 26 L 489 129 L 514 129 L 538 129 L 563 26 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 60 L 92 60 L 115 26 L 139 60 L 163 60 L 186 60 L 210 60 L 233 60 L 257 60 L 281 26 L 304 60 L 328 60 L 352 60 L 375 60 L 399 26 L 423 26 L 446 26 L 470 129 L 493 129 L 517 129 L 541 26 L 564 94 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 60 L 92 60 L 115 26 L 139 60 L 163 60 L 186 60 L 210 60 L 233 60 L 257 60 L 281 26 L 304 60 L 328 60 L 352 60 L 375 60 L 399 26 L 423 26 L 446 26 L 470 129 L 493 129 L 517 129 L 541 26 L 564 94 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="93" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="118" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="266" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="316" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="390" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="464" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="489" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="538" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="563" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="92" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="115" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="139" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="257" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="281" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="375" cy="60" r="4" fill="#fdba74"></circle>
+    <circle cx="399" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="470" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="517" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="541" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="564" cy="94" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="94" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">40,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 40,500원 · 별점 4.8 · 리뷰 119개</span>
-    <a href="https://link.coupang.com/a/e5cvl2EOTQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등학생 아이들이 등교, 학원, 놀이터 활동 등 일상생활에서 편안하고 안전하게 착용할 수 있도록 고안된 경량 운동화입니다. 끈을 묶을 필요 없는 벨크로 또는 슬립온 구조로 아이 혼자서도 쉽게 신고 벗을 수 있으며, 통기성 좋은 메쉬 소재와 가벼운 무게, 쿠션감 있는 밑창이 특징입니다. 기계 세탁이 가능하여 부모의 관리 부담을 덜어줍니다.
@@ -189,7 +191,7 @@ A. 메쉬 소재의 가장 큰 장점은 뛰어난 통기성으로 발에 땀이
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 40,500원 · 별점 4.8 · 리뷰 119개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 40,500원 · 별점 4.8 · 리뷰 120개</span>
     <a href="https://link.coupang.com/a/e5cvl2EOTQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
