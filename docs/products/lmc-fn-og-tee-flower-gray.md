@@ -19,7 +19,7 @@ description: LMC FN OG TEE flower gray는 일상 캐주얼 및 스트릿웨어 �
     "price": "36800",
     "url": "https://link.coupang.com/a/eOV9iPVLFs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -84,6 +84,14 @@ description: LMC FN OG TEE flower gray는 일상 캐주얼 및 스트릿웨어 �
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 41,500원</span>
+    <a href="https://link.coupang.com/a/eOV9iPVLFs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -95,48 +103,40 @@ description: LMC FN OG TEE flower gray는 일상 캐주얼 및 스트릿웨어 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 96 L 86 96 L 104 26 L 122 26 L 140 26 L 158 77 L 176 77 L 194 51 L 211 51 L 229 31 L 247 31 L 265 31 L 283 31 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 53 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 114 L 588 114 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 96 L 86 96 L 104 26 L 122 26 L 140 26 L 158 77 L 176 77 L 194 51 L 211 51 L 229 31 L 247 31 L 265 31 L 283 31 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 53 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 114 L 588 114" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 96 L 86 26 L 104 26 L 122 26 L 140 77 L 158 77 L 176 51 L 194 51 L 211 31 L 229 31 L 247 31 L 265 31 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 53 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 114 L 570 114 L 588 114 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 96 L 86 26 L 104 26 L 122 26 L 140 77 L 158 77 L 176 51 L 194 51 L 211 31 L 229 31 L 247 31 L 265 31 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 53 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 114 L 570 114 L 588 114" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="77" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="77" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="51" r="4" fill="#fdba74"></circle>
     <circle cx="194" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="31" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="31" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="31" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="31" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="114" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="114" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="102" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 41,500원</span>
-    <a href="https://link.coupang.com/a/eOV9iPVLFs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 LMC FN OG TEE flower gray는 일상적인 캐주얼 착용 및 스트릿웨어 스타일 연출에 적합한 그래픽 티셔츠입니다. 면 100% 소재로 편안한 착용감을 제공하며, 전면의 플라워 그래픽 디자인이 특징입니다. 다양한 하의와 매치하여 개성 있는 데일리룩을 완성하고자 할 때 주로 선택됩니다.
