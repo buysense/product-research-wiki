@@ -181,44 +181,44 @@ description: 캘빈클라인 CK be 오드뚜왈렛은 1996년 출시된 남녀 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 132 L 86 119 L 104 119 L 122 119 L 140 119 L 158 97 L 176 84 L 194 80 L 211 132 L 229 132 L 247 132 L 265 80 L 283 80 L 301 80 L 319 80 L 337 43 L 355 43 L 373 43 L 391 43 L 409 69 L 427 26 L 445 67 L 462 80 L 480 80 L 498 80 L 516 119 L 534 119 L 552 133 L 570 133 L 588 133 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 132 L 86 119 L 104 119 L 122 119 L 140 119 L 158 97 L 176 84 L 194 80 L 211 132 L 229 132 L 247 132 L 265 80 L 283 80 L 301 80 L 319 80 L 337 43 L 355 43 L 373 43 L 391 43 L 409 69 L 427 26 L 445 67 L 462 80 L 480 80 L 498 80 L 516 119 L 534 119 L 552 133 L 570 133 L 588 133" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="97" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="80" r="4" fill="#fdba74"></circle>
+    <path d="M 68 119 L 86 119 L 104 119 L 122 119 L 140 97 L 158 84 L 176 80 L 194 132 L 211 132 L 229 132 L 247 80 L 265 80 L 283 80 L 301 80 L 319 43 L 337 43 L 355 43 L 373 43 L 391 69 L 409 26 L 427 67 L 445 80 L 462 80 L 480 80 L 498 119 L 516 119 L 534 133 L 552 133 L 570 133 L 588 133 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 119 L 86 119 L 104 119 L 122 119 L 140 97 L 158 84 L 176 80 L 194 132 L 211 132 L 229 132 L 247 80 L 265 80 L 283 80 L 301 80 L 319 43 L 337 43 L 355 43 L 373 43 L 391 69 L 409 26 L 427 67 L 445 80 L 462 80 L 480 80 L 498 119 L 516 119 L 534 133 L 552 133 L 570 133 L 588 133" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="97" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="119" r="4" fill="#fdba74"></circle>
     <circle cx="516" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="133" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="133" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="133" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="121" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,590원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 
