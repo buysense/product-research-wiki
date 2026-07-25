@@ -19,7 +19,7 @@ description: 유희 그래픽 와플 후드 집업 YHHZGA002는 캐주얼하고 
     "price": "47300",
     "url": "https://link.coupang.com/a/fnIs8uxzq0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -40,42 +40,6 @@ description: 유희 그래픽 와플 후드 집업 YHHZGA002는 캐주얼하고 
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
-
-    <path d="M 68 154 L 126 76 L 184 76 L 241 76 L 299 160 L 357 160 L 415 160 L 472 76 L 530 76 L 588 67 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 154 L 126 76 L 184 76 L 241 76 L 299 160 L 357 160 L 415 160 L 472 76 L 530 76 L 588 67" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="160" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="160" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="67" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="55" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">47,300원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -84,6 +48,44 @@ description: 유희 그래픽 와플 후드 집업 YHHZGA002는 캐주얼하고 
     <a href="https://link.coupang.com/a/fnIs8uxzq0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 11개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+
+    <path d="M 68 154 L 120 76 L 172 76 L 224 76 L 276 160 L 328 160 L 380 160 L 432 76 L 484 76 L 536 67 L 588 67 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 154 L 120 76 L 172 76 L 224 76 L 276 160 L 328 160 L 380 160 L 432 76 L 484 76 L 536 67 L 588 67" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="120" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="224" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="160" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="160" r="4" fill="#fdba74"></circle>
+    <circle cx="432" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="536" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="67" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="55" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">47,300원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 YOUHEE 유희 GRAPHIC WAFFLE HOOD ZIP-UP YHHZGA002 1446019는 편안한 착용감과 개성 있는 그래픽 디자인이 특징인 후드 집업 제품입니다. 일상생활에서 가볍게 걸치거나, 간절기 아우터 또는 실내 활동 시 편안하게 입기에 적합합니다. 다양한 캐주얼 스타일에 활용할 수 있어 활용도가 높습니다. 출시연도는 미공개입니다.
