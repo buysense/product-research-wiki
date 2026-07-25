@@ -20,7 +20,7 @@ description: 꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 
     "price": "44900",
     "url": "https://link.coupang.com/a/dTYN0uDfY4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -176,42 +176,42 @@ description: 꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 66 L 86 70 L 104 70 L 122 70 L 140 66 L 158 76 L 176 72 L 194 71 L 211 73 L 229 74 L 247 74 L 265 74 L 283 74 L 301 74 L 319 68 L 337 68 L 355 68 L 373 129 L 391 61 L 409 61 L 427 61 L 445 61 L 462 61 L 480 61 L 498 61 L 516 61 L 534 138 L 552 138 L 570 83 L 588 83 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 66 L 86 70 L 104 70 L 122 70 L 140 66 L 158 76 L 176 72 L 194 71 L 211 73 L 229 74 L 247 74 L 265 74 L 283 74 L 301 74 L 319 68 L 337 68 L 355 68 L 373 129 L 391 61 L 409 61 L 427 61 L 445 61 L 462 61 L 480 61 L 498 61 L 516 61 L 534 138 L 552 138 L 570 83 L 588 83" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="61" r="4" fill="#fdba74"></circle>
+    <path d="M 68 70 L 86 70 L 104 70 L 122 66 L 140 76 L 158 72 L 176 71 L 194 73 L 211 74 L 229 74 L 247 74 L 265 74 L 283 74 L 301 68 L 319 68 L 337 68 L 355 129 L 373 61 L 391 61 L 409 61 L 427 61 L 445 61 L 462 61 L 480 61 L 498 61 L 516 138 L 534 138 L 552 83 L 570 83 L 588 83 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 70 L 86 70 L 104 70 L 122 66 L 140 76 L 158 72 L 176 71 L 194 73 L 211 74 L 229 74 L 247 74 L 265 74 L 283 74 L 301 68 L 319 68 L 337 68 L 355 129 L 373 61 L 391 61 L 409 61 L 427 61 L 445 61 L 462 61 L 480 61 L 498 61 L 516 138 L 534 138 L 552 83 L 570 83 L 588 83" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="138" r="4" fill="#fdba74"></circle>
     <circle cx="534" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="83" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="83" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="71" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">44,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 
