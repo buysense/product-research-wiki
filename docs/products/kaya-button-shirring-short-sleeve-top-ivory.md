@@ -19,7 +19,7 @@ description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivor
     "price": "97700",
     "url": "https://link.coupang.com/a/eYRe9Fyb5E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -72,46 +72,6 @@ description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivor
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
-
-    <path d="M 68 26 L 89 26 L 110 88 L 130 88 L 151 88 L 172 88 L 193 64 L 214 109 L 234 81 L 255 81 L 276 64 L 297 151 L 318 111 L 338 111 L 359 111 L 380 111 L 401 111 L 422 111 L 442 111 L 463 111 L 484 111 L 505 111 L 526 111 L 546 111 L 567 111 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 89 26 L 110 88 L 130 88 L 151 88 L 172 88 L 193 64 L 214 109 L 234 81 L 255 81 L 276 64 L 297 151 L 318 111 L 338 111 L 359 111 L 380 111 L 401 111 L 422 111 L 442 111 L 463 111 L 484 111 L 505 111 L 526 111 L 546 111 L 567 111 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="193" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="234" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="297" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="111" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">97,700원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -120,6 +80,47 @@ description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivor
     <a href="https://link.coupang.com/a/eYRe9Fyb5E" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
+
+    <path d="M 68 26 L 88 26 L 108 88 L 128 88 L 148 88 L 168 88 L 188 64 L 208 109 L 228 81 L 248 81 L 268 64 L 288 151 L 308 111 L 328 111 L 348 111 L 368 111 L 388 111 L 408 111 L 428 111 L 448 111 L 468 111 L 488 111 L 508 111 L 528 111 L 548 111 L 568 111 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 88 26 L 108 88 L 128 88 L 148 88 L 168 88 L 188 64 L 208 109 L 228 81 L 248 81 L 268 64 L 288 151 L 308 111 L 328 111 L 348 111 L 368 111 L 388 111 L 408 111 L 428 111 L 448 111 L 468 111 L 488 111 L 508 111 L 528 111 L 548 111 L 568 111 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="88" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="168" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="208" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="228" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="248" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="288" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="111" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">97,700원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory)는 자연스러운 핏과 섬세한 셔링 디테일이 돋보이는 아이보리 색상의 반소매 상의입니다. 편안하면서도 스타일리시한 디자인으로, 여름철 데일리룩, 캐주얼한 오피스룩, 혹은 가벼운 외출 시 활용하기에 적합합니다. 출시연도는 미공개입니다.
