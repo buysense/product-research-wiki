@@ -20,7 +20,7 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
     "price": "22910",
     "url": "https://link.coupang.com/a/e498fd5u7E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -72,39 +72,6 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">23,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
-
-    <path d="M 68 76 L 93 26 L 118 26 L 142 109 L 167 109 L 192 109 L 217 109 L 241 109 L 266 109 L 291 109 L 316 109 L 340 109 L 365 109 L 390 109 L 415 109 L 439 109 L 464 109 L 489 109 L 514 109 L 538 109 L 563 109 L 588 109 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 76 L 93 26 L 118 26 L 142 109 L 167 109 L 192 109 L 217 109 L 241 109 L 266 109 L 291 109 L 316 109 L 340 109 L 365 109 L 390 109 L 415 109 L 439 109 L 464 109 L 489 109 L 514 109 L 538 109 L 563 109 L 588 109" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="93" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="118" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="109" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="97" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,910원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -113,6 +80,40 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
     <a href="https://link.coupang.com/a/e498fd5u7E" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">23,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
+
+    <path d="M 68 76 L 92 26 L 115 26 L 139 109 L 163 109 L 186 109 L 210 109 L 233 109 L 257 109 L 281 109 L 304 109 L 328 109 L 352 109 L 375 109 L 399 109 L 423 109 L 446 109 L 470 109 L 493 109 L 517 109 L 541 109 L 564 109 L 588 109 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 76 L 92 26 L 115 26 L 139 109 L 163 109 L 186 109 L 210 109 L 233 109 L 257 109 L 281 109 L 304 109 L 328 109 L 352 109 L 375 109 L 399 109 L 423 109 L 446 109 L 470 109 L 493 109 L 517 109 L 541 109 L 564 109 L 588 109" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="92" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="115" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="139" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="109" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="97" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,910원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 네스틱 원플레이트 유아식판은 돌아기부터 유아식으로 전환하는 아이들을 위해 설계된 식판입니다. BPA Free 및 SGS 인증을 받은 안전한 소재와 분리형 칸 구성이 특징이며, 전자레인지 및 식기세척기 사용이 가능하여 간편한 식사 준비와 위생 관리에 도움을 줍니다. 특히 '뿐이이유식' 책에서 활용된 식판으로도 알려져 있어, 토핑 이유식이나 다양한 반찬을 담는 용도로 많은 부모들에게 주목받고 있습니다.
