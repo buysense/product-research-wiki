@@ -20,7 +20,7 @@ description: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 독특
     "price": "70190",
     "url": "https://link.coupang.com/a/eYQsTmQGQe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -73,36 +73,6 @@ description: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 독특
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">70,300</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">70,200</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">70,100</text>
-
-    <path d="M 68 110 L 89 110 L 110 110 L 130 110 L 151 110 L 172 110 L 193 110 L 214 110 L 234 110 L 255 110 L 276 110 L 297 110 L 318 110 L 338 110 L 359 110 L 380 110 L 401 110 L 422 110 L 442 110 L 463 110 L 484 110 L 505 110 L 526 110 L 546 110 L 567 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 89 110 L 110 110 L 130 110 L 151 110 L 172 110 L 193 110 L 214 110 L 234 110 L 255 110 L 276 110 L 297 110 L 318 110 L 338 110 L 359 110 L 380 110 L 401 110 L 422 110 L 442 110 L 463 110 L 484 110 L 505 110 L 526 110 L 546 110 L 567 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">70,190원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -111,6 +81,37 @@ description: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 독특
     <a href="https://link.coupang.com/a/eYQsTmQGQe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">70,300</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">70,200</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">70,100</text>
+
+    <path d="M 68 110 L 88 110 L 108 110 L 128 110 L 148 110 L 168 110 L 188 110 L 208 110 L 228 110 L 248 110 L 268 110 L 288 110 L 308 110 L 328 110 L 348 110 L 368 110 L 388 110 L 408 110 L 428 110 L 448 110 L 468 110 L 488 110 L 508 110 L 528 110 L 548 110 L 568 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 88 110 L 108 110 L 128 110 L 148 110 L 168 110 L 188 110 L 208 110 L 228 110 L 248 110 L 268 110 L 288 110 L 308 110 L 328 110 L 348 110 L 368 110 L 388 110 L 408 110 L 428 110 L 448 110 L 468 110 L 488 110 L 508 110 L 528 110 L 548 110 L 568 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">70,190원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 한쪽 어깨를 드러내는 비대칭 원숄더 디자인과 어깨 스트랩의 꼬임 디테일이 돋보이는 티셔츠입니다. 캐주얼하면서도 특별한 분위기를 연출하여, 일상적인 외출복은 물론 휴가지나 특별한 날의 스타일링 포인트로 활용하기 좋습니다. 2023년 출시된 제품으로, 단품만으로도 세련된 인상을 줍니다.
