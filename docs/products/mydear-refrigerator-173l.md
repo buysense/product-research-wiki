@@ -20,12 +20,12 @@ description: 마이디어 냉장고 173L은 1인 가구, 원룸 또는 서브 �
     "price": "259000",
     "url": "https://link.coupang.com/a/e23f8W99FY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 1065,
+    "reviewCount": 1069,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -74,9 +74,17 @@ description: 마이디어 냉장고 173L은 1인 가구, 원룸 또는 서브 �
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 259,000원 · 별점 4.5 · 리뷰 1,069개</span>
+    <a href="https://link.coupang.com/a/e23f8W99FY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -85,36 +93,29 @@ description: 마이디어 냉장고 173L은 1인 가구, 원룸 또는 서브 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">240,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">220,000</text>
 
-    <path d="M 68 153 L 92 153 L 115 153 L 139 153 L 163 153 L 186 153 L 210 153 L 233 153 L 257 153 L 281 153 L 304 153 L 328 153 L 352 153 L 375 81 L 399 30 L 423 30 L 446 30 L 470 30 L 493 30 L 517 30 L 541 30 L 564 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 153 L 92 153 L 115 153 L 139 153 L 163 153 L 186 153 L 210 153 L 233 153 L 257 153 L 281 153 L 304 153 L 328 153 L 352 153 L 375 81 L 399 30 L 423 30 L 446 30 L 470 30 L 493 30 L 517 30 L 541 30 L 564 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 153 L 91 153 L 113 153 L 136 153 L 158 153 L 181 153 L 204 153 L 226 153 L 249 153 L 271 153 L 294 153 L 317 153 L 339 153 L 362 81 L 385 30 L 407 30 L 430 30 L 452 30 L 475 30 L 498 30 L 520 30 L 543 30 L 565 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 153 L 91 153 L 113 153 L 136 153 L 158 153 L 181 153 L 204 153 L 226 153 L 249 153 L 271 153 L 294 153 L 317 153 L 339 153 L 362 81 L 385 30 L 407 30 L 430 30 L 452 30 L 475 30 L 498 30 L 520 30 L 543 30 L 565 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="339" cy="153" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="385" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="30" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">259,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 259,000원 · 별점 4.5 · 리뷰 1,065개</span>
-    <a href="https://link.coupang.com/a/e23f8W99FY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 마이디어 냉장고 173L은 1인 가구, 원룸 거주자 또는 소규모 사무실에서 개인용 냉장고로 활용하기 적합한 제품입니다. 메인 냉장고 외에 음료나 간식을 보관하는 서브 냉장고로도 유용하게 사용되며, 효율적인 공간 활용과 필수적인 냉장/냉동 기능을 제공합니다. 출시연도는 미공개입니다.
@@ -182,7 +183,7 @@ A. 제품은 저소음 설계를 적용했으나, 모든 냉장고는 작동 시
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 259,000원 · 별점 4.5 · 리뷰 1,065개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 259,000원 · 별점 4.5 · 리뷰 1,069개</span>
     <a href="https://link.coupang.com/a/e23f8W99FY" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
