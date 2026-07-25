@@ -20,7 +20,7 @@ description: 자연지감 프리미엄 온명란 백명란 저염명란젓 소�
     "price": "37700",
     "url": "https://link.coupang.com/a/fl4PdBAhvo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,36 +52,6 @@ description: 자연지감 프리미엄 온명란 백명란 저염명란젓 소�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">37,800</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">37,700</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">37,600</text>
-
-    <path d="M 68 102 L 115 102 L 163 102 L 210 102 L 257 102 L 304 102 L 352 102 L 399 102 L 446 102 L 493 102 L 541 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 115 102 L 163 102 L 210 102 L 257 102 L 304 102 L 352 102 L 399 102 L 446 102 L 493 102 L 541 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">37,700원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -90,6 +60,37 @@ description: 자연지감 프리미엄 온명란 백명란 저염명란젓 소�
     <a href="https://link.coupang.com/a/fl4PdBAhvo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">37,800</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">37,700</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">37,600</text>
+
+    <path d="M 68 102 L 111 102 L 155 102 L 198 102 L 241 102 L 285 102 L 328 102 L 371 102 L 415 102 L 458 102 L 501 102 L 545 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 111 102 L 155 102 L 198 102 L 241 102 L 285 102 L 328 102 L 371 102 L 415 102 L 458 102 L 501 102 L 545 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">37,700원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 자연지감 프리미엄 온명란 백명란 저염명란젓 소분포장은 신선한 통백명란을 저염 방식으로 가공하고 개별 포장하여 위생과 편리함을 높인 제품입니다. 밥반찬은 물론 파스타, 김밥, 명란 크림우동 등 다양한 요리에 활용하기 좋으며, 비린 맛 없이 담백하고 깔끔한 맛이 특징입니다. 가족 식사를 준비하는 주부나 간편하게 명란젓을 즐기고 싶은 1~2인 가구에게 적합합니다.
