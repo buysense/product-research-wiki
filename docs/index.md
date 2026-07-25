@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 샌드뮤지엄 SAND MUSEUM HOWDY BAG Pearl Pink | [보기](products/sandmuseum-howdy-bag-pearl-pink.md) |
 | 디엘라 여성숄더백 버킷백 | [보기](products/diella-women-shoulder-bucket-bag.md) |
 | GLOWNY 글로니 G SLIM TEE | [보기](products/glowny-g-slim-tee.md) |
 | [플리즈노팔로우] Riri Leopard Lace Top (Pink/Grey) | [보기](products/pleaseno-riri-leopard-lace-top.md) |
