@@ -19,7 +19,7 @@ description: 락케이크 슬로건 메쉬 탑 블랙은 시원하고 통기성�
     "price": "77900",
     "url": "https://link.coupang.com/a/fgUAeg8tvE",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -50,38 +50,6 @@ description: 락케이크 슬로건 메쉬 탑 블랙은 시원하고 통기성�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">85,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">75,000</text>
-
-    <path d="M 68 26 L 105 26 L 142 26 L 179 26 L 217 26 L 254 134 L 291 134 L 328 134 L 365 134 L 402 134 L 439 134 L 477 134 L 514 134 L 551 134 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 105 26 L 142 26 L 179 26 L 217 26 L 254 134 L 291 134 L 328 134 L 365 134 L 402 134 L 439 134 L 477 134 L 514 134 L 551 134 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="254" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="134" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="122" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">77,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -90,6 +58,39 @@ description: 락케이크 슬로건 메쉬 탑 블랙은 시원하고 통기성�
     <a href="https://link.coupang.com/a/fgUAeg8tvE" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">85,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">75,000</text>
+
+    <path d="M 68 26 L 103 26 L 137 26 L 172 26 L 207 26 L 241 134 L 276 134 L 311 134 L 345 134 L 380 134 L 415 134 L 449 134 L 484 134 L 519 134 L 553 134 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 103 26 L 137 26 L 172 26 L 207 26 L 241 134 L 276 134 L 311 134 L 345 134 L 380 134 L 415 134 L 449 134 L 484 134 L 519 134 L 553 134 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="207" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="134" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="122" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">77,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 락케이크 ROCKCE Slogan Mesh Top - Black RC26TP28500BK 1108538은 통기성이 뛰어난 메쉬 소재로 제작된 상의로, 시원하고 가벼운 착용감이 특징입니다. 슬로건 디테일이 더해져 개성을 표현하기 좋으며, 주로 일상적인 캐주얼룩, 활동량이 많은 애슬레저룩, 또는 다양한 옷차림에 레이어드하여 스타일링할 때 적합합니다. 출시연도는 미공개입니다.
