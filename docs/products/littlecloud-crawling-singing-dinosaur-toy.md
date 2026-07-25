@@ -20,7 +20,7 @@ description: 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난�
     "price": "17000",
     "url": "https://link.coupang.com/a/dVOgWAcFAO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -174,40 +174,40 @@ description: 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 68 L 86 68 L 104 96 L 122 96 L 140 96 L 158 109 L 176 109 L 194 109 L 211 109 L 229 109 L 247 109 L 265 145 L 283 105 L 301 105 L 319 105 L 337 105 L 355 151 L 373 105 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 143 L 516 143 L 534 143 L 552 140 L 570 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 68 L 86 68 L 104 96 L 122 96 L 140 96 L 158 109 L 176 109 L 194 109 L 211 109 L 229 109 L 247 109 L 265 145 L 283 105 L 301 105 L 319 105 L 337 105 L 355 151 L 373 105 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 143 L 516 143 L 534 143 L 552 140 L 570 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 68 L 86 96 L 104 96 L 122 96 L 140 109 L 158 109 L 176 109 L 194 109 L 211 109 L 229 109 L 247 145 L 265 105 L 283 105 L 301 105 L 319 105 L 337 151 L 355 105 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 143 L 498 143 L 516 143 L 534 140 L 552 140 L 570 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 68 L 86 96 L 104 96 L 122 96 L 140 109 L 158 109 L 176 109 L 194 109 L 211 109 L 229 109 L 247 145 L 265 105 L 283 105 L 301 105 L 319 105 L 337 151 L 355 105 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 143 L 498 143 L 516 143 L 534 140 L 552 140 L 570 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="96" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="96" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 
