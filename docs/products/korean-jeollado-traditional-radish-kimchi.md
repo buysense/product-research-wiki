@@ -19,12 +19,12 @@ description: 국내산 전라도식 전통 열무김치는 HACCP 인증을 받�
     "price": "7840",
     "url": "https://link.coupang.com/a/eVynaeVP7k",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.3,
-    "reviewCount": 12362,
+    "reviewCount": 12414,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -83,9 +83,17 @@ description: 국내산 전라도식 전통 열무김치는 HACCP 인증을 받�
 
 
 
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,840원 · 별점 4.3 · 리뷰 12,414개</span>
+    <a href="https://link.coupang.com/a/eVynaeVP7k" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -94,42 +102,35 @@ description: 국내산 전라도식 전통 열무김치는 HACCP 인증을 받�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
 
-    <path d="M 68 95 L 87 95 L 107 95 L 126 95 L 145 95 L 164 95 L 184 95 L 203 95 L 222 95 L 241 29 L 261 99 L 280 99 L 299 99 L 318 99 L 338 99 L 357 99 L 376 99 L 395 29 L 415 29 L 434 105 L 453 105 L 472 105 L 492 105 L 511 105 L 530 108 L 549 108 L 569 108 L 588 108 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 95 L 87 95 L 107 95 L 126 95 L 145 95 L 164 95 L 184 95 L 203 95 L 222 95 L 241 29 L 261 99 L 280 99 L 299 99 L 318 99 L 338 99 L 357 99 L 376 99 L 395 29 L 415 29 L 434 105 L 453 105 L 472 105 L 492 105 L 511 105 L 530 108 L 549 108 L 569 108 L 588 108" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 95 L 87 95 L 105 95 L 124 95 L 142 95 L 161 95 L 179 95 L 198 95 L 217 95 L 235 29 L 254 99 L 272 99 L 291 99 L 309 99 L 328 99 L 347 99 L 365 99 L 384 29 L 402 29 L 421 105 L 439 105 L 458 105 L 477 105 L 495 105 L 514 108 L 532 108 L 551 108 L 569 108 L 588 108 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 95 L 87 95 L 105 95 L 124 95 L 142 95 L 161 95 L 179 95 L 198 95 L 217 95 L 235 29 L 254 99 L 272 99 L 291 99 L 309 99 L 328 99 L 347 99 L 365 99 L 384 29 L 402 29 L 421 105 L 439 105 L 458 105 L 477 105 L 495 105 L 514 108 L 532 108 L 551 108 L 569 108 L 588 108" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="222" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="261" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="376" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="395" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="434" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="511" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="235" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="254" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="365" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="384" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="402" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="421" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="495" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="108" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="108" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="96" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,840원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,840원 · 별점 4.3 · 리뷰 12,362개</span>
-    <a href="https://link.coupang.com/a/eVynaeVP7k" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 
 ## 상품 개요
 국내산 전라도식 전통 열무김치는 HACCP 인증 시설에서 국내산 열무와 고춧가루 등 엄선된 재료로 만들어진 열무김치입니다. 직접 열무김치를 담그기 어려운 주부나 대가족의 여름철 별미 반찬으로 적합하며, 입맛이 없을 때 비빔밥, 국수, 짜파게티 등에 곁들여 활용하기 좋습니다.
@@ -199,7 +200,7 @@ A. 3kg은 2인 가구 기준으로는 다소 많은 양으로 느껴질 수 있�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,840원 · 별점 4.3 · 리뷰 12,362개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,840원 · 별점 4.3 · 리뷰 12,414개</span>
     <a href="https://link.coupang.com/a/eVynaeVP7k" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
