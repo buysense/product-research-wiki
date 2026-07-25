@@ -20,7 +20,7 @@ description: LG전자 오브제컬렉션 215L 냉장고는 1~2인 가구, 자취
     "price": "428440",
     "url": "https://link.coupang.com/a/eTexav66SW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -105,39 +105,41 @@ description: LG전자 오브제컬렉션 215L 냉장고는 1~2인 가구, 자취
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">440,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">420,000</text>
 
-    <path d="M 68 151 L 86 151 L 104 151 L 122 151 L 140 151 L 158 151 L 176 101 L 194 36 L 211 73 L 229 73 L 247 110 L 265 80 L 283 80 L 301 64 L 319 159 L 337 159 L 355 159 L 373 159 L 391 159 L 409 159 L 427 159 L 445 159 L 462 159 L 480 159 L 498 159 L 516 64 L 534 162 L 552 162 L 570 162 L 588 146 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 151 L 86 151 L 104 151 L 122 151 L 140 151 L 158 151 L 176 101 L 194 36 L 211 73 L 229 73 L 247 110 L 265 80 L 283 80 L 301 64 L 319 159 L 337 159 L 355 159 L 373 159 L 391 159 L 409 159 L 427 159 L 445 159 L 462 159 L 480 159 L 498 159 L 516 64 L 534 162 L 552 162 L 570 162 L 588 146" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 151 L 86 151 L 104 151 L 122 151 L 140 151 L 158 101 L 176 36 L 194 73 L 211 73 L 229 110 L 247 80 L 265 80 L 283 64 L 301 159 L 319 159 L 337 159 L 355 159 L 373 159 L 391 159 L 409 159 L 427 159 L 445 159 L 462 159 L 480 159 L 498 64 L 516 162 L 534 162 L 552 162 L 570 146 L 588 146 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 151 L 86 151 L 104 151 L 122 151 L 140 151 L 158 101 L 176 36 L 194 73 L 211 73 L 229 110 L 247 80 L 265 80 L 283 64 L 301 159 L 319 159 L 337 159 L 355 159 L 373 159 L 391 159 L 409 159 L 427 159 L 445 159 L 462 159 L 480 159 L 498 64 L 516 162 L 534 162 L 552 162 L 570 146 L 588 146" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="211" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="80" r="4" fill="#fdba74"></circle>
     <circle cx="265" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="146" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="146" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="134" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">428,440원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 ## 상품 개요
