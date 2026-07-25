@@ -19,7 +19,7 @@ description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는
     "price": "48700",
     "url": "https://link.coupang.com/a/fun277NGQ8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -34,35 +34,6 @@ description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
-
-    <path d="M 68 50 L 155 50 L 241 50 L 328 122 L 415 122 L 501 122 L 588 122 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 50 L 155 50 L 241 50 L 328 122 L 415 122 L 501 122 L 588 122" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="122" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="110" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">48,700원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -71,6 +42,37 @@ description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는
     <a href="https://link.coupang.com/a/fun277NGQ8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 8개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
+
+    <path d="M 68 50 L 142 50 L 217 50 L 291 122 L 365 122 L 439 122 L 514 122 L 588 122 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 50 L 142 50 L 217 50 L 291 122 L 365 122 L 439 122 L 514 122 L 588 122" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="217" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="122" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="110" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">48,700원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는 섬세한 레이스 디테일이 돋보이는 민소매 상의로, 단독으로 입거나 다양한 상의와 레이어드하여 활용하기 좋습니다. 시스루 디자인이 더해져 여성스러운 스타일을 연출할 때, 또는 특별한 날 이너웨어로 분위기를 더하고 싶을 때 선택됩니다. 2023년에 출시된 이 제품은 여름철 가벼운 외출복이나 리조트룩, 데이트룩 등 다양한 상황에서 착용하기 적합합니다.
