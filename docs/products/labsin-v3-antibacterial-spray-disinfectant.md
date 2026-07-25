@@ -17,15 +17,15 @@ description: 랩신 V3 항균 스프레이 살균제는 문손잡이, 식탁, �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "14200",
+    "price": "14300",
     "url": "https://link.coupang.com/a/fb7ZUNhXJk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 24205,
+    "reviewCount": 24235,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -64,50 +64,52 @@ description: 랩신 V3 항균 스프레이 살균제는 문손잡이, 식탁, �
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,500</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
-
-    <path d="M 68 26 L 99 26 L 129 26 L 160 26 L 190 26 L 221 135 L 252 135 L 282 26 L 313 26 L 343 26 L 374 26 L 404 26 L 435 26 L 466 26 L 496 26 L 527 26 L 557 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 99 26 L 129 26 L 160 26 L 190 26 L 221 135 L 252 135 L 282 26 L 313 26 L 343 26 L 374 26 L 404 26 L 435 26 L 466 26 L 496 26 L 527 26 L 557 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="99" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="129" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="190" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="221" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="252" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="282" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,200원 · 별점 4.8 · 리뷰 24,205개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,300원 · 별점 4.8 · 리뷰 24,235개</span>
     <a href="https://link.coupang.com/a/fb7ZUNhXJk" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
+
+    <path d="M 68 87 L 97 94 L 126 87 L 155 87 L 184 87 L 212 157 L 241 157 L 270 87 L 299 87 L 328 87 L 357 87 L 386 87 L 415 87 L 444 87 L 472 87 L 501 87 L 530 87 L 559 87 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 87 L 97 94 L 126 87 L 155 87 L 184 87 L 212 157 L 241 157 L 270 87 L 299 87 L 328 87 L 357 87 L 386 87 L 415 87 L 444 87 L 472 87 L 501 87 L 530 87 L 559 87 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="97" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="212" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="270" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="559" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="79" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,300원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 랩신 V3 항균 스프레이 살균제는 신생아가 있는 가정, 아이를 키우는 집, 반려동물과 함께 생활하는 공간 등 위생 관리에 신경 쓰는 상황에서 문손잡이, 식탁, 아기용품, 장난감 등 손이 자주 닿는 곳을 간편하게 소독하고 관리하는 데 도움을 주는 제품입니다. 빠르고 고른 분사력과 끈적임 없는 사용감이 특징으로, 일상생활 속 다양한 표면의 위생 관리에 활용됩니다.
@@ -174,7 +176,7 @@ A. 인위적인 향료가 거의 사용되지 않아 알코올 특유의 깔끔�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,200원 · 별점 4.8 · 리뷰 24,205개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,300원 · 별점 4.8 · 리뷰 24,235개</span>
     <a href="https://link.coupang.com/a/fb7ZUNhXJk" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
