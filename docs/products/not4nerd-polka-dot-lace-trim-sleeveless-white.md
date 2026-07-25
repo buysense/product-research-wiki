@@ -19,7 +19,7 @@ description: NOT4NERD W 폴카 도트 레이스 트림 슬리브리스 화이트
     "price": "56200",
     "url": "https://link.coupang.com/a/e6T7t3k0zI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -62,36 +62,6 @@ description: NOT4NERD W 폴카 도트 레이스 트림 슬리브리스 화이트
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">56,300</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">56,200</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">56,100</text>
-
-    <path d="M 68 102 L 94 102 L 120 102 L 146 102 L 172 102 L 198 102 L 224 102 L 250 102 L 276 102 L 302 102 L 328 102 L 354 102 L 380 102 L 406 102 L 432 102 L 458 102 L 484 102 L 510 102 L 536 102 L 562 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 94 102 L 120 102 L 146 102 L 172 102 L 198 102 L 224 102 L 250 102 L 276 102 L 302 102 L 328 102 L 354 102 L 380 102 L 406 102 L 432 102 L 458 102 L 484 102 L 510 102 L 536 102 L 562 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">56,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -100,6 +70,37 @@ description: NOT4NERD W 폴카 도트 레이스 트림 슬리브리스 화이트
     <a href="https://link.coupang.com/a/e6T7t3k0zI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">56,300</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">56,200</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">56,100</text>
+
+    <path d="M 68 102 L 93 102 L 118 102 L 142 102 L 167 102 L 192 102 L 217 102 L 241 102 L 266 102 L 291 102 L 316 102 L 340 102 L 365 102 L 390 102 L 415 102 L 439 102 L 464 102 L 489 102 L 514 102 L 538 102 L 563 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 93 102 L 118 102 L 142 102 L 167 102 L 192 102 L 217 102 L 241 102 L 266 102 L 291 102 L 316 102 L 340 102 L 365 102 L 390 102 L 415 102 L 439 102 L 464 102 L 489 102 L 514 102 L 538 102 L 563 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">56,200원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 NOT4NERD W Polka Dot Lace Trim Sleeveless - White는 여성스러운 폴카 도트 패턴과 섬세한 레이스 트림이 특징인 민소매 탑입니다. 일상적인 캐주얼룩부터 데이트룩, 또는 정장 안에 이너로 활용하여 다양한 분위기를 연출할 수 있습니다. 여름철 단독 착용이나 간절기 카디건, 재킷 안에 레이어드하여 활용하기 적합하며, 미공개된 연도에 출시되었습니다.
