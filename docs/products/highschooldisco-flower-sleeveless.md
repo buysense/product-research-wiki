@@ -19,7 +19,7 @@ description: 하이스쿨디스코 플라워 슬리브리스는 다채로운 꽃
     "price": "37200",
     "url": "https://link.coupang.com/a/e5sW4XEOzY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "priceValidUntil": "2026-08-01"
   }
 }
 </script>
@@ -64,36 +64,6 @@ description: 하이스쿨디스코 플라워 슬리브리스는 다채로운 꽃
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">37,300</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">37,200</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">37,100</text>
-
-    <path d="M 68 102 L 93 102 L 118 102 L 142 102 L 167 102 L 192 102 L 217 102 L 241 102 L 266 102 L 291 102 L 316 102 L 340 102 L 365 102 L 390 102 L 415 102 L 439 102 L 464 102 L 489 102 L 514 102 L 538 102 L 563 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 93 102 L 118 102 L 142 102 L 167 102 L 192 102 L 217 102 L 241 102 L 266 102 L 291 102 L 316 102 L 340 102 L 365 102 L 390 102 L 415 102 L 439 102 L 464 102 L 489 102 L 514 102 L 538 102 L 563 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">37,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
@@ -102,6 +72,37 @@ description: 하이스쿨디스코 플라워 슬리브리스는 다채로운 꽃
     <a href="https://link.coupang.com/a/e5sW4XEOzY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">37,300</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">37,200</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">37,100</text>
+
+    <path d="M 68 102 L 92 102 L 115 102 L 139 102 L 163 102 L 186 102 L 210 102 L 233 102 L 257 102 L 281 102 L 304 102 L 328 102 L 352 102 L 375 102 L 399 102 L 423 102 L 446 102 L 470 102 L 493 102 L 517 102 L 541 102 L 564 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 92 102 L 115 102 L 139 102 L 163 102 L 186 102 L 210 102 L 233 102 L 257 102 L 281 102 L 304 102 L 328 102 L 352 102 L 375 102 L 399 102 L 423 102 L 446 102 L 470 102 L 493 102 L 517 102 L 541 102 L 564 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">37,200원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+
 
 ## 상품 개요
 하이스쿨디스코 플라워 슬리브리스는 화려하면서도 감성적인 플라워 패턴이 특징인 민소매 상의입니다. 주로 따뜻한 계절에 시원하고 편안하게 착용하기 좋으며, 일상적인 캐주얼룩부터 휴가철 리조트룩, 또는 가벼운 외출 시 포인트를 줄 수 있는 아이템으로 활용됩니다. 20XX년 출시(정보 미공개).
