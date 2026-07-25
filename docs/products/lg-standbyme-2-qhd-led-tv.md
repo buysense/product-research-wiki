@@ -20,7 +20,7 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
     "price": "1024340",
     "url": "https://link.coupang.com/a/dL2nfPaZ1U",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -186,37 +186,38 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,000,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">900,000</text>
 
-    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 114 L 158 164 L 176 169 L 194 173 L 211 173 L 229 173 L 247 173 L 265 173 L 283 173 L 301 173 L 319 173 L 337 173 L 355 173 L 373 173 L 391 135 L 409 113 L 427 43 L 445 89 L 462 113 L 480 113 L 498 113 L 516 113 L 534 113 L 552 113 L 570 84 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 114 L 158 164 L 176 169 L 194 173 L 211 173 L 229 173 L 247 173 L 265 173 L 283 173 L 301 173 L 319 173 L 337 173 L 355 173 L 373 173 L 391 135 L 409 113 L 427 43 L 445 89 L 462 113 L 480 113 L 498 113 L 516 113 L 534 113 L 552 113 L 570 84 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 164 L 158 169 L 176 173 L 194 173 L 211 173 L 229 173 L 247 173 L 265 173 L 283 173 L 301 173 L 319 173 L 337 173 L 355 173 L 373 135 L 391 113 L 409 43 L 427 89 L 445 113 L 462 113 L 480 113 L 498 113 L 516 113 L 534 113 L 552 84 L 570 84 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 164 L 158 169 L 176 173 L 194 173 L 211 173 L 229 173 L 247 173 L 265 173 L 283 173 L 301 173 L 319 173 L 337 173 L 355 173 L 373 135 L 391 113 L 409 43 L 427 89 L 445 113 L 462 113 L 480 113 L 498 113 L 516 113 L 534 113 L 552 84 L 570 84 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="84" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="84" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="72" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,024,340원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 
