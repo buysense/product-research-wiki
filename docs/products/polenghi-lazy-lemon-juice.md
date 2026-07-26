@@ -183,39 +183,39 @@ description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 140 L 86 141 L 104 141 L 122 118 L 140 124 L 158 154 L 176 140 L 194 124 L 211 124 L 229 124 L 247 124 L 265 88 L 283 137 L 301 136 L 319 88 L 337 88 L 355 135 L 373 135 L 391 135 L 409 135 L 427 135 L 445 135 L 462 135 L 480 135 L 498 135 L 516 135 L 534 135 L 552 135 L 570 135 L 588 135 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 86 141 L 104 141 L 122 118 L 140 124 L 158 154 L 176 140 L 194 124 L 211 124 L 229 124 L 247 124 L 265 88 L 283 137 L 301 136 L 319 88 L 337 88 L 355 135 L 373 135 L 391 135 L 409 135 L 427 135 L 445 135 L 462 135 L 480 135 L 498 135 L 516 135 L 534 135 L 552 135 L 570 135 L 588 135" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
+    <path d="M 68 141 L 86 141 L 104 118 L 122 124 L 140 154 L 158 140 L 176 124 L 194 124 L 211 124 L 229 124 L 247 88 L 265 137 L 283 136 L 301 88 L 319 88 L 337 135 L 355 135 L 373 135 L 391 135 L 409 135 L 427 135 L 445 135 L 462 135 L 480 135 L 498 135 L 516 135 L 534 135 L 552 135 L 570 135 L 588 135 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 141 L 86 141 L 104 118 L 122 124 L 140 154 L 158 140 L 176 124 L 194 124 L 211 124 L 229 124 L 247 88 L 265 137 L 283 136 L 301 88 L 319 88 L 337 135 L 355 135 L 373 135 L 391 135 L 409 135 L 427 135 L 445 135 L 462 135 L 480 135 L 498 135 L 516 135 L 534 135 L 552 135 L 570 135 L 588 135" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="141" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="88" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="135" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="135" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="123" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 
