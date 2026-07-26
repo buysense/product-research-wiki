@@ -19,7 +19,7 @@ description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은
     "price": "91100",
     "url": "https://link.coupang.com/a/ffrQM1UY2e",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   }
 }
 </script>
@@ -62,7 +62,7 @@ description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은
 </div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -71,27 +71,28 @@ description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
 
-    <path d="M 68 93 L 101 93 L 133 93 L 166 93 L 198 93 L 231 93 L 263 93 L 296 170 L 328 170 L 361 170 L 393 170 L 426 170 L 458 170 L 491 170 L 523 170 L 556 170 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 93 L 101 93 L 133 93 L 166 93 L 198 93 L 231 93 L 263 93 L 296 170 L 328 170 L 361 170 L 393 170 L 426 170 L 458 170 L 491 170 L 523 170 L 556 170 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 93 L 99 93 L 129 93 L 160 93 L 190 93 L 221 93 L 252 93 L 282 170 L 313 170 L 343 170 L 374 170 L 404 170 L 435 170 L 466 170 L 496 170 L 527 170 L 557 170 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 93 L 99 93 L 129 93 L 160 93 L 190 93 L 221 93 L 252 93 L 282 170 L 313 170 L 343 170 L 374 170 L 404 170 L 435 170 L 466 170 L 496 170 L 527 170 L 557 170 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="296" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="252" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="282" cy="170" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="170" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="158" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">91,100원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 ## 상품 개요
