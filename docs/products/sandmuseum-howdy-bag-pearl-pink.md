@@ -19,7 +19,7 @@ description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인�
     "price": "179800",
     "url": "https://link.coupang.com/a/fF1B0SKg32",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   }
 }
 </script>
