@@ -19,7 +19,7 @@ description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일
     "price": "190200",
     "url": "https://link.coupang.com/a/eADAv6Yvfg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   }
 }
 </script>
@@ -119,27 +119,27 @@ description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">180,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 139 L 122 139 L 140 139 L 158 139 L 176 139 L 194 139 L 211 139 L 229 139 L 247 139 L 265 139 L 283 139 L 301 139 L 319 139 L 337 139 L 355 139 L 373 139 L 391 139 L 409 139 L 427 139 L 445 139 L 462 139 L 480 139 L 498 139 L 516 139 L 534 139 L 552 139 L 570 139 L 588 139 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 139 L 122 139 L 140 139 L 158 139 L 176 139 L 194 139 L 211 139 L 229 139 L 247 139 L 265 139 L 283 139 L 301 139 L 319 139 L 337 139 L 355 139 L 373 139 L 391 139 L 409 139 L 427 139 L 445 139 L 462 139 L 480 139 L 498 139 L 516 139 L 534 139 L 552 139 L 570 139 L 588 139" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 139 L 104 139 L 122 139 L 140 139 L 158 139 L 176 139 L 194 139 L 211 139 L 229 139 L 247 139 L 265 139 L 283 139 L 301 139 L 319 139 L 337 139 L 355 139 L 373 139 L 391 139 L 409 139 L 427 139 L 445 139 L 462 139 L 480 139 L 498 139 L 516 139 L 534 139 L 552 139 L 570 139 L 588 139 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 139 L 104 139 L 122 139 L 140 139 L 158 139 L 176 139 L 194 139 L 211 139 L 229 139 L 247 139 L 265 139 L 283 139 L 301 139 L 319 139 L 337 139 L 355 139 L 373 139 L 391 139 L 409 139 L 427 139 L 445 139 L 462 139 L 480 139 L 498 139 L 516 139 L 534 139 L 552 139 L 570 139 L 588 139" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="139" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="139" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="127" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">190,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 ## 상품 개요
