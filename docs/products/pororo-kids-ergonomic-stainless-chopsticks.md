@@ -20,12 +20,12 @@ description: 뽀로로 캐릭터로 아이들의 젓가락 사용 흥미를 유�
     "price": "11540",
     "url": "https://link.coupang.com/a/epSBJBFXUa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 12060,
+    "reviewCount": 12064,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -126,7 +126,7 @@ description: 뽀로로 캐릭터로 아이들의 젓가락 사용 흥미를 유�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,540원 · 별점 4.8 · 리뷰 12,060개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,540원 · 별점 4.8 · 리뷰 12,064개</span>
     <a href="https://link.coupang.com/a/epSBJBFXUa" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -141,29 +141,29 @@ description: 뽀로로 캐릭터로 아이들의 젓가락 사용 흥미를 유�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 27 L 86 144 L 104 64 L 122 64 L 140 43 L 158 43 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 43 L 391 43 L 409 43 L 427 43 L 445 43 L 462 43 L 480 43 L 498 43 L 516 43 L 534 43 L 552 43 L 570 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 27 L 86 144 L 104 64 L 122 64 L 140 43 L 158 43 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 43 L 391 43 L 409 43 L 427 43 L 445 43 L 462 43 L 480 43 L 498 43 L 516 43 L 534 43 L 552 43 L 570 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="144" r="4" fill="#fdba74"></circle>
+    <path d="M 68 144 L 86 64 L 104 64 L 122 43 L 140 43 L 158 43 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 43 L 391 43 L 409 43 L 427 43 L 445 43 L 462 43 L 480 43 L 498 43 L 516 43 L 534 43 L 552 43 L 570 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 144 L 86 64 L 104 64 L 122 43 L 140 43 L 158 43 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 43 L 391 43 L 409 43 L 427 43 L 445 43 L 462 43 L 480 43 L 498 43 L 516 43 L 534 43 L 552 43 L 570 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="64" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="43" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="43" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,540원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 ## 상품 개요
@@ -233,7 +233,7 @@ A. 젓가락 사용에 흥미가 없거나 어려움을 느끼는 아이가 식�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,540원 · 별점 4.8 · 리뷰 12,060개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,540원 · 별점 4.8 · 리뷰 12,064개</span>
     <a href="https://link.coupang.com/a/epSBJBFXUa" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
