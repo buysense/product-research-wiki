@@ -20,12 +20,12 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
     "price": "52000",
     "url": "https://link.coupang.com/a/eCue7p",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 1045,
+    "reviewCount": 1046,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -193,7 +193,7 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 52,000원 · 별점 4.5 · 리뷰 1,045개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 52,000원 · 별점 4.5 · 리뷰 1,046개</span>
     <a href="https://link.coupang.com/a/eCue7p" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -204,44 +204,44 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">56,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">54,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">52,000</text>
 
-    <path d="M 68 160 L 86 71 L 104 71 L 122 30 L 140 30 L 158 30 L 176 30 L 194 71 L 211 30 L 229 30 L 247 30 L 265 30 L 283 30 L 301 30 L 319 30 L 337 71 L 355 30 L 373 30 L 391 71 L 409 71 L 427 71 L 445 30 L 462 30 L 480 30 L 498 30 L 516 30 L 534 30 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 160 L 86 71 L 104 71 L 122 30 L 140 30 L 158 30 L 176 30 L 194 71 L 211 30 L 229 30 L 247 30 L 265 30 L 283 30 L 301 30 L 319 30 L 337 71 L 355 30 L 373 30 L 391 71 L 409 71 L 427 71 L 445 30 L 462 30 L 480 30 L 498 30 L 516 30 L 534 30 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="160" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
+    <path d="M 68 176 L 86 176 L 104 74 L 122 74 L 140 74 L 158 74 L 176 176 L 194 74 L 211 74 L 229 74 L 247 74 L 265 74 L 283 74 L 301 74 L 319 176 L 337 74 L 355 74 L 373 176 L 391 176 L 409 176 L 427 74 L 445 74 L 462 74 L 480 74 L 498 74 L 516 74 L 534 178 L 552 178 L 570 178 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 176 L 86 176 L 104 74 L 122 74 L 140 74 L 158 74 L 176 176 L 194 74 L 211 74 L 229 74 L 247 74 L 265 74 L 283 74 L 301 74 L 319 176 L 337 74 L 355 74 L 373 176 L 391 176 L 409 176 L 427 74 L 445 74 L 462 74 L 480 74 L 498 74 L 516 74 L 534 178 L 552 178 L 570 178 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="178" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">52,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">52,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 
@@ -319,7 +319,7 @@ A. 온라인으로 구매하는 망개떡은 현지에서 갓 만든 떡과는 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 52,000원 · 별점 4.5 · 리뷰 1,045개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 52,000원 · 별점 4.5 · 리뷰 1,046개</span>
     <a href="https://link.coupang.com/a/eCue7p" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
