@@ -19,7 +19,7 @@ description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안�
     "price": "58300",
     "url": "https://link.coupang.com/a/e6R5PJXVLg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   }
 }
 </script>
@@ -72,7 +72,7 @@ description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안�
 </div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -81,40 +81,42 @@ description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 50 L 93 50 L 118 50 L 142 26 L 167 99 L 192 30 L 217 30 L 241 30 L 266 30 L 291 99 L 316 26 L 340 26 L 365 26 L 390 26 L 415 62 L 439 62 L 464 26 L 489 26 L 514 108 L 538 108 L 563 30 L 588 108 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 50 L 93 50 L 118 50 L 142 26 L 167 99 L 192 30 L 217 30 L 241 30 L 266 30 L 291 99 L 316 26 L 340 26 L 365 26 L 390 26 L 415 62 L 439 62 L 464 26 L 489 26 L 514 108 L 538 108 L 563 30 L 588 108" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 50 L 92 50 L 115 50 L 139 26 L 163 99 L 186 30 L 210 30 L 233 30 L 257 30 L 281 99 L 304 26 L 328 26 L 352 26 L 375 26 L 399 62 L 423 62 L 446 26 L 470 26 L 493 108 L 517 108 L 541 30 L 564 108 L 588 108 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 50 L 92 50 L 115 50 L 139 26 L 163 99 L 186 30 L 210 30 L 233 30 L 257 30 L 281 99 L 304 26 L 328 26 L 352 26 L 375 26 L 399 62 L 423 62 L 446 26 L 470 26 L 493 108 L 517 108 L 541 30 L 564 108 L 588 108" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="118" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="167" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="192" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="266" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="316" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="390" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="464" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="489" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="538" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="563" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="115" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="139" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="163" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="186" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="257" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="281" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="375" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="399" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="423" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="470" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="517" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="541" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="564" cy="108" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="108" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="96" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">58,300원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 ## 상품 개요
