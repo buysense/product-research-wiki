@@ -19,7 +19,7 @@ description: [플리즈노팔로우] Riri Leopard Lace Top (Pink/Grey)는 레오
     "price": "55900",
     "url": "https://link.coupang.com/a/fEAOwuelEX",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   }
 }
 </script>
