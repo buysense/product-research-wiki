@@ -19,7 +19,7 @@ description: ZARA 깅엄 체크 코튼 테이블보는 클래식한 패턴과 �
     "price": "76100",
     "url": "https://link.coupang.com/a/d7BLbUKq3o",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "priceValidUntil": "2026-08-02"
   }
 }
 </script>
@@ -151,27 +151,28 @@ description: ZARA 깅엄 체크 코튼 테이블보는 클래식한 패턴과 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">75,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">70,000</text>
 
-    <path d="M 68 154 L 86 154 L 104 154 L 122 154 L 140 85 L 158 85 L 176 85 L 194 85 L 211 85 L 229 85 L 247 85 L 265 85 L 283 85 L 301 85 L 319 85 L 337 85 L 355 85 L 373 85 L 391 85 L 409 85 L 427 85 L 445 85 L 462 85 L 480 85 L 498 85 L 516 85 L 534 85 L 552 85 L 570 85 L 588 85 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 154 L 86 154 L 104 154 L 122 154 L 140 85 L 158 85 L 176 85 L 194 85 L 211 85 L 229 85 L 247 85 L 265 85 L 283 85 L 301 85 L 319 85 L 337 85 L 355 85 L 373 85 L 391 85 L 409 85 L 427 85 L 445 85 L 462 85 L 480 85 L 498 85 L 516 85 L 534 85 L 552 85 L 570 85 L 588 85" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 154 L 86 154 L 104 154 L 122 85 L 140 85 L 158 85 L 176 85 L 194 85 L 211 85 L 229 85 L 247 85 L 265 85 L 283 85 L 301 85 L 319 85 L 337 85 L 355 85 L 373 85 L 391 85 L 409 85 L 427 85 L 445 85 L 462 85 L 480 85 L 498 85 L 516 85 L 534 85 L 552 85 L 570 85 L 588 85 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 154 L 86 154 L 104 154 L 122 85 L 140 85 L 158 85 L 176 85 L 194 85 L 211 85 L 229 85 L 247 85 L 265 85 L 283 85 L 301 85 L 319 85 L 337 85 L 355 85 L 373 85 L 391 85 L 409 85 L 427 85 L 445 85 L 462 85 L 480 85 L 498 85 L 516 85 L 534 85 L 552 85 L 570 85 L 588 85" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="85" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="85" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="73" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">76,100원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-25</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-26</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 ## 상품 개요
