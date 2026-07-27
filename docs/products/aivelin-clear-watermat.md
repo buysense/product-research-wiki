@@ -20,12 +20,12 @@ description: 아이블린 투명워터매트는 아기 성장 발달에 도움�
     "price": "13850",
     "url": "https://link.coupang.com/a/eOriwii8qW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-02"
+    "priceValidUntil": "2026-08-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 11,
+    "reviewCount": 12,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -96,7 +96,7 @@ description: 아이블린 투명워터매트는 아기 성장 발달에 도움�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,850원 · 별점 4.8 · 리뷰 11개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,850원 · 별점 4.8 · 리뷰 12개</span>
     <a href="https://link.coupang.com/a/eOriwii8qW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -111,27 +111,28 @@ description: 아이블린 투명워터매트는 아기 성장 발달에 도움�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 143 L 86 143 L 104 143 L 122 37 L 140 37 L 158 37 L 176 37 L 194 37 L 211 37 L 229 37 L 247 37 L 265 37 L 283 37 L 301 37 L 319 37 L 337 37 L 355 37 L 373 37 L 391 37 L 409 37 L 427 37 L 445 37 L 462 37 L 480 37 L 498 37 L 516 37 L 534 37 L 552 37 L 570 37 L 588 37 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 143 L 86 143 L 104 143 L 122 37 L 140 37 L 158 37 L 176 37 L 194 37 L 211 37 L 229 37 L 247 37 L 265 37 L 283 37 L 301 37 L 319 37 L 337 37 L 355 37 L 373 37 L 391 37 L 409 37 L 427 37 L 445 37 L 462 37 L 480 37 L 498 37 L 516 37 L 534 37 L 552 37 L 570 37 L 588 37" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 143 L 86 143 L 104 37 L 122 37 L 140 37 L 158 37 L 176 37 L 194 37 L 211 37 L 229 37 L 247 37 L 265 37 L 283 37 L 301 37 L 319 37 L 337 37 L 355 37 L 373 37 L 391 37 L 409 37 L 427 37 L 445 37 L 462 37 L 480 37 L 498 37 L 516 37 L 534 37 L 552 37 L 570 37 L 588 37 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 143 L 86 143 L 104 37 L 122 37 L 140 37 L 158 37 L 176 37 L 194 37 L 211 37 L 229 37 L 247 37 L 265 37 L 283 37 L 301 37 L 319 37 L 337 37 L 355 37 L 373 37 L 391 37 L 409 37 L 427 37 L 445 37 L 462 37 L 480 37 L 498 37 L 516 37 L 534 37 L 552 37 L 570 37 L 588 37" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="37" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="37" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="25" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,850원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
 
 
 
@@ -213,7 +214,7 @@ A. 이 제품은 KC 인증(어린이 제품 안전 특별법에 따른 안전 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,850원 · 별점 4.8 · 리뷰 11개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,850원 · 별점 4.8 · 리뷰 12개</span>
     <a href="https://link.coupang.com/a/eOriwii8qW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
