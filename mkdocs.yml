@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 바다숲 밥에 싸먹는 구운감태: products/badasoop-grilled-gamtae-seaweed.md
     - 이미스 EMIS SMALL LOGO BALL CAP-BLACK 1042405: products/emis-small-logo-ball-cap-black.md
     - 천연 소가죽 원통 숄더백 파크백: products/natural-cowhide-cylinder-shoulder-park-bag.md
     - 시눈 sinoon Ribbon Shirring Puff T-Shirt (Cream): products/sinoon-ribbon-shirring-puff-t-shirt-cream.md

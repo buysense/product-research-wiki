@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 바다숲 밥에 싸먹는 구운감태 | [보기](products/badasoop-grilled-gamtae-seaweed.md) |
 | 이미스 EMIS SMALL LOGO BALL CAP-BLACK 1042405 | [보기](products/emis-small-logo-ball-cap-black.md) |
 | 천연 소가죽 원통 숄더백 파크백 | [보기](products/natural-cowhide-cylinder-shoulder-park-bag.md) |
 | 시눈 sinoon Ribbon Shirring Puff T-Shirt (Cream) | [보기](products/sinoon-ribbon-shirring-puff-t-shirt-cream.md) |
