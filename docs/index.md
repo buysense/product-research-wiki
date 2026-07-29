@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 로제프란츠 ROSEFRANTZ Pocket short sleeve knit cardigan | [보기](products/rosefrantz-pocket-short-sleeve-knit-cardigan.md) |
 | 기픈물 저스트 종이팩 해양심층수 | [보기](products/gipenmul-just-paperpack-deepsea-water.md) |
 | 아치스 조리샌들_블랙 | [보기](products/archies-thongs-sandals-black.md) |
 | 일본 돈키호테 마늘 참깨 가츠오맛 후리카케 | [보기](products/donki-garlic-sesame-katsuobushi-furikake.md) |
