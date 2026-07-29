@@ -20,7 +20,7 @@ description: 알레시 안나G 와인오프너는 독특한 인형 디자인과 
     "price": "94000",
     "url": "https://link.coupang.com/a/eDOinN",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-04"
+    "priceValidUntil": "2026-08-05"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -186,13 +186,6 @@ description: 알레시 안나G 와인오프너는 독특한 인형 디자인과 
 
 
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 94,000원 · 별점 4.8 · 리뷰 98개</span>
-    <a href="https://link.coupang.com/a/eDOinN" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -221,10 +214,19 @@ description: 알레시 안나G 와인오프너는 독특한 인형 디자인과 
     <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
     <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 94,000원 · 별점 4.8 · 리뷰 98개</span>
+    <a href="https://link.coupang.com/a/eDOinN" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
 
 
 
