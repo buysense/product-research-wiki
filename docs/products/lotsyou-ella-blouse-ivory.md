@@ -19,7 +19,7 @@ description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 �
     "price": "96700",
     "url": "https://link.coupang.com/a/fftO3c7Xbw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-02"
+    "priceValidUntil": "2026-08-06"
   }
 }
 </script>
@@ -53,16 +53,9 @@ description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 �
 
 
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 93,200원</span>
-    <a href="https://link.coupang.com/a/fftO3c7Xbw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -71,28 +64,38 @@ description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
 
-    <path d="M 68 78 L 99 78 L 129 78 L 160 78 L 190 78 L 221 131 L 252 131 L 282 131 L 313 131 L 343 131 L 374 131 L 404 131 L 435 131 L 466 131 L 496 131 L 527 131 L 557 131 L 588 51 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 78 L 99 78 L 129 78 L 160 78 L 190 78 L 221 131 L 252 131 L 282 131 L 313 131 L 343 131 L 374 131 L 404 131 L 435 131 L 466 131 L 496 131 L 527 131 L 557 131 L 588 51" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 78 L 97 78 L 126 78 L 155 78 L 184 78 L 212 131 L 241 131 L 270 131 L 299 131 L 328 131 L 357 131 L 386 131 L 415 131 L 444 131 L 472 131 L 501 131 L 530 131 L 559 51 L 588 51 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 78 L 97 78 L 126 78 L 155 78 L 184 78 L 212 131 L 241 131 L 270 131 L 299 131 L 328 131 L 357 131 L 386 131 L 415 131 L 444 131 L 472 131 L 501 131 L 530 131 L 559 51 L 588 51" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="190" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="221" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="557" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="184" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="212" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="559" cy="51" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="51" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="39" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">96,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 93,200원</span>
+    <a href="https://link.coupang.com/a/fftO3c7Xbw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
 
 
 
