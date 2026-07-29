@@ -20,12 +20,12 @@ description: 건조하고 민감한 피부, 아기 피부 진정 및 보습에 �
     "price": "22430",
     "url": "https://link.coupang.com/a/euwZgsPAOq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-02"
+    "priceValidUntil": "2026-08-05"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 4050,
+    "reviewCount": 4086,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -117,13 +117,6 @@ description: 건조하고 민감한 피부, 아기 피부 진정 및 보습에 �
 
 
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,430원 · 별점 4.7 · 리뷰 4,050개</span>
-    <a href="https://link.coupang.com/a/euwZgsPAOq" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -135,47 +128,56 @@ description: 건조하고 민감한 피부, 아기 피부 진정 및 보습에 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
 
-    <path d="M 68 94 L 86 94 L 104 94 L 122 56 L 140 56 L 158 87 L 176 81 L 194 81 L 211 83 L 229 85 L 247 81 L 265 81 L 283 81 L 301 81 L 319 81 L 337 81 L 355 104 L 373 104 L 391 104 L 409 139 L 427 139 L 445 81 L 462 87 L 480 139 L 498 139 L 516 157 L 534 157 L 552 157 L 570 69 L 588 69 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 94 L 86 94 L 104 94 L 122 56 L 140 56 L 158 87 L 176 81 L 194 81 L 211 83 L 229 85 L 247 81 L 265 81 L 283 81 L 301 81 L 319 81 L 337 81 L 355 104 L 373 104 L 391 104 L 409 139 L 427 139 L 445 81 L 462 87 L 480 139 L 498 139 L 516 157 L 534 157 L 552 157 L 570 69 L 588 69" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 94 L 86 94 L 104 56 L 122 56 L 140 87 L 158 81 L 176 81 L 194 83 L 211 85 L 229 81 L 247 81 L 265 81 L 283 81 L 301 81 L 319 81 L 337 104 L 355 104 L 373 104 L 391 139 L 409 139 L 427 81 L 445 87 L 462 139 L 480 139 L 498 157 L 516 157 L 534 157 L 552 69 L 570 69 L 588 69 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 94 L 86 94 L 104 56 L 122 56 L 140 87 L 158 81 L 176 81 L 194 83 L 211 85 L 229 81 L 247 81 L 265 81 L 283 81 L 301 81 L 319 81 L 337 104 L 355 104 L 373 104 L 391 139 L 409 139 L 427 81 L 445 87 L 462 139 L 480 139 L 498 157 L 516 157 L 534 157 L 552 69 L 570 69 L 588 69" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="56" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="81" r="4" fill="#fdba74"></circle>
     <circle cx="176" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="81" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="139" r="4" fill="#fdba74"></circle>
     <circle cx="409" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="139" r="4" fill="#fdba74"></circle>
     <circle cx="480" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="69" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="69" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="57" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,430원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-27</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,430원 · 별점 4.7 · 리뷰 4,086개</span>
+    <a href="https://link.coupang.com/a/euwZgsPAOq" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
 
 
 
@@ -248,7 +250,7 @@ A. 세안 후 피부가 당길 때, 건조하고 예민해진 부위에 수시�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,430원 · 별점 4.7 · 리뷰 4,050개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,430원 · 별점 4.7 · 리뷰 4,086개</span>
     <a href="https://link.coupang.com/a/euwZgsPAOq" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
