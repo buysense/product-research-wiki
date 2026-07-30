@@ -17,15 +17,15 @@ description: 바릴라 엔젤헤어는 얇고 섬세한 면으로, 빠른 조리
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "5980",
+    "price": "4900",
     "url": "https://link.coupang.com/a/exB64P",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-06"
+    "priceValidUntil": "2026-08-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 1254,
+    "reviewCount": 1262,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 바릴라 엔젤헤어는 얇고 섬세한 면으로, 빠른 조리
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-27 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -206,40 +208,40 @@ description: 바릴라 엔젤헤어는 얇고 섬세한 면으로, 빠른 조리
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 78 L 86 87 L 104 88 L 122 87 L 140 87 L 158 127 L 176 87 L 194 87 L 211 78 L 229 78 L 247 78 L 265 78 L 283 78 L 301 78 L 319 78 L 337 78 L 355 87 L 373 89 L 391 89 L 409 89 L 427 89 L 445 89 L 462 119 L 480 119 L 498 119 L 516 91 L 534 94 L 552 94 L 570 36 L 588 133 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 78 L 86 87 L 104 88 L 122 87 L 140 87 L 158 127 L 176 87 L 194 87 L 211 78 L 229 78 L 247 78 L 265 78 L 283 78 L 301 78 L 319 78 L 337 78 L 355 87 L 373 89 L 391 89 L 409 89 L 427 89 L 445 89 L 462 119 L 480 119 L 498 119 L 516 91 L 534 94 L 552 94 L 570 36 L 588 133" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="88" r="4" fill="#fdba74"></circle>
+    <path d="M 68 87 L 86 88 L 104 87 L 122 87 L 140 127 L 158 87 L 176 87 L 194 78 L 211 78 L 229 78 L 247 78 L 265 78 L 283 78 L 301 78 L 319 78 L 337 87 L 355 89 L 373 89 L 391 89 L 409 89 L 427 89 L 445 119 L 462 119 L 480 119 L 498 91 L 516 94 L 534 94 L 552 36 L 570 133 L 588 141 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 87 L 86 88 L 104 87 L 122 87 L 140 127 L 158 87 L 176 87 L 194 78 L 211 78 L 229 78 L 247 78 L 265 78 L 283 78 L 301 78 L 319 78 L 337 87 L 355 89 L 373 89 L 391 89 L 409 89 L 427 89 L 445 119 L 462 119 L 480 119 L 498 91 L 516 94 L 534 94 L 552 36 L 570 133 L 588 141" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="87" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="87" r="4" fill="#fdba74"></circle>
     <circle cx="176" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="91" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="91" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="94" r="4" fill="#fdba74"></circle>
     <circle cx="534" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="133" r="5" fill="#ea580c"></circle>
+    <circle cx="552" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="133" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="141" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="121" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,980원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="588" y="129" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -247,7 +249,7 @@ description: 바릴라 엔젤헤어는 얇고 섬세한 면으로, 빠른 조리
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,980원 · 별점 4.7 · 리뷰 1,254개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,900원 · 별점 4.7 · 리뷰 1,262개</span>
     <a href="https://link.coupang.com/a/exB64P" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -328,7 +330,7 @@ A. 엔젤헤어는 다른 파스타에 비해 면이 훨씬 가늘고 부드러�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,980원 · 별점 4.7 · 리뷰 1,254개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,900원 · 별점 4.7 · 리뷰 1,262개</span>
     <a href="https://link.coupang.com/a/exB64P" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
