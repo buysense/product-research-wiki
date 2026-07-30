@@ -20,7 +20,7 @@ description: 아치스 조리샌들_블랙은 호주 의사 및 물리치료사�
     "price": "67500",
     "url": "https://link.coupang.com/a/fL0pZDYg21",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-05"
+    "priceValidUntil": "2026-08-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
