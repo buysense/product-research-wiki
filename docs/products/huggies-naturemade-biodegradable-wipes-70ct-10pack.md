@@ -20,7 +20,7 @@ description: 하기스 네이처메이드 생분해 물티슈는 환경을 생�
     "price": "21750",
     "url": "https://link.coupang.com/a/e48c8LI3Xg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-05"
+    "priceValidUntil": "2026-08-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -73,9 +73,11 @@ description: 하기스 네이처메이드 생분해 물티슈는 환경을 생�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -84,32 +86,32 @@ description: 하기스 네이처메이드 생분해 물티슈는 환경을 생�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
 
-    <path d="M 68 173 L 90 138 L 111 173 L 133 138 L 155 138 L 176 138 L 198 138 L 220 138 L 241 173 L 263 138 L 285 138 L 306 173 L 328 173 L 350 64 L 371 64 L 393 64 L 415 64 L 436 64 L 458 64 L 480 64 L 501 64 L 523 64 L 545 64 L 566 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 173 L 90 138 L 111 173 L 133 138 L 155 138 L 176 138 L 198 138 L 220 138 L 241 173 L 263 138 L 285 138 L 306 173 L 328 173 L 350 64 L 371 64 L 393 64 L 415 64 L 436 64 L 458 64 L 480 64 L 501 64 L 523 64 L 545 64 L 566 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 173 L 89 138 L 110 173 L 130 138 L 151 138 L 172 138 L 193 138 L 214 138 L 234 173 L 255 138 L 276 138 L 297 173 L 318 173 L 338 64 L 359 64 L 380 64 L 401 64 L 422 64 L 442 64 L 463 64 L 484 64 L 505 64 L 526 64 L 546 64 L 567 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 173 L 89 138 L 110 173 L 130 138 L 151 138 L 172 138 L 193 138 L 214 138 L 234 173 L 255 138 L 276 138 L 297 173 L 318 173 L 338 64 L 359 64 L 380 64 L 401 64 L 422 64 L 442 64 L 463 64 L 484 64 L 505 64 L 526 64 L 546 64 L 567 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="90" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="111" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="220" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="285" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="306" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="350" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="89" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="110" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="130" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="214" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="234" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="255" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="297" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="318" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="338" cy="64" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,750원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
