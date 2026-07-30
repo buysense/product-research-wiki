@@ -19,7 +19,7 @@ description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세�
     "price": "173700",
     "url": "https://link.coupang.com/a/fb9V8Zz1iv",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-06"
+    "priceValidUntil": "2026-08-07"
   }
 }
 </script>
@@ -59,9 +59,11 @@ description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -70,24 +72,24 @@ description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">160,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">140,000</text>
 
-    <path d="M 68 129 L 93 129 L 118 129 L 142 129 L 167 129 L 192 129 L 217 129 L 241 129 L 266 50 L 291 50 L 316 50 L 340 50 L 365 50 L 390 50 L 415 50 L 439 50 L 464 50 L 489 50 L 514 50 L 538 50 L 563 50 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 129 L 93 129 L 118 129 L 142 129 L 167 129 L 192 129 L 217 129 L 241 129 L 266 50 L 291 50 L 316 50 L 340 50 L 365 50 L 390 50 L 415 50 L 439 50 L 464 50 L 489 50 L 514 50 L 538 50 L 563 50 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 129 L 92 129 L 115 129 L 139 129 L 163 129 L 186 129 L 210 129 L 233 129 L 257 50 L 281 50 L 304 50 L 328 50 L 352 50 L 375 50 L 399 50 L 423 50 L 446 50 L 470 50 L 493 50 L 517 50 L 541 50 L 564 50 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 129 L 92 129 L 115 129 L 139 129 L 163 129 L 186 129 L 210 129 L 233 129 L 257 50 L 281 50 L 304 50 L 328 50 L 352 50 L 375 50 L 399 50 L 423 50 L 446 50 L 470 50 L 493 50 L 517 50 L 541 50 L 564 50 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="266" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="233" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="257" cy="50" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="50" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="38" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">173,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
