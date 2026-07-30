@@ -19,13 +19,15 @@ description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivor
     "price": "97700",
     "url": "https://link.coupang.com/a/eYRe9Fyb5E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-06"
+    "priceValidUntil": "2026-08-07"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -86,32 +88,31 @@ description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivor
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 88 L 122 88 L 140 88 L 158 88 L 176 64 L 194 109 L 211 81 L 229 81 L 247 64 L 265 151 L 283 111 L 301 111 L 319 111 L 337 111 L 355 111 L 373 111 L 391 111 L 409 111 L 427 111 L 445 111 L 462 111 L 480 111 L 498 111 L 516 111 L 534 111 L 552 111 L 570 111 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 88 L 122 88 L 140 88 L 158 88 L 176 64 L 194 109 L 211 81 L 229 81 L 247 64 L 265 151 L 283 111 L 301 111 L 319 111 L 337 111 L 355 111 L 373 111 L 391 111 L 409 111 L 427 111 L 445 111 L 462 111 L 480 111 L 498 111 L 516 111 L 534 111 L 552 111 L 570 111 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 88 L 104 88 L 122 88 L 140 88 L 158 64 L 176 109 L 194 81 L 211 81 L 229 64 L 247 151 L 265 111 L 283 111 L 301 111 L 319 111 L 337 111 L 355 111 L 373 111 L 391 111 L 409 111 L 427 111 L 445 111 L 462 111 L 480 111 L 498 111 L 516 111 L 534 111 L 552 111 L 570 111 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 88 L 104 88 L 122 88 L 140 88 L 158 64 L 176 109 L 194 81 L 211 81 L 229 64 L 247 151 L 265 111 L 283 111 L 301 111 L 319 111 L 337 111 L 355 111 L 373 111 L 391 111 L 409 111 L 427 111 L 445 111 L 462 111 L 480 111 L 498 111 L 516 111 L 534 111 L 552 111 L 570 111 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="81" r="4" fill="#fdba74"></circle>
     <circle cx="211" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="111" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="111" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">97,700원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
