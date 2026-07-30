@@ -17,15 +17,15 @@ description: 아이스토리키즈 여름봄무지 7부 플리츠는 활동량 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "11340",
+    "price": "11840",
     "url": "https://link.coupang.com/a/dFf89o0jWC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-05"
+    "priceValidUntil": "2026-08-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1126,
+    "reviewCount": 1130,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -176,6 +176,8 @@ description: 아이스토리키즈 여름봄무지 7부 플리츠는 활동량 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -183,37 +185,37 @@ description: 아이스토리키즈 여름봄무지 7부 플리츠는 활동량 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 68 L 86 132 L 104 89 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 146 L 265 146 L 283 146 L 301 146 L 319 146 L 337 146 L 355 146 L 373 146 L 391 103 L 409 103 L 427 103 L 445 103 L 462 103 L 480 103 L 498 103 L 516 126 L 534 103 L 552 103 L 570 103 L 588 127 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 68 L 86 132 L 104 89 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 146 L 265 146 L 283 146 L 301 146 L 319 146 L 337 146 L 355 146 L 373 146 L 391 103 L 409 103 L 427 103 L 445 103 L 462 103 L 480 103 L 498 103 L 516 126 L 534 103 L 552 103 L 570 103 L 588 127" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="127" r="5" fill="#ea580c"></circle>
+    <path d="M 68 85 L 86 26 L 104 85 L 122 85 L 140 85 L 158 85 L 176 85 L 194 85 L 211 85 L 229 114 L 247 114 L 265 114 L 283 114 L 301 114 L 319 114 L 337 114 L 355 114 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 73 L 516 28 L 534 28 L 552 28 L 570 76 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 85 L 86 26 L 104 85 L 122 85 L 140 85 L 158 85 L 176 85 L 194 85 L 211 85 L 229 114 L 247 114 L 265 114 L 283 114 L 301 114 L 319 114 L 337 114 L 355 114 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 73 L 516 28 L 534 28 L 552 28 L 570 76 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="38" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="115" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,340원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="588" y="26" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,840원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -221,7 +223,7 @@ description: 아이스토리키즈 여름봄무지 7부 플리츠는 활동량 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,340원 · 별점 4.8 · 리뷰 1,126개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,840원 · 별점 4.8 · 리뷰 1,130개</span>
     <a href="https://link.coupang.com/a/dFf89o0jWC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -305,7 +307,7 @@ A. 네, 세탁 후에도 원단 변형이나 줄어듦, 보풀 발생이 적어 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,340원 · 별점 4.8 · 리뷰 1,126개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,840원 · 별점 4.8 · 리뷰 1,130개</span>
     <a href="https://link.coupang.com/a/dFf89o0jWC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
