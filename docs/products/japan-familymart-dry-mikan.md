@@ -20,7 +20,7 @@ description: 일본패밀리마트 드라이미깡은 일본 여행 중 간편�
     "price": "29490",
     "url": "https://link.coupang.com/a/fOj5cimEO4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-06"
+    "priceValidUntil": "2026-08-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
