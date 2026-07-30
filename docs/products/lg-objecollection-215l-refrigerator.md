@@ -17,15 +17,15 @@ description: LG전자 오브제컬렉션 215L 냉장고는 1~2인 가구, 자취
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "437750",
+    "price": "433380",
     "url": "https://link.coupang.com/a/eTexav66SW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-06"
+    "priceValidUntil": "2026-08-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 280,
+    "reviewCount": 281,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: LG전자 오브제컬렉션 215L 냉장고는 1~2인 가구, 자취
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-26 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -100,39 +102,40 @@ description: LG전자 오브제컬렉션 215L 냉장고는 1~2인 가구, 자취
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">440,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">420,000</text>
 
-    <path d="M 68 151 L 86 151 L 104 151 L 122 101 L 140 36 L 158 73 L 176 73 L 194 110 L 211 80 L 229 80 L 247 64 L 265 159 L 283 159 L 301 159 L 319 159 L 337 159 L 355 159 L 373 159 L 391 159 L 409 159 L 427 159 L 445 159 L 462 64 L 480 162 L 498 162 L 516 162 L 534 146 L 552 146 L 570 174 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 151 L 86 151 L 104 151 L 122 101 L 140 36 L 158 73 L 176 73 L 194 110 L 211 80 L 229 80 L 247 64 L 265 159 L 283 159 L 301 159 L 319 159 L 337 159 L 355 159 L 373 159 L 391 159 L 409 159 L 427 159 L 445 159 L 462 64 L 480 162 L 498 162 L 516 162 L 534 146 L 552 146 L 570 174 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 151 L 86 151 L 104 101 L 122 36 L 140 73 L 158 73 L 176 110 L 194 80 L 211 80 L 229 64 L 247 159 L 265 159 L 283 159 L 301 159 L 319 159 L 337 159 L 355 159 L 373 159 L 391 159 L 409 159 L 427 159 L 445 64 L 462 162 L 480 162 L 498 162 L 516 146 L 534 146 L 552 174 L 570 111 L 588 127 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 151 L 86 151 L 104 101 L 122 36 L 140 73 L 158 73 L 176 110 L 194 80 L 211 80 L 229 64 L 247 159 L 265 159 L 283 159 L 301 159 L 319 159 L 337 159 L 355 159 L 373 159 L 391 159 L 409 159 L 427 159 L 445 64 L 462 162 L 480 162 L 498 162 L 516 146 L 534 146 L 552 174 L 570 111 L 588 127" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="80" r="4" fill="#fdba74"></circle>
     <circle cx="211" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="146" r="4" fill="#fdba74"></circle>
     <circle cx="534" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="111" r="5" fill="#ea580c"></circle>
+    <circle cx="552" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="127" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">437,750원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="588" y="115" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">433,380원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -140,7 +143,7 @@ description: LG전자 오브제컬렉션 215L 냉장고는 1~2인 가구, 자취
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 437,750원 · 별점 4.8 · 리뷰 280개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 433,380원 · 별점 4.8 · 리뷰 281개</span>
     <a href="https://link.coupang.com/a/eTexav66SW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -226,7 +229,7 @@ A. 냉동실 용량은 일반적인 1~2인 가구의 냉동식품 보관에는 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 437,750원 · 별점 4.8 · 리뷰 280개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 433,380원 · 별점 4.8 · 리뷰 281개</span>
     <a href="https://link.coupang.com/a/eTexav66SW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
