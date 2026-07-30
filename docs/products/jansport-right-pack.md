@@ -20,7 +20,7 @@ description: 잔스포츠 라이트팩은 코듀라 원단과 스웨이드 바�
     "price": "122000",
     "url": "https://link.coupang.com/a/ettmUg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-05"
+    "priceValidUntil": "2026-08-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -35,6 +35,8 @@ description: 잔스포츠 라이트팩은 코듀라 원단과 스웨이드 바�
   📅 작성일: 2026-04-21 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
 ## 참고한 글
+
+
 
 
 
@@ -213,16 +215,16 @@ description: 잔스포츠 라이트팩은 코듀라 원단과 스웨이드 바�
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">122,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-28</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
