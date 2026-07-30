@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 일본패밀리마트 드라이미깡: products/japan-familymart-dry-mikan.md
     - 세븐일레븐 유자 레몬 사이다 500ml: products/seven-eleven-yuzu-lemon-cider-500ml.md
     - 올가홀푸드 유기가공식품 인증 떡볶이떡: products/olga-wholefoods-organic-tteokbokki-tteok.md
     - 로제프란츠 ROSEFRANTZ Pocket short sleeve knit cardigan: products/rosefrantz-pocket-short-sleeve-knit-cardigan.md
