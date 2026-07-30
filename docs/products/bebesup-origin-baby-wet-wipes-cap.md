@@ -20,12 +20,12 @@ description: 베베숲 오리진 유아물티슈 캡형은 아기 기저귀 교�
     "price": "13400",
     "url": "https://link.coupang.com/a/e48A1dZOh2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-06"
+    "priceValidUntil": "2026-08-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 85498,
+    "reviewCount": 85625,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -75,9 +75,11 @@ description: 베베숲 오리진 유아물티슈 캡형은 아기 기저귀 교�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -86,38 +88,39 @@ description: 베베숲 오리진 유아물티슈 캡형은 아기 기저귀 교�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 68 L 89 49 L 110 49 L 130 49 L 151 49 L 172 49 L 193 49 L 214 68 L 234 68 L 255 68 L 276 49 L 297 144 L 318 49 L 338 49 L 359 49 L 380 68 L 401 68 L 422 49 L 442 54 L 463 54 L 484 54 L 505 68 L 526 68 L 546 68 L 567 144 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 68 L 89 49 L 110 49 L 130 49 L 151 49 L 172 49 L 193 49 L 214 68 L 234 68 L 255 68 L 276 49 L 297 144 L 318 49 L 338 49 L 359 49 L 380 68 L 401 68 L 422 49 L 442 54 L 463 54 L 484 54 L 505 68 L 526 68 L 546 68 L 567 144 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 68 L 88 49 L 108 49 L 128 49 L 148 49 L 168 49 L 188 49 L 208 68 L 228 68 L 248 68 L 268 49 L 288 144 L 308 49 L 328 49 L 348 49 L 368 68 L 388 68 L 408 49 L 428 54 L 448 54 L 468 54 L 488 68 L 508 68 L 528 68 L 548 144 L 568 49 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 68 L 88 49 L 108 49 L 128 49 L 148 49 L 168 49 L 188 49 L 208 68 L 228 68 L 248 68 L 268 49 L 288 144 L 308 49 L 328 49 L 348 49 L 368 68 L 388 68 L 408 49 L 428 54 L 448 54 L 468 54 L 488 68 L 508 68 L 528 68 L 548 144 L 568 49 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="193" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="297" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="359" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="422" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="442" cy="54" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="54" r="4" fill="#fdba74"></circle>
-    <circle cx="505" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="567" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="88" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="208" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="248" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="288" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="368" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="408" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="428" cy="54" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="54" r="4" fill="#fdba74"></circle>
+    <circle cx="488" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="528" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="568" cy="49" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="49" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="37" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,400원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -125,7 +128,7 @@ description: 베베숲 오리진 유아물티슈 캡형은 아기 기저귀 교�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,400원 · 별점 4.8 · 리뷰 85,498개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,400원 · 별점 4.8 · 리뷰 85,625개</span>
     <a href="https://link.coupang.com/a/e48A1dZOh2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -207,7 +210,7 @@ A. 유아용 물티슈로 제작되어 아기 피부에 자극이 적고 부드�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,400원 · 별점 4.8 · 리뷰 85,498개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,400원 · 별점 4.8 · 리뷰 85,625개</span>
     <a href="https://link.coupang.com/a/e48A1dZOh2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
