@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 세븐일레븐 유자 레몬 사이다 500ml | [보기](products/seven-eleven-yuzu-lemon-cider-500ml.md) |
 | 올가홀푸드 유기가공식품 인증 떡볶이떡 | [보기](products/olga-wholefoods-organic-tteokbokki-tteok.md) |
 | 로제프란츠 ROSEFRANTZ Pocket short sleeve knit cardigan | [보기](products/rosefrantz-pocket-short-sleeve-knit-cardigan.md) |
 | 기픈물 저스트 종이팩 해양심층수 | [보기](products/gipenmul-just-paperpack-deepsea-water.md) |
