@@ -165,6 +165,8 @@ description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -176,39 +178,38 @@ description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">125,000</text>
 
-    <path d="M 68 29 L 86 29 L 104 89 L 122 110 L 140 119 L 158 113 L 176 113 L 194 113 L 211 113 L 229 113 L 247 113 L 265 119 L 283 119 L 301 119 L 319 131 L 337 131 L 355 131 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 119 L 480 71 L 498 105 L 516 105 L 534 105 L 552 105 L 570 103 L 588 103 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 29 L 86 29 L 104 89 L 122 110 L 140 119 L 158 113 L 176 113 L 194 113 L 211 113 L 229 113 L 247 113 L 265 119 L 283 119 L 301 119 L 319 131 L 337 131 L 355 131 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 119 L 480 71 L 498 105 L 516 105 L 534 105 L 552 105 L 570 103 L 588 103" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 29 L 86 89 L 104 110 L 122 119 L 140 113 L 158 113 L 176 113 L 194 113 L 211 113 L 229 113 L 247 119 L 265 119 L 283 119 L 301 131 L 319 131 L 337 131 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 119 L 462 71 L 480 105 L 498 105 L 516 105 L 534 105 L 552 103 L 570 103 L 588 103 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 29 L 86 89 L 104 110 L 122 119 L 140 113 L 158 113 L 176 113 L 194 113 L 211 113 L 229 113 L 247 119 L 265 119 L 283 119 L 301 131 L 319 131 L 337 131 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 119 L 462 71 L 480 105 L 498 105 L 516 105 L 534 105 L 552 103 L 570 103 L 588 103" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="103" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="103" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="91" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">129,930원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
