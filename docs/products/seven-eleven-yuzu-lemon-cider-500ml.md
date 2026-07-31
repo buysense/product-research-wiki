@@ -20,7 +20,7 @@ description: 세븐일레븐 유자 레몬 사이다 500ml는 유자와 레몬�
     "price": "25960",
     "url": "https://link.coupang.com/a/fOjg79s3vU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-06"
+    "priceValidUntil": "2026-08-07"
   }
 }
 </script>
