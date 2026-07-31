@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 엄브로 UMBRO HBL 우먼스 블록코어 반팔 스모킹 탑 화이트: products/umbro-hbl-womens-blockcore-smocking-top.md
     - 밈더워드로브 MIMTHEWARDROBE 빈티지 워시드 체크 셔츠: products/mimthewardrobe-vintage-washed-check-shirt.md
     - 닛신 미니즈 컵 세트 (5개입): products/nissin-minis-cup-set-5ea.md
     - 일본패밀리마트 드라이미깡: products/japan-familymart-dry-mikan.md
