@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 닛신 미니즈 컵 세트 (5개입) | [보기](products/nissin-minis-cup-set-5ea.md) |
 | 일본패밀리마트 드라이미깡 | [보기](products/japan-familymart-dry-mikan.md) |
 | 세븐일레븐 유자 레몬 사이다 500ml | [보기](products/seven-eleven-yuzu-lemon-cider-500ml.md) |
 | 올가홀푸드 유기가공식품 인증 떡볶이떡 | [보기](products/olga-wholefoods-organic-tteokbokki-tteok.md) |
