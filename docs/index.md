@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 밈더워드로브 MIMTHEWARDROBE 빈티지 워시드 체크 셔츠 | [보기](products/mimthewardrobe-vintage-washed-check-shirt.md) |
 | 닛신 미니즈 컵 세트 (5개입) | [보기](products/nissin-minis-cup-set-5ea.md) |
 | 일본패밀리마트 드라이미깡 | [보기](products/japan-familymart-dry-mikan.md) |
 | 세븐일레븐 유자 레몬 사이다 500ml | [보기](products/seven-eleven-yuzu-lemon-cider-500ml.md) |
