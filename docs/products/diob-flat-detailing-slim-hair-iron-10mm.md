@@ -20,7 +20,7 @@ description: 디오비 플랫 열판 디테일링 슬림 고데기 10mm는 섬�
     "price": "78900",
     "url": "https://link.coupang.com/a/eQzxwDZNts",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -95,6 +95,8 @@ description: 디오비 플랫 열판 디테일링 슬림 고데기 10mm는 섬�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -106,31 +108,30 @@ description: 디오비 플랫 열판 디테일링 슬림 고데기 10mm는 섬�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 89 L 86 72 L 104 72 L 122 72 L 140 72 L 158 72 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 72 L 319 97 L 337 72 L 355 72 L 373 72 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 89 L 86 72 L 104 72 L 122 72 L 140 72 L 158 72 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 72 L 319 97 L 337 72 L 355 72 L 373 72 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="97" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
+    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 72 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 72 L 301 97 L 319 72 L 337 72 L 355 72 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 72 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 72 L 301 97 L 319 72 L 337 72 L 355 72 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="97" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">78,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
