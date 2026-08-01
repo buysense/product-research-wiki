@@ -19,13 +19,15 @@ description: 조스라운지 잠옷은 집에서 편안한 휴식과 숙면을 �
     "price": "115900",
     "url": "https://link.coupang.com/a/eAsds3",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-08"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -195,28 +197,27 @@ description: 조스라운지 잠옷은 집에서 편안한 휴식과 숙면을 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">115,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">110,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">125,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">115,000</text>
 
-    <path d="M 68 122 L 86 26 L 104 88 L 122 88 L 140 88 L 158 88 L 176 88 L 194 88 L 211 88 L 229 88 L 247 88 L 265 88 L 283 88 L 301 88 L 319 88 L 337 88 L 355 88 L 373 88 L 391 88 L 409 88 L 427 88 L 445 88 L 462 88 L 480 88 L 498 88 L 516 88 L 534 88 L 552 88 L 570 88 L 588 88 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 122 L 86 26 L 104 88 L 122 88 L 140 88 L 158 88 L 176 88 L 194 88 L 211 88 L 229 88 L 247 88 L 265 88 L 283 88 L 301 88 L 319 88 L 337 88 L 355 88 L 373 88 L 391 88 L 409 88 L 427 88 L 445 88 L 462 88 L 480 88 L 498 88 L 516 88 L 534 88 L 552 88 L 570 88 L 588 88" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="88" r="5" fill="#ea580c"></circle>
+    <path d="M 68 75 L 86 164 L 104 164 L 122 164 L 140 164 L 158 164 L 176 164 L 194 164 L 211 164 L 229 164 L 247 164 L 265 164 L 283 164 L 301 164 L 319 164 L 337 164 L 355 164 L 373 164 L 391 164 L 409 164 L 427 164 L 445 164 L 462 164 L 480 164 L 498 164 L 516 164 L 534 164 L 552 164 L 570 164 L 588 164 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 75 L 86 164 L 104 164 L 122 164 L 140 164 L 158 164 L 176 164 L 194 164 L 211 164 L 229 164 L 247 164 L 265 164 L 283 164 L 301 164 L 319 164 L 337 164 L 355 164 L 373 164 L 391 164 L 409 164 L 427 164 L 445 164 L 462 164 L 480 164 L 498 164 L 516 164 L 534 164 L 552 164 L 570 164 L 588 164" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="164" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="76" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">115,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="152" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">115,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
