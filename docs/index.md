@@ -105,7 +105,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 | 리웨이 허그 원터치 분유포트 | [보기](products/liway-hug-one-touch-formula-pot.md) |
 | 아기 모빌 신생아 아기 침대 감성모빌 원목 | [보기](products/baby-mobile-newborn-crib-aesthetic-wood.md) |
 | 트리미고 신생아 접이식 휴대용 유아침대 | [보기](products/trimigo-newborn-folding-portable-crib.md) |
-| [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory) | [보기](products/kaya-button-shirring-short-sleeve-top-ivory.md) |
+| [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory) | [보기](products/플리즈노팔로우-kaya-button-shirring-short-sleeve-top-ivory.md) |
 | 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow) | [보기](products/sinoon-braided-one-shoulder-tshirt-cream-yellow.md) |
 | 뉴에라 9 FORTY MLB 야구모자 LA 다저스 | [보기](products/newera-9forty-mlb-la-dodgers-cap.md) |
 | 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White | [보기](products/dauspice-duc-eyelet-stud-tank-top-white.md) |
