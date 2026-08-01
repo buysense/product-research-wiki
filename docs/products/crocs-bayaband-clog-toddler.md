@@ -20,7 +20,7 @@ description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아�
     "price": "36500",
     "url": "https://link.coupang.com/a/e5iA32qdEW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -77,9 +77,11 @@ description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -88,24 +90,24 @@ description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">37,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">36,000</text>
 
-    <path d="M 68 26 L 88 26 L 108 26 L 128 26 L 148 26 L 168 26 L 188 26 L 208 26 L 228 26 L 248 26 L 268 26 L 288 26 L 308 140 L 328 140 L 348 140 L 368 140 L 388 140 L 408 140 L 428 140 L 448 140 L 468 140 L 488 140 L 508 140 L 528 140 L 548 140 L 568 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 88 26 L 108 26 L 128 26 L 148 26 L 168 26 L 188 26 L 208 26 L 228 26 L 248 26 L 268 26 L 288 26 L 308 140 L 328 140 L 348 140 L 368 140 L 388 140 L 408 140 L 428 140 L 448 140 L 468 140 L 488 140 L 508 140 L 528 140 L 548 140 L 568 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 87 26 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 26 L 222 26 L 241 26 L 261 26 L 280 26 L 299 140 L 318 140 L 338 140 L 357 140 L 376 140 L 395 140 L 415 140 L 434 140 L 453 140 L 472 140 L 492 140 L 511 140 L 530 140 L 549 140 L 569 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 87 26 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 26 L 222 26 L 241 26 L 261 26 L 280 26 L 299 140 L 318 140 L 338 140 L 357 140 L 376 140 L 395 140 L 415 140 L 434 140 L 453 140 L 472 140 L 492 140 L 511 140 L 530 140 L 549 140 L 569 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="288" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="308" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="280" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="299" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
