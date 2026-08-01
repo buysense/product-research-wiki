@@ -20,12 +20,12 @@ description: 캐치티니핑 카메라 하츄핑은 귀여운 디자인과 셀�
     "price": "86240",
     "url": "https://link.coupang.com/a/e5hSzsnCRo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 113,
+    "reviewCount": 115,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -77,9 +77,11 @@ description: 캐치티니핑 카메라 하츄핑은 귀여운 디자인과 셀�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -88,29 +90,29 @@ description: 캐치티니핑 카메라 하츄핑은 귀여운 디자인과 셀�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
 
-    <path d="M 68 34 L 88 34 L 108 34 L 128 124 L 148 131 L 168 131 L 188 131 L 208 131 L 228 131 L 248 131 L 268 131 L 288 34 L 308 34 L 328 34 L 348 34 L 368 34 L 388 34 L 408 34 L 428 131 L 448 131 L 468 131 L 488 131 L 508 131 L 528 131 L 548 131 L 568 131 L 588 131 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 88 34 L 108 34 L 128 124 L 148 131 L 168 131 L 188 131 L 208 131 L 228 131 L 248 131 L 268 131 L 288 34 L 308 34 L 328 34 L 348 34 L 368 34 L 388 34 L 408 34 L 428 131 L 448 131 L 468 131 L 488 131 L 508 131 L 528 131 L 548 131 L 568 131 L 588 131" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 87 34 L 107 34 L 126 124 L 145 131 L 164 131 L 184 131 L 203 131 L 222 131 L 241 131 L 261 131 L 280 34 L 299 34 L 318 34 L 338 34 L 357 34 L 376 34 L 395 34 L 415 131 L 434 131 L 453 131 L 472 131 L 492 131 L 511 131 L 530 131 L 549 131 L 569 131 L 588 131 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 87 34 L 107 34 L 126 124 L 145 131 L 164 131 L 184 131 L 203 131 L 222 131 L 241 131 L 261 131 L 280 34 L 299 34 L 318 34 L 338 34 L 357 34 L 376 34 L 395 34 L 415 131 L 434 131 L 453 131 L 472 131 L 492 131 L 511 131 L 530 131 L 549 131 L 569 131 L 588 131" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="128" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="268" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="288" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="408" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="107" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="126" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="145" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="261" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="280" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="395" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="131" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="131" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="119" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">86,240원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -118,7 +120,7 @@ description: 캐치티니핑 카메라 하츄핑은 귀여운 디자인과 셀�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 86,240원 · 별점 4.8 · 리뷰 113개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 86,240원 · 별점 4.8 · 리뷰 115개</span>
     <a href="https://link.coupang.com/a/e5hSzsnCRo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -214,7 +216,7 @@ A. 이 제품은 USB 충전 방식으로, 별도의 건전지 구매 및 교체 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 86,240원 · 별점 4.8 · 리뷰 113개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 86,240원 · 별점 4.8 · 리뷰 115개</span>
     <a href="https://link.coupang.com/a/e5hSzsnCRo" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
