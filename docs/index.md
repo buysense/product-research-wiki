@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 광일식품 옥수수 고추맛콘 | [보기](products/kwangil-corn-chili-snack-1kg.md) |
 | 엄브로 UMBRO HBL 우먼스 블록코어 반팔 스모킹 탑 화이트 | [보기](products/umbro-hbl-womens-blockcore-smocking-top.md) |
 | 밈더워드로브 MIMTHEWARDROBE 빈티지 워시드 체크 셔츠 | [보기](products/mimthewardrobe-vintage-washed-check-shirt.md) |
 | 닛신 미니즈 컵 세트 (5개입) | [보기](products/nissin-minis-cup-set-5ea.md) |
