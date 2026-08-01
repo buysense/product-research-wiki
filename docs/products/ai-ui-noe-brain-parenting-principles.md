@@ -20,12 +20,12 @@ description: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙은 
     "price": "16020",
     "url": "https://link.coupang.com/a/d5UuLRICVU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 134,
+    "reviewCount": 135,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙은 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-27 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -173,7 +175,7 @@ description: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙은 
     <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
     <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
     <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -181,7 +183,7 @@ description: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙은 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,020원 · 별점 4.9 · 리뷰 134개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,020원 · 별점 4.9 · 리뷰 135개</span>
     <a href="https://link.coupang.com/a/d5UuLRICVU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -262,7 +264,7 @@ A. 이 책은 아이의 행동을 이해하고 부모의 양육 방식을 변화
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,020원 · 별점 4.9 · 리뷰 134개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,020원 · 별점 4.9 · 리뷰 135개</span>
     <a href="https://link.coupang.com/a/d5UuLRICVU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
