@@ -368,7 +368,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 | 고수맛 도리토스 | [보기](products/doritos-coriander-flavor.md) |
 | 훗카이도 한정 가리비맛 프링글스 | [보기](products/hokkaido-limited-scallop-pringles.md) |
 | 삼호어묵 바른사각 | [보기](products/samho-eomuk-barun-sagak-fish-cake.md) |
-| 조스라운지 잠옷 | [보기](products/조스라운지-잠옷.md) |
+| 조스라운지 잠옷 | [보기](products/joslounge-pajamas-buy.md) |
 | 애경 울샴푸 다운워시 | [보기](products/aekyung-woolshampoo-downwash.md) |
 | 다빈치 코드 | [보기](products/davinci-code-boardgame.md) |
 | 미원 | [보기](products/miwon-umami-seasoning.md) |
