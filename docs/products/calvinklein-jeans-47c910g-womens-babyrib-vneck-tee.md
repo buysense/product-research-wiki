@@ -19,7 +19,7 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
     "price": "65100",
     "url": "https://link.coupang.com/a/fiMa3rVXVI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-09"
+    "priceValidUntil": "2026-08-10"
   }
 }
 </script>
@@ -57,9 +57,11 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -68,23 +70,24 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
 
-    <path d="M 68 120 L 94 120 L 120 120 L 146 120 L 172 120 L 198 120 L 224 120 L 250 120 L 276 120 L 302 120 L 328 120 L 354 120 L 380 120 L 406 120 L 432 120 L 458 120 L 484 120 L 510 120 L 536 120 L 562 120 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 120 L 94 120 L 120 120 L 146 120 L 172 120 L 198 120 L 224 120 L 250 120 L 276 120 L 302 120 L 328 120 L 354 120 L 380 120 L 406 120 L 432 120 L 458 120 L 484 120 L 510 120 L 536 120 L 562 120 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 120 L 93 120 L 118 120 L 142 120 L 167 120 L 192 120 L 217 120 L 241 120 L 266 120 L 291 120 L 316 120 L 340 120 L 365 120 L 390 120 L 415 120 L 439 120 L 464 120 L 489 120 L 514 120 L 538 120 L 563 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 120 L 93 120 L 118 120 L 142 120 L 167 120 L 192 120 L 217 120 L 241 120 L 266 120 L 291 120 L 316 120 L 340 120 L 365 120 L 390 120 L 415 120 L 439 120 L 464 120 L 489 120 L 514 120 L 538 120 L 563 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="562" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="538" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="563" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">65,100원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
