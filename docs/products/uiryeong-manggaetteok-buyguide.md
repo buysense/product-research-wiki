@@ -20,12 +20,12 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
     "price": "52000",
     "url": "https://link.coupang.com/a/eCue7p",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 1046,
+    "reviewCount": 1047,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-04 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -203,34 +205,34 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">54,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">52,000</text>
 
-    <path d="M 68 74 L 86 74 L 104 74 L 122 74 L 140 176 L 158 74 L 176 74 L 194 74 L 211 74 L 229 74 L 247 74 L 265 74 L 283 176 L 301 74 L 319 74 L 337 176 L 355 176 L 373 176 L 391 74 L 409 74 L 427 74 L 445 74 L 462 74 L 480 74 L 498 178 L 516 178 L 534 178 L 552 178 L 570 178 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 74 L 86 74 L 104 74 L 122 74 L 140 176 L 158 74 L 176 74 L 194 74 L 211 74 L 229 74 L 247 74 L 265 74 L 283 176 L 301 74 L 319 74 L 337 176 L 355 176 L 373 176 L 391 74 L 409 74 L 427 74 L 445 74 L 462 74 L 480 74 L 498 178 L 516 178 L 534 178 L 552 178 L 570 178 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 74 L 86 74 L 104 74 L 122 176 L 140 74 L 158 74 L 176 74 L 194 74 L 211 74 L 229 74 L 247 74 L 265 176 L 283 74 L 301 74 L 319 176 L 337 176 L 355 176 L 373 74 L 391 74 L 409 74 L 427 74 L 445 74 L 462 74 L 480 178 L 498 178 L 516 178 L 534 178 L 552 178 L 570 178 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 74 L 86 74 L 104 74 L 122 176 L 140 74 L 158 74 L 176 74 L 194 74 L 211 74 L 229 74 L 247 74 L 265 176 L 283 74 L 301 74 L 319 176 L 337 176 L 355 176 L 373 74 L 391 74 L 409 74 L 427 74 L 445 74 L 462 74 L 480 178 L 498 178 L 516 178 L 534 178 L 552 178 L 570 178 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="74" r="4" fill="#fdba74"></circle>
     <circle cx="301" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="178" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="178" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">52,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -238,7 +240,7 @@ description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 52,000원 · 별점 4.5 · 리뷰 1,046개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 52,000원 · 별점 4.5 · 리뷰 1,047개</span>
     <a href="https://link.coupang.com/a/eCue7p" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -321,7 +323,7 @@ A. 온라인으로 구매하는 망개떡은 현지에서 갓 만든 떡과는 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 52,000원 · 별점 4.5 · 리뷰 1,046개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 52,000원 · 별점 4.5 · 리뷰 1,047개</span>
     <a href="https://link.coupang.com/a/eCue7p" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
