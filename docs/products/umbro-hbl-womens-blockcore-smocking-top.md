@@ -19,7 +19,7 @@ description: 엄브로 UMBRO HBL 우먼스 블록코어 반팔 스모킹 탑 화
     "price": "98600",
     "url": "https://link.coupang.com/a/fPXjrq4eiG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-09"
   }
 }
 </script>
