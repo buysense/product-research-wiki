@@ -17,15 +17,15 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "12400",
+    "price": "13000",
     "url": "https://link.coupang.com/a/ejlaj37N3A",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 927,
+    "reviewCount": 932,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-04 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -142,42 +144,42 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
 
-    <path d="M 68 140 L 86 178 L 104 140 L 122 140 L 140 178 L 158 178 L 176 178 L 194 140 L 211 64 L 229 26 L 247 72 L 265 165 L 283 157 L 301 157 L 319 157 L 337 28 L 355 143 L 373 143 L 391 143 L 409 143 L 427 143 L 445 143 L 462 143 L 480 143 L 498 119 L 516 165 L 534 119 L 552 157 L 570 26 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 86 178 L 104 140 L 122 140 L 140 178 L 158 178 L 176 178 L 194 140 L 211 64 L 229 26 L 247 72 L 265 165 L 283 157 L 301 157 L 319 157 L 337 28 L 355 143 L 373 143 L 391 143 L 409 143 L 427 143 L 445 143 L 462 143 L 480 143 L 498 119 L 516 165 L 534 119 L 552 157 L 570 26 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="178" r="4" fill="#fdba74"></circle>
+    <path d="M 68 178 L 86 140 L 104 140 L 122 178 L 140 178 L 158 178 L 176 140 L 194 64 L 211 26 L 229 72 L 247 165 L 265 157 L 283 157 L 301 157 L 319 28 L 337 143 L 355 143 L 373 143 L 391 143 L 409 143 L 427 143 L 445 143 L 462 143 L 480 119 L 498 165 L 516 119 L 534 157 L 552 26 L 570 72 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 178 L 86 140 L 104 140 L 122 178 L 140 178 L 158 178 L 176 140 L 194 64 L 211 26 L 229 72 L 247 165 L 265 157 L 283 157 L 301 157 L 319 28 L 337 143 L 355 143 L 373 143 L 391 143 L 409 143 L 427 143 L 445 143 L 462 143 L 480 119 L 498 165 L 516 119 L 534 157 L 552 26 L 570 72 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
+    <circle cx="122" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="165" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="165" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -185,7 +187,7 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,400원 · 별점 4.8 · 리뷰 927개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,000원 · 별점 4.8 · 리뷰 932개</span>
     <a href="https://link.coupang.com/a/ejlaj37N3A" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -270,7 +272,7 @@ A. 자연스러운 데일리 메이크업을 완성하고 싶을 때, 피부에 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,400원 · 별점 4.8 · 리뷰 927개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,000원 · 별점 4.8 · 리뷰 932개</span>
     <a href="https://link.coupang.com/a/ejlaj37N3A" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
