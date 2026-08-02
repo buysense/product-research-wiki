@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 누구를 위하여 종은 울리나 | [보기](products/ernest-hemingway-for-whom-the-bell-tolls.md) |
 | 참을 수 없는 존재의 가벼움 | [보기](products/unbearable-lightness-being-book.md) |
 | 국내최초 99.94%지속 쿨링선스프레이 | [보기](products/cooling-sun-spray-99-percent.md) |
 | 광일식품 옥수수 고추맛콘 | [보기](products/kwangil-corn-chili-snack-1kg.md) |
