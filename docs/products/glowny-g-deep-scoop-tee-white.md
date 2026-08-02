@@ -19,7 +19,7 @@ description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 
     "price": "52200",
     "url": "https://link.coupang.com/a/fzbtCFf6cu",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-08"
+    "priceValidUntil": "2026-08-09"
   }
 }
 </script>
@@ -35,9 +35,11 @@ description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 11개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -46,27 +48,28 @@ description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
 
-    <path d="M 68 138 L 126 138 L 184 170 L 241 170 L 299 138 L 357 138 L 415 138 L 472 138 L 530 138 L 588 69 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 138 L 126 138 L 184 170 L 241 170 L 299 138 L 357 138 L 415 138 L 472 138 L 530 138 L 588 69" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 138 L 120 138 L 172 170 L 224 170 L 276 138 L 328 138 L 380 138 L 432 138 L 484 138 L 536 69 L 588 69 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 138 L 120 138 L 172 170 L 224 170 L 276 138 L 328 138 L 380 138 L 432 138 L 484 138 L 536 69 L 588 69" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="120" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="224" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="536" cy="69" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="69" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="57" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">52,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
