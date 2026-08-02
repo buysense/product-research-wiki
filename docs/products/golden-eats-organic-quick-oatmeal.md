@@ -20,7 +20,7 @@ description: 골든잇츠 유기농 퀵 오트밀은 바쁜 아침, 건강한 �
     "price": "13860",
     "url": "https://link.coupang.com/a/dSHBjRPhn2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-08"
+    "priceValidUntil": "2026-08-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -166,6 +166,8 @@ description: 골든잇츠 유기농 퀵 오트밀은 바쁜 아침, 건강한 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -173,27 +175,26 @@ description: 골든잇츠 유기농 퀵 오트밀은 바쁜 아침, 건강한 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,900</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,800</text>
 
-    <path d="M 68 36 L 86 149 L 104 149 L 122 149 L 140 149 L 158 149 L 176 149 L 194 149 L 211 149 L 229 149 L 247 149 L 265 149 L 283 149 L 301 149 L 319 149 L 337 149 L 355 149 L 373 149 L 391 149 L 409 149 L 427 149 L 445 149 L 462 149 L 480 149 L 498 149 L 516 149 L 534 149 L 552 149 L 570 149 L 588 149 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 36 L 86 149 L 104 149 L 122 149 L 140 149 L 158 149 L 176 149 L 194 149 L 211 149 L 229 149 L 247 149 L 265 149 L 283 149 L 301 149 L 319 149 L 337 149 L 355 149 L 373 149 L 391 149 L 409 149 L 427 149 L 445 149 L 462 149 L 480 149 L 498 149 L 516 149 L 534 149 L 552 149 L 570 149 L 588 149" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="149" r="5" fill="#ea580c"></circle>
+    <path d="M 68 132 L 86 132 L 104 132 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 132 L 265 132 L 283 132 L 301 132 L 319 132 L 337 132 L 355 132 L 373 132 L 391 132 L 409 132 L 427 132 L 445 132 L 462 132 L 480 132 L 498 132 L 516 132 L 534 132 L 552 132 L 570 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 86 132 L 104 132 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 132 L 265 132 L 283 132 L 301 132 L 319 132 L 337 132 L 355 132 L 373 132 L 391 132 L 409 132 L 427 132 L 445 132 L 462 132 L 480 132 L 498 132 L 516 132 L 534 132 L 552 132 L 570 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="137" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,860원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,860원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
