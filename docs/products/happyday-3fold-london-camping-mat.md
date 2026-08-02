@@ -20,12 +20,12 @@ description: 해피데이 3단 런던 캠핑매트는 가족 단위 야외 활�
     "price": "23300",
     "url": "https://link.coupang.com/a/esUMd5",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-08"
+    "priceValidUntil": "2026-08-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 8083,
+    "reviewCount": 8086,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -35,6 +35,8 @@ description: 해피데이 3단 런던 캠핑매트는 가족 단위 야외 활�
   📅 작성일: 2026-04-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
 ## 참고한 글
+
+
 
 
 
@@ -213,29 +215,28 @@ description: 해피데이 3단 런던 캠핑매트는 가족 단위 야외 활�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 77 L 86 142 L 104 142 L 122 142 L 140 137 L 158 134 L 176 109 L 194 109 L 211 109 L 229 109 L 247 109 L 265 109 L 283 109 L 301 109 L 319 109 L 337 109 L 355 109 L 373 109 L 391 109 L 409 109 L 427 109 L 445 109 L 462 53 L 480 53 L 498 53 L 516 53 L 534 53 L 552 53 L 570 53 L 588 53 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 77 L 86 142 L 104 142 L 122 142 L 140 137 L 158 134 L 176 109 L 194 109 L 211 109 L 229 109 L 247 109 L 265 109 L 283 109 L 301 109 L 319 109 L 337 109 L 355 109 L 373 109 L 391 109 L 409 109 L 427 109 L 445 109 L 462 53 L 480 53 L 498 53 L 516 53 L 534 53 L 552 53 L 570 53 L 588 53" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="77" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="53" r="4" fill="#fdba74"></circle>
+    <path d="M 68 142 L 86 142 L 104 142 L 122 137 L 140 134 L 158 109 L 176 109 L 194 109 L 211 109 L 229 109 L 247 109 L 265 109 L 283 109 L 301 109 L 319 109 L 337 109 L 355 109 L 373 109 L 391 109 L 409 109 L 427 109 L 445 53 L 462 53 L 480 53 L 498 53 L 516 53 L 534 53 L 552 53 L 570 53 L 588 53 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 142 L 86 142 L 104 142 L 122 137 L 140 134 L 158 109 L 176 109 L 194 109 L 211 109 L 229 109 L 247 109 L 265 109 L 283 109 L 301 109 L 319 109 L 337 109 L 355 109 L 373 109 L 391 109 L 409 109 L 427 109 L 445 53 L 462 53 L 480 53 L 498 53 L 516 53 L 534 53 L 552 53 L 570 53 L 588 53" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="53" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="53" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="41" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,300원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -243,7 +244,7 @@ description: 해피데이 3단 런던 캠핑매트는 가족 단위 야외 활�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,300원 · 별점 4.6 · 리뷰 8,083개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,300원 · 별점 4.6 · 리뷰 8,086개</span>
     <a href="https://link.coupang.com/a/esUMd5" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -330,7 +331,7 @@ A. 3단 접이식 구조로 접었을 때 부피가 줄어들어 차량 트렁�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,300원 · 별점 4.6 · 리뷰 8,083개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,300원 · 별점 4.6 · 리뷰 8,086개</span>
     <a href="https://link.coupang.com/a/esUMd5" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
