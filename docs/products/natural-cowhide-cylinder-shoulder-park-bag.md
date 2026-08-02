@@ -20,7 +20,7 @@ description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 
     "price": "92000",
     "url": "https://link.coupang.com/a/fHFCAOL6wS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-09"
+    "priceValidUntil": "2026-08-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -36,9 +36,11 @@ description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 
 </p>
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -47,18 +49,20 @@ description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">88,000</text>
 
-    <path d="M 68 26 L 241 26 L 415 106 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 241 26 L 415 106 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 198 26 L 328 106 L 458 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 198 26 L 328 106 L 458 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="458" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">92,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
