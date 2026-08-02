@@ -20,7 +20,7 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
     "price": "67660",
     "url": "https://link.coupang.com/a/exUBa1",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-09"
+    "priceValidUntil": "2026-08-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -201,6 +201,8 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -208,42 +210,41 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">75,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">70,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">65,000</text>
 
-    <path d="M 68 162 L 86 120 L 104 82 L 122 82 L 140 82 L 158 82 L 176 112 L 194 112 L 211 112 L 229 112 L 247 112 L 265 112 L 283 112 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 105 L 409 114 L 427 114 L 445 115 L 462 114 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 120 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 162 L 86 120 L 104 82 L 122 82 L 140 82 L 158 82 L 176 112 L 194 112 L 211 112 L 229 112 L 247 112 L 265 112 L 283 112 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 105 L 409 114 L 427 114 L 445 115 L 462 114 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 120 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="120" r="5" fill="#ea580c"></circle>
+    <path d="M 68 138 L 86 62 L 104 62 L 122 62 L 140 62 L 158 122 L 176 122 L 194 122 L 211 122 L 229 122 L 247 122 L 265 122 L 283 119 L 301 118 L 319 118 L 337 118 L 355 118 L 373 109 L 391 126 L 409 126 L 427 128 L 445 126 L 462 126 L 480 126 L 498 126 L 516 126 L 534 126 L 552 138 L 570 138 L 588 138 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 138 L 86 62 L 104 62 L 122 62 L 140 62 L 158 122 L 176 122 L 194 122 L 211 122 L 229 122 L 247 122 L 265 122 L 283 119 L 301 118 L 319 118 L 337 118 L 355 118 L 373 109 L 391 126 L 409 126 L 427 128 L 445 126 L 462 126 L 480 126 L 498 126 L 516 126 L 534 126 L 552 138 L 570 138 L 588 138" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="138" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="108" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">67,660원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="126" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">67,660원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
