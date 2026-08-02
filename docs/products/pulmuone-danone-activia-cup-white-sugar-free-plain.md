@@ -17,15 +17,15 @@ description: 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "23290",
+    "price": "28960",
     "url": "https://link.coupang.com/a/dGImz8F6Zw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 68750,
+    "reviewCount": 68833,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -176,6 +176,8 @@ description: 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -183,32 +185,33 @@ description: 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">23,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 129 L 176 129 L 194 129 L 211 129 L 229 129 L 247 129 L 265 129 L 283 129 L 301 129 L 319 129 L 337 129 L 355 129 L 373 86 L 391 86 L 409 86 L 427 86 L 445 86 L 462 86 L 480 86 L 498 80 L 516 80 L 534 80 L 552 80 L 570 80 L 588 80 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 129 L 176 129 L 194 129 L 211 129 L 229 129 L 247 129 L 265 129 L 283 129 L 301 129 L 319 129 L 337 129 L 355 129 L 373 86 L 391 86 L 409 86 L 427 86 L 445 86 L 462 86 L 480 86 L 498 80 L 516 80 L 534 80 L 552 80 L 570 80 L 588 80" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="129" r="4" fill="#fdba74"></circle>
+    <path d="M 68 116 L 86 116 L 104 116 L 122 116 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 138 L 355 129 L 373 129 L 391 129 L 409 129 L 427 129 L 445 129 L 462 129 L 480 128 L 498 128 L 516 128 L 534 128 L 552 128 L 570 128 L 588 42 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 116 L 86 116 L 104 116 L 122 116 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 138 L 355 129 L 373 129 L 391 129 L 409 129 L 427 129 L 445 129 L 462 129 L 480 128 L 498 128 L 516 128 L 534 128 L 552 128 L 570 128 L 588 42" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="138" r="4" fill="#fdba74"></circle>
     <circle cx="355" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="80" r="5" fill="#ea580c"></circle>
+    <circle cx="462" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="42" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="68" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,290원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="30" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,960원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -216,7 +219,7 @@ description: 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,290원 · 별점 4.8 · 리뷰 68,750개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,960원 · 별점 4.8 · 리뷰 68,833개</span>
     <a href="https://link.coupang.com/a/dGImz8F6Zw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -291,7 +294,7 @@ A. 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레인은 설�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,290원 · 별점 4.8 · 리뷰 68,750개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,960원 · 별점 4.8 · 리뷰 68,833개</span>
     <a href="https://link.coupang.com/a/dGImz8F6Zw" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
