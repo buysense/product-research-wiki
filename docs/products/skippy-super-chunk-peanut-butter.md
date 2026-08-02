@@ -20,12 +20,12 @@ description: 스키피 수퍼 청크 피넛 버터는 큼직한 땅콩 알갱이
     "price": "23700",
     "url": "https://link.coupang.com/a/ewTzWf",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 49010,
+    "reviewCount": 48911,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -194,6 +194,8 @@ description: 스키피 수퍼 청크 피넛 버터는 큼직한 땅콩 알갱이
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -201,35 +203,35 @@ description: 스키피 수퍼 청크 피넛 버터는 큼직한 땅콩 알갱이
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 80 L 86 119 L 104 129 L 122 119 L 140 130 L 158 130 L 176 130 L 194 130 L 211 130 L 229 130 L 247 130 L 265 130 L 283 130 L 301 130 L 319 130 L 337 130 L 355 130 L 373 130 L 391 130 L 409 130 L 427 130 L 445 130 L 462 130 L 480 130 L 498 130 L 516 131 L 534 131 L 552 131 L 570 131 L 588 164 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 80 L 86 119 L 104 129 L 122 119 L 140 130 L 158 130 L 176 130 L 194 130 L 211 130 L 229 130 L 247 130 L 265 130 L 283 130 L 301 130 L 319 130 L 337 130 L 355 130 L 373 130 L 391 130 L 409 130 L 427 130 L 445 130 L 462 130 L 480 130 L 498 130 L 516 131 L 534 131 L 552 131 L 570 131 L 588 164" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="130" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="130" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="130" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="130" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="164" r="5" fill="#ea580c"></circle>
+    <path d="M 68 61 L 86 80 L 104 61 L 122 81 L 140 81 L 158 81 L 176 81 L 194 81 L 211 81 L 229 81 L 247 82 L 265 82 L 283 82 L 301 82 L 319 82 L 337 82 L 355 82 L 373 82 L 391 82 L 409 82 L 427 82 L 445 82 L 462 82 L 480 82 L 498 83 L 516 83 L 534 83 L 552 83 L 570 150 L 588 150 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 61 L 86 80 L 104 61 L 122 81 L 140 81 L 158 81 L 176 81 L 194 81 L 211 81 L 229 81 L 247 82 L 265 82 L 283 82 L 301 82 L 319 82 L 337 82 L 355 82 L 373 82 L 391 82 L 409 82 L 427 82 L 445 82 L 462 82 L 480 82 L 498 83 L 516 83 L 534 83 L 552 83 L 570 150 L 588 150" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="150" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="150" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="152" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,700원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="138" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,700원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -237,7 +239,7 @@ description: 스키피 수퍼 청크 피넛 버터는 큼직한 땅콩 알갱이
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,700원 · 별점 4.8 · 리뷰 49,010개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,700원 · 별점 4.8 · 리뷰 48,911개</span>
     <a href="https://link.coupang.com/a/ewTzWf" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -315,7 +317,7 @@ A. 가장 큰 차이는 땅콩 알갱이의 유무입니다. 수퍼 청크는 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,700원 · 별점 4.8 · 리뷰 49,010개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,700원 · 별점 4.8 · 리뷰 48,911개</span>
     <a href="https://link.coupang.com/a/ewTzWf" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
