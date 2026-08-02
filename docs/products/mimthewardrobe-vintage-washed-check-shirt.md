@@ -16,10 +16,10 @@ description: 밈더워드로브 빈티지 워시드 체크 셔츠는 캐주얼�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "64000",
+    "price": "70500",
     "url": "https://link.coupang.com/a/fPWM6vplpA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-09"
   }
 }
 </script>
