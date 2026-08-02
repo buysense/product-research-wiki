@@ -20,7 +20,7 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
     "price": "10560",
     "url": "https://link.coupang.com/a/ersmX2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-09"
+    "priceValidUntil": "2026-08-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -200,6 +200,8 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -211,36 +213,36 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 169 L 86 169 L 104 166 L 122 169 L 140 169 L 158 169 L 176 169 L 194 166 L 211 169 L 229 99 L 247 99 L 265 155 L 283 155 L 301 155 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 169 L 462 166 L 480 166 L 498 166 L 516 166 L 534 166 L 552 166 L 570 166 L 588 169 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 169 L 86 169 L 104 166 L 122 169 L 140 169 L 158 169 L 176 169 L 194 166 L 211 169 L 229 99 L 247 99 L 265 155 L 283 155 L 301 155 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 169 L 462 166 L 480 166 L 498 166 L 516 166 L 534 166 L 552 166 L 570 166 L 588 169" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 169 L 86 166 L 104 169 L 122 169 L 140 169 L 158 169 L 176 166 L 194 169 L 211 99 L 229 99 L 247 155 L 265 155 L 283 155 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 166 L 462 166 L 480 166 L 498 166 L 516 166 L 534 166 L 552 166 L 570 169 L 588 169 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 169 L 86 166 L 104 169 L 122 169 L 140 169 L 158 169 L 176 166 L 194 169 L 211 99 L 229 99 L 247 155 L 265 155 L 283 155 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 166 L 462 166 L 480 166 L 498 166 L 516 166 L 534 166 L 552 166 L 570 169 L 588 169" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="99" r="4" fill="#fdba74"></circle>
     <circle cx="229" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="169" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="169" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="157" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,560원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
