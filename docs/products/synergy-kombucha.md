@@ -17,16 +17,18 @@ description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "74400",
+    "price": "136000",
     "url": "https://link.coupang.com/a/eDdjUm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "priceValidUntil": "2026-08-09"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-05 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -190,28 +192,29 @@ description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">78,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">76,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">74,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 30 L 86 30 L 104 30 L 122 30 L 140 30 L 158 30 L 176 30 L 194 30 L 211 30 L 229 30 L 247 30 L 265 30 L 283 30 L 301 30 L 319 30 L 337 30 L 355 30 L 373 30 L 391 30 L 409 30 L 427 30 L 445 30 L 462 30 L 480 30 L 498 30 L 516 30 L 534 163 L 552 163 L 570 163 L 588 163 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 30 L 86 30 L 104 30 L 122 30 L 140 30 L 158 30 L 176 30 L 194 30 L 211 30 L 229 30 L 247 30 L 265 30 L 283 30 L 301 30 L 319 30 L 337 30 L 355 30 L 373 30 L 391 30 L 409 30 L 427 30 L 445 30 L 462 30 L 480 30 L 498 30 L 516 30 L 534 163 L 552 163 L 570 163 L 588 163" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="163" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="163" r="5" fill="#ea580c"></circle>
+    <path d="M 68 136 L 86 136 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 136 L 427 136 L 445 136 L 462 136 L 480 136 L 498 136 L 516 141 L 534 141 L 552 141 L 570 141 L 588 47 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 136 L 86 136 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 136 L 427 136 L 445 136 L 462 136 L 480 136 L 498 136 L 516 141 L 534 141 L 552 141 L 570 141 L 588 47" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="47" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="151" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">74,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-29</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="35" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">136,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
