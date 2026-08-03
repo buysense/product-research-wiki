@@ -19,7 +19,7 @@ description: 어니스트 헤밍웨이의 장편소설 누구를 위하여 종�
     "price": "21600",
     "url": "https://link.coupang.com/a/fTprT1cgA8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
