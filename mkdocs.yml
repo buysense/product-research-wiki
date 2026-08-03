@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 바스커빌가의 사냥개: products/baskervilles-hound-sherlock-holmes.md
     - 무진기행: products/mujingiyang-novel.md
     - 누구를 위하여 종은 울리나: products/ernest-hemingway-for-whom-the-bell-tolls.md
     - 참을 수 없는 존재의 가벼움: products/unbearable-lightness-being-book.md

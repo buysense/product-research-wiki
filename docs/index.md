@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 바스커빌가의 사냥개 | [보기](products/baskervilles-hound-sherlock-holmes.md) |
 | 무진기행 | [보기](products/mujingiyang-novel.md) |
 | 누구를 위하여 종은 울리나 | [보기](products/ernest-hemingway-for-whom-the-bell-tolls.md) |
 | 참을 수 없는 존재의 가벼움 | [보기](products/unbearable-lightness-being-book.md) |
