@@ -19,7 +19,7 @@ description: 바스커빌가의 사냥개는 아서 코난 도일의 대표적�
     "price": "12600",
     "url": "https://link.coupang.com/a/fUXHp72mia",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-11"
   }
 }
 </script>
