@@ -173,6 +173,8 @@ description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -184,44 +186,43 @@ description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">23,500</text>
 
-    <path d="M 68 84 L 86 84 L 104 155 L 122 119 L 140 126 L 158 126 L 176 164 L 194 169 L 211 178 L 229 178 L 247 178 L 265 84 L 283 84 L 301 84 L 319 129 L 337 132 L 355 132 L 373 140 L 391 140 L 409 155 L 427 169 L 445 155 L 462 170 L 480 170 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 84 L 86 84 L 104 155 L 122 119 L 140 126 L 158 126 L 176 164 L 194 169 L 211 178 L 229 178 L 247 178 L 265 84 L 283 84 L 301 84 L 319 129 L 337 132 L 355 132 L 373 140 L 391 140 L 409 155 L 427 169 L 445 155 L 462 170 L 480 170 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 84 L 86 155 L 104 119 L 122 126 L 140 126 L 158 164 L 176 169 L 194 178 L 211 178 L 229 178 L 247 84 L 265 84 L 283 84 L 301 129 L 319 132 L 337 132 L 355 140 L 373 140 L 391 155 L 409 169 L 427 155 L 445 170 L 462 170 L 480 84 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 84 L 86 155 L 104 119 L 122 126 L 140 126 L 158 164 L 176 169 L 194 178 L 211 178 L 229 178 L 247 84 L 265 84 L 283 84 L 301 129 L 319 132 L 337 132 L 355 140 L 373 140 L 391 155 L 409 169 L 427 155 L 445 170 L 462 170 L 480 84 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="126" r="4" fill="#fdba74"></circle>
     <circle cx="140" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="132" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="373" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="170" r="4" fill="#fdba74"></circle>
     <circle cx="462" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="84" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="84" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="72" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,120원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
