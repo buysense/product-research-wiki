@@ -20,12 +20,12 @@ description: 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레�
     "price": "28960",
     "url": "https://link.coupang.com/a/dGImz8F6Zw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-09"
+    "priceValidUntil": "2026-08-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 68833,
+    "reviewCount": 68856,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레�
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-12 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -189,29 +191,30 @@ description: 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 116 L 86 116 L 104 116 L 122 116 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 138 L 355 129 L 373 129 L 391 129 L 409 129 L 427 129 L 445 129 L 462 129 L 480 128 L 498 128 L 516 128 L 534 128 L 552 128 L 570 128 L 588 42 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 116 L 86 116 L 104 116 L 122 116 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 138 L 355 129 L 373 129 L 391 129 L 409 129 L 427 129 L 445 129 L 462 129 L 480 128 L 498 128 L 516 128 L 534 128 L 552 128 L 570 128 L 588 42" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 116 L 86 116 L 104 116 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 129 L 355 129 L 373 129 L 391 129 L 409 129 L 427 129 L 445 129 L 462 128 L 480 128 L 498 128 L 516 128 L 534 128 L 552 128 L 570 42 L 588 42 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 116 L 86 116 L 104 116 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 129 L 355 129 L 373 129 L 391 129 L 409 129 L 427 129 L 445 129 L 462 128 L 480 128 L 498 128 L 516 128 L 534 128 L 552 128 L 570 42 L 588 42" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="116" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="116" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="128" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="42" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="42" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="30" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,960원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -219,7 +222,7 @@ description: 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,960원 · 별점 4.8 · 리뷰 68,833개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,960원 · 별점 4.8 · 리뷰 68,856개</span>
     <a href="https://link.coupang.com/a/dGImz8F6Zw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -294,7 +297,7 @@ A. 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레인은 설�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,960원 · 별점 4.8 · 리뷰 68,833개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,960원 · 별점 4.8 · 리뷰 68,856개</span>
     <a href="https://link.coupang.com/a/dGImz8F6Zw" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
