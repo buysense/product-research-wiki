@@ -19,7 +19,7 @@ description: "김승옥 작가의 대표작 \"무진기행\" 구매 가이드. �
     "price": "9900",
     "url": "https://link.coupang.com/a/fUV1CHlEZ2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
