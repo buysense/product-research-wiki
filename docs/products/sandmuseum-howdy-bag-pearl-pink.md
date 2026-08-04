@@ -19,7 +19,7 @@ description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인�
     "price": "241600",
     "url": "https://link.coupang.com/a/fF1B0SKg32",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-12"
   }
 }
 </script>
@@ -32,9 +32,11 @@ description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -43,20 +45,21 @@ description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
 
-    <path d="M 68 133 L 172 133 L 276 133 L 380 133 L 484 39 L 588 39 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 133 L 172 133 L 276 133 L 380 133 L 484 39 L 588 39" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 133 L 155 133 L 241 133 L 328 133 L 415 39 L 501 39 L 588 39 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 133 L 155 133 L 241 133 L 328 133 L 415 39 L 501 39 L 588 39" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="133" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="133" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="39" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="133" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="39" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="39" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="27" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">241,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
