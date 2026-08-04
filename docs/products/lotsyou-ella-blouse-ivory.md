@@ -19,7 +19,7 @@ description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 �
     "price": "86200",
     "url": "https://link.coupang.com/a/fftO3c7Xbw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-11"
   }
 }
 </script>
@@ -59,9 +59,11 @@ description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -70,28 +72,28 @@ description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
 
-    <path d="M 68 78 L 93 78 L 118 78 L 142 78 L 167 78 L 192 131 L 217 131 L 241 131 L 266 131 L 291 131 L 316 131 L 340 131 L 365 131 L 390 131 L 415 131 L 439 131 L 464 131 L 489 51 L 514 51 L 538 131 L 563 131 L 588 131 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 78 L 93 78 L 118 78 L 142 78 L 167 78 L 192 131 L 217 131 L 241 131 L 266 131 L 291 131 L 316 131 L 340 131 L 365 131 L 390 131 L 415 131 L 439 131 L 464 131 L 489 51 L 514 51 L 538 131 L 563 131 L 588 131" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 78 L 92 78 L 115 78 L 139 78 L 163 78 L 186 131 L 210 131 L 233 131 L 257 131 L 281 131 L 304 131 L 328 131 L 352 131 L 375 131 L 399 131 L 423 131 L 446 131 L 470 51 L 493 51 L 517 131 L 541 131 L 564 131 L 588 131 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 78 L 92 78 L 115 78 L 139 78 L 163 78 L 186 131 L 210 131 L 233 131 L 257 131 L 281 131 L 304 131 L 328 131 L 352 131 L 375 131 L 399 131 L 423 131 L 446 131 L 470 51 L 493 51 L 517 131 L 541 131 L 564 131 L 588 131" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="167" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="192" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="464" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="489" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="538" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="163" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="186" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="470" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="517" cy="131" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="131" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="119" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">86,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
