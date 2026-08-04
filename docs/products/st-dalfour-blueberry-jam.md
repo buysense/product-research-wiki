@@ -17,15 +17,15 @@ description: 샹달프 블루베리잼은 설탕 대신 과일 농축액으로 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "6580",
+    "price": "7340",
     "url": "https://link.coupang.com/a/eBvq21",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 5308,
+    "reviewCount": 5317,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 샹달프 블루베리잼은 설탕 대신 과일 농축액으로 �
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -209,30 +211,31 @@ description: 샹달프 블루베리잼은 설탕 대신 과일 농축액으로 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,500</text>
 
-    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 50 L 158 143 L 176 50 L 194 50 L 211 50 L 229 50 L 247 50 L 265 50 L 283 50 L 301 50 L 319 50 L 337 166 L 355 50 L 373 50 L 391 50 L 409 50 L 427 50 L 445 50 L 462 50 L 480 50 L 498 50 L 516 50 L 534 50 L 552 50 L 570 166 L 588 166 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 50 L 158 143 L 176 50 L 194 50 L 211 50 L 229 50 L 247 50 L 265 50 L 283 50 L 301 50 L 319 50 L 337 166 L 355 50 L 373 50 L 391 50 L 409 50 L 427 50 L 445 50 L 462 50 L 480 50 L 498 50 L 516 50 L 534 50 L 552 50 L 570 166 L 588 166" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 143 L 158 50 L 176 50 L 194 50 L 211 50 L 229 50 L 247 50 L 265 50 L 283 50 L 301 50 L 319 166 L 337 50 L 355 50 L 373 50 L 391 50 L 409 50 L 427 50 L 445 50 L 462 50 L 480 50 L 498 50 L 516 50 L 534 50 L 552 166 L 570 166 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 143 L 158 50 L 176 50 L 194 50 L 211 50 L 229 50 L 247 50 L 265 50 L 283 50 L 301 50 L 319 166 L 337 50 L 355 50 L 373 50 L 391 50 L 409 50 L 427 50 L 445 50 L 462 50 L 480 50 L 498 50 L 516 50 L 534 50 L 552 166 L 570 166 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="143" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="166" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="166" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="50" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="154" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,580원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="38" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,340원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -240,7 +243,7 @@ description: 샹달프 블루베리잼은 설탕 대신 과일 농축액으로 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,580원 · 별점 4.8 · 리뷰 5,308개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,340원 · 별점 4.8 · 리뷰 5,317개</span>
     <a href="https://link.coupang.com/a/eBvq21" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -319,7 +322,7 @@ A. 네, 일반적인 설탕 베이스 잼에 비해 가격대가 높은 편입�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,580원 · 별점 4.8 · 리뷰 5,308개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,340원 · 별점 4.8 · 리뷰 5,317개</span>
     <a href="https://link.coupang.com/a/eBvq21" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
