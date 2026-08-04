@@ -17,15 +17,15 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "39420",
+    "price": "37120",
     "url": "https://link.coupang.com/a/fl5yLovy8a",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 857,
+    "reviewCount": 864,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -59,9 +59,11 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -70,31 +72,32 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 26 L 99 27 L 129 27 L 160 27 L 190 27 L 221 27 L 252 111 L 282 27 L 313 27 L 343 27 L 374 27 L 404 27 L 435 100 L 466 137 L 496 65 L 527 65 L 557 65 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 99 27 L 129 27 L 160 27 L 190 27 L 221 27 L 252 111 L 282 27 L 313 27 L 343 27 L 374 27 L 404 27 L 435 100 L 466 137 L 496 65 L 527 65 L 557 65 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 97 27 L 126 27 L 155 27 L 184 27 L 212 27 L 241 111 L 270 27 L 299 27 L 328 27 L 357 27 L 386 27 L 415 100 L 444 137 L 472 65 L 501 65 L 530 65 L 559 111 L 588 146 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 97 27 L 126 27 L 155 27 L 184 27 L 212 27 L 241 111 L 270 27 L 299 27 L 328 27 L 357 27 L 386 27 L 415 100 L 444 137 L 472 65 L 501 65 L 530 65 L 559 111 L 588 146" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="99" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="221" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="252" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="282" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="404" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="435" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="466" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="496" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="557" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="111" r="5" fill="#ea580c"></circle>
+    <circle cx="97" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="212" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="270" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="386" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="444" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="472" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="530" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="559" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="146" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">39,420원</text>
+    <text x="588" y="134" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">37,120원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -102,7 +105,7 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 39,420원 · 별점 4.9 · 리뷰 857개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 37,120원 · 별점 4.9 · 리뷰 864개</span>
     <a href="https://link.coupang.com/a/fl5yLovy8a" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -178,7 +181,7 @@ A. 베개커버는 지퍼가 없는 호텔식 디자인으로, 3mm 3D 에어매�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 39,420원 · 별점 4.9 · 리뷰 857개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 37,120원 · 별점 4.9 · 리뷰 864개</span>
     <a href="https://link.coupang.com/a/fl5yLovy8a" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
