@@ -19,13 +19,15 @@ description: 레이지지 슬로우 멜로우 데일리 집업 후드는 일상�
     "price": "194900",
     "url": "https://link.coupang.com/a/dZfyNiAMay",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-11"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-23 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -83,29 +85,29 @@ description: 레이지지 슬로우 멜로우 데일리 집업 후드는 일상�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 34 L 103 34 L 137 34 L 172 34 L 207 34 L 241 34 L 276 102 L 311 102 L 345 34 L 380 34 L 415 34 L 449 65 L 484 34 L 519 34 L 553 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 103 34 L 137 34 L 172 34 L 207 34 L 241 34 L 276 102 L 311 102 L 345 34 L 380 34 L 415 34 L 449 65 L 484 34 L 519 34 L 553 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 103 34 L 137 34 L 172 34 L 207 34 L 241 102 L 276 102 L 311 34 L 345 34 L 380 34 L 415 65 L 449 34 L 484 34 L 519 34 L 553 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 103 34 L 137 34 L 172 34 L 207 34 L 241 102 L 276 102 L 311 34 L 345 34 L 380 34 L 415 65 L 449 34 L 484 34 L 519 34 L 553 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="207" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="276" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="311" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="345" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="449" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="311" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="449" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">194,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-04</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-07</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-10</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-12</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-15</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-05</text>
+    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-08</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-09</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-11</text>
+    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-13</text>
+    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-14</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-27</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
