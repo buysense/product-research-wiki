@@ -20,7 +20,7 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
     "price": "24500",
     "url": "https://link.coupang.com/a/e498fd5u7E",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -79,9 +79,11 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -90,27 +92,27 @@ description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">23,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
 
-    <path d="M 68 76 L 87 26 L 107 26 L 126 109 L 145 109 L 164 109 L 184 109 L 203 109 L 222 109 L 241 109 L 261 109 L 280 109 L 299 109 L 318 109 L 338 109 L 357 109 L 376 109 L 395 109 L 415 109 L 434 109 L 453 109 L 472 109 L 492 109 L 511 109 L 530 26 L 549 26 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 76 L 87 26 L 107 26 L 126 109 L 145 109 L 164 109 L 184 109 L 203 109 L 222 109 L 241 109 L 261 109 L 280 109 L 299 109 L 318 109 L 338 109 L 357 109 L 376 109 L 395 109 L 415 109 L 434 109 L 453 109 L 472 109 L 492 109 L 511 109 L 530 26 L 549 26 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 76 L 87 26 L 105 26 L 124 109 L 142 109 L 161 109 L 179 109 L 198 109 L 217 109 L 235 109 L 254 109 L 272 109 L 291 109 L 309 109 L 328 109 L 347 109 L 365 109 L 384 109 L 402 109 L 421 109 L 439 109 L 458 109 L 477 109 L 495 109 L 514 26 L 532 26 L 551 26 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 76 L 87 26 L 105 26 L 124 109 L 142 109 L 161 109 L 179 109 L 198 109 L 217 109 L 235 109 L 254 109 L 272 109 L 291 109 L 309 109 L 328 109 L 347 109 L 365 109 L 384 109 L 402 109 L 421 109 L 439 109 L 458 109 L 477 109 L 495 109 L 514 26 L 532 26 L 551 26 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="76" r="4" fill="#fdba74"></circle>
     <circle cx="87" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="107" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="511" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="105" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="124" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="495" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
