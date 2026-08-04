@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 괴테는 모든 것을 말했다 | [보기](products/goethe-all-said-novel.md) |
 | 바스커빌가의 사냥개 | [보기](products/baskervilles-hound-sherlock-holmes.md) |
 | 무진기행 | [보기](products/mujingiyang-novel.md) |
 | 누구를 위하여 종은 울리나 | [보기](products/ernest-hemingway-for-whom-the-bell-tolls.md) |
