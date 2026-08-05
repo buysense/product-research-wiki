@@ -20,7 +20,7 @@ description: 베스트웨이 피쉬토이 분수 미끄럼 물놀이 풀장은 �
     "price": "56850",
     "url": "https://link.coupang.com/a/dSH40wgvsG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -172,6 +172,8 @@ description: 베스트웨이 피쉬토이 분수 미끄럼 물놀이 풀장은 �
 
 
 
+
+
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -183,39 +185,38 @@ description: 베스트웨이 피쉬토이 분수 미끄럼 물놀이 풀장은 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">56,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">54,000</text>
 
-    <path d="M 68 67 L 86 174 L 104 174 L 122 67 L 140 67 L 158 174 L 176 67 L 194 67 L 211 67 L 229 67 L 247 67 L 265 67 L 283 67 L 301 67 L 319 67 L 337 67 L 355 174 L 373 67 L 391 67 L 409 67 L 427 67 L 445 67 L 462 174 L 480 174 L 498 67 L 516 67 L 534 70 L 552 176 L 570 70 L 588 70 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 67 L 86 174 L 104 174 L 122 67 L 140 67 L 158 174 L 176 67 L 194 67 L 211 67 L 229 67 L 247 67 L 265 67 L 283 67 L 301 67 L 319 67 L 337 67 L 355 174 L 373 67 L 391 67 L 409 67 L 427 67 L 445 67 L 462 174 L 480 174 L 498 67 L 516 67 L 534 70 L 552 176 L 570 70 L 588 70" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="67" r="4" fill="#fdba74"></circle>
+    <path d="M 68 174 L 86 174 L 104 67 L 122 67 L 140 174 L 158 67 L 176 67 L 194 67 L 211 67 L 229 67 L 247 67 L 265 67 L 283 67 L 301 67 L 319 67 L 337 174 L 355 67 L 373 67 L 391 67 L 409 67 L 427 67 L 445 174 L 462 174 L 480 67 L 498 67 L 516 70 L 534 176 L 552 70 L 570 70 L 588 70 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 174 L 86 174 L 104 67 L 122 67 L 140 174 L 158 67 L 176 67 L 194 67 L 211 67 L 229 67 L 247 67 L 265 67 L 283 67 L 301 67 L 319 67 L 337 174 L 355 67 L 373 67 L 391 67 L 409 67 L 427 67 L 445 174 L 462 174 L 480 67 L 498 67 L 516 70 L 534 176 L 552 70 L 570 70 L 588 70" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="174" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="67" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="174" r="4" fill="#fdba74"></circle>
     <circle cx="462" cy="174" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="174" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="67" r="4" fill="#fdba74"></circle>
     <circle cx="498" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="70" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="70" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="58" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">56,850원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
