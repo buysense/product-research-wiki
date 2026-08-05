@@ -17,16 +17,18 @@ description: 비세 레이어드 후루리 티크 블러셔는 자연스러운 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "30660",
+    "price": "30310",
     "url": "https://link.coupang.com/a/ek0SIPYaQu",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-12"
   }
 }
 </script>
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-05 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -137,32 +139,33 @@ description: 비세 레이어드 후루리 티크 블러셔는 자연스러운 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">31,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 171 L 86 171 L 104 171 L 122 171 L 140 171 L 158 171 L 176 171 L 194 171 L 211 171 L 229 171 L 247 171 L 265 171 L 283 171 L 301 171 L 319 171 L 337 89 L 355 89 L 373 89 L 391 145 L 409 89 L 427 89 L 445 89 L 462 145 L 480 105 L 498 105 L 516 105 L 534 105 L 552 105 L 570 128 L 588 128 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 171 L 86 171 L 104 171 L 122 171 L 140 171 L 158 171 L 176 171 L 194 171 L 211 171 L 229 171 L 247 171 L 265 171 L 283 171 L 301 171 L 319 171 L 337 89 L 355 89 L 373 89 L 391 145 L 409 89 L 427 89 L 445 89 L 462 145 L 480 105 L 498 105 L 516 105 L 534 105 L 552 105 L 570 128 L 588 128" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 171 L 86 171 L 104 171 L 122 171 L 140 171 L 158 171 L 176 171 L 194 171 L 211 171 L 229 171 L 247 171 L 265 171 L 283 171 L 301 171 L 319 89 L 337 89 L 355 89 L 373 145 L 391 89 L 409 89 L 427 89 L 445 145 L 462 105 L 480 105 L 498 105 L 516 105 L 534 105 L 552 128 L 570 128 L 588 154 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 171 L 86 171 L 104 171 L 122 171 L 140 171 L 158 171 L 176 171 L 194 171 L 211 171 L 229 171 L 247 171 L 265 171 L 283 171 L 301 171 L 319 89 L 337 89 L 355 89 L 373 145 L 391 89 L 409 89 L 427 89 L 445 145 L 462 105 L 480 105 L 498 105 L 516 105 L 534 105 L 552 128 L 570 128 L 588 154" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="171" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="171" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="128" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="128" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="128" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="154" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="116" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">30,660원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="142" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">30,310원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
