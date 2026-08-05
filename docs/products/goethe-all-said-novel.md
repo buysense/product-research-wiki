@@ -20,7 +20,7 @@ description: 2025년 아쿠타가와상 수상작 '괴테는 모든 것을 말�
     "price": "15300",
     "url": "https://link.coupang.com/a/fWyNOLSarY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
