@@ -20,12 +20,12 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
     "price": "22260",
     "url": "https://link.coupang.com/a/et5POZ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.3,
-    "reviewCount": 13053,
+    "reviewCount": 13068,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-22 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -218,25 +220,25 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 92 L 86 92 L 104 92 L 122 92 L 140 92 L 158 92 L 176 92 L 194 92 L 211 92 L 229 92 L 247 92 L 265 92 L 283 92 L 301 92 L 319 92 L 337 92 L 355 92 L 373 92 L 391 92 L 409 92 L 427 92 L 445 92 L 462 92 L 480 92 L 498 92 L 516 92 L 534 177 L 552 92 L 570 92 L 588 92 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 92 L 86 92 L 104 92 L 122 92 L 140 92 L 158 92 L 176 92 L 194 92 L 211 92 L 229 92 L 247 92 L 265 92 L 283 92 L 301 92 L 319 92 L 337 92 L 355 92 L 373 92 L 391 92 L 409 92 L 427 92 L 445 92 L 462 92 L 480 92 L 498 92 L 516 92 L 534 177 L 552 92 L 570 92 L 588 92" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 92 L 86 92 L 104 92 L 122 92 L 140 92 L 158 92 L 176 92 L 194 92 L 211 92 L 229 92 L 247 92 L 265 92 L 283 92 L 301 92 L 319 92 L 337 92 L 355 92 L 373 92 L 391 92 L 409 92 L 427 92 L 445 92 L 462 92 L 480 92 L 498 92 L 516 177 L 534 92 L 552 92 L 570 92 L 588 92 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 92 L 86 92 L 104 92 L 122 92 L 140 92 L 158 92 L 176 92 L 194 92 L 211 92 L 229 92 L 247 92 L 265 92 L 283 92 L 301 92 L 319 92 L 337 92 L 355 92 L 373 92 L 391 92 L 409 92 L 427 92 L 445 92 L 462 92 L 480 92 L 498 92 L 516 177 L 534 92 L 552 92 L 570 92 L 588 92" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="177" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="92" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="177" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="92" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="92" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="80" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,260원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -244,7 +246,7 @@ description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 13,053개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 13,068개</span>
     <a href="https://link.coupang.com/a/et5POZ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -331,7 +333,7 @@ A. 달콤하면서도 매콤한 맛의 균형이 잘 잡혀있습니다. 일반�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 13,053개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,260원 · 별점 4.3 · 리뷰 13,068개</span>
     <a href="https://link.coupang.com/a/et5POZ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
