@@ -19,7 +19,7 @@ description: 밀란 쿤데라의 참을 수 없는 존재의 가벼움은 인간
     "price": "15300",
     "url": "https://link.coupang.com/a/fTo1lgzFam",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
