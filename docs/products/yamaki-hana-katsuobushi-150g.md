@@ -20,12 +20,12 @@ description: 야마끼 하나 가쓰오부시 150g은 진한 감칠맛과 훈연
     "price": "9980",
     "url": "https://link.coupang.com/a/epAZW1",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-10"
+    "priceValidUntil": "2026-08-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 923,
+    "reviewCount": 924,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -34,6 +34,8 @@ description: 야마끼 하나 가쓰오부시 150g은 진한 감칠맛과 훈연
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+
+
 
 
 
@@ -208,32 +210,33 @@ description: 야마끼 하나 가쓰오부시 150g은 진한 감칠맛과 훈연
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 170 L 86 170 L 104 170 L 122 170 L 140 170 L 158 170 L 176 171 L 194 171 L 211 171 L 229 95 L 247 171 L 265 171 L 283 171 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 170 L 409 170 L 427 170 L 445 170 L 462 170 L 480 170 L 498 170 L 516 170 L 534 169 L 552 169 L 570 169 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 170 L 86 170 L 104 170 L 122 170 L 140 170 L 158 170 L 176 171 L 194 171 L 211 171 L 229 95 L 247 171 L 265 171 L 283 171 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 170 L 409 170 L 427 170 L 445 170 L 462 170 L 480 170 L 498 170 L 516 170 L 534 169 L 552 169 L 570 169 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 170 L 86 170 L 104 170 L 122 170 L 140 170 L 158 171 L 176 171 L 194 171 L 211 95 L 229 171 L 247 171 L 265 171 L 283 170 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 170 L 409 170 L 427 170 L 445 170 L 462 170 L 480 170 L 498 170 L 516 169 L 534 169 L 552 169 L 570 170 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 170 L 86 170 L 104 170 L 122 170 L 140 170 L 158 171 L 176 171 L 194 171 L 211 95 L 229 171 L 247 171 L 265 171 L 283 170 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 170 L 409 170 L 427 170 L 445 170 L 462 170 L 480 170 L 498 170 L 516 169 L 534 169 L 552 169 L 570 170 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="171" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="171" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="171" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="171" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="171" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="170" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="170" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="170" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="158" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,980원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -241,7 +244,7 @@ description: 야마끼 하나 가쓰오부시 150g은 진한 감칠맛과 훈연
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,980원 · 별점 4.7 · 리뷰 923개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,980원 · 별점 4.7 · 리뷰 924개</span>
     <a href="https://link.coupang.com/a/epAZW1" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -321,7 +324,7 @@ A. 개봉 후에는 제품의 신선도와 풍미 유지를 위해 반드시 지
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,980원 · 별점 4.7 · 리뷰 923개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,980원 · 별점 4.7 · 리뷰 924개</span>
     <a href="https://link.coupang.com/a/epAZW1" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
