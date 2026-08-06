@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 나우푸드 실리마린 밀크 시슬 추출물 (300mg 베지 캡슐, 200정, 1개) | [보기](products/nowfoods-silymarin-milkthistle-extract-300mg-veg-capsules.md) |
 | ABC 초코쿠키 말차 (130g, 4개) | [보기](products/lotte-abc-choco-cookie-matcha.md) |
 | 타미힐피거 슬림 오프숄더 립 탑 | [보기](products/tommy-hilfiger-slim-off-shoulder-rib-top.md) |
 | 괴테는 모든 것을 말했다 | [보기](products/goethe-all-said-novel.md) |
