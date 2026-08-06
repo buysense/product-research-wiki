@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE | [보기](products/atelier-nine-cotton-slim-shirring-blouse.md) |
 | 렌세 긴팔 Stripe Raglan Stitch Tee Blue 115326 | [보기](products/rense-longsleeve-stripe-raglan-tee-blue.md) |
 | 나우푸드 실리마린 밀크 시슬 추출물 (300mg 베지 캡슐, 200정, 1개) | [보기](products/nowfoods-silymarin-milkthistle-extract-300mg-veg-capsules.md) |
 | ABC 초코쿠키 말차 (130g, 4개) | [보기](products/lotte-abc-choco-cookie-matcha.md) |
