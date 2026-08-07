@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK | [보기](products/deinet-high-top-sneakers-black.md) |
 | THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE | [보기](products/thevinylhouse-raw-cut-shirt-jacket-blue.md) |
 | GLOWNY G CLASSIC KNIT CAMISOLE | [보기](products/glowny-g-classic-knit-camisole-top.md) |
 | 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE | [보기](products/atelier-nine-cotton-slim-shirring-blouse.md) |
