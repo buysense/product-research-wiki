@@ -66,7 +66,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 | 에즈이프 캘리 ASIF CALIE NEW DIRTYWASHING OVERFIT CHECK SHIRT NAVY | [보기](products/asif-calie-new-dirtywashing-overfit-check-shirt-navy.md) |
 | 풀리 비건 그린 토마토 클레이 팩 클렌저 | [보기](products/pully-vegan-green-tomato-clay-pack-cleanser.md) |
 | 앤더슨벨 ADSB ANDERSSON BELL LAYERED STRAP BOOTS aaa484w BROWN | [보기](products/anderssonbell-layered-strap-boots-aaa484w-brown.md) |
-| 리에티 블루라이트차단 안경 FINO RT 3041 | [보기](products/rieti-blue-light-glasses-fino-rt3041.md) |
+| 리에티 블루라이트차단 안경 FINO RT 3041 | [보기](products/rieti-fino-rt3041-blue-light-glasses.md) |
 | [노매뉴얼] R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL | [보기](products/nomanual-rv-applique-raglan-tshirt-woman-charcoal.md) |
 | 에즈이프 캘리 ASIF CALIE TWIST UNBALANCE LETTERING T-SHIRT PINK | [보기](products/asif-calie-twist-unbalance-lettering-tshirt-pink.md) |
 | YOUHEE 유희 [3COLORS] GRAPHIC WAFFLE HOOD ZIP-UP YHHZGA002 1446019 | [보기](products/youhee-graphic-waffle-hood-zipup-yhhzga002.md) |
