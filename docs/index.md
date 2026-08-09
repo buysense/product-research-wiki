@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| PROJECT WAVE Square Lace Slit Top | [보기](products/project-wave-square-lace-slit-top.md) |
 | 플레어업 FLAREUP Draped Mesh Layered Sleeveless FL-116 Gray | [보기](products/flareup-draped-mesh-layered-sleeveless-fl-116-gray.md) |
 | 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK | [보기](products/deinet-high-top-sneakers-black.md) |
 | THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE | [보기](products/thevinylhouse-raw-cut-shirt-jacket-blue.md) |
