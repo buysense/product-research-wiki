@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이 | [보기](products/coyseio-flower-capri-sleeve-blue-gray.md) |
 | 플레어업 FLAREUP Draped Top FL-130_Cloud White 176060 | [보기](products/flareup-draped-top-fl130-cloud-white.md) |
 | 무신사 스탠다드 우먼 MUSINSASTANDARDWOMAN 우먼즈 오버 숄더 오버사이즈 블레이저 블랙 | [보기](products/musinsastandard-woman-oversize-blazer-black.md) |
 | PROJECT WAVE Square Lace Slit Top | [보기](products/project-wave-square-lace-slit-top.md) |
