@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 농심 삼계탕 사발면 | [보기](products/nongshim-samgyetang-sabalmyeon.md) |
 | 인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL | [보기](products/insilence-women-belted-jersey-dress-charcoal.md) |
 | 리에티 AIDA RT 2016 편광 선글라스 | [보기](products/rieti-aida-rt-2016-polarized-sunglasses.md) |
 | COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이 | [보기](products/coyseio-flower-capri-sleeve-blue-gray.md) |
