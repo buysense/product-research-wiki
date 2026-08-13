@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 락케이크 Classic Henly Neck Top - Gray | [보기](products/rockcake-classic-henly-neck-top-gray.md) |
 | 파르티멘토 PARTIMENTO VTG 워시드 리뉴얼 선라이트 볼 캡 아이보리 블랙 | [보기](products/partimento-vtg-washed-sunlight-ball-cap.md) |
 | 농심 삼계탕 사발면 | [보기](products/nongshim-samgyetang-sabalmyeon.md) |
 | 인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL | [보기](products/insilence-women-belted-jersey-dress-charcoal.md) |
