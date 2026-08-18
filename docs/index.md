@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245 | [보기](products/glowny-g-ella-strap-sleeveless-ivory.md) |
 | 드헤베 Strap S리 Leeveless Blouse Light Beige | [보기](products/deheve-strap-sleeveless-blouse-light-beige.md) |
 | 락피쉬웨더웨어 GLAIR STRAPPY SANDALS - CLEAR STAR | [보기](products/rockfish-weatherwear-glair-strappy-sandals-clear-star.md) |
 | 파스키에 마카롱 | [보기](products/pasquier-macaron.md) |

@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245: products/glowny-g-ella-strap-sleeveless-ivory.md
     - 드헤베 Strap S리 Leeveless Blouse Light Beige: products/deheve-strap-sleeveless-blouse-light-beige.md
     - 락피쉬웨더웨어 GLAIR STRAPPY SANDALS - CLEAR STAR: products/rockfish-weatherwear-glair-strappy-sandals-clear-star.md
     - 파스키에 마카롱: products/pasquier-macaron.md
