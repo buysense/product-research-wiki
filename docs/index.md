@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 드헤베 Strap S리 Leeveless Blouse Light Beige | [보기](products/deheve-strap-sleeveless-blouse-light-beige.md) |
 | 락피쉬웨더웨어 GLAIR STRAPPY SANDALS - CLEAR STAR | [보기](products/rockfish-weatherwear-glair-strappy-sandals-clear-star.md) |
 | 파스키에 마카롱 | [보기](products/pasquier-macaron.md) |
 | 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트 | [보기](products/illigo-ribbon-tie-square-neck-blouse-white-dot.md) |
