@@ -10,6 +10,7 @@ description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "곰곰 납작한 누들 밀 떡볶이떡 (냉장), 500g, 1개",
+  "description": "곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰어난 소스 흡수력을 자랑하며, 집에서 간편하고 맛있게 떡볶이 등 다양한 요리를 즐기고 싶은 소비자에게 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/272164943064728-2cf253f2-a513-4790-b425-97294eb90116.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1686855111077871-bbf4f7fc-04c7-4932-9fa5-4c6759cf8111.jpg"
@@ -20,7 +21,7 @@ description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰
     "price": "2830",
     "url": "https://link.coupang.com/a/dPoVerej0u",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -66,16 +67,16 @@ description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰
     <circle cx="588" cy="79" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,830원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
