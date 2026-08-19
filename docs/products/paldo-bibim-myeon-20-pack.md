@@ -10,6 +10,7 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "팔도비빔면 20개입",
+  "description": "팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 면발이 특징인 비빔라면으로, 더운 여름철은 물론 사계절 내내 온 가족이 즐기기 좋은 간편식입니다. 156g의 넉넉한 용량으로 한 끼 식사로 충분하며, 대용량 구매로 실용성을 높였습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6a22/c2a87ea2b4d19088a3ea3aa7dc48320d5151500a041144ec3ea77df85f8e.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0825/7d0815301ce36569b41f6d2cfe6f83ad12a48606ef7e5758c0fbbd7caa12.png"
@@ -17,15 +18,15 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "17890",
+    "price": "17620",
     "url": "https://link.coupang.com/a/evtA6l",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 28918,
+    "reviewCount": 28925,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +43,7 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,890원 · 별점 4.8 · 리뷰 28,918개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,620원 · 별점 4.8 · 리뷰 28,925개</span>
     <a href="https://link.coupang.com/a/evtA6l" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,31 +61,31 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 58 L 86 127 L 104 127 L 122 127 L 140 127 L 158 127 L 176 127 L 194 127 L 211 127 L 229 127 L 247 58 L 265 58 L 283 58 L 301 58 L 319 58 L 337 58 L 355 58 L 373 58 L 391 58 L 409 127 L 427 127 L 445 127 L 462 127 L 480 127 L 498 127 L 516 127 L 534 26 L 552 121 L 570 123 L 588 118 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 58 L 86 127 L 104 127 L 122 127 L 140 127 L 158 127 L 176 127 L 194 127 L 211 127 L 229 127 L 247 58 L 265 58 L 283 58 L 301 58 L 319 58 L 337 58 L 355 58 L 373 58 L 391 58 L 409 127 L 427 127 L 445 127 L 462 127 L 480 127 L 498 127 L 516 127 L 534 26 L 552 121 L 570 123 L 588 118" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="118" r="5" fill="#ea580c"></circle>
+    <path d="M 68 127 L 86 127 L 104 127 L 122 127 L 140 127 L 158 127 L 176 127 L 194 127 L 211 127 L 229 58 L 247 58 L 265 58 L 283 58 L 301 58 L 319 58 L 337 58 L 355 58 L 373 58 L 391 127 L 409 127 L 427 127 L 445 127 L 462 127 L 480 127 L 498 127 L 516 26 L 534 121 L 552 123 L 570 118 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 127 L 86 127 L 104 127 L 122 127 L 140 127 L 158 127 L 176 127 L 194 127 L 211 127 L 229 58 L 247 58 L 265 58 L 283 58 L 301 58 L 319 58 L 337 58 L 355 58 L 373 58 L 391 127 L 409 127 L 427 127 L 445 127 L 462 127 L 480 127 L 498 127 L 516 26 L 534 121 L 552 123 L 570 118 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="120" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="106" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,890원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="108" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,620원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -354,7 +355,7 @@ A. 팔도비빔면은 오랜 시간 변함없는 새콤달콤매콤한 고유의
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,890원 · 별점 4.8 · 리뷰 28,918개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,620원 · 별점 4.8 · 리뷰 28,925개</span>
     <a href="https://link.coupang.com/a/evtA6l" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
