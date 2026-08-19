@@ -10,6 +10,7 @@ description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "뉴발란스 스트링 백팩",
+  "description": "뉴발란스 스트링 백팩은 중고등학생의 등하교 및 학원 가방, 일상용으로 적합한 실용적인 수납력과 견고한 디자인의 가방입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/18/16/3/64a549bd-cda1-40ee-b43b-ae0326b97497.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/qd5we8im/8b144420a37f4b28af53a536f22a8258.jpg"
@@ -20,7 +21,7 @@ description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 �
     "price": "95200",
     "url": "https://link.coupang.com/a/eyNW4T",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,33 +61,34 @@ description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
 
-    <path d="M 68 44 L 86 44 L 104 44 L 122 80 L 140 144 L 158 80 L 176 44 L 194 44 L 211 44 L 229 44 L 247 62 L 265 62 L 283 62 L 301 44 L 319 44 L 337 44 L 355 44 L 373 44 L 391 44 L 409 44 L 427 44 L 445 44 L 462 44 L 480 44 L 498 44 L 516 44 L 534 44 L 552 44 L 570 62 L 588 44 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 44 L 86 44 L 104 44 L 122 80 L 140 144 L 158 80 L 176 44 L 194 44 L 211 44 L 229 44 L 247 62 L 265 62 L 283 62 L 301 44 L 319 44 L 337 44 L 355 44 L 373 44 L 391 44 L 409 44 L 427 44 L 445 44 L 462 44 L 480 44 L 498 44 L 516 44 L 534 44 L 552 44 L 570 62 L 588 44" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 44 L 86 44 L 104 80 L 122 144 L 140 80 L 158 44 L 176 44 L 194 44 L 211 44 L 229 62 L 247 62 L 265 62 L 283 44 L 301 44 L 319 44 L 337 44 L 355 44 L 373 44 L 391 44 L 409 44 L 427 44 L 445 44 L 462 44 L 480 44 L 498 44 L 516 44 L 534 44 L 552 62 L 570 44 L 588 44 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 44 L 86 44 L 104 80 L 122 144 L 140 80 L 158 44 L 176 44 L 194 44 L 211 44 L 229 62 L 247 62 L 265 62 L 283 44 L 301 44 L 319 44 L 337 44 L 355 44 L 373 44 L 391 44 L 409 44 L 427 44 L 445 44 L 462 44 L 480 44 L 498 44 L 516 44 L 534 44 L 552 62 L 570 44 L 588 44" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="44" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="44" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="32" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">95,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
