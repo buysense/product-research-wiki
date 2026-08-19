@@ -10,6 +10,7 @@ description: 트와이닝 클래식 차 컬렉션 티백은 5가지 대표 홍�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "트와이닝 클래식 차 컬렉션 티백",
+  "description": "트와이닝 클래식 차 컬렉션 티백은 5가지 대표 홍차를 한 번에 맛볼 수 있어, 차 입문자나 다양한 맛을 즐기려는 소비자에게 적합합니다. 퇴근 후 휴식, 커피 대체, 또는 선물용으로 좋은 선택입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/90997632076557-d1354bb2-8d21-48e6-8cb9-0eb19e51c569.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5063312310663-ecd9edbf-1374-4c42-b950-d0ae3cdea39e.jpg"
@@ -20,7 +21,7 @@ description: 트와이닝 클래식 차 컬렉션 티백은 5가지 대표 홍�
     "price": "9800",
     "url": "https://link.coupang.com/a/eDGXob",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -66,16 +67,16 @@ description: 트와이닝 클래식 차 컬렉션 티백은 5가지 대표 홍�
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
