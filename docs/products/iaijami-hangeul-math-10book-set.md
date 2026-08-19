@@ -10,6 +10,7 @@ description: 아이재미 한글 수학 각 10권 세트는 3~7세 아이들이 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "아이재미 한글 수학 각 10권 세트",
+  "description": "아이재미 한글 수학 각 10권 세트는 3~7세 아이들이 집에서 한글과 숫자 개념을 놀이처럼 익힐 수 있도록 돕는 워크북입니다. 스티커, 그림 등 다양한 활동으로 구성되어 학습 부담 없이 자연스러운 흥미 유발에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f7b9/5b01d20ff2d87f4d2e09fb927ee998c8e613b188a1565c0f4009ca29b0c9.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d57/01152deb515a17a60baf27e5bca26ff05113014f2dd08580cec7b82789aa.jpg"
@@ -20,7 +21,7 @@ description: 아이재미 한글 수학 각 10권 세트는 3~7세 아이들이 
     "price": "15900",
     "url": "https://link.coupang.com/a/eyFkSU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -66,16 +67,16 @@ description: 아이재미 한글 수학 각 10권 세트는 3~7세 아이들이 
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

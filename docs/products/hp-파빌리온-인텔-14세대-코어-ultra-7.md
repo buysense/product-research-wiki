@@ -10,13 +10,14 @@ description: AI 작업과 일상 멀티태스킹에 최적화된 HP 파빌리온
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "HP 파빌리온 인텔 14세대 코어 Ultra 7",
+  "description": "AI 작업과 일상 멀티태스킹에 최적화된 HP 파빌리온 인텔 14세대 코어 Ultra 7 노트북은 강력한 성능과 뛰어난 휴대성을 제공하여 대학생부터 직장인까지 다양한 사용 환경에 적합합니다.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "1199000",
     "url": "https://link.coupang.com/a/edJQX3",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,16 +61,16 @@ description: AI 작업과 일상 멀티태스킹에 최적화된 HP 파빌리온
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,199,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
