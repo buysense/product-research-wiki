@@ -10,6 +10,7 @@ description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "에르베샤플리에 Herve Chapelier 707C 코듀라 토트백 M 데님 모카 프랑스",
+  "description": "에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 가볍고 실용적인 프랑스제 데일리백으로, 캐주얼부터 세미 정장까지 다양한 스타일에 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a9c1/fac924f7c65644e11e4c4998cf1331a9214c4dca3a3dd5f7b7213a218642.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8064/03132c507b9654599e929800d291432df5ebf47ef54fd2691db3e6a1f99c.jpg"
@@ -20,7 +21,7 @@ description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 �
     "price": "429400",
     "url": "https://link.coupang.com/a/eJRTrFQUqO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   }
 }
 </script>
@@ -53,24 +54,24 @@ description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">420,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">410,000</text>
 
-    <path d="M 68 115 L 86 115 L 104 115 L 122 115 L 140 115 L 158 115 L 176 115 L 194 115 L 211 115 L 229 115 L 247 31 L 265 31 L 283 31 L 301 31 L 319 31 L 337 31 L 355 31 L 373 31 L 391 31 L 409 31 L 427 31 L 445 31 L 462 31 L 480 31 L 498 31 L 516 31 L 534 31 L 552 31 L 570 31 L 588 31 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 115 L 86 115 L 104 115 L 122 115 L 140 115 L 158 115 L 176 115 L 194 115 L 211 115 L 229 115 L 247 31 L 265 31 L 283 31 L 301 31 L 319 31 L 337 31 L 355 31 L 373 31 L 391 31 L 409 31 L 427 31 L 445 31 L 462 31 L 480 31 L 498 31 L 516 31 L 534 31 L 552 31 L 570 31 L 588 31" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 115 L 86 115 L 104 115 L 122 115 L 140 115 L 158 115 L 176 115 L 194 115 L 211 115 L 229 31 L 247 31 L 265 31 L 283 31 L 301 31 L 319 31 L 337 31 L 355 31 L 373 31 L 391 31 L 409 31 L 427 31 L 445 31 L 462 31 L 480 31 L 498 31 L 516 31 L 534 31 L 552 31 L 570 31 L 588 31 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 115 L 86 115 L 104 115 L 122 115 L 140 115 L 158 115 L 176 115 L 194 115 L 211 115 L 229 31 L 247 31 L 265 31 L 283 31 L 301 31 L 319 31 L 337 31 L 355 31 L 373 31 L 391 31 L 409 31 L 427 31 L 445 31 L 462 31 L 480 31 L 498 31 L 516 31 L 534 31 L 552 31 L 570 31 L 588 31" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="31" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="31" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="31" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="19" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">429,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

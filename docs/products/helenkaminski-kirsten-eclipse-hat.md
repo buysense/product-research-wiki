@@ -10,6 +10,7 @@ description: 햇빛이 강한 야외 활동이나 휴가지에서 스타일과 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "헬렌카민스키 여성모자 커스틴 이클립스",
+  "description": "햇빛이 강한 야외 활동이나 휴가지에서 스타일과 자외선 차단을 동시에 원하는 분들을 위한 헬렌카민스키 여성모자 커스틴 이클립스 구매 가이드입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9100/30aaa48c997cfe25ed90b4947800253270edef3c5f98397e170d34dfa06c.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7c8c/603912c92da79077ac912d39b036f33779dcbb6aeab149594995c0170569.jpg"
@@ -20,7 +21,7 @@ description: 햇빛이 강한 야외 활동이나 휴가지에서 스타일과 �
     "price": "196000",
     "url": "https://link.coupang.com/a/fv399IJ3ee",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -51,7 +52,7 @@ description: 햇빛이 강한 야외 활동이나 휴가지에서 스타일과 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,22 +61,22 @@ description: 햇빛이 강한 야외 활동이나 휴가지에서 스타일과 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">196,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">195,900</text>
 
-    <path d="M 68 102 L 101 102 L 133 102 L 166 102 L 198 102 L 231 102 L 263 102 L 296 102 L 328 102 L 361 102 L 393 102 L 426 102 L 458 102 L 491 102 L 523 102 L 556 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 101 102 L 133 102 L 166 102 L 198 102 L 231 102 L 263 102 L 296 102 L 328 102 L 361 102 L 393 102 L 426 102 L 458 102 L 491 102 L 523 102 L 556 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 99 102 L 129 102 L 160 102 L 190 102 L 221 102 L 252 102 L 282 102 L 313 102 L 343 102 L 374 102 L 404 102 L 435 102 L 466 102 L 496 102 L 527 102 L 557 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 99 102 L 129 102 L 160 102 L 190 102 L 221 102 L 252 102 L 282 102 L 313 102 L 343 102 L 374 102 L 404 102 L 435 102 L 466 102 L 496 102 L 527 102 L 557 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">196,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
