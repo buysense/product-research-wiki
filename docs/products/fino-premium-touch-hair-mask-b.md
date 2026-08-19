@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c83e4266-9dc1-4ee5-bcfa-3ced4d8fa25f412927118944096231.png
-title: 피노 프리미엄 터치 헤어 마스크 비 구매 가이드
-date: 2026-06-19
-description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리하는 데 도움을 주는 헤어 마스크로, 꾸덕한 제형과 부드러운 사용감이 특징입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "피노 프리미엄 터치 헤어 마스크 비",
-  "description": "잦은 염색과 열기구 사용으로 손상된 모발을 관리하는 데 도움을 주는 헤어 마스크로, 꾸덕한 제형과 부드러운 사용감이 특징입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c83e4266-9dc1-4ee5-bcfa-3ced4d8fa25f412927118944096231.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/443186824344291-fa46dc38-98c1-4a38-bcc9-dab04f8fe378.jpg"
@@ -17,104 +11,38 @@ description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "21580",
+    "price": "19420",
     "url": "https://link.coupang.com/a/eIbuIEOHxl",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 7075,
+    "reviewCount": 7364,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-19 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,420원 · 별점 4.7 · 리뷰 7,364개</span>
+    <a href="https://link.coupang.com/a/eIbuIEOHxl" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -122,57 +50,146 @@ description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
 
-    <path d="M 68 104 L 86 145 L 104 142 L 122 132 L 140 142 L 158 134 L 176 108 L 194 108 L 211 108 L 229 104 L 247 104 L 265 101 L 283 101 L 301 111 L 319 111 L 337 111 L 355 111 L 373 144 L 391 111 L 409 135 L 427 109 L 445 109 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 118 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 104 L 86 145 L 104 142 L 122 132 L 140 142 L 158 134 L 176 108 L 194 108 L 211 108 L 229 104 L 247 104 L 265 101 L 283 101 L 301 111 L 319 111 L 337 111 L 355 111 L 373 144 L 391 111 L 409 135 L 427 109 L 445 109 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 118" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="118" r="5" fill="#ea580c"></circle>
+    <path d="M 68 69 L 86 66 L 104 56 L 122 66 L 140 58 L 158 32 L 176 32 L 194 32 L 211 28 L 229 28 L 247 26 L 265 26 L 283 35 L 301 35 L 319 35 L 337 35 L 355 68 L 373 35 L 391 59 L 409 33 L 427 33 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 42 L 588 124 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 69 L 86 66 L 104 56 L 122 66 L 140 58 L 158 32 L 176 32 L 194 32 L 211 28 L 229 28 L 247 26 L 265 26 L 283 35 L 301 35 L 319 35 L 337 35 L 355 68 L 373 35 L 391 59 L 409 33 L 427 33 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 42 L 588 124" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="124" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="106" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,580원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="112" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,420원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,580원 · 별점 4.7 · 리뷰 7,075개</span>
-    <a href="https://link.coupang.com/a/eIbuIEOHxl" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c83e4266-9dc1-4ee5-bcfa-3ced4d8fa25f412927118944096231.png
+title: 피노 프리미엄 터치 헤어 마스크 비 구매 가이드
+date: 2026-06-19
+description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리하는 데 도움을 주는 헤어 마스크로, 꾸덕한 제형과 부드러운 사용감이 특징입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -180,9 +197,11 @@ description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리�
 ## 상품 개요
 피노 프리미엄 터치 헤어 마스크 비는 잦은 염색, 펌, 열기구 사용으로 손상되고 푸석해진 모발을 집에서 관리하기 위한 헤어 트리트먼트 제품입니다. 꾸덕한 크림 제형이 모발에 밀착되어 즉각적인 부드러움과 윤기를 제공하며, 사우나와 같은 환경에서 열과 함께 사용 시 더욱 효과적인 케어를 기대할 수 있습니다. 2023년 쿠팡에서 평점 4.7/5.0, 리뷰 수 6257개를 기록하고 있으며, 과거 일본 여행 시 필수 구매템으로 알려졌던 제품입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c83e4266-9dc1-4ee5-bcfa-3ced4d8fa25f412927118944096231.png" alt="피노 프리미엄 터치 헤어 마스크 비" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -240,10 +259,17 @@ A. 뚜껑을 돌려 여는 통(단지) 형태입니다. 튜브형과 달리 직�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,580원 · 별점 4.7 · 리뷰 7,075개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,420원 · 별점 4.7 · 리뷰 7,364개</span>
     <a href="https://link.coupang.com/a/eIbuIEOHxl" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

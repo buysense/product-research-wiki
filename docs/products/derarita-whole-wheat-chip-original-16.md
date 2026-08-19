@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10113766538417-4f797e4f-81cf-49c6-ad5f-4a28c1a0a350.jpg
-title: 데라리타 통밀칩 오리지널 16개 구매 가이드
-date: 2026-05-12
-description: 데라리타 통밀칩 오리지널 16개는 건강을 생각하는 간식으로, 고소한 통밀 맛과 바삭한 식감이 특징입니다. 다이어트 중이거나 자극적이지 않은 간식을 찾는 분, 운동 전후 혹은 사무실 간식으로 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "데라리타 통밀칩 오리지널 16개",
-  "description": "데라리타 통밀칩 오리지널 16개는 건강을 생각하는 간식으로, 고소한 통밀 맛과 바삭한 식감이 특징입니다. 다이어트 중이거나 자극적이지 않은 간식을 찾는 분, 운동 전후 혹은 사무실 간식으로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10113766538417-4f797e4f-81cf-49c6-ad5f-4a28c1a0a350.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/741604433039-a432f869-f6cb-4b93-8de5-6b4ad9b832bb.jpg"
@@ -17,177 +11,38 @@ description: 데라리타 통밀칩 오리지널 16개는 건강을 생각하는
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "32500",
+    "price": "33250",
     "url": "https://link.coupang.com/a/dGFQmE2VJA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 528,
+    "reviewCount": 539,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-12 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 33,250원 · 별점 4.8 · 리뷰 539개</span>
+    <a href="https://link.coupang.com/a/dGFQmE2VJA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -199,44 +54,207 @@ description: 데라리타 통밀칩 오리지널 16개는 건강을 생각하는
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">33,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">32,500</text>
 
-    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 91 L 301 91 L 319 173 L 337 173 L 355 67 L 373 67 L 391 67 L 409 67 L 427 67 L 445 67 L 462 173 L 480 67 L 498 67 L 516 178 L 534 178 L 552 178 L 570 178 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 91 L 301 91 L 319 173 L 337 173 L 355 67 L 373 67 L 391 67 L 409 67 L 427 67 L 445 67 L 462 173 L 480 67 L 498 67 L 516 178 L 534 178 L 552 178 L 570 178 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 91 L 283 91 L 301 173 L 319 173 L 337 67 L 355 67 L 373 67 L 391 67 L 409 67 L 427 67 L 445 173 L 462 67 L 480 67 L 498 178 L 516 178 L 534 178 L 552 178 L 570 178 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 91 L 283 91 L 301 173 L 319 173 L 337 67 L 355 67 L 373 67 L 391 67 L 409 67 L 427 67 L 445 173 L 462 67 L 480 67 L 498 178 L 516 178 L 534 178 L 552 178 L 570 178 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="91" r="4" fill="#fdba74"></circle>
     <circle cx="283" cy="91" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="91" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="173" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="67" r="4" fill="#fdba74"></circle>
     <circle cx="480" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="178" r="5" fill="#ea580c"></circle>
+    <circle cx="498" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">32,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">33,250원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 32,500원 · 별점 4.8 · 리뷰 528개</span>
-    <a href="https://link.coupang.com/a/dGFQmE2VJA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10113766538417-4f797e4f-81cf-49c6-ad5f-4a28c1a0a350.jpg
+title: 데라리타 통밀칩 오리지널 16개 구매 가이드
+date: 2026-05-12
+description: 데라리타 통밀칩 오리지널 16개는 건강을 생각하는 간식으로, 고소한 통밀 맛과 바삭한 식감이 특징입니다. 다이어트 중이거나 자극적이지 않은 간식을 찾는 분, 운동 전후 혹은 사무실 간식으로 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -246,9 +264,11 @@ description: 데라리타 통밀칩 오리지널 16개는 건강을 생각하는
 ## 상품 개요
 데라리타 통밀칩 오리지널 16개는 건강한 간식을 찾는 소비자를 위한 통밀 스낵으로, 30g씩 개별 포장되어 휴대가 간편하며 언제 어디서든 즐기기 좋습니다. 다이어트 중이거나 운동 전후 가벼운 에너지를 보충할 때, 혹은 사무실에서 깔끔하게 먹을 간식으로 적합합니다. 통밀 본연의 고소하고 담백한 맛과 바삭한 식감이 특징입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10113766538417-4f797e4f-81cf-49c6-ad5f-4a28c1a0a350.jpg" alt="데라리타 통밀칩 오리지널 16개" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -315,10 +335,17 @@ A. 네, 자극적이지 않고 짜지 않으며 인위적인 향이 없어 아�
 
 *   [쿠팡 데라리타 통밀칩 오리지널 상품 페이지 및 고객 리뷰](https://www.coupang.com/vp/products/상품링크_추정)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 32,500원 · 별점 4.8 · 리뷰 528개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 33,250원 · 별점 4.8 · 리뷰 539개</span>
     <a href="https://link.coupang.com/a/dGFQmE2VJA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

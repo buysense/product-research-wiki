@@ -1,182 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ffbb/66ca58602f1f3341b0f73c053d894c25cdbde78ca6248cfb0ffa45078fb1.jpg
-title: 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛 구매 가이드
-date: 2026-04-02
-description: 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛은 2004년 출시된 남성 향수로, 상쾌한 시트러스와 우디 노트가 조화로운 향을 선사합니다. 데일리 사용은 물론, 특별한 날 품격을 더해 자신감 넘치는 현대 남성에게 적합합니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "125000",
+    "url": "https://link.coupang.com/a/egjaTe",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.8,
+    "reviewCount": 35,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-02 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 125,000원 · 별점 4.8 · 리뷰 35개</span>
+    <a href="https://link.coupang.com/a/egjaTe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -188,35 +48,213 @@ description: 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛은 2004년 출�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">124,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">123,000</text>
 
-    <path d="M 68 169 L 86 169 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 169 L 462 169 L 480 169 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 169 L 86 169 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 169 L 462 169 L 480 169 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 169 L 86 169 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 169 L 462 169 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 169 L 86 169 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 169 L 462 169 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">125,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 116,960원</span>
-    <a href="https://link.coupang.com/a/egjaTe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ffbb/66ca58602f1f3341b0f73c053d894c25cdbde78ca6248cfb0ffa45078fb1.jpg
+title: 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛 구매 가이드
+date: 2026-04-02
+description: 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛은 2004년 출시된 남성 향수로, 상쾌한 시트러스와 우디 노트가 조화로운 향을 선사합니다. 데일리 사용은 물론, 특별한 날 품격을 더해 자신감 넘치는 현대 남성에게 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -298,13 +336,8 @@ A. 네, 호불호가 적고 고급스러운 샤넬 브랜드의 이미지가 더
 Q. 향수 잔량을 확인할 수 없나요?  
 A. 보틀 디자인이 불투명하여 향수 내용물의 잔량을 육안으로 확인하기 어렵습니다. 이는 이 제품의 흔한 단점으로 언급됩니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 116,960원</span>
-    <a href="https://link.coupang.com/a/egjaTe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -328,3 +361,18 @@ A. 보틀 디자인이 불투명하여 향수 내용물의 잔량을 육안으�
 - [남자 향수 추천 샤넬 알뤼르 옴므 스포츠 면세점 내돈내산 : 네이버 블로그](https://m.blog.naver.com/hoooony88/224198994941)
 - [샤넬 남자향수 추천 샤넬 알뤼르 옴므 스포츠 후기 : 네이버 블로그](https://m.blog.naver.com/jlrmsin/224230466027)
 - [샤넬 알뤼르 옴므 블랑쉐 에디션 : 네이버 블로그](https://m.blog.naver.com/tiqwe/70146122190)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 125,000원 · 별점 4.8 · 리뷰 35개</span>
+    <a href="https://link.coupang.com/a/egjaTe" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

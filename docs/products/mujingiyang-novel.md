@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ee06/0d9af693a208729e1b3c6a86ee45544685afcf2d70b3e1bff224d733dfaa.jpg
-title: 무진기행 구매 가이드
-date: 2026-08-03
-description: "김승옥 작가의 대표작 \"무진기행\" 구매 가이드. 몽환적인 분위기 속 주인공의 심리를 섬세하게 묘사하여 내면 성찰과 깊은 여운을 선사하는 소설입니다. 삶에 지쳤을 때 조용히 자신을 돌아보고 싶은 독자에게 적합합니다."
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "무진기행",
-  "description": "\"김승옥 작가의 대표작 \\\"무진기행\\\" 구매 가이드. 몽환적인 분위기 속 주인공의 심리를 섬세하게 묘사하여 내면 성찰과 깊은 여운을 선사하는 소설입니다. 삶에 지쳤을 때 조용히 자신을 돌아보고 싶은 독자에게 적합합니다.\"",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ee06/0d9af693a208729e1b3c6a86ee45544685afcf2d70b3e1bff224d733dfaa.jpg"
   ],
@@ -19,27 +13,72 @@ description: "김승옥 작가의 대표작 \"무진기행\" 구매 가이드. �
     "price": "9900",
     "url": "https://link.coupang.com/a/fUV1CHlEZ2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 66,
+    "reviewCount": 74,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원 · 별점 4.9 · 리뷰 66개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,900원 · 별점 4.9 · 리뷰 74개</span>
     <a href="https://link.coupang.com/a/fUV1CHlEZ2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,900</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,800</text>
+
+    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ee06/0d9af693a208729e1b3c6a86ee45544685afcf2d70b3e1bff224d733dfaa.jpg
+title: 무진기행 구매 가이드
+date: 2026-08-03
+description: "김승옥 작가의 대표작 \"무진기행\" 구매 가이드. 몽환적인 분위기 속 주인공의 심리를 섬세하게 묘사하여 내면 성찰과 깊은 여운을 선사하는 소설입니다. 삶에 지쳤을 때 조용히 자신을 돌아보고 싶은 독자에게 적합합니다."
+---
+
+
+
+
+
+
 
 ## 상품 개요
 
@@ -49,9 +88,11 @@ description: "김승옥 작가의 대표작 \"무진기행\" 구매 가이드. �
 
 김승옥 작가의 "무진기행"은 1960년대 한국 문학을 대표하는 작품 중 하나로, 현실과 비현실의 경계를 넘나드는 몽환적인 분위기와 인물의 심리적 갈등을 탁월하게 묘사하는 것으로 평가받습니다. 간결하면서도 감각적인 문체는 독자로 하여금 주인공의 내면에 깊이 몰입하게 하며, 한국 현대 문학사에 큰 영향을 미쳤습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ee06/0d9af693a208729e1b3c6a86ee45544685afcf2d70b3e1bff224d733dfaa.jpg" alt="무진기행" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -108,10 +149,17 @@ A. 네, 충분히 가치가 있습니다. 학창 시절에는 이해하기 어�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,900원 · 별점 4.9 · 리뷰 66개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,900원 · 별점 4.9 · 리뷰 74개</span>
     <a href="https://link.coupang.com/a/fUV1CHlEZ2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

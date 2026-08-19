@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/10/17/3/50792560-20ec-421f-8a3e-ddca720b9659.jpg
-title: 맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구 구매 가이드
-date: 2026-06-15
-description: 아기의 이앓이 시기와 촉감 발달을 돕는 맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구 구매 가이드입니다. 오감 발달을 위한 장점을 확인하세요.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구",
-  "description": "아기의 이앓이 시기와 촉감 발달을 돕는 맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구 구매 가이드입니다. 오감 발달을 위한 장점을 확인하세요.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/10/17/3/50792560-20ec-421f-8a3e-ddca720b9659.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/e8hleslg/c3b73bfb97aa428b97b370c036983f0d.jpg"
@@ -20,103 +14,35 @@ description: 아기의 이앓이 시기와 촉감 발달을 돕는 맨하탄토�
     "price": "19800",
     "url": "https://link.coupang.com/a/eBrDRm8YyO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 5,
-    "reviewCount": 6,
+    "reviewCount": 7,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,800원 · 별점 5.0 · 리뷰 7개</span>
+    <a href="https://link.coupang.com/a/eBrDRm8YyO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -134,27 +60,118 @@ description: 아기의 이앓이 시기와 촉감 발달을 돕는 맨하탄토�
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,800원 · 별점 5.0 · 리뷰 6개</span>
-    <a href="https://link.coupang.com/a/eBrDRm8YyO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/10/17/3/50792560-20ec-421f-8a3e-ddca720b9659.jpg
+title: 맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구 구매 가이드
+date: 2026-06-15
+description: 아기의 이앓이 시기와 촉감 발달을 돕는 맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구 구매 가이드입니다. 오감 발달을 위한 장점을 확인하세요.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -162,9 +179,11 @@ description: 아기의 이앓이 시기와 촉감 발달을 돕는 맨하탄토�
 ## 상품 개요
 맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구는 아기의 이앓이 시기 구강 통증 완화와 함께 오감 발달을 돕는 유아 완구입니다. 다채로운 색상과 다양한 촉감 돌기, 흔들면 소리가 나는 휘슬볼 기능을 통해 아기의 시각, 촉각, 청각을 동시에 자극하며 놀이와 학습을 동시에 제공하는 상황에 적합합니다. 아기가 손으로 잡고 탐색하며 안전하게 즐길 수 있도록 설계되었습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/10/17/3/50792560-20ec-421f-8a3e-ddca720b9659.jpg" alt="맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -223,10 +242,17 @@ A. 네, 아기마다 기질과 발달 속도, 선호하는 자극이 다르기 �
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,800원 · 별점 5.0 · 리뷰 6개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,800원 · 별점 5.0 · 리뷰 7개</span>
     <a href="https://link.coupang.com/a/eBrDRm8YyO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

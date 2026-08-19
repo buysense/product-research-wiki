@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/62365105869569-6ec781a2-1121-4395-aea4-94566fb9a326.jpg
-title: 비비고 사골곰탕 구매 가이드
-date: 2026-04-27
-description: 바쁜 일상 속 직장인과 자취생을 위한 비비고 사골곰탕 구매 가이드. 간편하게 즐기는 깊고 진한 국물 맛과 다양한 요리 활용법, 보관 팁을 소개합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "비비고 사골곰탕",
-  "description": "바쁜 일상 속 직장인과 자취생을 위한 비비고 사골곰탕 구매 가이드. 간편하게 즐기는 깊고 진한 국물 맛과 다양한 요리 활용법, 보관 팁을 소개합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/62365105869569-6ec781a2-1121-4395-aea4-94566fb9a326.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1670069477623077-bc7509ec-cb40-40fe-93bb-55ba99f858f6.jpg"
@@ -17,196 +11,38 @@ description: 바쁜 일상 속 직장인과 자취생을 위한 비비고 사골
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "18300",
+    "price": "6650",
     "url": "https://link.coupang.com/a/exDOCC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 119701,
+    "reviewCount": 180772,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-27 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,650원 · 별점 4.8 · 리뷰 180,772개</span>
+    <a href="https://link.coupang.com/a/exDOCC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -214,49 +50,231 @@ description: 바쁜 일상 속 직장인과 자취생을 위한 비비고 사골
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 118 L 552 118 L 570 116 L 588 115 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 118 L 552 118 L 570 116 L 588 115" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="116" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="115" r="5" fill="#ea580c"></circle>
+    <path d="M 68 40 L 86 40 L 104 40 L 122 40 L 140 40 L 158 40 L 176 40 L 194 40 L 211 40 L 229 40 L 247 40 L 265 40 L 283 40 L 301 40 L 319 40 L 337 40 L 355 40 L 373 40 L 391 42 L 409 40 L 427 40 L 445 40 L 462 40 L 480 40 L 498 40 L 516 110 L 534 110 L 552 109 L 570 108 L 588 153 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 40 L 86 40 L 104 40 L 122 40 L 140 40 L 158 40 L 176 40 L 194 40 L 211 40 L 229 40 L 247 40 L 265 40 L 283 40 L 301 40 L 319 40 L 337 40 L 355 40 L 373 40 L 391 42 L 409 40 L 427 40 L 445 40 L 462 40 L 480 40 L 498 40 L 516 110 L 534 110 L 552 109 L 570 108 L 588 153" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="153" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="103" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,300원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="141" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,650원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,300원 · 별점 4.8 · 리뷰 119,701개</span>
-    <a href="https://link.coupang.com/a/exDOCC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/62365105869569-6ec781a2-1121-4395-aea4-94566fb9a326.jpg
+title: 비비고 사골곰탕 구매 가이드
+date: 2026-04-27
+description: 바쁜 일상 속 직장인과 자취생을 위한 비비고 사골곰탕 구매 가이드. 간편하게 즐기는 깊고 진한 국물 맛과 다양한 요리 활용법, 보관 팁을 소개합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -271,9 +289,11 @@ description: 바쁜 일상 속 직장인과 자취생을 위한 비비고 사골
 ## 상품 개요
 비비고 사골곰탕은 바쁜 직장인, 자취생, 혹은 집에서 국 요리에 시간을 할애하기 어려운 소비자들이 간편하게 즐길 수 있도록 설계된 레토르트 제품입니다. 8시간 동안 푹 고아낸 사골의 진하고 깔끔한 맛이 특징이며, 데우기만 하면 바로 먹을 수 있어 아침 식사나 늦은 저녁 식사 등 언제든 든든한 한 끼를 해결할 수 있습니다. 떡국, 만둣국, 김치찌개 등 다양한 한식 요리의 육수 베이스로 활용도가 높아 주방의 필수품으로 자리 잡고 있습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/62365105869569-6ec781a2-1121-4395-aea4-94566fb9a326.jpg" alt="비비고 사골곰탕" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -334,10 +354,17 @@ A. 레토르트 제품은 조리된 식품을 특수 파우치에 넣어 밀봉�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,300원 · 별점 4.8 · 리뷰 119,701개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,650원 · 별점 4.8 · 리뷰 180,772개</span>
     <a href="https://link.coupang.com/a/exDOCC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

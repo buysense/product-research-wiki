@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f47a/4b7244156791aed29332fe93d724dab88c34b7205b7606f8a6f589c0d6d3.jpg
-title: 락케이크 Classic Henly Neck Top - Gray 구매 가이드
-date: 2026-08-13
-description: 락케이크 Classic Henly Neck Top - Gray는 편안하면서도 세련된 데일리 웨어로, 캐주얼한 일상부터 가벼운 외출까지 다양한 상황에 활용하기 좋은 클래식 헨리넥 상의입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "락케이크 Classic Henly Neck Top - Gray",
-  "description": "락케이크 Classic Henly Neck Top - Gray는 편안하면서도 세련된 데일리 웨어로, 캐주얼한 일상부터 가벼운 외출까지 다양한 상황에 활용하기 좋은 클래식 헨리넥 상의입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f47a/4b7244156791aed29332fe93d724dab88c34b7205b7606f8a6f589c0d6d3.jpg"
   ],
@@ -19,13 +13,18 @@ description: 락케이크 Classic Henly Neck Top - Gray는 편안하면서도 �
     "price": "53000",
     "url": "https://link.coupang.com/a/ga3L7cwg6m",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-20"
+    "priceValidUntil": "2026-08-26"
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-13 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -34,14 +33,33 @@ description: 락케이크 Classic Henly Neck Top - Gray는 편안하면서도 �
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f47a/4b7244156791aed29332fe93d724dab88c34b7205b7606f8a6f589c0d6d3.jpg
+title: 락케이크 Classic Henly Neck Top - Gray 구매 가이드
+date: 2026-08-13
+description: 락케이크 Classic Henly Neck Top - Gray는 편안하면서도 세련된 데일리 웨어로, 캐주얼한 일상부터 가벼운 외출까지 다양한 상황에 활용하기 좋은 클래식 헨리넥 상의입니다.
+---
+
+
+
+
+
+
+
 ## 상품 개요
 락케이크 Classic Henly Neck Top - Gray는 기본적인 디자인에 편안한 착용감을 더한 헨리넥 상의로, 일상적인 캐주얼룩부터 간절기 레이어드 아이템으로 폭넓게 활용하기 좋습니다. 편안하면서도 깔끔한 스타일을 선호하는 분들이 집에서 편안하게 입거나 가벼운 외출 시 무난하게 선택하기 적합합니다. 출시연도는 미공개입니다.
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f47a/4b7244156791aed29332fe93d724dab88c34b7205b7606f8a6f589c0d6d3.jpg" alt="락케이크 Classic Henly Neck Top - Gray" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -112,6 +130,11 @@ A. 개인의 선호하는 핏에 따라 사이즈를 선택하는 것이 중요�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -119,3 +142,5 @@ A. 개인의 선호하는 핏에 따라 사이즈를 선택하는 것이 중요�
     <a href="https://link.coupang.com/a/ga3L7cwg6m" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

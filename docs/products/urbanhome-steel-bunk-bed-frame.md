@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b8ff/366febc6c4ded8a0d4df8fd6fe54a3d6a5d5f65f84424edfea03cab64f9a.png
-title: 어반홈 철제 2층 벙커 침대 프레임 구매 가이드
-date: 2026-04-19
-description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공간 활용에 적합하며, 높은 하부 공간을 아지트처럼 꾸밀 수 있는 가성비 좋은 제품입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "어반홈 철제 2층 벙커 침대 프레임",
-  "description": "어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공간 활용에 적합하며, 높은 하부 공간을 아지트처럼 꾸밀 수 있는 가성비 좋은 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b8ff/366febc6c4ded8a0d4df8fd6fe54a3d6a5d5f65f84424edfea03cab64f9a.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/212e/85ba47297d93a3c367db2eeba6ccba0b1bbf2b6a040c8e950a5dc50c69db.png"
@@ -20,7 +14,7 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
     "price": "217000",
     "url": "https://link.coupang.com/a/er2k9H",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -31,174 +25,24 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-19 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 217,000원 · 별점 4.6 · 리뷰 32개</span>
+    <a href="https://link.coupang.com/a/er2k9H" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -210,39 +54,212 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">220,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">210,000</text>
 
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 26 L 498 125 L 516 125 L 534 125 L 552 26 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 26 L 498 125 L 516 125 L 534 125 L 552 26 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 26 L 480 125 L 498 125 L 516 125 L 534 26 L 552 125 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 26 L 480 125 L 498 125 L 516 125 L 534 26 L 552 125 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">217,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 217,000원 · 별점 4.6 · 리뷰 32개</span>
-    <a href="https://link.coupang.com/a/er2k9H" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b8ff/366febc6c4ded8a0d4df8fd6fe54a3d6a5d5f65f84424edfea03cab64f9a.png
+title: 어반홈 철제 2층 벙커 침대 프레임 구매 가이드
+date: 2026-04-19
+description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공간 활용에 적합하며, 높은 하부 공간을 아지트처럼 꾸밀 수 있는 가성비 좋은 제품입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -259,9 +276,11 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b8ff/366febc6c4ded8a0d4df8fd6fe54a3d6a5d5f65f84424edfea03cab64f9a.png" alt="어반홈 철제 2층 벙커 침대 프레임" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -331,6 +350,11 @@ A. 네, 견고한 철제 프레임과 튼튼한 침대 합판을 사용하여 �
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -338,3 +362,5 @@ A. 네, 견고한 철제 프레임과 튼튼한 침대 합판을 사용하여 �
     <a href="https://link.coupang.com/a/er2k9H" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

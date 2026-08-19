@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fabb/d55b6b491aaa027c87000bbd9daf0059f949d74e7ad87059ab0d7cee53cc.jpg
-title: 아기 모빌 신생아 아기 침대 감성모빌 원목 구매 가이드
-date: 2026-07-01
-description: 신생아의 시각 발달과 정서적 안정에 도움을 주는 아기 모빌, 특히 아기 침대용 감성모빌 원목 제품에 대한 구매 가이드입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "아기 모빌 신생아 아기 침대 감성모빌 원목",
-  "description": "신생아의 시각 발달과 정서적 안정에 도움을 주는 아기 모빌, 특히 아기 침대용 감성모빌 원목 제품에 대한 구매 가이드입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fabb/d55b6b491aaa027c87000bbd9daf0059f949d74e7ad87059ab0d7cee53cc.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/95d8/a368005d70eb4ec11bb5374db30d4251cedb257ac4960cfb6b2ec4b6fe8b.jpg"
@@ -20,7 +14,7 @@ description: 신생아의 시각 발달과 정서적 안정에 도움을 주는 
     "price": "24000",
     "url": "https://link.coupang.com/a/e1BgCRuirY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -31,64 +25,24 @@ description: 신생아의 시각 발달과 정서적 안정에 도움을 주는 
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,000원 · 별점 5.0 · 리뷰 6개</span>
+    <a href="https://link.coupang.com/a/e1BgCRuirY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -106,27 +60,90 @@ description: 신생아의 시각 발달과 정서적 안정에 도움을 주는 
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,000원 · 별점 5.0 · 리뷰 6개</span>
-    <a href="https://link.coupang.com/a/e1BgCRuirY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fabb/d55b6b491aaa027c87000bbd9daf0059f949d74e7ad87059ab0d7cee53cc.jpg
+title: 아기 모빌 신생아 아기 침대 감성모빌 원목 구매 가이드
+date: 2026-07-01
+description: 신생아의 시각 발달과 정서적 안정에 도움을 주는 아기 모빌, 특히 아기 침대용 감성모빌 원목 제품에 대한 구매 가이드입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -134,9 +151,11 @@ description: 신생아의 시각 발달과 정서적 안정에 도움을 주는 
 ## 상품 개요
 신생아 아기 침대에 설치하는 이 감성모빌 원목 제품은 아기의 시각 발달을 돕고 정서적 안정감을 제공하는 목적으로 사용됩니다. 원목 소재 특유의 따뜻하고 자연적인 감성 디자인으로 아기 방 인테리어에 조화롭게 어울리며, 부모가 아기를 재우거나 잠시 혼자 시간을 보낼 때 시각적인 자극을 줄 수 있습니다. 부모들이 아기 방을 꾸미면서 기능과 심미성을 동시에 고려할 때 선택하는 경우가 많으며, 출산 선물로도 인기가 있습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fabb/d55b6b491aaa027c87000bbd9daf0059f949d74e7ad87059ab0d7cee53cc.jpg" alt="아기 모빌 신생아 아기 침대 감성모빌 원목" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -199,6 +218,11 @@ A. 모빌을 설치할 아기 침대의 난간이나 프레임에 견고하게 �
 ## 참고한 글
 *   쿠팡 상품 정보 (평점 5/5.0, 리뷰 6개)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -206,3 +230,5 @@ A. 모빌을 설치할 아기 침대의 난간이나 프레임에 견고하게 �
     <a href="https://link.coupang.com/a/e1BgCRuirY" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

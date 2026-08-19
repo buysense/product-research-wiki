@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/7fa44f54-97ef-445b-b947-cdcc4cdb733f_fixing_v2.png
-title: 노블레빗 토끼 애착 인형 구매 가이드
-date: 2026-06-09
-description: 노블레빗 토끼 애착 인형은 부드러운 촉감과 귀여운 디자인으로 아이들의 정서적 안정과 애착 형성을 돕는 인형입니다. 합리적인 가격에 높은 품질을 제공하여 인기 있는 선택지입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "노블레빗 토끼 애착 인형",
-  "description": "노블레빗 토끼 애착 인형은 부드러운 촉감과 귀여운 디자인으로 아이들의 정서적 안정과 애착 형성을 돕는 인형입니다. 합리적인 가격에 높은 품질을 제공하여 인기 있는 선택지입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/7fa44f54-97ef-445b-b947-cdcc4cdb733f_fixing_v2.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/75c3/a4c90b15adeff4ea1cae3990729ebd550cd5591152556acd4b034d083e2b.png"
@@ -20,115 +14,35 @@ description: 노블레빗 토끼 애착 인형은 부드러운 촉감과 귀여�
     "price": "15330",
     "url": "https://link.coupang.com/a/eqP0XT9RXU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1810,
+    "reviewCount": 1813,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-09 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,330원 · 별점 4.8 · 리뷰 1,813개</span>
+    <a href="https://link.coupang.com/a/eqP0XT9RXU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -140,34 +54,138 @@ description: 노블레빗 토끼 애착 인형은 부드러운 촉감과 귀여�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,400</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,300</text>
 
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="155" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="155" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="143" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,330원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,330원 · 별점 4.8 · 리뷰 1,810개</span>
-    <a href="https://link.coupang.com/a/eqP0XT9RXU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/7fa44f54-97ef-445b-b947-cdcc4cdb733f_fixing_v2.png
+title: 노블레빗 토끼 애착 인형 구매 가이드
+date: 2026-06-09
+description: 노블레빗 토끼 애착 인형은 부드러운 촉감과 귀여운 디자인으로 아이들의 정서적 안정과 애착 형성을 돕는 인형입니다. 합리적인 가격에 높은 품질을 제공하여 인기 있는 선택지입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -175,9 +193,11 @@ description: 노블레빗 토끼 애착 인형은 부드러운 촉감과 귀여�
 ## 상품 개요
 노블레빗 토끼 애착 인형은 아이들의 정서적 안정과 애착 형성을 돕기 위해 부모들이 선택하는 인형입니다. 부드러운 촉감과 귀여운 디자인을 갖추고 있으며, 비싼 유명 브랜드 애착 인형의 대안으로 합리적인 가격에 높은 품질을 제공하여 많은 부모들에게 좋은 평가를 받고 있습니다. 아이가 잠들 때, 놀이할 때, 혹은 심리적 안정감을 필요로 할 때 곁을 지켜주는 용도로 주로 소비됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/7fa44f54-97ef-445b-b947-cdcc4cdb733f_fixing_v2.png" alt="노블레빗 토끼 애착 인형" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -242,10 +262,17 @@ A. 아이들이 사용하는 인형이므로 위생을 위해 정기적인 세�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,330원 · 별점 4.8 · 리뷰 1,810개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,330원 · 별점 4.8 · 리뷰 1,813개</span>
     <a href="https://link.coupang.com/a/eqP0XT9RXU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

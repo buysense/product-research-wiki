@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/169543113531242-5c6c7631-8913-462c-88a6-784d309dd72c.jpg
-title: 하기스 네이처메이드 생분해 물티슈 캡형, 70매, 10개 구매 가이드
-date: 2026-07-03
-description: 하기스 네이처메이드 생분해 물티슈는 환경을 생각하는 생분해 원단과 안전한 성분으로 아기 기저귀 갈이, 외출 시 손 닦기 등 온 가족이 안심하고 사용하기 좋은 캡형 물티슈입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "하기스 네이처메이드 생분해 물티슈 캡형, 70매, 10개",
-  "description": "하기스 네이처메이드 생분해 물티슈는 환경을 생각하는 생분해 원단과 안전한 성분으로 아기 기저귀 갈이, 외출 시 손 닦기 등 온 가족이 안심하고 사용하기 좋은 캡형 물티슈입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/169543113531242-5c6c7631-8913-462c-88a6-784d309dd72c.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/26258861444951-fbddd4f3-fea9-4dbe-ac0b-913e46d38742.jpg"
@@ -17,76 +11,38 @@ description: 하기스 네이처메이드 생분해 물티슈는 환경을 생�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "21750",
+    "price": "22900",
     "url": "https://link.coupang.com/a/e48c8LI3Xg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 4238,
+    "reviewCount": 4312,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,900원 · 별점 4.9 · 리뷰 4,312개</span>
+    <a href="https://link.coupang.com/a/e48c8LI3Xg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -94,45 +50,106 @@ description: 하기스 네이처메이드 생분해 물티슈는 환경을 생�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,500</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">23,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
 
-    <path d="M 68 173 L 86 138 L 104 138 L 122 138 L 140 138 L 158 138 L 176 173 L 194 138 L 211 138 L 229 173 L 247 173 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 173 L 86 138 L 104 138 L 122 138 L 140 138 L 158 138 L 176 173 L 194 138 L 211 138 L 229 173 L 247 173 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="173" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="64" r="5" fill="#ea580c"></circle>
+    <path d="M 68 158 L 86 158 L 104 158 L 122 158 L 140 158 L 158 176 L 176 158 L 194 158 L 211 176 L 229 176 L 247 121 L 265 121 L 283 121 L 301 121 L 319 121 L 337 121 L 355 121 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 121 L 552 121 L 570 121 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 158 L 86 158 L 104 158 L 122 158 L 140 158 L 158 176 L 176 158 L 194 158 L 211 176 L 229 176 L 247 121 L 265 121 L 283 121 L 301 121 L 319 121 L 337 121 L 355 121 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 121 L 552 121 L 570 121 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,750원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,750원 · 별점 4.9 · 리뷰 4,238개</span>
-    <a href="https://link.coupang.com/a/e48c8LI3Xg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/169543113531242-5c6c7631-8913-462c-88a6-784d309dd72c.jpg
+title: 하기스 네이처메이드 생분해 물티슈 캡형, 70매, 10개 구매 가이드
+date: 2026-07-03
+description: 하기스 네이처메이드 생분해 물티슈는 환경을 생각하는 생분해 원단과 안전한 성분으로 아기 기저귀 갈이, 외출 시 손 닦기 등 온 가족이 안심하고 사용하기 좋은 캡형 물티슈입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -140,9 +157,11 @@ description: 하기스 네이처메이드 생분해 물티슈는 환경을 생�
 ## 상품 개요
 하기스 네이처메이드 생분해 물티슈 캡형, 70매, 10개는 미세플라스틱 걱정 없는 생분해 원단과 안심 성분으로 아기와 온 가족의 피부에 자극 없이 사용 가능한 물티슈입니다. 기저귀 교체 시, 아이의 손과 입을 닦을 때, 그리고 일상생활 속에서 간편하고 위생적인 세정이 필요할 때 유용하며, 특히 환경을 생각하는 소비자들이 선호하는 제품입니다. 캡형 디자인으로 사용 편의성과 위생을 강화했습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/169543113531242-5c6c7631-8913-462c-88a6-784d309dd72c.jpg" alt="하기스 네이처메이드 생분해 물티슈 캡형, 70매, 10개" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -202,10 +221,17 @@ A. 이 제품은 65gsm의 도톰한 두께를 가지고 있습니다. 이는 물
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,750원 · 별점 4.9 · 리뷰 4,238개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,900원 · 별점 4.9 · 리뷰 4,312개</span>
     <a href="https://link.coupang.com/a/e48c8LI3Xg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

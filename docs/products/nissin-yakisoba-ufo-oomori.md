@@ -1,176 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/121e/342a632963bb8e6dc8491734f2c8dc5caeead27967db083df7b57ea0e3db.jpg
-title: 야끼소바 U.F.O. 구매 가이드
-date: 2026-04-10
-description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 소스 기반의 감칠맛과 쫄깃한 면발이 특징인 일본 대표 컵 볶음면입니다. 일본 여행 기념품이나 간편한 식사, 야식으로 인기가 많습니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "야끼소바 U.F.O.",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "38480",
+    "url": "https://link.coupang.com/a/elPCqb",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.7,
+    "reviewCount": 651,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-10 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다. 최종 가격 확인일: 2026년 4월 10일</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 38,480원 · 별점 4.7 · 리뷰 651개</span>
+    <a href="https://link.coupang.com/a/elPCqb" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -178,45 +44,218 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">36,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">34,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 160 L 158 160 L 176 160 L 194 160 L 211 160 L 229 160 L 247 160 L 265 160 L 283 160 L 301 160 L 319 43 L 337 43 L 355 43 L 373 43 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 160 L 534 160 L 552 160 L 570 160 L 588 160 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 160 L 158 160 L 176 160 L 194 160 L 211 160 L 229 160 L 247 160 L 265 160 L 283 160 L 301 160 L 319 43 L 337 43 L 355 43 L 373 43 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 160 L 534 160 L 552 160 L 570 160 L 588 160" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="160" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="160" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="160" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="160" r="5" fill="#ea580c"></circle>
+    <path d="M 68 84 L 86 84 L 104 84 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 114 L 301 90 L 319 90 L 337 90 L 355 90 L 373 84 L 391 84 L 409 84 L 427 84 L 445 84 L 462 84 L 480 84 L 498 114 L 516 114 L 534 114 L 552 114 L 570 114 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 84 L 86 84 L 104 84 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 114 L 301 90 L 319 90 L 337 90 L 355 90 L 373 84 L 391 84 L 409 84 L 427 84 L 445 84 L 462 84 L 480 84 L 498 114 L 516 114 L 534 114 L 552 114 L 570 114 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="49" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="148" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,240원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="37" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">38,480원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,840원 (최저가)</span>
-    <a href="https://link.coupang.com/a/elPCqb" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/121e/342a632963bb8e6dc8491734f2c8dc5caeead27967db083df7b57ea0e3db.jpg
+title: 야끼소바 U.F.O. 구매 가이드
+date: 2026-04-10
+description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 소스 기반의 감칠맛과 쫄깃한 면발이 특징인 일본 대표 컵 볶음면입니다. 일본 여행 기념품이나 간편한 식사, 야식으로 인기가 많습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -293,13 +332,8 @@ A. 大盛(오오모리) 제품은 일반 제품보다 면과 토핑의 양이 �
 Q. 소스 맛이 너무 강할 경우 어떻게 조절할 수 있나요?
 A. 소스 간이 센 편이므로, 평소 싱겁게 드시는 분들은 마요네즈나 달걀 프라이를 추가하여 곁들이면 맛의 균형을 맞추고 부드러움을 더할 수 있습니다. 김치와 함께 먹는 것도 좋은 방법입니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,840원 (최저가)</span>
-    <a href="https://link.coupang.com/a/elPCqb" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -323,3 +357,18 @@ A. 소스 간이 센 편이므로, 평소 싱겁게 드시는 분들은 마요�
 - [日清焼そばU.F.O. | 日清食品グループ](https://www.nissin.com/jp/product/items/13520/)
 - [＜デジタル発＞札幌っ子のソウルフード？　大盛り「やきそば屋」が移転　愛され続けるワケは：北海道新聞デジタル](https://www.hokkaido-np.co.jp/article/760745/)
 - [大盛りカップ焼きそばのおすすめランキング9選。量が多い&一番うまい商品探して比較](https://360life.shinyusha.co.jp/articles/-/51932)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 38,480원 · 별점 4.7 · 리뷰 651개</span>
+    <a href="https://link.coupang.com/a/elPCqb" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

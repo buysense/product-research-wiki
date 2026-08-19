@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ca44/7cb44f3623eec2958d97273747c721faf5dc55bc2d195f2f39d0a51d77df.jpg
-title: 국내최초 99.94%지속 쿨링선스프레이 구매 가이드
-date: 2026-08-01
-description: 국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활동 시 끈적임 없이 피부 온도를 낮춰주며, 땀에도 강해 간편한 자외선 차단을 원하는 사용자에게 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "국내최초 99.94%지속 쿨링선스프레이",
-  "description": "국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활동 시 끈적임 없이 피부 온도를 낮춰주며, 땀에도 강해 간편한 자외선 차단을 원하는 사용자에게 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ca44/7cb44f3623eec2958d97273747c721faf5dc55bc2d195f2f39d0a51d77df.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/04ec/e3eda37e29e94a238fb8d57cfd0d7f8a721a347eeccb59f8780fe224ddad.jpg"
@@ -17,67 +11,94 @@ description: 국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "30800",
+    "price": "35500",
     "url": "https://link.coupang.com/a/fRxlPg8LSK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.5,
-    "reviewCount": 483,
+    "ratingValue": 4.4,
+    "reviewCount": 585,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">30,900</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,800</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,700</text>
-
-    <path d="M 68 102 L 198 102 L 328 102 L 458 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 198 102 L 328 102 L 458 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">30,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 30,800원 · 별점 4.5 · 리뷰 483개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 35,500원 · 별점 4.4 · 리뷰 585개</span>
     <a href="https://link.coupang.com/a/fRxlPg8LSK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
+
+    <path d="M 68 166 L 172 166 L 276 166 L 380 166 L 484 166 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 166 L 172 166 L 276 166 L 380 166 L 484 166 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="94" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">35,500원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ca44/7cb44f3623eec2958d97273747c721faf5dc55bc2d195f2f39d0a51d77df.jpg
+title: 국내최초 99.94%지속 쿨링선스프레이 구매 가이드
+date: 2026-08-01
+description: 국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활동 시 끈적임 없이 피부 온도를 낮춰주며, 땀에도 강해 간편한 자외선 차단을 원하는 사용자에게 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 상품 개요
 국내 최초 99.94%지속 쿨링선스프레이는 뜨거운 여름철, 야외 활동 중 또는 일상에서 간편하게 피부 온도를 낮추고 자외선을 차단하려는 상황에 적합한 제품입니다. 360도 원형 분사 시스템으로 손이 닿지 않는 부위까지 쉽게 도포할 수 있으며, 끈적임 없이 산뜻하게 마무리되어 운동이나 물놀이 등 활동량이 많은 날에도 부담 없이 사용할 수 있습니다. 또한 비건 인증을 받아 민감한 피부에도 적합하며, 메이크업 위에 덧뿌리거나 아이와 외출 시에도 유용하게 활용됩니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ca44/7cb44f3623eec2958d97273747c721faf5dc55bc2d195f2f39d0a51d77df.jpg" alt="국내최초 99.94%지속 쿨링선스프레이" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -144,10 +165,17 @@ A. 네, 메이크업 위에 덧뿌려도 뭉치거나 밀리는 현상이 적다
 ## 참고한 글
 *   쿠팡 구매자 리뷰 분석
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 30,800원 · 별점 4.5 · 리뷰 483개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 35,500원 · 별점 4.4 · 리뷰 585개</span>
     <a href="https://link.coupang.com/a/fRxlPg8LSK" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

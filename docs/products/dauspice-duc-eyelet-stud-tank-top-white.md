@@ -1,94 +1,40 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/50aa/0f34f95344fbdf2c60c43d669736e8fb5782fa583695d34300ccdc3f6a8a.jpg
-title: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White 구매 가이드
-date: 2026-06-28
-description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주얼한 일상복, 여름철 시원한 착용 또는 스타일리시한 레이어링에 적합한 탱크탑입니다. 독특한 아일렛 스터드 디자인으로 포인트를 더합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White",
-  "description": "디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주얼한 일상복, 여름철 시원한 착용 또는 스타일리시한 레이어링에 적합한 탱크탑입니다. 독특한 아일렛 스터드 디자인으로 포인트를 더합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/50aa/0f34f95344fbdf2c60c43d669736e8fb5782fa583695d34300ccdc3f6a8a.jpg"
   ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "47100",
+    "price": "43300",
     "url": "https://link.coupang.com/a/eXdTgfWhzg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-28 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 43,300원</span>
+    <a href="https://link.coupang.com/a/eXdTgfWhzg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -100,41 +46,113 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 29 L 86 29 L 104 29 L 122 29 L 140 29 L 158 29 L 176 70 L 194 70 L 211 70 L 229 70 L 247 29 L 265 29 L 283 29 L 301 29 L 319 29 L 337 29 L 355 29 L 373 29 L 391 29 L 409 29 L 427 29 L 445 29 L 462 132 L 480 132 L 498 132 L 516 70 L 534 70 L 552 70 L 570 70 L 588 70 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 29 L 86 29 L 104 29 L 122 29 L 140 29 L 158 29 L 176 70 L 194 70 L 211 70 L 229 70 L 247 29 L 265 29 L 283 29 L 301 29 L 319 29 L 337 29 L 355 29 L 373 29 L 391 29 L 409 29 L 427 29 L 445 29 L 462 132 L 480 132 L 498 132 L 516 70 L 534 70 L 552 70 L 570 70 L 588 70" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 29 L 86 29 L 104 29 L 122 29 L 140 29 L 158 70 L 176 70 L 194 70 L 211 70 L 229 29 L 247 29 L 265 29 L 283 29 L 301 29 L 319 29 L 337 29 L 355 29 L 373 29 L 391 29 L 409 29 L 427 29 L 445 132 L 462 132 L 480 132 L 498 70 L 516 70 L 534 70 L 552 70 L 570 70 L 588 128 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 29 L 86 29 L 104 29 L 122 29 L 140 29 L 158 70 L 176 70 L 194 70 L 211 70 L 229 29 L 247 29 L 265 29 L 283 29 L 301 29 L 319 29 L 337 29 L 355 29 L 373 29 L 391 29 L 409 29 L 427 29 L 445 132 L 462 132 L 480 132 L 498 70 L 516 70 L 534 70 L 552 70 L 570 70 L 588 128" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="70" r="5" fill="#ea580c"></circle>
+    <circle cx="140" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="128" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="58" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">47,100원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="116" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">43,300원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 42,500원</span>
-    <a href="https://link.coupang.com/a/eXdTgfWhzg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/50aa/0f34f95344fbdf2c60c43d669736e8fb5782fa583695d34300ccdc3f6a8a.jpg
+title: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White 구매 가이드
+date: 2026-06-28
+description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주얼한 일상복, 여름철 시원한 착용 또는 스타일리시한 레이어링에 적합한 탱크탑입니다. 독특한 아일렛 스터드 디자인으로 포인트를 더합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -142,9 +160,11 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
 ## 상품 개요
 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 따뜻한 계절 캐주얼룩이나 다양한 상의와 레이어드하여 활용하기 좋은 민소매 상의입니다. 아일렛 스터드 디테일이 더해져 기본적인 탱크탑에 스타일리시한 포인트를 주며, 일상복뿐만 아니라 휴가지에서 편안하면서도 멋스러운 연출에 적합합니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/50aa/0f34f95344fbdf2c60c43d669736e8fb5782fa583695d34300ccdc3f6a8a.jpg" alt="디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -203,10 +223,17 @@ A. 흰색 의류의 특성상 비침이 있을 수 있습니다. 소재의 두�
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 42,500원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 43,300원</span>
     <a href="https://link.coupang.com/a/eXdTgfWhzg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

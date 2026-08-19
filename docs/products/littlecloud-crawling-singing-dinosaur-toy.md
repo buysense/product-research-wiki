@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/7393/61fffdcf26f38da66973c1cad100380c3245c9fb6ea7b998f1c94b860bb8.jpg
-title: 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난감 구매 가이드
-date: 2026-05-21
-description: 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난감은 터미타임과 기기 시작 시기에 아기의 시선을 사로잡고 운동 발달을 돕는 반응형 완구입니다. 귀여운 디자인과 멜로디로 아이의 흥미를 유도합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "리틀클라우드 엉금엉금 노래하는 아기 공룡 장난감",
-  "description": "리틀클라우드 엉금엉금 노래하는 아기 공룡 장난감은 터미타임과 기기 시작 시기에 아기의 시선을 사로잡고 운동 발달을 돕는 반응형 완구입니다. 귀여운 디자인과 멜로디로 아이의 흥미를 유도합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/7393/61fffdcf26f38da66973c1cad100380c3245c9fb6ea7b998f1c94b860bb8.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/42078090976276-65411278-3ca9-4159-917f-066c4cdb79f9.jpg"
@@ -17,153 +11,38 @@ description: 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "15030",
+    "price": "13930",
     "url": "https://link.coupang.com/a/dVOgWAcFAO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 2352,
+    "reviewCount": 2370,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-21 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,930원 · 별점 4.7 · 리뷰 2,370개</span>
+    <a href="https://link.coupang.com/a/dVOgWAcFAO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -171,52 +50,191 @@ description: 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 33 L 86 33 L 104 33 L 122 33 L 140 33 L 158 69 L 176 29 L 194 29 L 211 29 L 229 29 L 247 75 L 265 29 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 67 L 409 67 L 427 67 L 445 64 L 462 64 L 480 64 L 498 64 L 516 98 L 534 98 L 552 139 L 570 139 L 588 139 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 33 L 86 33 L 104 33 L 122 33 L 140 33 L 158 69 L 176 29 L 194 29 L 211 29 L 229 29 L 247 75 L 265 29 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 67 L 409 67 L 427 67 L 445 64 L 462 64 L 480 64 L 498 64 L 516 98 L 534 98 L 552 139 L 570 139 L 588 139" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="33" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="33" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="139" r="5" fill="#ea580c"></circle>
+    <path d="M 68 59 L 86 59 L 104 59 L 122 59 L 140 74 L 158 58 L 176 58 L 194 58 L 211 58 L 229 76 L 247 58 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 73 L 391 73 L 409 73 L 427 72 L 445 72 L 462 72 L 480 72 L 498 85 L 516 85 L 534 102 L 552 102 L 570 102 L 588 118 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 59 L 86 59 L 104 59 L 122 59 L 140 74 L 158 58 L 176 58 L 194 58 L 211 58 L 229 76 L 247 58 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 73 L 391 73 L 409 73 L 427 72 L 445 72 L 462 72 L 480 72 L 498 85 L 516 85 L 534 102 L 552 102 L 570 102 L 588 118" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="118" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="127" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,030원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="106" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,930원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,030원 · 별점 4.7 · 리뷰 2,352개</span>
-    <a href="https://link.coupang.com/a/dVOgWAcFAO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/7393/61fffdcf26f38da66973c1cad100380c3245c9fb6ea7b998f1c94b860bb8.jpg
+title: 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난감 구매 가이드
+date: 2026-05-21
+description: 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난감은 터미타임과 기기 시작 시기에 아기의 시선을 사로잡고 운동 발달을 돕는 반응형 완구입니다. 귀여운 디자인과 멜로디로 아이의 흥미를 유도합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -226,9 +244,11 @@ description: 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난�
 ## 상품 개요
 리틀클라우드 엉금엉금 노래하는 아기 공룡 장난감은 터미타임을 시작하는 영아부터 기어다니기 시작하는 아기들의 흥미를 유발하고 운동 발달을 돕기 위해 고안된 반응형 완구입니다. 귀여운 공룡 디자인과 함께 노래가 나오고 엉금엉금 움직이며, 불빛까지 더해져 아기의 시각과 청각을 자극하여 자연스럽게 놀이에 집중하게 돕습니다. 출산 준비물이나 아기 선물용으로도 고려되는 제품입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/7393/61fffdcf26f38da66973c1cad100380c3245c9fb6ea7b998f1c94b860bb8.jpg" alt="리틀클라우드 엉금엉금 노래하는 아기 공룡 장난감" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -287,10 +307,17 @@ A. 장난감의 움직임과 소리, 불빛은 아기의 시각과 청각을 자
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,030원 · 별점 4.7 · 리뷰 2,352개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,930원 · 별점 4.7 · 리뷰 2,370개</span>
     <a href="https://link.coupang.com/a/dVOgWAcFAO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

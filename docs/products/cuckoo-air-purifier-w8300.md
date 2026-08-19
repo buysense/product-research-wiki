@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3805/e3f354c4380040f44de9638ab15bdd199d45209987b3784ec62b96177bab.jpg
-title: 쿠쿠 공기청정기 W8300 (96.8㎡) 구매 가이드
-date: 2026-06-26
-description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간을 위한 제품으로, 거실이나 카페 등에서 쾌적한 공기 관리에 도움을 줍니다. 합리적인 가격과 뛰어난 성능, 편리한 자동 모드를 제공합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "쿠쿠 공기청정기 W8300 (96.8㎡)",
-  "description": "쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간을 위한 제품으로, 거실이나 카페 등에서 쾌적한 공기 관리에 도움을 줍니다. 합리적인 가격과 뛰어난 성능, 편리한 자동 모드를 제공합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3805/e3f354c4380040f44de9638ab15bdd199d45209987b3784ec62b96177bab.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1073434524804991-4b069798-a2a9-48fe-844f-19ea4ee80a44.jpg"
@@ -17,90 +11,38 @@ description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "299000",
+    "price": "288300",
     "url": "https://link.coupang.com/a/eTmwEK7NYG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2019,
+    "reviewCount": 2052,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-26 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 288,300원 · 별점 4.8 · 리뷰 2,052개</span>
+    <a href="https://link.coupang.com/a/eTmwEK7NYG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -112,44 +54,119 @@ description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">250,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
 
-    <path d="M 68 117 L 86 119 L 104 119 L 122 119 L 140 119 L 158 117 L 176 117 L 194 117 L 211 117 L 229 119 L 247 122 L 265 122 L 283 122 L 301 119 L 319 119 L 337 119 L 355 119 L 373 119 L 391 43 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 117 L 86 119 L 104 119 L 122 119 L 140 119 L 158 117 L 176 117 L 194 117 L 211 117 L 229 119 L 247 122 L 265 122 L 283 122 L 301 119 L 319 119 L 337 119 L 355 119 L 373 119 L 391 43 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="28" r="5" fill="#ea580c"></circle>
+    <path d="M 68 119 L 86 119 L 104 119 L 122 119 L 140 117 L 158 117 L 176 117 L 194 117 L 211 119 L 229 122 L 247 122 L 265 122 L 283 119 L 301 119 L 319 119 L 337 119 L 355 119 L 373 43 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 44 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 119 L 86 119 L 104 119 L 122 119 L 140 117 L 158 117 L 176 117 L 194 117 L 211 119 L 229 122 L 247 122 L 265 122 L 283 119 L 301 119 L 319 119 L 337 119 L 355 119 L 373 43 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 44" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="44" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="16" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">299,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="32" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">288,300원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 299,000원 · 별점 4.8 · 리뷰 2,019개</span>
-    <a href="https://link.coupang.com/a/eTmwEK7NYG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3805/e3f354c4380040f44de9638ab15bdd199d45209987b3784ec62b96177bab.jpg
+title: 쿠쿠 공기청정기 W8300 (96.8㎡) 구매 가이드
+date: 2026-06-26
+description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간을 위한 제품으로, 거실이나 카페 등에서 쾌적한 공기 관리에 도움을 줍니다. 합리적인 가격과 뛰어난 성능, 편리한 자동 모드를 제공합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -157,9 +174,11 @@ description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간
 ## 상품 개요
 쿠쿠 공기청정기 W8300(96.8㎡)은 약 29평(96.8㎡)의 넓은 공간을 효과적으로 관리할 수 있는 대용량 공기청정기입니다. 주로 거실, 넓은 사무 공간, 카페 등에서 쾌적한 실내 환경을 조성하며, 요리 후 냄새 제거 또는 미세먼지가 심한 날 공기질 개선을 위해 활용됩니다. 360도 공기 흡입 방식과 자동 모드, 합리적인 가격대를 통해 성능과 편의성을 동시에 제공합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3805/e3f354c4380040f44de9638ab15bdd199d45209987b3784ec62b96177bab.jpg" alt="쿠쿠 공기청정기 W8300 (96.8㎡)" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -222,10 +241,17 @@ A. 제품에 탑재된 센서가 실시간으로 공기 질을 측정하고, 전
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 299,000원 · 별점 4.8 · 리뷰 2,019개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 288,300원 · 별점 4.8 · 리뷰 2,052개</span>
     <a href="https://link.coupang.com/a/eTmwEK7NYG" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

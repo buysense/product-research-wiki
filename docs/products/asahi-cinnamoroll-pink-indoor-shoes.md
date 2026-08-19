@@ -1,180 +1,42 @@
----
-image: //i.namu.wiki/i/0z8EHLmYQ3RMF-zx3LolRNkkI_V0b81BoDkD1X_QqTW6_GfQ40MAEjj363apHE7wkych9tC23qIC1ypDom5JnrNUs5pu9vKgeGU3d9fUtJAeaR2nvRd_fyO5rTyLWZcbTiem8_WJjTXXtnd5englaA.svg
-title: 아사히 시나모롤 핑크 실내화 구매 가이드
-date: 2026-03-31
-description: 아사히 시나모롤 핑크 실내화는 140~210mm 사이즈의 유아동용 발등밴드 실내화로, 미끄럼방지 기능과 KC 안전확인 인증을 통해 유치원 및 초등학생의 편안하고 안전한 실내 생활을 돕습니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "아사히 시나모롤 핑크 실내화",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "29500",
+    "url": "https://link.coupang.com/a/eeW7m7",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.9,
+    "reviewCount": 196,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-31 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 29,500원 · 별점 4.9 · 리뷰 196개</span>
+    <a href="https://link.coupang.com/a/eeW7m7" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -182,54 +44,214 @@ description: 아사히 시나모롤 핑크 실내화는 140~210mm 사이즈의 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">27,600</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">27,500</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">27,400</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">29,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">27,000</text>
 
-    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 140 L 552 140 L 570 140 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 140 L 552 140 L 570 140 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">27,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">29,500원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0;">
-  <div style="font-size: 0.8em; color: #888; margin-bottom: 10px;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
-  <div style="display: flex; flex-direction: column; gap: 8px;">
-    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; padding: 10px 14px; background: #fff; border: 1px solid #e8e8e8; border-radius: 6px;">
-      <div style="display: flex; align-items: center; gap: 10px; flex: 1; min-width: 180px;">
-        <img src="//i.namu.wiki/i/0z8EHLmYQ3RMF-zx3LolRNkkI_V0b81BoDkD1X_QqTW6_GfQ40MAEjj363apHE7wkych9tC23qIC1ypDom5JnrNUs5pu9vKgeGU3d9fUtJAeaR2nvRd_fyO5rTyLWZcbTiem8_WJjTXXtnd5englaA.svg" alt="SK스토아" style="width: 60px; height: auto; object-fit: contain;" />
-      </div>
-      <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-left: auto;">
-        <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">39,940원</span>
-        <a href="https://www.skstoa.com/display/goods/54940725" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #F26522; color: #fff; padding: 7px 16px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9em; white-space: nowrap; width: 160px; text-align: center; box-sizing: border-box;">🛒 SK스토아 구매</a>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; padding: 10px 14px; background: #fff; border: 1px solid #e8e8e8; border-radius: 6px;">
-      <div style="display: flex; align-items: center; gap: 10px; flex: 1; min-width: 180px;">
-        <img src="//image7.coupangcdn.com/image/coupang/common/logo_coupang_w350.png" alt="쿠팡" style="width: 60px; height: auto; object-fit: contain;" />
-        <span style="font-size: 0.78em; color: #999;">일부 사이즈만 (150, 210)</span>
-      </div>
-      <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-left: auto;">
-        <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">16,420 ~ 26,000원</span>
-        <a href="https://link.coupang.com/a/eeW7m7" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 7px 16px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9em; white-space: nowrap; width: 160px; text-align: center; box-sizing: border-box;">🛒 쿠팡 구매</a>
-      </div>
-    </div>
-  </div>
-</div>
+---
+image: //i.namu.wiki/i/0z8EHLmYQ3RMF-zx3LolRNkkI_V0b81BoDkD1X_QqTW6_GfQ40MAEjj363apHE7wkych9tC23qIC1ypDom5JnrNUs5pu9vKgeGU3d9fUtJAeaR2nvRd_fyO5rTyLWZcbTiem8_WJjTXXtnd5englaA.svg
+title: 아사히 시나모롤 핑크 실내화 구매 가이드
+date: 2026-03-31
+description: 아사히 시나모롤 핑크 실내화는 140~210mm 사이즈의 유아동용 발등밴드 실내화로, 미끄럼방지 기능과 KC 안전확인 인증을 통해 유치원 및 초등학생의 편안하고 안전한 실내 생활을 돕습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -332,30 +354,8 @@ A. 아사히 시나모롤 실내화는 면 소재로 부드럽고 통기성이 �
 Q. KC 인증은 어떤 내용인가요?  
 A. 아사히 시나모롤 핑크 실내화는 어린이제품 안전특별법에 따른 안전확인 대상 제품입니다. 이는 해당 제품이 유아 및 어린이가 사용하기에 안전 기준을 충족했음을 의미하며, 상세 인증 번호는 제품 표기나 판매처를 통해 확인할 수 있습니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0;">
-  <div style="font-size: 0.8em; color: #888; margin-bottom: 10px;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
-  <div style="display: flex; flex-direction: column; gap: 8px;">
-    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; padding: 10px 14px; background: #fff; border: 1px solid #e8e8e8; border-radius: 6px;">
-      <div style="display: flex; align-items: center; gap: 10px; flex: 1; min-width: 180px;">
-        <img src="//i.namu.wiki/i/0z8EHLmYQ3RMF-zx3LolRNkkI_V0b81BoDkD1X_QqTW6_GfQ40MAEjj363apHE7wkych9tC23qIC1ypDom5JnrNUs5pu9vKgeGU3d9fUtJAeaR2nvRd_fyO5rTyLWZcbTiem8_WJjTXXtnd5englaA.svg" alt="SK스토아" style="width: 60px; height: auto; object-fit: contain;" />
-      </div>
-      <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-left: auto;">
-        <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">39,940원</span>
-        <a href="https://www.skstoa.com/display/goods/54940725" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #F26522; color: #fff; padding: 7px 16px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9em; white-space: nowrap; width: 160px; text-align: center; box-sizing: border-box;">🛒 SK스토아 구매</a>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; padding: 10px 14px; background: #fff; border: 1px solid #e8e8e8; border-radius: 6px;">
-      <div style="display: flex; align-items: center; gap: 10px; flex: 1; min-width: 180px;">
-        <img src="//image7.coupangcdn.com/image/coupang/common/logo_coupang_w350.png" alt="쿠팡" style="width: 60px; height: auto; object-fit: contain;" />
-        <span style="font-size: 0.78em; color: #999;">일부 사이즈만 (150, 210)</span>
-      </div>
-      <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-left: auto;">
-        <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">16,420 ~ 26,000원</span>
-        <a href="https://link.coupang.com/a/eeW7m7" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 7px 16px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9em; white-space: nowrap; width: 160px; text-align: center; box-sizing: border-box;">🛒 쿠팡 구매</a>
-      </div>
-    </div>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -369,3 +369,18 @@ A. 아사히 시나모롤 핑크 실내화는 어린이제품 안전특별법에
 - [아사히실내화 초등학생 실내화로 딱이에요! : 네이버 블로그](https://m.blog.naver.com/onlyraina/220661943982)
 - [유치원 입학 준비물 실내화 추천! 아사히 마이멜로디 160 사이즈 vs 쿠팡 미피 EVA 160 비교 후기 : 네이버 블로그](https://m.blog.naver.com/cutie_yeonseo/224194978078)
 - [초등 실내화 미끄럼 방지 필수템 마이멜로디 EVA : 네이버 블로그](https://m.blog.naver.com/nlove25/224183255350)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 29,500원 · 별점 4.9 · 리뷰 196개</span>
+    <a href="https://link.coupang.com/a/eeW7m7" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/11/10/1/850acd95-4ec9-4e73-8bab-8cd72e6a7b30.jpg
-title: 아리감성 오리지널 머랭쿠키 원통형 구매 가이드
-date: 2026-06-26
-description: 아리감성 오리지널 머랭쿠키 원통형은 무항생제 계란 흰자로 만든 바삭하고 사르르 녹는 식감의 머랭쿠키로, 커피와 함께 즐기거나 아이들 간식, 소소한 감사 선물용으로 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "아리감성 오리지널 머랭쿠키 원통형",
-  "description": "아리감성 오리지널 머랭쿠키 원통형은 무항생제 계란 흰자로 만든 바삭하고 사르르 녹는 식감의 머랭쿠키로, 커피와 함께 즐기거나 아이들 간식, 소소한 감사 선물용으로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/11/10/1/850acd95-4ec9-4e73-8bab-8cd72e6a7b30.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/11/10/9/203f872e-baf0-4a50-a9ba-71fb57c1cafe.jpg"
@@ -17,88 +11,38 @@ description: 아리감성 오리지널 머랭쿠키 원통형은 무항생제 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "15500",
+    "price": "17000",
     "url": "https://link.coupang.com/a/eTTFYfxHXg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 453,
+    "reviewCount": 469,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-26 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,000원 · 별점 4.8 · 리뷰 469개</span>
+    <a href="https://link.coupang.com/a/eTTFYfxHXg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -106,37 +50,111 @@ description: 아리감성 오리지널 머랭쿠키 원통형은 무항생제 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,600</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,500</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,400</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 140 L 552 140 L 570 140 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 140 L 552 140 L 570 140 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,500원 · 별점 4.8 · 리뷰 453개</span>
-    <a href="https://link.coupang.com/a/eTTFYfxHXg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/11/10/1/850acd95-4ec9-4e73-8bab-8cd72e6a7b30.jpg
+title: 아리감성 오리지널 머랭쿠키 원통형 구매 가이드
+date: 2026-06-26
+description: 아리감성 오리지널 머랭쿠키 원통형은 무항생제 계란 흰자로 만든 바삭하고 사르르 녹는 식감의 머랭쿠키로, 커피와 함께 즐기거나 아이들 간식, 소소한 감사 선물용으로 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -145,9 +163,11 @@ description: 아리감성 오리지널 머랭쿠키 원통형은 무항생제 �
 ## 상품 개요
 아리감성 오리지널 머랭쿠키 원통형은 신선한 무항생제 계란 흰자로 만든 바삭하고 달콤한 머랭쿠키입니다. 입안에서 사르르 녹는 식감이 특징이며, 알록달록한 색감으로 시각적인 즐거움도 제공합니다. 주로 커피나 차와 함께하는 간식, 아이들을 위한 달콤한 선물, 또는 소소한 감사 선물용으로 소비됩니다. 과거 인기 드라마에 등장하며 제품의 심미적 가치와 맛을 인정받은 바 있습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/11/10/1/850acd95-4ec9-4e73-8bab-8cd72e6a7b30.jpg" alt="아리감성 오리지널 머랭쿠키 원통형" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -209,10 +229,17 @@ A. 신선한 무항생제 계란 흰자를 사용하고 HACCP 인증 시설에�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,500원 · 별점 4.8 · 리뷰 453개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,000원 · 별점 4.8 · 리뷰 469개</span>
     <a href="https://link.coupang.com/a/eTTFYfxHXg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

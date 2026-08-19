@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d92/4634a4e19e72092fe5eec55cb01292f1f8d8eed701b5d68068878b3274ac.jpg
-title: 아이오페 레티놀 슈퍼 바운스 세럼, 50ml, 1개 구매 가이드
-date: 2026-06-11
-description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 등 피부 노화 고민을 관리하며, 민감성 피부도 사용하기 좋은 데일리 안티에이징 세럼입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "아이오페 레티놀 슈퍼 바운스 세럼, 50ml, 1개",
-  "description": "아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 등 피부 노화 고민을 관리하며, 민감성 피부도 사용하기 좋은 데일리 안티에이징 세럼입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d92/4634a4e19e72092fe5eec55cb01292f1f8d8eed701b5d68068878b3274ac.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/00f9/e4287d3f0888ed301ce0f9b7124df29af04ef7c29f32c260052cc779553b.jpg"
@@ -20,115 +14,35 @@ description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 
     "price": "65900",
     "url": "https://link.coupang.com/a/euwOqLC9xk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 60,
+    "reviewCount": 63,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-11 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 65,900원 · 별점 4.6 · 리뷰 63개</span>
+    <a href="https://link.coupang.com/a/euwOqLC9xk" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -146,27 +60,130 @@ description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">65,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 65,900원 · 별점 4.6 · 리뷰 60개</span>
-    <a href="https://link.coupang.com/a/euwOqLC9xk" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d92/4634a4e19e72092fe5eec55cb01292f1f8d8eed701b5d68068878b3274ac.jpg
+title: 아이오페 레티놀 슈퍼 바운스 세럼, 50ml, 1개 구매 가이드
+date: 2026-06-11
+description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 등 피부 노화 고민을 관리하며, 민감성 피부도 사용하기 좋은 데일리 안티에이징 세럼입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -174,9 +191,11 @@ description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 
 ## 상품 개요
 아이오페 레티놀 슈퍼 바운스 세럼은 레티놀 성분을 통해 주름, 모공 등 피부 노화 고민을 관리하는 데일리 안티에이징 세럼입니다. 레티놀 제품에 민감한 피부도 비교적 자극 없이 사용할 수 있도록 고안되어, 강력한 효과와 순한 사용감을 동시에 원하는 소비자가 꾸준히 사용하기 적합합니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d92/4634a4e19e72092fe5eec55cb01292f1f8d8eed701b5d68068878b3274ac.jpg" alt="아이오페 레티놀 슈퍼 바운스 세럼, 50ml, 1개" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -236,10 +255,17 @@ A. 네, 많은 사용자가 비타민 C 앰플이나 고농도 레티놀 크림 
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 65,900원 · 별점 4.6 · 리뷰 60개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 65,900원 · 별점 4.6 · 리뷰 63개</span>
     <a href="https://link.coupang.com/a/euwOqLC9xk" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

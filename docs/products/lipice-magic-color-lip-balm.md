@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/497763986605971-02cac888-8038-4383-b157-b728b48a82e6.jpg
-title: 립아이스 매직컬러 립밤 구매 가이드
-date: 2026-06-17
-description: 립아이스 매직컬러 립밤은 입술 온도에 반응하여 자연스러운 핑크빛을 연출하는 보습 립밤입니다. 건조한 입술에 생기를 더하고 가벼운 데일리 메이크업에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "립아이스 매직컬러 립밤",
-  "description": "립아이스 매직컬러 립밤은 입술 온도에 반응하여 자연스러운 핑크빛을 연출하는 보습 립밤입니다. 건조한 입술에 생기를 더하고 가벼운 데일리 메이크업에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/497763986605971-02cac888-8038-4383-b157-b728b48a82e6.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/472383587837185-9b90ff05-ed72-4f3c-a7e3-a4e87e804072.jpg"
@@ -17,102 +11,38 @@ description: 립아이스 매직컬러 립밤은 입술 온도에 반응하여 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "20020",
+    "price": "18220",
     "url": "https://link.coupang.com/a/eEPWJkgBmC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 7949,
+    "reviewCount": 8158,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-17 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,220원 · 별점 4.7 · 리뷰 8,158개</span>
+    <a href="https://link.coupang.com/a/eEPWJkgBmC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -124,51 +54,138 @@ description: 립아이스 매직컬러 립밤은 입술 온도에 반응하여 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 75 L 140 75 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 40 L 265 40 L 283 40 L 301 32 L 319 32 L 337 32 L 355 126 L 373 129 L 391 32 L 409 32 L 427 36 L 445 32 L 462 32 L 480 32 L 498 32 L 516 32 L 534 32 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 75 L 140 75 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 40 L 265 40 L 283 40 L 301 32 L 319 32 L 337 32 L 355 126 L 373 129 L 391 32 L 409 32 L 427 36 L 445 32 L 462 32 L 480 32 L 498 32 L 516 32 L 534 32 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 75 L 122 75 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 40 L 247 40 L 265 40 L 283 32 L 301 32 L 319 32 L 337 126 L 355 129 L 373 32 L 391 32 L 409 36 L 427 32 L 445 32 L 462 32 L 480 32 L 498 32 L 516 32 L 534 26 L 552 26 L 570 26 L 588 40 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 75 L 122 75 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 40 L 247 40 L 265 40 L 283 32 L 301 32 L 319 32 L 337 126 L 355 129 L 373 32 L 391 32 L 409 36 L 427 32 L 445 32 L 462 32 L 480 32 L 498 32 L 516 32 L 534 26 L 552 26 L 570 26 L 588 40" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="75" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="40" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="40" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="32" r="4" fill="#fdba74"></circle>
     <circle cx="391" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <circle cx="409" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="40" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">20,020원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="28" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,220원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,020원 · 별점 4.7 · 리뷰 7,949개</span>
-    <a href="https://link.coupang.com/a/eEPWJkgBmC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/497763986605971-02cac888-8038-4383-b157-b728b48a82e6.jpg
+title: 립아이스 매직컬러 립밤 구매 가이드
+date: 2026-06-17
+description: 립아이스 매직컬러 립밤은 입술 온도에 반응하여 자연스러운 핑크빛을 연출하는 보습 립밤입니다. 건조한 입술에 생기를 더하고 가벼운 데일리 메이크업에 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -176,9 +193,11 @@ description: 립아이스 매직컬러 립밤은 입술 온도에 반응하여 �
 ## 상품 개요
 립아이스 매직컬러 립밤은 입술 온도에 반응하여 자연스러운 핑크빛으로 발색되는 컬러 립밤으로, 건조한 입술에 보습과 함께 생기를 더하고자 할 때 적합합니다. 투명하게 발리지만 시간이 지나면서 개인의 입술 톤에 어울리는 색을 찾아주어 쌩얼 메이크업이나 가벼운 데일리 외출 시 활용도가 높습니다. 특히 순한 사용감과 휴대성 덕분에 학생이나 민감한 입술을 가진 사용자들에게도 적합하며, 뷰티 전문가인 이경민 원장이 유튜브에서 언급하여 주목받기도 했습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/497763986605971-02cac888-8038-4383-b157-b728b48a82e6.jpg" alt="립아이스 매직컬러 립밤" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -241,10 +260,17 @@ A. 여러 사용자 리뷰에 따르면, 민감하고 예민한 입술에도 자
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,020원 · 별점 4.7 · 리뷰 7,949개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,220원 · 별점 4.7 · 리뷰 8,158개</span>
     <a href="https://link.coupang.com/a/eEPWJkgBmC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

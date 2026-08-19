@@ -1,176 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2532576284644573-43fd403e-e1c1-44a7-a2ec-fe709c300e3c.jpg
-title: 포카칩 오리지널 구매 가이드
-date: 2026-04-07
-description: 포카칩 오리지널은 1988년 출시된 국민 감자칩으로, 얇고 바삭한 식감과 담백한 맛이 특징입니다. 영화, 맥주 안주, 간식 등 다양한 상황에서 즐기기 좋습니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "포카칩 오리지널",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "5440",
+    "url": "https://link.coupang.com/a/ej8Fm0",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.8,
+    "reviewCount": 63093,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-07 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,440원 · 별점 4.8 · 리뷰 63,093개</span>
+    <a href="https://link.coupang.com/a/ej8Fm0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -182,48 +48,220 @@ description: 포카칩 오리지널은 1988년 출시된 국민 감자칩으로,
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,500</text>
 
-    <path d="M 68 35 L 86 35 L 104 59 L 122 59 L 140 119 L 158 59 L 176 59 L 194 59 L 211 59 L 229 59 L 247 35 L 265 35 L 283 59 L 301 59 L 319 135 L 337 59 L 355 59 L 373 59 L 391 59 L 409 59 L 427 59 L 445 59 L 462 59 L 480 59 L 498 59 L 516 59 L 534 59 L 552 135 L 570 135 L 588 35 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 35 L 86 35 L 104 59 L 122 59 L 140 119 L 158 59 L 176 59 L 194 59 L 211 59 L 229 59 L 247 35 L 265 35 L 283 59 L 301 59 L 319 135 L 337 59 L 355 59 L 373 59 L 391 59 L 409 59 L 427 59 L 445 59 L 462 59 L 480 59 L 498 59 L 516 59 L 534 59 L 552 135 L 570 135 L 588 35" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 35 L 86 59 L 104 59 L 122 119 L 140 59 L 158 59 L 176 59 L 194 59 L 211 59 L 229 35 L 247 35 L 265 59 L 283 59 L 301 135 L 319 59 L 337 59 L 355 59 L 373 59 L 391 59 L 409 59 L 427 59 L 445 59 L 462 59 L 480 59 L 498 59 L 516 59 L 534 135 L 552 135 L 570 35 L 588 35 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 35 L 86 59 L 104 59 L 122 119 L 140 59 L 158 59 L 176 59 L 194 59 L 211 59 L 229 35 L 247 35 L 265 59 L 283 59 L 301 135 L 319 59 L 337 59 L 355 59 L 373 59 L 391 59 L 409 59 L 427 59 L 445 59 L 462 59 L 480 59 L 498 59 L 516 59 L 534 135 L 552 135 L 570 35 L 588 35" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="59" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="35" r="4" fill="#fdba74"></circle>
     <circle cx="247" cy="35" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="35" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="59" r="4" fill="#fdba74"></circle>
     <circle cx="283" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="135" r="4" fill="#fdba74"></circle>
     <circle cx="552" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="135" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="35" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="35" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="23" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,440원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,640원</span>
-    <a href="https://link.coupang.com/a/ej8Fm0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2532576284644573-43fd403e-e1c1-44a7-a2ec-fe709c300e3c.jpg
+title: 포카칩 오리지널 구매 가이드
+date: 2026-04-07
+description: 포카칩 오리지널은 1988년 출시된 국민 감자칩으로, 얇고 바삭한 식감과 담백한 맛이 특징입니다. 영화, 맥주 안주, 간식 등 다양한 상황에서 즐기기 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -322,13 +360,8 @@ A. 튀긴 감자칩 특성상 지방, 포화지방, 나트륨 함량이 높은 �
 Q. 온라인 구매 시 주의할 점이 있나요?
 A. 온라인에서 묶음으로 구매하면 가성비가 좋지만, 비닐 포장 배송 시 과자가 부서져 도착할 수 있습니다. 따라서 박스 포장 등 안전한 배송 방법을 확인하거나, 배송 후 내용물 상태를 확인하는 것이 좋습니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,640원</span>
-    <a href="https://link.coupang.com/a/ej8Fm0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -337,3 +370,18 @@ A. 온라인에서 묶음으로 구매하면 가성비가 좋지만, 비닐 포�
 - ['오리지널 vs 어니언' 끝없는 감자칩 근본 논쟁…승자는?](https://v.daum.net/v/20230305100503977)
 - [감자칩, 지방·포화지방 '폭탄'...10개 제품 중 건강에 가장 해로운 제품은? < 일반식품 < 성분비교분석 < 기사본문 - 소셜타임스](https://www.esocialtimes.com/news/articleView.html?idxno=35861)
 - [오리온 포카칩 오리지널 가격, 칼로리, 영양정보, 맛 내돈내산 리뷰 : 네이버 블로그](https://m.blog.naver.com/miracle-917/223761362751)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,440원 · 별점 4.8 · 리뷰 63,093개</span>
+    <a href="https://link.coupang.com/a/ej8Fm0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/19db/2cd721bcc08eb2ef6bde5edafbc5cf29a61f95552f7919dadde894772a70.jpg
-title: 릴크리터스 이뮨 아연 비타민 C D 60정 구매 가이드
-date: 2026-05-06
-description: 성장기 아이들의 면역력 관리를 위한 릴크리터스 이뮨 아연 비타민 C D 60정은 새콤달콤한 젤리 형태로 편식하는 아이도 간식처럼 즐겨 섭취하며, 바쁜 부모들도 간편하게 영양을 챙겨줄 수 있습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "릴크리터스 이뮨 아연 비타민 C D 60정",
-  "description": "성장기 아이들의 면역력 관리를 위한 릴크리터스 이뮨 아연 비타민 C D 60정은 새콤달콤한 젤리 형태로 편식하는 아이도 간식처럼 즐겨 섭취하며, 바쁜 부모들도 간편하게 영양을 챙겨줄 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/19db/2cd721bcc08eb2ef6bde5edafbc5cf29a61f95552f7919dadde894772a70.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/249029432546798-62d31aa3-1aa8-4950-abf1-5a200af87ce5.jpg"
@@ -17,183 +11,38 @@ description: 성장기 아이들의 면역력 관리를 위한 릴크리터스 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "11600",
+    "price": "13600",
     "url": "https://link.coupang.com/a/eDAAcC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 8840,
+    "reviewCount": 8945,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,600원 · 별점 4.8 · 리뷰 8,945개</span>
+    <a href="https://link.coupang.com/a/eDAAcC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -205,39 +54,207 @@ description: 성장기 아이들의 면역력 관리를 위한 릴크리터스 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 139 L 552 139 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 139 L 552 139 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 139 L 534 139 L 552 117 L 570 117 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 139 L 534 139 L 552 117 L 570 117 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="139" r="4" fill="#fdba74"></circle>
     <circle cx="534" cy="139" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="117" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,600원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,600원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,600원 · 별점 4.8 · 리뷰 8,840개</span>
-    <a href="https://link.coupang.com/a/eDAAcC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/19db/2cd721bcc08eb2ef6bde5edafbc5cf29a61f95552f7919dadde894772a70.jpg
+title: 릴크리터스 이뮨 아연 비타민 C D 60정 구매 가이드
+date: 2026-05-06
+description: 성장기 아이들의 면역력 관리를 위한 릴크리터스 이뮨 아연 비타민 C D 60정은 새콤달콤한 젤리 형태로 편식하는 아이도 간식처럼 즐겨 섭취하며, 바쁜 부모들도 간편하게 영양을 챙겨줄 수 있습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -249,9 +266,11 @@ description: 성장기 아이들의 면역력 관리를 위한 릴크리터스 �
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/19db/2cd721bcc08eb2ef6bde5edafbc5cf29a61f95552f7919dadde894772a70.jpg" alt="릴크리터스 이뮨 아연 비타민 C D 60정" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -321,10 +340,17 @@ A. 밥을 잘 안 먹거나 편식이 심한 아이, 식사보다 간식을 좋�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,600원 · 별점 4.8 · 리뷰 8,840개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,600원 · 별점 4.8 · 리뷰 8,945개</span>
     <a href="https://link.coupang.com/a/eDAAcC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

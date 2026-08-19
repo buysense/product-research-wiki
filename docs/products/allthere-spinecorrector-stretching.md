@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/2cez6won/1a616e2e57c64689a66d291596bc0c83.jpg
-title: 올더히어 허리 스트레칭 구매 가이드
-date: 2026-04-16
-description: 올더히어 허리 스트레칭기는 거북목, 허리 통증, 장시간 앉아있는 분들을 위한 스파인코렉터입니다. 홈트 및 자세 교정에 효과적이며 가볍고 튼튼합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "올더히어 허리 스트레칭",
-  "description": "올더히어 허리 스트레칭기는 거북목, 허리 통증, 장시간 앉아있는 분들을 위한 스파인코렉터입니다. 홈트 및 자세 교정에 효과적이며 가볍고 튼튼합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/2cez6won/1a616e2e57c64689a66d291596bc0c83.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/16/18/8/ed43f8be-8b67-4775-8acc-cdfd2f0eed89.jpg"
@@ -20,193 +14,35 @@ description: 올더히어 허리 스트레칭기는 거북목, 허리 통증, �
     "price": "34900",
     "url": "https://link.coupang.com/a/eqbIrf",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 5284,
+    "reviewCount": 5338,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-16 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,900원 · 별점 4.6 · 리뷰 5,338개</span>
+    <a href="https://link.coupang.com/a/eqbIrf" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -218,36 +54,217 @@ description: 올더히어 허리 스트레칭기는 거북목, 허리 통증, �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
 
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 134 L 552 28 L 570 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 134 L 552 28 L 570 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 134 L 534 28 L 552 28 L 570 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 134 L 534 28 L 552 28 L 570 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="28" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="28" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="16" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,900원 · 별점 4.6 · 리뷰 5,284개</span>
-    <a href="https://link.coupang.com/a/eqbIrf" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/2cez6won/1a616e2e57c64689a66d291596bc0c83.jpg
+title: 올더히어 허리 스트레칭 구매 가이드
+date: 2026-04-16
+description: 올더히어 허리 스트레칭기는 거북목, 허리 통증, 장시간 앉아있는 분들을 위한 스파인코렉터입니다. 홈트 및 자세 교정에 효과적이며 가볍고 튼튼합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -263,9 +280,11 @@ description: 올더히어 허리 스트레칭기는 거북목, 허리 통증, �
 ## 상품 개요
 올더히어 허리 스트레칭기는 거북목, 굽은 등, 만성 허리 뻐근함을 겪는 사용자를 위해 설계된 스파인코렉터입니다. 집에서 간편하게 자세 교정 및 척추 스트레칭을 할 수 있도록 돕는 도구로, 특히 장시간 앉아있는 사무직 종사자, 재택근무자, 육체노동 후 몸이 뻐근할 때 효과적으로 활용됩니다. (출시연도 미공개)
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/2cez6won/1a616e2e57c64689a66d291596bc0c83.jpg" alt="올더히어 허리 스트레칭" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -328,11 +347,17 @@ A. 제품 자체는 가볍지만, 부피가 있어 보관 시 일정 공간이 �
 *   [올더히어 국산 스파인코렉터 필라테스 운동 허리 스트레칭 기구](https://blog.naver.com/uymvu56291_tw/224255247453)
 *   [코로나 시대 대세 홈트레이닝… 집 밖에 못 나가니 집밖에 없잖아요](https://n.news.naver.com/mnews/article/082/0001031162?sid=103)
 
-
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,900원 · 별점 4.6 · 리뷰 5,284개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,900원 · 별점 4.6 · 리뷰 5,338개</span>
     <a href="https://link.coupang.com/a/eqbIrf" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

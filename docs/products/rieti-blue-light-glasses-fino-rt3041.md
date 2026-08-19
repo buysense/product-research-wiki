@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381690528433259-ed10c458-00e3-407d-918a-a66741c17152.jpg
-title: 리에티 블루라이트차단 안경 FINO RT 3041 구매 가이드
-date: 2026-07-16
-description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 기기 사용으로 인한 눈의 피로를 줄여주는 안경으로, 장시간 모니터, 스마트폰을 사용하는 환경에서 눈 보호를 고려하는 사용자에게 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "리에티 블루라이트차단 안경 FINO RT 3041",
-  "description": "리에티 블루라이트차단 안경 FINO RT 3041은 디지털 기기 사용으로 인한 눈의 피로를 줄여주는 안경으로, 장시간 모니터, 스마트폰을 사용하는 환경에서 눈 보호를 고려하는 사용자에게 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381690528433259-ed10c458-00e3-407d-918a-a66741c17152.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/383866783248194-be681cf3-e8ea-4042-9dfc-1ade6dedc9ef.jpg"
@@ -17,47 +11,41 @@ description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "55940",
+    "price": "62100",
     "url": "https://link.coupang.com/a/fqcJ1ZGc0q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.3,
-    "reviewCount": 11,
+    "reviewCount": 12,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-16 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 62,100원 · 별점 4.3 · 리뷰 12개</span>
+    <a href="https://link.coupang.com/a/fqcJ1ZGc0q" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -66,41 +54,71 @@ description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 94 L 103 94 L 137 94 L 172 94 L 207 94 L 241 94 L 276 94 L 311 104 L 345 94 L 380 176 L 415 94 L 449 159 L 484 159 L 519 159 L 553 132 L 588 133 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 94 L 103 94 L 137 94 L 172 94 L 207 94 L 241 94 L 276 94 L 311 104 L 345 94 L 380 176 L 415 94 L 449 159 L 484 159 L 519 159 L 553 132 L 588 133" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 94 L 101 94 L 133 94 L 166 94 L 198 94 L 231 94 L 263 94 L 296 104 L 328 94 L 361 176 L 393 94 L 426 159 L 458 159 L 491 159 L 523 132 L 556 133 L 588 86 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 94 L 101 94 L 133 94 L 166 94 L 198 94 L 231 94 L 263 94 L 296 104 L 328 94 L 361 176 L 393 94 L 426 159 L 458 159 L 491 159 L 523 132 L 556 133 L 588 86" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="311" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="345" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="449" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="519" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="553" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="133" r="5" fill="#ea580c"></circle>
+    <circle cx="263" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="296" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="361" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="393" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="426" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="491" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="556" cy="133" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="86" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="121" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">55,940원</text>
+    <text x="588" y="74" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">62,100원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="231" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="426" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 55,940원 · 별점 4.3 · 리뷰 11개</span>
-    <a href="https://link.coupang.com/a/fqcJ1ZGc0q" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381690528433259-ed10c458-00e3-407d-918a-a66741c17152.jpg
+title: 리에티 블루라이트차단 안경 FINO RT 3041 구매 가이드
+date: 2026-07-16
+description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 기기 사용으로 인한 눈의 피로를 줄여주는 안경으로, 장시간 모니터, 스마트폰을 사용하는 환경에서 눈 보호를 고려하는 사용자에게 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -108,9 +126,11 @@ description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 �
 ## 상품 개요
 리에티 블루라이트차단 안경 FINO RT 3041은 현대인의 필수품인 디지털 기기 사용 환경에서 눈 보호와 피로도 감소를 돕기 위해 설계된 안경입니다. 장시간 모니터, 스마트폰, 태블릿 등을 사용하는 직장인이나 학생, 게이머 등이 눈의 피로를 줄이고 편안함을 유지하고자 할 때 선택될 수 있습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381690528433259-ed10c458-00e3-407d-918a-a66741c17152.jpg" alt="리에티 블루라이트차단 안경 FINO RT 3041" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -166,10 +186,17 @@ A. 블루라이트를 차단하는 과정에서 렌즈가 미세하게 노란색
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 55,940원 · 별점 4.3 · 리뷰 11개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 62,100원 · 별점 4.3 · 리뷰 12개</span>
     <a href="https://link.coupang.com/a/fqcJ1ZGc0q" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

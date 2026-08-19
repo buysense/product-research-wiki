@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c801/0bce5c6d779f2bb02484dd0bc7e38a2c8b7f4b95869efe69a2c00d7f5e68.jpg
-title: 로열스테디 초경량 양산 구매 가이드
-date: 2026-06-14
-description: 로열스테디 초경량 양산은 200g대의 가벼운 무게와 UV 차단 기능을 갖춰 햇볕이 강한 날이나 갑작스러운 비에도 데일리로 휴대하기 좋은 접이식 양우산입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "로열스테디 초경량 양산",
-  "description": "로열스테디 초경량 양산은 200g대의 가벼운 무게와 UV 차단 기능을 갖춰 햇볕이 강한 날이나 갑작스러운 비에도 데일리로 휴대하기 좋은 접이식 양우산입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c801/0bce5c6d779f2bb02484dd0bc7e38a2c8b7f4b95869efe69a2c00d7f5e68.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/428c/ef35619aaec9ac092a4cedf7205bb6fccf1ea2a1e12d1a6bb96357e7c653.png"
@@ -20,105 +14,35 @@ description: 로열스테디 초경량 양산은 200g대의 가벼운 무게와 
     "price": "15700",
     "url": "https://link.coupang.com/a/ezWPVGCtrw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 3176,
+    "reviewCount": 3347,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-14 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,700원 · 별점 4.5 · 리뷰 3,347개</span>
+    <a href="https://link.coupang.com/a/ezWPVGCtrw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -126,38 +50,130 @@ description: 로열스테디 초경량 양산은 200g대의 가벼운 무게와 
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,800</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,700</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,600</text>
 
-    <path d="M 68 168 L 86 49 L 104 49 L 122 49 L 140 49 L 158 49 L 176 49 L 194 49 L 211 49 L 229 49 L 247 49 L 265 49 L 283 49 L 301 49 L 319 49 L 337 49 L 355 49 L 373 49 L 391 49 L 409 49 L 427 49 L 445 49 L 462 49 L 480 49 L 498 49 L 516 49 L 534 49 L 552 49 L 570 49 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 168 L 86 49 L 104 49 L 122 49 L 140 49 L 158 49 L 176 49 L 194 49 L 211 49 L 229 49 L 247 49 L 265 49 L 283 49 L 301 49 L 319 49 L 337 49 L 355 49 L 373 49 L 391 49 L 409 49 L 427 49 L 445 49 L 462 49 L 480 49 L 498 49 L 516 49 L 534 49 L 552 49 L 570 49 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="168" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="49" r="5" fill="#ea580c"></circle>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="37" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,700원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,700원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,700원 · 별점 4.5 · 리뷰 3,176개</span>
-    <a href="https://link.coupang.com/a/ezWPVGCtrw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c801/0bce5c6d779f2bb02484dd0bc7e38a2c8b7f4b95869efe69a2c00d7f5e68.jpg
+title: 로열스테디 초경량 양산 구매 가이드
+date: 2026-06-14
+description: 로열스테디 초경량 양산은 200g대의 가벼운 무게와 UV 차단 기능을 갖춰 햇볕이 강한 날이나 갑작스러운 비에도 데일리로 휴대하기 좋은 접이식 양우산입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -165,9 +181,11 @@ description: 로열스테디 초경량 양산은 200g대의 가벼운 무게와 
 ## 상품 개요
 로열스테디 초경량 양산은 200g대의 가벼운 무게와 강력한 UV 자외선 차단 기능을 갖춘 접이식 양우산입니다. 햇볕이 강한 날 피부를 보호하거나 갑작스러운 비에 대비하여 가방에 넣어 데일리로 휴대하기 적합하며, 특히 대중교통 이용이 잦거나 짐이 많은 경우 유용하게 활용할 수 있습니다. 튼튼한 구조와 방수 기능을 겸비해 양산과 우산의 역할을 동시에 수행합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c801/0bce5c6d779f2bb02484dd0bc7e38a2c8b7f4b95869efe69a2c00d7f5e68.jpg" alt="로열스테디 초경량 양산" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -227,10 +245,17 @@ A. 수동 접이식 제품으로, 처음 사용할 때는 접는 방식이 익�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,700원 · 별점 4.5 · 리뷰 3,176개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,700원 · 별점 4.5 · 리뷰 3,347개</span>
     <a href="https://link.coupang.com/a/ezWPVGCtrw" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

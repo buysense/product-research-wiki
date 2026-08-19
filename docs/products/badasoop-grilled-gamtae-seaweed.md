@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/27421178821070-8005f60e-137b-44c5-b21d-2060cd67d3a4.JPG
-title: 바다숲 밥에 싸먹는 구운감태 구매 가이드
-date: 2026-07-28
-description: 바다숲 밥에 싸먹는 구운감태는 신선한 감태를 고소하게 구워내 밥반찬, 간식, 요리 토핑 등 다양하게 활용 가능한 건강 해조류입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "바다숲 밥에 싸먹는 구운감태",
-  "description": "바다숲 밥에 싸먹는 구운감태는 신선한 감태를 고소하게 구워내 밥반찬, 간식, 요리 토핑 등 다양하게 활용 가능한 건강 해조류입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/27421178821070-8005f60e-137b-44c5-b21d-2060cd67d3a4.JPG",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/27431280058170-2f81bd4f-2b20-4f0b-94b9-e53527fe2736.JPG"
@@ -20,33 +14,38 @@ description: 바다숲 밥에 싸먹는 구운감태는 신선한 감태를 고�
     "price": "15000",
     "url": "https://link.coupang.com/a/fK0vXo5NL2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 1544,
+    "reviewCount": 1573,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-28 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,000원 · 별점 4.7 · 리뷰 1,573개</span>
+    <a href="https://link.coupang.com/a/fK0vXo5NL2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 8개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -55,38 +54,59 @@ description: 바다숲 밥에 싸먹는 구운감태는 신선한 감태를 고�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,900</text>
 
-    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 133 102 L 198 102 L 263 102 L 328 102 L 393 102 L 458 102 L 523 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 133 102 L 198 102 L 263 102 L 328 102 L 393 102 L 458 102 L 523 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,000원 · 별점 4.7 · 리뷰 1,544개</span>
-    <a href="https://link.coupang.com/a/fK0vXo5NL2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/27421178821070-8005f60e-137b-44c5-b21d-2060cd67d3a4.JPG
+title: 바다숲 밥에 싸먹는 구운감태 구매 가이드
+date: 2026-07-28
+description: 바다숲 밥에 싸먹는 구운감태는 신선한 감태를 고소하게 구워내 밥반찬, 간식, 요리 토핑 등 다양하게 활용 가능한 건강 해조류입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 상품 개요
 바다숲 밥에 싸먹는 구운감태는 국내산 감태를 참기름과 소금으로 고소하게 구워내, 별도의 조리 없이 바로 섭취 가능한 간편 해조류 제품입니다. 은은한 바다 향과 부드러우면서도 바삭한 식감이 특징으로, 잃어버린 입맛을 돋우거나 건강한 반찬, 간식, 혹은 다이어트 식단에 활용하기 좋습니다. 낫또, 계란말이, 솥밥, 회 등 다양한 요리에 곁들여 풍미를 더할 수 있으며, 칼슘과 식이섬유 등 풍부한 영양소로 온 가족의 건강을 챙길 수 있습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/27421178821070-8005f60e-137b-44c5-b21d-2060cd67d3a4.JPG" alt="바다숲 밥에 싸먹는 구운감태" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -150,10 +170,17 @@ A. 감태는 항산화 성분인 폴리페놀, 풍부한 식이섬유, 칼슘, �
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,000원 · 별점 4.7 · 리뷰 1,544개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,000원 · 별점 4.7 · 리뷰 1,573개</span>
     <a href="https://link.coupang.com/a/fK0vXo5NL2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

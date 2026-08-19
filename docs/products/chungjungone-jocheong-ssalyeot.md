@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/46494783113064-d55a1f11-d96e-47ca-95e1-1a563c6db01c.jpg
-title: 청정원 조청쌀엿 구매 가이드
-date: 2026-05-17
-description: 청정원 조청쌀엿은 쌀 100%로 만든 전통 감미료로, 요리에 깊고 자연스러운 단맛과 윤기를 더하며, 설탕이나 일반 물엿 대신 건강하게 사용할 수 있어 가정 요리나 전통 디저트에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "청정원 조청쌀엿",
-  "description": "청정원 조청쌀엿은 쌀 100%로 만든 전통 감미료로, 요리에 깊고 자연스러운 단맛과 윤기를 더하며, 설탕이나 일반 물엿 대신 건강하게 사용할 수 있어 가정 요리나 전통 디저트에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/46494783113064-d55a1f11-d96e-47ca-95e1-1a563c6db01c.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/337066940884321-8ec6f347-0232-4ee1-9797-bb33b500b619.jpg"
@@ -20,164 +14,35 @@ description: 청정원 조청쌀엿은 쌀 100%로 만든 전통 감미료로, �
     "price": "5720",
     "url": "https://link.coupang.com/a/dPq8DNhYFE",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 11071,
+    "reviewCount": 11281,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-17 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,720원 · 별점 4.8 · 리뷰 11,281개</span>
+    <a href="https://link.coupang.com/a/dPq8DNhYFE" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -189,42 +54,194 @@ description: 청정원 조청쌀엿은 쌀 100%로 만든 전통 감미료로, �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 69 L 86 142 L 104 69 L 122 69 L 140 69 L 158 69 L 176 69 L 194 69 L 211 69 L 229 69 L 247 69 L 265 158 L 283 69 L 301 69 L 319 69 L 337 69 L 355 69 L 373 69 L 391 69 L 409 69 L 427 69 L 445 69 L 462 69 L 480 69 L 498 69 L 516 158 L 534 158 L 552 158 L 570 142 L 588 69 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 69 L 86 142 L 104 69 L 122 69 L 140 69 L 158 69 L 176 69 L 194 69 L 211 69 L 229 69 L 247 69 L 265 158 L 283 69 L 301 69 L 319 69 L 337 69 L 355 69 L 373 69 L 391 69 L 409 69 L 427 69 L 445 69 L 462 69 L 480 69 L 498 69 L 516 158 L 534 158 L 552 158 L 570 142 L 588 69" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="158" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="158" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="158" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="142" r="4" fill="#fdba74"></circle>
+    <path d="M 68 142 L 86 69 L 104 69 L 122 69 L 140 69 L 158 69 L 176 69 L 194 69 L 211 69 L 229 69 L 247 158 L 265 69 L 283 69 L 301 69 L 319 69 L 337 69 L 355 69 L 373 69 L 391 69 L 409 69 L 427 69 L 445 69 L 462 69 L 480 69 L 498 158 L 516 158 L 534 158 L 552 142 L 570 69 L 588 69 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 142 L 86 69 L 104 69 L 122 69 L 140 69 L 158 69 L 176 69 L 194 69 L 211 69 L 229 69 L 247 158 L 265 69 L 283 69 L 301 69 L 319 69 L 337 69 L 355 69 L 373 69 L 391 69 L 409 69 L 427 69 L 445 69 L 462 69 L 480 69 L 498 158 L 516 158 L 534 158 L 552 142 L 570 69 L 588 69" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="69" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="69" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="57" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,720원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,720원 · 별점 4.8 · 리뷰 11,071개</span>
-    <a href="https://link.coupang.com/a/dPq8DNhYFE" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/46494783113064-d55a1f11-d96e-47ca-95e1-1a563c6db01c.jpg
+title: 청정원 조청쌀엿 구매 가이드
+date: 2026-05-17
+description: 청정원 조청쌀엿은 쌀 100%로 만든 전통 감미료로, 요리에 깊고 자연스러운 단맛과 윤기를 더하며, 설탕이나 일반 물엿 대신 건강하게 사용할 수 있어 가정 요리나 전통 디저트에 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -234,9 +251,11 @@ description: 청정원 조청쌀엿은 쌀 100%로 만든 전통 감미료로, �
 ## 상품 개요
 청정원 조청쌀엿은 외국산 쌀 100%를 원료로 한 전통 조청 방식의 감미료로, 집에서 멸치볶음, 연근조림, 갈비찜 등 한식 요리에 깊고 자연스러운 단맛과 윤기를 더하고자 할 때 적합합니다. 설탕이나 일반 물엿 대신 아이들 반찬이나 건강한 간식(강정, 오란다)을 만들 때 활용하기 좋으며, 요리의 풍미를 살리면서도 깔끔하고 부드러운 맛을 원하는 소비 상황에 두루 사용됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/46494783113064-d55a1f11-d96e-47ca-95e1-1a563c6db01c.jpg" alt="청정원 조청쌀엿" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -312,10 +331,17 @@ A. 직사광선을 피해 상온에 보관해야 합니다. 개봉 후에는 뚜
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,720원 · 별점 4.8 · 리뷰 11,071개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,720원 · 별점 4.8 · 리뷰 11,281개</span>
     <a href="https://link.coupang.com/a/dPq8DNhYFE" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

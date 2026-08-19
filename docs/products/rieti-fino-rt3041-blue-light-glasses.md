@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381689744293921-8f74ce30-6cd6-4d9b-b082-bea0d70cbe59.jpg
-title: 리에티 블루라이트차단 안경 FINO RT 3041 구매 가이드
-date: 2026-08-08
-description: 리에티 FINO RT 3041 블루라이트차단 안경은 디지털 기기 사용자의 눈 피로를 덜어주고, 가볍고 슬림한 디자인으로 일상에서 편안하게 착용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "리에티 블루라이트차단 안경 FINO RT 3041",
-  "description": "리에티 FINO RT 3041 블루라이트차단 안경은 디지털 기기 사용자의 눈 피로를 덜어주고, 가볍고 슬림한 디자인으로 일상에서 편안하게 착용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381689744293921-8f74ce30-6cd6-4d9b-b082-bea0d70cbe59.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37927789396418-9ab61edb-3e8f-4e6c-b8eb-7346e2bd1575.jpg"
@@ -20,7 +14,7 @@ description: 리에티 FINO RT 3041 블루라이트차단 안경은 디지털 �
     "price": "62100",
     "url": "https://link.coupang.com/a/f2QKk8b98m",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-15"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -31,9 +25,14 @@ description: 리에티 FINO RT 3041 블루라이트차단 안경은 디지털 �
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-08 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -42,12 +41,31 @@ description: 리에티 FINO RT 3041 블루라이트차단 안경은 디지털 �
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381689744293921-8f74ce30-6cd6-4d9b-b082-bea0d70cbe59.jpg
+title: 리에티 블루라이트차단 안경 FINO RT 3041 구매 가이드
+date: 2026-08-08
+description: 리에티 FINO RT 3041 블루라이트차단 안경은 디지털 기기 사용자의 눈 피로를 덜어주고, 가볍고 슬림한 디자인으로 일상에서 편안하게 착용하기 좋습니다.
+---
+
+
+
+
+
+
+
 ## 상품 개요
 리에티 블루라이트차단 안경 FINO RT 3041은 장시간 디지털 기기를 사용하는 현대인들의 눈 피로를 줄여주는 데 초점을 맞춘 제품입니다. 가볍고 견고한 착용감과 함께 슬림하고 단정한 디자인을 갖춰, 일상생활이나 업무 환경에서 부담 없이 착용하기 좋습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381689744293921-8f74ce30-6cd6-4d9b-b082-bea0d70cbe59.jpg" alt="리에티 블루라이트차단 안경 FINO RT 3041" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -101,6 +119,11 @@ A. 네, 코받침과 안경 다리 부분을 개인의 얼굴형에 맞춰 길�
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -108,3 +131,5 @@ A. 네, 코받침과 안경 다리 부분을 개인의 얼굴형에 맞춰 길�
     <a href="https://link.coupang.com/a/f2QKk8b98m" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/0cy1mgq4/fce034d358dc42088880dfd4fbba510c.jpg
-title: 리에티 AIDA RT 2016 편광 선글라스 구매 가이드
-date: 2026-08-11
-description: 리에티 AIDA RT 2016 편광 선글라스는 야외 활동, 운전 등 눈부심 감소와 선명한 시야 확보가 필요한 상황에 적합한 제품입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "리에티 AIDA RT 2016 편광 선글라스",
-  "description": "리에티 AIDA RT 2016 편광 선글라스는 야외 활동, 운전 등 눈부심 감소와 선명한 시야 확보가 필요한 상황에 적합한 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/0cy1mgq4/fce034d358dc42088880dfd4fbba510c.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259839485449663-930d8b81-53a6-4e97-a064-c3a3a8206039.jpg"
@@ -17,39 +11,63 @@ description: 리에티 AIDA RT 2016 편광 선글라스는 야외 활동, 운전
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "40700",
+    "price": "44100",
     "url": "https://link.coupang.com/a/f8bjYJu8aa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-18"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 9,
+    "reviewCount": 10,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-11 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 40,700원 · 별점 4.8 · 리뷰 9개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 44,100원 · 별점 4.8 · 리뷰 10개</span>
     <a href="https://link.coupang.com/a/f8bjYJu8aa" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/0cy1mgq4/fce034d358dc42088880dfd4fbba510c.jpg
+title: 리에티 AIDA RT 2016 편광 선글라스 구매 가이드
+date: 2026-08-11
+description: 리에티 AIDA RT 2016 편광 선글라스는 야외 활동, 운전 등 눈부심 감소와 선명한 시야 확보가 필요한 상황에 적합한 제품입니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 리에티 AIDA RT 2016 편광 선글라스는 빛 반사로 인한 눈부심을 줄여주고 시야를 선명하게 유지하는 데 중점을 둔 제품입니다. 운전 중 도로 반사광, 물가나 설원에서의 눈부심, 강한 햇빛 아래 야외 활동 등 특정한 환경에서 눈의 피로를 줄이고 편안함을 제공하고자 할 때 적합합니다. 출시연도는 미공개입니다.
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/0cy1mgq4/fce034d358dc42088880dfd4fbba510c.jpg" alt="리에티 AIDA RT 2016 편광 선글라스" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -116,10 +134,17 @@ A. 렌즈에 지문이나 먼지가 묻었을 경우, 흐르는 물에 가볍게
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 40,700원 · 별점 4.8 · 리뷰 9개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 44,100원 · 별점 4.8 · 리뷰 10개</span>
     <a href="https://link.coupang.com/a/f8bjYJu8aa" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

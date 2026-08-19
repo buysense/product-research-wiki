@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/7a405a83e9ed388e66894ee55f282c205b7fd6b82ba9123b410768f5c2e2_1777274362823.jpg
-title: 광일식품 옥수수 고추맛콘 구매 가이드
-date: 2026-08-01
-description: 광일식품 옥수수 고추맛콘은 1kg 대용량 옛날과자로, 온 가족 간식이나 맥주 안주, 운전 중 졸음 방지용으로 적합합니다. 고소한 옥수수와 은은한 매콤함이 특징입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "광일식품 옥수수 고추맛콘",
-  "description": "광일식품 옥수수 고추맛콘은 1kg 대용량 옛날과자로, 온 가족 간식이나 맥주 안주, 운전 중 졸음 방지용으로 적합합니다. 고소한 옥수수와 은은한 매콤함이 특징입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/7a405a83e9ed388e66894ee55f282c205b7fd6b82ba9123b410768f5c2e2_1777274362823.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/7aa51ab18585611b6b781206e7b8493f874f7547ef2281be19d6463ca9a1_1756341266368.jpg"
@@ -20,25 +14,38 @@ description: 광일식품 옥수수 고추맛콘은 1kg 대용량 옛날과자�
     "price": "8100",
     "url": "https://link.coupang.com/a/fRw1CyMa5I",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 3491,
+    "reviewCount": 3604,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,100원 · 별점 4.7 · 리뷰 3,604개</span>
+    <a href="https://link.coupang.com/a/fRw1CyMa5I" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -47,36 +54,49 @@ description: 광일식품 옥수수 고추맛콘은 1kg 대용량 옛날과자�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,800</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,600</text>
 
-    <path d="M 68 140 L 241 140 L 415 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 241 140 L 415 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 140 L 198 140 L 328 26 L 458 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 198 140 L 328 26 L 458 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="198" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,100원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,100원 · 별점 4.7 · 리뷰 3,491개</span>
-    <a href="https://link.coupang.com/a/fRw1CyMa5I" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/7a405a83e9ed388e66894ee55f282c205b7fd6b82ba9123b410768f5c2e2_1777274362823.jpg
+title: 광일식품 옥수수 고추맛콘 구매 가이드
+date: 2026-08-01
+description: 광일식품 옥수수 고추맛콘은 1kg 대용량 옛날과자로, 온 가족 간식이나 맥주 안주, 운전 중 졸음 방지용으로 적합합니다. 고소한 옥수수와 은은한 매콤함이 특징입니다.
+---
+
+
+
+
+
+
+
+
+
+
 
 ## 상품 개요
 광일식품 옥수수 고추맛콘은 1kg의 대용량으로 제공되는 옛날식 과자입니다. 고소한 옥수수를 주원료로 하여 바삭한 식감을 선사하며, 은은하게 매콤한 고추맛 시즈닝이 더해져 중독성 있는 풍미를 자랑합니다. 주로 가정에서 가족들이 함께 즐기는 간식이나, 영화/TV 시청 시 가볍게 곁들이는 안주, 혹은 운전 중 졸음 방지용 간식으로 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/7a405a83e9ed388e66894ee55f282c205b7fd6b82ba9123b410768f5c2e2_1777274362823.jpg" alt="광일식품 옥수수 고추맛콘" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -138,10 +158,17 @@ A. 가장 큰 장점은 1kg의 넉넉한 양과 뛰어난 가성비입니다. �
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,100원 · 별점 4.7 · 리뷰 3,491개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,100원 · 별점 4.7 · 리뷰 3,604개</span>
     <a href="https://link.coupang.com/a/fRw1CyMa5I" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

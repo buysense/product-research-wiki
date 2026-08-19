@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/397575187492117-f4537fea-f1e0-435e-ac4f-efc598b9f364.png
-title: 필립스 3000시리즈 에그 쿠커 계란찜기 구매 가이드
-date: 2026-07-22
-description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준비와 식단 관리를 간편하게 돕는 계란찜기입니다. 최대 6개 동시 조리, 완벽한 반숙 및 완숙 조절 기능으로 일상의 편리함을 더합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "필립스 3000시리즈 에그 쿠커 계란찜기",
-  "description": "필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준비와 식단 관리를 간편하게 돕는 계란찜기입니다. 최대 6개 동시 조리, 완벽한 반숙 및 완숙 조절 기능으로 일상의 편리함을 더합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/397575187492117-f4537fea-f1e0-435e-ac4f-efc598b9f364.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/188314446835543-4e6548bd-b6c0-4d62-841e-d9f49df4f659.png"
@@ -17,35 +11,41 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "26900",
+    "price": "28000",
     "url": "https://link.coupang.com/a/fAS24kIAoK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 4154,
+    "reviewCount": 4418,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-22 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,000원 · 별점 4.7 · 리뷰 4,418개</span>
+    <a href="https://link.coupang.com/a/fAS24kIAoK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 11개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -54,41 +54,59 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
 
-    <path d="M 68 41 L 126 43 L 184 44 L 241 147 L 299 147 L 357 50 L 415 48 L 472 86 L 530 86 L 588 68 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 41 L 126 43 L 184 44 L 241 147 L 299 147 L 357 50 L 415 48 L 472 86 L 530 86 L 588 68" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 41 L 120 43 L 172 44 L 224 147 L 276 147 L 328 50 L 380 48 L 432 86 L 484 86 L 536 68 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 41 L 120 43 L 172 44 L 224 147 L 276 147 L 328 50 L 380 48 L 432 86 L 484 86 L 536 68 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="48" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="68" r="5" fill="#ea580c"></circle>
+    <circle cx="120" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="172" cy="44" r="4" fill="#fdba74"></circle>
+    <circle cx="224" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="276" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="380" cy="48" r="4" fill="#fdba74"></circle>
+    <circle cx="432" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="484" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="536" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="56" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">26,900원</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 26,900원 · 별점 4.7 · 리뷰 4,154개</span>
-    <a href="https://link.coupang.com/a/fAS24kIAoK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/397575187492117-f4537fea-f1e0-435e-ac4f-efc598b9f364.png
+title: 필립스 3000시리즈 에그 쿠커 계란찜기 구매 가이드
+date: 2026-07-22
+description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준비와 식단 관리를 간편하게 돕는 계란찜기입니다. 최대 6개 동시 조리, 완벽한 반숙 및 완숙 조절 기능으로 일상의 편리함을 더합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -96,9 +114,11 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
 ## 상품 개요
 필립스 3000시리즈 에그 쿠커 계란찜기는 바쁜 아침 식사 준비 시간을 절약하고, 다이어트 및 식단 관리를 위해 계란을 꾸준히 섭취하는 사용자에게 최적화된 소형 주방 가전입니다. 이 제품은 물 양 조절만으로 원하는 반숙, 완숙 계란을 실패 없이 만들 수 있으며, 최대 6개까지 동시에 조리 가능하여 가족 식사 준비에도 유용합니다. 간편한 조작과 자동 완료 알림 기능을 통해 사용자의 일상에 편리함을 더해줍니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/397575187492117-f4537fea-f1e0-435e-ac4f-efc598b9f364.png" alt="필립스 3000시리즈 에그 쿠커 계란찜기" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -152,10 +172,17 @@ A. 네, 본체를 제외한 뚜껑과 계란 트레이는 분리하여 물로 �
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 26,900원 · 별점 4.7 · 리뷰 4,154개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,000원 · 별점 4.7 · 리뷰 4,418개</span>
     <a href="https://link.coupang.com/a/fAS24kIAoK" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

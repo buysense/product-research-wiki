@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8e14/f501b73542304c9b240f4050e8320883d79b2f2b7da484f6a380724dafb1.jpg
-title: 제임스펄스 남성용 크루넥 기본 반팔티셔츠 구매 가이드
-date: 2026-06-15
-description: 제임스펄스 남성용 크루넥 기본 반팔티셔츠는 일상복, 레이어링, 편안한 착용감을 위한 필수 아이템으로, 미니멀리즘과 실용성을 추구하는 소비자에게 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "제임스펄스 남성용 크루넥 기본 반팔티셔츠",
-  "description": "제임스펄스 남성용 크루넥 기본 반팔티셔츠는 일상복, 레이어링, 편안한 착용감을 위한 필수 아이템으로, 미니멀리즘과 실용성을 추구하는 소비자에게 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8e14/f501b73542304c9b240f4050e8320883d79b2f2b7da484f6a380724dafb1.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5417/eb12198e556cf15f4f5273714f02eba42ebd52473f67bb2d46a10d4c9036.jpg"
@@ -20,107 +14,35 @@ description: 제임스펄스 남성용 크루넥 기본 반팔티셔츠는 일�
     "price": "176400",
     "url": "https://link.coupang.com/a/eBxSDKbvZ6",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.8,
-    "reviewCount": 5,
+    "ratingValue": 4.5,
+    "reviewCount": 6,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 176,400원 · 별점 4.5 · 리뷰 6개</span>
+    <a href="https://link.coupang.com/a/eBxSDKbvZ6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -138,27 +60,122 @@ description: 제임스펄스 남성용 크루넥 기본 반팔티셔츠는 일�
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">176,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 176,400원 · 별점 4.8 · 리뷰 5개</span>
-    <a href="https://link.coupang.com/a/eBxSDKbvZ6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8e14/f501b73542304c9b240f4050e8320883d79b2f2b7da484f6a380724dafb1.jpg
+title: 제임스펄스 남성용 크루넥 기본 반팔티셔츠 구매 가이드
+date: 2026-06-15
+description: 제임스펄스 남성용 크루넥 기본 반팔티셔츠는 일상복, 레이어링, 편안한 착용감을 위한 필수 아이템으로, 미니멀리즘과 실용성을 추구하는 소비자에게 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -166,9 +183,11 @@ description: 제임스펄스 남성용 크루넥 기본 반팔티셔츠는 일�
 ## 상품 개요
 제임스펄스 남성용 크루넥 기본 반팔티셔츠는 미니멀하고 클래식한 디자인으로 일상적인 캐주얼웨어 및 다양한 스타일의 레이어링에 활용하기 좋은 제품입니다. 부드러운 착용감과 간결한 실루엣을 제공하여, 편안하면서도 세련된 기본 아이템을 찾는 소비자들이 데일리 룩을 완성할 때 선택합니다. 이 제품은 핏과 소재의 고급스러움을 통해 기본적인 반팔티셔츠임에도 불구하고 격식 있는 자리나 편안한 휴식 등 다양한 상황에서 활용됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8e14/f501b73542304c9b240f4050e8320883d79b2f2b7da484f6a380724dafb1.jpg" alt="제임스펄스 남성용 크루넥 기본 반팔티셔츠" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -230,10 +249,17 @@ A. 제품에 따라 정확한 세탁 방법은 상이할 수 있으나, 일반�
 
 (제공된 자료 외에 참고한 외부 자료는 없습니다.)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 176,400원 · 별점 4.8 · 리뷰 5개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 176,400원 · 별점 4.5 · 리뷰 6개</span>
     <a href="https://link.coupang.com/a/eBxSDKbvZ6" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

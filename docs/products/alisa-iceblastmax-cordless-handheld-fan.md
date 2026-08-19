@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bcf2/54b7a07cbfb7dbc72af9b22ed259176883f8ab6eae74a029960cd4aac288.png
-title: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기 구매 가이드
-date: 2026-06-17
-description: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기는 강력한 바람과 휴대성을 겸비하여 야외 활동, 작업 현장, 이동 중 더위를 빠르게 식히는 데 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기",
-  "description": "알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기는 강력한 바람과 휴대성을 겸비하여 야외 활동, 작업 현장, 이동 중 더위를 빠르게 식히는 데 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bcf2/54b7a07cbfb7dbc72af9b22ed259176883f8ab6eae74a029960cd4aac288.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a480/d541a92830a742170d96a5dc5ba2282d070b8b503be8f1246c0f5e5a27e5.jpg"
@@ -17,108 +11,38 @@ description: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "43190",
+    "price": "41190",
     "url": "https://link.coupang.com/a/eERE5c4HvM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 5,
-    "reviewCount": 1422,
+    "ratingValue": 4.9,
+    "reviewCount": 1573,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-17 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 41,190원 · 별점 4.9 · 리뷰 1,573개</span>
+    <a href="https://link.coupang.com/a/eERE5c4HvM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -130,43 +54,137 @@ description: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 54 L 86 54 L 104 54 L 122 54 L 140 155 L 158 119 L 176 119 L 194 119 L 211 119 L 229 118 L 247 86 L 265 86 L 283 86 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 86 L 427 114 L 445 114 L 462 54 L 480 54 L 498 54 L 516 54 L 534 54 L 552 54 L 570 54 L 588 54 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 54 L 86 54 L 104 54 L 122 54 L 140 155 L 158 119 L 176 119 L 194 119 L 211 119 L 229 118 L 247 86 L 265 86 L 283 86 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 86 L 427 114 L 445 114 L 462 54 L 480 54 L 498 54 L 516 54 L 534 54 L 552 54 L 570 54 L 588 54" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 54 L 86 54 L 104 54 L 122 155 L 140 119 L 158 119 L 176 119 L 194 119 L 211 118 L 229 86 L 247 86 L 265 86 L 283 86 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 114 L 427 114 L 445 54 L 462 54 L 480 54 L 498 54 L 516 54 L 534 54 L 552 54 L 570 54 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 54 L 86 54 L 104 54 L 122 155 L 140 119 L 158 119 L 176 119 L 194 119 L 211 118 L 229 86 L 247 86 L 265 86 L 283 86 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 114 L 427 114 L 445 54 L 462 54 L 480 54 L 498 54 L 516 54 L 534 54 L 552 54 L 570 54 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="54" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="54" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="54" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="114" r="4" fill="#fdba74"></circle>
     <circle cx="427" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="54" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="54" r="5" fill="#ea580c"></circle>
+    <circle cx="445" cy="54" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="54" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="84" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="42" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">43,190원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="72" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">41,190원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 43,190원 · 별점 5.0 · 리뷰 1,422개</span>
-    <a href="https://link.coupang.com/a/eERE5c4HvM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bcf2/54b7a07cbfb7dbc72af9b22ed259176883f8ab6eae74a029960cd4aac288.png
+title: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기 구매 가이드
+date: 2026-06-17
+description: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기는 강력한 바람과 휴대성을 겸비하여 야외 활동, 작업 현장, 이동 중 더위를 빠르게 식히는 데 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -177,9 +195,11 @@ description: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대�
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bcf2/54b7a07cbfb7dbc72af9b22ed259176883f8ab6eae74a029960cd4aac288.png" alt="알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -252,10 +272,17 @@ A. 급속 냉각 기능은 일반 휴대용 선풍기의 미지근한 바람과�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 43,190원 · 별점 5.0 · 리뷰 1,422개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 41,190원 · 별점 4.9 · 리뷰 1,573개</span>
     <a href="https://link.coupang.com/a/eERE5c4HvM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

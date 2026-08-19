@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f478/68a5cef38ce9ad6d29b6aad7d6ae9650729f35c6442dd541e5e42cea61ad.jpg
-title: 리웨이 허그 원터치 분유포트 구매 가이드
-date: 2026-07-01
-description: 리웨이 허그 원터치 분유포트는 신생아부터 유아까지 빠르고 위생적인 분유 준비와 보리차 끓이기에 최적화된 제품입니다. 밤중 수유와 바쁜 육아 환경에서 시간을 절약하고 싶은 부모들에게 실용적인 솔루션을 제공합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "리웨이 허그 원터치 분유포트",
-  "description": "리웨이 허그 원터치 분유포트는 신생아부터 유아까지 빠르고 위생적인 분유 준비와 보리차 끓이기에 최적화된 제품입니다. 밤중 수유와 바쁜 육아 환경에서 시간을 절약하고 싶은 부모들에게 실용적인 솔루션을 제공합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f478/68a5cef38ce9ad6d29b6aad7d6ae9650729f35c6442dd541e5e42cea61ad.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2c53/3fa87f06e10bccf1ecde7e1a6a799b9956a3a4c4164788ab71bf2075df28.jpg"
@@ -20,71 +14,35 @@ description: 리웨이 허그 원터치 분유포트는 신생아부터 유아�
     "price": "59800",
     "url": "https://link.coupang.com/a/e1CH4lOkP6",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 887,
+    "reviewCount": 900,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 59,800원 · 별점 4.6 · 리뷰 900개</span>
+    <a href="https://link.coupang.com/a/e1CH4lOkP6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -96,40 +54,100 @@ description: 리웨이 허그 원터치 분유포트는 신생아부터 유아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">58,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">56,000</text>
 
-    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 124 L 176 124 L 194 124 L 211 124 L 229 124 L 247 124 L 265 124 L 283 102 L 301 34 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 147 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 124 L 176 124 L 194 124 L 211 124 L 229 124 L 247 124 L 265 124 L 283 102 L 301 34 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 147 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 124 L 158 124 L 176 124 L 194 124 L 211 124 L 229 124 L 247 124 L 265 102 L 283 34 L 301 34 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 147 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 124 L 158 124 L 176 124 L 194 124 L 211 124 L 229 124 L 247 124 L 265 102 L 283 34 L 301 34 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 147 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="124" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">59,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 59,800원 · 별점 4.6 · 리뷰 887개</span>
-    <a href="https://link.coupang.com/a/e1CH4lOkP6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f478/68a5cef38ce9ad6d29b6aad7d6ae9650729f35c6442dd541e5e42cea61ad.jpg
+title: 리웨이 허그 원터치 분유포트 구매 가이드
+date: 2026-07-01
+description: 리웨이 허그 원터치 분유포트는 신생아부터 유아까지 빠르고 위생적인 분유 준비와 보리차 끓이기에 최적화된 제품입니다. 밤중 수유와 바쁜 육아 환경에서 시간을 절약하고 싶은 부모들에게 실용적인 솔루션을 제공합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -137,9 +155,11 @@ description: 리웨이 허그 원터치 분유포트는 신생아부터 유아�
 ## 상품 개요
 리웨이 허그 원터치 분유포트는 신생아를 키우는 부모들이 새벽 수유나 바쁜 일상 중에도 쉽고 빠르게 분유를 준비하고, 성장기 아이들의 보리차 등을 끓이는 데 적합한 제품입니다. 원터치 온도 유지 기능으로 원하는 온도의 물을 즉시 사용할 수 있어 육아 시간을 효율적으로 관리하고 체력 소모를 줄이는 데 도움을 줍니다. 위생적인 유리 소재와 넉넉한 용량으로 가정에서 빈번하게 사용되는 육아 필수품 중 하나입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f478/68a5cef38ce9ad6d29b6aad7d6ae9650729f35c6442dd541e5e42cea61ad.jpg" alt="리웨이 허그 원터치 분유포트" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -203,10 +223,17 @@ A. 네, 분유뿐만 아니라 보리차, 작두콩차 등 아이들이 마실 �
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 59,800원 · 별점 4.6 · 리뷰 887개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 59,800원 · 별점 4.6 · 리뷰 900개</span>
     <a href="https://link.coupang.com/a/e1CH4lOkP6" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

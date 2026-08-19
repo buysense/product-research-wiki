@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/jqtxzq8t/26034a1a82994aee8b43f49166fd7e7e.jpg
-title: 정담시루 단호박 듬뿍 카스테라 인절미떡 구매 가이드
-date: 2026-05-12
-description: 정담시루 단호박 듬뿍 카스테라 인절미떡은 자연스러운 단맛과 쫀득한 식감이 특징인 냉동 떡입니다. 바쁜 아침 식사 대용, 간식, 온 가족 영양 간식으로 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "정담시루 단호박 듬뿍 카스테라 인절미떡",
-  "description": "정담시루 단호박 듬뿍 카스테라 인절미떡은 자연스러운 단맛과 쫀득한 식감이 특징인 냉동 떡입니다. 바쁜 아침 식사 대용, 간식, 온 가족 영양 간식으로 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/jqtxzq8t/26034a1a82994aee8b43f49166fd7e7e.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/epaxjiza/8f52e5adb8c0442a8c94231a45f000eb.jpg"
@@ -20,172 +14,35 @@ description: 정담시루 단호박 듬뿍 카스테라 인절미떡은 자연�
     "price": "6900",
     "url": "https://link.coupang.com/a/dG3AodpXbg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 63,
+    "reviewCount": 67,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-12 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,900원 · 별점 4.8 · 리뷰 67개</span>
+    <a href="https://link.coupang.com/a/dG3AodpXbg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -197,35 +54,195 @@ description: 정담시루 단호박 듬뿍 카스테라 인절미떡은 자연�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,500</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="117" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,900원 · 별점 4.8 · 리뷰 63개</span>
-    <a href="https://link.coupang.com/a/dG3AodpXbg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/jqtxzq8t/26034a1a82994aee8b43f49166fd7e7e.jpg
+title: 정담시루 단호박 듬뿍 카스테라 인절미떡 구매 가이드
+date: 2026-05-12
+description: 정담시루 단호박 듬뿍 카스테라 인절미떡은 자연스러운 단맛과 쫀득한 식감이 특징인 냉동 떡입니다. 바쁜 아침 식사 대용, 간식, 온 가족 영양 간식으로 활용하기 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -235,9 +252,11 @@ description: 정담시루 단호박 듬뿍 카스테라 인절미떡은 자연�
 ## 상품 개요
 정담시루 단호박 듬뿍 카스테라 인절미떡은 단호박 본연의 은은한 단맛과 쫀득한 떡, 그리고 부드러운 카스테라 고물의 조화가 특징인 냉동 떡입니다. 개별 포장되어 있어 바쁜 아침 식사 대용, 출출할 때 간편한 간식, 또는 온 가족의 건강한 디저트로 활용하기 좋습니다. 4.9/5.0의 높은 평점을 기록하고 있습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/jqtxzq8t/26034a1a82994aee8b43f49166fd7e7e.jpg" alt="정담시루 단호박 듬뿍 카스테라 인절미떡" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -294,10 +313,17 @@ A. 네, 떡 하나의 크기가 넉넉하여 하나만 섭취해도 충분한 �
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,900원 · 별점 4.8 · 리뷰 63개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,900원 · 별점 4.8 · 리뷰 67개</span>
     <a href="https://link.coupang.com/a/dG3AodpXbg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6ea2/bb7bf24e6c572ea370311f1ad02e3d7ce562fcf47fe66207058d2c4c00dd.jpg
-title: 어니스트 헤밍웨이 누구를 위하여 종은 울리나 구매 가이드
-date: 2026-08-02
-description: 어니스트 헤밍웨이의 장편소설 누구를 위하여 종은 울리나를 구매하려는 독자를 위한 가이드입니다. 작품 배경, 주요 특징, 구매 시 고려사항을 상세히 안내합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "누구를 위하여 종은 울리나",
-  "description": "어니스트 헤밍웨이의 장편소설 누구를 위하여 종은 울리나를 구매하려는 독자를 위한 가이드입니다. 작품 배경, 주요 특징, 구매 시 고려사항을 상세히 안내합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6ea2/bb7bf24e6c572ea370311f1ad02e3d7ce562fcf47fe66207058d2c4c00dd.jpg"
   ],
@@ -19,7 +13,7 @@ description: 어니스트 헤밍웨이의 장편소설 누구를 위하여 종�
     "price": "21600",
     "url": "https://link.coupang.com/a/fTprT1cgA8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -30,33 +24,14 @@ description: 어니스트 헤밍웨이의 장편소설 누구를 위하여 종�
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">21,700</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,600</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,500</text>
-
-    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,600원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -65,14 +40,59 @@ description: 어니스트 헤밍웨이의 장편소설 누구를 위하여 종�
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">21,700</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,600</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,500</text>
+
+    <path d="M 68 102 L 241 102 L 415 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 241 102 L 415 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,600원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6ea2/bb7bf24e6c572ea370311f1ad02e3d7ce562fcf47fe66207058d2c4c00dd.jpg
+title: 어니스트 헤밍웨이 누구를 위하여 종은 울리나 구매 가이드
+date: 2026-08-02
+description: 어니스트 헤밍웨이의 장편소설 누구를 위하여 종은 울리나를 구매하려는 독자를 위한 가이드입니다. 작품 배경, 주요 특징, 구매 시 고려사항을 상세히 안내합니다.
+---
+
+
+
+
+
+
+
+
+
 ## 상품 개요
 어니스트 헤밍웨이의 장편소설 『누구를 위하여 종은 울리나』는 스페인 내전이라는 역사적 비극 속에서 인간의 존엄과 사랑, 희생을 탐구하는 작품입니다. 이 책은 시대를 초월하는 문학적 깊이와 역사적 통찰을 통해 깊은 감동과 사색을 원하는 독자들에게 적합하며, 특히 전쟁의 본질과 인간 조건을 이해하려는 독자들에게 필독서로 추천됩니다. 국내에서는 여러 출판사에서 번역본이 출간되어 있으며, 예를 들어 민음사 세계문학전집 판본은 2017년에 개정 출간되었습니다.
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6ea2/bb7bf24e6c572ea370311f1ad02e3d7ce562fcf47fe66207058d2c4c00dd.jpg" alt="누구를 위하여 종은 울리나" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -147,6 +167,11 @@ A. 각 출판사마다 번역 스타일이나 편집, 디자인이 다릅니다.
 -   [나무위키: 어니스트 헤밍웨이](https://namu.wiki/w/%EC%96%B4%EB%8B%88%EC%8A%A4%ED%8A%B8%20%ED%97%A4%EB%B0%8D%EC%9B%A8%EC%9D%B4)
 -   [나무위키: 스페인 내전](https://namu.wiki/w/%EC%8A%A4%ED%8E%98%EC%9D%B8%20%EB%82%B4%EC%A0%84)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -154,3 +179,5 @@ A. 각 출판사마다 번역 스타일이나 편집, 디자인이 다릅니다.
     <a href="https://link.coupang.com/a/fTprT1cgA8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

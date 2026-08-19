@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/396201089/418963861/main/9791194530701_L.jpg
-title: 괴테는 모든 것을 말했다 구매 가이드
-date: 2026-08-04
-description: 2025년 아쿠타가와상 수상작 '괴테는 모든 것을 말했다'는 인용과 진실의 의미를 탐구하는 철학적 소설입니다. 깊은 사유와 문학적 감동을 선사하며, 선물용으로도 좋은 선택입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "괴테는 모든 것을 말했다",
-  "description": "2025년 아쿠타가와상 수상작 '괴테는 모든 것을 말했다'는 인용과 진실의 의미를 탐구하는 철학적 소설입니다. 깊은 사유와 문학적 감동을 선사하며, 선물용으로도 좋은 선택입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/396201089/418963861/main/9791194530701_L.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/396201089/418963861/detail/9791194530701_L.jpg"
@@ -20,34 +14,81 @@ description: 2025년 아쿠타가와상 수상작 '괴테는 모든 것을 말�
     "price": "15300",
     "url": "https://link.coupang.com/a/fWyNOLSarY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 246,
+    "reviewCount": 261,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-04 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,300원 · 별점 4.7 · 리뷰 246개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,300원 · 별점 4.7 · 리뷰 261개</span>
     <a href="https://link.coupang.com/a/fWyNOLSarY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,400</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,300</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,200</text>
+
+    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,300원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/396201089/418963861/main/9791194530701_L.jpg
+title: 괴테는 모든 것을 말했다 구매 가이드
+date: 2026-08-04
+description: 2025년 아쿠타가와상 수상작 '괴테는 모든 것을 말했다'는 인용과 진실의 의미를 탐구하는 철학적 소설입니다. 깊은 사유와 문학적 감동을 선사하며, 선물용으로도 좋은 선택입니다.
+---
+
+
+
+
+
+
+
 ## 상품 개요
 '괴테는 모든 것을 말했다'는 2025년 아쿠타가와상 수상작으로 알려진 소설로, 괴테 전문가가 홍차 티백에서 발견한 미상의 명언을 추적하는 과정을 통해 진실과 인용의 의미를 탐구합니다. 독자에게 깊은 생각할 거리를 제공하며, 바쁜 일상 속에서 잠시 멈춰 서 자신을 돌아보거나 의미 있는 메시지를 담아 선물하기에 적합한 문학 작품입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/396201089/418963861/main/9791194530701_L.jpg" alt="괴테는 모든 것을 말했다" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -105,10 +146,17 @@ A. 네, 선물용으로 매우 적합합니다. 깊이 있는 메시지와 아�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,300원 · 별점 4.7 · 리뷰 246개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,300원 · 별점 4.7 · 리뷰 261개</span>
     <a href="https://link.coupang.com/a/fWyNOLSarY" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

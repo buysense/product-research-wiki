@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/72834030377333-e0f6b42f-253f-4dfa-9341-a6e3fafc8acb.jpg
-title: 새콤달콤 캐치티니핑 디저트샵 소꿉놀이 구매 가이드
-date: 2026-07-03
-description: 새콤달콤 캐치티니핑 디저트샵 소꿉놀이는 캐치티니핑 캐릭터를 좋아하는 아이들이 디저트 가게 역할놀이를 통해 상상력과 소근육 발달을 키울 수 있도록 고안된 자석 소꿉놀이 장난감입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "새콤달콤 캐치티니핑 디저트샵 소꿉놀이",
-  "description": "새콤달콤 캐치티니핑 디저트샵 소꿉놀이는 캐치티니핑 캐릭터를 좋아하는 아이들이 디저트 가게 역할놀이를 통해 상상력과 소근육 발달을 키울 수 있도록 고안된 자석 소꿉놀이 장난감입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/72834030377333-e0f6b42f-253f-4dfa-9341-a6e3fafc8acb.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/09/21/10/0/356412fa-ff96-46ec-9005-b6070119386f.jpg"
@@ -20,70 +14,38 @@ description: 새콤달콤 캐치티니핑 디저트샵 소꿉놀이는 캐치티
     "price": "20010",
     "url": "https://link.coupang.com/a/e5iNRU21o4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 390,
+    "reviewCount": 391,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,010원 · 별점 4.9 · 리뷰 391개</span>
+    <a href="https://link.coupang.com/a/e5iNRU21o4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -92,54 +54,110 @@ description: 새콤달콤 캐치티니핑 디저트샵 소꿉놀이는 캐치티
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 85 L 87 85 L 105 85 L 124 85 L 142 86 L 161 86 L 179 85 L 198 85 L 217 86 L 235 85 L 254 26 L 272 26 L 291 26 L 309 26 L 328 26 L 347 26 L 365 26 L 384 26 L 402 26 L 421 34 L 439 34 L 458 34 L 477 26 L 495 34 L 514 102 L 532 102 L 551 118 L 569 34 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 85 L 87 85 L 105 85 L 124 85 L 142 86 L 161 86 L 179 85 L 198 85 L 217 86 L 235 85 L 254 26 L 272 26 L 291 26 L 309 26 L 328 26 L 347 26 L 365 26 L 384 26 L 402 26 L 421 34 L 439 34 L 458 34 L 477 26 L 495 34 L 514 102 L 532 102 L 551 118 L 569 34 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 85 L 86 85 L 104 85 L 122 85 L 140 86 L 158 86 L 176 85 L 194 85 L 211 86 L 229 85 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 34 L 427 34 L 445 34 L 462 26 L 480 34 L 498 102 L 516 102 L 534 118 L 552 34 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 85 L 86 85 L 104 85 L 122 85 L 140 86 L 158 86 L 176 85 L 194 85 L 211 86 L 229 85 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 34 L 427 34 L 445 34 L 462 26 L 480 34 L 498 102 L 516 102 L 534 118 L 552 34 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="124" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="161" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="179" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="235" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="254" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="309" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="347" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="402" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="421" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="477" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="495" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="532" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="551" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">20,010원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,010원 · 별점 4.9 · 리뷰 390개</span>
-    <a href="https://link.coupang.com/a/e5iNRU21o4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/72834030377333-e0f6b42f-253f-4dfa-9341-a6e3fafc8acb.jpg
+title: 새콤달콤 캐치티니핑 디저트샵 소꿉놀이 구매 가이드
+date: 2026-07-03
+description: 새콤달콤 캐치티니핑 디저트샵 소꿉놀이는 캐치티니핑 캐릭터를 좋아하는 아이들이 디저트 가게 역할놀이를 통해 상상력과 소근육 발달을 키울 수 있도록 고안된 자석 소꿉놀이 장난감입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -147,9 +165,11 @@ description: 새콤달콤 캐치티니핑 디저트샵 소꿉놀이는 캐치티
 ## 상품 개요
 새콤달콤 캐치티니핑 디저트샵 소꿉놀이는 캐치티니핑 캐릭터를 좋아하는 아이들이 집에서 디저트 가게 주인 역할을 하며 상상력과 사회성을 키울 수 있도록 돕는 자석 소꿉놀이 제품입니다. 다양한 디저트와 티니핑 캐릭터 자석을 활용해 혼자서도 즐겁게 놀거나 가족, 친구와 함께 역할놀이를 할 때 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/72834030377333-e0f6b42f-253f-4dfa-9341-a6e3fafc8acb.jpg" alt="새콤달콤 캐치티니핑 디저트샵 소꿉놀이" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -209,10 +229,17 @@ A. 제품은 모서리가 둥글게 처리되어 있고 자석 커팅이 깔끔�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,010원 · 별점 4.9 · 리뷰 390개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,010원 · 별점 4.9 · 리뷰 391개</span>
     <a href="https://link.coupang.com/a/e5iNRU21o4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

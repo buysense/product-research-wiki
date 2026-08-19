@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/880319893068885-a6e5af96-9e2d-4342-9879-f37dd8d0f1c5.jpg
-title: 페넬로페 본보야지 에펠 아기물티슈 캡형 구매 가이드
-date: 2026-07-03
-description: 페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의 도톰한 원단과 적절한 수분감으로 아기 피부는 물론 일상생활에서도 위생적으로 사용하기 적합한 제품입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "페넬로페 본보야지 에펠 아기물티슈 캡형",
-  "description": "페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의 도톰한 원단과 적절한 수분감으로 아기 피부는 물론 일상생활에서도 위생적으로 사용하기 적합한 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/880319893068885-a6e5af96-9e2d-4342-9879-f37dd8d0f1c5.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/78913104682593-21e7d596-ae90-40f5-bf50-a50c78a7fe5d.jpg"
@@ -17,119 +11,143 @@ description: 페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "19790",
+    "price": "23900",
     "url": "https://link.coupang.com/a/e48pstcVpc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 1401,
+    "reviewCount": 1424,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,900원 · 별점 4.9 · 리뷰 1,424개</span>
+    <a href="https://link.coupang.com/a/e48pstcVpc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">20,500</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">19,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 134 L 87 134 L 105 134 L 124 134 L 142 26 L 161 26 L 179 26 L 198 26 L 217 26 L 235 134 L 254 26 L 272 134 L 291 134 L 309 134 L 328 134 L 347 134 L 365 134 L 384 134 L 402 134 L 421 134 L 439 134 L 458 134 L 477 26 L 495 134 L 514 134 L 532 134 L 551 134 L 569 26 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 134 L 87 134 L 105 134 L 124 134 L 142 26 L 161 26 L 179 26 L 198 26 L 217 26 L 235 134 L 254 26 L 272 134 L 291 134 L 309 134 L 328 134 L 347 134 L 365 134 L 384 134 L 402 134 L 421 134 L 439 134 L 458 134 L 477 26 L 495 134 L 514 134 L 532 134 L 551 134 L 569 26 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="124" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="142" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="235" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="254" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="272" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="477" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="495" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="551" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="134" r="5" fill="#ea580c"></circle>
+    <path d="M 68 105 L 86 105 L 104 105 L 122 105 L 140 90 L 158 90 L 176 90 L 194 90 L 211 90 L 229 105 L 247 90 L 265 105 L 283 105 L 301 105 L 319 105 L 337 105 L 355 105 L 373 105 L 391 105 L 409 105 L 427 105 L 445 105 L 462 90 L 480 105 L 498 105 L 516 105 L 534 105 L 552 90 L 570 105 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 105 L 86 105 L 104 105 L 122 105 L 140 90 L 158 90 L 176 90 L 194 90 L 211 90 L 229 105 L 247 90 L 265 105 L 283 105 L 301 105 L 319 105 L 337 105 L 355 105 L 373 105 L 391 105 L 409 105 L 427 105 L 445 105 L 462 90 L 480 105 L 498 105 L 516 105 L 534 105 L 552 90 L 570 105 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="43" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="122" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,790원</text>
+    <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,790원 · 별점 4.9 · 리뷰 1,401개</span>
-    <a href="https://link.coupang.com/a/e48pstcVpc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/880319893068885-a6e5af96-9e2d-4342-9879-f37dd8d0f1c5.jpg
+title: 페넬로페 본보야지 에펠 아기물티슈 캡형 구매 가이드
+date: 2026-07-03
+description: 페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의 도톰한 원단과 적절한 수분감으로 아기 피부는 물론 일상생활에서도 위생적으로 사용하기 적합한 제품입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -137,9 +155,11 @@ description: 페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의
 ## 상품 개요
 페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의 도톰한 엠보싱 원단과 적절한 수분감을 특징으로 하는 제품입니다. 민감한 아기 피부를 위한 기저귀 교체 시는 물론, 일상적인 청소나 위생 관리 등 다양한 상황에서 자극 없이 깔끔하게 사용하기에 적합합니다. 캡형 디자인으로 수분 증발을 막아 위생적으로 오래 보관할 수 있어 꾸준히 재구매되는 경향을 보입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/880319893068885-a6e5af96-9e2d-4342-9879-f37dd8d0f1c5.jpg" alt="페넬로페 본보야지 에펠 아기물티슈 캡형" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -208,10 +228,17 @@ A. 네, 10단계 UV살균 정수 시스템을 거친 정제수와 식약처 허�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,790원 · 별점 4.9 · 리뷰 1,401개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,900원 · 별점 4.9 · 리뷰 1,424개</span>
     <a href="https://link.coupang.com/a/e48pstcVpc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

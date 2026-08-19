@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/219291227847996-6686944e-eff8-4bbf-b253-8b4bd3f0291d.jpg
-title: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너, 240ml, 1개 구매 가이드
-date: 2026-06-11
-description: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너는 칙칙한 피부톤, 거친 피부결, 색소침착 개선을 위해 얼굴과 바디에 활용되는 각질 케어 토너입니다. 대용량으로 다양한 피부 고민에 사용 가능합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너, 240ml, 1개",
-  "description": "디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너는 칙칙한 피부톤, 거친 피부결, 색소침착 개선을 위해 얼굴과 바디에 활용되는 각질 케어 토너입니다. 대용량으로 다양한 피부 고민에 사용 가능합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/219291227847996-6686944e-eff8-4bbf-b253-8b4bd3f0291d.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/48642737431630-8a2476fb-0c0a-4eb2-833b-dbc11652f19e.jpg"
@@ -20,111 +14,35 @@ description: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토
     "price": "19400",
     "url": "https://link.coupang.com/a/euwA9NHo3U",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 3986,
+    "reviewCount": 4404,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-11 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,400원 · 별점 4.7 · 리뷰 4,404개</span>
+    <a href="https://link.coupang.com/a/euwA9NHo3U" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -136,42 +54,141 @@ description: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 149 L 86 149 L 104 26 L 122 26 L 140 104 L 158 104 L 176 104 L 194 104 L 211 104 L 229 104 L 247 104 L 265 104 L 283 104 L 301 104 L 319 104 L 337 149 L 355 149 L 373 149 L 391 149 L 409 104 L 427 104 L 445 104 L 462 104 L 480 104 L 498 104 L 516 104 L 534 104 L 552 104 L 570 104 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 149 L 86 149 L 104 26 L 122 26 L 140 104 L 158 104 L 176 104 L 194 104 L 211 104 L 229 104 L 247 104 L 265 104 L 283 104 L 301 104 L 319 104 L 337 149 L 355 149 L 373 149 L 391 149 L 409 104 L 427 104 L 445 104 L 462 104 L 480 104 L 498 104 L 516 104 L 534 104 L 552 104 L 570 104 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 149 L 86 26 L 104 26 L 122 104 L 140 104 L 158 104 L 176 104 L 194 104 L 211 104 L 229 104 L 247 104 L 265 104 L 283 104 L 301 104 L 319 149 L 337 149 L 355 149 L 373 149 L 391 104 L 409 104 L 427 104 L 445 104 L 462 104 L 480 104 L 498 104 L 516 104 L 534 104 L 552 104 L 570 111 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 149 L 86 26 L 104 26 L 122 104 L 140 104 L 158 104 L 176 104 L 194 104 L 211 104 L 229 104 L 247 104 L 265 104 L 283 104 L 301 104 L 319 149 L 337 149 L 355 149 L 373 149 L 391 104 L 409 104 L 427 104 L 445 104 L 462 104 L 480 104 L 498 104 L 516 104 L 534 104 L 552 104 L 570 111 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="149" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="149" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="149" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="111" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="111" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,400원 · 별점 4.7 · 리뷰 3,986개</span>
-    <a href="https://link.coupang.com/a/euwA9NHo3U" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/219291227847996-6686944e-eff8-4bbf-b253-8b4bd3f0291d.jpg
+title: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너, 240ml, 1개 구매 가이드
+date: 2026-06-11
+description: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너는 칙칙한 피부톤, 거친 피부결, 색소침착 개선을 위해 얼굴과 바디에 활용되는 각질 케어 토너입니다. 대용량으로 다양한 피부 고민에 사용 가능합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -179,9 +196,11 @@ description: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토
 ## 상품 개요
 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너, 240ml는 칙칙한 피부톤, 거친 피부결, 그리고 겨드랑이, 팔꿈치 등 바디 색소침착 개선을 위해 활용되는 각질 케어 토너입니다. 얼굴뿐만 아니라 다리 모공각화증, 팔꿈치, 무릎, 발뒤꿈치 등 다양한 부위에 사용할 수 있어 전반적인 피부결과 톤 관리를 원하는 사용자에게 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/219291227847996-6686944e-eff8-4bbf-b253-8b4bd3f0291d.jpg" alt="디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너, 240ml, 1개" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -248,10 +267,17 @@ A. 대부분의 경우 매일 사용해도 괜찮지만, 피부 민감도에 따
 
 *   쿠팡 상품 정보 및 고객 리뷰
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,400원 · 별점 4.7 · 리뷰 3,986개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,400원 · 별점 4.7 · 리뷰 4,404개</span>
     <a href="https://link.coupang.com/a/euwA9NHo3U" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

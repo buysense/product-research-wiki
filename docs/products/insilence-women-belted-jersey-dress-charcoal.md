@@ -1,45 +1,63 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e493/2ff2a6a9c592d1c7d6c5d311aa71cffd4953f26fb7c455f7b27cbda54b12.jpg
-title: 인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL 구매 가이드
-date: 2026-08-11
-description: 인사일런스 벨티드 져지 원피스 차콜은 편안한 착용감과 세련된 디자인으로 데일리룩, 오피스룩, 캐주얼 모임 등 다양한 상황에 활용하기 좋은 여성 의류입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL",
-  "description": "인사일런스 벨티드 져지 원피스 차콜은 편안한 착용감과 세련된 디자인으로 데일리룩, 오피스룩, 캐주얼 모임 등 다양한 상황에 활용하기 좋은 여성 의류입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e493/2ff2a6a9c592d1c7d6c5d311aa71cffd4953f26fb7c455f7b27cbda54b12.jpg"
   ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "107500",
+    "price": "101100",
     "url": "https://link.coupang.com/a/f8bxoGsrWS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-18"
+    "priceValidUntil": "2026-08-26"
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-11 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 107,500원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 101,100원</span>
     <a href="https://link.coupang.com/a/f8bxoGsrWS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e493/2ff2a6a9c592d1c7d6c5d311aa71cffd4953f26fb7c455f7b27cbda54b12.jpg
+title: 인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL 구매 가이드
+date: 2026-08-11
+description: 인사일런스 벨티드 져지 원피스 차콜은 편안한 착용감과 세련된 디자인으로 데일리룩, 오피스룩, 캐주얼 모임 등 다양한 상황에 활용하기 좋은 여성 의류입니다.
+---
+
+
+
+
+
+
+
 ## 상품 개요
 인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL은 부드러운 져지 소재와 벨티드 디자인이 특징인 여성 원피스입니다. 편안한 착용감과 우아한 실루엣을 동시에 제공하여 데일리룩, 오피스룩, 가벼운 캐주얼 모임 등 다양한 일상 상황에서 활용하기 좋습니다. 2023년 출시된 이 제품은 간결하면서도 세련된 스타일을 추구하는 이들에게 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e493/2ff2a6a9c592d1c7d6c5d311aa71cffd4953f26fb7c455f7b27cbda54b12.jpg" alt="인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -101,10 +119,17 @@ A. 이 구매 가이드에서는 CHARCOAL 색상을 기준으로 설명하고 �
 *   온라인 패션 플랫폼 내 고객 리뷰 및 상품 상세 페이지
 *   패션 커뮤니티 및 스타일링 콘텐츠
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 107,500원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 101,100원</span>
     <a href="https://link.coupang.com/a/f8bxoGsrWS" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

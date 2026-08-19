@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/30/11/7/d53601f1-9b06-4c17-be4d-adf0493cd5f0.jpg
-title: 휠라 뉴엔트리 백 구매 가이드
-date: 2026-04-28
-description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출에 적합한 실용적인 데일리 백입니다. 내구성이 좋은 폴리에스터 소재로 제작되어 편안하게 사용할 수 있습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "휠라 뉴엔트리 백",
-  "description": "휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출에 적합한 실용적인 데일리 백입니다. 내구성이 좋은 폴리에스터 소재로 제작되어 편안하게 사용할 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/30/11/7/d53601f1-9b06-4c17-be4d-adf0493cd5f0.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/auphkq3p/cd623186cc4c46f88f8aa63b4774e2c5.jpg"
@@ -17,10 +11,10 @@ description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "52780",
+    "price": "54460",
     "url": "https://link.coupang.com/a/eygm56",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -31,182 +25,24 @@ description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출�
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-28 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 54,460원 · 별점 4.5 · 리뷰 8개</span>
+    <a href="https://link.coupang.com/a/eygm56" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -218,46 +54,227 @@ description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 110 L 86 110 L 104 85 L 122 85 L 140 85 L 158 85 L 176 85 L 194 116 L 211 115 L 229 114 L 247 114 L 265 114 L 283 114 L 301 119 L 319 119 L 337 119 L 355 119 L 373 119 L 391 94 L 409 159 L 427 159 L 445 159 L 462 159 L 480 159 L 498 159 L 516 136 L 534 136 L 552 136 L 570 136 L 588 136 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 86 110 L 104 85 L 122 85 L 140 85 L 158 85 L 176 85 L 194 116 L 211 115 L 229 114 L 247 114 L 265 114 L 283 114 L 301 119 L 319 119 L 337 119 L 355 119 L 373 119 L 391 94 L 409 159 L 427 159 L 445 159 L 462 159 L 480 159 L 498 159 L 516 136 L 534 136 L 552 136 L 570 136 L 588 136" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 110 L 86 85 L 104 85 L 122 85 L 140 85 L 158 85 L 176 116 L 194 115 L 211 114 L 229 114 L 247 114 L 265 114 L 283 119 L 301 119 L 319 119 L 337 119 L 355 119 L 373 94 L 391 159 L 409 159 L 427 159 L 445 159 L 462 159 L 480 159 L 498 136 L 516 136 L 534 136 L 552 136 L 570 136 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 86 85 L 104 85 L 122 85 L 140 85 L 158 85 L 176 116 L 194 115 L 211 114 L 229 114 L 247 114 L 265 114 L 283 119 L 301 119 L 319 119 L 337 119 L 355 119 L 373 94 L 391 159 L 409 159 L 427 159 L 445 159 L 462 159 L 480 159 L 498 136 L 516 136 L 534 136 L 552 136 L 570 136 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="116" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="159" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="136" r="5" fill="#ea580c"></circle>
+    <circle cx="86" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="159" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="124" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">52,780원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">54,460원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 52,780원 · 별점 4.5 · 리뷰 8개</span>
-    <a href="https://link.coupang.com/a/eygm56" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/30/11/7/d53601f1-9b06-4c17-be4d-adf0493cd5f0.jpg
+title: 휠라 뉴엔트리 백 구매 가이드
+date: 2026-04-28
+description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출에 적합한 실용적인 데일리 백입니다. 내구성이 좋은 폴리에스터 소재로 제작되어 편안하게 사용할 수 있습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -271,9 +288,11 @@ description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출�
 ## 상품 개요
 휠라 뉴엔트리 백은 심플하고 실용적인 디자인으로 일상적인 활동과 가벼운 외출에 적합한 데일리 백입니다. 학교, 도서관, 가까운 공원 산책 등 매일 간편하게 소지품을 휴대할 때 유용하며, 가벼운 무게와 기본적인 수납공간을 제공하여 부담 없이 사용할 수 있습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/30/11/7/d53601f1-9b06-4c17-be4d-adf0493cd5f0.jpg" alt="휠라 뉴엔트리 백" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -333,10 +352,17 @@ A. 이 백은 기본적인 메인 수납 공간과 함께 외부 또는 내부�
 *   [휠라 코리아 공식 홈페이지](https://www.fila.co.kr/) - (제품 정보 및 브랜드 관련 자료)
 *   [폴리에스터 섬유의 특성 및 관리 방법](https://www.google.com/search?q=%ED%8F%B4%EB%A6%AC%EC%97%90%EC%8A%A4%ED%84%B0+%EC%84%AC%EC%9C%A0+%ED%8A%B9%EC%84%B1) - (외부 신뢰할 수 있는 소재 정보)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 52,780원 · 별점 4.5 · 리뷰 8개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 54,460원 · 별점 4.5 · 리뷰 8개</span>
     <a href="https://link.coupang.com/a/eygm56" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

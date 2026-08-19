@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/dba9def7-2179-4960-9333-296ad29c7e6e6110714200277616273.png
-title: 코멧 심플 미끄럼방지 정장 옷걸이 구매 가이드
-date: 2026-05-25
-description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자인과 PVC 논슬립 코팅으로 옷장 공간을 효율적으로 활용하며, 정장, 니트 등 의류 형태를 깔끔하게 유지하고자 할 때 유용합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "코멧 심플 미끄럼방지 정장 옷걸이",
-  "description": "코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자인과 PVC 논슬립 코팅으로 옷장 공간을 효율적으로 활용하며, 정장, 니트 등 의류 형태를 깔끔하게 유지하고자 할 때 유용합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/dba9def7-2179-4960-9333-296ad29c7e6e6110714200277616273.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/53926117175789-d5a5c105-a8ad-47ca-b43c-f8acec58833b.jpg"
@@ -17,151 +11,38 @@ description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "17440",
+    "price": "18660",
     "url": "https://link.coupang.com/a/d2H6LsJjki",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 807,
+    "reviewCount": 826,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-25 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,660원 · 별점 4.8 · 리뷰 826개</span>
+    <a href="https://link.coupang.com/a/d2H6LsJjki" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -169,37 +50,174 @@ description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">17,500</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,400</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">17,300</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">19,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
 
-    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 72 L 158 72 L 176 72 L 194 72 L 211 72 L 229 72 L 247 72 L 265 72 L 283 72 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 72 L 158 72 L 176 72 L 194 72 L 211 72 L 229 72 L 247 72 L 265 72 L 283 72 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
+    <path d="M 68 145 L 86 145 L 104 145 L 122 145 L 140 145 L 158 145 L 176 145 L 194 145 L 211 145 L 229 145 L 247 145 L 265 145 L 283 145 L 301 145 L 319 145 L 337 145 L 355 145 L 373 145 L 391 145 L 409 145 L 427 145 L 445 145 L 462 145 L 480 145 L 498 145 L 516 145 L 534 145 L 552 145 L 570 145 L 588 52 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 145 L 86 145 L 104 145 L 122 145 L 140 145 L 158 145 L 176 145 L 194 145 L 211 145 L 229 145 L 247 145 L 265 145 L 283 145 L 301 145 L 319 145 L 337 145 L 355 145 L 373 145 L 391 145 L 409 145 L 427 145 L 445 145 L 462 145 L 480 145 L 498 145 L 516 145 L 534 145 L 552 145 L 570 145 L 588 52" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="52" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,440원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="40" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,660원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,440원 · 별점 4.8 · 리뷰 807개</span>
-    <a href="https://link.coupang.com/a/d2H6LsJjki" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/dba9def7-2179-4960-9333-296ad29c7e6e6110714200277616273.png
+title: 코멧 심플 미끄럼방지 정장 옷걸이 구매 가이드
+date: 2026-05-25
+description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자인과 PVC 논슬립 코팅으로 옷장 공간을 효율적으로 활용하며, 정장, 니트 등 의류 형태를 깔끔하게 유지하고자 할 때 유용합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -209,9 +227,11 @@ description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자�
 ## 상품 개요
 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자인과 PVC 논슬립 코팅이 특징인 제품으로, 옷장 공간을 효율적으로 활용하며 의류가 흘러내리는 것을 방지합니다. 정장, 니트, 실크 블라우스 등 형태 유지가 중요한 옷을 깔끔하게 보관하고 싶거나, 옷장 내부를 정돈된 분위기로 만들고 싶을 때 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/dba9def7-2179-4960-9333-296ad29c7e6e6110714200277616273.png" alt="코멧 심플 미끄럼방지 정장 옷걸이" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -274,10 +294,17 @@ A. 스틸(강철) 소재로 제작되어 내구성이 튼튼하여 대부분의 
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,440원 · 별점 4.8 · 리뷰 807개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,660원 · 별점 4.8 · 리뷰 826개</span>
     <a href="https://link.coupang.com/a/d2H6LsJjki" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

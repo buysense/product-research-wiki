@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/597164906606997-7f11e73b-6ead-4752-887e-63b183d25841.jpg
-title: 유시몰 화이트닝 플렉스펌 칫솔 화이트 구매 가이드
-date: 2026-04-23
-description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착색 고민, 꼼꼼한 세정을 원하는 소비자를 위한 제품입니다. 플렉스펌 헤드가 치아 굴곡에 맞춰 구석구석 닦아주며, 고급스러운 디자인으로 욕실 인테리어 효과도 제공합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "유시몰 화이트닝 플렉스펌 칫솔 화이트",
-  "description": "유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착색 고민, 꼼꼼한 세정을 원하는 소비자를 위한 제품입니다. 플렉스펌 헤드가 치아 굴곡에 맞춰 구석구석 닦아주며, 고급스러운 디자인으로 욕실 인테리어 효과도 제공합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/597164906606997-7f11e73b-6ead-4752-887e-63b183d25841.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2718867523899233-6fa5eee8-f2d4-42c3-a381-cd4bac43210b.jpg"
@@ -17,23 +11,94 @@ description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "4900",
+    "price": "4610",
     "url": "https://link.coupang.com/a/euStPc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 673,
+    "reviewCount": 691,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-23 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,610원 · 별점 4.8 · 리뷰 691개</span>
+    <a href="https://link.coupang.com/a/euStPc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">5,500</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,500</text>
+
+    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 50 L 158 50 L 176 50 L 194 50 L 211 58 L 229 50 L 247 50 L 265 50 L 283 50 L 301 108 L 319 108 L 337 108 L 355 113 L 373 114 L 391 114 L 409 114 L 427 114 L 445 114 L 462 114 L 480 113 L 498 114 L 516 114 L 534 114 L 552 117 L 570 117 L 588 161 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 50 L 158 50 L 176 50 L 194 50 L 211 58 L 229 50 L 247 50 L 265 50 L 283 50 L 301 108 L 319 108 L 337 108 L 355 113 L 373 114 L 391 114 L 409 114 L 427 114 L 445 114 L 462 114 L 480 113 L 498 114 L 516 114 L 534 114 L 552 117 L 570 117 L 588 161" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="161" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="149" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,610원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/597164906606997-7f11e73b-6ead-4752-887e-63b183d25841.jpg
+title: 유시몰 화이트닝 플렉스펌 칫솔 화이트 구매 가이드
+date: 2026-04-23
+description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착색 고민, 꼼꼼한 세정을 원하는 소비자를 위한 제품입니다. 플렉스펌 헤드가 치아 굴곡에 맞춰 구석구석 닦아주며, 고급스러운 디자인으로 욕실 인테리어 효과도 제공합니다.
+---
+
+
+
+
 ## 참고한 글
 
 
@@ -210,57 +275,10 @@ description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">5,500</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,500</text>
 
-    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 50 L 158 50 L 176 50 L 194 50 L 211 50 L 229 58 L 247 50 L 265 50 L 283 50 L 301 50 L 319 108 L 337 108 L 355 108 L 373 113 L 391 114 L 409 114 L 427 114 L 445 114 L 462 114 L 480 114 L 498 113 L 516 114 L 534 114 L 552 114 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 50 L 158 50 L 176 50 L 194 50 L 211 50 L 229 58 L 247 50 L 265 50 L 283 50 L 301 50 L 319 108 L 337 108 L 355 108 L 373 113 L 391 114 L 409 114 L 427 114 L 445 114 L 462 114 L 480 114 L 498 113 L 516 114 L 534 114 L 552 114 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,900원 · 별점 4.8 · 리뷰 673개</span>
-    <a href="https://link.coupang.com/a/euStPc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
 
 
 
@@ -275,9 +293,11 @@ description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착�
 ## 상품 개요
 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착색, 꼼꼼한 플라그 제거, 그리고 깔끔한 욕실 분위기를 중요하게 여기는 소비자를 위한 칫솔입니다. 이 제품은 유연하면서도 탄탄한 '플렉스펌' 헤드를 통해 치아 굴곡에 맞춰 빈틈없이 세정하며, 고급스러운 무광 화이트 디자인으로 욕실의 품격을 높이는 데 기여합니다. 일반적인 칫솔 이상의 만족감을 추구하며 매일의 양치 습관을 업그레이드하고 싶은 경우에 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/597164906606997-7f11e73b-6ead-4752-887e-63b183d25841.jpg" alt="유시몰 화이트닝 플렉스펌 칫솔 화이트" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -336,10 +356,17 @@ A. '화이트닝'이라는 이름은 치아 표면을 깔끔하게 닦아내어 
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,900원 · 별점 4.8 · 리뷰 673개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,610원 · 별점 4.8 · 리뷰 691개</span>
     <a href="https://link.coupang.com/a/euStPc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

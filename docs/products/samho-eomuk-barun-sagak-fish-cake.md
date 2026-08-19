@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/436082475443544-839312db-5f37-4bae-8044-8d417dd0c14c.jpg
-title: 삼호어묵 바른사각 구매 가이드
-date: 2026-05-01
-description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다양한 가정 요리에 활용하기 좋은 얇고 쫄깃한 사각 어묵입니다. 양념이 잘 배어들어 맛있는 일상 식탁을 완성합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "삼호어묵 바른사각",
-  "description": "삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다양한 가정 요리에 활용하기 좋은 얇고 쫄깃한 사각 어묵입니다. 양념이 잘 배어들어 맛있는 일상 식탁을 완성합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/436082475443544-839312db-5f37-4bae-8044-8d417dd0c14c.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1584338718492362-07fc4c89-6661-402b-872c-b1995f72a64b.jpg"
@@ -20,186 +14,35 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
     "price": "1260",
     "url": "https://link.coupang.com/a/eAsRTR",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 130736,
+    "reviewCount": 135564,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,260원 · 별점 4.8 · 리뷰 135,564개</span>
+    <a href="https://link.coupang.com/a/eAsRTR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -211,42 +54,216 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,000</text>
 
-    <path d="M 68 134 L 86 134 L 104 134 L 122 134 L 140 134 L 158 134 L 176 138 L 194 138 L 211 134 L 229 134 L 247 134 L 265 134 L 283 134 L 301 134 L 319 134 L 337 134 L 355 134 L 373 134 L 391 26 L 409 134 L 427 134 L 445 134 L 462 134 L 480 134 L 498 134 L 516 138 L 534 138 L 552 138 L 570 138 L 588 138 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 134 L 86 134 L 104 134 L 122 134 L 140 134 L 158 134 L 176 138 L 194 138 L 211 134 L 229 134 L 247 134 L 265 134 L 283 134 L 301 134 L 319 134 L 337 134 L 355 134 L 373 134 L 391 26 L 409 134 L 427 134 L 445 134 L 462 134 L 480 134 L 498 134 L 516 138 L 534 138 L 552 138 L 570 138 L 588 138" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 134 L 86 134 L 104 134 L 122 134 L 140 134 L 158 138 L 176 138 L 194 134 L 211 134 L 229 134 L 247 134 L 265 134 L 283 134 L 301 134 L 319 134 L 337 134 L 355 134 L 373 26 L 391 134 L 409 134 L 427 134 L 445 134 L 462 134 L 480 134 L 498 138 L 516 138 L 534 138 L 552 138 L 570 138 L 588 138 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 134 L 86 134 L 104 134 L 122 134 L 140 134 L 158 138 L 176 138 L 194 134 L 211 134 L 229 134 L 247 134 L 265 134 L 283 134 L 301 134 L 319 134 L 337 134 L 355 134 L 373 26 L 391 134 L 409 134 L 427 134 L 445 134 L 462 134 L 480 134 L 498 138 L 516 138 L 534 138 L 552 138 L 570 138 L 588 138" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="138" r="4" fill="#fdba74"></circle>
     <circle cx="176" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="138" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="138" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="126" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,260원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,260원 · 별점 4.8 · 리뷰 130,736개</span>
-    <a href="https://link.coupang.com/a/eAsRTR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/436082475443544-839312db-5f37-4bae-8044-8d417dd0c14c.jpg
+title: 삼호어묵 바른사각 구매 가이드
+date: 2026-05-01
+description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다양한 가정 요리에 활용하기 좋은 얇고 쫄깃한 사각 어묵입니다. 양념이 잘 배어들어 맛있는 일상 식탁을 완성합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -259,9 +276,11 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
 ## 상품 개요
 삼호어묵 바른사각은 김밥, 떡볶이, 어묵볶음, 어묵탕 등 다양한 가정 요리에 활용하기 좋은 얇고 쫄깃한 사각 형태의 어묵 제품이다. 40년 전통의 어묵 제조 기술과 2번 튀기는 공법으로 담백하고 고소한 맛, 양념이 잘 배는 식감이 특징이다. 합성착색료, 합성보존료, 아스파탐, 글루코노델타락톤 등 4가지 첨가물을 사용하지 않아 안심하고 먹을 수 있으며, 일상적인 식탁의 메인 반찬이나 간식 재료로 즐겨 소비된다. 출시연도는 미공개이다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/436082475443544-839312db-5f37-4bae-8044-8d417dd0c14c.jpg" alt="삼호어묵 바른사각" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -322,10 +341,17 @@ A. 연육(중국산), 밀가루(밀/미국산, 호주산), 정제소금(국산),
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,260원 · 별점 4.8 · 리뷰 130,736개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,260원 · 별점 4.8 · 리뷰 135,564개</span>
     <a href="https://link.coupang.com/a/eAsRTR" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

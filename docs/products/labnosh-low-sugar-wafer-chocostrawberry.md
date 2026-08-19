@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/665f64ce16998a64b2af4747fa0e875fbd54230771113dc2df136beca8f7_1764047647823.png
-title: 랩노쉬 저당 웨하스 초코딸기 구매 가이드
-date: 2026-05-24
-description: 랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면서도 바삭하고 달콤한 간식을 찾는 소비자를 위한 제품입니다. 다이어트 중이거나 혈당 관리가 필요한 상황에서 부담 없이 즐기기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "랩노쉬 저당 웨하스 초코딸기",
-  "description": "랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면서도 바삭하고 달콤한 간식을 찾는 소비자를 위한 제품입니다. 다이어트 중이거나 혈당 관리가 필요한 상황에서 부담 없이 즐기기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/665f64ce16998a64b2af4747fa0e875fbd54230771113dc2df136beca8f7_1764047647823.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/410c/4678fc70e78b6cc0686b40954e4a4a1a11069bf969f39f16f6e3a529f7ef.jpg"
@@ -20,148 +14,35 @@ description: 랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면�
     "price": "18800",
     "url": "https://link.coupang.com/a/d0RmMrVOqO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 546,
+    "reviewCount": 554,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-24 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,800원 · 별점 4.6 · 리뷰 554개</span>
+    <a href="https://link.coupang.com/a/d0RmMrVOqO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -173,49 +54,185 @@ description: 랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 37 L 86 37 L 104 37 L 122 37 L 140 37 L 158 57 L 176 57 L 194 59 L 211 67 L 229 69 L 247 72 L 265 80 L 283 81 L 301 84 L 319 86 L 337 113 L 355 113 L 373 113 L 391 91 L 409 91 L 427 91 L 445 91 L 462 91 L 480 91 L 498 111 L 516 111 L 534 111 L 552 111 L 570 111 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 37 L 86 37 L 104 37 L 122 37 L 140 37 L 158 57 L 176 57 L 194 59 L 211 67 L 229 69 L 247 72 L 265 80 L 283 81 L 301 84 L 319 86 L 337 113 L 355 113 L 373 113 L 391 91 L 409 91 L 427 91 L 445 91 L 462 91 L 480 91 L 498 111 L 516 111 L 534 111 L 552 111 L 570 111 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 37 L 86 37 L 104 37 L 122 37 L 140 57 L 158 57 L 176 59 L 194 67 L 211 69 L 229 72 L 247 80 L 265 81 L 283 84 L 301 86 L 319 113 L 337 113 L 355 113 L 373 91 L 391 91 L 409 91 L 427 91 L 445 91 L 462 91 L 480 111 L 498 111 L 516 111 L 534 111 L 552 111 L 570 111 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 37 L 86 37 L 104 37 L 122 37 L 140 57 L 158 57 L 176 59 L 194 67 L 211 69 L 229 72 L 247 80 L 265 81 L 283 84 L 301 86 L 319 113 L 337 113 L 355 113 L 373 91 L 391 91 L 409 91 L 427 91 L 445 91 L 462 91 L 480 111 L 498 111 L 516 111 L 534 111 L 552 111 L 570 111 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="57" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="91" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="91" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="69" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="80" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="91" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="91" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="111" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="111" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,800원 · 별점 4.6 · 리뷰 546개</span>
-    <a href="https://link.coupang.com/a/d0RmMrVOqO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/665f64ce16998a64b2af4747fa0e875fbd54230771113dc2df136beca8f7_1764047647823.png
+title: 랩노쉬 저당 웨하스 초코딸기 구매 가이드
+date: 2026-05-24
+description: 랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면서도 바삭하고 달콤한 간식을 찾는 소비자를 위한 제품입니다. 다이어트 중이거나 혈당 관리가 필요한 상황에서 부담 없이 즐기기 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -225,9 +242,11 @@ description: 랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면�
 ## 상품 개요
 랩노쉬 저당 웨하스 초코딸기는 설탕 섭취에 대한 부담을 줄이면서도 바삭하고 달콤한 간식을 즐기고 싶은 소비자를 위한 제품입니다. 개별 포장되어 있어 직장인의 당 충전 간식, 운동 후 가벼운 허기 해결, 혹은 혈당 관리가 필요한 분들의 간식 대용으로 활용됩니다. 출시연도 정보는 확인되지 않지만, 저당 간식에 대한 관심이 높아지면서 꾸준히 주목받고 있습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/665f64ce16998a64b2af4747fa0e875fbd54230771113dc2df136beca8f7_1764047647823.png" alt="랩노쉬 저당 웨하스 초코딸기" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -289,10 +308,17 @@ A. 바삭한 식감은 유사하나, 일반 웨하스보다 단맛이 강하지 
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,800원 · 별점 4.6 · 리뷰 546개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,800원 · 별점 4.6 · 리뷰 554개</span>
     <a href="https://link.coupang.com/a/d0RmMrVOqO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

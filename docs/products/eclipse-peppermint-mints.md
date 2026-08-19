@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ab88/56778d66958976ef08714f7cccc201e00cc1bc185f9ef063743ced4750f0.jpg
-title: 이클립스 페퍼민트향 구매 가이드
-date: 2026-05-03
-description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중 졸음 방지, 중요한 미팅 전 입안 상쾌함 유지 등 다양한 상황에서 활용되는 무설탕 캔디입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "이클립스 페퍼민트향",
-  "description": "이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중 졸음 방지, 중요한 미팅 전 입안 상쾌함 유지 등 다양한 상황에서 활용되는 무설탕 캔디입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ab88/56778d66958976ef08714f7cccc201e00cc1bc185f9ef063743ced4750f0.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/85170423585347-77297e79-4757-4aac-ba02-dc329c458db7.jpg"
@@ -20,192 +14,35 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
     "price": "13790",
     "url": "https://link.coupang.com/a/eBvfAG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 58684,
+    "reviewCount": 59780,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,790원 · 별점 4.8 · 리뷰 59,780개</span>
+    <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -217,51 +54,232 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 75 L 86 75 L 104 75 L 122 72 L 140 72 L 158 161 L 176 72 L 194 72 L 211 81 L 229 81 L 247 81 L 265 72 L 283 74 L 301 74 L 319 74 L 337 89 L 355 72 L 373 72 L 391 72 L 409 72 L 427 138 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 82 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 75 L 86 75 L 104 75 L 122 72 L 140 72 L 158 161 L 176 72 L 194 72 L 211 81 L 229 81 L 247 81 L 265 72 L 283 74 L 301 74 L 319 74 L 337 89 L 355 72 L 373 72 L 391 72 L 409 72 L 427 138 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 82 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 75 L 86 75 L 104 72 L 122 72 L 140 161 L 158 72 L 176 72 L 194 81 L 211 81 L 229 81 L 247 72 L 265 74 L 283 74 L 301 74 L 319 89 L 337 72 L 355 72 L 373 72 L 391 72 L 409 138 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 82 L 570 73 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 75 L 86 75 L 104 72 L 122 72 L 140 161 L 158 72 L 176 72 L 194 81 L 211 81 L 229 81 L 247 72 L 265 74 L 283 74 L 301 74 L 319 89 L 337 72 L 355 72 L 373 72 L 391 72 L 409 138 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 82 L 570 73 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="75" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="75" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="176" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="73" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="61" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,790원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,790원 · 별점 4.8 · 리뷰 58,684개</span>
-    <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ab88/56778d66958976ef08714f7cccc201e00cc1bc185f9ef063743ced4750f0.jpg
+title: 이클립스 페퍼민트향 구매 가이드
+date: 2026-05-03
+description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중 졸음 방지, 중요한 미팅 전 입안 상쾌함 유지 등 다양한 상황에서 활용되는 무설탕 캔디입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -271,9 +289,11 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
 ## 상품 개요
 이클립스 페퍼민트향은 강력한 상쾌함이 특징인 무설탕 캔디로, 식사 후 입냄새 제거, 중요한 미팅 전 입안 상쾌함 유지, 운전 중 졸음 방지, 또는 집중이 필요할 때 기분 전환용으로 널리 소비됩니다. 휴대가 간편한 틴 케이스 형태로 언제 어디서든 쉽고 빠르게 상쾌함을 느낄 수 있도록 고안된 제품입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ab88/56778d66958976ef08714f7cccc201e00cc1bc185f9ef063743ced4750f0.jpg" alt="이클립스 페퍼민트향" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -333,10 +353,17 @@ A. 이클립스 페퍼민트향의 가장 큰 특징은 단 한 알만으로도 
 
 *   [쿠팡 이클립스 페퍼민트향](https://link.coupang.com/a/eBvfAG)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,790원 · 별점 4.8 · 리뷰 58,684개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,790원 · 별점 4.8 · 리뷰 59,780개</span>
     <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

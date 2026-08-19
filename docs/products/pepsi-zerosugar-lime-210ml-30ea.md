@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg
-title: 펩시 제로슈거 라임향 (210ml, 30개) 구매 가이드
-date: 2026-07-13
-description: 펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리로 부담 없이 즐기는 상큼한 탄산음료입니다. 식사 시 느끼함을 잡아주거나 갈증 해소에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "펩시 제로슈거 라임향 (210ml, 30개)",
-  "description": "펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리로 부담 없이 즐기는 상큼한 탄산음료입니다. 식사 시 느끼함을 잡아주거나 갈증 해소에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/61661812560722-2bbab361-14e0-4686-88df-c22055b55498.png"
@@ -20,50 +14,38 @@ description: 펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리�
     "price": "14630",
     "url": "https://link.coupang.com/a/fluvpMt8O4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 213046,
+    "reviewCount": 215529,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-13 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,630원 · 별점 4.9 · 리뷰 215,529개</span>
+    <a href="https://link.coupang.com/a/fluvpMt8O4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -72,42 +54,78 @@ description: 펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 119 L 97 26 L 126 26 L 155 26 L 184 26 L 212 26 L 241 26 L 270 26 L 299 26 L 328 26 L 357 27 L 386 26 L 415 26 L 444 26 L 472 26 L 501 26 L 530 26 L 559 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 119 L 97 26 L 126 26 L 155 26 L 184 26 L 212 26 L 241 26 L 270 26 L 299 26 L 328 26 L 357 27 L 386 26 L 415 26 L 444 26 L 472 26 L 501 26 L 530 26 L 559 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 119 L 95 26 L 123 26 L 150 26 L 177 26 L 205 26 L 232 26 L 260 26 L 287 26 L 314 26 L 342 27 L 369 26 L 396 26 L 424 26 L 451 26 L 479 26 L 506 26 L 533 26 L 561 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 119 L 95 26 L 123 26 L 150 26 L 177 26 L 205 26 L 232 26 L 260 26 L 287 26 L 314 26 L 342 27 L 369 26 L 396 26 L 424 26 L 451 26 L 479 26 L 506 26 L 533 26 L 561 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="97" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="386" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="559" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="95" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="287" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="314" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="342" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="369" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="451" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="479" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="506" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="533" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="561" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,630원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,630원 · 별점 4.9 · 리뷰 213,046개</span>
-    <a href="https://link.coupang.com/a/fluvpMt8O4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg
+title: 펩시 제로슈거 라임향 (210ml, 30개) 구매 가이드
+date: 2026-07-13
+description: 펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리로 부담 없이 즐기는 상큼한 탄산음료입니다. 식사 시 느끼함을 잡아주거나 갈증 해소에 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -115,9 +133,11 @@ description: 펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리�
 ## 상품 개요
 펩시 제로슈거 라임향 210ml 30개는 당 섭취를 줄이면서도 탄산음료의 청량감을 즐기고 싶은 소비자를 위한 제품입니다. 210ml의 소용량 캔으로 한 번에 마시기 적합하며, 느끼한 음식과 함께 식사하거나 더운 날 갈증을 해소할 때, 혹은 일상생활 속에서 부담 없이 즐기기에 좋습니다. 은은한 라임향이 더해져 제로 음료 특유의 인공적인 맛을 줄이고 깔끔하고 상쾌한 맛을 제공합니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg" alt="펩시 제로슈거 라임향 (210ml, 30개)" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -173,10 +193,17 @@ A. 라임향이 첨가되어 제로 음료 특유의 인공적인 단맛이나 �
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,630원 · 별점 4.9 · 리뷰 213,046개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,630원 · 별점 4.9 · 리뷰 215,529개</span>
     <a href="https://link.coupang.com/a/fluvpMt8O4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

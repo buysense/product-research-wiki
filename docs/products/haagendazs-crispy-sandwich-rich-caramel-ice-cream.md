@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242257555788241-d1c8a197-928a-4c37-9d0c-d748c8621339.jpg
-title: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림 구매 가이드
-date: 2026-05-06
-description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림은 바삭한 웨이퍼와 진한 카라멜 아이스크림이 조화로운 프리미엄 디저트입니다. 집에서 즐기는 간식, 식후 디저트, 또는 선물용으로 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림",
-  "description": "하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림은 바삭한 웨이퍼와 진한 카라멜 아이스크림이 조화로운 프리미엄 디저트입니다. 집에서 즐기는 간식, 식후 디저트, 또는 선물용으로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242257555788241-d1c8a197-928a-4c37-9d0c-d748c8621339.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/465551903663562-cd2830b1-3fa9-4752-b9fc-33e83928350a.jpg"
@@ -17,189 +11,38 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "16100",
+    "price": "14890",
     "url": "https://link.coupang.com/a/eDP2cK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 785,
+    "reviewCount": 810,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,890원 · 별점 4.8 · 리뷰 810개</span>
+    <a href="https://link.coupang.com/a/eDP2cK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -211,44 +54,218 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
 
-    <path d="M 68 129 L 86 129 L 104 110 L 122 129 L 140 129 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 116 L 283 116 L 301 118 L 319 118 L 337 118 L 355 118 L 373 118 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 129 L 86 129 L 104 110 L 122 129 L 140 129 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 116 L 283 116 L 301 118 L 319 118 L 337 118 L 355 118 L 373 118 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 129 L 86 110 L 104 129 L 122 129 L 140 110 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 116 L 265 116 L 283 118 L 301 118 L 319 118 L 337 118 L 355 118 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 129 L 86 110 L 104 129 L 122 129 L 140 110 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 116 L 265 116 L 283 118 L 301 118 L 319 118 L 337 118 L 355 118 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="129" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="116" r="4" fill="#fdba74"></circle>
     <circle cx="265" cy="116" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="116" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <circle cx="283" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,100원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,890원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,100원 · 별점 4.8 · 리뷰 785개</span>
-    <a href="https://link.coupang.com/a/eDP2cK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242257555788241-d1c8a197-928a-4c37-9d0c-d748c8621339.jpg
+title: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림 구매 가이드
+date: 2026-05-06
+description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림은 바삭한 웨이퍼와 진한 카라멜 아이스크림이 조화로운 프리미엄 디저트입니다. 집에서 즐기는 간식, 식후 디저트, 또는 선물용으로 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -258,9 +275,11 @@ description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스�
 ## 상품 개요
 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림은 바삭한 웨이퍼와 진한 카라멜 풍미가 돋보이는 샌드형 아이스크림입니다. 이 제품은 집에서 즐기는 프리미엄 디저트나 간편한 간식, 특별한 날의 달콤한 마무리를 위한 선택지로 적합합니다. 개별 박스 포장으로 위생적이며, 한 손에 들고 먹기 좋은 60ml 용량으로 제공됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242257555788241-d1c8a197-928a-4c37-9d0c-d748c8621339.jpg" alt="하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -320,10 +339,17 @@ A. 제품은 개별 박스에 포장되어 있으며, 배송 시에는 로켓프
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,100원 · 별점 4.8 · 리뷰 785개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,890원 · 별점 4.8 · 리뷰 810개</span>
     <a href="https://link.coupang.com/a/eDP2cK" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

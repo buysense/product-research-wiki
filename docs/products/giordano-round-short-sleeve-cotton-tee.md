@@ -1,182 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3bda/b77a0d3bea84cb21a4e019ca77639f305a91368730477c8e3c793bdc10aa.jpg
-title: 지오다노 라운드 반팔 면티 구매 가이드
-date: 2026-04-07
-description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드러운 착용감을 제공하며, 교복 이너나 데일리룩에 활용하기 좋은 스테디셀러 기본템입니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "지오다노 라운드 반팔 면티",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "24050",
+    "url": "https://link.coupang.com/a/ej5Zze",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.8,
+    "reviewCount": 2452,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-07 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,050원 · 별점 4.8 · 리뷰 2,452개</span>
+    <a href="https://link.coupang.com/a/ej5Zze" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -188,53 +48,231 @@ description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">23,500</text>
 
-    <path d="M 68 155 L 86 119 L 104 126 L 122 126 L 140 164 L 158 169 L 176 178 L 194 178 L 211 178 L 229 84 L 247 84 L 265 84 L 283 129 L 301 132 L 319 132 L 337 140 L 355 140 L 373 155 L 391 169 L 409 155 L 427 170 L 445 170 L 462 84 L 480 84 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 155 L 86 119 L 104 126 L 122 126 L 140 164 L 158 169 L 176 178 L 194 178 L 211 178 L 229 84 L 247 84 L 265 84 L 283 129 L 301 132 L 319 132 L 337 140 L 355 140 L 373 155 L 391 169 L 409 155 L 427 170 L 445 170 L 462 84 L 480 84 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 84" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="119" r="4" fill="#fdba74"></circle>
+    <path d="M 68 119 L 86 126 L 104 126 L 122 164 L 140 169 L 158 178 L 176 178 L 194 178 L 211 84 L 229 84 L 247 84 L 265 129 L 283 132 L 301 132 L 319 140 L 337 140 L 355 155 L 373 169 L 391 155 L 409 170 L 427 170 L 445 84 L 462 84 L 480 84 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 119 L 86 126 L 104 126 L 122 164 L 140 169 L 158 178 L 176 178 L 194 178 L 211 84 L 229 84 L 247 84 L 265 129 L 283 132 L 301 132 L 319 140 L 337 140 L 355 155 L 373 169 L 391 155 L 409 170 L 427 170 L 445 84 L 462 84 L 480 84 L 498 84 L 516 84 L 534 84 L 552 84 L 570 84 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="126" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="178" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="178" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="132" r="4" fill="#fdba74"></circle>
     <circle cx="301" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="140" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="170" r="4" fill="#fdba74"></circle>
     <circle cx="427" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="84" r="5" fill="#ea580c"></circle>
+    <circle cx="445" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="94" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="72" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,120원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,050원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,790원</span>
-    <a href="https://link.coupang.com/a/ej5Zze" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3bda/b77a0d3bea84cb21a4e019ca77639f305a91368730477c8e3c793bdc10aa.jpg
+title: 지오다노 라운드 반팔 면티 구매 가이드
+date: 2026-04-07
+description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드러운 착용감을 제공하며, 교복 이너나 데일리룩에 활용하기 좋은 스테디셀러 기본템입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -311,13 +349,8 @@ A. 건조기 사용 시 다른 면 제품보다 다소 수축이 발생할 수 �
 Q. 사이즈는 어떻게 선택하는 것이 좋을까요?
 A. 이 제품은 정사이즈로 출시되어 평소 입는 사이즈로 구매하는 것이 일반적입니다. 다만, 여유 있는 핏을 선호하거나 건조기 사용으로 인한 수축을 고려한다면 한 사이즈 업을 선택하는 것도 좋은 방법입니다. 넉넉한 핏은 움직임을 더욱 편안하게 해줍니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,790원</span>
-    <a href="https://link.coupang.com/a/ej5Zze" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 
 ---
@@ -326,3 +359,18 @@ A. 이 제품은 정사이즈로 출시되어 평소 입는 사이즈로 구매�
 - [[내돈내산리뷰] 지오다노_평촌점_ 라운드 반팔 면티 3팩 _01243801](https://sangki19.tistory.com/entry/%EB%82%B4%EB%8F%88%EB%82%B4%EC%82%B0%EB%A6%AC%EB%B7%B0-%EC%A7%80%EC%98%A4%EB%8B%A4%EB%85%B8%ED%8F%89%EC%B4%8C%EC%A0%90-%EB%9D%BC%EC%9A%B4%EB%93%9C-%EB%B0%98%ED%8C%94-%EB%A9%B4%ED%8B%B0-3%ED%8C%A9-01243801)
 - [[재입고] 지오다노 면티 3팩 무지티 라운드티- 이랜드몰](http://www.elandmall.co.kr/i/item?itemNo=2206842585&lowerVendNo=LV20024480)
 - [최고급 지오다노반팔티 지오다노 남자 면100⁒ 기본 무지 라운드 반팔 티셔츠(공용,퍼펙트티) 025530 쿠폰적용 : 네이버 블로그](https://m.blog.naver.com/rym36inm/224138597745)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 24,050원 · 별점 4.8 · 리뷰 2,452개</span>
+    <a href="https://link.coupang.com/a/ej5Zze" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

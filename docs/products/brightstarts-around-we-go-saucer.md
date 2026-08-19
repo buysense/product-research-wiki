@@ -1,182 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/441647074689842-4c6ae6c6-9443-43e3-8501-c5535aad276b.jpg
-title: 브라이트스타트 2in1 어라운드 위고 쏘서 구매 가이드
-date: 2026-04-13
-description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 이상 아기에게 안전한 놀이 공간과 걸음마 연습 기회를 제공하며, 부모에게는 잠시의 휴식 시간을 선물하는 활동 센터입니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "브라이트스타트 2in1 어라운드 위고 쏘서",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "130550",
+    "url": "https://link.coupang.com/a/en8x7i",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.6,
+    "reviewCount": 98,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-13 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 130,550원 · 별점 4.6 · 리뷰 98개</span>
+    <a href="https://link.coupang.com/a/en8x7i" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -188,47 +48,226 @@ description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">125,000</text>
 
-    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 113 L 158 119 L 176 119 L 194 119 L 211 131 L 229 131 L 247 131 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 119 L 373 71 L 391 105 L 409 105 L 427 105 L 445 105 L 462 103 L 480 103 L 498 103 L 516 113 L 534 113 L 552 113 L 570 113 L 588 113 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 113 L 158 119 L 176 119 L 194 119 L 211 131 L 229 131 L 247 131 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 119 L 373 71 L 391 105 L 409 105 L 427 105 L 445 105 L 462 103 L 480 103 L 498 103 L 516 113 L 534 113 L 552 113 L 570 113 L 588 113" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 119 L 158 119 L 176 119 L 194 131 L 211 131 L 229 131 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 119 L 355 71 L 373 105 L 391 105 L 409 105 L 427 105 L 445 103 L 462 103 L 480 103 L 498 113 L 516 113 L 534 113 L 552 113 L 570 113 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 119 L 158 119 L 176 119 L 194 131 L 211 131 L 229 131 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 119 L 355 71 L 373 105 L 391 105 L 409 105 L 427 105 L 445 103 L 462 103 L 480 103 L 498 113 L 516 113 L 534 113 L 552 113 L 570 113 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="113" r="5" fill="#ea580c"></circle>
+    <circle cx="122" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="94" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="101" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">129,270원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">130,550원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 137,000원</span>
-    <a href="https://link.coupang.com/a/en8x7i" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/441647074689842-4c6ae6c6-9443-43e3-8501-c5535aad276b.jpg
+title: 브라이트스타트 2in1 어라운드 위고 쏘서 구매 가이드
+date: 2026-04-13
+description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 이상 아기에게 안전한 놀이 공간과 걸음마 연습 기회를 제공하며, 부모에게는 잠시의 휴식 시간을 선물하는 활동 센터입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -312,13 +351,8 @@ A. 아기가 쏘서 안에서 안전하게 집중하여 노는 동안, 부모는
 Q. 놀이 테이블로 전환하는 방법은 무엇인가요?  
 A. 아기가 더 이상 보행기 시트를 사용하기 어렵거나, 여러 명이 함께 놀 때 시트를 제거하여 놀이 테이블로 활용할 수 있습니다. 시트는 간단히 분리할 수 있도록 설계되어 있습니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 137,000원</span>
-    <a href="https://link.coupang.com/a/en8x7i" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -341,3 +375,18 @@ A. 아기가 더 이상 보행기 시트를 사용하기 어렵거나, 여러 �
 - [브라이트스타트 어라운드위고 대여 후기ㅣ6-8개월 장난감, 놀이 : 네이버 블로그](https://m.blog.naver.com/ckgoa12/224181180578)
 - [브라이트스타트 어라운드 위고 사용시기 최애 걸음마 6개월장난감 : 네이버 블로그](https://m.blog.naver.com/p_platform/223022338621)
 - [브라이트스타트 2in1 어라운드 위고 쏘서, 그린 가격 비교 리뷰 추천 : 네이버 블로그](https://m.blog.naver.com/e7n6obey/223519120299)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 130,550원 · 별점 4.6 · 리뷰 98개</span>
+    <a href="https://link.coupang.com/a/en8x7i" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

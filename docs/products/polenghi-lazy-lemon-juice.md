@@ -1,178 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1221277550506257-df96e6eb-1620-499c-9df8-9f4c16dad5ce.jpg
-title: 폴렝기 레이지 레몬주스 구매 가이드
-date: 2026-04-14
-description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 레몬으로 만든 100% 원액 레몬즙입니다. 상큼한 레몬수로 즐기거나, 다양한 요리의 풍미를 더하는 데 활용되며, 다이어트 및 건강 관리 식단에도 적합합니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "폴렝기 레이지 레몬주스",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "7800",
+    "url": "https://link.coupang.com/a/eoEMV2",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.8,
+    "reviewCount": 6911,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-14 · 최종 가격 확인일: 2026-04-14 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,800원 · 별점 4.8 · 리뷰 6,911개</span>
+    <a href="https://link.coupang.com/a/eoEMV2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -184,46 +48,220 @@ description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
 
-    <path d="M 68 122 L 86 82 L 104 82 L 122 82 L 140 82 L 158 26 L 176 114 L 194 112 L 211 26 L 229 26 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 65 L 534 110 L 552 82 L 570 123 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 122 L 86 82 L 104 82 L 122 82 L 140 82 L 158 26 L 176 114 L 194 112 L 211 26 L 229 26 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 65 L 534 110 L 552 82 L 570 123 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="112" r="4" fill="#fdba74"></circle>
+    <path d="M 68 82 L 86 82 L 104 82 L 122 82 L 140 26 L 158 114 L 176 112 L 194 26 L 211 26 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 65 L 516 110 L 534 82 L 552 123 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 82 L 86 82 L 104 82 L 122 82 L 140 26 L 158 114 L 176 112 L 194 26 L 211 26 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 65 L 516 110 L 534 82 L 552 123 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="211" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,970원</span>
-    <a href="https://link.coupang.com/a/eoEMV2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1221277550506257-df96e6eb-1620-499c-9df8-9f4c16dad5ce.jpg
+title: 폴렝기 레이지 레몬주스 구매 가이드
+date: 2026-04-14
+description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 레몬으로 만든 100% 원액 레몬즙입니다. 상큼한 레몬수로 즐기거나, 다양한 요리의 풍미를 더하는 데 활용되며, 다이어트 및 건강 관리 식단에도 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -299,13 +337,8 @@ A. 코셔(Kosher) 인증은 유대교 율법에 따라 원재료부터 최종 �
 Q. 보관 방법과 유통기한은 어떻게 되나요?  
 A. 폴렝기 레이지 레몬주스는 유통기한이 넉넉한 편입니다. 개봉 전에는 서늘하고 건조한 곳에 보관하며, 개봉 후에는 반드시 냉장 보관하고 가급적 3개월 이내에 모두 사용하는 것이 좋습니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,970원</span>
-    <a href="https://link.coupang.com/a/eoEMV2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -326,3 +359,18 @@ A. 폴렝기 레이지 레몬주스는 유통기한이 넉넉한 편입니다. �
 - [폴렝기 라스 레이지 레몬주스 하나면 홈메이드 레몬에이드 뚝딱! : 네이버 블로그](https://m.blog.naver.com/g1230love/222335267570)
 - [<리코타치즈만들기> 상큼함이 매력인 폴렝기 라스(Polenghi LAS) 레이지 레몬주스, 레이지 라임쥬스!! : 네이버 블로그](https://m.blog.naver.com/clover_sky/222332887450)
 - [레몬디톡스 천연맛 그대로인 레이지 레몬주스로!! : 네이버 블로그](https://m.blog.naver.com/rmawlrdl76/220952209841)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,800원 · 별점 4.8 · 리뷰 6,911개</span>
+    <a href="https://link.coupang.com/a/eoEMV2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

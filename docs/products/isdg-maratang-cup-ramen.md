@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/33a0/f7863052d899a6d9d7946a1c0035a580fa73d7bf49621c8306ba8ec9bd29.jpg
-title: iSDG 마라탕 컵라면 구매 가이드
-date: 2026-04-17
-description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼하고 진한 마라맛이 특징입니다. 집에서 간편하게 마라탕을 즐기거나 스트레스를 풀고 싶을 때 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "iSDG 마라탕 컵라면",
-  "description": "iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼하고 진한 마라맛이 특징입니다. 집에서 간편하게 마라탕을 즐기거나 스트레스를 풀고 싶을 때 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/33a0/f7863052d899a6d9d7946a1c0035a580fa73d7bf49621c8306ba8ec9bd29.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/122e/e94283407fad0ce2e2c656a92dd8792ba362f4fd880b53b18878e0d807e1.jpg"
@@ -17,23 +11,89 @@ description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "25180",
+    "price": "39500",
     "url": "https://link.coupang.com/a/eqHujA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 397,
+    "reviewCount": 472,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-17 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 39,500원 · 별점 4.8 · 리뷰 472개</span>
+    <a href="https://link.coupang.com/a/eqHujA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
+
+    <path d="M 68 125 L 86 125 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 130 L 301 130 L 319 130 L 337 130 L 355 128 L 373 128 L 391 128 L 409 128 L 427 128 L 445 128 L 462 139 L 480 139 L 498 139 L 516 139 L 534 139 L 552 139 L 570 139 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 86 125 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 130 L 301 130 L 319 130 L 337 130 L 355 128 L 373 128 L 391 128 L 409 128 L 427 128 L 445 128 L 462 139 L 480 139 L 498 139 L 516 139 L 534 139 L 552 139 L 570 139 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="130" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="130" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="139" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="30" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">39,500원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/33a0/f7863052d899a6d9d7946a1c0035a580fa73d7bf49621c8306ba8ec9bd29.jpg
+title: iSDG 마라탕 컵라면 구매 가이드
+date: 2026-04-17
+description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼하고 진한 마라맛이 특징입니다. 집에서 간편하게 마라탕을 즐기거나 스트레스를 풀고 싶을 때 적합합니다.
+---
+
+
+
+
 ## 참고한 글
 
 
@@ -208,52 +268,10 @@ description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼�
 
 
 
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">27,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
 
-    <path d="M 68 33 L 86 33 L 104 33 L 122 142 L 140 142 L 158 142 L 176 142 L 194 142 L 211 142 L 229 142 L 247 142 L 265 142 L 283 142 L 301 78 L 319 78 L 337 78 L 355 78 L 373 56 L 391 56 L 409 56 L 427 56 L 445 56 L 462 56 L 480 164 L 498 164 L 516 164 L 534 164 L 552 164 L 570 164 L 588 164 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 33 L 86 33 L 104 33 L 122 142 L 140 142 L 158 142 L 176 142 L 194 142 L 211 142 L 229 142 L 247 142 L 265 142 L 283 142 L 301 78 L 319 78 L 337 78 L 355 78 L 373 56 L 391 56 L 409 56 L 427 56 L 445 56 L 462 56 L 480 164 L 498 164 L 516 164 L 534 164 L 552 164 L 570 164 L 588 164" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="33" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="33" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="164" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="152" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">25,180원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 25,180원 · 별점 4.8 · 리뷰 397개</span>
-    <a href="https://link.coupang.com/a/eqHujA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
 
 
 
@@ -268,9 +286,11 @@ description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼�
 ## 상품 개요
 iSDG 마라탕 컵라면은 일본 현지 편의점의 마라탕 감성을 담아낸 제품으로, 얼얼하고 진한 마라 맛이 특징입니다. 일본 여행 중 경험했던 맛을 그리워하거나, 집에서 간편하게 마라탕을 즐기고 싶을 때, 또는 일상의 스트레스를 매운맛으로 풀고 싶을 때 적합합니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/33a0/f7863052d899a6d9d7946a1c0035a580fa73d7bf49621c8306ba8ec9bd29.jpg" alt="iSDG 마라탕 컵라면" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -329,10 +349,17 @@ A. 일반 라면 면이 아닌 쫀득한 당면을 사용하여 식감이 독특
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 25,180원 · 별점 4.8 · 리뷰 397개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 39,500원 · 별점 4.8 · 리뷰 472개</span>
     <a href="https://link.coupang.com/a/eqHujA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

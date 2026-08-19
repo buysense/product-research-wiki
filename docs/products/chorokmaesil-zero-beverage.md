@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9c3c/a01f5016eece9bfa5c70b3161636c2bbe6a54124536b5d4e7863cbb69c34.jpg
-title: 초록매실 제로 구매 가이드
-date: 2026-04-28
-description: 초록매실 제로는 칼로리 부담 없이 기존 초록매실의 상큼하고 달콤한 맛을 즐길 수 있는 음료입니다. 건강 관리에 신경 쓰는 소비자들이 식후 입가심이나 갈증 해소를 위해 선택하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "초록매실 제로",
-  "description": "초록매실 제로는 칼로리 부담 없이 기존 초록매실의 상큼하고 달콤한 맛을 즐길 수 있는 음료입니다. 건강 관리에 신경 쓰는 소비자들이 식후 입가심이나 갈증 해소를 위해 선택하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9c3c/a01f5016eece9bfa5c70b3161636c2bbe6a54124536b5d4e7863cbb69c34.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3999983140357076-0bcb4ce1-2756-4a6a-9a6d-1bb97b8c8964.png"
@@ -17,196 +11,38 @@ description: 초록매실 제로는 칼로리 부담 없이 기존 초록매실�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "23460",
+    "price": "20900",
     "url": "https://link.coupang.com/a/ex5OSZ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 10314,
+    "reviewCount": 10673,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-28 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,900원 · 별점 4.8 · 리뷰 10,673개</span>
+    <a href="https://link.coupang.com/a/ex5OSZ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -218,59 +54,240 @@ description: 초록매실 제로는 칼로리 부담 없이 기존 초록매실�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 81 L 86 43 L 104 43 L 122 43 L 140 26 L 158 26 L 176 43 L 194 26 L 211 81 L 229 81 L 247 26 L 265 50 L 283 81 L 301 81 L 319 81 L 337 119 L 355 50 L 373 52 L 391 52 L 409 40 L 427 41 L 445 41 L 462 68 L 480 68 L 498 88 L 516 47 L 534 109 L 552 109 L 570 47 L 588 47 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 81 L 86 43 L 104 43 L 122 43 L 140 26 L 158 26 L 176 43 L 194 26 L 211 81 L 229 81 L 247 26 L 265 50 L 283 81 L 301 81 L 319 81 L 337 119 L 355 50 L 373 52 L 391 52 L 409 40 L 427 41 L 445 41 L 462 68 L 480 68 L 498 88 L 516 47 L 534 109 L 552 109 L 570 47 L 588 47" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="43" r="4" fill="#fdba74"></circle>
+    <path d="M 68 43 L 86 43 L 104 43 L 122 26 L 140 26 L 158 43 L 176 26 L 194 81 L 211 81 L 229 26 L 247 50 L 265 81 L 283 81 L 301 81 L 319 119 L 337 50 L 355 52 L 373 52 L 391 40 L 409 41 L 427 41 L 445 68 L 462 68 L 480 88 L 498 47 L 516 109 L 534 109 L 552 47 L 570 47 L 588 144 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 43 L 86 43 L 104 43 L 122 26 L 140 26 L 158 43 L 176 26 L 194 81 L 211 81 L 229 26 L 247 50 L 265 81 L 283 81 L 301 81 L 319 119 L 337 50 L 355 52 L 373 52 L 391 40 L 409 41 L 427 41 L 445 68 L 462 68 L 480 88 L 498 47 L 516 109 L 534 109 L 552 47 L 570 47 L 588 144" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="81" r="4" fill="#fdba74"></circle>
     <circle cx="211" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="52" r="4" fill="#fdba74"></circle>
     <circle cx="373" cy="52" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="52" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="41" r="4" fill="#fdba74"></circle>
     <circle cx="427" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="68" r="4" fill="#fdba74"></circle>
     <circle cx="462" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="109" r="4" fill="#fdba74"></circle>
     <circle cx="534" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="47" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="47" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="144" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="35" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,460원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="132" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">20,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,460원 · 별점 4.8 · 리뷰 10,314개</span>
-    <a href="https://link.coupang.com/a/ex5OSZ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9c3c/a01f5016eece9bfa5c70b3161636c2bbe6a54124536b5d4e7863cbb69c34.jpg
+title: 초록매실 제로 구매 가이드
+date: 2026-04-28
+description: 초록매실 제로는 칼로리 부담 없이 기존 초록매실의 상큼하고 달콤한 맛을 즐길 수 있는 음료입니다. 건강 관리에 신경 쓰는 소비자들이 식후 입가심이나 갈증 해소를 위해 선택하기 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -287,9 +304,11 @@ description: 초록매실 제로는 칼로리 부담 없이 기존 초록매실�
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9c3c/a01f5016eece9bfa5c70b3161636c2bbe6a54124536b5d4e7863cbb69c34.jpg" alt="초록매실 제로" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -359,10 +378,17 @@ A. 네, 초록매실 제로는 설탕 대신 단맛을 내기 위해 수크랄�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,460원 · 별점 4.8 · 리뷰 10,314개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,900원 · 별점 4.8 · 리뷰 10,673개</span>
     <a href="https://link.coupang.com/a/ex5OSZ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/cf43bf7f-7581-472b-91aa-a026ecf8e6c43665077443419910164.png
-title: 기픈물 저스트 종이팩 해양심층수 구매 가이드
-date: 2026-07-29
-description: 기픈물 저스트 종이팩 해양심층수는 미세플라스틱 걱정 없이 깨끗하고 부드러운 물을 찾는 임산부, 환자, 아이를 포함한 온 가족의 일상 음용에 적합한 친환경 생수입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "기픈물 저스트 종이팩 해양심층수",
-  "description": "기픈물 저스트 종이팩 해양심층수는 미세플라스틱 걱정 없이 깨끗하고 부드러운 물을 찾는 임산부, 환자, 아이를 포함한 온 가족의 일상 음용에 적합한 친환경 생수입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/cf43bf7f-7581-472b-91aa-a026ecf8e6c43665077443419910164.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/264959072450673-eed6121b-b09f-4daf-a918-a2f099b587c1.jpg"
@@ -17,76 +11,103 @@ description: 기픈물 저스트 종이팩 해양심층수는 미세플라스틱
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "24000",
+    "price": "22800",
     "url": "https://link.coupang.com/a/fL0FRWA5Js",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.8,
-    "reviewCount": 15906,
+    "ratingValue": 4.7,
+    "reviewCount": 17128,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 8개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">24,100</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">23,900</text>
-
-    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,000원 · 별점 4.8 · 리뷰 15,906개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,800원 · 별점 4.7 · 리뷰 17,128개</span>
     <a href="https://link.coupang.com/a/fL0FRWA5Js" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">23,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
+
+    <path d="M 68 26 L 133 26 L 198 26 L 263 26 L 328 26 L 393 26 L 458 26 L 523 26 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 133 26 L 198 26 L 263 26 L 328 26 L 393 26 L 458 26 L 523 26 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="523" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/cf43bf7f-7581-472b-91aa-a026ecf8e6c43665077443419910164.png
+title: 기픈물 저스트 종이팩 해양심층수 구매 가이드
+date: 2026-07-29
+description: 기픈물 저스트 종이팩 해양심층수는 미세플라스틱 걱정 없이 깨끗하고 부드러운 물을 찾는 임산부, 환자, 아이를 포함한 온 가족의 일상 음용에 적합한 친환경 생수입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 상품 개요
 기픈물 저스트 종이팩 해양심층수는 미세플라스틱과 환경호르몬 걱정 없이 깨끗한 물을 마시고자 하는 소비자를 위한 제품입니다. 임신 준비 중이거나 항암 치료 중인 가족, 아이를 둔 가정 등 물의 안전성과 품질에 민감한 상황에서 안심하고 음용하기 적합하며, 깔끔하고 부드러운 물맛으로 일상에서 편안하게 즐기기 좋습니다. 친환경 종이팩 패키지로 환경 보호를 고려하는 소비자에게도 만족감을 제공합니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/cf43bf7f-7581-472b-91aa-a026ecf8e6c43665077443419910164.png" alt="기픈물 저스트 종이팩 해양심층수" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -146,10 +167,17 @@ A. 임신 준비 중이거나 면역력이 약해 깨끗한 물이 필요한 경
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 24,000원 · 별점 4.8 · 리뷰 15,906개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,800원 · 별점 4.7 · 리뷰 17,128개</span>
     <a href="https://link.coupang.com/a/fL0FRWA5Js" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

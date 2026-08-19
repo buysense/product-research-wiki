@@ -1,45 +1,63 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1664/74c56e19e4170d3aefa8e3ba4a86ea2221055f03e66a2c31bfeeb36c8cfc.jpg
-title: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK 구매 가이드
-date: 2026-08-07
-description: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK는 도시적인 스트릿 패션과 일상적인 캐주얼 착장에 어울리는 하이탑 스니커즈입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "다이닛 DEINET HIGH TOP SNEAKERS IN BLACK",
-  "description": "다이닛 DEINET HIGH TOP SNEAKERS IN BLACK는 도시적인 스트릿 패션과 일상적인 캐주얼 착장에 어울리는 하이탑 스니커즈입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1664/74c56e19e4170d3aefa8e3ba4a86ea2221055f03e66a2c31bfeeb36c8cfc.jpg"
   ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "162700",
+    "price": "147700",
     "url": "https://link.coupang.com/a/f1BdCzxAei",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-14"
+    "priceValidUntil": "2026-08-26"
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-07 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 162,700원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 147,700원</span>
     <a href="https://link.coupang.com/a/f1BdCzxAei" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1664/74c56e19e4170d3aefa8e3ba4a86ea2221055f03e66a2c31bfeeb36c8cfc.jpg
+title: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK 구매 가이드
+date: 2026-08-07
+description: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK는 도시적인 스트릿 패션과 일상적인 캐주얼 착장에 어울리는 하이탑 스니커즈입니다.
+---
+
+
+
+
+
+
+
 ## 상품 개요
 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK는 발목을 덮는 디자인과 블랙 색상이 특징인 하이탑 스니커즈입니다. 도시적인 스트릿 패션이나 개성 있는 일상 캐주얼룩을 연출하고자 할 때 주로 선택되며, 다양한 의상과 매치하여 스타일링의 폭을 넓히는 데 활용됩니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1664/74c56e19e4170d3aefa8e3ba4a86ea2221055f03e66a2c31bfeeb36c8cfc.jpg" alt="다이닛 DEINET HIGH TOP SNEAKERS IN BLACK" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -95,10 +113,17 @@ A. 갑피에 사용된 인조 가죽과 캔버스 소재는 부드러운 천에 
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 162,700원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 147,700원</span>
     <a href="https://link.coupang.com/a/f1BdCzxAei" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

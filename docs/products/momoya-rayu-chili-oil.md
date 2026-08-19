@@ -1,176 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4cb7/4df4203bf9975ee0ba6dce952b2b632403f2e898722bb6294e314716238b.jpg
-title: 모모야 라유 구매 가이드
-date: 2026-04-10
-description: 모모야 라유는 튀긴 마늘과 양파의 바삭한 식감, 고소함, 부담 없는 매콤함이 특징인 일본식 고추기름으로, 밥, 면, 만두 등 다양한 요리에 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "모모야 라유",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "5860",
+    "url": "https://link.coupang.com/a/elQ30I",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.7,
+    "reviewCount": 4615,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-10 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,860원 · 별점 4.7 · 리뷰 4,615개</span>
+    <a href="https://link.coupang.com/a/elQ30I" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -182,39 +48,212 @@ description: 모모야 라유는 튀긴 마늘과 양파의 바삭한 식감, �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 57 L 86 57 L 104 57 L 122 57 L 140 57 L 158 57 L 176 57 L 194 57 L 211 57 L 229 57 L 247 57 L 265 57 L 283 57 L 301 57 L 319 57 L 337 57 L 355 57 L 373 57 L 391 57 L 409 57 L 427 146 L 445 146 L 462 146 L 480 146 L 498 146 L 516 129 L 534 97 L 552 96 L 570 96 L 588 96 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 57 L 86 57 L 104 57 L 122 57 L 140 57 L 158 57 L 176 57 L 194 57 L 211 57 L 229 57 L 247 57 L 265 57 L 283 57 L 301 57 L 319 57 L 337 57 L 355 57 L 373 57 L 391 57 L 409 57 L 427 146 L 445 146 L 462 146 L 480 146 L 498 146 L 516 129 L 534 97 L 552 96 L 570 96 L 588 96" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 57 L 86 57 L 104 57 L 122 57 L 140 57 L 158 57 L 176 57 L 194 57 L 211 57 L 229 57 L 247 57 L 265 57 L 283 57 L 301 57 L 319 57 L 337 57 L 355 57 L 373 57 L 391 57 L 409 146 L 427 146 L 445 146 L 462 146 L 480 146 L 498 129 L 516 97 L 534 96 L 552 96 L 570 96 L 588 107 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 57 L 86 57 L 104 57 L 122 57 L 140 57 L 158 57 L 176 57 L 194 57 L 211 57 L 229 57 L 247 57 L 265 57 L 283 57 L 301 57 L 319 57 L 337 57 L 355 57 L 373 57 L 391 57 L 409 146 L 427 146 L 445 146 L 462 146 L 480 146 L 498 129 L 516 97 L 534 96 L 552 96 L 570 96 L 588 107" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="97" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="96" r="5" fill="#ea580c"></circle>
+    <circle cx="391" cy="57" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="97" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="96" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="96" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="107" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="84" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,150원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="95" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,860원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,410원</span>
-    <a href="https://link.coupang.com/a/elQ30I" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4cb7/4df4203bf9975ee0ba6dce952b2b632403f2e898722bb6294e314716238b.jpg
+title: 모모야 라유 구매 가이드
+date: 2026-04-10
+description: 모모야 라유는 튀긴 마늘과 양파의 바삭한 식감, 고소함, 부담 없는 매콤함이 특징인 일본식 고추기름으로, 밥, 면, 만두 등 다양한 요리에 활용하기 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -314,13 +353,8 @@ A. 모모야 라유는 냉장 보관 시에도 기름이 굳지 않아 편리하
 Q. 일본 현지에서 구매하는 것과 직구/국내 구매의 차이가 있나요?  
 A. 제품 자체의 품질에는 큰 차이가 없지만, 일본 현지(예: 돈키호테)에서 구매 시에는 면세 혜택 등으로 더 저렴한 가격에 구매할 수 있는 경우가 많습니다. 국내에서 구매 시에는 배송비나 유통 마진이 붙어 가격이 더 높을 수 있으나, 빠르고 간편하게 제품을 받아볼 수 있다는 장점이 있습니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,410원</span>
-    <a href="https://link.coupang.com/a/elQ30I" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -338,3 +372,18 @@ A. 제품 자체의 품질에는 큰 차이가 없지만, 일본 현지(예: 돈
 - [Momoya Chili Oil Review — Flavor Index Lab](https://flavorindexlab.com/momoya-chili-oil-review/)
 - [LOHACO - 桃屋 辛そうで辛くない少し辛いラー油 110g 3個 評価・レビュー](https://lohaco.yahoo.co.jp/review/product/h-lohaco/x927365/?srsltid=AfmBOooWjRmIj02MIwAihBJaJ1q8It8q51Tz73SgGBpskq51qhAj--er)
 - [【楽天市場】桃屋の辛そうで辛くない少し辛いラー油 業務用(800g)[食べるラー油 ラー油 サラダ 業務用 大容量](楽天24) | みんなのレビュー·口コミ・評判](https://review.rakuten.co.jp/item/1/261122_10925625/1.1/)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,860원 · 별점 4.7 · 리뷰 4,615개</span>
+    <a href="https://link.coupang.com/a/elQ30I" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/21/9/9/ba5239e3-bfaf-4bc2-9820-4d116a85630f.png
-title: 해태제과 홈런볼 옥수수콘크림맛 구매 가이드
-date: 2026-06-25
-description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤한 옥수수 맛을 특징으로 하는 과자로, 특히 냉장/냉동 보관 후 시원하게 즐기기 좋은 간식입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "해태제과 홈런볼 옥수수콘크림맛",
-  "description": "해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤한 옥수수 맛을 특징으로 하는 과자로, 특히 냉장/냉동 보관 후 시원하게 즐기기 좋은 간식입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/21/9/9/ba5239e3-bfaf-4bc2-9820-4d116a85630f.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/21/9/2/bef7c676-2264-47cc-9d31-f9af588c38b8.jpg"
@@ -17,92 +11,38 @@ description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "6080",
+    "price": "5580",
     "url": "https://link.coupang.com/a/eR8E562Kzs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 195,
+    "reviewCount": 248,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-25 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,580원 · 별점 4.7 · 리뷰 248개</span>
+    <a href="https://link.coupang.com/a/eR8E562Kzs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -114,44 +54,122 @@ description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 45 L 158 45 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 119 L 283 119 L 301 119 L 319 119 L 337 26 L 355 26 L 373 45 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 45 L 158 45 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 119 L 283 119 L 301 119 L 319 119 L 337 26 L 355 26 L 373 45 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 45 L 140 45 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 119 L 265 119 L 283 119 L 301 119 L 319 26 L 337 26 L 355 45 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 58 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 45 L 140 45 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 119 L 265 119 L 283 119 L 301 119 L 319 26 L 337 26 L 355 45 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 58" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="45" r="4" fill="#fdba74"></circle>
     <circle cx="140" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <circle cx="355" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="58" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,080원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="46" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,580원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,080원 · 별점 4.7 · 리뷰 195개</span>
-    <a href="https://link.coupang.com/a/eR8E562Kzs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/21/9/9/ba5239e3-bfaf-4bc2-9820-4d116a85630f.png
+title: 해태제과 홈런볼 옥수수콘크림맛 구매 가이드
+date: 2026-06-25
+description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤한 옥수수 맛을 특징으로 하는 과자로, 특히 냉장/냉동 보관 후 시원하게 즐기기 좋은 간식입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -159,9 +177,11 @@ description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤
 ## 상품 개요
 해태제과 홈런볼 옥수수콘크림맛은 부드러운 슈 안에 달콤하고 고소한 옥수수콘크림이 채워진 과자입니다. 특히 차갑게 얼려 먹을 때 옥수수 아이스크림과 같은 시원하고 단단한 식감을 즐길 수 있어, 옥수수 맛 디저트를 선호하거나 색다른 홈런볼 맛을 경험하고 싶은 소비자들에게 간식으로 적합합니다. 이 제품은 특히 여름철 시원하게 즐길 수 있는 형태로 출시되어, 가볍고 부담 없이 즐기기 좋습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/21/9/9/ba5239e3-bfaf-4bc2-9820-4d116a85630f.png" alt="해태제과 홈런볼 옥수수콘크림맛" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -215,10 +235,17 @@ A. 한 봉지당 39g으로, 간식으로 가볍게 즐기기 좋은 양입니다
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,080원 · 별점 4.7 · 리뷰 195개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,580원 · 별점 4.7 · 리뷰 248개</span>
     <a href="https://link.coupang.com/a/eR8E562Kzs" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/64ff/7f57a2582df9931154a48a6a49ed3c55532e0a266d8e853552b2b221e045.jpg
-title: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드 구매 가이드
-date: 2026-05-27
-description: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많은 아기의 숙면을 돕고 땀띠 걱정을 줄여주는 냉감 침구로, 여름철 아기 침대나 유모차에서 쾌적한 환경을 제공합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "듀라쿨텍 KC인증 국산 아기 침대 냉감패드",
-  "description": "듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많은 아기의 숙면을 돕고 땀띠 걱정을 줄여주는 냉감 침구로, 여름철 아기 침대나 유모차에서 쾌적한 환경을 제공합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/64ff/7f57a2582df9931154a48a6a49ed3c55532e0a266d8e853552b2b221e045.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/52a1/6738bd9978265aa70768b380ead6c9fde5dea56ebf02860bf53e10d1cc44.jpg"
@@ -20,145 +14,35 @@ description: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많�
     "price": "16900",
     "url": "https://link.coupang.com/a/d5Wv6G8EIS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 323,
+    "reviewCount": 328,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-27 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,900원 · 별점 4.9 · 리뷰 328개</span>
+    <a href="https://link.coupang.com/a/d5Wv6G8EIS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -170,35 +54,168 @@ description: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,500</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 117 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 117 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="117" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,900원 · 별점 4.9 · 리뷰 323개</span>
-    <a href="https://link.coupang.com/a/d5Wv6G8EIS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/64ff/7f57a2582df9931154a48a6a49ed3c55532e0a266d8e853552b2b221e045.jpg
+title: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드 구매 가이드
+date: 2026-05-27
+description: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많은 아기의 숙면을 돕고 땀띠 걱정을 줄여주는 냉감 침구로, 여름철 아기 침대나 유모차에서 쾌적한 환경을 제공합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -206,9 +223,11 @@ description: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많�
 ## 상품 개요
 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열이 많아 잠자리에서 땀을 많이 흘리거나 뒤척이는 아기를 위해 숙면을 돕고 쾌적한 환경을 제공하는 냉감 침구입니다. KC 인증(한국 어린이 제품 안전 특별법에 따른 안전 인증) 및 라돈 안전 인증을 받은 국산 제품으로 신생아부터 안심하고 사용할 수 있으며, 아기 침대뿐만 아니라 유모차 라이너, 거실 매트 등 다양한 환경에서 시원함을 선사합니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/64ff/7f57a2582df9931154a48a6a49ed3c55532e0a266d8e853552b2b221e045.jpg" alt="듀라쿨텍 KC인증 국산 아기 침대 냉감패드" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -268,10 +287,17 @@ A. 네, 아기 침대 외에도 유모차 라이너, 거실 매트, 역방쿠션
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,900원 · 별점 4.9 · 리뷰 323개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,900원 · 별점 4.9 · 리뷰 328개</span>
     <a href="https://link.coupang.com/a/d5Wv6G8EIS" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

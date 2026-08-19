@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a354/eeafa0219552d8b0a2a02de2eb5a8367d62dd4c4ee3547920a7f6ee30340.jpg
-title: 리뗀클로르 4단 아기트롤리 기저귀 보관함 구매 가이드
-date: 2026-05-20
-description: 리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 기저귀, 손수건 등 아기용품을 위생적으로 보관하고 편리하게 이동하며 사용하기에 적합한 서랍형 보관함입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "리뗀클로르 4단 아기트롤리 기저귀 보관함",
-  "description": "리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 기저귀, 손수건 등 아기용품을 위생적으로 보관하고 편리하게 이동하며 사용하기에 적합한 서랍형 보관함입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a354/eeafa0219552d8b0a2a02de2eb5a8367d62dd4c4ee3547920a7f6ee30340.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/bedn5hki/e9734201bf87411cbd1fa1cb7adb1d61.jpg"
@@ -17,155 +11,38 @@ description: 리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "51300",
+    "price": "54800",
     "url": "https://link.coupang.com/a/dTYBRvEl2a",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 455,
+    "reviewCount": 467,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 54,800원 · 별점 4.6 · 리뷰 467개</span>
+    <a href="https://link.coupang.com/a/dTYBRvEl2a" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -173,49 +50,189 @@ description: 리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
 
-    <path d="M 68 144 L 86 64 L 104 92 L 122 92 L 140 111 L 158 92 L 176 92 L 194 92 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 71 L 319 71 L 337 71 L 355 71 L 373 71 L 391 71 L 409 71 L 427 71 L 445 71 L 462 71 L 480 71 L 498 71 L 516 138 L 534 92 L 552 92 L 570 92 L 588 92 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 144 L 86 64 L 104 92 L 122 92 L 140 111 L 158 92 L 176 92 L 194 92 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 71 L 319 71 L 337 71 L 355 71 L 373 71 L 391 71 L 409 71 L 427 71 L 445 71 L 462 71 L 480 71 L 498 71 L 516 138 L 534 92 L 552 92 L 570 92 L 588 92" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="92" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="92" r="5" fill="#ea580c"></circle>
+    <path d="M 68 26 L 86 82 L 104 82 L 122 120 L 140 82 L 158 82 L 176 82 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 39 L 301 39 L 319 39 L 337 39 L 355 39 L 373 39 L 391 39 L 409 39 L 427 39 L 445 39 L 462 39 L 480 39 L 498 173 L 516 82 L 534 82 L 552 82 L 570 82 L 588 29 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 82 L 104 82 L 122 120 L 140 82 L 158 82 L 176 82 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 39 L 301 39 L 319 39 L 337 39 L 355 39 L 373 39 L 391 39 L 409 39 L 427 39 L 445 39 L 462 39 L 480 39 L 498 173 L 516 82 L 534 82 L 552 82 L 570 82 L 588 29" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="39" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="39" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="173" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="29" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="80" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">51,300원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="17" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">54,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 51,300원 · 별점 4.6 · 리뷰 455개</span>
-    <a href="https://link.coupang.com/a/dTYBRvEl2a" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a354/eeafa0219552d8b0a2a02de2eb5a8367d62dd4c4ee3547920a7f6ee30340.jpg
+title: 리뗀클로르 4단 아기트롤리 기저귀 보관함 구매 가이드
+date: 2026-05-20
+description: 리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 기저귀, 손수건 등 아기용품을 위생적으로 보관하고 편리하게 이동하며 사용하기에 적합한 서랍형 보관함입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -227,9 +244,11 @@ description: 리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a354/eeafa0219552d8b0a2a02de2eb5a8367d62dd4c4ee3547920a7f6ee30340.jpg" alt="리뗀클로르 4단 아기트롤리 기저귀 보관함" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -302,10 +321,17 @@ A. 네, 부드러운 바퀴가 장착되어 있어 거실, 침실 등 집안 어
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 51,300원 · 별점 4.6 · 리뷰 455개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 54,800원 · 별점 4.6 · 리뷰 467개</span>
     <a href="https://link.coupang.com/a/dTYBRvEl2a" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

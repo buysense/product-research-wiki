@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/18/11/5/cde8b0b0-6272-4870-b1a9-037d2d14792d.jpg
-title: LG전자 QHD 스탠바이미 2 LED TV 구매 가이드
-date: 2026-05-15
-description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭게 이동하며 개인 맞춤형 콘텐츠를 즐길 수 있는 무선 스마트 스크린입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "LG전자 QHD 스탠바이미 2 LED TV",
-  "description": "LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭게 이동하며 개인 맞춤형 콘텐츠를 즐길 수 있는 무선 스마트 스크린입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/18/11/5/cde8b0b0-6272-4870-b1a9-037d2d14792d.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/uphnh4lk/9705565048f04e67b494053caa0fe509.JPG"
@@ -20,164 +14,35 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
     "price": "981690",
     "url": "https://link.coupang.com/a/dL2nfPaZ1U",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 211,
+    "reviewCount": 212,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 981,690원 · 별점 4.9 · 리뷰 212개</span>
+    <a href="https://link.coupang.com/a/dL2nfPaZ1U" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -189,46 +54,198 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,000,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">800,000</text>
 
-    <path d="M 68 138 L 86 138 L 104 138 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 119 L 283 107 L 301 72 L 319 95 L 337 107 L 355 107 L 373 107 L 391 107 L 409 107 L 427 107 L 445 93 L 462 93 L 480 93 L 498 81 L 516 84 L 534 41 L 552 109 L 570 109 L 588 109 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 138 L 86 138 L 104 138 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 119 L 283 107 L 301 72 L 319 95 L 337 107 L 355 107 L 373 107 L 391 107 L 409 107 L 427 107 L 445 93 L 462 93 L 480 93 L 498 81 L 516 84 L 534 41 L 552 109 L 570 109 L 588 109" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 138 L 86 138 L 104 138 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 119 L 265 107 L 283 72 L 301 95 L 319 107 L 337 107 L 355 107 L 373 107 L 391 107 L 409 107 L 427 93 L 445 93 L 462 93 L 480 81 L 498 84 L 516 41 L 534 109 L 552 109 L 570 109 L 588 109 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 138 L 86 138 L 104 138 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 119 L 265 107 L 283 72 L 301 95 L 319 107 L 337 107 L 355 107 L 373 107 L 391 107 L 409 107 L 427 93 L 445 93 L 462 93 L 480 81 L 498 84 L 516 41 L 534 109 L 552 109 L 570 109 L 588 109" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="109" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="109" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="97" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">981,690원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 981,690원 · 별점 4.9 · 리뷰 211개</span>
-    <a href="https://link.coupang.com/a/dL2nfPaZ1U" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/18/11/5/cde8b0b0-6272-4870-b1a9-037d2d14792d.jpg
+title: LG전자 QHD 스탠바이미 2 LED TV 구매 가이드
+date: 2026-05-15
+description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭게 이동하며 개인 맞춤형 콘텐츠를 즐길 수 있는 무선 스마트 스크린입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -238,9 +255,11 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
 ## 상품 개요
 LG전자 QHD 스탠바이미 2 LED TV는 거실, 침실, 주방 등 집안 어디에서든 자유롭게 이동하며 개인 맞춤형 콘텐츠를 즐길 수 있는 무선 스마트 스크린입니다. 27인치 QHD 화면과 터치 조작 기능을 갖춰 침대에서 넷플릭스를 보거나 주방에서 레시피를 확인하는 등 다양한 공간에서 활용되며, 독립적인 콘텐츠 소비 경험을 제공합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/18/11/5/cde8b0b0-6272-4870-b1a9-037d2d14792d.jpg" alt="LG전자 QHD 스탠바이미 2 LED TV" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -303,10 +322,17 @@ A. 네, 터치 조작 외에도 기본 제공되는 리모컨을 통해 조작�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 981,690원 · 별점 4.9 · 리뷰 211개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 981,690원 · 별점 4.9 · 리뷰 212개</span>
     <a href="https://link.coupang.com/a/dL2nfPaZ1U" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

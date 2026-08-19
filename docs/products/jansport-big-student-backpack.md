@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/21/16/2/95fa6cc5-7736-406e-b7d7-76c00f4be60f.jpg
-title: 잔스포츠 빅스튜던트 구매 가이드
-date: 2026-04-28
-description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공간과 편안한 착용감을 제공하여 중고등학생들의 학용품이나 여행용품을 보관하기에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "잔스포츠 빅스튜던트",
-  "description": "잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공간과 편안한 착용감을 제공하여 중고등학생들의 학용품이나 여행용품을 보관하기에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/21/16/2/95fa6cc5-7736-406e-b7d7-76c00f4be60f.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/px6orrhz/9b02f4c62c1445c982e98e85743b4c30.jpg"
@@ -17,194 +11,38 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "72660",
+    "price": "73500",
     "url": "https://link.coupang.com/a/exUBa1",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.7,
-    "reviewCount": 66,
+    "ratingValue": 4.6,
+    "reviewCount": 115,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-28 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 73,500원 · 별점 4.6 · 리뷰 115개</span>
+    <a href="https://link.coupang.com/a/exUBa1" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -216,48 +54,228 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">70,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">65,000</text>
 
-    <path d="M 68 62 L 86 62 L 104 62 L 122 62 L 140 122 L 158 122 L 176 122 L 194 122 L 211 122 L 229 122 L 247 122 L 265 119 L 283 118 L 301 118 L 319 118 L 337 118 L 355 109 L 373 126 L 391 126 L 409 128 L 427 126 L 445 126 L 462 126 L 480 126 L 498 126 L 516 126 L 534 138 L 552 138 L 570 138 L 588 62 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 62 L 86 62 L 104 62 L 122 62 L 140 122 L 158 122 L 176 122 L 194 122 L 211 122 L 229 122 L 247 122 L 265 119 L 283 118 L 301 118 L 319 118 L 337 118 L 355 109 L 373 126 L 391 126 L 409 128 L 427 126 L 445 126 L 462 126 L 480 126 L 498 126 L 516 126 L 534 138 L 552 138 L 570 138 L 588 62" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 62 L 86 62 L 104 62 L 122 122 L 140 122 L 158 122 L 176 122 L 194 122 L 211 122 L 229 122 L 247 119 L 265 118 L 283 118 L 301 118 L 319 118 L 337 109 L 355 126 L 373 126 L 391 128 L 409 126 L 427 126 L 445 126 L 462 126 L 480 126 L 498 126 L 516 138 L 534 138 L 552 138 L 570 62 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 62 L 86 62 L 104 62 L 122 122 L 140 122 L 158 122 L 176 122 L 194 122 L 211 122 L 229 122 L 247 119 L 265 118 L 283 118 L 301 118 L 319 118 L 337 109 L 355 126 L 373 126 L 391 128 L 409 126 L 427 126 L 445 126 L 462 126 L 480 126 L 498 126 L 516 138 L 534 138 L 552 138 L 570 62 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="122" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="118" r="4" fill="#fdba74"></circle>
     <circle cx="283" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="126" r="4" fill="#fdba74"></circle>
     <circle cx="373" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="128" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="62" r="5" fill="#ea580c"></circle>
+    <circle cx="391" cy="128" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="49" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="50" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">72,660원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="37" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">73,500원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 72,660원 · 별점 4.7 · 리뷰 66개</span>
-    <a href="https://link.coupang.com/a/exUBa1" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/21/16/2/95fa6cc5-7736-406e-b7d7-76c00f4be60f.jpg
+title: 잔스포츠 빅스튜던트 구매 가이드
+date: 2026-04-28
+description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공간과 편안한 착용감을 제공하여 중고등학생들의 학용품이나 여행용품을 보관하기에 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -271,9 +289,11 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
 ## 상품 개요
 잔스포츠 빅스튜던트 백팩은 34리터의 대용량 수납공간과 체계적인 포켓 구성을 갖춰 중고등학생의 학용품, 교재, 체육복 등을 효율적으로 보관하기에 적합합니다. 내구성이 뛰어난 폴리에스터 소재와 15인치 노트북 수납공간, S자형 어깨끈 및 패딩 등판으로 장시간 착용에도 편안함을 제공하여 등하교 및 단기 여행 등 다양한 상황에서 활용도가 높습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/21/16/2/95fa6cc5-7736-406e-b7d7-76c00f4be60f.jpg" alt="잔스포츠 빅스튜던트" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -337,11 +357,17 @@ A. 인체공학적 S자형 패딩 어깨끈과 쿠션감 있는 등판 설계로
 *   [백팩 추천 잔스포츠 빅스튜던트 엔보이 내돈내산 비교 후기](https://blog.naver.com/sj4546/224260607274)
 *   [잔스포츠 빅 스튜던트 백팩 블랙 (EK0A5BAHN551) 솔직 리뷰](https://blog.naver.com/house72_/224259322118)
 
-
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 72,660원 · 별점 4.7 · 리뷰 66개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 73,500원 · 별점 4.6 · 리뷰 115개</span>
     <a href="https://link.coupang.com/a/exUBa1" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

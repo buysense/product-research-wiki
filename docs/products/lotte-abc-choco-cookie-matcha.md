@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9c1c/066c434a9ff7ed6c0e72439dce3e62e66a547f6723a04ab14fd121491257.jpg
-title: ABC 초코쿠키 말차 (130g, 4개) 구매 가이드
-date: 2026-08-05
-description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 말차 맛의 조화가 특징인 롯데웰푸드 제품입니다. 깔끔한 개별 포장으로 아이들 간식, 커피나 우유와 함께 가볍게 즐기기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "ABC 초코쿠키 말차 (130g, 4개)",
-  "description": "ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 말차 맛의 조화가 특징인 롯데웰푸드 제품입니다. 깔끔한 개별 포장으로 아이들 간식, 커피나 우유와 함께 가볍게 즐기기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9c1c/066c434a9ff7ed6c0e72439dce3e62e66a547f6723a04ab14fd121491257.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/78e6/e22a16ff6fedd2f733120ae7bf48dee75c20693bdeabf30e1649ac752b0d.jpg"
@@ -17,37 +11,61 @@ description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "7270",
+    "price": "18160",
     "url": "https://link.coupang.com/a/fYjqEPk6vc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.6,
-    "reviewCount": 126,
+    "ratingValue": 4.5,
+    "reviewCount": 140,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-05 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,270원 · 별점 4.6 · 리뷰 126개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,160원 · 별점 4.5 · 리뷰 140개</span>
     <a href="https://link.coupang.com/a/fYjqEPk6vc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9c1c/066c434a9ff7ed6c0e72439dce3e62e66a547f6723a04ab14fd121491257.jpg
+title: ABC 초코쿠키 말차 (130g, 4개) 구매 가이드
+date: 2026-08-05
+description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 말차 맛의 조화가 특징인 롯데웰푸드 제품입니다. 깔끔한 개별 포장으로 아이들 간식, 커피나 우유와 함께 가볍게 즐기기 좋습니다.
+---
+
+
+
+
+
+
+
 ## 상품 개요
 ABC 초코쿠키 말차 (130g, 4개)는 롯데웰푸드에서 출시된 제품으로, 바삭한 초코쿠키에 말차 초콜릿이 더해져 달콤함과 쌉싸름한 맛을 동시에 즐길 수 있습니다. 한입에 먹기 좋은 크기와 깔끔한 개별 포장(4봉지)으로 아이들 간식이나 커피, 우유와 함께 가볍게 즐기기 적합합니다. 총 130g 용량으로 소분하여 섭취하기 편리하며, 깔끔하게 즐길 수 있는 간식을 찾는 소비자에게 알맞습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9c1c/066c434a9ff7ed6c0e72439dce3e62e66a547f6723a04ab14fd121491257.jpg" alt="ABC 초코쿠키 말차 (130g, 4개)" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -117,10 +135,17 @@ A. 이 제품의 말차 맛은 일반적인 말차 과자들보다는 진하게 
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,270원 · 별점 4.6 · 리뷰 126개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,160원 · 별점 4.5 · 리뷰 140개</span>
     <a href="https://link.coupang.com/a/fYjqEPk6vc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

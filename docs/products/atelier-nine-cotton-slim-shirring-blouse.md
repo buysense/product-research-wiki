@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3fdd/55332bf2a74a148b3d69af84e973d71ddad1a75d1af2939b497c6a320ed3.jpg
-title: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE 구매 가이드
-date: 2026-08-06
-description: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE는 슬림한 실루엣과 셔링 디테일이 특징인 면 소재 블라우스로, 데일리룩부터 오피스룩까지 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "아틀리에 나인 COTTON SLIM SHIRRING BLOUSE",
-  "description": "아틀리에 나인 COTTON SLIM SHIRRING BLOUSE는 슬림한 실루엣과 셔링 디테일이 특징인 면 소재 블라우스로, 데일리룩부터 오피스룩까지 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3fdd/55332bf2a74a148b3d69af84e973d71ddad1a75d1af2939b497c6a320ed3.jpg"
   ],
@@ -19,13 +13,18 @@ description: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE는 슬림한 실루
     "price": "114300",
     "url": "https://link.coupang.com/a/fZVPAWkBMW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-13"
+    "priceValidUntil": "2026-08-26"
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -34,12 +33,31 @@ description: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE는 슬림한 실루
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3fdd/55332bf2a74a148b3d69af84e973d71ddad1a75d1af2939b497c6a320ed3.jpg
+title: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE 구매 가이드
+date: 2026-08-06
+description: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE는 슬림한 실루엣과 셔링 디테일이 특징인 면 소재 블라우스로, 데일리룩부터 오피스룩까지 활용하기 좋습니다.
+---
+
+
+
+
+
+
+
 ## 상품 개요
 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE는 쾌적한 면 100% 소재에 슬림한 핏과 섬세한 셔링(shirring) 디테일이 돋보이는 블라우스입니다. 출근 시 오피스룩으로 단정하게 연출하거나, 캐주얼한 하의와 매치하여 주말 외출복으로 활용하는 등 다양한 일상 상황에서 세련된 스타일을 완성하고자 할 때 적합합니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3fdd/55332bf2a74a148b3d69af84e973d71ddad1a75d1af2939b497c6a320ed3.jpg" alt="아틀리에 나인 COTTON SLIM SHIRRING BLOUSE" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -98,6 +116,11 @@ A. 단정한 디자인으로 슬랙스나 스커트와 매치하여 오피스룩
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -105,3 +128,5 @@ A. 단정한 디자인으로 슬랙스나 스커트와 매치하여 오피스룩
     <a href="https://link.coupang.com/a/fZVPAWkBMW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

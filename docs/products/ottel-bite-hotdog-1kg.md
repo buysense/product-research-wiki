@@ -1,176 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd67/9f7db6ee6da6198452cc7da60f77420a9b3012f5e9faa38c08a9913165eb.PNG
-title: 오뗄 한입 핫도그, 1kg, 1개 구매 가이드
-date: 2026-04-14
-description: 오뗄 한입 핫도그는 부드러운 카스테라 빵과 국내산 돈육 소시지로 만들어져 아이 간식, 바쁜 아침 식사 대용으로 인기가 높은 냉동 간편식입니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "오뗄 한입 핫도그, 1kg, 1개",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "12500",
+    "url": "https://link.coupang.com/a/eoCgvV",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.5,
+    "reviewCount": 558,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-14 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다. 다음 업데이트 예정일: 2026년 07월 14일</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,500원 · 별점 4.5 · 리뷰 558개</span>
+    <a href="https://link.coupang.com/a/eoCgvV" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -182,52 +48,223 @@ description: 오뗄 한입 핫도그는 부드러운 카스테라 빵과 국내�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,500</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 49 L 211 49 L 229 37 L 247 32 L 265 32 L 283 31 L 301 32 L 319 26 L 337 26 L 355 26 L 373 117 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 49 L 211 49 L 229 37 L 247 32 L 265 32 L 283 31 L 301 32 L 319 26 L 337 26 L 355 26 L 373 117 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 49 L 194 49 L 211 37 L 229 32 L 247 32 L 265 31 L 283 32 L 301 26 L 319 26 L 337 26 L 355 117 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 49 L 194 49 L 211 37 L 229 32 L 247 32 L 265 31 L 283 32 L 301 26 L 319 26 L 337 26 L 355 117 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="49" r="4" fill="#fdba74"></circle>
     <circle cx="194" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="32" r="4" fill="#fdba74"></circle>
     <circle cx="247" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="31" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="31" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="516" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,800원</span>
-    <a href="https://link.coupang.com/a/eoCgvV" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd67/9f7db6ee6da6198452cc7da60f77420a9b3012f5e9faa38c08a9913165eb.PNG
+title: 오뗄 한입 핫도그, 1kg, 1개 구매 가이드
+date: 2026-04-14
+description: 오뗄 한입 핫도그는 부드러운 카스테라 빵과 국내산 돈육 소시지로 만들어져 아이 간식, 바쁜 아침 식사 대용으로 인기가 높은 냉동 간편식입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -321,13 +358,8 @@ A. 1kg 대용량이며 지퍼백 포장이 아니므로, 개봉 후에는 공기
 Q. 칼로리는 어느 정도인가요?  
 A. 오뗄 한입 핫도그는 100g당 310kcal (제품 포장 표기 기준)입니다. 간식으로 즐길 때 섭취량을 고려하는 것이 좋습니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,800원</span>
-    <a href="https://link.coupang.com/a/eoCgvV" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -343,3 +375,18 @@ A. 오뗄 한입 핫도그는 100g당 310kcal (제품 포장 표기 기준)입�
 - [[용인] 국군복지단 군마트 영외마트 PX 피엑스의 모든 것_part2 음식 (냉동/냉장/유제품/과자 등) (feat. 선봉레스텔 마트) 🏡 : 네이버 블로그](https://m.blog.naver.com/oneday2980/223889706215)
 - [군 영외마트(PX) 물품목록 및 가격 (29~35) : 네이버 블로그](https://m.blog.naver.com/ungsysfa/223575481707)
 - [#029 [최저가] 집간식·야식 추천! 바삭·쫄깃 핫도그 8종 완벽 비교 & 가성비 순위🌭 : 네이버 블로그](https://m.blog.naver.com/smart_planting/224044248605)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,500원 · 별점 4.5 · 리뷰 558개</span>
+    <a href="https://link.coupang.com/a/eoCgvV" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

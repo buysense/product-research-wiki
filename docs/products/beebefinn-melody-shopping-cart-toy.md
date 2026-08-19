@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/21/17/9/e6d0fb68-933c-4500-8d21-a85e3cb66433.jpg
-title: 베베핀 멜로디 쇼핑카트 구매 가이드
-date: 2026-07-03
-description: 베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후 아이들이 마트놀이, 소꿉놀이 등 역할놀이를 즐기기에 적합한 장난감입니다. 베베핀 피규어와 다양한 소품, 멜로디 기능으로 아이들의 상상력을 자극합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "베베핀 멜로디 쇼핑카트",
-  "description": "베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후 아이들이 마트놀이, 소꿉놀이 등 역할놀이를 즐기기에 적합한 장난감입니다. 베베핀 피규어와 다양한 소품, 멜로디 기능으로 아이들의 상상력을 자극합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/21/17/9/e6d0fb68-933c-4500-8d21-a85e3cb66433.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/430438566469262-89c1ef34-6833-4935-ace1-abffd782cc1a.png"
@@ -20,73 +14,35 @@ description: 베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후 아�
     "price": "39800",
     "url": "https://link.coupang.com/a/e47Kyp2X7Y",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 143,
+    "reviewCount": 147,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 39,800원 · 별점 4.8 · 리뷰 147개</span>
+    <a href="https://link.coupang.com/a/e47Kyp2X7Y" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -98,37 +54,98 @@ description: 베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후 아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">39,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">39,000</text>
 
-    <path d="M 68 56 L 86 56 L 104 56 L 122 56 L 140 56 L 158 56 L 176 70 L 194 123 L 211 56 L 229 56 L 247 56 L 265 56 L 283 56 L 301 56 L 319 56 L 337 56 L 355 56 L 373 56 L 391 56 L 409 56 L 427 56 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 56 L 86 56 L 104 56 L 122 56 L 140 56 L 158 56 L 176 70 L 194 123 L 211 56 L 229 56 L 247 56 L 265 56 L 283 56 L 301 56 L 319 56 L 337 56 L 355 56 L 373 56 L 391 56 L 409 56 L 427 56 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 56 L 86 56 L 104 56 L 122 56 L 140 56 L 158 70 L 176 123 L 194 56 L 211 56 L 229 56 L 247 56 L 265 56 L 283 56 L 301 56 L 319 56 L 337 56 L 355 56 L 373 56 L 391 56 L 409 56 L 427 56 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 56 L 86 56 L 104 56 L 122 56 L 140 56 L 158 70 L 176 123 L 194 56 L 211 56 L 229 56 L 247 56 L 265 56 L 283 56 L 301 56 L 319 56 L 337 56 L 355 56 L 373 56 L 391 56 L 409 56 L 427 56 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="56" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="56" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">39,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 39,800원 · 별점 4.8 · 리뷰 143개</span>
-    <a href="https://link.coupang.com/a/e47Kyp2X7Y" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/21/17/9/e6d0fb68-933c-4500-8d21-a85e3cb66433.jpg
+title: 베베핀 멜로디 쇼핑카트 구매 가이드
+date: 2026-07-03
+description: 베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후 아이들이 마트놀이, 소꿉놀이 등 역할놀이를 즐기기에 적합한 장난감입니다. 베베핀 피규어와 다양한 소품, 멜로디 기능으로 아이들의 상상력을 자극합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -136,9 +153,11 @@ description: 베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후 아�
 ## 상품 개요
 펀랜드 베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후의 유아가 마트놀이, 소꿉놀이 등 역할놀이를 즐길 때 적합한 장난감입니다. 친숙한 베베핀 캐릭터 디자인과 피규어, 다양한 소품, 멜로디 기능이 특징으로, 아이의 상상력과 흥미를 자극합니다. 주로 어린이날 선물이나 생일 선물, 또는 아이의 역할놀이 욕구를 충족시켜주기 위해 선택됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/21/17/9/e6d0fb68-933c-4500-8d21-a85e3cb66433.jpg" alt="베베핀 멜로디 쇼핑카트" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -213,10 +232,17 @@ A. 아이의 생일 선물, 어린이날 선물, 또는 평소 베베핀 캐릭�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 39,800원 · 별점 4.8 · 리뷰 143개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 39,800원 · 별점 4.8 · 리뷰 147개</span>
     <a href="https://link.coupang.com/a/e47Kyp2X7Y" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/18/9/3/dbd85c50-4844-4649-a3d4-e0fa0279cc9f.jpg
-title: 프린세스 캐치티니핑 한글카드 구매 가이드
-date: 2026-04-29
-description: 프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를 활용하여 4-6세 여자아이들이 한글을 놀이처럼 즐겁게 학습하고, 외출 시 집중력을 높이는 데 활용하기 좋은 교육용 카드입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "프린세스 캐치티니핑 한글카드",
-  "description": "프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를 활용하여 4-6세 여자아이들이 한글을 놀이처럼 즐겁게 학습하고, 외출 시 집중력을 높이는 데 활용하기 좋은 교육용 카드입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/18/9/3/dbd85c50-4844-4649-a3d4-e0fa0279cc9f.jpg"
   ],
@@ -19,187 +13,35 @@ description: 프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를
     "price": "12390",
     "url": "https://link.coupang.com/a/eyMWue",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 92,
+    "reviewCount": 104,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,390원 · 별점 4.8 · 리뷰 104개</span>
+    <a href="https://link.coupang.com/a/eyMWue" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -211,37 +53,212 @@ description: 프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
 
-    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 167 L 158 167 L 176 167 L 194 167 L 211 167 L 229 72 L 247 72 L 265 72 L 283 72 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 167 L 158 167 L 176 167 L 194 167 L 211 167 L 229 72 L 247 72 L 265 72 L 283 72 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 86 72 L 104 72 L 122 167 L 140 167 L 158 167 L 176 167 L 194 167 L 211 72 L 229 72 L 247 72 L 265 72 L 283 72 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 86 72 L 104 72 L 122 167 L 140 167 L 158 167 L 176 167 L 194 167 L 211 72 L 229 72 L 247 72 L 265 72 L 283 72 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="167" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="167" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,390원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,390원 · 별점 4.8 · 리뷰 92개</span>
-    <a href="https://link.coupang.com/a/eyMWue" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/18/9/3/dbd85c50-4844-4649-a3d4-e0fa0279cc9f.jpg
+title: 프린세스 캐치티니핑 한글카드 구매 가이드
+date: 2026-04-29
+description: 프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를 활용하여 4-6세 여자아이들이 한글을 놀이처럼 즐겁게 학습하고, 외출 시 집중력을 높이는 데 활용하기 좋은 교육용 카드입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -256,9 +273,11 @@ description: 프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를
 ## 상품 개요
 프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를 좋아하는 4-6세 여자아이들이 한글을 놀이처럼 즐겁게 학습할 수 있도록 돕는 교육용 카드입니다. 가정에서 아이의 흥미를 유발하며 학습을 시작하거나, 외출 시 카페나 식당에서 아이가 지루해하지 않고 집중할 수 있도록 활용됩니다. 또한, 티니핑 팬인 여러 아이들에게 동시에 선물할 경우 높은 만족도를 제공하는 아이템으로도 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/18/9/3/dbd85c50-4844-4649-a3d4-e0fa0279cc9f.jpg" alt="프린세스 캐치티니핑 한글카드" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -314,10 +333,17 @@ A. 아이가 좋아하는 캐릭터를 통해 한글에 대한 긍정적인 인�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,390원 · 별점 4.8 · 리뷰 92개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,390원 · 별점 4.8 · 리뷰 104개</span>
     <a href="https://link.coupang.com/a/eyMWue" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

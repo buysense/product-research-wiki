@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52389924987457-1990cc6f-0023-40a7-b126-960b13e4a316.jpg
-title: 홀리카홀리카 마이페이브 무드 아이 팔레트 구매 가이드
-date: 2026-06-03
-description: 홀리카홀리카 마이페이브 무드 아이 팔레트는 데일리 메이크업부터 특별한 날까지 활용하기 좋은 9구 팔레트로, 자연스러운 발색과 뛰어난 활용도를 제공합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "홀리카홀리카 마이페이브 무드 아이 팔레트",
-  "description": "홀리카홀리카 마이페이브 무드 아이 팔레트는 데일리 메이크업부터 특별한 날까지 활용하기 좋은 9구 팔레트로, 자연스러운 발색과 뛰어난 활용도를 제공합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52389924987457-1990cc6f-0023-40a7-b126-960b13e4a316.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/280510551392977-64989449-28ef-4dae-af89-6a40c57107ad.jpg"
@@ -20,131 +14,35 @@ description: 홀리카홀리카 마이페이브 무드 아이 팔레트는 데�
     "price": "18450",
     "url": "https://link.coupang.com/a/ehHQq5qUUu",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 3101,
+    "reviewCount": 3273,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,450원 · 별점 4.7 · 리뷰 3,273개</span>
+    <a href="https://link.coupang.com/a/ehHQq5qUUu" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -156,50 +54,168 @@ description: 홀리카홀리카 마이페이브 무드 아이 팔레트는 데�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 124 L 86 123 L 104 152 L 122 152 L 140 152 L 158 152 L 176 152 L 194 137 L 211 137 L 229 123 L 247 123 L 265 123 L 283 123 L 301 123 L 319 142 L 337 142 L 355 142 L 373 79 L 391 79 L 409 142 L 427 142 L 445 142 L 462 123 L 480 123 L 498 123 L 516 127 L 534 126 L 552 126 L 570 126 L 588 126 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 124 L 86 123 L 104 152 L 122 152 L 140 152 L 158 152 L 176 152 L 194 137 L 211 137 L 229 123 L 247 123 L 265 123 L 283 123 L 301 123 L 319 142 L 337 142 L 355 142 L 373 79 L 391 79 L 409 142 L 427 142 L 445 142 L 462 123 L 480 123 L 498 123 L 516 127 L 534 126 L 552 126 L 570 126 L 588 126" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="152" r="4" fill="#fdba74"></circle>
+    <path d="M 68 123 L 86 152 L 104 152 L 122 152 L 140 152 L 158 152 L 176 137 L 194 137 L 211 123 L 229 123 L 247 123 L 265 123 L 283 123 L 301 142 L 319 142 L 337 142 L 355 79 L 373 79 L 391 142 L 409 142 L 427 142 L 445 123 L 462 123 L 480 123 L 498 127 L 516 126 L 534 126 L 552 126 L 570 126 L 588 126 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 123 L 86 152 L 104 152 L 122 152 L 140 152 L 158 152 L 176 137 L 194 137 L 211 123 L 229 123 L 247 123 L 265 123 L 283 123 L 301 142 L 319 142 L 337 142 L 355 79 L 373 79 L 391 142 L 409 142 L 427 142 L 445 123 L 462 123 L 480 123 L 498 127 L 516 126 L 534 126 L 552 126 L 570 126 L 588 126" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="137" r="4" fill="#fdba74"></circle>
     <circle cx="194" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="79" r="4" fill="#fdba74"></circle>
     <circle cx="373" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="79" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="142" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="142" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="126" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="126" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="114" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,450원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,450원 · 별점 4.7 · 리뷰 3,101개</span>
-    <a href="https://link.coupang.com/a/ehHQq5qUUu" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52389924987457-1990cc6f-0023-40a7-b126-960b13e4a316.jpg
+title: 홀리카홀리카 마이페이브 무드 아이 팔레트 구매 가이드
+date: 2026-06-03
+description: 홀리카홀리카 마이페이브 무드 아이 팔레트는 데일리 메이크업부터 특별한 날까지 활용하기 좋은 9구 팔레트로, 자연스러운 발색과 뛰어난 활용도를 제공합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -207,9 +223,11 @@ description: 홀리카홀리카 마이페이브 무드 아이 팔레트는 데�
 ## 상품 개요
 홀리카홀리카 마이페이브 무드 아이 팔레트는 데일리 메이크업을 위한 올인원 아이 팔레트로, 9가지 컬러 조합을 통해 베이스부터 음영, 포인트 글리터까지 다양한 아이 메이크업을 연출할 수 있습니다. 자연스러운 발색과 낮은 가루날림으로 메이크업 초보자부터 숙련자까지 활용하기 용이하며, 출근길 간편한 메이크업부터 약속 있는 날의 포인트 메이크업, 여행 시 휴대용 팔레트 등으로 폭넓게 소비됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52389924987457-1990cc6f-0023-40a7-b126-960b13e4a316.jpg" alt="홀리카홀리카 마이페이브 무드 아이 팔레트" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -274,10 +292,17 @@ A. 팔레트의 컬러 라인업은 다양하게 출시되어 있습니다. 봄�
 
 *   외부 출처는 포함되지 않습니다.
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,450원 · 별점 4.7 · 리뷰 3,101개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,450원 · 별점 4.7 · 리뷰 3,273개</span>
     <a href="https://link.coupang.com/a/ehHQq5qUUu" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

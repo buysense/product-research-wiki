@@ -1,180 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/128275036756338-37ffc28f-66d2-471e-98a8-d167897dbb5a.jpg
-title: 아이워너 안전망 트램폴린 플러스 구매 가이드
-date: 2026-04-15
-description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 아이들의 실내 에너지 발산을 돕는 안전하고 견고한 놀이 기구입니다. 층간소음 걱정을 줄이고 부모에게 육아의 여유를 제공하며, 악천후 시 집콕놀이에 특히 유용합니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "아이워너 안전망 트램폴린 플러스",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "115190",
+    "url": "https://link.coupang.com/a/epoiPo",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.7,
+    "reviewCount": 405,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 115,190원 · 별점 4.7 · 리뷰 405개</span>
+    <a href="https://link.coupang.com/a/epoiPo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -183,58 +45,234 @@ description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 �
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
     <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">140,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 56 L 86 56 L 104 56 L 122 56 L 140 57 L 158 57 L 176 57 L 194 57 L 211 57 L 229 161 L 247 50 L 265 50 L 283 55 L 301 55 L 319 56 L 337 56 L 355 57 L 373 57 L 391 58 L 409 50 L 427 50 L 445 26 L 462 50 L 480 50 L 498 50 L 516 50 L 534 50 L 552 50 L 570 50 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 56 L 86 56 L 104 56 L 122 56 L 140 57 L 158 57 L 176 57 L 194 57 L 211 57 L 229 161 L 247 50 L 265 50 L 283 55 L 301 55 L 319 56 L 337 56 L 355 57 L 373 57 L 391 58 L 409 50 L 427 50 L 445 26 L 462 50 L 480 50 L 498 50 L 516 50 L 534 50 L 552 50 L 570 50 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="50" r="5" fill="#ea580c"></circle>
+    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 42 L 176 42 L 194 42 L 211 93 L 229 38 L 247 38 L 265 40 L 283 41 L 301 41 L 319 41 L 337 41 L 355 42 L 373 42 L 391 38 L 409 38 L 427 26 L 445 38 L 462 38 L 480 38 L 498 38 L 516 38 L 534 38 L 552 38 L 570 38 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 42 L 176 42 L 194 42 L 211 93 L 229 38 L 247 38 L 265 40 L 283 41 L 301 41 L 319 41 L 337 41 L 355 42 L 373 42 L 391 38 L 409 38 L 427 26 L 445 38 L 462 38 L 480 38 L 498 38 L 516 38 L 534 38 L 552 38 L 570 38 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="93" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="120" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="38" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">136,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="108" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">115,190원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 134,320원 (2026-04-15 기준)</span>
-    <a href="https://link.coupang.com/a/epoiPo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/128275036756338-37ffc28f-66d2-471e-98a8-d167897dbb5a.jpg
+title: 아이워너 안전망 트램폴린 플러스 구매 가이드
+date: 2026-04-15
+description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 아이들의 실내 에너지 발산을 돕는 안전하고 견고한 놀이 기구입니다. 층간소음 걱정을 줄이고 부모에게 육아의 여유를 제공하며, 악천후 시 집콕놀이에 특히 유용합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -307,13 +345,8 @@ A. 동봉된 한글 설명서와 전용 T자 갈고리를 활용하면 혼자서
 Q. 성인도 함께 사용할 수 있나요?  
 A. 최대 하중 100kg으로 설계되어 성인도 가볍게 트램폴린을 이용할 수 있습니다. 아이와 함께 안전하게 놀아줄 때 유용하며, 일부 사용자들은 아이와 성인(82kg+10.5kg)이 함께 사용해도 견고함을 유지했다고 평가합니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 134,320원 (2026-04-15 기준)</span>
-    <a href="https://link.coupang.com/a/epoiPo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -330,3 +363,18 @@ A. 최대 하중 100kg으로 설계되어 성인도 가볍게 트램폴린을 �
 - [아이워너 안전망 트램폴린 플러스 재미있는 실내 놀이터 : 네이버 블로그](https://m.blog.naver.com/owlhfx69257/224007550025)
 - [국가기술표준원 제품안전정보센터](https://www.safetykorea.kr/release/certProductView.do?cert_no=CB061R008-6002) *(예시: 실제 인증번호는 제품 상세페이지에서 확인 필요)*
 - [대한소아과학회 - 유아기 신체활동 권고안](https://www.pediatrics.or.kr/html/sub06_02.asp) *(예시: 실제 유아 신체활동 권고 자료 링크로 대체 필요)*
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 115,190원 · 별점 4.7 · 리뷰 405개</span>
+    <a href="https://link.coupang.com/a/epoiPo" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf6a/b293aea9683bfa103d632eba6b11ca40bfc7e10c34b3a842fc279337c3e4.jpg
-title: 유스트 31허브 바디오일 구매 가이드
-date: 2026-05-20
-description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 아로마 오일로, 스트레스 완화, 숙면 유도, 뭉친 부위 이완 등 다양한 상황에서 사용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "유스트 31허브 바디오일",
-  "description": "유스트 31허브 바디오일은 31가지 허브가 블렌딩된 아로마 오일로, 스트레스 완화, 숙면 유도, 뭉친 부위 이완 등 다양한 상황에서 사용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf6a/b293aea9683bfa103d632eba6b11ca40bfc7e10c34b3a842fc279337c3e4.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/10/30/14/2/11c11d3a-5297-4117-8c90-6bb02ce3eebb.png"
@@ -20,156 +14,35 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
     "price": "60630",
     "url": "https://link.coupang.com/a/dUsgXOCSEm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1153,
+    "reviewCount": 1182,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 60,630원 · 별점 4.8 · 리뷰 1,182개</span>
+    <a href="https://link.coupang.com/a/dUsgXOCSEm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -181,49 +54,193 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 145 L 86 145 L 104 145 L 122 76 L 140 76 L 158 144 L 176 76 L 194 76 L 211 145 L 229 145 L 247 145 L 265 88 L 283 88 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 86 L 427 86 L 445 86 L 462 86 L 480 88 L 498 88 L 516 146 L 534 86 L 552 86 L 570 86 L 588 86 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 145 L 86 145 L 104 145 L 122 76 L 140 76 L 158 144 L 176 76 L 194 76 L 211 145 L 229 145 L 247 145 L 265 88 L 283 88 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 86 L 427 86 L 445 86 L 462 86 L 480 88 L 498 88 L 516 146 L 534 86 L 552 86 L 570 86 L 588 86" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 145 L 86 145 L 104 76 L 122 76 L 140 144 L 158 76 L 176 76 L 194 145 L 211 145 L 229 145 L 247 88 L 265 88 L 283 86 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 86 L 427 86 L 445 86 L 462 88 L 480 88 L 498 146 L 516 86 L 534 86 L 552 86 L 570 86 L 588 86 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 145 L 86 145 L 104 76 L 122 76 L 140 144 L 158 76 L 176 76 L 194 145 L 211 145 L 229 145 L 247 88 L 265 88 L 283 86 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 86 L 427 86 L 445 86 L 462 88 L 480 88 L 498 146 L 516 86 L 534 86 L 552 86 L 570 86 L 588 86" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="76" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="76" r="4" fill="#fdba74"></circle>
     <circle cx="176" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="88" r="4" fill="#fdba74"></circle>
     <circle cx="265" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="88" r="4" fill="#fdba74"></circle>
     <circle cx="480" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="86" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="86" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="74" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">60,630원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 60,630원 · 별점 4.8 · 리뷰 1,153개</span>
-    <a href="https://link.coupang.com/a/dUsgXOCSEm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf6a/b293aea9683bfa103d632eba6b11ca40bfc7e10c34b3a842fc279337c3e4.jpg
+title: 유스트 31허브 바디오일 구매 가이드
+date: 2026-05-20
+description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 아로마 오일로, 스트레스 완화, 숙면 유도, 뭉친 부위 이완 등 다양한 상황에서 사용하기 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -233,9 +250,11 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
 ## 상품 개요
 유스트 31허브 바디오일은 31가지 허브 성분이 블렌딩된 아로마 오일로, 스트레스 완화, 숙면 유도, 뭉친 목이나 어깨 부위를 이완하는 등 다양한 상황에서 활용됩니다. 스위스에서 시작된 브랜드의 제품으로, 샤워 후 보습 케어부터 잠들기 전 심신 안정, 또는 휴대하며 기분 전환이 필요할 때 소량 사용하는 용도로 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf6a/b293aea9683bfa103d632eba6b11ca40bfc7e10c34b3a842fc279337c3e4.jpg" alt="유스트 31허브 바디오일" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -298,10 +317,17 @@ A. 한 번 사용할 때 한두 방울의 소량만으로도 충분한 효과를
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 60,630원 · 별점 4.8 · 리뷰 1,153개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 60,630원 · 별점 4.8 · 리뷰 1,182개</span>
     <a href="https://link.coupang.com/a/dUsgXOCSEm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

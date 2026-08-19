@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/53ee/438cac3800cf72dbb2168eef45d3a1657e1fd26fd04acbdded93384e1f6f.png
-title: 옳곡 땅콩크런치 그래놀라 시리얼 구매 가이드
-date: 2026-06-13
-description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식사 대용이나 건강한 간식을 찾는 소비자에게 고소함과 바삭함을 제공하는 제품입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "옳곡 땅콩크런치 그래놀라 시리얼",
-  "description": "옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식사 대용이나 건강한 간식을 찾는 소비자에게 고소함과 바삭함을 제공하는 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/53ee/438cac3800cf72dbb2168eef45d3a1657e1fd26fd04acbdded93384e1f6f.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/94cc/49019ac938913273af7b7f10c29c6a316c916d3b9a88739cc815a007ff14.png"
@@ -17,10 +11,10 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "28100",
+    "price": "28300",
     "url": "https://link.coupang.com/a/exApag53Ce",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -31,96 +25,24 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-13 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,300원 · 별점 3.5 · 리뷰 2개</span>
+    <a href="https://link.coupang.com/a/exApag53Ce" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -132,41 +54,137 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 55 L 86 55 L 104 55 L 122 55 L 140 55 L 158 55 L 176 55 L 194 55 L 211 148 L 229 148 L 247 148 L 265 148 L 283 148 L 301 148 L 319 148 L 337 65 L 355 65 L 373 65 L 391 65 L 409 65 L 427 65 L 445 65 L 462 148 L 480 148 L 498 148 L 516 148 L 534 148 L 552 40 L 570 40 L 588 40 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 55 L 86 55 L 104 55 L 122 55 L 140 55 L 158 55 L 176 55 L 194 55 L 211 148 L 229 148 L 247 148 L 265 148 L 283 148 L 301 148 L 319 148 L 337 65 L 355 65 L 373 65 L 391 65 L 409 65 L 427 65 L 445 65 L 462 148 L 480 148 L 498 148 L 516 148 L 534 148 L 552 40 L 570 40 L 588 40" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 55 L 86 55 L 104 55 L 122 55 L 140 55 L 158 55 L 176 55 L 194 148 L 211 148 L 229 148 L 247 148 L 265 148 L 283 148 L 301 148 L 319 65 L 337 65 L 355 65 L 373 65 L 391 65 L 409 65 L 427 65 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 40 L 552 40 L 570 40 L 588 39 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 55 L 86 55 L 104 55 L 122 55 L 140 55 L 158 55 L 176 55 L 194 148 L 211 148 L 229 148 L 247 148 L 265 148 L 283 148 L 301 148 L 319 65 L 337 65 L 355 65 L 373 65 L 391 65 L 409 65 L 427 65 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 40 L 552 40 L 570 40 L 588 39" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="55" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="40" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="40" r="5" fill="#ea580c"></circle>
+    <circle cx="176" cy="55" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="39" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="28" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,100원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="27" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,300원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,100원 · 별점 3.5 · 리뷰 2개</span>
-    <a href="https://link.coupang.com/a/exApag53Ce" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/53ee/438cac3800cf72dbb2168eef45d3a1657e1fd26fd04acbdded93384e1f6f.png
+title: 옳곡 땅콩크런치 그래놀라 시리얼 구매 가이드
+date: 2026-06-13
+description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식사 대용이나 건강한 간식을 찾는 소비자에게 고소함과 바삭함을 제공하는 제품입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -174,9 +192,11 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
 ## 상품 개요
 옳곡 땅콩크런치 그래놀라 시리얼은 통곡물을 베이스로 한 그래놀라에 고소한 땅콩 크런치가 더해져 바삭한 식감과 풍부한 맛을 제공하는 제품입니다. 바쁜 아침 식사 대용으로 간편하게 즐기거나, 출출할 때 건강한 간식으로 활용하기에 적합합니다. 우유나 요거트와 함께 섭취하면 더욱 맛있게 즐길 수 있으며, 시리얼 제품 특성상 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/53ee/438cac3800cf72dbb2168eef45d3a1657e1fd26fd04acbdded93384e1f6f.png" alt="옳곡 땅콩크런치 그래놀라 시리얼" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -236,10 +256,17 @@ A. 본 제품은 땅콩을 함유하고 있어 땅콩 알레르기가 있는 분
 *   [옳곡 땅콩크런치 그래놀라 시리얼 제품 상세 페이지 (가상)](https://www.olgok.co.kr/products/peanut-crunch-granola)
 *   [옳곡 땅콩크런치 그래놀라 시리얼 영양 성분 정보 (가상)](https://www.olgok.co.kr/nutrition/peanut-crunch-granola)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,100원 · 별점 3.5 · 리뷰 2개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,300원 · 별점 3.5 · 리뷰 2개</span>
     <a href="https://link.coupang.com/a/exApag53Ce" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

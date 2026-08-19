@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/3adaffdd-c21b-4b50-871c-c8cf1c103a5c_fixing_v2.png
-title: 네추럴라이즈 오메가 꾸미 구매 가이드
-date: 2026-05-06
-description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 오메가3를 섭취하려는 어린이나 알약 섭취가 어려운 성인에게 적합한 젤리형 건강기능식품입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "네추럴라이즈 오메가 꾸미",
-  "description": "네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 오메가3를 섭취하려는 어린이나 알약 섭취가 어려운 성인에게 적합한 젤리형 건강기능식품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/3adaffdd-c21b-4b50-871c-c8cf1c103a5c_fixing_v2.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/126685446564253-41bab266-ead8-4088-8141-0640874bd1c6.jpg"
@@ -17,183 +11,38 @@ description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "17230",
+    "price": "16900",
     "url": "https://link.coupang.com/a/eDA2W5",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 1466,
+    "reviewCount": 1531,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,900원 · 별점 4.6 · 리뷰 1,531개</span>
+    <a href="https://link.coupang.com/a/eDA2W5" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -202,42 +51,211 @@ description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
     <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,500</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 143 L 86 143 L 104 143 L 122 143 L 140 143 L 158 26 L 176 143 L 194 143 L 211 143 L 229 143 L 247 143 L 265 143 L 283 143 L 301 143 L 319 143 L 337 143 L 355 143 L 373 143 L 391 26 L 409 143 L 427 143 L 445 143 L 462 143 L 480 143 L 498 143 L 516 143 L 534 143 L 552 143 L 570 143 L 588 143 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 143 L 86 143 L 104 143 L 122 143 L 140 143 L 158 26 L 176 143 L 194 143 L 211 143 L 229 143 L 247 143 L 265 143 L 283 143 L 301 143 L 319 143 L 337 143 L 355 143 L 373 143 L 391 26 L 409 143 L 427 143 L 445 143 L 462 143 L 480 143 L 498 143 L 516 143 L 534 143 L 552 143 L 570 143 L 588 143" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="143" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="143" r="5" fill="#ea580c"></circle>
+    <path d="M 68 85 L 86 85 L 104 85 L 122 85 L 140 26 L 158 85 L 176 85 L 194 85 L 211 85 L 229 85 L 247 85 L 265 85 L 283 85 L 301 85 L 319 85 L 337 85 L 355 85 L 373 26 L 391 85 L 409 85 L 427 85 L 445 85 L 462 85 L 480 85 L 498 85 L 516 85 L 534 85 L 552 85 L 570 85 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 85 L 86 85 L 104 85 L 122 85 L 140 26 L 158 85 L 176 85 L 194 85 L 211 85 L 229 85 L 247 85 L 265 85 L 283 85 L 301 85 L 319 85 L 337 85 L 355 85 L 373 26 L 391 85 L 409 85 L 427 85 L 445 85 L 462 85 L 480 85 L 498 85 L 516 85 L 534 85 L 552 85 L 570 85 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="85" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="131" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,230원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,230원 · 별점 4.6 · 리뷰 1,466개</span>
-    <a href="https://link.coupang.com/a/eDA2W5" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/3adaffdd-c21b-4b50-871c-c8cf1c103a5c_fixing_v2.png
+title: 네추럴라이즈 오메가 꾸미 구매 가이드
+date: 2026-05-06
+description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 오메가3를 섭취하려는 어린이나 알약 섭취가 어려운 성인에게 적합한 젤리형 건강기능식품입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -247,9 +265,11 @@ description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 
 ## 상품 개요
 네추럴라이즈 오메가 꾸미는 오메가3 특유의 비린 맛이나 알약 섭취에 부담을 느끼는 어린이나 성인을 위한 젤리 형태의 건강기능식품입니다. 레몬과 오렌지 맛의 물고기 모양 젤리로 간식처럼 쉽고 맛있게 섭취할 수 있어, 아이들이 스스로 영양제를 챙기도록 돕거나, 알약 섭취가 불편한 분들이 일상에서 꾸준히 오메가3를 보충하고자 할 때 주로 선택됩니다. 특히 자녀의 두뇌 발달과 영양 균형을 위해 일반 젤리 대신 건강한 대안을 찾는 부모들에게 관심을 받으며, 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/3adaffdd-c21b-4b50-871c-c8cf1c103a5c_fixing_v2.png" alt="네추럴라이즈 오메가 꾸미" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -306,10 +326,17 @@ A. 제품에 명확한 연령 제한이 표기되어 있지 않지만, 젤리를
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,230원 · 별점 4.6 · 리뷰 1,466개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,900원 · 별점 4.6 · 리뷰 1,531개</span>
     <a href="https://link.coupang.com/a/eDA2W5" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

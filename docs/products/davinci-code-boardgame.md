@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8071/783decd6ec2e25020f9115a364d83352626abcd481e71654aef341428ec8.jpg
-title: 다빈치 코드 구매 가이드
-date: 2026-04-30
-description: 다빈치 코드 보드게임은 논리적 추론과 심리전을 즐길 수 있는 숫자 추리 게임입니다. 가족 모임, 친구들과의 파티, 여행 시 간편하게 즐기기 적합하며, 아이부터 어른까지 온 가족이 함께 두뇌 개발과 즐거움을 동시에 느낄 수 있습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "다빈치 코드",
-  "description": "다빈치 코드 보드게임은 논리적 추론과 심리전을 즐길 수 있는 숫자 추리 게임입니다. 가족 모임, 친구들과의 파티, 여행 시 간편하게 즐기기 적합하며, 아이부터 어른까지 온 가족이 함께 두뇌 개발과 즐거움을 동시에 느낄 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8071/783decd6ec2e25020f9115a364d83352626abcd481e71654aef341428ec8.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2018/08/17/3000165024/563434fd-2252-4165-9c4f-88d4923993fd.jpg"
@@ -17,195 +11,38 @@ description: 다빈치 코드 보드게임은 논리적 추론과 심리전을 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "16050",
+    "price": "18200",
     "url": "https://link.coupang.com/a/ezUVZB",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 11047,
+    "reviewCount": 11101,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-30 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,200원 · 별점 4.8 · 리뷰 11,101개</span>
+    <a href="https://link.coupang.com/a/ezUVZB" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -213,39 +50,220 @@ description: 다빈치 코드 보드게임은 논리적 추론과 심리전을 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,500</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 41 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 170 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 41 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 170 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="170" r="5" fill="#ea580c"></circle>
+    <path d="M 68 144 L 86 144 L 104 144 L 122 144 L 140 144 L 158 144 L 176 144 L 194 144 L 211 144 L 229 144 L 247 144 L 265 144 L 283 144 L 301 144 L 319 144 L 337 144 L 355 144 L 373 144 L 391 144 L 409 144 L 427 144 L 445 144 L 462 144 L 480 144 L 498 144 L 516 144 L 534 144 L 552 176 L 570 176 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 144 L 86 144 L 104 144 L 122 144 L 140 144 L 158 144 L 176 144 L 194 144 L 211 144 L 229 144 L 247 144 L 265 144 L 283 144 L 301 144 L 319 144 L 337 144 L 355 144 L 373 144 L 391 144 L 409 144 L 427 144 L 445 144 L 462 144 L 480 144 L 498 144 L 516 144 L 534 144 L 552 176 L 570 176 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="94" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="158" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,050원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,200원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,050원 · 별점 4.8 · 리뷰 11,047개</span>
-    <a href="https://link.coupang.com/a/ezUVZB" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8071/783decd6ec2e25020f9115a364d83352626abcd481e71654aef341428ec8.jpg
+title: 다빈치 코드 구매 가이드
+date: 2026-04-30
+description: 다빈치 코드 보드게임은 논리적 추론과 심리전을 즐길 수 있는 숫자 추리 게임입니다. 가족 모임, 친구들과의 파티, 여행 시 간편하게 즐기기 적합하며, 아이부터 어른까지 온 가족이 함께 두뇌 개발과 즐거움을 동시에 느낄 수 있습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -259,9 +277,11 @@ description: 다빈치 코드 보드게임은 논리적 추론과 심리전을 �
 ## 상품 개요
 다빈치 코드 보드게임은 숫자 타일을 활용하여 상대방의 숨겨진 숫자를 추리하는 논리 게임입니다. 간결한 규칙으로 온 가족이 즐기기 쉬우며, 친구들과의 모임이나 여행, 캠핑 등 다양한 장소에서 분위기를 전환하고 두뇌를 활성화하는 데 적합합니다. 견고한 타일 구성과 깔끔한 디자인으로 가볍게 즐길 수 있는 보드게임을 찾는 소비자들에게 좋은 선택지입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8071/783decd6ec2e25020f9115a364d83352626abcd481e71654aef341428ec8.jpg" alt="다빈치 코드" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -336,10 +356,17 @@ A. 숫자 타일만으로 구성되어 있어 부피가 작고 가벼워 휴대�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,050원 · 별점 4.8 · 리뷰 11,047개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,200원 · 별점 4.8 · 리뷰 11,101개</span>
     <a href="https://link.coupang.com/a/ezUVZB" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

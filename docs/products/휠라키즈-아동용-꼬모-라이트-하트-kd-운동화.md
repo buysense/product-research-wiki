@@ -1,176 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/310538389258389-574796a2-64e2-4a5f-9429-5a90b6ef0c92.jpg
-title: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화 구매 가이드
-date: 2026-03-23
-description: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화는 활동량이 많은 아이들이 어린이집이나 유치원에 등원하거나 야외 활동 시 편안하게 신을 수 있는 휠라키즈운동화입니다. 핑크색 하트 디자인과 걸을 때마다 반짝이는 불빛 기능으로 아이들의 취향을 사로잡아,...
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "휠라키즈 아동용 꼬모 라이트 하트 KD 운동화",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "31000",
+    "url": "https://link.coupang.com/a/d9LdHf",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.7,
+    "reviewCount": 58,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-23 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 31,000원 · 별점 4.7 · 리뷰 58개</span>
+    <a href="https://link.coupang.com/a/d9LdHf" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -182,41 +48,214 @@ description: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화는 활�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
 
-    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 50 L 158 50 L 176 50 L 194 50 L 211 50 L 229 50 L 247 50 L 265 50 L 283 50 L 301 50 L 319 50 L 337 50 L 355 50 L 373 50 L 391 76 L 409 50 L 427 50 L 445 50 L 462 50 L 480 50 L 498 87 L 516 87 L 534 87 L 552 87 L 570 87 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 50 L 158 50 L 176 50 L 194 50 L 211 50 L 229 50 L 247 50 L 265 50 L 283 50 L 301 50 L 319 50 L 337 50 L 355 50 L 373 50 L 391 76 L 409 50 L 427 50 L 445 50 L 462 50 L 480 50 L 498 87 L 516 87 L 534 87 L 552 87 L 570 87 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 50 L 158 50 L 176 50 L 194 50 L 211 50 L 229 50 L 247 50 L 265 50 L 283 50 L 301 50 L 319 50 L 337 50 L 355 50 L 373 76 L 391 50 L 409 50 L 427 50 L 445 50 L 462 50 L 480 87 L 498 87 L 516 87 L 534 87 L 552 87 L 570 134 L 588 87 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 50 L 86 50 L 104 50 L 122 50 L 140 50 L 158 50 L 176 50 L 194 50 L 211 50 L 229 50 L 247 50 L 265 50 L 283 50 L 301 50 L 319 50 L 337 50 L 355 50 L 373 76 L 391 50 L 409 50 L 427 50 L 445 50 L 462 50 L 480 87 L 498 87 L 516 87 L 534 87 L 552 87 L 570 134 L 588 87" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="50" r="4" fill="#fdba74"></circle>
     <circle cx="265" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="87" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="134" r="5" fill="#ea580c"></circle>
+    <circle cx="355" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="87" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="87" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="122" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">27,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="75" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">31,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 33,310원</span>
-    <a href="https://link.coupang.com/a/d9LdHf" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/310538389258389-574796a2-64e2-4a5f-9429-5a90b6ef0c92.jpg
+title: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화 구매 가이드
+date: 2026-03-23
+description: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화는 활동량이 많은 아이들이 어린이집이나 유치원에 등원하거나 야외 활동 시 편안하게 신을 수 있는 휠라키즈운동화입니다. 핑크색 하트 디자인과 걸을 때마다 반짝이는 불빛 기능으로 아이들의 취향을 사로잡아,...
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -302,13 +341,8 @@ A. 이 제품은 발볼이 좁게 느껴질 수 있다는 의견이 있으므로
 Q. 불빛 기능은 어떻게 작동하며, 배터리 교체가 가능한가요?
 A. 불빛은 아이가 발을 디딜 때마다 밑창에서 반짝이며, 일부 모델에는 불빛을 끄고 켤 수 있는 ON/OFF 스위치가 있습니다. 그러나 내장된 배터리는 별도로 교체할 수 없습니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 33,310원</span>
-    <a href="https://link.coupang.com/a/d9LdHf" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -324,3 +358,18 @@ A. 불빛은 아이가 발을 디딜 때마다 밑창에서 반짝이며, 일부
 - [휠라 꼬모 라이트리본 KD - 예쁘고 편하게 신을 수 있는 휠라 키즈운동화 : 네이버 블로그](https://m.blog.naver.com/sysyb01/223370018893)
 - [휠라 아동용 꾸미 라이트 PT 운동화 3RM01298D : 네이버 블로그](https://m.blog.naver.com/actresssurfeit/222619377816)
 - [휠라 키즈 운동화 브랜드 추천 아동신발 BEST (라이트 휠라꾸미, 꼬모 라이트, 다이얼 KD) : 네이버 블로그](https://m.blog.naver.com/iamjina_26/223322886837)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 31,000원 · 별점 4.7 · 리뷰 58개</span>
+    <a href="https://link.coupang.com/a/d9LdHf" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

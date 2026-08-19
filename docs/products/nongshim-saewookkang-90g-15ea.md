@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/328205652732857-8845805d-6de4-40ea-a1e3-4e39d4871587.jpg
-title: 새우깡 (90g, 15개) 구매 가이드
-date: 2023-10-27
-description: 농심 새우깡 90g 15개입은 고소하고 짭조름한 맛으로 남녀노소 즐기기 좋은 국민 과자입니다. 간식, 영화 감상, 맥주 안주 등 다양한 상황에 어울리며, 대용량으로 편리하게 즐길 수 있습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "새우깡 (90g, 15개)",
-  "description": "농심 새우깡 90g 15개입은 고소하고 짭조름한 맛으로 남녀노소 즐기기 좋은 국민 과자입니다. 간식, 영화 감상, 맥주 안주 등 다양한 상황에 어울리며, 대용량으로 편리하게 즐길 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/328205652732857-8845805d-6de4-40ea-a1e3-4e39d4871587.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/433966076900301-6f9f72d7-fa3d-41c7-b4a1-e882466a86dd.jpg"
@@ -17,67 +11,41 @@ description: 농심 새우깡 90g 15개입은 고소하고 짭조름한 맛으�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "15960",
+    "price": "16350",
     "url": "https://link.coupang.com/a/e9TgYp7KNM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 121568,
+    "reviewCount": 123407,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,350원 · 별점 4.8 · 리뷰 123,407개</span>
+    <a href="https://link.coupang.com/a/e9TgYp7KNM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -86,42 +54,92 @@ description: 농심 새우깡 90g 15개입은 고소하고 짭조름한 맛으�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 122 L 89 45 L 110 45 L 130 26 L 151 26 L 172 26 L 193 26 L 214 26 L 234 26 L 255 26 L 276 26 L 297 26 L 318 26 L 338 26 L 359 26 L 380 26 L 401 26 L 422 26 L 442 26 L 463 26 L 484 26 L 505 26 L 526 26 L 546 26 L 567 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 122 L 89 45 L 110 45 L 130 26 L 151 26 L 172 26 L 193 26 L 214 26 L 234 26 L 255 26 L 276 26 L 297 26 L 318 26 L 338 26 L 359 26 L 380 26 L 401 26 L 422 26 L 442 26 L 463 26 L 484 26 L 505 26 L 526 26 L 546 26 L 567 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 122 L 88 45 L 108 45 L 128 26 L 148 26 L 168 26 L 188 26 L 208 26 L 228 26 L 248 26 L 268 26 L 288 26 L 308 26 L 328 26 L 348 26 L 368 26 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 26 L 508 26 L 528 26 L 548 26 L 568 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 122 L 88 45 L 108 45 L 128 26 L 148 26 L 168 26 L 188 26 L 208 26 L 228 26 L 248 26 L 268 26 L 288 26 L 308 26 L 328 26 L 348 26 L 368 26 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 26 L 508 26 L 528 26 L 548 26 L 568 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="110" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="130" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="255" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="297" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="526" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="567" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="88" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="45" r="4" fill="#fdba74"></circle>
+    <circle cx="128" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="248" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="288" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="528" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="568" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,960원</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,350원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,960원 · 별점 4.8 · 리뷰 121,568개</span>
-    <a href="https://link.coupang.com/a/e9TgYp7KNM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/328205652732857-8845805d-6de4-40ea-a1e3-4e39d4871587.jpg
+title: 새우깡 (90g, 15개) 구매 가이드
+date: 2023-10-27
+description: 농심 새우깡 90g 15개입은 고소하고 짭조름한 맛으로 남녀노소 즐기기 좋은 국민 과자입니다. 간식, 영화 감상, 맥주 안주 등 다양한 상황에 어울리며, 대용량으로 편리하게 즐길 수 있습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -129,9 +147,11 @@ description: 농심 새우깡 90g 15개입은 고소하고 짭조름한 맛으�
 ## 상품 개요
 농심 새우깡 (90g, 15개)은 고소한 새우 풍미와 짭조름한 맛, 바삭한 식감을 자랑하는 '국민 과자'입니다. 오랜 시간 남녀노소 모두에게 사랑받아온 친숙한 맛으로, 집에서 TV나 영화를 보며 즐기는 간식, 게임 중 출출함을 달래거나, 가벼운 맥주 안주로 활용하기에 적합합니다. 90g 소포장 15개 구성으로 개별 포장되어 있어 신선하게 보관하며 필요할 때마다 꺼내 먹기 용이하며, 대용량 구매로 경제적인 이점도 제공합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/328205652732857-8845805d-6de4-40ea-a1e3-4e39d4871587.jpg" alt="새우깡 (90g, 15개)" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -195,10 +215,17 @@ A. 새우깡은 개봉 후 공기와 접촉하면 바삭한 식감이 줄어들 
 
 *   쿠팡 상품 정보 및 고객 리뷰
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,960원 · 별점 4.8 · 리뷰 121,568개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,350원 · 별점 4.8 · 리뷰 123,407개</span>
     <a href="https://link.coupang.com/a/e9TgYp7KNM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

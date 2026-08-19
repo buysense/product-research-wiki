@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a9c1/fac924f7c65644e11e4c4998cf1331a9214c4dca3a3dd5f7b7213a218642.jpg
-title: 에르베샤플리에 Herve Chapelier 707C 코듀라 토트백 M 데님 모카 프랑스 구매 가이드
-date: 2026-06-20
-description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 가볍고 실용적인 프랑스제 데일리백으로, 캐주얼부터 세미 정장까지 다양한 스타일에 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "에르베샤플리에 Herve Chapelier 707C 코듀라 토트백 M 데님 모카 프랑스",
-  "description": "에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 가볍고 실용적인 프랑스제 데일리백으로, 캐주얼부터 세미 정장까지 다양한 스타일에 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a9c1/fac924f7c65644e11e4c4998cf1331a9214c4dca3a3dd5f7b7213a218642.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8064/03132c507b9654599e929800d291432df5ebf47ef54fd2691db3e6a1f99c.jpg"
@@ -20,92 +14,28 @@ description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 �
     "price": "429400",
     "url": "https://link.coupang.com/a/eJRTrFQUqO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 429,400원</span>
+    <a href="https://link.coupang.com/a/eJRTrFQUqO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -117,35 +47,122 @@ description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">420,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">410,000</text>
 
-    <path d="M 68 115 L 86 115 L 104 115 L 122 115 L 140 115 L 158 115 L 176 115 L 194 115 L 211 115 L 229 115 L 247 115 L 265 31 L 283 31 L 301 31 L 319 31 L 337 31 L 355 31 L 373 31 L 391 31 L 409 31 L 427 31 L 445 31 L 462 31 L 480 31 L 498 31 L 516 31 L 534 31 L 552 31 L 570 31 L 588 31 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 115 L 86 115 L 104 115 L 122 115 L 140 115 L 158 115 L 176 115 L 194 115 L 211 115 L 229 115 L 247 115 L 265 31 L 283 31 L 301 31 L 319 31 L 337 31 L 355 31 L 373 31 L 391 31 L 409 31 L 427 31 L 445 31 L 462 31 L 480 31 L 498 31 L 516 31 L 534 31 L 552 31 L 570 31 L 588 31" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 115 L 86 115 L 104 115 L 122 115 L 140 115 L 158 115 L 176 115 L 194 115 L 211 115 L 229 115 L 247 31 L 265 31 L 283 31 L 301 31 L 319 31 L 337 31 L 355 31 L 373 31 L 391 31 L 409 31 L 427 31 L 445 31 L 462 31 L 480 31 L 498 31 L 516 31 L 534 31 L 552 31 L 570 31 L 588 31 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 115 L 86 115 L 104 115 L 122 115 L 140 115 L 158 115 L 176 115 L 194 115 L 211 115 L 229 115 L 247 31 L 265 31 L 283 31 L 301 31 L 319 31 L 337 31 L 355 31 L 373 31 L 391 31 L 409 31 L 427 31 L 445 31 L 462 31 L 480 31 L 498 31 L 516 31 L 534 31 L 552 31 L 570 31 L 588 31" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="31" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="31" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="31" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="19" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">429,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 418,300원</span>
-    <a href="https://link.coupang.com/a/eJRTrFQUqO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a9c1/fac924f7c65644e11e4c4998cf1331a9214c4dca3a3dd5f7b7213a218642.jpg
+title: 에르베샤플리에 Herve Chapelier 707C 코듀라 토트백 M 데님 모카 프랑스 구매 가이드
+date: 2026-06-20
+description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 가볍고 실용적인 프랑스제 데일리백으로, 캐주얼부터 세미 정장까지 다양한 스타일에 활용하기 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -153,9 +170,11 @@ description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 �
 ## 상품 개요
 에르베샤플리에 Herve Chapelier 707C 코듀라 토트백 M 데님 모카는 가볍고 내구성이 뛰어난 코듀라 소재로 제작되어, 일상생활은 물론 가벼운 여행이나 나들이 시에도 활용하기 좋은 데일리 토트백입니다. 심플하면서도 프렌치 시크 감성을 담아 캐주얼룩부터 세미 정장까지 다양한 스타일에 자연스럽게 어울리며, 수납력과 실용성을 겸비해 주요 소지품을 간편하게 휴대하고 싶은 분들에게 적합합니다. 출시연도는 미공개이나 꾸준히 사랑받는 스테디셀러 모델입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a9c1/fac924f7c65644e11e4c4998cf1331a9214c4dca3a3dd5f7b7213a218642.jpg" alt="에르베샤플리에 Herve Chapelier 707C 코듀라 토트백 M 데님 모카 프랑스" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -217,10 +236,17 @@ A. 707C M 사이즈의 핸들 길이는 약 28cm로, 팔에 걸치거나 손으�
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 418,300원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 429,400원</span>
     <a href="https://link.coupang.com/a/eJRTrFQUqO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

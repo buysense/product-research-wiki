@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cca2/6f46cfa11861c71b124b6a3afe9c619387df917d80a10090e47450b4040b.jpg
-title: 시너지 콤부차 구매 가이드
-date: 2026-05-05
-description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌함을 제공하는 발효 음료로, 식사 중이나 건강한 음료 대안으로 소비하기에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "시너지 콤부차",
-  "description": "시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌함을 제공하는 발효 음료로, 식사 중이나 건강한 음료 대안으로 소비하기에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cca2/6f46cfa11861c71b124b6a3afe9c619387df917d80a10090e47450b4040b.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d1d9/ba36edd98918d9f4a0624a6a126ab7f6258340e5bf2ed0f0d3146fe85874.jpg"
@@ -17,178 +11,31 @@ description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "77900",
+    "price": "107900",
     "url": "https://link.coupang.com/a/eDdjUm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-05 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 107,900원</span>
+    <a href="https://link.coupang.com/a/eDdjUm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -200,38 +47,209 @@ description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 136 L 86 136 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 136 L 427 136 L 445 136 L 462 136 L 480 141 L 498 141 L 516 141 L 534 141 L 552 47 L 570 47 L 588 136 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 136 L 86 136 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 136 L 427 136 L 445 136 L 462 136 L 480 141 L 498 141 L 516 141 L 534 141 L 552 47 L 570 47 L 588 136" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 136 L 86 136 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 136 L 427 136 L 445 136 L 462 141 L 480 141 L 498 141 L 516 141 L 534 47 L 552 47 L 570 136 L 588 90 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 136 L 86 136 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 136 L 427 136 L 445 136 L 462 141 L 480 141 L 498 141 L 516 141 L 534 47 L 552 47 L 570 136 L 588 90" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="47" r="4" fill="#fdba74"></circle>
     <circle cx="552" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="136" r="5" fill="#ea580c"></circle>
+    <circle cx="570" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="90" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="124" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">77,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="78" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">107,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 77,900원</span>
-    <a href="https://link.coupang.com/a/eDdjUm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cca2/6f46cfa11861c71b124b6a3afe9c619387df917d80a10090e47450b4040b.jpg
+title: 시너지 콤부차 구매 가이드
+date: 2026-05-05
+description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌함을 제공하는 발효 음료로, 식사 중이나 건강한 음료 대안으로 소비하기에 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -241,9 +259,11 @@ description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌�
 ## 상품 개요
 시너지 콤부차는 차를 발효시켜 만든 음료로, 새콤달콤한 맛과 청량한 탄산감이 특징입니다. 소화를 돕는 효소와 유산균을 함유하고 있어 식사 중 탄산음료 대안이나 식후 깔끔한 입가심으로 소비됩니다. 건강한 라이프스타일을 추구하는 소비자들이 일상에서 가볍게 즐기거나 운동 후 상쾌하게 수분을 보충할 때 선택하는 경우가 많습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cca2/6f46cfa11861c71b124b6a3afe9c619387df917d80a10090e47450b4040b.jpg" alt="시너지 콤부차" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -305,10 +325,17 @@ A. 시너지 콤부차는 다양한 과일 맛(예: 레몬, 베리, 진저 등)�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 77,900원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 107,900원</span>
     <a href="https://link.coupang.com/a/eDdjUm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

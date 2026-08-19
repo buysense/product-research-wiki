@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b081/2faa3ab0b9fee0175f31d40a8e2623a6ea08fccbf8d2ac3259fac4bded67.jpg
-title: COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이 구매 가이드
-date: 2026-08-10
-description: 코이세이오 플라워 카프리 슬리브 블루 그레이는 꽃무늬 디자인과 카프리 소매가 특징인 상의로, 봄부터 가을까지 일상복이나 캐주얼한 외출복으로 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이",
-  "description": "코이세이오 플라워 카프리 슬리브 블루 그레이는 꽃무늬 디자인과 카프리 소매가 특징인 상의로, 봄부터 가을까지 일상복이나 캐주얼한 외출복으로 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b081/2faa3ab0b9fee0175f31d40a8e2623a6ea08fccbf8d2ac3259fac4bded67.jpg"
   ],
@@ -19,13 +13,18 @@ description: 코이세이오 플라워 카프리 슬리브 블루 그레이는 �
     "price": "123500",
     "url": "https://link.coupang.com/a/f6tmUQrMs0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-17"
+    "priceValidUntil": "2026-08-26"
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-10 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -34,12 +33,31 @@ description: 코이세이오 플라워 카프리 슬리브 블루 그레이는 �
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b081/2faa3ab0b9fee0175f31d40a8e2623a6ea08fccbf8d2ac3259fac4bded67.jpg
+title: COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이 구매 가이드
+date: 2026-08-10
+description: 코이세이오 플라워 카프리 슬리브 블루 그레이는 꽃무늬 디자인과 카프리 소매가 특징인 상의로, 봄부터 가을까지 일상복이나 캐주얼한 외출복으로 활용하기 좋습니다.
+---
+
+
+
+
+
+
+
 ## 상품 개요
 COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이는 섬세한 꽃무늬 패턴과 활동성이 좋은 카프리 소매가 특징인 여성용 상의입니다. 봄부터 가을까지 일상적인 캐주얼 룩이나 나들이, 가벼운 외출 시 편안하면서도 스타일리시하게 연출하기에 적합합니다. 통기성 좋은 소재로 제작되어 따뜻한 계절에 시원하게 착용할 수 있으며, 블루 그레이 색상은 다양한 하의와 조화롭게 매치됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b081/2faa3ab0b9fee0175f31d40a8e2623a6ea08fccbf8d2ac3259fac4bded67.jpg" alt="COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -100,6 +118,11 @@ A. 플라워 패턴 상의이므로, 심플한 디자인의 단색 하의와 잘
 
 *   [COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이 (쿠팡)](https://link.coupang.com/a/f6tmUQrMs0)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -107,3 +130,5 @@ A. 플라워 패턴 상의이므로, 심플한 디자인의 단색 하의와 잘
     <a href="https://link.coupang.com/a/f6tmUQrMs0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

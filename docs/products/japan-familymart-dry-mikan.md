@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5acd/e5449dc2a72ec88a69125a6514549fce0cc1f590e2376ee7f6c529018767.png
-title: 일본패밀리마트 드라이미깡 구매 가이드
-date: 2026-07-30
-description: 일본패밀리마트 드라이미깡은 일본 여행 중 간편하게 즐기거나 선물하기 좋은 건조 귤 스낵입니다. 자연 그대로의 맛을 담아 부담 없이 즐기기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "일본패밀리마트 드라이미깡",
-  "description": "일본패밀리마트 드라이미깡은 일본 여행 중 간편하게 즐기거나 선물하기 좋은 건조 귤 스낵입니다. 자연 그대로의 맛을 담아 부담 없이 즐기기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5acd/e5449dc2a72ec88a69125a6514549fce0cc1f590e2376ee7f6c529018767.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8840/ec0e420f8db59fe4b539d87be8b824d91fef27560be7a9f13608427fb589.png"
@@ -20,7 +14,7 @@ description: 일본패밀리마트 드라이미깡은 일본 여행 중 간편�
     "price": "29490",
     "url": "https://link.coupang.com/a/fOj5cimEO4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -31,42 +25,14 @@ description: 일본패밀리마트 드라이미깡은 일본 여행 중 간편�
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-30 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6개 가격 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">29,600</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">29,500</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">29,400</text>
-
-    <path d="M 68 110 L 172 110 L 276 110 L 380 110 L 484 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 172 110 L 276 110 L 380 110 L 484 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
-
-    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">29,490원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -75,12 +41,66 @@ description: 일본패밀리마트 드라이미깡은 일본 여행 중 간편�
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">29,600</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">29,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">29,400</text>
+
+    <path d="M 68 110 L 155 110 L 241 110 L 328 110 L 415 110 L 501 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 155 110 L 241 110 L 328 110 L 415 110 L 501 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
+
+    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">29,490원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5acd/e5449dc2a72ec88a69125a6514549fce0cc1f590e2376ee7f6c529018767.png
+title: 일본패밀리마트 드라이미깡 구매 가이드
+date: 2026-07-30
+description: 일본패밀리마트 드라이미깡은 일본 여행 중 간편하게 즐기거나 선물하기 좋은 건조 귤 스낵입니다. 자연 그대로의 맛을 담아 부담 없이 즐기기 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 상품 개요
 일본패밀리마트 드라이미깡은 일본 현지 패밀리마트 편의점에서 접할 수 있는 건조 귤 스낵으로, 귤 본연의 맛을 살려 간편하게 즐기기 좋습니다. 일본 여행 중 가볍게 허기를 달래거나 숙소에서 휴식하며 즐기기 좋은 간식이며, 지인들에게 부담 없이 건넬 수 있는 작은 선물로도 고려될 수 있습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5acd/e5449dc2a72ec88a69125a6514549fce0cc1f590e2376ee7f6c529018767.png" alt="일본패밀리마트 드라이미깡" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -138,6 +158,11 @@ A. 상세 영양 정보와 첨가물 유무는 제품 포장에 기재된 내용
 *   [제조사 공식 웹사이트 (상세 성분 및 영양 정보 확인용)]
 *   [관련 일본 현지 리뷰 블로그 및 미디어]
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -145,3 +170,5 @@ A. 상세 영양 정보와 첨가물 유무는 제품 포장에 기재된 내용
     <a href="https://link.coupang.com/a/fOj5cimEO4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

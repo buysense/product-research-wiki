@@ -1,45 +1,63 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8f5c/e3472c8463b18cf9a7d7a1625e51f74bc94b0fb122f7a232d9ca00c66e6c.jpg
-title: THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE 구매 가이드
-date: 2026-08-07
-description: THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE는 자연스러운 날 것의 디테일이 돋보이는 셔츠 재킷으로, 간절기 데일리룩과 레이어드 스타일에 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE",
-  "description": "THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE는 자연스러운 날 것의 디테일이 돋보이는 셔츠 재킷으로, 간절기 데일리룩과 레이어드 스타일에 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8f5c/e3472c8463b18cf9a7d7a1625e51f74bc94b0fb122f7a232d9ca00c66e6c.jpg"
   ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "155100",
+    "price": "108100",
     "url": "https://link.coupang.com/a/f1AbuHTz2G",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-14"
+    "priceValidUntil": "2026-08-26"
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-07 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 155,100원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 108,100원</span>
     <a href="https://link.coupang.com/a/f1AbuHTz2G" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8f5c/e3472c8463b18cf9a7d7a1625e51f74bc94b0fb122f7a232d9ca00c66e6c.jpg
+title: THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE 구매 가이드
+date: 2026-08-07
+description: THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE는 자연스러운 날 것의 디테일이 돋보이는 셔츠 재킷으로, 간절기 데일리룩과 레이어드 스타일에 활용하기 좋습니다.
+---
+
+
+
+
+
+
+
 ## 상품 개요
 THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE는 자연스럽게 커팅된 밑단과 소매 디테일이 특징인 셔츠형 재킷입니다. 간절기 아우터나 실내에서 가볍게 걸칠 수 있는 스타일로, 캐주얼한 데일리룩부터 미니멀한 스타일까지 다양하게 활용하기 좋습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8f5c/e3472c8463b18cf9a7d7a1625e51f74bc94b0fb122f7a232d9ca00c66e6c.jpg" alt="THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -109,10 +127,17 @@ A. 이 블루 셔츠 재킷은 흰색 또는 검은색 기본 티셔츠, 청바�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 155,100원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 108,100원</span>
     <a href="https://link.coupang.com/a/f1AbuHTz2G" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

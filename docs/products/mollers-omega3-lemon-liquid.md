@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/18/13/7/6ced1d86-0d64-4acf-b90d-3ea0b15d725a.jpg
-title: 뭴러스 오메가3 레몬맛 구매 가이드
-date: 2026-05-06
-description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪거나 비린 맛에 민감한 소비자를 위한 액상형 오메가3 제품으로, 상큼한 레몬향으로 부담 없이 섭취할 수 있습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "뭴러스 오메가3 레몬맛",
-  "description": "뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪거나 비린 맛에 민감한 소비자를 위한 액상형 오메가3 제품으로, 상큼한 레몬향으로 부담 없이 섭취할 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/18/13/7/6ced1d86-0d64-4acf-b90d-3ea0b15d725a.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3798156587474-32186e50-f9d0-48f3-b242-622eaf7d09c0.jpg"
@@ -20,180 +14,35 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     "price": "34200",
     "url": "https://link.coupang.com/a/eDBeaL",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 143,
+    "reviewCount": 148,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,200원 · 별점 4.7 · 리뷰 148개</span>
+    <a href="https://link.coupang.com/a/eDBeaL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -205,44 +54,211 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
 
-    <path d="M 68 38 L 86 38 L 104 64 L 122 64 L 140 90 L 158 90 L 176 90 L 194 90 L 211 90 L 229 127 L 247 127 L 265 101 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 38 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 38 L 86 38 L 104 64 L 122 64 L 140 90 L 158 90 L 176 90 L 194 90 L 211 90 L 229 127 L 247 127 L 265 101 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 38 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 38 L 86 64 L 104 64 L 122 90 L 140 90 L 158 90 L 176 90 L 194 90 L 211 127 L 229 127 L 247 101 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 38 L 570 38 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 38 L 86 64 L 104 64 L 122 90 L 140 90 L 158 90 L 176 90 L 194 90 L 211 127 L 229 127 L 247 101 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 38 L 570 38 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="64" r="4" fill="#fdba74"></circle>
     <circle cx="104" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="127" r="4" fill="#fdba74"></circle>
     <circle cx="229" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="38" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="26" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,200원 · 별점 4.7 · 리뷰 143개</span>
-    <a href="https://link.coupang.com/a/eDBeaL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/18/13/7/6ced1d86-0d64-4acf-b90d-3ea0b15d725a.jpg
+title: 뭴러스 오메가3 레몬맛 구매 가이드
+date: 2026-05-06
+description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪거나 비린 맛에 민감한 소비자를 위한 액상형 오메가3 제품으로, 상큼한 레몬향으로 부담 없이 섭취할 수 있습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -252,9 +268,11 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
 ## 상품 개요
 뭴러스 오메가3 레몬맛은 알약형 오메가3 섭취에 부담을 느끼거나 비린 맛에 민감한 소비자들이 매일 아침 꾸준히 건강을 챙기기 좋은 액상형 오메가3 제품입니다. 상큼한 레몬향으로 오메가3 특유의 비린 맛을 줄여 가족 구성원 모두가 거부감 없이 섭취할 수 있도록 돕습니다. 출시연도 정보는 현재 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/18/13/7/6ced1d86-0d64-4acf-b90d-3ea0b15d725a.jpg" alt="뭴러스 오메가3 레몬맛" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -321,10 +339,17 @@ A. 제품 라벨의 영양 정보 또는 공식 홈페이지에서 DHA와 EPA의
 *   [뭴러스 공식 홈페이지 (정보 확인)](https://www.mollers.com/kr/){:target="_blank" rel="noopener noreferrer"}
 *   [식품의약품안전처 건강기능식품 정보 (오메가3 관련)](https://www.mfds.go.kr/){:target="_blank" rel="noopener noreferrer"}
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,200원 · 별점 4.7 · 리뷰 143개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,200원 · 별점 4.7 · 리뷰 148개</span>
     <a href="https://link.coupang.com/a/eDBeaL" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

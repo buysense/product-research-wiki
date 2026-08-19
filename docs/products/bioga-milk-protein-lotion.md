@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b9f/632a39b8c3f626a0ee5d25754e3fe48825c3b8ef613190b499ee610b52bf.jpg
-title: 바이오가 우유단백질 로션 구매 가이드
-date: 2026-05-24
-description: 바이오가 우유단백질 로션은 건조하고 민감한 피부를 가진 온 가족이 사계절 내내 순하고 촉촉하게 사용할 수 있는 얼굴·바디 겸용 보습 로션입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "바이오가 우유단백질 로션",
-  "description": "바이오가 우유단백질 로션은 건조하고 민감한 피부를 가진 온 가족이 사계절 내내 순하고 촉촉하게 사용할 수 있는 얼굴·바디 겸용 보습 로션입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b9f/632a39b8c3f626a0ee5d25754e3fe48825c3b8ef613190b499ee610b52bf.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f089/a83e230fb7534e7c24f500510e1477434be22cb071103a9b89d622d06846.png"
@@ -17,153 +11,38 @@ description: 바이오가 우유단백질 로션은 건조하고 민감한 피�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "23210",
+    "price": "20900",
     "url": "https://link.coupang.com/a/d0TzEOH6k0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 742,
+    "reviewCount": 752,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-24 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,900원 · 별점 4.8 · 리뷰 752개</span>
+    <a href="https://link.coupang.com/a/d0TzEOH6k0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -175,43 +54,182 @@ description: 바이오가 우유단백질 로션은 건조하고 민감한 피�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 104 L 158 131 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 26 L 319 26 L 337 26 L 355 26 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 46 L 498 46 L 516 46 L 534 46 L 552 56 L 570 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 104 L 158 131 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 26 L 319 26 L 337 26 L 355 26 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 46 L 498 46 L 516 46 L 534 46 L 552 56 L 570 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 104 L 140 131 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 26 L 301 26 L 319 26 L 337 26 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 46 L 498 46 L 516 46 L 534 56 L 552 56 L 570 56 L 588 144 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 104 L 140 131 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 26 L 301 26 L 319 26 L 337 26 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 46 L 498 46 L 516 46 L 534 56 L 552 56 L 570 56 L 588 144" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="56" r="5" fill="#ea580c"></circle>
+    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="144" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,210원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="132" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">20,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,210원 · 별점 4.8 · 리뷰 742개</span>
-    <a href="https://link.coupang.com/a/d0TzEOH6k0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b9f/632a39b8c3f626a0ee5d25754e3fe48825c3b8ef613190b499ee610b52bf.jpg
+title: 바이오가 우유단백질 로션 구매 가이드
+date: 2026-05-24
+description: 바이오가 우유단백질 로션은 건조하고 민감한 피부를 가진 온 가족이 사계절 내내 순하고 촉촉하게 사용할 수 있는 얼굴·바디 겸용 보습 로션입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -221,9 +239,11 @@ description: 바이오가 우유단백질 로션은 건조하고 민감한 피�
 ## 상품 개요
 바이오가 우유단백질 로션은 건조하고 민감해진 피부에 깊은 보습과 영양을 공급하며, 온 가족이 얼굴부터 바디까지 사계절 내내 순하게 사용할 수 있는 로션입니다. 끈적임 없이 빠르게 흡수되어 샤워 후나 건조함이 느껴질 때 부담 없이 사용할 수 있으며, 은은하고 포근한 향으로 데일리 피부 케어에 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b9f/632a39b8c3f626a0ee5d25754e3fe48825c3b8ef613190b499ee610b52bf.jpg" alt="바이오가 우유단백질 로션" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -294,10 +314,17 @@ A. 충분한 보습감을 제공하지만, 매우 건조한 겨울철이나 극�
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,210원 · 별점 4.8 · 리뷰 742개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,900원 · 별점 4.8 · 리뷰 752개</span>
     <a href="https://link.coupang.com/a/d0TzEOH6k0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

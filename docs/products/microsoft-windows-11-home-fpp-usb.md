@@ -1,176 +1,42 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/186749504319141-dc3399f3-58c2-41b9-afde-1c59fc2db1ea.jpg
-title: 마이크로소프트 Windows 11 Home FPP USB 구매 가이드
-date: 2026-04-06
-description: 마이크로소프트 Windows 11 Home FPP USB는 조립 PC 및 운영체제 미포함 PC 사용자에게 안정적인 윈도우 11 환경을 제공하며, 쉬운 설치와 PC 교체 시 라이선스 재사용이 가능한 정품 운영체제입니다.
----
+<!-- bs:jsonld -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "마이크로소프트 Windows 11 Home FPP USB",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "KRW",
+    "price": "169000",
+    "url": "https://link.coupang.com/a/ei0Nd1",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-08-26"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.8,
+    "reviewCount": 5439,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 169,000원 · 별점 4.8 · 리뷰 5,439개</span>
+    <a href="https://link.coupang.com/a/ei0Nd1" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -182,52 +48,224 @@ description: 마이크로소프트 Windows 11 Home FPP USB는 조립 PC 및 운�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">160,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">140,000</text>
 
-    <path d="M 68 53 L 86 94 L 104 72 L 122 83 L 140 83 L 158 83 L 176 49 L 194 72 L 211 72 L 229 121 L 247 64 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 121 L 409 121 L 427 121 L 445 121 L 462 102 L 480 129 L 498 157 L 516 157 L 534 157 L 552 129 L 570 129 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 53 L 86 94 L 104 72 L 122 83 L 140 83 L 158 83 L 176 49 L 194 72 L 211 72 L 229 121 L 247 64 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 121 L 409 121 L 427 121 L 445 121 L 462 102 L 480 129 L 498 157 L 516 157 L 534 157 L 552 129 L 570 129 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="49" r="4" fill="#fdba74"></circle>
+    <path d="M 68 94 L 86 72 L 104 83 L 122 83 L 140 83 L 158 49 L 176 72 L 194 72 L 211 121 L 229 64 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 121 L 391 121 L 409 121 L 427 121 L 445 102 L 462 129 L 480 157 L 498 157 L 516 157 L 534 129 L 552 129 L 570 102 L 588 68 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 94 L 86 72 L 104 83 L 122 83 L 140 83 L 158 49 L 176 72 L 194 72 L 211 121 L 229 64 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 121 L 391 121 L 409 121 L 427 121 L 445 102 L 462 129 L 480 157 L 498 157 L 516 157 L 534 129 L 552 129 L 570 102 L 588 68" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="94" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="83" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="194" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="129" r="4" fill="#fdba74"></circle>
     <circle cx="552" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <circle cx="570" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="68" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">160,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-02</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="56" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">169,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 205,000원</span>
-    <a href="https://link.coupang.com/a/ei0Nd1" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/186749504319141-dc3399f3-58c2-41b9-afde-1c59fc2db1ea.jpg
+title: 마이크로소프트 Windows 11 Home FPP USB 구매 가이드
+date: 2026-04-06
+description: 마이크로소프트 Windows 11 Home FPP USB는 조립 PC 및 운영체제 미포함 PC 사용자에게 안정적인 윈도우 11 환경을 제공하며, 쉬운 설치와 PC 교체 시 라이선스 재사용이 가능한 정품 운영체제입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -304,13 +342,8 @@ A. 네, Windows 11의 최소 시스템 요구 사항에는 TPM 2.0(신뢰할 수
 Q. 현재 Windows 11의 최신 버전은 무엇인가요?
 A. 현재 Windows 11의 최신 주요 버전은 23H2(2023년 10월 출시)이며, 마이크로소프트는 지속적인 업데이트를 통해 기능 개선 및 보안 강화를 제공합니다. 최신 릴리스 정보는 [마이크로소프트 공식 웹사이트](https://learn.microsoft.com/ko-kr/windows/release-health/release-information)에서 확인할 수 있습니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 205,000원</span>
-    <a href="https://link.coupang.com/a/ei0Nd1" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -334,3 +367,18 @@ A. 현재 Windows 11의 최신 주요 버전은 23H2(2023년 10월 출시)이며
 - [인생효도템 FFF UMPC의 완벽 가이드 Windows 11 Home과 Pro 설치 방법 및 제품 비교 Windows11 마이크로소프트 FPP USB : 네이버 블로그](https://m.blog.naver.com/xruonyrmd992/223599368127)
 - [반응 좋은 마이크로소프트 Windows 11 Home 처음사용자용 FPP USB HAJ-00095 비교 및 추천 : 네이버 블로그](https://m.blog.naver.com/omu7mjzd/223663670061)
 - [TOP 마이크로소프트 Windows 11 Home 처음사용자용 FPP USB HAJ-00095 비교 및 추천 : 네이버 블로그](https://m.blog.naver.com/s26325/223746605378)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 169,000원 · 별점 4.8 · 리뷰 5,439개</span>
+    <a href="https://link.coupang.com/a/ei0Nd1" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta_bottom -->

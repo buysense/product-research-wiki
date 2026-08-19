@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/14/18/4/4d7e9f58-1787-4ccd-a2e5-68c9737bfd82.jpg
-title: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13 구매 가이드
-date: 2026-07-03
-description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등학생 아이들이 일상에서 편안하게 신고 벗을 수 있도록 설계된 경량 운동화입니다. 기계 세탁이 가능하여 관리 편의성이 높습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "스케쳐스키즈 바운드리스 운동화 SK0GPCGX13",
-  "description": "스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등학생 아이들이 일상에서 편안하게 신고 벗을 수 있도록 설계된 경량 운동화입니다. 기계 세탁이 가능하여 관리 편의성이 높습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/14/18/4/4d7e9f58-1787-4ccd-a2e5-68c9737bfd82.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/c51nbiof/e25ff997b17845a1a8514e216e52f016.jpg"
@@ -17,125 +11,149 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "44100",
+    "price": "49000",
     "url": "https://link.coupang.com/a/e5cvl2EOTQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 124,
+    "reviewCount": 130,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 49,000원 · 별점 4.8 · 리뷰 130개</span>
+    <a href="https://link.coupang.com/a/e5cvl2EOTQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 60 L 87 60 L 105 26 L 124 60 L 142 60 L 161 60 L 179 60 L 198 60 L 217 60 L 235 26 L 254 60 L 272 60 L 291 60 L 309 60 L 328 26 L 347 26 L 365 26 L 384 129 L 402 129 L 421 129 L 439 26 L 458 94 L 477 94 L 495 94 L 514 26 L 532 26 L 551 26 L 569 94 L 588 40 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 60 L 87 60 L 105 26 L 124 60 L 142 60 L 161 60 L 179 60 L 198 60 L 217 60 L 235 26 L 254 60 L 272 60 L 291 60 L 309 60 L 328 26 L 347 26 L 365 26 L 384 129 L 402 129 L 421 129 L 439 26 L 458 94 L 477 94 L 495 94 L 514 26 L 532 26 L 551 26 L 569 94 L 588 40" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="87" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="105" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="124" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="217" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="235" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="254" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="309" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="365" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="384" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="421" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="495" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="551" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="569" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="40" r="5" fill="#ea580c"></circle>
+    <path d="M 68 81 L 86 81 L 104 64 L 122 81 L 140 81 L 158 81 L 176 81 L 194 81 L 211 81 L 229 64 L 247 81 L 265 81 L 283 81 L 301 81 L 319 64 L 337 64 L 355 64 L 373 115 L 391 115 L 409 115 L 427 64 L 445 98 L 462 98 L 480 98 L 498 64 L 516 64 L 534 64 L 552 98 L 570 71 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 81 L 86 81 L 104 64 L 122 81 L 140 81 L 158 81 L 176 81 L 194 81 L 211 81 L 229 64 L 247 81 L 265 81 L 283 81 L 301 81 L 319 64 L 337 64 L 355 64 L 373 115 L 391 115 L 409 115 L 427 64 L 445 98 L 462 98 L 480 98 L 498 64 L 516 64 L 534 64 L 552 98 L 570 71 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="98" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="98" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="98" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="28" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">44,100원</text>
+    <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 44,100원 · 별점 4.8 · 리뷰 124개</span>
-    <a href="https://link.coupang.com/a/e5cvl2EOTQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/14/18/4/4d7e9f58-1787-4ccd-a2e5-68c9737bfd82.jpg
+title: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13 구매 가이드
+date: 2026-07-03
+description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등학생 아이들이 일상에서 편안하게 신고 벗을 수 있도록 설계된 경량 운동화입니다. 기계 세탁이 가능하여 관리 편의성이 높습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -143,9 +161,11 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
 ## 상품 개요
 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등학생 아이들이 등교, 학원, 놀이터 활동 등 일상생활에서 편안하고 안전하게 착용할 수 있도록 고안된 경량 운동화입니다. 끈을 묶을 필요 없는 벨크로 또는 슬립온 구조로 아이 혼자서도 쉽게 신고 벗을 수 있으며, 통기성 좋은 메쉬 소재와 가벼운 무게, 쿠션감 있는 밑창이 특징입니다. 기계 세탁이 가능하여 부모의 관리 부담을 덜어줍니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/14/18/4/4d7e9f58-1787-4ccd-a2e5-68c9737bfd82.jpg" alt="스케쳐스키즈 바운드리스 운동화 SK0GPCGX13" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -203,10 +223,17 @@ A. 메쉬 소재의 가장 큰 장점은 뛰어난 통기성으로 발에 땀이
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 44,100원 · 별점 4.8 · 리뷰 124개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 49,000원 · 별점 4.8 · 리뷰 130개</span>
     <a href="https://link.coupang.com/a/e5cvl2EOTQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d959/9ae6b6be49432b7f7e2b2eed72f78d2c9655bcac0e2c1c56541864d4b8ae.jpg
-title: 공 벽등 6인치 구매 가이드
-date: 2026-04-27
-description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조명을 제공하는 공 벽등 6인치 구매 가이드. 방수 기능으로 물 사용 공간에서도 안심하고 사용할 수 있습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "공 벽등 6인치",
-  "description": "베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조명을 제공하는 공 벽등 6인치 구매 가이드. 방수 기능으로 물 사용 공간에서도 안심하고 사용할 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d959/9ae6b6be49432b7f7e2b2eed72f78d2c9655bcac0e2c1c56541864d4b8ae.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9f99/fffc5e76a56b0473f9ad31eeff89c1003f790576fbd6c1769324c33f6555.jpg"
@@ -17,194 +11,38 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "12440",
+    "price": "12370",
     "url": "https://link.coupang.com/a/exEeiV",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "priceValidUntil": "2026-08-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.3,
-    "reviewCount": 63,
+    "reviewCount": 65,
     "bestRating": 5,
     "worstRating": 1
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-27 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,370원 · 별점 4.3 · 리뷰 65개</span>
+    <a href="https://link.coupang.com/a/exEeiV" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -216,39 +54,219 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 126 L 86 126 L 104 126 L 122 126 L 140 126 L 158 126 L 176 125 L 194 125 L 211 125 L 229 126 L 247 126 L 265 126 L 283 126 L 301 126 L 319 126 L 337 126 L 355 126 L 373 126 L 391 126 L 409 126 L 427 126 L 445 126 L 462 126 L 480 126 L 498 126 L 516 126 L 534 126 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 126 L 86 126 L 104 126 L 122 126 L 140 126 L 158 126 L 176 125 L 194 125 L 211 125 L 229 126 L 247 126 L 265 126 L 283 126 L 301 126 L 319 126 L 337 126 L 355 126 L 373 126 L 391 126 L 409 126 L 427 126 L 445 126 L 462 126 L 480 126 L 498 126 L 516 126 L 534 126 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 126 L 86 126 L 104 126 L 122 126 L 140 126 L 158 125 L 176 125 L 194 125 L 211 126 L 229 126 L 247 126 L 265 126 L 283 126 L 301 126 L 319 126 L 337 126 L 355 126 L 373 126 L 391 126 L 409 126 L 427 126 L 445 126 L 462 126 L 480 126 L 498 126 L 516 126 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 126 L 86 126 L 104 126 L 122 126 L 140 126 L 158 125 L 176 125 L 194 125 L 211 126 L 229 126 L 247 126 L 265 126 L 283 126 L 301 126 L 319 126 L 337 126 L 355 126 L 373 126 L 391 126 L 409 126 L 427 126 L 445 126 L 462 126 L 480 126 L 498 126 L 516 126 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="126" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="126" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,440원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,370원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,440원 · 별점 4.3 · 리뷰 63개</span>
-    <a href="https://link.coupang.com/a/exEeiV" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d959/9ae6b6be49432b7f7e2b2eed72f78d2c9655bcac0e2c1c56541864d4b8ae.jpg
+title: 공 벽등 6인치 구매 가이드
+date: 2026-04-27
+description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조명을 제공하는 공 벽등 6인치 구매 가이드. 방수 기능으로 물 사용 공간에서도 안심하고 사용할 수 있습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -264,9 +282,11 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
 ## 상품 개요
 공 벽등 6인치는 베란다, 테라스, 주방 등 실내외 공간에 밝고 깔끔한 조명을 제공하기 위한 벽 부착형 조명입니다. 오래된 조명 교체 용도로 고려되거나, 물을 자주 사용하는 공간에서 방수 기능 덕분에 안심하고 사용하기 적합합니다. 심플한 디자인으로 다양한 인테리어에 잘 어울리며, 공간을 밝고 깨끗하게 연출하는 데 기여합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d959/9ae6b6be49432b7f7e2b2eed72f78d2c9655bcac0e2c1c56541864d4b8ae.jpg" alt="공 벽등 6인치" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -322,10 +342,17 @@ A. 벽등은 전기 배선 작업이 필요할 수 있으므로, 자가 설치�
 ## 참고한 글
 *   쿠팡 고객 리뷰
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,440원 · 별점 4.3 · 리뷰 63개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,370원 · 별점 4.3 · 리뷰 65개</span>
     <a href="https://link.coupang.com/a/exEeiV" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->

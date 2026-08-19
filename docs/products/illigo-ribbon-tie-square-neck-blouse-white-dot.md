@@ -1,15 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0c63/3421af43862ed374633a2e0ff8bd82bacd861c1757ff9a7b129c6004977e.jpg
-title: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트 구매 가이드
-date: 2026-08-13
-description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트는 리본 디테일과 스퀘어넥 디자인이 돋보이는 제품으로, 데일리룩, 오피스룩, 데이트룩 등 다양한 상황에서 여성스러운 분위기를 연출하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "일리고 리본 타이 스퀘어넥 블라우스 화이트 도트",
-  "description": "일리고 리본 타이 스퀘어넥 블라우스 화이트 도트는 리본 디테일과 스퀘어넥 디자인이 돋보이는 제품으로, 데일리룩, 오피스룩, 데이트룩 등 다양한 상황에서 여성스러운 분위기를 연출하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0c63/3421af43862ed374633a2e0ff8bd82bacd861c1757ff9a7b129c6004977e.jpg"
   ],
@@ -19,13 +13,18 @@ description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트�
     "price": "54900",
     "url": "https://link.coupang.com/a/ga4c9Pkro4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-20"
+    "priceValidUntil": "2026-08-26"
   }
 }
 </script>
+
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-13 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -34,12 +33,31 @@ description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트�
   </div>
 </div>
 
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0c63/3421af43862ed374633a2e0ff8bd82bacd861c1757ff9a7b129c6004977e.jpg
+title: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트 구매 가이드
+date: 2026-08-13
+description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트는 리본 디테일과 스퀘어넥 디자인이 돋보이는 제품으로, 데일리룩, 오피스룩, 데이트룩 등 다양한 상황에서 여성스러운 분위기를 연출하기 좋습니다.
+---
+
+
+
+
+
+
+
 ## 상품 개요
 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트는 목 부분의 리본 디테일과 깔끔한 스퀘어넥 디자인, 그리고 화이트 바탕에 작은 도트 패턴이 특징인 블라우스입니다. 이 제품은 데일리룩에 포인트를 주거나, 오피스룩에 단정하면서도 여성스러운 분위기를 더하고 싶을 때, 혹은 데이트나 모임과 같은 자리에서 스타일을 완성하고자 할 때 착용하기 적합합니다. 주로 봄과 가을 간절기에 단품으로, 여름에는 실내에서 가볍게 활용될 수 있습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0c63/3421af43862ed374633a2e0ff8bd82bacd861c1757ff9a7b129c6004977e.jpg" alt="일리고 리본 타이 스퀘어넥 블라우스 화이트 도트" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -101,6 +119,11 @@ A. 온라인 구매 시에는 반드시 판매자가 제공하는 상세 사이�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -108,3 +131,5 @@ A. 온라인 구매 시에는 반드시 판매자가 제공하는 상세 사이�
     <a href="https://link.coupang.com/a/ga4c9Pkro4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
+<!-- /bs:cta_bottom -->
