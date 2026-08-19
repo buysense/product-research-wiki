@@ -10,6 +10,7 @@ description: 라라스윗 저당 웨하스 헤이즐넛 초코는 당 걱정 없
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "라라스윗 저당 웨하스 헤이즐넛 초코",
+  "description": "라라스윗 저당 웨하스 헤이즐넛 초코는 당 걱정 없이 달콤한 초코 웨하스를 즐기고 싶은 분들을 위한 간식입니다. 개별 포장으로 휴대가 간편하며, 커피와 함께 디저트로 즐기기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/05/14/6/9f38cb94-dfef-4cd5-a9a5-0d67fd0f2614.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/05/14/7/cba0aad0-ebe6-4686-906a-8dda3967c2e8.jpg"
@@ -20,12 +21,12 @@ description: 라라스윗 저당 웨하스 헤이즐넛 초코는 당 걱정 없
     "price": "6900",
     "url": "https://link.coupang.com/a/epXRsNFmAm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 737,
+    "reviewCount": 743,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +43,7 @@ description: 라라스윗 저당 웨하스 헤이즐넛 초코는 당 걱정 없
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,900원 · 별점 4.7 · 리뷰 737개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,900원 · 별점 4.7 · 리뷰 743개</span>
     <a href="https://link.coupang.com/a/epXRsNFmAm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,28 +61,28 @@ description: 라라스윗 저당 웨하스 헤이즐넛 초코는 당 걱정 없
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 156 L 86 156 L 104 156 L 122 156 L 140 156 L 158 152 L 176 152 L 194 152 L 211 152 L 229 152 L 247 152 L 265 152 L 283 152 L 301 152 L 319 152 L 337 152 L 355 42 L 373 42 L 391 42 L 409 42 L 427 152 L 445 152 L 462 152 L 480 152 L 498 152 L 516 152 L 534 152 L 552 152 L 570 152 L 588 152 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 156 L 86 156 L 104 156 L 122 156 L 140 156 L 158 152 L 176 152 L 194 152 L 211 152 L 229 152 L 247 152 L 265 152 L 283 152 L 301 152 L 319 152 L 337 152 L 355 42 L 373 42 L 391 42 L 409 42 L 427 152 L 445 152 L 462 152 L 480 152 L 498 152 L 516 152 L 534 152 L 552 152 L 570 152 L 588 152" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 156 L 86 156 L 104 156 L 122 156 L 140 152 L 158 152 L 176 152 L 194 152 L 211 152 L 229 152 L 247 152 L 265 152 L 283 152 L 301 152 L 319 152 L 337 42 L 355 42 L 373 42 L 391 42 L 409 152 L 427 152 L 445 152 L 462 152 L 480 152 L 498 152 L 516 152 L 534 152 L 552 152 L 570 152 L 588 152 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 156 L 86 156 L 104 156 L 122 156 L 140 152 L 158 152 L 176 152 L 194 152 L 211 152 L 229 152 L 247 152 L 265 152 L 283 152 L 301 152 L 319 152 L 337 42 L 355 42 L 373 42 L 391 42 L 409 152 L 427 152 L 445 152 L 462 152 L 480 152 L 498 152 L 516 152 L 534 152 L 552 152 L 570 152 L 588 152" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="156" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="156" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="152" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="156" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="152" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="152" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="152" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="140" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -289,7 +290,7 @@ A. 가장 큰 차이점은 당 함량입니다. 이 제품은 당류를 대폭 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,900원 · 별점 4.7 · 리뷰 737개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,900원 · 별점 4.7 · 리뷰 743개</span>
     <a href="https://link.coupang.com/a/epXRsNFmAm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

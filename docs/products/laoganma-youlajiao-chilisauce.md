@@ -10,6 +10,7 @@ description: 라오깐마 유라죠우 라조장 고추소스는 고소하고 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "라오깐마 유라죠우 라조장 고추소스",
+  "description": "라오깐마 유라죠우 라조장 고추소스는 고소하고 매콤한 감칠맛으로 밥, 면, 볶음 요리 등 다양한 가정식에 중화풍 풍미를 더해주는 만능 소스입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/d6cd/cc3d74edee235e7d9dc9e29523367325191c6607cd906b07dbb03313c453.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/x7vkn6kf/83ceab6be28c45beaf241191ce26bd28.jpg"
@@ -17,15 +18,15 @@ description: 라오깐마 유라죠우 라조장 고추소스는 고소하고 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "7320",
+    "price": "7270",
     "url": "https://link.coupang.com/a/dWcPoxxqJo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 12098,
+    "reviewCount": 12105,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +43,7 @@ description: 라오깐마 유라죠우 라조장 고추소스는 고소하고 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,320원 · 별점 4.6 · 리뷰 12,098개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,270원 · 별점 4.6 · 리뷰 12,105개</span>
     <a href="https://link.coupang.com/a/dWcPoxxqJo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,36 +61,37 @@ description: 라오깐마 유라죠우 라조장 고추소스는 고소하고 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
 
-    <path d="M 68 88 L 86 88 L 104 88 L 122 88 L 140 56 L 158 56 L 176 88 L 194 88 L 211 88 L 229 88 L 247 88 L 265 88 L 283 88 L 301 88 L 319 84 L 337 84 L 355 88 L 373 88 L 391 88 L 409 88 L 427 88 L 445 88 L 462 84 L 480 84 L 498 84 L 516 90 L 534 90 L 552 90 L 570 166 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 88 L 86 88 L 104 88 L 122 88 L 140 56 L 158 56 L 176 88 L 194 88 L 211 88 L 229 88 L 247 88 L 265 88 L 283 88 L 301 88 L 319 84 L 337 84 L 355 88 L 373 88 L 391 88 L 409 88 L 427 88 L 445 88 L 462 84 L 480 84 L 498 84 L 516 90 L 534 90 L 552 90 L 570 166 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 88 L 86 88 L 104 88 L 122 56 L 140 56 L 158 88 L 176 88 L 194 88 L 211 88 L 229 88 L 247 88 L 265 88 L 283 88 L 301 84 L 319 84 L 337 88 L 355 88 L 373 88 L 391 88 L 409 88 L 427 88 L 445 84 L 462 84 L 480 84 L 498 90 L 516 90 L 534 90 L 552 166 L 570 129 L 588 137 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 88 L 86 88 L 104 88 L 122 56 L 140 56 L 158 88 L 176 88 L 194 88 L 211 88 L 229 88 L 247 88 L 265 88 L 283 88 L 301 84 L 319 84 L 337 88 L 355 88 L 373 88 L 391 88 L 409 88 L 427 88 L 445 84 L 462 84 L 480 84 L 498 90 L 516 90 L 534 90 L 552 166 L 570 129 L 588 137" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="56" r="4" fill="#fdba74"></circle>
     <circle cx="140" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="84" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="88" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="129" r="5" fill="#ea580c"></circle>
+    <circle cx="337" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="88" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="137" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,320원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="125" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,270원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -316,7 +318,7 @@ A. 개봉 전에는 상온 보관이 가능하지만, 개봉 후에는 신선도
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,320원 · 별점 4.6 · 리뷰 12,098개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,270원 · 별점 4.6 · 리뷰 12,105개</span>
     <a href="https://link.coupang.com/a/dWcPoxxqJo" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
