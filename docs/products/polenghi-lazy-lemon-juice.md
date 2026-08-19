@@ -10,18 +10,19 @@ description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "폴렝기 레이지 레몬주스",
+  "description": "폴렝기 레이지 레몬주스는 이태리 시실리 최고급 레몬으로 만든 100% 원액 레몬즙입니다. 상큼한 레몬수로 즐기거나, 다양한 요리의 풍미를 더하는 데 활용되며, 다이어트 및 건강 관리 식단에도 적합합니다.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "7800",
     "url": "https://link.coupang.com/a/eoEMV2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 6911,
+    "reviewCount": 6914,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -36,7 +37,7 @@ description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,800원 · 별점 4.8 · 리뷰 6,911개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,800원 · 별점 4.8 · 리뷰 6,914개</span>
     <a href="https://link.coupang.com/a/eoEMV2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -54,35 +55,35 @@ description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
 
-    <path d="M 68 82 L 86 82 L 104 82 L 122 82 L 140 26 L 158 114 L 176 112 L 194 26 L 211 26 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 65 L 516 110 L 534 82 L 552 123 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 82 L 86 82 L 104 82 L 122 82 L 140 26 L 158 114 L 176 112 L 194 26 L 211 26 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 65 L 516 110 L 534 82 L 552 123 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 82 L 86 82 L 104 82 L 122 26 L 140 114 L 158 112 L 176 26 L 194 26 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 65 L 498 110 L 516 82 L 534 123 L 552 110 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 82 L 86 82 L 104 82 L 122 26 L 140 114 L 158 112 L 176 26 L 194 26 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 65 L 498 110 L 516 82 L 534 123 L 552 110 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -368,7 +369,7 @@ A. 폴렝기 레이지 레몬주스는 유통기한이 넉넉한 편입니다. �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,800원 · 별점 4.8 · 리뷰 6,911개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,800원 · 별점 4.8 · 리뷰 6,914개</span>
     <a href="https://link.coupang.com/a/eoEMV2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
