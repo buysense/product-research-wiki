@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 르젠 레트로 BLDC 빈티카 선풍기 30cm(12인치) | [보기](products/lezen-retro-bldc-vintage-fan-30cm.md) |
 | 닥터유 다이제 | [보기](products/dr-you-digest-biscuit.md) |
 | 봄날엔 초코퐁당 요거꿀떡 | [보기](products/bomnalen-chocofondue-yogurt-honey-tteok.md) |
 | 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245 | [보기](products/glowny-g-ella-strap-sleeveless-ivory.md) |

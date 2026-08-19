@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 르젠 레트로 BLDC 빈티카 선풍기 30cm(12인치): products/lezen-retro-bldc-vintage-fan-30cm.md
     - 닥터유 다이제: products/dr-you-digest-biscuit.md
     - 봄날엔 초코퐁당 요거꿀떡: products/bomnalen-chocofondue-yogurt-honey-tteok.md
     - 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245: products/glowny-g-ella-strap-sleeveless-ivory.md
