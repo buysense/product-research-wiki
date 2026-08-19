@@ -10,18 +10,19 @@ slug_en: pringles-original-crisps
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "프링글스 오리지날 구매 가이드 — 53g vs 110g 용량 선택",
+  "description": "프링글스 오리지날은 특유의 바삭한 식감과 짭짤한 감자 맛이 특징인 스낵입니다. 53g 소용량(휴대용)과 110g 표준 용량 중 어떤 걸 선택해야 할지 비교합니다.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "4550",
     "url": "https://link.coupang.com/a/ej8v70",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 41231,
+    "reviewCount": 41290,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -36,7 +37,7 @@ slug_en: pringles-original-crisps
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,550원 · 별점 4.6 · 리뷰 41,231개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,550원 · 별점 4.6 · 리뷰 41,290개</span>
     <a href="https://link.coupang.com/a/ej8v70" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -54,29 +55,30 @@ slug_en: pringles-original-crisps
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">3,000</text>
 
-    <path d="M 68 53 L 86 53 L 104 53 L 122 53 L 140 53 L 158 53 L 176 53 L 194 53 L 211 53 L 229 53 L 247 53 L 265 53 L 283 53 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 32 L 480 32 L 498 32 L 516 140 L 534 140 L 552 140 L 570 140 L 588 60 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 53 L 86 53 L 104 53 L 122 53 L 140 53 L 158 53 L 176 53 L 194 53 L 211 53 L 229 53 L 247 53 L 265 53 L 283 53 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 32 L 480 32 L 498 32 L 516 140 L 534 140 L 552 140 L 570 140 L 588 60" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 53 L 86 53 L 104 53 L 122 53 L 140 53 L 158 53 L 176 53 L 194 53 L 211 53 L 229 53 L 247 53 L 265 53 L 283 46 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 32 L 462 32 L 480 32 L 498 140 L 516 140 L 534 140 L 552 140 L 570 60 L 588 60 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 53 L 86 53 L 104 53 L 122 53 L 140 53 L 158 53 L 176 53 L 194 53 L 211 53 L 229 53 L 247 53 L 265 53 L 283 46 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 32 L 462 32 L 480 32 L 498 140 L 516 140 L 534 140 L 552 140 L 570 60 L 588 60" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="53" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="32" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="53" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="60" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="60" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="48" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,550원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -350,7 +352,7 @@ A. 19g, 35g, 48g, 53g의 소용량 캔부터 100g, 110g의 일반 용량, 147g, 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,550원 · 별점 4.6 · 리뷰 41,231개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,550원 · 별점 4.6 · 리뷰 41,290개</span>
     <a href="https://link.coupang.com/a/ej8v70" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
