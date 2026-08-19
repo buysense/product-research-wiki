@@ -10,6 +10,7 @@ description: 리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "리즈니 구슬 비즈 슬랑이",
+  "description": "리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에서 스트레스 해소 및 집중력 향상에 도움을 주는 비즈 촉감 슬라임입니다. 독특한 촉감과 ASMR 사운드로 부담 없이 즐길 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e1f8/adb8bbf625ddd3c314224bf08d0ae29cc73e6cccca2241c24f6de19f4431.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d89d/f48c00cb264e632fa66ba91e13ac3b922a9ba2d48789a54ede0dc876d841.jpg"
@@ -20,7 +21,7 @@ description: 리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에�
     "price": "5390",
     "url": "https://link.coupang.com/a/dLG0ERvbFY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,28 +61,29 @@ description: 리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 61 L 283 61 L 301 61 L 319 61 L 337 61 L 355 61 L 373 61 L 391 61 L 409 61 L 427 61 L 445 61 L 462 61 L 480 61 L 498 64 L 516 64 L 534 64 L 552 64 L 570 162 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 61 L 283 61 L 301 61 L 319 61 L 337 61 L 355 61 L 373 61 L 391 61 L 409 61 L 427 61 L 445 61 L 462 61 L 480 61 L 498 64 L 516 64 L 534 64 L 552 64 L 570 162 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 61 L 265 61 L 283 61 L 301 61 L 319 61 L 337 61 L 355 61 L 373 61 L 391 61 L 409 61 L 427 61 L 445 61 L 462 61 L 480 64 L 498 64 L 516 64 L 534 64 L 552 162 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 61 L 265 61 L 283 61 L 301 61 L 319 61 L 337 61 L 355 61 L 373 61 L 391 61 L 409 61 L 427 61 L 445 61 L 462 61 L 480 64 L 498 64 L 516 64 L 534 64 L 552 162 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,390원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
