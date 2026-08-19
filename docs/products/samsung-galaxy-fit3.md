@@ -10,6 +10,7 @@ description: 삼성전자 갤럭시 핏3는 가벼운 착용감과 긴 배터리
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "삼성전자 갤럭시 핏3",
+  "description": "삼성전자 갤럭시 핏3는 가벼운 착용감과 긴 배터리를 제공하는 스마트밴드로, 일상 건강 관리와 스마트폰 알림 확인에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9e82/d199b5105667a7da6ec3ecae7e75d798693468e917b424c80ecf0c03f28b.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3048259125877686-390e0401-a849-45b6-a225-a4697a3adea9.jpg"
@@ -17,15 +18,15 @@ description: 삼성전자 갤럭시 핏3는 가벼운 착용감과 긴 배터리
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "155000",
+    "price": "99000",
     "url": "https://link.coupang.com/a/ezlTMR",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 14884,
+    "reviewCount": 14917,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +43,7 @@ description: 삼성전자 갤럭시 핏3는 가벼운 착용감과 긴 배터리
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 155,000원 · 별점 4.8 · 리뷰 14,884개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 99,000원 · 별점 4.8 · 리뷰 14,917개</span>
     <a href="https://link.coupang.com/a/ezlTMR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,29 +61,30 @@ description: 삼성전자 갤럭시 핏3는 가벼운 착용감과 긴 배터리
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 127 L 86 127 L 104 127 L 122 127 L 140 127 L 158 127 L 176 127 L 194 127 L 211 127 L 229 127 L 247 127 L 265 137 L 283 137 L 301 137 L 319 137 L 337 137 L 355 137 L 373 137 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 137 L 516 137 L 534 137 L 552 137 L 570 137 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 127 L 86 127 L 104 127 L 122 127 L 140 127 L 158 127 L 176 127 L 194 127 L 211 127 L 229 127 L 247 127 L 265 137 L 283 137 L 301 137 L 319 137 L 337 137 L 355 137 L 373 137 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 137 L 516 137 L 534 137 L 552 137 L 570 137 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 127 L 86 127 L 104 127 L 122 127 L 140 127 L 158 127 L 176 127 L 194 127 L 211 127 L 229 127 L 247 137 L 265 137 L 283 137 L 301 137 L 319 137 L 337 137 L 355 137 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 137 L 498 137 L 516 137 L 534 137 L 552 137 L 570 26 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 127 L 86 127 L 104 127 L 122 127 L 140 127 L 158 127 L 176 127 L 194 127 L 211 127 L 229 127 L 247 137 L 265 137 L 283 137 L 301 137 L 319 137 L 337 137 L 355 137 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 137 L 498 137 L 516 137 L 534 137 L 552 137 L 570 26 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <circle cx="229" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="104" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">155,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="92" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">99,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -358,7 +360,7 @@ A. 네, 갤럭시 핏3는 직관적인 사용법과 필수 기능 위주로 구�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 155,000원 · 별점 4.8 · 리뷰 14,884개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 99,000원 · 별점 4.8 · 리뷰 14,917개</span>
     <a href="https://link.coupang.com/a/ezlTMR" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

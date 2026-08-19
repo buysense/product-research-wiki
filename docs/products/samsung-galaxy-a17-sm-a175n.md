@@ -10,6 +10,7 @@ description: 삼성전자 갤럭시 A17 (SM-A175N)은 전화, 카카오톡, 웹�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "삼성전자 갤럭시 A17 (SM-A175N)",
+  "description": "삼성전자 갤럭시 A17 (SM-A175N)은 전화, 카카오톡, 웹서핑 등 기본적인 스마트폰 사용에 최적화된 가성비 모델입니다. 자녀의 첫 스마트폰, 부모님 효도폰, 또는 서브폰으로 적합하며, 넉넉한 배터리와 선명한 디스플레이가 특징입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/573839143474032-434e39aa-e53d-4af1-965e-907bd4b672fa.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52036099204413-c74d6adf-bfb6-4cb1-8080-6ae3498c2397.jpg"
@@ -20,12 +21,12 @@ description: 삼성전자 갤럭시 A17 (SM-A175N)은 전화, 카카오톡, 웹�
     "price": "290200",
     "url": "https://link.coupang.com/a/eMW5h6cZMq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 3874,
+    "reviewCount": 3903,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +43,7 @@ description: 삼성전자 갤럭시 A17 (SM-A175N)은 전화, 카카오톡, 웹�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 290,200원 · 별점 4.8 · 리뷰 3,874개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 290,200원 · 별점 4.8 · 리뷰 3,903개</span>
     <a href="https://link.coupang.com/a/eMW5h6cZMq" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,27 +61,27 @@ description: 삼성전자 갤럭시 A17 (SM-A175N)은 전화, 카카오톡, 웹�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">288,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">286,000</text>
 
-    <path d="M 68 137 L 86 137 L 104 137 L 122 136 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 137 L 86 137 L 104 137 L 122 136 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 137 L 86 137 L 104 136 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 137 L 86 137 L 104 136 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">290,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -245,7 +246,7 @@ A. 5,000mAh의 대용량 배터리를 탑재하여 일반적으로 하루 종일
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 290,200원 · 별점 4.8 · 리뷰 3,874개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 290,200원 · 별점 4.8 · 리뷰 3,903개</span>
     <a href="https://link.coupang.com/a/eMW5h6cZMq" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
