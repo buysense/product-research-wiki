@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4540/5df0d2b7094d887be436fcf2d6f1c880340db04d22e48f513405042626e8.jpg
-title: 드헤베 Strap S리 Leeveless Blouse Light Beige 구매 가이드
-date: 2026-08-18
-description: 드헤베 스트랩 슬리브리스 블라우스 라이트 베이지는 시원하고 편안한 착용감을 제공하며, 여름철 데일리룩부터 오피스룩, 휴가지 스타일링까지 다채롭게 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -24,9 +19,13 @@ description: 드헤베 스트랩 슬리브리스 블라우스 라이트 베이�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-18 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -34,13 +33,31 @@ description: 드헤베 스트랩 슬리브리스 블라우스 라이트 베이�
     <a href="https://link.coupang.com/a/gjfKufcskm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4540/5df0d2b7094d887be436fcf2d6f1c880340db04d22e48f513405042626e8.jpg
+title: 드헤베 Strap S리 Leeveless Blouse Light Beige 구매 가이드
+date: 2026-08-18
+description: 드헤베 스트랩 슬리브리스 블라우스 라이트 베이지는 시원하고 편안한 착용감을 제공하며, 여름철 데일리룩부터 오피스룩, 휴가지 스타일링까지 다채롭게 활용하기 좋습니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 드헤베 Strap S리 Leeveless Blouse Light Beige는 가볍고 통기성이 좋은 소재로 제작되어 여름철 시원하고 편안하게 착용하기 좋은 슬리브리스 블라우스입니다. 라이트 베이지 색상은 다양한 하의와 매치하기 쉬워 데일리룩은 물론, 오피스룩이나 휴가지에서도 활용하기 좋은 다재다능한 아이템입니다. 단독 착용 시에는 시원하고 여성스러운 분위기를 연출하며, 가디건이나 재킷 안에 이너로 레이어드하여 간절기까지 착용할 수 있습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4540/5df0d2b7094d887be436fcf2d6f1c880340db04d22e48f513405042626e8.jpg" alt="드헤베 Strap S리 Leeveless Blouse Light Beige" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -105,6 +122,11 @@ A. 제품의 형태와 소재를 오래 유지하기 위해서는 미지근한 �
 *   패션 전문 매거진 상품 리뷰
 *   온라인 쇼핑몰 구매 후기
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -112,3 +134,4 @@ A. 제품의 형태와 소재를 오래 유지하기 위해서는 미지근한 �
     <a href="https://link.coupang.com/a/gjfKufcskm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

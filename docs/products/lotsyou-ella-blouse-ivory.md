@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e25e/aa777c06f0036115d1c89f3839d86860a4f3c640b7658534a2623fdf1898.jpg
-title: Lotsyou_Ella Blouse Ivory 109501 구매 가이드
-date: 2026-07-09
-description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 세련된 디자인으로 오피스룩, 데이트룩, 하객룩 등 다양한 상황에 활용하기 좋은 여성 블라우스입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,44 +18,22 @@ description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 �
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-09 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 93,200원</span>
+    <a href="https://link.coupang.com/a/fftO3c7Xbw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
@@ -97,14 +70,57 @@ description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 �
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 93,200원</span>
-    <a href="https://link.coupang.com/a/fftO3c7Xbw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e25e/aa777c06f0036115d1c89f3839d86860a4f3c640b7658534a2623fdf1898.jpg
+title: Lotsyou_Ella Blouse Ivory 109501 구매 가이드
+date: 2026-07-09
+description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 세련된 디자인으로 오피스룩, 데이트룩, 하객룩 등 다양한 상황에 활용하기 좋은 여성 블라우스입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -112,9 +128,11 @@ description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 �
 ## 상품 개요
 Lotsyou_Ella Blouse Ivory 109501은 단정하면서도 세련된 디자인이 돋보이는 여성 블라우스입니다. 깔끔한 아이보리 색상과 섬세한 디테일이 특징으로, 사무실 출근룩, 중요한 모임 자리, 데이트룩 또는 하객룩과 같이 격식 있으면서도 여성스러운 분위기를 연출하고 싶을 때 주로 활용됩니다. 다양한 하의와 매치하기 용이하여 활용도가 높은 아이템입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e25e/aa777c06f0036115d1c89f3839d86860a4f3c640b7658534a2623fdf1898.jpg" alt="Lotsyou_Ella Blouse Ivory 109501" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -187,6 +205,11 @@ A. 슬랙스나 H라인 스커트와 함께 매치하면 오피스룩이나 하�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -194,3 +217,4 @@ A. 슬랙스나 H라인 스커트와 함께 매치하면 오피스룩이나 하�
     <a href="https://link.coupang.com/a/fftO3c7Xbw" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

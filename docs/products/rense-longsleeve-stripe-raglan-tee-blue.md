@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/712c/b4eb09fc51810fabd96ce08146afc7d1e2b7f43737c282be1982965bba54.jpg
-title: 렌세 긴팔 Stripe Raglan Stitch Tee Blue 115326 구매 가이드
-date: 2026-08-06
-description: 렌세 긴팔 스트라이프 래글런 스티치 티셔츠는 캐주얼한 데일리룩과 편안한 착용감을 제공하며, 다양한 계절에 활용하기 좋은 기본 아이템입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,9 +18,13 @@ description: 렌세 긴팔 스트라이프 래글런 스티치 티셔츠는 캐�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -33,13 +32,31 @@ description: 렌세 긴팔 스트라이프 래글런 스티치 티셔츠는 캐�
     <a href="https://link.coupang.com/a/fZUsXj5Pjg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/712c/b4eb09fc51810fabd96ce08146afc7d1e2b7f43737c282be1982965bba54.jpg
+title: 렌세 긴팔 Stripe Raglan Stitch Tee Blue 115326 구매 가이드
+date: 2026-08-06
+description: 렌세 긴팔 스트라이프 래글런 스티치 티셔츠는 캐주얼한 데일리룩과 편안한 착용감을 제공하며, 다양한 계절에 활용하기 좋은 기본 아이템입니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 렌세 긴팔 Stripe Raglan Stitch Tee Blue 115326은 일상생활에서 편안하면서도 스타일리시하게 착용하기 좋은 스트라이프 패턴의 래글런 긴팔 티셔츠입니다. 간절기 단품 착용이나 쌀쌀한 날씨에 이너로 활용하기 적합하며, 캐주얼한 외출복이나 집에서의 편안한 복장으로도 활용도가 높습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/712c/b4eb09fc51810fabd96ce08146afc7d1e2b7f43737c282be1982965bba54.jpg" alt="렌세 긴팔 Stripe Raglan Stitch Tee Blue 115326" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -108,6 +125,11 @@ A. 편안한 활동성을 제공하는 래글런 소매 디자인과 유행을 �
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -115,3 +137,4 @@ A. 편안한 활동성을 제공하는 래글런 소매 디자인과 유행을 �
     <a href="https://link.coupang.com/a/fZUsXj5Pjg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

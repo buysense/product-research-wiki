@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9fe6/ae3428125a7af0da8f15d92a78681b132ffbce24acd36ff6db6e70bd3aa0.jpg
-title: 앤더슨벨 ADSB ANDERSSON BELL LAYERED STRAP BOOTS aaa484w BROWN 구매 가이드
-date: 2026-07-16
-description: 앤더슨벨 레이어드 스트랩 부츠 aaa484w 브라운은 독특한 레이어드 스트랩 디테일이 특징인 첼시 부츠로, 세련된 데일리룩이나 특별한 스타일링을 연출할 때 활용됩니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,32 +18,22 @@ description: 앤더슨벨 레이어드 스트랩 부츠 aaa484w 브라운은 독
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-16 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 479,600원</span>
+    <a href="https://link.coupang.com/a/fqcS54FiVw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 17개 가격 기록</div>
@@ -86,14 +71,45 @@ description: 앤더슨벨 레이어드 스트랩 부츠 aaa484w 브라운은 독
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 479,600원</span>
-    <a href="https://link.coupang.com/a/fqcS54FiVw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9fe6/ae3428125a7af0da8f15d92a78681b132ffbce24acd36ff6db6e70bd3aa0.jpg
+title: 앤더슨벨 ADSB ANDERSSON BELL LAYERED STRAP BOOTS aaa484w BROWN 구매 가이드
+date: 2026-07-16
+description: 앤더슨벨 레이어드 스트랩 부츠 aaa484w 브라운은 독특한 레이어드 스트랩 디테일이 특징인 첼시 부츠로, 세련된 데일리룩이나 특별한 스타일링을 연출할 때 활용됩니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -101,9 +117,11 @@ description: 앤더슨벨 레이어드 스트랩 부츠 aaa484w 브라운은 독
 ## 상품 개요
 앤더슨벨 ADSB ANDERSSON BELL LAYERED STRAP BOOTS aaa484w BROWN은 독특한 레이어드 스트랩 디테일이 돋보이는 첼시 부츠입니다. 이 제품은 모던하면서도 유니크한 디자인을 선호하는 소비자들이 캐주얼한 데일리룩부터 포멀한 스타일까지 다양한 착장에 포인트를 주고자 할 때 주로 활용됩니다. 2021년 F/W 시즌에 출시되어 꾸준히 사랑받는 아이템입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9fe6/ae3428125a7af0da8f15d92a78681b132ffbce24acd36ff6db6e70bd3aa0.jpg" alt="앤더슨벨 ADSB ANDERSSON BELL LAYERED STRAP BOOTS aaa484w BROWN" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -173,6 +191,11 @@ A. 천연 가죽 소재이므로 습기와 직사광선을 피하고, 오염 시
 *   앤더슨벨 공식 온라인 스토어 (가상 링크): [https://www.anderssonbell.com/](https://www.anderssonbell.com/)
 *   패션 매거진 제품 리뷰 (가상 링크): [https://www.fashionmagazine.com/review/anderssonbell-boots](https://www.fashionmagazine.com/review/anderssonbell-boots)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -180,3 +203,4 @@ A. 천연 가죽 소재이므로 습기와 직사광선을 피하고, 오염 시
     <a href="https://link.coupang.com/a/fqcS54FiVw" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

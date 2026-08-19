@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/48c8/8e6f26a1cda3d78afdf0b85e0cf9c40f58ca766634185d3cd59a6a6704c3.jpg
-title: 크리오 펌프팝 키즈 2단계 어린이 칫솔 구매 가이드
-date: 2026-06-02
-description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아이들이 스스로 양치하는 습관을 기를 수 있도록 돕는 초극세모 칫솔입니다. 위생적인 대용량 구성으로 어린이집 준비물이나 잦은 교체에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -31,114 +26,22 @@ description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-02 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,900원 · 별점 4.8 · 리뷰 7,088개</span>
+    <a href="https://link.coupang.com/a/efCz8fp8I8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -169,14 +72,127 @@ description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,900원 · 별점 4.8 · 리뷰 7,088개</span>
-    <a href="https://link.coupang.com/a/efCz8fp8I8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/48c8/8e6f26a1cda3d78afdf0b85e0cf9c40f58ca766634185d3cd59a6a6704c3.jpg
+title: 크리오 펌프팝 키즈 2단계 어린이 칫솔 구매 가이드
+date: 2026-06-02
+description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아이들이 스스로 양치하는 습관을 기를 수 있도록 돕는 초극세모 칫솔입니다. 위생적인 대용량 구성으로 어린이집 준비물이나 잦은 교체에 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -184,9 +200,11 @@ description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아�
 ## 상품 개요
 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아이들이 스스로 즐겁게 양치하는 습관을 기를 때, 또는 위생을 위해 잦은 교체가 필요한 상황에 적합한 제품입니다. 아이의 연약한 잇몸을 보호하는 초극세모와 작은 헤드, 그리고 양치에 대한 흥미를 유발하는 다양한 색상이 특징입니다. 10개입 2세트의 넉넉한 구성으로 가정은 물론 어린이집 여분이나 여행용으로도 실용적입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/48c8/8e6f26a1cda3d78afdf0b85e0cf9c40f58ca766634185d3cd59a6a6704c3.jpg" alt="크리오 펌프팝 키즈 2단계 어린이 칫솔" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -250,6 +268,11 @@ A. 알록달록한 색상과 캐릭터 디자인은 아이의 호기심을 자�
 *   제조사 공식 페이지 (제품 정보 및 상세 스펙 확인)
 *   어린이 칫솔 선택 가이드 (전문가 의견 및 안전 기준 관련 정보)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -257,3 +280,4 @@ A. 알록달록한 색상과 캐릭터 디자인은 아이의 호기심을 자�
     <a href="https://link.coupang.com/a/efCz8fp8I8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e279/3f293fc55c370504c97180cff8133d384e61a48ef0785efff090ace7f874.jpg
-title: 컨버스 척 70 X 아머 블루 A24231C 구매 가이드
-date: 2026-07-02
-description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인에 향상된 착화감과 내구성을 갖춘 스니커즈로, 일상적인 캐주얼룩부터 다양한 패션 스타일 연출에 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,56 +18,22 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-02 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 124,900원</span>
+    <a href="https://link.coupang.com/a/e3OVmIp8DI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
@@ -108,14 +69,69 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 124,900원</span>
-    <a href="https://link.coupang.com/a/e3OVmIp8DI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e279/3f293fc55c370504c97180cff8133d384e61a48ef0785efff090ace7f874.jpg
+title: 컨버스 척 70 X 아머 블루 A24231C 구매 가이드
+date: 2026-07-02
+description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인에 향상된 착화감과 내구성을 갖춘 스니커즈로, 일상적인 캐주얼룩부터 다양한 패션 스타일 연출에 활용하기 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -123,9 +139,11 @@ description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인�
 ## 상품 개요
 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인과 향상된 착화감을 겸비한 스니커즈로, 일상적인 캐주얼 복장은 물론 다양한 패션 스타일에 포인트를 주고자 할 때 적합합니다. 고급스러운 아머 블루 컬러가 특징이며, 척 70 라인 특유의 강화된 내구성으로 편안하게 오래 신을 수 있도록 설계되었습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e279/3f293fc55c370504c97180cff8133d384e61a48ef0785efff090ace7f874.jpg" alt="컨버스 척 70 X 아머 블루 A24231C" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -183,6 +201,11 @@ A. 척 70 모델은 일반 컨버스보다 발볼이 다소 좁게 느껴질 수
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -190,3 +213,4 @@ A. 척 70 모델은 일반 컨버스보다 발볼이 다소 좁게 느껴질 수
     <a href="https://link.coupang.com/a/e3OVmIp8DI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

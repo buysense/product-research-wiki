@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a50b/700e3ece589edba733c2897b8a0f4cbc697ff738ef25b3057bedbcc71538.jpg
-title: 크록스 바야밴드 클로그 토들러 구매 가이드
-date: 2026-07-03
-description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아이들이 학교, 놀이터, 물놀이 등 일상에서 편안하게 신을 수 있도록 설계된 아동용 신발입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -31,54 +26,22 @@ description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-03 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 36,500원 · 별점 4.7 · 리뷰 3,529개</span>
+    <a href="https://link.coupang.com/a/e5iA32qdEW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
@@ -111,14 +74,67 @@ description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 36,500원 · 별점 4.7 · 리뷰 3,529개</span>
-    <a href="https://link.coupang.com/a/e5iA32qdEW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a50b/700e3ece589edba733c2897b8a0f4cbc697ff738ef25b3057bedbcc71538.jpg
+title: 크록스 바야밴드 클로그 토들러 구매 가이드
+date: 2026-07-03
+description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아이들이 학교, 놀이터, 물놀이 등 일상에서 편안하게 신을 수 있도록 설계된 아동용 신발입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -126,9 +142,11 @@ description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아�
 ## 상품 개요
 크록스 바야밴드 클로그 토들러는 활동량이 많은 아이들이 학교, 놀이터, 캠핑, 물놀이 등 다양한 환경에서 편안하고 안전하게 착용할 수 있도록 설계된 아동용 신발입니다. 가볍고 부드러운 크로슬라이트(Croslite™) 소재로 제작되어 뛰어난 착용감과 쿠션감을 제공하며, 아이 스스로 쉽게 신고 벗을 수 있어 실용적입니다. 어린이날 선물이나 데일리 신발로 많은 선택을 받습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a50b/700e3ece589edba733c2897b8a0f4cbc697ff738ef25b3057bedbcc71538.jpg" alt="크록스 바야밴드 클로그 토들러" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -188,6 +206,11 @@ A. 새 제품에서 나는 고무 특유의 냄새는 크로슬라이트 소재�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -195,3 +218,4 @@ A. 새 제품에서 나는 고무 특유의 냄새는 크로슬라이트 소재�
     <a href="https://link.coupang.com/a/e5iA32qdEW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

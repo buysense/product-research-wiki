@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/10db/7b8fc92926aa978408409c8a5bfe474ae39ef503a5cffbe7d8d9812958dc.jpg
-title: [셀리테일즈] FRILL LAYERED BUSTIER DRESS_YELLOW 구매 가이드
-date: 2026-07-06
-description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로우는 화사한 색감과 러블리한 디테일로 봄, 여름 데이트룩, 휴가철 리조트룩으로 활용하기 좋은 원피스입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,44 +18,22 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-06 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 189,400원</span>
+    <a href="https://link.coupang.com/a/faukkoH7im" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
@@ -107,14 +80,57 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 189,400원</span>
-    <a href="https://link.coupang.com/a/faukkoH7im" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/10db/7b8fc92926aa978408409c8a5bfe474ae39ef503a5cffbe7d8d9812958dc.jpg
+title: [셀리테일즈] FRILL LAYERED BUSTIER DRESS_YELLOW 구매 가이드
+date: 2026-07-06
+description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로우는 화사한 색감과 러블리한 디테일로 봄, 여름 데이트룩, 휴가철 리조트룩으로 활용하기 좋은 원피스입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -122,9 +138,11 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
 ## 상품 개요
 [셀리테일즈] FRILL LAYERED BUSTIER DRESS_YELLOW는 화사한 옐로우 색상과 프릴 디테일이 돋보이는 뷔스티에 디자인의 원피스입니다. 봄과 여름철 데이트, 여행, 휴가 등 특별한 자리에서 로맨틱하고 발랄한 분위기를 연출하기에 적합하며, 단품으로 입거나 가벼운 이너와 함께 레이어드하여 다양한 스타일링이 가능합니다. 이 제품은 주로 따뜻한 계절의 야외 활동이나 기념일 등의 소비 상황에 잘 어울립니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/10db/7b8fc92926aa978408409c8a5bfe474ae39ef503a5cffbe7d8d9812958dc.jpg" alt="[셀리테일즈] FRILL LAYERED BUSTIER DRESS_YELLOW" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -188,6 +206,11 @@ A. 뷔스티에 디자인 특성상 상체 둘레와 어깨 스트랩 조절 여
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -195,3 +218,4 @@ A. 뷔스티에 디자인 특성상 상체 둘레와 어깨 스트랩 조절 여
     <a href="https://link.coupang.com/a/faukkoH7im" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

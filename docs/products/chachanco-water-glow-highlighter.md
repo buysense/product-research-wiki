@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2031/41ddb9df751822f08c48f4d4e2a6bd026f46e2f004f9d4112c852b76f459.png
-title: 차차앤코 물광 글로우 하이라이터 구매 가이드
-date: 2026-06-22
-description: 차차앤코 물광 글로우 하이라이터는 자연스러운 물광 메이크업과 윤광 피부 표현을 원하는 이들을 위한 제품으로, 데일리 메이크업에 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -31,9 +26,13 @@ description: 차차앤코 물광 글로우 하이라이터는 자연스러운 �
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-22 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -41,13 +40,31 @@ description: 차차앤코 물광 글로우 하이라이터는 자연스러운 �
     <a href="https://link.coupang.com/a/eNhQcmQHv2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2031/41ddb9df751822f08c48f4d4e2a6bd026f46e2f004f9d4112c852b76f459.png
+title: 차차앤코 물광 글로우 하이라이터 구매 가이드
+date: 2026-06-22
+description: 차차앤코 물광 글로우 하이라이터는 자연스러운 물광 메이크업과 윤광 피부 표현을 원하는 이들을 위한 제품으로, 데일리 메이크업에 활용하기 좋습니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 차차앤코 물광 글로우 하이라이터는 과한 펄감보다는 피부 속에서 차오르는 듯한 자연스러운 물광 및 윤광 효과를 선호하는 사용자들을 위한 제품입니다. 고운 쉬머 입자가 특징으로, 애교살, 광대, 콧대 등 얼굴의 다양한 부위에 활용하여 입체감 있고 생기 있는 메이크업을 연출할 때 적합합니다. 데일리 메이크업에 자연스러운 광채를 더하고자 할 때 유용하게 사용됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2031/41ddb9df751822f08c48f4d4e2a6bd026f46e2f004f9d4112c852b76f459.png" alt="차차앤코 물광 글로우 하이라이터" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -106,6 +123,11 @@ A. 샴페인 골드 컬러의 경우 노란기가 과하지 않은 은은한 골
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -113,3 +135,4 @@ A. 샴페인 골드 컬러의 경우 노란기가 과하지 않은 은은한 골
     <a href="https://link.coupang.com/a/eNhQcmQHv2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

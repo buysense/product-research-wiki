@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b49f/efbc4f28a776251059b599480088f267831341500a82b36984374c350fe0.jpg
-title: 레고(LEGO) 창의력 쑥쑥 브릭 박스 11038 구매 가이드
-date: 2026-04-27
-description: 레고 창의력 쑥쑥 브릭 박스 11038은 다양한 브릭으로 아이들의 창의력과 상상력을 자극하며, 자유로운 놀이와 브릭 조립 경험을 제공하는 제품입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,9 +18,13 @@ description: 레고 창의력 쑥쑥 브릭 박스 11038은 다양한 브릭으�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-04-27 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -33,13 +32,31 @@ description: 레고 창의력 쑥쑥 브릭 박스 11038은 다양한 브릭으�
     <a href="https://link.coupang.com/a/exrvs0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b49f/efbc4f28a776251059b599480088f267831341500a82b36984374c350fe0.jpg
+title: 레고(LEGO) 창의력 쑥쑥 브릭 박스 11038 구매 가이드
+date: 2026-04-27
+description: 레고 창의력 쑥쑥 브릭 박스 11038은 다양한 브릭으로 아이들의 창의력과 상상력을 자극하며, 자유로운 놀이와 브릭 조립 경험을 제공하는 제품입니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 레고(LEGO) 창의력 쑥쑥 브릭 박스 11038은 다양한 색상과 형태의 기본 브릭들로 구성되어 아이들이 자유롭게 상상력을 발휘하여 무언가를 만들거나, 제공된 아이디어를 바탕으로 조립하며 창의력을 키우는 데 중점을 둔 제품입니다. 주로 아이들의 생일 선물, 교육용 완구, 혹은 가족이 함께 즐기는 놀이 활동을 위한 도구로 소비됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b49f/efbc4f28a776251059b599480088f267831341500a82b36984374c350fe0.jpg" alt="레고(LEGO) 창의력 쑥쑥 브릭 박스 11038" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -99,6 +116,11 @@ A. 아이의 생일 선물, 어린이날 선물, 또는 아이가 새로운 놀�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -106,3 +128,4 @@ A. 아이의 생일 선물, 어린이날 선물, 또는 아이가 새로운 놀�
     <a href="https://link.coupang.com/a/exrvs0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5acf/87b8bb4da926af21f492b72cfe3528861438af4c6b2ed49ac8875f92cff4.jpg
-title: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow) 구매 가이드
-date: 2024-07-29
-description: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 독특한 원숄더 디자인과 브레이드 디테일로 개성 있는 데일리룩, 휴가지 스타일링에 적합한 상의입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -24,56 +19,13 @@ description: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 독특
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -81,6 +33,8 @@ description: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 독특
     <a href="https://link.coupang.com/a/eYQsTmQGQe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
@@ -111,14 +65,78 @@ description: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 독특
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5acf/87b8bb4da926af21f492b72cfe3528861438af4c6b2ed49ac8875f92cff4.jpg
+title: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow) 구매 가이드
+date: 2024-07-29
+description: 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 독특한 원숄더 디자인과 브레이드 디테일로 개성 있는 데일리룩, 휴가지 스타일링에 적합한 상의입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 상품 개요
 시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)는 한쪽 어깨를 드러내는 비대칭 원숄더 디자인과 어깨 스트랩의 꼬임 디테일이 돋보이는 티셔츠입니다. 캐주얼하면서도 특별한 분위기를 연출하여, 일상적인 외출복은 물론 휴가지나 특별한 날의 스타일링 포인트로 활용하기 좋습니다. 2023년 출시된 제품으로, 단품만으로도 세련된 인상을 줍니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5acf/87b8bb4da926af21f492b72cfe3528861438af4c6b2ed49ac8875f92cff4.jpg" alt="시눈 sinoon Braided One-Shoulder T-Shirt (Cream Yellow)" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -184,6 +202,11 @@ A. 현재 이 구매 가이드는 크림 옐로우 색상을 기준으로 작성
 
 (이 구매 가이드는 제공된 자료를 종합 분석하여 작성되었으며, 별도의 외부 링크를 참조하지 않았습니다.)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -191,3 +214,4 @@ A. 현재 이 구매 가이드는 크림 옐로우 색상을 기준으로 작성
     <a href="https://link.coupang.com/a/eYQsTmQGQe" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

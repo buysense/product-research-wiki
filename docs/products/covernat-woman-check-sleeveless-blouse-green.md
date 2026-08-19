@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2f69/6275eeaeb1c566ad12192263410275ae6e072afabb7e374b2c574d0a983e.jpg
-title: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린 구매 가이드
-date: 2026-07-09
-description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은 캐주얼하면서도 세련된 스타일로 봄부터 가을까지 다양한 상황에서 활용하기 좋은 아이템입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,36 +18,13 @@ description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-09 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -60,6 +32,8 @@ description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은
     <a href="https://link.coupang.com/a/ffrQM1UY2e" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18개 가격 기록</div>
@@ -92,15 +66,59 @@ description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2f69/6275eeaeb1c566ad12192263410275ae6e072afabb7e374b2c574d0a983e.jpg
+title: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린 구매 가이드
+date: 2026-07-09
+description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은 캐주얼하면서도 세련된 스타일로 봄부터 가을까지 다양한 상황에서 활용하기 좋은 아이템입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ## 상품 개요
 COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은 시원한 슬리브리스 디자인에 클래식한 체크 패턴이 더해져 다양한 분위기를 연출할 수 있는 여성 블라우스입니다. 주로 따뜻한 봄부터 가을까지 일상적인 캐주얼룩이나 가벼운 외출복으로 활용하기 적합하며, 재킷이나 가디건 안에 이너로 매치하여 오피스 캐주얼룩으로도 연출될 수 있습니다. 20XX년 출시 정보는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2f69/6275eeaeb1c566ad12192263410275ae6e072afabb7e374b2c574d0a983e.jpg" alt="COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -159,6 +177,11 @@ A. 정확한 소재 혼용률과 세탁 방법은 제품 구매 시 동봉된 �
 
 (제공된 참고 자료 없음)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -166,3 +189,4 @@ A. 정확한 소재 혼용률과 세탁 방법은 제품 구매 시 동봉된 �
     <a href="https://link.coupang.com/a/ffrQM1UY2e" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

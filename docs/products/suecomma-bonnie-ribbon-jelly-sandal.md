@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/56cc/617139b4dba7a29ab65c856c60064d2cdce7a5a2733020973dd4d87762f3.jpg
-title: 슈콤마보니 Ribbon jelly sandal 구매 가이드
-date: 2026-06-14
-description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일상에서 편안함과 스타일을 동시에 추구하는 소비자에게 적합한 여성 샌들입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,92 +18,22 @@ description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 220,800원</span>
+    <a href="https://link.coupang.com/a/eADAv6Yvfg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -139,14 +64,105 @@ description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 220,800원</span>
-    <a href="https://link.coupang.com/a/eADAv6Yvfg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/56cc/617139b4dba7a29ab65c856c60064d2cdce7a5a2733020973dd4d87762f3.jpg
+title: 슈콤마보니 Ribbon jelly sandal 구매 가이드
+date: 2026-06-14
+description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일상에서 편안함과 스타일을 동시에 추구하는 소비자에게 적합한 여성 샌들입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -154,9 +170,11 @@ description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일
 ## 상품 개요
 슈콤마보니 Ribbon jelly sandal은 여름철 휴양지에서 편안하면서도 스타일리시한 룩을 완성하거나, 비 오는 날에도 걱정 없이 착용할 수 있는 여성용 젤리 샌들입니다. 유연하고 가벼운 젤리 소재에 슈콤마보니 특유의 리본 디테일이 더해져 일상복과 비치웨어 모두에 잘 어울리며, 특히 휴가철 물놀이 활동이나 습한 환경에서 실용적으로 활용됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/56cc/617139b4dba7a29ab65c856c60064d2cdce7a5a2733020973dd4d87762f3.jpg" alt="슈콤마보니 Ribbon jelly sandal" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -217,6 +235,11 @@ A. 슈콤마보니 젤리 샌들은 일반적인 젤리 슈즈와 달리 브랜�
 ## 참고한 글
 본 구매 가이드는 제품의 일반적인 특징, 소비자 리뷰 및 관련 정보를 종합하여 작성되었습니다. 특정 외부 자료의 직접적인 인용은 포함되지 않았습니다.
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -224,3 +247,4 @@ A. 슈콤마보니 젤리 샌들은 일반적인 젤리 슈즈와 달리 브랜�
     <a href="https://link.coupang.com/a/eADAv6Yvfg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

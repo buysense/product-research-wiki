@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1c75/3bd1cc9d0f2a7f59616381e63cd75f9f668df061ae59523ace80f7eee823.png
-title: 디엘라 여성숄더백 버킷백 구매 가이드
-date: 2026-07-25
-description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주얼한 모임, 가벼운 여행 등 다양한 상황에서 활용하기 좋은 디자인과 수납력을 겸비한 가방입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -31,23 +26,22 @@ description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-25 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 89,900원 · 별점 4.8 · 리뷰 26개</span>
+    <a href="https://link.coupang.com/a/fF1oEj8qlM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
@@ -78,21 +72,45 @@ description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 89,900원 · 별점 4.8 · 리뷰 26개</span>
-    <a href="https://link.coupang.com/a/fF1oEj8qlM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1c75/3bd1cc9d0f2a7f59616381e63cd75f9f668df061ae59523ace80f7eee823.png
+title: 디엘라 여성숄더백 버킷백 구매 가이드
+date: 2026-07-25
+description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주얼한 모임, 가벼운 여행 등 다양한 상황에서 활용하기 좋은 디자인과 수납력을 겸비한 가방입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 상품 개요
 디엘라 여성숄더백 버킷백은 데일리룩에 포인트를 주거나 소지품을 간편하게 휴대하기 좋은 여성용 가방입니다. 버킷 형태의 디자인으로 기본적인 수납력을 제공하며, 캐주얼한 의상부터 세미 정장까지 다양한 스타일에 매치하기 적합합니다. 일상적인 외출, 친구들과의 만남, 가벼운 나들이 등 다양한 상황에서 실용적으로 활용할 수 있습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1c75/3bd1cc9d0f2a7f59616381e63cd75f9f668df061ae59523ace80f7eee823.png" alt="디엘라 여성숄더백 버킷백" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -149,6 +167,11 @@ A. 소재에 따라 다르지만, 일반적으로 합성 가죽 소재인 경우
 ## 참고한 글
 - [쿠팡 상품 페이지](https://www.coupang.com/vp/products/9625012230?itemId=28744181429&vendorItemId=95683373938)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -156,3 +179,4 @@ A. 소재에 따라 다르지만, 일반적으로 합성 가죽 소재인 경우
     <a href="https://link.coupang.com/a/fF1oEj8qlM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

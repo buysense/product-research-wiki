@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/26a3/725144c27fb2197e89b7b1bcf24b34c5898e4f68feb12a29006b2926f3ed.jpg
-title: PROJECT WAVE Square Lace Slit Top 구매 가이드
-date: 2026-08-09
-description: PROJECT WAVE Square Lace Slit Top은 스퀘어 넥라인과 레이스, 슬릿 디테일이 돋보이는 상의로, 일상적인 스타일부터 특별한 날까지 다양한 분위기를 연출하고자 하는 소비자에게 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,9 +18,13 @@ description: PROJECT WAVE Square Lace Slit Top은 스퀘어 넥라인과 레이�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-09 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -33,15 +32,33 @@ description: PROJECT WAVE Square Lace Slit Top은 스퀘어 넥라인과 레이�
     <a href="https://link.coupang.com/a/f4tv3N5taS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/26a3/725144c27fb2197e89b7b1bcf24b34c5898e4f68feb12a29006b2926f3ed.jpg
+title: PROJECT WAVE Square Lace Slit Top 구매 가이드
+date: 2026-08-09
+description: PROJECT WAVE Square Lace Slit Top은 스퀘어 넥라인과 레이스, 슬릿 디테일이 돋보이는 상의로, 일상적인 스타일부터 특별한 날까지 다양한 분위기를 연출하고자 하는 소비자에게 적합합니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 PROJECT WAVE Square Lace Slit Top은 스퀘어 넥라인과 섬세한 레이스 디테일, 그리고 옆선 또는 소매에 위치한 슬릿이 특징인 상의입니다. 이 제품은 캐주얼한 데일리룩부터 데이트룩, 세미 정장 스타일까지 다양하게 연출하고 싶은 상황에 적합하며, 단품으로도 포인트를 주기 좋습니다. PROJECT WAVE 브랜드에서 선보이는 이 제품은 믹스 앤 매치 스타일링을 통해 개성을 표현하고자 하는 소비자를 위해 디자인되었습니다.
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/26a3/725144c27fb2197e89b7b1bcf24b34c5898e4f68feb12a29006b2926f3ed.jpg" alt="PROJECT WAVE Square Lace Slit Top" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -119,6 +136,11 @@ A. 슬림핏 데님 팬츠나 와이드 팬츠와 매치하여 캐주얼하면�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -126,3 +148,4 @@ A. 슬림핏 데님 팬츠나 와이드 팬츠와 매치하여 캐주얼하면�
     <a href="https://link.coupang.com/a/f4tv3N5taS" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

@@ -1,10 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bbe6/1bb865527881c94a87f0188b8c226e52be04157e96cfb46ccf3dc0b37536.jpg
-title: 딥디크 룸 스프레이 구매 가이드
-date: 2026-04-13
-description: 딥디크 룸 스프레이는 공간의 품격을 높여주는 고급 향기로, 다양한 향을 통해 침실, 거실 등 특정 공간의 분위기를 변화시키는 데 활용됩니다. 집들이 선물로도 인기가 많습니다.
----
+<!-- bs:jsonld -->
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-13 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
@@ -12,6 +11,20 @@ description: 딥디크 룸 스프레이는 공간의 품격을 높여주는 고�
     <a href="https://link.coupang.com/a/en6TGc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bbe6/1bb865527881c94a87f0188b8c226e52be04157e96cfb46ccf3dc0b37536.jpg
+title: 딥디크 룸 스프레이 구매 가이드
+date: 2026-04-13
+description: 딥디크 룸 스프레이는 공간의 품격을 높여주는 고급 향기로, 다양한 향을 통해 침실, 거실 등 특정 공간의 분위기를 변화시키는 데 활용됩니다. 집들이 선물로도 인기가 많습니다.
+---
+
+
+
+
 
 ## 상품 개요
 딥디크 룸 스프레이는 프랑스 니치 향수 브랜드 딥디크가 선보이는 고급 실내 방향제로, **집안의 분위기를 빠르게 전환하고 공간에 깊이 있는 향을 부여하고자 할 때 적합합니다.** 특히 침실, 거실 등 특정 공간의 무드를 연출하거나, **집들이 등 특별한 날의 선물**로 많이 활용됩니다. 다양한 향으로 개인의 취향에 맞춰 선택할 수 있으며, 딥디크의 '아트 오브 리빙' 철학을 담아 일상에 향기로운 경험을 선사합니다.
@@ -84,13 +97,8 @@ A. 딥디크 룸 스프레이는 패브릭용으로도 사용 가능하나, 일�
 Q. 딥디크 룸 스프레이의 주요 향 종류는 무엇인가요?  
 A. 딥디크 룸 스프레이는 '베이(Baies)', '휘기에(Figuier)', '34번가 생제르망(34 Boulevard Saint Germain)' 등 다양한 베스트셀러 향을 포함하여 여러 종류의 향이 있습니다. 각 향마다 플로럴, 우디, 프루티 등 독특한 개성을 지니고 있습니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 97,900원</span>
-    <a href="https://link.coupang.com/a/en6TGc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -115,3 +123,17 @@ A. 딥디크 룸 스프레이는 '베이(Baies)', '휘기에(Figuier)', '34번�
 - [생제르맹 거리를 걷고 있는 기분 딥디크 룸스프레이 34번가 생제르망 솔직리뷰 : 네이버 블로그](https://m.blog.naver.com/pu_reunbom/223535188883)
 - [딥디크 룸스프레이 베이 사용 후 갈아탄 스멜릿 리뷰 : 네이버 블로그](https://m.blog.naver.com/3803948/224234801740)
 - [이솝 룸스프레이 vs 딥디크 룸스프레이 호텔 냄새 진짜 승부는 여기 : 네이버 블로그](https://m.blog.naver.com/idov0802/224243104476)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 97,900원</span>
+    <a href="https://link.coupang.com/a/en6TGc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta_bottom -->

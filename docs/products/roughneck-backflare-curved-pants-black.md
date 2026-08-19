@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e207/b5d15e233053f5ffae00b17ae279c3bc0cf55eca1c6329f223c867958c84.jpg
-title: ROUGHNECK 백플레어 커브드 팬츠 블랙 구매 가이드
-date: 2026-06-23
-description: ROUGHNECK 백플레어 커브드 팬츠 블랙은 독특한 백플레어와 커브드 핏으로 일상복부터 개성 있는 스타일링까지 연출 가능한 유니크한 디자인의 팬츠입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,74 +18,22 @@ description: ROUGHNECK 백플레어 커브드 팬츠 블랙은 독특한 백플�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-24 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 161,100원</span>
+    <a href="https://link.coupang.com/a/eOXGooDdzU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -121,14 +64,87 @@ description: ROUGHNECK 백플레어 커브드 팬츠 블랙은 독특한 백플�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 161,100원</span>
-    <a href="https://link.coupang.com/a/eOXGooDdzU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e207/b5d15e233053f5ffae00b17ae279c3bc0cf55eca1c6329f223c867958c84.jpg
+title: ROUGHNECK 백플레어 커브드 팬츠 블랙 구매 가이드
+date: 2026-06-23
+description: ROUGHNECK 백플레어 커브드 팬츠 블랙은 독특한 백플레어와 커브드 핏으로 일상복부터 개성 있는 스타일링까지 연출 가능한 유니크한 디자인의 팬츠입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -136,9 +152,11 @@ description: ROUGHNECK 백플레어 커브드 팬츠 블랙은 독특한 백플�
 ## 상품 개요
 ROUGHNECK 백플레어 커브드 팬츠 블랙은 후면부의 자연스러운 플레어와 다리 라인을 따라 흐르는 커브드 실루엣이 특징인 팬츠입니다. 기본적인 블랙 컬러로 다양한 상의와 매치하기 좋으며, 일상적인 캐주얼 룩부터 개성을 드러내는 모던한 스타일링까지 활용할 수 있습니다. 2024년 출시 (출시연도 정보가 명확히 공개되지 않은 경우 일반적인 의류 출시 주기와 시장 동향을 고려하여 작성되었으며, 브랜드의 공식 발표와 다를 수 있습니다).
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e207/b5d15e233053f5ffae00b17ae279c3bc0cf55eca1c6329f223c867958c84.jpg" alt="ROUGHNECK 백플레어 커브드 팬츠 블랙" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -198,6 +216,11 @@ A. 이 팬츠는 일반적인 핏과 다른 커브드 실루엣을 가지고 있
 
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -205,3 +228,4 @@ A. 이 팬츠는 일반적인 핏과 다른 커브드 실루엣을 가지고 있
     <a href="https://link.coupang.com/a/eOXGooDdzU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

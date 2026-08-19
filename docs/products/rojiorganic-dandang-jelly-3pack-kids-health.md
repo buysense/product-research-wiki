@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6e77/3e5816f64f1c09b569c65062826c04de01f5620c9d5cb4893071d49803ca.png
-title: 로지오가닉 당당한 젤리 3종 세트 구매 가이드
-date: 2026-05-20
-description: 로지오가닉 당당한 젤리 3종 세트는 합성첨가물 없이 아이들 눈, 장, 목 건강을 챙기는 유기농 젤리로, 건강한 간식을 찾는 부모에게 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -31,9 +26,13 @@ description: 로지오가닉 당당한 젤리 3종 세트는 합성첨가물 없
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -41,13 +40,31 @@ description: 로지오가닉 당당한 젤리 3종 세트는 합성첨가물 없
     <a href="https://link.coupang.com/a/dTXyXZA9fw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6e77/3e5816f64f1c09b569c65062826c04de01f5620c9d5cb4893071d49803ca.png
+title: 로지오가닉 당당한 젤리 3종 세트 구매 가이드
+date: 2026-05-20
+description: 로지오가닉 당당한 젤리 3종 세트는 합성첨가물 없이 아이들 눈, 장, 목 건강을 챙기는 유기농 젤리로, 건강한 간식을 찾는 부모에게 적합합니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 로지오가닉 당당한 젤리 3종 세트는 합성착향료, 합성착색료, 보존료, 글루텐, 합성감미료 등 5가지 첨가물을 배제하고 유기농 원재료를 사용한 어린이 건강 간식입니다. 눈 건강(빌베리), 장 건강(사과+당근, 유산균), 목 건강(배도라지)에 초점을 맞춘 세 가지 맛으로 구성되어, 자녀의 특정 건강 관리에 도움을 주면서 맛있게 영양을 섭취할 수 있도록 돕습니다. 아이들이 과자처럼 즐기면서 건강까지 챙길 수 있어, 건강한 간식을 찾는 부모들에게 적합한 선택지입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6e77/3e5816f64f1c09b569c65062826c04de01f5620c9d5cb4893071d49803ca.png" alt="로지오가닉 당당한 젤리 3종 세트" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -104,6 +121,11 @@ A. 각 젤리가 개별 포장되어 있어 위생적으로 보관하고 섭취�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -111,3 +133,4 @@ A. 각 젤리가 개별 포장되어 있어 위생적으로 보관하고 섭취�
     <a href="https://link.coupang.com/a/dTXyXZA9fw" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

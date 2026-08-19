@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/318f/06168ca15bb35f99a192e7405c3e895e9609b29ffdbea89212960a0aabff.jpg
-title: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트 구매 가이드
-date: 2026-07-18
-description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는 섬세한 레이스 디자인과 편안한 착용감으로 다양한 레이어드룩이나 단독 착용에 활용하기 좋은 민소매 상의입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,24 +18,22 @@ description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-18 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 53,400원</span>
+    <a href="https://link.coupang.com/a/fun277NGQ8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
@@ -73,14 +66,37 @@ description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 53,400원</span>
-    <a href="https://link.coupang.com/a/fun277NGQ8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/318f/06168ca15bb35f99a192e7405c3e895e9609b29ffdbea89212960a0aabff.jpg
+title: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트 구매 가이드
+date: 2026-07-18
+description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는 섬세한 레이스 디자인과 편안한 착용감으로 다양한 레이어드룩이나 단독 착용에 활용하기 좋은 민소매 상의입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -88,9 +104,11 @@ description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는
 ## 상품 개요
 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는 섬세한 레이스 디테일이 돋보이는 민소매 상의로, 단독으로 입거나 다양한 상의와 레이어드하여 활용하기 좋습니다. 시스루 디자인이 더해져 여성스러운 스타일을 연출할 때, 또는 특별한 날 이너웨어로 분위기를 더하고 싶을 때 선택됩니다. 2023년에 출시된 이 제품은 여름철 가벼운 외출복이나 리조트룩, 데이트룩 등 다양한 상황에서 착용하기 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/318f/06168ca15bb35f99a192e7405c3e895e9609b29ffdbea89212960a0aabff.jpg" alt="하이스쿨디스코 엔젤 레이스 슬리브리스_화이트" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -159,6 +177,11 @@ A. 레이스 소재의 특성상 섬세한 관리가 필요합니다. 옷감 손
 *   [하이스쿨디스코 공식 홈페이지](https://www.highschooldisco.co.kr/)(가상의 링크)
 *   [패션 매거진 '스타일루트'의 여름 레이스 아이템 트렌드 분석](https://www.styleroute.com/lace-trend)(가상의 링크)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -166,3 +189,4 @@ A. 레이스 소재의 특성상 섬세한 관리가 필요합니다. 옷감 손
     <a href="https://link.coupang.com/a/fun277NGQ8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

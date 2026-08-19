@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9623/50eb6f57eaef10ce6ad376242f1d3d6fe6bbdf92d8f65a8a748c5d1f3b59.jpg
-title: 로그이엠 라피아드롭 니트 숄더 백 구매 가이드
-date: 2026-06-22
-description: 로그이엠 라피아드롭 니트 숄더 백은 라피아 소재와 니트 짜임이 조화된 여름 시즌 데일리룩 및 휴가철에 어울리는 가방입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -24,9 +19,13 @@ description: 로그이엠 라피아드롭 니트 숄더 백은 라피아 소재�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-22 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -34,13 +33,31 @@ description: 로그이엠 라피아드롭 니트 숄더 백은 라피아 소재�
     <a href="https://link.coupang.com/a/eNgTXkwklE" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9623/50eb6f57eaef10ce6ad376242f1d3d6fe6bbdf92d8f65a8a748c5d1f3b59.jpg
+title: 로그이엠 라피아드롭 니트 숄더 백 구매 가이드
+date: 2026-06-22
+description: 로그이엠 라피아드롭 니트 숄더 백은 라피아 소재와 니트 짜임이 조화된 여름 시즌 데일리룩 및 휴가철에 어울리는 가방입니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 로그이엠 라피아드롭 니트 숄더 백은 라피아(Raffia) 소재 특유의 시원한 질감과 니트 짜임의 부드러움을 결합한 숄더백입니다. 주로 따뜻한 계절의 데일리룩이나 휴가지에서 가볍고 스타일리시하게 연출하기 적합하며, 자연스러운 분위기를 더하고 싶은 상황에 활용됩니다. 20XX년(정보 없음) 출시된 이 제품은 간결한 디자인으로 다양한 캐주얼 의상과 잘 어울립니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9623/50eb6f57eaef10ce6ad376242f1d3d6fe6bbdf92d8f65a8a748c5d1f3b59.jpg" alt="로그이엠 라피아드롭 니트 숄더 백" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -99,6 +116,11 @@ A. 이 숄더백은 스마트폰, 지갑, 작은 화장품 파우치, 차 키 �
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -106,3 +128,4 @@ A. 이 숄더백은 스마트폰, 지갑, 작은 화장품 파우치, 차 키 �
     <a href="https://link.coupang.com/a/eNgTXkwklE" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

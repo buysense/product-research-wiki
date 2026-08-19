@@ -1,125 +1,18 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/e47d226c30df402c1b5185ce0b3e27139360291d041bb05d491139e48dca_1757295026089.jpg
-title: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5 구매 가이드
-date: 2026-03-29
-description: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5는 뛰어난 휴대성, 선명한 AMOLED 터치 디스플레이, 강력한 AI 성능을 갖춰 이동이 잦은 직장인과 학생에게 최적화된 프리미엄 노트북입니다.
----
+<!-- bs:jsonld -->
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,899,000원</span>
+    <a href="https://link.coupang.com/a/edKKJE" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -160,14 +53,135 @@ description: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5는 뛰어
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,899,000원</span>
-    <a href="https://link.coupang.com/a/edKKJE" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/e47d226c30df402c1b5185ce0b3e27139360291d041bb05d491139e48dca_1757295026089.jpg
+title: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5 구매 가이드
+date: 2026-03-29
+description: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5는 뛰어난 휴대성, 선명한 AMOLED 터치 디스플레이, 강력한 AI 성능을 갖춰 이동이 잦은 직장인과 학생에게 최적화된 프리미엄 노트북입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -246,13 +260,8 @@ A. 인텔 Ultra 5 프로세서와 인텔 Arc 그래픽스를 통해 가벼운 �
 Q. 가격이 비싼 편인데, 그만한 가치가 있나요?  
 A. 갤럭시북5 프로는 프리미엄 라인업으로 높은 가격대를 형성하고 있지만, 초경량 디자인, 뛰어난 AMOLED 터치 디스플레이, 강력한 AI 성능, 긴 배터리 수명, 그리고 안정적인 삼성 AS를 고려하면 충분한 가치를 제공합니다. 특히 이동성과 최신 기술을 중시하는 사용자에게는 매력적인 선택지입니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,899,000원</span>
-    <a href="https://link.coupang.com/a/edKKJE" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -276,3 +285,17 @@ A. 갤럭시북5 프로는 프리미엄 라인업으로 높은 가격대를 형�
 - [진정한 프로를 위한 선택! 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5 솔직 리뷰 : 네이버 블로그](https://m.blog.naver.com/dnrwook0108/224219184492)
 - [믿을 수 있는 NT940XHA-K51A 삼성전자 갤럭시북5 프로 14인치(35 5cm) 인텔 Ultra 5 비교했어요 : 네이버 블로그](https://m.blog.naver.com/kwonlime9/224099016161)
 - [제품비교정보 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5 터치스크린 서울 경기 퀵서비스 최대 2만원 지원 그레이 NT9... 할인 추천제품 리스트 보기 : 네이버 블로그](https://m.blog.naver.com/flaw14112/223780683390)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,899,000원</span>
+    <a href="https://link.coupang.com/a/edKKJE" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta_bottom -->

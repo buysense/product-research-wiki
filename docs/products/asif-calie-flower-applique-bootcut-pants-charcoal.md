@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/97c8/c86312dd76c1db6b9482ea10ce4ddb3348d03b437197ee8b89eae00247a0.jpg
-title: 에즈이프 캘리 ASIF CALIE FLOWER APPLIQUE BOOTCUT PANTS CHARCOAL 구매 가이드
-date: 2026-07-20
-description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜은 유니크한 꽃 자수 디자인과 편안한 부츠컷 핏이 특징입니다. 데일리 캐주얼부터 특별한 날까지 다양한 스타일 연출에 활용됩니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,20 +18,22 @@ description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 114,900원</span>
+    <a href="https://link.coupang.com/a/fxF0AEhqOO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12개 가격 기록</div>
@@ -71,14 +68,33 @@ description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 114,900원</span>
-    <a href="https://link.coupang.com/a/fxF0AEhqOO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/97c8/c86312dd76c1db6b9482ea10ce4ddb3348d03b437197ee8b89eae00247a0.jpg
+title: 에즈이프 캘리 ASIF CALIE FLOWER APPLIQUE BOOTCUT PANTS CHARCOAL 구매 가이드
+date: 2026-07-20
+description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜은 유니크한 꽃 자수 디자인과 편안한 부츠컷 핏이 특징입니다. 데일리 캐주얼부터 특별한 날까지 다양한 스타일 연출에 활용됩니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -87,9 +103,11 @@ description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜�
 ## 상품 개요
 에즈이프 캘리 ASIF CALIE FLOWER APPLIQUE BOOTCUT PANTS CHARCOAL은 하이웨이스트 디자인과 다리 라인을 보정하는 부츠컷 실루엣에 꽃 문양 아플리케(appliqué, 천 조각을 다른 천 위에 덧대어 붙이거나 꿰매 장식하는 기법) 장식이 특징인 팬츠입니다. 이는 평범한 데일리룩에 포인트를 더하거나, 개성을 표현하고 싶은 캐주얼한 모임, 혹은 특별한 분위기를 연출하고 싶은 상황에 착용하기 적합합니다. 20XX년 출시.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/97c8/c86312dd76c1db6b9482ea10ce4ddb3348d03b437197ee8b89eae00247a0.jpg" alt="에즈이프 캘리 ASIF CALIE FLOWER APPLIQUE BOOTCUT PANTS CHARCOAL" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -147,6 +165,11 @@ A. 부츠컷 디자인은 허벅지부터 무릎까지는 슬림하게 붙고 �
 ## 참고한 글
 *   (제공된 외부 링크 없음)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -154,3 +177,4 @@ A. 부츠컷 디자인은 허벅지부터 무릎까지는 슬림하게 붙고 �
     <a href="https://link.coupang.com/a/fxF0AEhqOO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

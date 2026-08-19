@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/6bd0/037708038fd6ca86be241871e2941652534e24218672adbbeb48c317ca96.jpg
-title: 파스키에 마카롱 구매 가이드
-date: 2026-08-18
-description: 파스키에 마카롱은 프랑스 정통 스타일의 냉동 디저트로, 6가지 다양한 맛과 쫀득한 식감, 합리적인 가격이 특징입니다. 홈카페, 간식, 손님 접대 등 다양한 상황에서 고급스러운 달콤함을 선사합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -31,9 +26,13 @@ description: 파스키에 마카롱은 프랑스 정통 스타일의 냉동 디�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-18 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -41,13 +40,31 @@ description: 파스키에 마카롱은 프랑스 정통 스타일의 냉동 디�
     <a href="https://link.coupang.com/a/gjeD9DhWiy" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/6bd0/037708038fd6ca86be241871e2941652534e24218672adbbeb48c317ca96.jpg
+title: 파스키에 마카롱 구매 가이드
+date: 2026-08-18
+description: 파스키에 마카롱은 프랑스 정통 스타일의 냉동 디저트로, 6가지 다양한 맛과 쫀득한 식감, 합리적인 가격이 특징입니다. 홈카페, 간식, 손님 접대 등 다양한 상황에서 고급스러운 달콤함을 선사합니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 파스키에 마카롱은 프랑스 정통 스타일의 냉동 마카롱으로, 6가지 맛 12개가 한 세트로 구성되어 있습니다. 집에서 커피나 차와 함께 즐기는 홈카페 디저트, 아이들 간식 및 도시락, 손님 접대용 간식, 또는 학원 행사 등 다양한 상황에서 활용하기 적합합니다. 합리적인 가격으로 고급스러운 맛과 쫀득한 식감을 경험할 수 있는 제품입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/6bd0/037708038fd6ca86be241871e2941652534e24218672adbbeb48c317ca96.jpg" alt="파스키에 마카롱" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -103,6 +120,11 @@ A. 이 제품은 프랑스 정통 스타일의 마카롱으로, 뚱카롱처럼 
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -110,3 +132,4 @@ A. 이 제품은 프랑스 정통 스타일의 마카롱으로, 뚱카롱처럼 
     <a href="https://link.coupang.com/a/gjeD9DhWiy" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

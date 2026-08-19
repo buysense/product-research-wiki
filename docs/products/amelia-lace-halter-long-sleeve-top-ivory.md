@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/39dc/2f976d904f4e2e2b8dd0a759bfe8807cfdf641540890aceeab7d4f729ad6.jpg
-title: [플리즈노팔로우] Amelia Lace Halter Long Sleeve Top (Ivory) 구매 가이드
-date: 2026-07-01
-description: Amelia Lace Halter Long Sleeve Top (Ivory)은 섬세한 레이스 디자인과 홀터넥 스타일로 특별한 날이나 포멀한 자리에 우아함을 더하는 여성 의류입니다. 다양한 아우터와 레이어드하여 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,58 +18,22 @@ description: Amelia Lace Halter Long Sleeve Top (Ivory)은 섬세한 레이스 �
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-01 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 114,200원</span>
+    <a href="https://link.coupang.com/a/e18A3UaR08" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -105,14 +64,71 @@ description: Amelia Lace Halter Long Sleeve Top (Ivory)은 섬세한 레이스 �
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 114,200원</span>
-    <a href="https://link.coupang.com/a/e18A3UaR08" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/39dc/2f976d904f4e2e2b8dd0a759bfe8807cfdf641540890aceeab7d4f729ad6.jpg
+title: [플리즈노팔로우] Amelia Lace Halter Long Sleeve Top (Ivory) 구매 가이드
+date: 2026-07-01
+description: Amelia Lace Halter Long Sleeve Top (Ivory)은 섬세한 레이스 디자인과 홀터넥 스타일로 특별한 날이나 포멀한 자리에 우아함을 더하는 여성 의류입니다. 다양한 아우터와 레이어드하여 활용하기 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -120,9 +136,11 @@ description: Amelia Lace Halter Long Sleeve Top (Ivory)은 섬세한 레이스 �
 ## 상품 개요
 Amelia Lace Halter Long Sleeve Top (Ivory)는 섬세한 레이스 디자인과 홀터넥 스타일로 특별한 날이나 포멀한 자리에 우아함과 개성을 더하는 여성 의류입니다. 저녁 모임, 파티, 데이트 등 세련된 스타일 연출이 필요한 상황에 적합하며, 재킷이나 가디건과 같은 아우터와 레이어드하여 다양한 분위기로 활용할 수 있습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/39dc/2f976d904f4e2e2b8dd0a759bfe8807cfdf641540890aceeab7d4f729ad6.jpg" alt="[플리즈노팔로우] Amelia Lace Halter Long Sleeve Top (Ivory)" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -181,6 +199,11 @@ A. 레이스 소재의 특성상 손상을 방지하기 위해 드라이클리�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -188,3 +211,4 @@ A. 레이스 소재의 특성상 손상을 방지하기 위해 드라이클리�
     <a href="https://link.coupang.com/a/e18A3UaR08" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

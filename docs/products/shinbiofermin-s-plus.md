@@ -1,10 +1,9 @@
----
-image: https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin/images/05494/05494_Product_new.png
-title: 신비오페르민S 플러스 구매 가이드
-date: 2026-03-31
-description: 신비오페르민S 플러스는 일본 후생노동성이 인정한 지정의약부외품 정장제로, 3~4종의 인간 유래 유산균이 소장부터 대장까지 장 환경을 개선하여 변비, 설사, 복부 팽만감을 완화하는 데 도움을 줍니다. 일본 여행 시 혹은 직구로 구매하는 경우가 많으며, 온 가족 장 건강 관리에 적합합니다.
----
+<!-- bs:jsonld -->
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-31 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0;">
   <div style="display: flex; flex-direction: column; gap: 8px;">
     <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; padding: 10px 14px; background: #fff; border: 1px solid #e8e8e8; border-radius: 6px;">
@@ -27,6 +26,20 @@ description: 신비오페르민S 플러스는 일본 후생노동성이 인정�
     </div>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin/images/05494/05494_Product_new.png
+title: 신비오페르민S 플러스 구매 가이드
+date: 2026-03-31
+description: 신비오페르민S 플러스는 일본 후생노동성이 인정한 지정의약부외품 정장제로, 3~4종의 인간 유래 유산균이 소장부터 대장까지 장 환경을 개선하여 변비, 설사, 복부 팽만감을 완화하는 데 도움을 줍니다. 일본 여행 시 혹은 직구로 구매하는 경우가 많으며, 온 가족 장 건강 관리에 적합합니다.
+---
+
+
+
+
 
 ## 상품 개요
 신비오페르민S 플러스는 일본 후생노동성이 지정한 의약부외품 정장제로, 인간 유래 유산균을 통해 소장부터 대장까지 장 전체의 환경을 개선하는 데 중점을 둔 제품입니다. 변비, 설사, 복부 팽만감 등 장 트러블 완화에 도움을 주며, 일본 여행 중 드럭스토어에서 구매하거나 해외직구를 통해 많이 접하게 됩니다. 나이와 상관없이 다양한 연령대의 온 가족 장 건강 관리용으로 널리 사용되고 있습니다.
@@ -111,6 +124,29 @@ A. 임산부 및 수유부는 유산균 기반으로 비교적 안전하지만, 
 Q. 복용 시 특별히 주의할 사항이 있나요?
 A. 복용 초기에 장내 환경 변화로 인해 일시적으로 가스나 배변 상태 변화가 나타날 수 있습니다. 이는 자연스러운 과정이며, 증상이 지속되거나 심화될 경우 복용을 중단하고 전문가와 상담해야 합니다. 최소 1개월 이상 꾸준히 복용했음에도 증상 개선이 없다면 역시 상담이 필요합니다.
 
+
+
+
+---
+## 참고한 글
+- [과민성대장증후군 해결을 위해... 신비오페르민 S정 구매 후기 : 네이버 블로그](https://m.blog.naver.com/skyduk/222210538822)
+- [일본직구사이트 코코마이](https://www.cocomai.jp/blogs/news/ssinbioblog?srsltid=AfmBOopSW7lLWdkRjVuWqw_PHsB8J_N68_Fp0e9OgZ81AcCGN-tfaHnP)
+- [일본가면 꼭 사야할 변비약 신비오페르민s 리얼후기](https://hyunstar1210.tistory.com/448)
+- [다이쇼제약 신비오페르민S 효능, 부작용, 실제 후기, 성분, 복용법 (2026) | 필라이즈](https://www.pillyze.com/products/3088/%EC%8B%A0%EB%B9%84%EC%98%A4%ED%8E%98%EB%A5%B4%EB%AF%BCS)
+- [일본 유산균 신비오페르민s 플러스 (130정) : 네이버 블로그](https://m.blog.naver.com/dbswjd1577/223757001156)
+- [임신 중 장 트러블에 좋은 일본 ‘신 비오페르민 S 플러스’ 직접 복용해본 후기 : 네이버 블로그](https://m.blog.naver.com/hannakim513/224166467757)
+- [신비오페르민S 플러스(과립형) : 4가지 유산균 함유(3개월부터~노인까지!) : 네이버 블로그](https://m.blog.naver.com/yoiyoiho_/223705010595)
+- [요즘 장이 좀 이상하다면? 일본 유산균 신비오페르민s플러스 써봤어요! : 네이버 블로그](https://m.blog.naver.com/japanesemedicine/223901453588)
+- [신비오페르민s 효과 부작용 신비오페르민s 가격 복용방법 : 네이버 블로그](https://m.blog.naver.com/hgh2815/224204232839)
+- [일본 정장제 신비오페르민S 진짜 효과 있을까? 먹기 전 꼭 알아야 할 3가지 : 네이버 블로그](https://m.blog.naver.com/health1nfo/224226784380)
+- [신비오페르민S 유산균 종류별 비교분석| 540정, 360정, 130정, 90정 | 일본 유산균, 다이쇼제약, 신비오페르민S 플러스, 가격 비교, 구매 가이드 : 네이버 블로그](https://m.blog.naver.com/uridongne80/223624755109)
+- [신비오페르민S : 네이버 블로그](https://m.blog.naver.com/mamaci/221501990919)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0;">
   <div style="display: flex; flex-direction: column; gap: 8px;">
     <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; padding: 10px 14px; background: #fff; border: 1px solid #e8e8e8; border-radius: 6px;">
@@ -133,18 +169,4 @@ A. 복용 초기에 장내 환경 변화로 인해 일시적으로 가스나 배
     </div>
   </div>
 </div>
-
----
-## 참고한 글
-- [과민성대장증후군 해결을 위해... 신비오페르민 S정 구매 후기 : 네이버 블로그](https://m.blog.naver.com/skyduk/222210538822)
-- [일본직구사이트 코코마이](https://www.cocomai.jp/blogs/news/ssinbioblog?srsltid=AfmBOopSW7lLWdkRjVuWqw_PHsB8J_N68_Fp0e9OgZ81AcCGN-tfaHnP)
-- [일본가면 꼭 사야할 변비약 신비오페르민s 리얼후기](https://hyunstar1210.tistory.com/448)
-- [다이쇼제약 신비오페르민S 효능, 부작용, 실제 후기, 성분, 복용법 (2026) | 필라이즈](https://www.pillyze.com/products/3088/%EC%8B%A0%EB%B9%84%EC%98%A4%ED%8E%98%EB%A5%B4%EB%AF%BCS)
-- [일본 유산균 신비오페르민s 플러스 (130정) : 네이버 블로그](https://m.blog.naver.com/dbswjd1577/223757001156)
-- [임신 중 장 트러블에 좋은 일본 ‘신 비오페르민 S 플러스’ 직접 복용해본 후기 : 네이버 블로그](https://m.blog.naver.com/hannakim513/224166467757)
-- [신비오페르민S 플러스(과립형) : 4가지 유산균 함유(3개월부터~노인까지!) : 네이버 블로그](https://m.blog.naver.com/yoiyoiho_/223705010595)
-- [요즘 장이 좀 이상하다면? 일본 유산균 신비오페르민s플러스 써봤어요! : 네이버 블로그](https://m.blog.naver.com/japanesemedicine/223901453588)
-- [신비오페르민s 효과 부작용 신비오페르민s 가격 복용방법 : 네이버 블로그](https://m.blog.naver.com/hgh2815/224204232839)
-- [일본 정장제 신비오페르민S 진짜 효과 있을까? 먹기 전 꼭 알아야 할 3가지 : 네이버 블로그](https://m.blog.naver.com/health1nfo/224226784380)
-- [신비오페르민S 유산균 종류별 비교분석| 540정, 360정, 130정, 90정 | 일본 유산균, 다이쇼제약, 신비오페르민S 플러스, 가격 비교, 구매 가이드 : 네이버 블로그](https://m.blog.naver.com/uridongne80/223624755109)
-- [신비오페르민S : 네이버 블로그](https://m.blog.naver.com/mamaci/221501990919)
+<!-- /bs:cta_bottom -->

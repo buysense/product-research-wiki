@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c339/4a4facd3e097ddb565fbc92eaf929ed0462f3f74b39ecb4c4d95e86aa1d4.jpg
-title: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory) 구매 가이드
-date: 2026-06-29
-description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory)는 여름철 일상복, 오피스룩, 데이트룩으로 활용하기 좋은 반소매 상의입니다. 자연스러운 핏과 셔링 디테일이 특징이며, 편안함과 스타일을 동시에 제공합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,62 +18,22 @@ description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivor
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-06-29 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 122,100원</span>
+    <a href="https://link.coupang.com/a/eYRe9Fyb5E" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -117,14 +72,75 @@ description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivor
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 122,100원</span>
-    <a href="https://link.coupang.com/a/eYRe9Fyb5E" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c339/4a4facd3e097ddb565fbc92eaf929ed0462f3f74b39ecb4c4d95e86aa1d4.jpg
+title: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory) 구매 가이드
+date: 2026-06-29
+description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory)는 여름철 일상복, 오피스룩, 데이트룩으로 활용하기 좋은 반소매 상의입니다. 자연스러운 핏과 셔링 디테일이 특징이며, 편안함과 스타일을 동시에 제공합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -132,9 +148,11 @@ description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivor
 ## 상품 개요
 [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory)는 자연스러운 핏과 섬세한 셔링 디테일이 돋보이는 아이보리 색상의 반소매 상의입니다. 편안하면서도 스타일리시한 디자인으로, 여름철 데일리룩, 캐주얼한 오피스룩, 혹은 가벼운 외출 시 활용하기에 적합합니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c339/4a4facd3e097ddb565fbc92eaf929ed0462f3f74b39ecb4c4d95e86aa1d4.jpg" alt="[플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory)" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -193,6 +211,11 @@ A. 청바지와 매치하여 캐주얼한 데일리룩을, 슬랙스나 미디�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -200,3 +223,4 @@ A. 청바지와 매치하여 캐주얼한 데일리룩을, 슬랙스나 미디�
     <a href="https://link.coupang.com/a/eYRe9Fyb5E" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

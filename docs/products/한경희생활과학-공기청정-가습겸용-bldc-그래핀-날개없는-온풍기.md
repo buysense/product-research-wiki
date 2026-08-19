@@ -1,79 +1,18 @@
----
-category: 온풍기
-title: 한경희생활과학 공기청정 가습겸용 BLDC 그래핀 날개없는 온풍기 구매 가이드
-date: 2026-03-16
-description: 한경희생활과학 공기청정 가습겸용 BLDC 그래핀 날개없는 온풍기(HAAN-P17000)는 2025년 12월에 출시된 3-in-1 복합 가전입니다. 따뜻한 온풍 기능과 함께 H13 헤파필터로 공기를 정화하고 가습 기능으로 실내 습도를 조절하여 쾌적...
----
+<!-- bs:jsonld -->
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-16 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 169,000원</span>
+    <a href="https://link.coupang.com/a/d5v5bN" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -104,14 +43,89 @@ description: 한경희생활과학 공기청정 가습겸용 BLDC 그래핀 날�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 169,000원</span>
-    <a href="https://link.coupang.com/a/d5v5bN" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+category: 온풍기
+title: 한경희생활과학 공기청정 가습겸용 BLDC 그래핀 날개없는 온풍기 구매 가이드
+date: 2026-03-16
+description: 한경희생활과학 공기청정 가습겸용 BLDC 그래핀 날개없는 온풍기(HAAN-P17000)는 2025년 12월에 출시된 3-in-1 복합 가전입니다. 따뜻한 온풍 기능과 함께 H13 헤파필터로 공기를 정화하고 가습 기능으로 실내 습도를 조절하여 쾌적...
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -181,3 +195,10 @@ description: 한경희생활과학 공기청정 가습겸용 BLDC 그래핀 날�
 - [한경희 공기청정 가습겸용 BLDC 날개없는 온풍기 전기히터 HAANP17000의 매력 : 네이버 블로그](https://m.blog.naver.com/ezvs0qgl/224162337522)
 - [한경희 공기청정 가습겸용 BLDC 날개없는 온풍기 HAAN-P17000 후기 살펴보기 : 네이버 블로그](https://m.blog.naver.com/trigger1362/224152437413)
 - [한경희 BLDC 날개없는 온풍기, 공기청정과 가습까지 동시에! : 네이버 블로그](https://m.blog.naver.com/lion12205/224118796029)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<!-- /bs:cta_bottom -->

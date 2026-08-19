@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c3bb/1524bb1991cc17852d9b00e0295aa2249bac38ebb8e34a3a914f14df993a.jpg
-title: 타미힐피거 슬림 오프숄더 립 탑 구매 가이드
-date: 2026-08-04
-description: 타미힐피거 슬림 오프숄더 립 탑은 슬림핏과 립 조직 소재가 특징인 상의로, 일상적인 스타일부터 특별한 날까지 다양한 분위기 연출에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -31,9 +26,13 @@ description: 타미힐피거 슬림 오프숄더 립 탑은 슬림핏과 립 조
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-04 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -41,13 +40,31 @@ description: 타미힐피거 슬림 오프숄더 립 탑은 슬림핏과 립 조
     <a href="https://link.coupang.com/a/fWzC3ol7me" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c3bb/1524bb1991cc17852d9b00e0295aa2249bac38ebb8e34a3a914f14df993a.jpg
+title: 타미힐피거 슬림 오프숄더 립 탑 구매 가이드
+date: 2026-08-04
+description: 타미힐피거 슬림 오프숄더 립 탑은 슬림핏과 립 조직 소재가 특징인 상의로, 일상적인 스타일부터 특별한 날까지 다양한 분위기 연출에 적합합니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 타미힐피거 슬림 오프숄더 립 탑은 몸에 자연스럽게 밀착되는 슬림핏과 독특한 립 조직 소재가 특징인 여성 상의입니다. 어깨 라인을 드러내는 오프숄더 디자인으로 페미닌하고 세련된 스타일을 연출할 수 있어, 데이트룩, 캐주얼한 외출, 혹은 특별한 날의 포인트 아이템으로 활용하기에 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c3bb/1524bb1991cc17852d9b00e0295aa2249bac38ebb8e34a3a914f14df993a.jpg" alt="타미힐피거 슬림 오프숄더 립 탑" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -111,6 +128,11 @@ A. 립 조직 니트는 세탁 시 늘어나거나 변형될 수 있으므로, �
 *   [패션 용어 사전: 립 조직](https://www.fashionbiz.co.kr/main/search_view.php?cate=etc&idx=25167)*
 <small style="display: block; margin-top: 5px; color: #777;">*위 링크는 브랜드 공식 페이지 또는 일반적인 정보 제공 목적으로 작성되었으며, 특정 제품과 직접적인 연관이 없을 수 있습니다.</small>
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -118,3 +140,4 @@ A. 립 조직 니트는 세탁 시 늘어나거나 변형될 수 있으므로, �
     <a href="https://link.coupang.com/a/fWzC3ol7me" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

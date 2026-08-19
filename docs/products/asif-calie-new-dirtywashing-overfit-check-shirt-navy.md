@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c1d8/25ea4bd8b7c3688c78d4affcf95dc5c2e3e9e654820777095f7b5497e73d.jpg
-title: 에즈이프 캘리 ASIF CALIE NEW DIRTYWASHING OVERFIT CHECK SHIRT NAVY 구매 가이드
-date: 2026-07-17
-description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이비는 빈티지한 무드의 오버핏 셔츠로, 일상적인 캐주얼룩이나 레이어드 스타일링에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,24 +18,22 @@ description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-17 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 139,500원</span>
+    <a href="https://link.coupang.com/a/fsFjZqxFKK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
@@ -73,14 +66,37 @@ description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 139,500원</span>
-    <a href="https://link.coupang.com/a/fsFjZqxFKK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c1d8/25ea4bd8b7c3688c78d4affcf95dc5c2e3e9e654820777095f7b5497e73d.jpg
+title: 에즈이프 캘리 ASIF CALIE NEW DIRTYWASHING OVERFIT CHECK SHIRT NAVY 구매 가이드
+date: 2026-07-17
+description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이비는 빈티지한 무드의 오버핏 셔츠로, 일상적인 캐주얼룩이나 레이어드 스타일링에 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -89,9 +105,11 @@ description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이
 ## 상품 개요
 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이비는 빈티지한 더티워싱 가공과 여유로운 오버핏 실루엣이 특징인 체크 셔츠입니다. 가을, 겨울철 일상적인 캐주얼룩을 완성하거나, 티셔츠 위에 가볍게 걸쳐 입는 아우터 형식으로 활용하기에 적합합니다. 셔츠 단독 착용 외에 니트나 맨투맨 위에 레이어드하여 보온성과 스타일을 더할 때도 유용합니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c1d8/25ea4bd8b7c3688c78d4affcf95dc5c2e3e9e654820777095f7b5497e73d.jpg" alt="에즈이프 캘리 ASIF CALIE NEW DIRTYWASHING OVERFIT CHECK SHIRT NAVY" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -148,6 +166,11 @@ A. 더티워싱 가공된 제품은 원단의 특성과 색상 유지를 위해 
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -155,3 +178,4 @@ A. 더티워싱 가공된 제품은 원단의 특성과 색상 유지를 위해 
     <a href="https://link.coupang.com/a/fsFjZqxFKK" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

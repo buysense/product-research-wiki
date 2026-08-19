@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/117b/d561e2176155145d9cb1c4365d15962b4c1ff17dd3dfa96f334dbb4bc70e.jpg
-title: [셋업이엑스이] P/L RAGLAN TOP / BLACK 구매 가이드
-date: 2026-07-04
-description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안함을 중시하는 이들을 위한 상의로, 가벼운 운동이나 일상적인 캐주얼 착용에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,48 +18,22 @@ description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-04 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 73,700원</span>
+    <a href="https://link.coupang.com/a/e6R5PJXVLg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
@@ -112,14 +81,61 @@ description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 73,700원</span>
-    <a href="https://link.coupang.com/a/e6R5PJXVLg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/117b/d561e2176155145d9cb1c4365d15962b4c1ff17dd3dfa96f334dbb4bc70e.jpg
+title: [셋업이엑스이] P/L RAGLAN TOP / BLACK 구매 가이드
+date: 2026-07-04
+description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안함을 중시하는 이들을 위한 상의로, 가벼운 운동이나 일상적인 캐주얼 착용에 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -127,9 +143,11 @@ description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안�
 ## 상품 개요
 [셋업이엑스이] P/L RAGLAN TOP / BLACK은 활동적인 라이프스타일을 가진 사용자들이 가벼운 운동, 야외 활동, 또는 일상적인 캐주얼 복장으로 편안하게 착용할 수 있는 래글런 디자인의 상의입니다. 움직임이 많은 상황에서도 자유로운 활동성을 제공하며, 기본적인 블랙 색상으로 다양한 하의와 매치하기 좋습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/117b/d561e2176155145d9cb1c4365d15962b4c1ff17dd3dfa96f334dbb4bc70e.jpg" alt="[셋업이엑스이] P/L RAGLAN TOP / BLACK" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -184,6 +202,11 @@ A. 폴리에스터 혼방 소재이므로 옷의 변형을 방지하기 위해 3
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -191,3 +214,4 @@ A. 폴리에스터 혼방 소재이므로 옷의 변형을 방지하기 위해 3
     <a href="https://link.coupang.com/a/e6R5PJXVLg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

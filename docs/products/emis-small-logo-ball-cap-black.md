@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/114d/3434acc5dbe3e3305b98dad3f4f2eeb8382b72ef2d208ff7930aaed84e33.jpg
-title: 이미스 EMIS SMALL LOGO BALL CAP-BLACK 1042405 구매 가이드
-date: 2026-07-26
-description: 이미스 스몰 로고 볼캡 블랙 1042405는 일상 패션 아이템으로, 캐주얼한 착장부터 다양한 스타일에 활용하기 좋은 모자입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -24,13 +19,22 @@ description: 이미스 스몰 로고 볼캡 블랙 1042405는 일상 패션 아�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-26 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 54,500원</span>
+    <a href="https://link.coupang.com/a/fHFP6RFGz6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5개 가격 기록</div>
@@ -56,21 +60,35 @@ description: 이미스 스몰 로고 볼캡 블랙 1042405는 일상 패션 아�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 54,500원</span>
-    <a href="https://link.coupang.com/a/fHFP6RFGz6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/114d/3434acc5dbe3e3305b98dad3f4f2eeb8382b72ef2d208ff7930aaed84e33.jpg
+title: 이미스 EMIS SMALL LOGO BALL CAP-BLACK 1042405 구매 가이드
+date: 2026-07-26
+description: 이미스 스몰 로고 볼캡 블랙 1042405는 일상 패션 아이템으로, 캐주얼한 착장부터 다양한 스타일에 활용하기 좋은 모자입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 상품 개요
 이미스 EMIS SMALL LOGO BALL CAP-BLACK 1042405는 전면에 작은 브랜드 로고가 자수된 심플한 디자인의 볼캡입니다. 일상적인 외출, 가벼운 나들이, 휴가 시 햇빛 차단 등 캐주얼한 복장에 포인트를 주거나 실용적인 목적으로 활용하기 좋습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/114d/3434acc5dbe3e3305b98dad3f4f2eeb8382b72ef2d208ff7930aaed84e33.jpg" alt="이미스 EMIS SMALL LOGO BALL CAP-BLACK 1042405" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -129,6 +147,11 @@ A. 면 소재이므로 오염 시 중성세제를 사용하여 손세탁하는 �
 ## 참고한 글
 - [쿠팡 상품 페이지](https://www.coupang.com/vp/products/9236172321?itemId=27307431536&vendorItemId=95727931788)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -136,3 +159,4 @@ A. 면 소재이므로 오염 시 중성세제를 사용하여 손세탁하는 �
     <a href="https://link.coupang.com/a/fHFP6RFGz6" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

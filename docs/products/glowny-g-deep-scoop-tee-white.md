@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ebff/1ce53ac119e487367a9f6edcc7297f60f5d47afb2929259756d66eb4cb8b.jpg
-title: GLOWNY 글로니 G DEEP SCOOP TEE (WHITE) 구매 가이드
-date: 2026-07-21
-description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 깊은 넥라인이 특징인 기본 티셔츠로, 일상적인 캐주얼 스타일이나 레이어드룩에 활용하기 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,26 +18,22 @@ description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-21 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 47,600원</span>
+    <a href="https://link.coupang.com/a/fzbtCFf6cu" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
@@ -79,14 +70,39 @@ description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 47,600원</span>
-    <a href="https://link.coupang.com/a/fzbtCFf6cu" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ebff/1ce53ac119e487367a9f6edcc7297f60f5d47afb2929259756d66eb4cb8b.jpg
+title: GLOWNY 글로니 G DEEP SCOOP TEE (WHITE) 구매 가이드
+date: 2026-07-21
+description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 깊은 넥라인이 특징인 기본 티셔츠로, 일상적인 캐주얼 스타일이나 레이어드룩에 활용하기 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -94,9 +110,11 @@ description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 
 ## 상품 개요
 GLOWNY 글로니 G DEEP SCOOP TEE (WHITE)는 부드러운 면 소재와 깊게 파인 스쿱넥 디자인이 돋보이는 기본 티셔츠입니다. 편안하면서도 스타일리시한 실루엣을 제공하여, 단품으로 착용하거나 다양한 의류와 레이어드하여 캐주얼한 일상복으로 활용하기에 적합합니다. 2024년 시즌 제품으로, 미니멀하면서도 개성 있는 스타일을 추구하는 소비자를 위한 선택지입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ebff/1ce53ac119e487367a9f6edcc7297f60f5d47afb2929259756d66eb4cb8b.jpg" alt="GLOWNY 글로니 G DEEP SCOOP TEE (WHITE)" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -155,6 +173,11 @@ A. 화이트 색상의 면 소재 특성상, 빛의 투과율이나 개인의 �
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -162,3 +185,4 @@ A. 화이트 색상의 면 소재 특성상, 빛의 투과율이나 개인의 �
     <a href="https://link.coupang.com/a/fzbtCFf6cu" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d326/5cf7fc6dca1636fa2b2448e2e5833eb1bfb8c247591f24167f77fcf720ed.jpg
-title: [레이즈미야] 베이비 글라스 시어 풀오버 [BLACK] 구매 가이드
-date: 2026-07-11
-description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가볍고 비침 있는 소재의 상의로, 계절에 구애받지 않고 다양한 스타일에 활용하기 좋은 패션 아이템입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,36 +18,22 @@ description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-11 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 97,200원</span>
+    <a href="https://link.coupang.com/a/fiLGJZbuQ8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
@@ -97,14 +78,49 @@ description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 97,200원</span>
-    <a href="https://link.coupang.com/a/fiLGJZbuQ8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d326/5cf7fc6dca1636fa2b2448e2e5833eb1bfb8c247591f24167f77fcf720ed.jpg
+title: [레이즈미야] 베이비 글라스 시어 풀오버 [BLACK] 구매 가이드
+date: 2026-07-11
+description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가볍고 비침 있는 소재의 상의로, 계절에 구애받지 않고 다양한 스타일에 활용하기 좋은 패션 아이템입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -112,9 +128,11 @@ description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가�
 ## 상품 개요
 [레이즈미야] 베이비 글라스 시어 풀오버 [BLACK]은 가볍고 투명한 유리 같은 질감의 시어(sheer) 소재가 특징인 라운드넥 풀오버 상의입니다. 비침이 있는 디자인으로, 단품으로 착용하기보다는 이너웨어와 함께 레이어드하여 간절기나 여름철에 가볍고 세련된 스타일을 연출하고자 할 때 주로 활용됩니다. 일상적인 외출이나 특별한 날 개성 있는 룩을 완성하는 데 적합한 패션 아이템입니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d326/5cf7fc6dca1636fa2b2448e2e5833eb1bfb8c247591f24167f77fcf720ed.jpg" alt="[레이즈미야] 베이비 글라스 시어 풀오버 [BLACK]" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -176,6 +194,11 @@ A. 캐주얼한 데님 팬츠부터 슬랙스, 스커트 등 다양한 하의와
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -183,3 +206,4 @@ A. 캐주얼한 데님 팬츠부터 슬랙스, 스커트 등 다양한 하의와
     <a href="https://link.coupang.com/a/fiLGJZbuQ8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

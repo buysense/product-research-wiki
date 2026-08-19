@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0e97/9f0935c870063acad9ff2cc06e538f47760205ec35e43135cbf8e3733efc.jpg
-title: GLOWNY 글로니 G SLIM TEE 구매 가이드
-date: 2026-07-24
-description: GLOWNY 글로니 G SLIM TEE는 슬림핏 디자인으로 다양한 코디에 활용하기 좋은 티셔츠입니다. 데일리룩, 운동 시 이너웨어 등으로 편안하게 착용할 수 있습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,15 +18,22 @@ description: GLOWNY 글로니 G SLIM TEE는 슬림핏 디자인으로 다양한 
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-25 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 45,500원</span>
+    <a href="https://link.coupang.com/a/fEAq2JQzwO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6개 가격 기록</div>
@@ -59,21 +61,37 @@ description: GLOWNY 글로니 G SLIM TEE는 슬림핏 디자인으로 다양한 
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 45,500원</span>
-    <a href="https://link.coupang.com/a/fEAq2JQzwO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0e97/9f0935c870063acad9ff2cc06e538f47760205ec35e43135cbf8e3733efc.jpg
+title: GLOWNY 글로니 G SLIM TEE 구매 가이드
+date: 2026-07-24
+description: GLOWNY 글로니 G SLIM TEE는 슬림핏 디자인으로 다양한 코디에 활용하기 좋은 티셔츠입니다. 데일리룩, 운동 시 이너웨어 등으로 편안하게 착용할 수 있습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 상품 개요
 GLOWNY 글로니 G SLIM TEE는 몸에 자연스럽게 밀착되는 슬림핏 디자인의 티셔츠로, 일상적인 캐주얼룩은 물론 운동 시 이너웨어, 셔츠나 재킷 안에 받쳐 입는 등 다양한 상황에서 활용하기 좋습니다. 편안한 착용감과 실용성을 겸비하여 데일리 아이템으로 적합하며, 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0e97/9f0935c870063acad9ff2cc06e538f47760205ec35e43135cbf8e3733efc.jpg" alt="GLOWNY 글로니 G SLIM TEE" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -131,6 +149,11 @@ A. 면 혼방 소재의 특성상 봄, 가을에는 단독으로 입기 좋으�
 ## 참고한 글
 - [쿠팡 상품 페이지](https://www.coupang.com/vp/products/9613060342?itemId=28701309757&vendorItemId=95642340368)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -138,3 +161,4 @@ A. 면 혼방 소재의 특성상 봄, 가을에는 단독으로 입기 좋으�
     <a href="https://link.coupang.com/a/fEAq2JQzwO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

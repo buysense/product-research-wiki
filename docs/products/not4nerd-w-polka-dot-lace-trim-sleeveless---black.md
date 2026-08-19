@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9bd2/c9db251a97c0d011ca798bbeded4ff9cd6fbe2c786e5a68ab0a8d874d3f0.jpg
-title: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black 구매 가이드
-date: 2026-07-04
-description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 패턴과 레이스 트림이 특징인 여성용 민소매 상의입니다. 구매 전 소재감, 비침, 사이즈, 관리 방법을 확인하는 것이 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,48 +18,22 @@ description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 
   }
 }
 </script>
-
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   작성일: 2026-07-04. 가격과 판매 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 56,200원</span>
+    <a href="https://link.coupang.com/a/e6TryVOGey" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
@@ -95,14 +64,61 @@ description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 56,200원</span>
-    <a href="https://link.coupang.com/a/e6TryVOGey" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9bd2/c9db251a97c0d011ca798bbeded4ff9cd6fbe2c786e5a68ab0a8d874d3f0.jpg
+title: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black 구매 가이드
+date: 2026-07-04
+description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 패턴과 레이스 트림이 특징인 여성용 민소매 상의입니다. 구매 전 소재감, 비침, 사이즈, 관리 방법을 확인하는 것이 좋습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -164,10 +180,17 @@ A. 실측 사이즈, 소재 두께, 비침 여부, 세탁 방법을 먼저 확�
 
 ## 참고 링크
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9bd2/c9db251a97c0d011ca798bbeded4ff9cd6fbe2c786e5a68ab0a8d874d3f0.jpg" alt="NOT4NERD W Polka Dot Lace Trim Sleeveless - Black" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -175,3 +198,4 @@ A. 실측 사이즈, 소재 두께, 비침 여부, 세탁 방법을 먼저 확�
     <a href="https://link.coupang.com/a/e6TryVOGey" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

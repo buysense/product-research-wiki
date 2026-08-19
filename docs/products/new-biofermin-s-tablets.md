@@ -1,10 +1,9 @@
----
-image: https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin/images/05479/image/05479_350_1.png
-title: 신비오페르민 구매 가이드
-date: 2026-03-31
-description: 신비오페르민은 100년 역사의 일본 대표 정장제로, 비피더스균 등 3종 유산균이 장 건강을 돕습니다. 변비, 설사, 복부 팽만감 완화에 효과적이며, 일본 여행 시 쇼핑 리스트나 해외직구로 많이 찾는 지정의약부외품입니다.
----
+<!-- bs:jsonld -->
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-31 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0;">
   <div style="font-size: 0.8em; color: #888; margin-bottom: 10px;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
   <div style="display: flex; flex-direction: column; gap: 8px;">
@@ -41,6 +40,20 @@ description: 신비오페르민은 100년 역사의 일본 대표 정장제로, 
     </div>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin/images/05479/image/05479_350_1.png
+title: 신비오페르민 구매 가이드
+date: 2026-03-31
+description: 신비오페르민은 100년 역사의 일본 대표 정장제로, 비피더스균 등 3종 유산균이 장 건강을 돕습니다. 변비, 설사, 복부 팽만감 완화에 효과적이며, 일본 여행 시 쇼핑 리스트나 해외직구로 많이 찾는 지정의약부외품입니다.
+---
+
+
+
+
 
 ## 상품 개요
 신비오페르민은 1966년에 리뉴얼 출시된(최초 1917년) 100년 이상의 역사를 가진 일본의 대표적인 지정의약부외품 정장제입니다. 비피더스균, 페칼리스균, 아시도필루스균 등 인체 유래 3종 유산균을 배합하여 소장부터 대장까지 장 전반의 건강 관리에 도움을 줍니다. 변비, 설사, 복부 팽만감 등 장 트러블로 불편함을 겪을 때 찾으며, 일본 여행 시 돈키호테 등 드럭스토어 필수 쇼핑 아이템이나 해외직구 품목으로 인기가 높습니다.
@@ -131,6 +144,38 @@ A. 국내에서는 정식 유통이 거의 없어 주로 일본 현지 드럭스
 Q. '신비오페르민S'와 '신비오페르민S 플러스'의 차이점은 무엇인가요?  
 A. '신비오페르민S 플러스'는 기존 S정에 롱검균 1종이 추가되어 비피더스균 구성을 강화한 제품입니다. 두 제품 모두 장내 유익균 증식을 통한 정장 효과를 목적으로 합니다.
 
+
+
+
+---
+## 참고한 글
+- [비오페르민 제약 공식 웹사이트](https://www.biofermin.co.jp)
+- [쿠팡 상품 정보](https://link.coupang.com/a/eeQsrv)
+- [과민성대장증후군 해결을 위해... 신비오페르민 S정 구매 후기 : 네이버 블로그](https://m.blog.naver.com/skyduk/222210538822)
+- [신비오페르민 일본변비약 구입후기](https://goodsnote.tistory.com/77)
+- [일본가면 꼭 사야할 변비약 신비오페르민s 리얼후기](https://hyunstar1210.tistory.com/448)
+- [일본직구사이트 코코마이](https://www.cocomai.jp/blogs/news/ssinbioblog?srsltid=AfmBOop2pCNdVIawQlyLfY4MtIRQ5S3OPRjxt-w12xgFpVPAp6JNYZFW)
+- [다이쇼제약 신비오페르민S 효능, 부작용, 실제 후기, 성분, 복용법 (2026) | 필라이즈](https://www.pillyze.com/products/3088/%EC%8B%A0%EB%B9%84%EC%98%A4%ED%8E%98%EB%A5%B4%EB%AF%BCS)
+- [일본 웹사이트에서 일반약 구매 가능 '논란' < 유통 < 제약·유통 < 기사본문 - 의학신문](https://www.bosa.co.kr/news/articleView.html?idxno=327568)
+- [[데일리팜]일부슈퍼, 약국에 구매 문의…약사들 "허탈하다"](https://www.dailypharm.com/Users/News/NewsView.html?ID=144070)
+- [[메디칼타임즈] 박카스·마데카솔·까스명수, 내일부터 슈퍼판매](https://m.medicaltimes.com/News/NewsView.html?ID=103744)
+- [박카스 이제 의약외품…내일부터 슈퍼 판매 | 연합뉴스](https://www.yna.co.kr/view/AKR20110720176300017)
+- [마시는 소화제 등 44개 의약품, 8월부터 슈퍼 판매 < 기타 < 기사본문 - 안전저널](https://www.anjunj.com/news/articleView.html?idxno=3001)
+- [일본유산균 신비오페르민S 효과 부작용 복용법! : 네이버 블로그](https://m.blog.naver.com/multizzang2/224014633378)
+- [신비오페르민s 효과 부작용 신비오페르민s 가격 복용방법 : 네이버 블로그](https://m.blog.naver.com/hgh2815/224204232839)
+- [임신 중 장 트러블에 좋은 일본 ‘신 비오페르민 S 플러스’ 직접 복용해본 후기 : 네이버 블로그](https://m.blog.naver.com/hannakim513/224166467757)
+- [일본 유산균 신비오페르민s 플러스 (130정) : 네이버 블로그](https://m.blog.naver.com/dbswjd1577/223757001156)
+- [일본 유산균 추천🧡 돈키호테 추천템 신 비오페르민S 유산균 먹는 방법 : 네이버 블로그](https://m.blog.naver.com/nami_kim_/223394601525)
+- [[일본여행] 돈키호테 필수 쇼핑 아이템②_용각산/무지외반증 교정 밴드/신비오페르민/파브론A및W비교 외 : 네이버 블로그](https://m.blog.naver.com/ratreein/223637174097)
+- [신비오페르민S 유산균 종류별 비교분석| 540정, 360정, 130정, 90정 | 일본 유산균, 다이쇼제약, 신비오페르민S 플러스, 가격 비교, 구매 가이드 : 네이버 블로그](https://m.blog.naver.com/uridongne80/223624755109)
+- [일본 돈키호테가서 사온 신비오페르민S 540정 : 네이버 블로그](https://m.blog.naver.com/vodrnls32/224130805227)
+- [일본 여행 중 진짜 유용했던 편의점/약국 쇼핑리스트 : 네이버 블로그](https://m.blog.naver.com/richmemories/224156375452)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0;">
   <div style="font-size: 0.8em; color: #888; margin-bottom: 10px;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
   <div style="display: flex; flex-direction: column; gap: 8px;">
@@ -167,27 +212,4 @@ A. '신비오페르민S 플러스'는 기존 S정에 롱검균 1종이 추가되
     </div>
   </div>
 </div>
-
----
-## 참고한 글
-- [비오페르민 제약 공식 웹사이트](https://www.biofermin.co.jp)
-- [쿠팡 상품 정보](https://link.coupang.com/a/eeQsrv)
-- [과민성대장증후군 해결을 위해... 신비오페르민 S정 구매 후기 : 네이버 블로그](https://m.blog.naver.com/skyduk/222210538822)
-- [신비오페르민 일본변비약 구입후기](https://goodsnote.tistory.com/77)
-- [일본가면 꼭 사야할 변비약 신비오페르민s 리얼후기](https://hyunstar1210.tistory.com/448)
-- [일본직구사이트 코코마이](https://www.cocomai.jp/blogs/news/ssinbioblog?srsltid=AfmBOop2pCNdVIawQlyLfY4MtIRQ5S3OPRjxt-w12xgFpVPAp6JNYZFW)
-- [다이쇼제약 신비오페르민S 효능, 부작용, 실제 후기, 성분, 복용법 (2026) | 필라이즈](https://www.pillyze.com/products/3088/%EC%8B%A0%EB%B9%84%EC%98%A4%ED%8E%98%EB%A5%B4%EB%AF%BCS)
-- [일본 웹사이트에서 일반약 구매 가능 '논란' < 유통 < 제약·유통 < 기사본문 - 의학신문](https://www.bosa.co.kr/news/articleView.html?idxno=327568)
-- [[데일리팜]일부슈퍼, 약국에 구매 문의…약사들 "허탈하다"](https://www.dailypharm.com/Users/News/NewsView.html?ID=144070)
-- [[메디칼타임즈] 박카스·마데카솔·까스명수, 내일부터 슈퍼판매](https://m.medicaltimes.com/News/NewsView.html?ID=103744)
-- [박카스 이제 의약외품…내일부터 슈퍼 판매 | 연합뉴스](https://www.yna.co.kr/view/AKR20110720176300017)
-- [마시는 소화제 등 44개 의약품, 8월부터 슈퍼 판매 < 기타 < 기사본문 - 안전저널](https://www.anjunj.com/news/articleView.html?idxno=3001)
-- [일본유산균 신비오페르민S 효과 부작용 복용법! : 네이버 블로그](https://m.blog.naver.com/multizzang2/224014633378)
-- [신비오페르민s 효과 부작용 신비오페르민s 가격 복용방법 : 네이버 블로그](https://m.blog.naver.com/hgh2815/224204232839)
-- [임신 중 장 트러블에 좋은 일본 ‘신 비오페르민 S 플러스’ 직접 복용해본 후기 : 네이버 블로그](https://m.blog.naver.com/hannakim513/224166467757)
-- [일본 유산균 신비오페르민s 플러스 (130정) : 네이버 블로그](https://m.blog.naver.com/dbswjd1577/223757001156)
-- [일본 유산균 추천🧡 돈키호테 추천템 신 비오페르민S 유산균 먹는 방법 : 네이버 블로그](https://m.blog.naver.com/nami_kim_/223394601525)
-- [[일본여행] 돈키호테 필수 쇼핑 아이템②_용각산/무지외반증 교정 밴드/신비오페르민/파브론A및W비교 외 : 네이버 블로그](https://m.blog.naver.com/ratreein/223637174097)
-- [신비오페르민S 유산균 종류별 비교분석| 540정, 360정, 130정, 90정 | 일본 유산균, 다이쇼제약, 신비오페르민S 플러스, 가격 비교, 구매 가이드 : 네이버 블로그](https://m.blog.naver.com/uridongne80/223624755109)
-- [일본 돈키호테가서 사온 신비오페르민S 540정 : 네이버 블로그](https://m.blog.naver.com/vodrnls32/224130805227)
-- [일본 여행 중 진짜 유용했던 편의점/약국 쇼핑리스트 : 네이버 블로그](https://m.blog.naver.com/richmemories/224156375452)
+<!-- /bs:cta_bottom -->

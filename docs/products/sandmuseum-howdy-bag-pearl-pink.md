@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4616/216cb1a16e2da5a1cb4bc7127fbc9673018abe33ac38c8dd570f6f5f7bb0.jpg
-title: 샌드뮤지엄 SAND MUSEUM HOWDY BAG Pearl Pink 구매 가이드
-date: 2026-07-25
-description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인과 사랑스러운 펄 핑크 색상이 특징인 핸드백으로, 데일리룩에 포인트를 주거나 특별한 날 스타일을 완성하기에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,17 +18,22 @@ description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-25 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 179,800원</span>
+    <a href="https://link.coupang.com/a/fF1B0SKg32" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
@@ -63,21 +63,39 @@ description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 179,800원</span>
-    <a href="https://link.coupang.com/a/fF1B0SKg32" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4616/216cb1a16e2da5a1cb4bc7127fbc9673018abe33ac38c8dd570f6f5f7bb0.jpg
+title: 샌드뮤지엄 SAND MUSEUM HOWDY BAG Pearl Pink 구매 가이드
+date: 2026-07-25
+description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인과 사랑스러운 펄 핑크 색상이 특징인 핸드백으로, 데일리룩에 포인트를 주거나 특별한 날 스타일을 완성하기에 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 상품 개요
 샌드뮤지엄 SAND MUSEUM HOWDY BAG Pearl Pink는 컴팩트한 사이즈와 화사한 펄 핑크 색상이 돋보이는 핸드백입니다. 일상적인 외출 시 가볍게 들거나, 특별한 날 의상에 포인트를 주기 위한 패션 아이템으로 활용하기 적합합니다. 2024년 출시 (추정).
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4616/216cb1a16e2da5a1cb4bc7127fbc9673018abe33ac38c8dd570f6f5f7bb0.jpg" alt="샌드뮤지엄 SAND MUSEUM HOWDY BAG Pearl Pink" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -132,6 +150,11 @@ A. 일상적인 카페 방문, 친구와의 약속, 가벼운 외출 시 데일�
 ## 참고한 글
 - [쿠팡 상품 페이지](https://www.coupang.com/vp/products/9612365288?itemId=28698834114&vendorItemId=95639917601)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -139,3 +162,4 @@ A. 일상적인 카페 방문, 친구와의 약속, 가벼운 외출 시 데일�
     <a href="https://link.coupang.com/a/fF1B0SKg32" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

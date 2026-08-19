@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/e7400881-48b2-459d-8665-fab5ec8de9bd_fixing_v2.png
-title: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케 구매 가이드
-date: 2026-07-28
-description: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케는 마늘, 참깨, 가츠오의 감칠맛이 특징인 일본식 밥 양념으로, 바쁜 일상 속 간편한 식사나 도시락 반찬으로 활용하기에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -31,11 +26,22 @@ description: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케는 마�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-28 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,700원 · 별점 4.7 · 리뷰 27개</span>
+    <a href="https://link.coupang.com/a/fK0USOUcdU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4개 가격 기록</div>
@@ -60,21 +66,33 @@ description: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케는 마�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,700원 · 별점 4.7 · 리뷰 27개</span>
-    <a href="https://link.coupang.com/a/fK0USOUcdU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/e7400881-48b2-459d-8665-fab5ec8de9bd_fixing_v2.png
+title: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케 구매 가이드
+date: 2026-07-28
+description: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케는 마늘, 참깨, 가츠오의 감칠맛이 특징인 일본식 밥 양념으로, 바쁜 일상 속 간편한 식사나 도시락 반찬으로 활용하기에 적합합니다.
+---
+
+
+
+
+
+
+
+
+
+
 
 ## 상품 개요
 일본 돈키호테 마늘 참깨 가츠오맛 후리카케는 흰밥에 뿌려 간편하게 먹을 수 있는 일본식 밥 양념입니다. 마늘의 고소한 풍미와 참깨, 가다랑어포(가츠오)의 감칠맛이 조화를 이루어 별다른 반찬 없이도 맛있게 한 끼를 해결할 수 있습니다. 바쁜 일상 속에서 간편하게 식사를 준비하거나 도시락, 간편식에 풍미를 더하고자 할 때 유용하게 활용될 수 있습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/e7400881-48b2-459d-8665-fab5ec8de9bd_fixing_v2.png" alt="일본 돈키호테 마늘 참깨 가츠오맛 후리카케" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -132,6 +150,11 @@ A. '후리카케(ふりかけ)'는 일본어로 '뿌리다'라는 뜻의 동사�
 
 *   [쿠팡 - 일본 돈키호테 마늘 참깨 가츠오맛 후리카케](https://link.coupang.com/a/fK0USOUcdU)
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -139,3 +162,4 @@ A. '후리카케(ふりかけ)'는 일본어로 '뿌리다'라는 뜻의 동사�
     <a href="https://link.coupang.com/a/fK0USOUcdU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

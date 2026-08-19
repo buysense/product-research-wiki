@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4e22/8d1d1bd24af359c5b83ca0fe8578b48e7c438f0640bb5918bfdabf304a4c.jpg
-title: 농심 삼계탕 사발면 구매 가이드
-date: 2026-08-12
-description: 농심 삼계탕 사발면은 간편하게 삼계탕의 풍미를 즐길 수 있는 컵라면으로, 바쁜 일상 속 식사나 야외 활동 시 따뜻한 국물이 필요한 상황에 적합합니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,9 +18,13 @@ description: 농심 삼계탕 사발면은 간편하게 삼계탕의 풍미를 �
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-12 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -33,13 +32,31 @@ description: 농심 삼계탕 사발면은 간편하게 삼계탕의 풍미를 �
     <a href="https://link.coupang.com/a/f9MCzn3XYO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4e22/8d1d1bd24af359c5b83ca0fe8578b48e7c438f0640bb5918bfdabf304a4c.jpg
+title: 농심 삼계탕 사발면 구매 가이드
+date: 2026-08-12
+description: 농심 삼계탕 사발면은 간편하게 삼계탕의 풍미를 즐길 수 있는 컵라면으로, 바쁜 일상 속 식사나 야외 활동 시 따뜻한 국물이 필요한 상황에 적합합니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 농심 삼계탕 사발면은 언제 어디서든 간편하게 삼계탕 특유의 깊고 진한 닭 육수 맛을 즐길 수 있는 컵라면입니다. 바쁜 일상 속에서 빠르게 한 끼를 해결해야 할 때, 혹은 캠핑이나 여행 중 따뜻하고 든든한 국물 요리가 필요할 때 적합한 제품입니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4e22/8d1d1bd24af359c5b83ca0fe8578b48e7c438f0640bb5918bfdabf304a4c.jpg" alt="농심 삼계탕 사발면" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -96,6 +113,11 @@ A. 뚜껑을 열고 뜨거운 물을 용기 안쪽 표시선까지 부은 후, �
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -103,3 +125,4 @@ A. 뚜껑을 열고 뜨거운 물을 용기 안쪽 표시선까지 부은 후, �
     <a href="https://link.coupang.com/a/f9MCzn3XYO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

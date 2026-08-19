@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a56/66b69584bd3c845a69dc2d0550381363453f0d1b6032efbaae765670a1ef.jpg
-title: [플리즈노팔로우] Amanda Shirring Long Sleeve Top (White) 구매 가이드
-date: 2026-07-14
-description: Amanda Shirring Long Sleeve Top (White)은 데일리룩부터 세미 캐주얼까지 다양한 코디에 활용하기 좋은 여성 긴팔 상의입니다. 자연스러운 셔링 디테일로 편안하면서도 스타일리시한 연출을 돕습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,36 +18,22 @@ description: Amanda Shirring Long Sleeve Top (White)은 데일리룩부터 세�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-14 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 72,200원</span>
+    <a href="https://link.coupang.com/a/fnIcy0mGLQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
@@ -95,14 +76,49 @@ description: Amanda Shirring Long Sleeve Top (White)은 데일리룩부터 세�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 72,200원</span>
-    <a href="https://link.coupang.com/a/fnIcy0mGLQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a56/66b69584bd3c845a69dc2d0550381363453f0d1b6032efbaae765670a1ef.jpg
+title: [플리즈노팔로우] Amanda Shirring Long Sleeve Top (White) 구매 가이드
+date: 2026-07-14
+description: Amanda Shirring Long Sleeve Top (White)은 데일리룩부터 세미 캐주얼까지 다양한 코디에 활용하기 좋은 여성 긴팔 상의입니다. 자연스러운 셔링 디테일로 편안하면서도 스타일리시한 연출을 돕습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -110,9 +126,11 @@ description: Amanda Shirring Long Sleeve Top (White)은 데일리룩부터 세�
 ## 상품 개요
 [플리즈노팔로우] Amanda Shirring Long Sleeve Top (White)은 여성들을 위한 긴팔 상의로, 자연스러운 셔링 디테일이 특징입니다. 가볍고 편안한 착용감으로 일상적인 외출복이나 재택근무 시 실내복으로 활용하기 좋으며, 재킷이나 카디건 안에 레이어드하여 오피스룩이나 세미 캐주얼룩을 연출할 때도 적합합니다. 계절 변화에 맞춰 봄, 가을 간절기에 단품으로 입거나, 겨울에는 이너로 활용하여 다양한 스타일링이 가능합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a56/66b69584bd3c845a69dc2d0550381363453f0d1b6032efbaae765670a1ef.jpg" alt="[플리즈노팔로우] Amanda Shirring Long Sleeve Top (White)" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -172,6 +190,11 @@ A. 소재의 특성을 고려하여 가급적 손세탁이나 드라이클리닝
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -179,3 +202,4 @@ A. 소재의 특성을 고려하여 가급적 손세탁이나 드라이클리닝
     <a href="https://link.coupang.com/a/fnIcy0mGLQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

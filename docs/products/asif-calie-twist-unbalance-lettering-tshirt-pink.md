@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0f2a/90e806e88bc62ae11b5a4f73cda7c03d458fc9eb4f1e004dfcfe308454f4.jpg
-title: 에즈이프 캘리 ASIF CALIE TWIST UNBALANCE LETTERING T-SHIRT PINK 구매 가이드
-date: 2026-07-15
-description: 에즈이프 캘리 트위스트 언밸런스 레터링 티셔츠 핑크는 개성 있는 디자인과 편안한 착용감으로 일상 캐주얼 스타일링에 포인트를 더하는 티셔츠입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,36 +18,22 @@ description: 에즈이프 캘리 트위스트 언밸런스 레터링 티셔츠 �
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-15 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 64,400원</span>
+    <a href="https://link.coupang.com/a/fpnMdS6W0y" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
@@ -87,14 +68,49 @@ description: 에즈이프 캘리 트위스트 언밸런스 레터링 티셔츠 �
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 64,400원</span>
-    <a href="https://link.coupang.com/a/fpnMdS6W0y" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0f2a/90e806e88bc62ae11b5a4f73cda7c03d458fc9eb4f1e004dfcfe308454f4.jpg
+title: 에즈이프 캘리 ASIF CALIE TWIST UNBALANCE LETTERING T-SHIRT PINK 구매 가이드
+date: 2026-07-15
+description: 에즈이프 캘리 트위스트 언밸런스 레터링 티셔츠 핑크는 개성 있는 디자인과 편안한 착용감으로 일상 캐주얼 스타일링에 포인트를 더하는 티셔츠입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -103,9 +119,11 @@ description: 에즈이프 캘리 트위스트 언밸런스 레터링 티셔츠 �
 ## 상품 개요
 에즈이프 캘리 트위스트 언밸런스 레터링 티셔츠 핑크는 독특한 언밸런스 디자인과 레터링 디테일, 그리고 화사한 핑크 색상이 특징인 의류 제품입니다. 평범한 일상복에 개성을 더하고 싶을 때, 또는 캐주얼하면서도 스타일리시한 포인트를 주고 싶을 때 활용하기 적합합니다. 가벼운 외출이나 친구들과의 만남, 또는 편안하면서도 꾸민 듯한 '꾸안꾸' 패션을 연출하고자 할 때 주로 선택됩니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0f2a/90e806e88bc62ae11b5a4f73cda7c03d458fc9eb4f1e004dfcfe308454f4.jpg" alt="에즈이프 캘리 ASIF CALIE TWIST UNBALANCE LETTERING T-SHIRT PINK" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -164,6 +182,11 @@ A. 가장 큰 특징은 밑단이나 소매 등 특정 부분이 비대칭적으
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -171,3 +194,4 @@ A. 가장 큰 특징은 밑단이나 소매 등 특정 부분이 비대칭적으
     <a href="https://link.coupang.com/a/fpnMdS6W0y" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

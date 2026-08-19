@@ -1,10 +1,9 @@
----
-image: https://t5c.coupangcdn.com/thumbnails/remote/212x212ex/image/travel_reactor/travelSeller/common/A00021503/2a639292-4ba4-4199-8811-0b8c6472b859.jpg
-title: 카멜리아호 부산 후쿠오카 배편 승선권 구매 가이드
-date: 2026-04-02
-description: 부산과 후쿠오카를 잇는 뉴카멜리아호 승선권은 비행기 대신 숙박과 이동을 겸하며 여유로운 쇼핑 여행을 계획하는 분들에게 적합합니다.
----
+<!-- bs:jsonld -->
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-02 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다. · 최종 가격 확인: 2026-04-02</p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
@@ -12,6 +11,20 @@ description: 부산과 후쿠오카를 잇는 뉴카멜리아호 승선권은 �
     <a href="https://link.coupang.com/a/egFs0F" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://t5c.coupangcdn.com/thumbnails/remote/212x212ex/image/travel_reactor/travelSeller/common/A00021503/2a639292-4ba4-4199-8811-0b8c6472b859.jpg
+title: 카멜리아호 부산 후쿠오카 배편 승선권 구매 가이드
+date: 2026-04-02
+description: 부산과 후쿠오카를 잇는 뉴카멜리아호 승선권은 비행기 대신 숙박과 이동을 겸하며 여유로운 쇼핑 여행을 계획하는 분들에게 적합합니다.
+---
+
+
+
+
 
 ## 상품 개요
 카멜리아호 부산 후쿠오카 배편 승선권은 비행기보다 여유로운 이동과 숙박을 동시에 해결하고자 하는 여행객에게 적합한 선택지입니다. 밤에 부산항에서 출발하여 선내에서 하룻밤을 보낸 후, 다음 날 아침 후쿠오카 하카타항에 도착하는 야간 운항 스케줄로, 첫날부터 알찬 여행을 시작할 수 있습니다. 특히 넉넉한 수하물 규정으로 쇼핑을 목적으로 하는 여행객들에게 유리하며, 항공권 가격 부담이 클 때 가성비 있는 대안으로 고려됩니다. 1990년 12월부터 운항을 시작한 국제 여객선입니다.
@@ -96,13 +109,8 @@ A. 예산과 편안함에 따라 선택할 수 있습니다. 가장 저렴한 2�
 Q. 뉴카멜리아호의 출국 수속 마감 시간이 궁금합니다.  
 A. 부산발 후쿠오카행의 경우, 출항 시각은 22:30이지만 발권 및 출국 수속은 늦어도 19:00에 마감됩니다. 하카타발 부산행은 11:30에 승선 마감이므로, 두 노선 모두 여유를 가지고 일찍 도착하는 것이 중요합니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 69,000원</span>
-    <a href="https://link.coupang.com/a/egFs0F" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -126,3 +134,17 @@ A. 부산발 후쿠오카행의 경우, 출항 시각은 22:30이지만 발권 �
 - [일본 후쿠오카 부산 배편 이동 뉴카멜리아호 탑승후기 : 네이버 블로그](https://m.blog.naver.com/miny9776/224232780028)
 - [2026 부산-후쿠오카 뉴카멜리아호 예약 꿀팁 총정리 (가격·시간·할인 완벽 가이드) : 네이버 블로그](https://m.blog.naver.com/kngkng_/224174410753)
 - [뉴카멜리아호 예약 후쿠오카 시간 2등실 후기 가격 총정리 : 네이버 블로그](https://m.blog.naver.com/overthesense/224190494009)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 69,000원</span>
+    <a href="https://link.coupang.com/a/egFs0F" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta_bottom -->

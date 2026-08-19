@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a09/7504f4b03d26cba9d52c14e7ec8959e63cef456921006c0dcc8312828b9f.jpg
-title: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이넥 티 FOT249 DOH676 구매 가이드
-date: 2026-07-11
-description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이넥 티는 데일리룩과 편안함을 중시하는 여성들을 위한 기본 아이템입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,46 +18,22 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-11 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 58,800원</span>
+    <a href="https://link.coupang.com/a/fiMa3rVXVI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
@@ -97,14 +68,59 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 58,800원</span>
-    <a href="https://link.coupang.com/a/fiMa3rVXVI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a09/7504f4b03d26cba9d52c14e7ec8959e63cef456921006c0dcc8312828b9f.jpg
+title: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이넥 티 FOT249 DOH676 구매 가이드
+date: 2026-07-11
+description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이넥 티는 데일리룩과 편안함을 중시하는 여성들을 위한 기본 아이템입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -112,9 +128,11 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
 ## 상품 개요
 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이넥 티 FOT249 DOH676은 면과 스판 혼방의 베이비립 소재로 제작된 여성용 브이넥 티셔츠입니다. 이 제품은 부드러운 착용감과 적당한 신축성을 바탕으로 일상적인 캐주얼룩이나 가벼운 외출 시 편안하면서도 스타일리시하게 연출하기에 적합합니다. 캘빈클라인 진의 브랜드 아이덴티티가 담긴 우븐 라벨 디테일이 특징이며, 2024년 출시된 기본 아이템으로 다양한 하의와 매치하기 좋습니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a09/7504f4b03d26cba9d52c14e7ec8959e63cef456921006c0dcc8312828b9f.jpg" alt="캘빈클라인 진 47C910G여성 우븐라벨 베이비립 브이넥 티 FOT249 DOH676" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -176,6 +194,11 @@ A. 기본적인 브이넥 디자인과 깔끔한 실루엣 덕분에 매우 다�
 *   캘빈클라인 공식 웹사이트 제품 정보
 *   온라인 쇼핑몰 제품 상세 페이지 및 고객 리뷰
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -183,3 +206,4 @@ A. 기본적인 브이넥 디자인과 깔끔한 실루엣 덕분에 매우 다�
     <a href="https://link.coupang.com/a/fiMa3rVXVI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

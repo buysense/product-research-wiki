@@ -1,10 +1,9 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ae24/1838d79df6060a5b4c5ee9e6c5564d4d1d8f04401544a119ab879066b836.jpg
-title: 밀카 알프스밀크 구매 가이드
-date: 2026-04-07
-description: 밀카 알프스밀크는 100% 알프스 우유로 만들어진 부드럽고 달콤한 밀크 초콜릿입니다. 당 충전이 필요한 순간, 간식 또는 발렌타인데이 선물로 적합하며, 커피나 우유와 함께 즐기기 좋습니다.
----
+<!-- bs:jsonld -->
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-07 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
@@ -12,6 +11,20 @@ description: 밀카 알프스밀크는 100% 알프스 우유로 만들어진 부
     <a href="https://link.coupang.com/a/ej8GrN" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ae24/1838d79df6060a5b4c5ee9e6c5564d4d1d8f04401544a119ab879066b836.jpg
+title: 밀카 알프스밀크 구매 가이드
+date: 2026-04-07
+description: 밀카 알프스밀크는 100% 알프스 우유로 만들어진 부드럽고 달콤한 밀크 초콜릿입니다. 당 충전이 필요한 순간, 간식 또는 발렌타인데이 선물로 적합하며, 커피나 우유와 함께 즐기기 좋습니다.
+---
+
+
+
+
 
 ## 상품 개요
 밀카 알프스밀크는 1901년 스위스에서 시작된 120년 전통의 밀크 초콜릿으로, 100% 알프스 지역의 우유를 사용하여 독보적인 부드러움과 크리미한 맛이 특징입니다. 일상에서 당 충전이 필요할 때 간편하게 즐기는 간식으로 적합하며, 커피나 우유와 함께 디저트로 곁들이기에도 훌륭합니다. 고급스러운 보랏빛 패키지 덕분에 발렌타인데이 등 특별한 날 가벼운 선물용으로도 선호되며, 여러 인플루언서들이 그 부드러움과 다양한 활용법을 언급하며 인기를 얻고 있습니다.
@@ -102,13 +115,8 @@ A. 네, 중탕으로 녹여 마시멜로우를 코팅하거나 쿠키 반죽에 
 Q. 밀카 초콜릿은 지속 가능한가요?  
 A. 밀카는 몬델리즈 인터내셔널의 Cocoa Life 프로그램에 참여하여 지속 가능한 코코아 재배를 지원하고 있습니다. 2018년부터 밀카 제품에 Cocoa Life 로고가 표시되어 지속 가능성을 강조합니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,200원</span>
-    <a href="https://link.coupang.com/a/ej8GrN" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -132,3 +140,17 @@ A. 밀카는 몬델리즈 인터내셔널의 Cocoa Life 프로그램에 참여�
 - [밀카 초콜릿 밀카 알프스 밀크 밀카 오레오 밀카 스트로베리 3종 리뷰. gs25 1+1 행사때 여러개 사뒀네요. 비싸도 넘 맛있고 어린시절 슈사드 맛 그대로라서 넘 좋아요!!😀 : 네이버 블로그](https://m.blog.naver.com/fortrees99/223815442869)
 - [밀카 타블렛 초콜릿 ; 알프스밀크 / 오레오 / 스트로베리 / 버블리 / 요거트 : 네이버 블로그](https://m.blog.naver.com/ccoco-/223741753647)
 - [밀카 알프스 밀크 초콜릿 부드럽고 달콤한 맛! : 네이버 블로그](https://m.blog.naver.com/junggoon7/221650757763)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,200원</span>
+    <a href="https://link.coupang.com/a/ej8GrN" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta_bottom -->

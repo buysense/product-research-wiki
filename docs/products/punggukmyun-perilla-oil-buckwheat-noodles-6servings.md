@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/628d/5342a905e2bb877946f243232ca6d94c0bd8db8bb67be0d4f59997acdf83.jpg
-title: 풍국면 들기름 막국수 6인분 798g, 2개 구매 가이드
-date: 2026-05-12
-description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 만든 탄력 있는 메밀면과 진한 들기름의 고소함이 특징입니다. 온 가족 간편식이나 더운 날씨에 불 없이 즐기기 좋은 별미로, 전문점 수준의 막국수를 집에서 손쉽게 맛볼 수 있습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -31,151 +26,22 @@ description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 �
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-05-12 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 31,990원 · 별점 4.8 · 리뷰 2,672개</span>
+    <a href="https://link.coupang.com/a/dGz1HG0ObI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
@@ -206,14 +72,164 @@ description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 �
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 31,990원 · 별점 4.8 · 리뷰 2,672개</span>
-    <a href="https://link.coupang.com/a/dGz1HG0ObI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/628d/5342a905e2bb877946f243232ca6d94c0bd8db8bb67be0d4f59997acdf83.jpg
+title: 풍국면 들기름 막국수 6인분 798g, 2개 구매 가이드
+date: 2026-05-12
+description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 만든 탄력 있는 메밀면과 진한 들기름의 고소함이 특징입니다. 온 가족 간편식이나 더운 날씨에 불 없이 즐기기 좋은 별미로, 전문점 수준의 막국수를 집에서 손쉽게 맛볼 수 있습니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -223,9 +239,11 @@ description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 �
 ## 상품 개요
 풍국면 들기름 막국수는 80년 전통의 제면 노하우를 가진 풍국면이 선보이는 고소하고 담백한 별미 국수입니다. 엄선된 메밀로 만든 탄탄한 면발과 최상급 들기름의 풍미가 어우러져 자극적이지 않으면서도 깊은 맛을 자랑합니다. 6인분(798g) 2개의 넉넉한 구성으로 온 가족이 함께 즐기기 좋으며, 별도의 복잡한 조리 없이 집에서 전문점 수준의 막국수를 간편하게 구현할 수 있어 더운 날씨나 바쁜 일상 속 한 끼 식사로 적합합니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/628d/5342a905e2bb877946f243232ca6d94c0bd8db8bb67be0d4f59997acdf83.jpg" alt="픙국면 들기름 막국수 6인분 798g, 2개" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -287,6 +305,11 @@ A. 1인분씩 개별 포장된 면과 소스는 그대로 보관 가능합니다
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -294,3 +317,4 @@ A. 1인분씩 개별 포장된 면과 소스는 그대로 보관 가능합니다
     <a href="https://link.coupang.com/a/dGz1HG0ObI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

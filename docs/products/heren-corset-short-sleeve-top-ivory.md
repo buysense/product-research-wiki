@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e813/92a3184f47065d35c18d45a4bbb264d15a62bc761821d27bfb4a1619f95b.jpg
-title: Heren Corset Short Sleeve Top (Ivory) 구매 가이드
-date: 2026-07-18
-description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 강조하는 트렌디한 디자인으로, 다양한 캐주얼 및 세미 포멀 스타일에 활용하기 좋은 반팔 상의입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,24 +18,22 @@ description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 �
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-18 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 121,400원</span>
+    <a href="https://link.coupang.com/a/fuoMphQxS8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
@@ -79,14 +72,37 @@ description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 �
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 121,400원</span>
-    <a href="https://link.coupang.com/a/fuoMphQxS8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e813/92a3184f47065d35c18d45a4bbb264d15a62bc761821d27bfb4a1619f95b.jpg
+title: Heren Corset Short Sleeve Top (Ivory) 구매 가이드
+date: 2026-07-18
+description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 강조하는 트렌디한 디자인으로, 다양한 캐주얼 및 세미 포멀 스타일에 활용하기 좋은 반팔 상의입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -94,9 +110,11 @@ description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 �
 ## 상품 개요
 Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 강조하는 코르셋 디자인이 특징인 반팔 상의입니다. 트렌디하면서도 몸매를 잡아주는 실루엣을 연출하여, 데이트룩, 캐주얼한 모임, 혹은 특별한 날의 세미 포멀 스타일링 등 다양한 상황에서 활용하기 적합합니다. 아이보리 색상으로 다른 아이템들과의 조화가 용이하여 스타일링 범위를 넓힐 수 있습니다. 출시연도는 미공개입니다.
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e813/92a3184f47065d35c18d45a4bbb264d15a62bc761821d27bfb4a1619f95b.jpg" alt="[플리즈노팔로우] Heren Corset Short Sleeve Top (Ivory)" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -152,6 +170,11 @@ A. 아이보리 색상은 무채색 계열의 하의(블랙, 그레이, 베이�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -159,3 +182,4 @@ A. 아이보리 색상은 무채색 계열의 하의(블랙, 그레이, 베이�
     <a href="https://link.coupang.com/a/fuoMphQxS8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

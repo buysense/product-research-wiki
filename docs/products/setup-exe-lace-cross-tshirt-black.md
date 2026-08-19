@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d225/073b983c97248f9a5a0bf5fbf758f05b32e20e49ad408eec9c5f671b9e7c.jpg
-title: [셋업이엑스이] LACE CROSS T-SHIRT / BLACK 구매 가이드
-date: 2026-07-10
-description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이스 크로스 디테일로 개성을 표현하며, 일상 캐주얼부터 특별한 날까지 활용하기 좋은 티셔츠입니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,33 +18,22 @@ description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-07-10 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- /bs:notice -->
+<!-- bs:cta -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 101,200원</span>
+    <a href="https://link.coupang.com/a/fgToeAJxtc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
   <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
@@ -80,23 +64,57 @@ description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이�
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
+<!-- /bs:chart -->
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 101,200원</span>
-    <a href="https://link.coupang.com/a/fgToeAJxtc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d225/073b983c97248f9a5a0bf5fbf758f05b32e20e49ad408eec9c5f671b9e7c.jpg
+title: [셋업이엑스이] LACE CROSS T-SHIRT / BLACK 구매 가이드
+date: 2026-07-10
+description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이스 크로스 디테일로 개성을 표현하며, 일상 캐주얼부터 특별한 날까지 활용하기 좋은 티셔츠입니다.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 상품 개요
 [셋업이엑스이] LACE CROSS T-SHIRT / BLACK은 기본적인 블랙 티셔츠에 전면 레이스 크로스 디테일을 더해 개성을 표현하고자 하는 소비자를 위한 제품입니다. 이 티셔츠는 일상 캐주얼룩에 포인트를 더하거나, 살짝 드레스업이 필요한 자리에서 활용하기 좋습니다. 단독 착용으로도 충분히 시선을 끌며, 재킷이나 카디건 안에 레이어드하여 독특한 스타일을 연출하는 데 적합합니다. 출시연도는 미공개입니다.
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d225/073b983c97248f9a5a0bf5fbf758f05b32e20e49ad408eec9c5f671b9e7c.jpg" alt="[셋업이엑스이] LACE CROSS T-SHIRT / BLACK" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -166,6 +184,11 @@ A. 일반적으로 레귤러 핏으로 디자인되지만, 브랜드 및 개인 
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -173,3 +196,4 @@ A. 일반적으로 레귤러 핏으로 디자인되지만, 브랜드 및 개인 
     <a href="https://link.coupang.com/a/fgToeAJxtc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->

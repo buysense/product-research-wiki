@@ -1,10 +1,9 @@
----
-image: https://image15.coupangcdn.com/image/travelSeller/common/A00222540/c8e5a29b-6eff-42bb-b586-430eca93e2bf.png
-title: 대마도 노바호 승선권 + 토요코인 숙박 구매 가이드
-date: 2026-04-02
-description: 대마도 노바호 승선권과 토요코인 숙박을 결합한 자유여행 패키지로, 가까운 일본 여행을 편리하게 즐기려는 여행자에게 적합합니다. 가성비 좋은 숙소와 쾌적한 배편으로 짧은 기간 동안 알찬 해외여행을 경험할 수 있습니다.
----
+<!-- bs:jsonld -->
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-04-02 · 최종 가격 확인: 2026년 4월 2일 기준 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다. (정기 업데이트: 매월 1일)</p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
@@ -12,6 +11,20 @@ description: 대마도 노바호 승선권과 토요코인 숙박을 결합한 �
     <a href="https://link.coupang.com/a/egGDab" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://image15.coupangcdn.com/image/travelSeller/common/A00222540/c8e5a29b-6eff-42bb-b586-430eca93e2bf.png
+title: 대마도 노바호 승선권 + 토요코인 숙박 구매 가이드
+date: 2026-04-02
+description: 대마도 노바호 승선권과 토요코인 숙박을 결합한 자유여행 패키지로, 가까운 일본 여행을 편리하게 즐기려는 여행자에게 적합합니다. 가성비 좋은 숙소와 쾌적한 배편으로 짧은 기간 동안 알찬 해외여행을 경험할 수 있습니다.
+---
+
+
+
+
 
 ## 대마도 노바호 승선권 + 토요코인 숙박 상품 개요
 이 상품은 부산에서 출발하는 대마도 배편 노바호 승선권과 토요코인 히타카츠 숙박을 결합한 자유여행 패키지로, 1박 2일 또는 2박 3일의 짧은 일본여행을 계획하는 여행자에게 적합합니다. 2022년에 취항한 노바호의 쾌적한 선내 환경과 2020년에 개업한 토요코인 히타카츠의 합리적인 가격과 오션뷰를 통해 가성비와 편리함을 모두 잡으려는 소비 상황에 주로 선택됩니다. 해외여행 경험이 적거나, 가깝고 부담 없는 일본 여행을 원하는 이들에게 특히 주목받고 있습니다.
@@ -87,13 +100,8 @@ A. 토요코인 히타카츠는 모든 투숙객에게 무료 조식을 제공�
 Q. 대마도에서 렌터카가 꼭 필요한가요?  
 A. 대마도의 대중교통은 한국처럼 발달되어 있지 않아 렌터카를 이용하면 섬의 여러 명소를 자유롭게 둘러보기 편리합니다. 특히 2박 3일 일정으로 대마도를 구석구석 여행할 계획이라면 렌터카를 고려하는 것이 좋습니다.
 
-<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
-  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 125,000원</span>
-    <a href="https://link.coupang.com/a/egGDab" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
-  </div>
-</div>
+
+
 
 ---
 ## 참고한 글
@@ -109,3 +117,17 @@ A. 대마도의 대중교통은 한국처럼 발달되어 있지 않아 렌터�
 - [스타라인 공식 홈페이지](https://starline.co.kr/)
 - [토요코인 인 쓰시마 히타카츠 공식 홈페이지 (한국어)](https://www.toyoko-inn.com/korea/search/detail/00326)
 - [쓰시마 시 관광협회 공식 홈페이지 (한국어)](https://www.tsushima-tourism.com/kr/)
+
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
+<div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 125,000원</span>
+    <a href="https://link.coupang.com/a/egGDab" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+  </div>
+</div>
+<!-- /bs:cta_bottom -->

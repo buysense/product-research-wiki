@@ -1,9 +1,4 @@
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c072/9e1183dbe40a239750ef9408c0c1b52e9ddc55cc22c3aaba0f7469f03d00.jpg
-title: 무신사 스탠다드 우먼 MUSINSASTANDARDWOMAN 우먼즈 오버 숄더 오버사이즈 블레이저 블랙 구매 가이드
-date: 2026-08-09
-description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블레이저 블랙은 편안하면서도 스타일리시한 연출을 위한 아우터로, 일상복부터 세미 오피스룩까지 활용하기 좋습니다.
----
+<!-- bs:jsonld -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,9 +18,13 @@ description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블�
   }
 }
 </script>
+<!-- /bs:jsonld -->
+<!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
   📅 작성일: 2026-08-09 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.
 </p>
+<!-- /bs:notice -->
+<!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
@@ -33,15 +32,33 @@ description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블�
     <a href="https://link.coupang.com/a/f4t4rxRyP6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta -->
+<!-- bs:chart -->
+<!-- /bs:chart -->
+
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c072/9e1183dbe40a239750ef9408c0c1b52e9ddc55cc22c3aaba0f7469f03d00.jpg
+title: 무신사 스탠다드 우먼 MUSINSASTANDARDWOMAN 우먼즈 오버 숄더 오버사이즈 블레이저 블랙 구매 가이드
+date: 2026-08-09
+description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블레이저 블랙은 편안하면서도 스타일리시한 연출을 위한 아우터로, 일상복부터 세미 오피스룩까지 활용하기 좋습니다.
+---
+
+
+
+
+
+
 
 ## 상품 개요
 무신사 스탠다드 우먼 우먼즈 오버 숄더 오버사이즈 블레이저 블랙은 어깨 패드가 강조된 오버 숄더 디자인과 여유로운 오버사이즈 핏이 특징인 블레이저입니다. 간절기 데일리룩, 세미 캐주얼 오피스룩 등 편안하면서도 트렌디한 스타일을 연출할 때 활용하기 좋습니다. 20XX년 출시 (정확한 출시연도 미공개).
 
 ---
 
+<!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
   <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c072/9e1183dbe40a239750ef9408c0c1b52e9ddc55cc22c3aaba0f7469f03d00.jpg" alt="무신사 스탠다드 우먼 MUSINSASTANDARDWOMAN 우먼즈 오버 숄더 오버사이즈 블레이저 블랙" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
+<!-- /bs:image -->
 
 ## 기본 정보
 
@@ -111,6 +128,11 @@ A. 오버사이즈 핏이지만 개인의 체형과 원하는 착용감에 따�
 ---
 ## 참고한 글
 
+<!-- bs:refs -->
+<!-- /bs:refs -->
+<!-- bs:celebs -->
+<!-- /bs:celebs -->
+<!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
@@ -118,3 +140,4 @@ A. 오버사이즈 핏이지만 개인의 체형과 원하는 착용감에 따�
     <a href="https://link.coupang.com/a/f4t4rxRyP6" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+<!-- /bs:cta_bottom -->
