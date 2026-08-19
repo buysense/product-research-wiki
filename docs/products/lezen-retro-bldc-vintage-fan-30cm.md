@@ -21,7 +21,7 @@ description: 르젠 레트로 BLDC 빈티카 선풍기 30cm(12인치)는 레트�
     "price": "102730",
     "url": "https://link.coupang.com/a/glpbhSmrE4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
