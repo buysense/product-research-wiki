@@ -10,6 +10,7 @@ description: EFM ipTIME BE3600QCA 유무선공유기는 Wi-Fi 7을 지원하며,
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "EFM ipTIME BE3600QCA 유무선공유기",
+  "description": "EFM ipTIME BE3600QCA 유무선공유기는 Wi-Fi 7을 지원하며, 빠른 속도와 안정적인 연결성으로 가정이나 사무실에서 다수의 기기를 사용하는 환경에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd02/23a6125030601d683468720b293099cc4bc9f44650d253aa5df41e36caf1.jpeg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b3d4/af5db492ba5b76d03b4020522c10accb9c89817430a828b9eab6b165c015.jpeg"
@@ -20,7 +21,7 @@ description: EFM ipTIME BE3600QCA 유무선공유기는 Wi-Fi 7을 지원하며,
     "price": "69900",
     "url": "https://link.coupang.com/a/e1MkwzYOFE",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -66,16 +67,16 @@ description: EFM ipTIME BE3600QCA 유무선공유기는 Wi-Fi 7을 지원하며,
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">69,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
