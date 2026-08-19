@@ -10,6 +10,7 @@ description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "코멧 심플 미끄럼방지 정장 옷걸이",
+  "description": "코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자인과 PVC 논슬립 코팅으로 옷장 공간을 효율적으로 활용하며, 정장, 니트 등 의류 형태를 깔끔하게 유지하고자 할 때 유용합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/dba9def7-2179-4960-9333-296ad29c7e6e6110714200277616273.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/53926117175789-d5a5c105-a8ad-47ca-b43c-f8acec58833b.jpg"
@@ -17,15 +18,15 @@ description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "18660",
+    "price": "19280",
     "url": "https://link.coupang.com/a/d2H6LsJjki",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 826,
+    "reviewCount": 827,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +43,7 @@ description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 18,660원 · 별점 4.8 · 리뷰 826개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,280원 · 별점 4.8 · 리뷰 827개</span>
     <a href="https://link.coupang.com/a/d2H6LsJjki" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,23 +61,24 @@ description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
 
-    <path d="M 68 145 L 86 145 L 104 145 L 122 145 L 140 145 L 158 145 L 176 145 L 194 145 L 211 145 L 229 145 L 247 145 L 265 145 L 283 145 L 301 145 L 319 145 L 337 145 L 355 145 L 373 145 L 391 145 L 409 145 L 427 145 L 445 145 L 462 145 L 480 145 L 498 145 L 516 145 L 534 145 L 552 145 L 570 145 L 588 52 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 145 L 86 145 L 104 145 L 122 145 L 140 145 L 158 145 L 176 145 L 194 145 L 211 145 L 229 145 L 247 145 L 265 145 L 283 145 L 301 145 L 319 145 L 337 145 L 355 145 L 373 145 L 391 145 L 409 145 L 427 145 L 445 145 L 462 145 L 480 145 L 498 145 L 516 145 L 534 145 L 552 145 L 570 145 L 588 52" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 145 L 86 145 L 104 145 L 122 145 L 140 145 L 158 145 L 176 145 L 194 145 L 211 145 L 229 145 L 247 145 L 265 145 L 283 145 L 301 145 L 319 145 L 337 145 L 355 145 L 373 145 L 391 145 L 409 145 L 427 145 L 445 145 L 462 145 L 480 145 L 498 145 L 516 145 L 534 145 L 552 145 L 570 52 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 145 L 86 145 L 104 145 L 122 145 L 140 145 L 158 145 L 176 145 L 194 145 L 211 145 L 229 145 L 247 145 L 265 145 L 283 145 L 301 145 L 319 145 L 337 145 L 355 145 L 373 145 L 391 145 L 409 145 L 427 145 L 445 145 L 462 145 L 480 145 L 498 145 L 516 145 L 534 145 L 552 145 L 570 52 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="52" r="5" fill="#ea580c"></circle>
+    <circle cx="552" cy="145" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="52" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="40" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,660원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,280원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -302,7 +304,7 @@ A. 스틸(강철) 소재로 제작되어 내구성이 튼튼하여 대부분의 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 18,660원 · 별점 4.8 · 리뷰 826개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,280원 · 별점 4.8 · 리뷰 827개</span>
     <a href="https://link.coupang.com/a/d2H6LsJjki" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
