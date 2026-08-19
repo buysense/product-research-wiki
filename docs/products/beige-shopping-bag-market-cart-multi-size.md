@@ -21,7 +21,7 @@ description: 베이지 손잡이 쇼핑백은 마트, 시장, 다용도로 활�
     "price": "10720",
     "url": "https://link.coupang.com/a/glysdJ05bU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
