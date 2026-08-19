@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/11/10/1/850acd95-4ec9-4e73-8bab-8cd72e6a7b30.jpg
+title: 아리감성 오리지널 머랭쿠키 원통형 구매 가이드
+date: 2026-06-26
+description: 아리감성 오리지널 머랭쿠키 원통형은 무항생제 계란 흰자로 만든 바삭하고 사르르 녹는 식감의 머랭쿠키로, 커피와 함께 즐기거나 아이들 간식, 소소한 감사 선물용으로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/11/10/1/850acd95-4ec9-4e73-8bab-8cd72e6a7b30.jpg
-title: 아리감성 오리지널 머랭쿠키 원통형 구매 가이드
-date: 2026-06-26
-description: 아리감성 오리지널 머랭쿠키 원통형은 무항생제 계란 흰자로 만든 바삭하고 사르르 녹는 식감의 머랭쿠키로, 커피와 함께 즐기거나 아이들 간식, 소소한 감사 선물용으로 적합합니다.
----
 
 
 

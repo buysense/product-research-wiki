@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/26/17/7/c58614f4-3c9a-48f1-8843-db221bede233.jpg
+title: 커버낫 수퍼브 구매 가이드
+date: 2026-04-28
+description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가볍고 형태가 유지되는 백팩입니다. 학교 및 일상생활에서 편안함과 실용성을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -79,12 +85,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/26/17/7/c58614f4-3c9a-48f1-8843-db221bede233.jpg
-title: 커버낫 수퍼브 구매 가이드
-date: 2026-04-28
-description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가볍고 형태가 유지되는 백팩입니다. 학교 및 일상생활에서 편안함과 실용성을 제공합니다.
----
 
 
 

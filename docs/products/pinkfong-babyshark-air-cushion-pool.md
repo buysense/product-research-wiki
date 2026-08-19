@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f904/68a7fc8c678f1121f166043db27e2c944472b4dfe5522c2c36bccb0ff701.jpg
+title: 핑크퐁 아기상어 에어쿠션 풀 구매 가이드
+date: 2026-05-19
+description: 핑크퐁 아기상어 에어쿠션 풀은 귀여운 디자인과 튼튼한 재질이 특징으로, 아이들의 실내외 물놀이 및 볼풀놀이에 적합합니다. 콤팩트한 사이즈로 베란다나 거실에서도 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -81,12 +87,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f904/68a7fc8c678f1121f166043db27e2c944472b4dfe5522c2c36bccb0ff701.jpg
-title: 핑크퐁 아기상어 에어쿠션 풀 구매 가이드
-date: 2026-05-19
-description: 핑크퐁 아기상어 에어쿠션 풀은 귀여운 디자인과 튼튼한 재질이 특징으로, 아이들의 실내외 물놀이 및 볼풀놀이에 적합합니다. 콤팩트한 사이즈로 베란다나 거실에서도 활용하기 좋습니다.
----
 
 
 

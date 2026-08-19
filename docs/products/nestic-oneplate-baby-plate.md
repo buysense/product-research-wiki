@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2636848488666095-b882adb0-2080-41f7-a7ba-e260015e96bb.jpg
+title: 네스틱 원플레이트 유아식판 구매 가이드
+date: 2026-07-03
+description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식 전환기 아이들에게 적합하며, 안전한 소재와 실용적인 칸 분리, 전자레인지 사용으로 식사 준비를 돕는 유아 식판입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2636848488666095-b882adb0-2080-41f7-a7ba-e260015e96bb.jpg
-title: 네스틱 원플레이트 유아식판 구매 가이드
-date: 2026-07-03
-description: 네스틱 원플레이트 유아식판은 돌아기부터 유아식 전환기 아이들에게 적합하며, 안전한 소재와 실용적인 칸 분리, 전자레인지 사용으로 식사 준비를 돕는 유아 식판입니다.
----
 
 
 

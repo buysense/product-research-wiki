@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9d90/27ea43c0697207260e3d757d6e050e413ae8f1373bd894e8524c20e7008a.jpg
+title: 긴급출동＋도와줘요 타요 시리즈 전4권 구매 가이드
+date: 2026-06-23
+description: 긴급출동＋도와줘요 타요 시리즈 전4권은 인기 캐릭터 타요와 함께 스릴 넘치는 모험 이야기를 즐기며 아이들의 상상력과 독서 습관을 길러주는 도서 세트입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9d90/27ea43c0697207260e3d757d6e050e413ae8f1373bd894e8524c20e7008a.jpg
-title: 긴급출동＋도와줘요 타요 시리즈 전4권 구매 가이드
-date: 2026-06-23
-description: 긴급출동＋도와줘요 타요 시리즈 전4권은 인기 캐릭터 타요와 함께 스릴 넘치는 모험 이야기를 즐기며 아이들의 상상력과 독서 습관을 길러주는 도서 세트입니다.
----
 
 
 

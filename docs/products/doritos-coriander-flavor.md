@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/18959eb3-11ad-40d6-9e0d-5c0ac290afe7_1773902447459.jpeg
+title: 고수맛 도리토스 구매 가이드
+date: 2026-05-02
+description: 고수맛 도리토스는 독특한 고수 향과 은은한 매콤함이 특징인 스낵으로, 고수 마니아들을 위한 특별한 맛을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -77,12 +83,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/18959eb3-11ad-40d6-9e0d-5c0ac290afe7_1773902447459.jpeg
-title: 고수맛 도리토스 구매 가이드
-date: 2026-05-02
-description: 고수맛 도리토스는 독특한 고수 향과 은은한 매콤함이 특징인 스낵으로, 고수 마니아들을 위한 특별한 맛을 제공합니다.
----
 
 
 

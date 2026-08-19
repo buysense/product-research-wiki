@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/dccss4vu/35d3ca4b2087451b9b265986f00ead14.jpg
+title: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트 구매 가이드
+date: 2026-07-13
+description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트는 더운 여름철 시원하고 쾌적한 수면 환경을 위해 설계된 차렵이불로, 열대야에 잠 못 이루는 이들에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,12 +92,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/dccss4vu/35d3ca4b2087451b9b265986f00ead14.jpg
-title: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트 구매 가이드
-date: 2026-07-13
-description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트는 더운 여름철 시원하고 쾌적한 수면 환경을 위해 설계된 차렵이불로, 열대야에 잠 못 이루는 이들에게 적합합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/97b469e3-ecc2-49a2-9377-9fad99d395ca_fixing_v2.png
+title: 뽀로로 어린이음료 밀크맛, 235ml, 24개 구매 가이드
+date: 2026-05-29
+description: 뽀로로 어린이음료 밀크맛은 아이들이 좋아하는 캐릭터와 부드러운 맛으로 일상 간식, 나들이, 행사 등 다양한 상황에서 즐기기 좋은 235ml 어린이 음료입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -88,12 +94,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/97b469e3-ecc2-49a2-9377-9fad99d395ca_fixing_v2.png
-title: 뽀로로 어린이음료 밀크맛, 235ml, 24개 구매 가이드
-date: 2026-05-29
-description: 뽀로로 어린이음료 밀크맛은 아이들이 좋아하는 캐릭터와 부드러운 맛으로 일상 간식, 나들이, 행사 등 다양한 상황에서 즐기기 좋은 235ml 어린이 음료입니다.
----
 
 
 

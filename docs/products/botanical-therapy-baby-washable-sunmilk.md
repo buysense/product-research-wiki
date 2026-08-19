@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3074507946452085-3ca289ff-9030-4b7f-9fcf-30ceb4749520.jpg
+title: 보타니컬테라피 베이비 워셔블 유아 썬밀크 SPF32 PA++, 80ml 구매 가이드
+date: 2024-06-03
+description: 보타니컬테라피 베이비 워셔블 유아 썬밀크는 징크옥사이드 기반으로 순하고, 물세안으로 간편하게 지워져 민감한 아기 피부의 데일리 외출용 선케어에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -98,12 +104,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3074507946452085-3ca289ff-9030-4b7f-9fcf-30ceb4749520.jpg
-title: 보타니컬테라피 베이비 워셔블 유아 썬밀크 SPF32 PA++, 80ml 구매 가이드
-date: 2024-06-03
-description: 보타니컬테라피 베이비 워셔블 유아 썬밀크는 징크옥사이드 기반으로 순하고, 물세안으로 간편하게 지워져 민감한 아기 피부의 데일리 외출용 선케어에 적합합니다.
----
 
 
 

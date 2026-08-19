@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8f5c/e3472c8463b18cf9a7d7a1625e51f74bc94b0fb122f7a232d9ca00c66e6c.jpg
+title: THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE 구매 가이드
+date: 2026-08-07
+description: THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE는 자연스러운 날 것의 디테일이 돋보이는 셔츠 재킷으로, 간절기 데일리룩과 레이어드 스타일에 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -37,12 +43,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8f5c/e3472c8463b18cf9a7d7a1625e51f74bc94b0fb122f7a232d9ca00c66e6c.jpg
-title: THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE 구매 가이드
-date: 2026-08-07
-description: THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE는 자연스러운 날 것의 디테일이 돋보이는 셔츠 재킷으로, 간절기 데일리룩과 레이어드 스타일에 활용하기 좋습니다.
----
 
 
 

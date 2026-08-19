@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/caa6/208651eca014c9934ab6f4ce4870f75659f6adabef9f677bed5ef0e3c410.jpg
+title: 엘도라16 어린이자전거 구매 가이드
+date: 2026-04-28
+description: 엘도라16 어린이자전거는 아이의 첫 자전거 경험, 생일 선물, 어린이날 선물 등 아이들의 즐거운 야외 활동을 위한 선택지입니다. 안전성과 사용 편의성에 중점을 두어 개발되었습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/caa6/208651eca014c9934ab6f4ce4870f75659f6adabef9f677bed5ef0e3c410.jpg
-title: 엘도라16 어린이자전거 구매 가이드
-date: 2026-04-28
-description: 엘도라16 어린이자전거는 아이의 첫 자전거 경험, 생일 선물, 어린이날 선물 등 아이들의 즐거운 야외 활동을 위한 선택지입니다. 안전성과 사용 편의성에 중점을 두어 개발되었습니다.
----
 
 
 

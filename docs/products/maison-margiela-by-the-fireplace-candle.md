@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/21/13/9/c4f83800-afcf-4048-98ee-4933196bb3a1.jpg
+title: 메종 마르지엘라 바이 더 파이어플레이스 캔들 구매 가이드
+date: 2026-06-04
+description: 메종 마르지엘라 바이 더 파이어플레이스 캔들은 벽난로의 따뜻하고 포근한 향을 담아 실내 분위기를 아늑하게 연출하며 특별한 휴식 시간을 선사합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -73,12 +79,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/21/13/9/c4f83800-afcf-4048-98ee-4933196bb3a1.jpg
-title: 메종 마르지엘라 바이 더 파이어플레이스 캔들 구매 가이드
-date: 2026-06-04
-description: 메종 마르지엘라 바이 더 파이어플레이스 캔들은 벽난로의 따뜻하고 포근한 향을 담아 실내 분위기를 아늑하게 연출하며 특별한 휴식 시간을 선사합니다.
----
 
 
 

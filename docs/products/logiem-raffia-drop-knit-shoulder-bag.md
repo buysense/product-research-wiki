@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9623/50eb6f57eaef10ce6ad376242f1d3d6fe6bbdf92d8f65a8a748c5d1f3b59.jpg
+title: 로그이엠 라피아드롭 니트 숄더 백 구매 가이드
+date: 2026-06-22
+description: 로그이엠 라피아드롭 니트 숄더 백은 라피아 소재와 니트 짜임이 조화된 여름 시즌 데일리룩 및 휴가철에 어울리는 가방입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -37,12 +43,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9623/50eb6f57eaef10ce6ad376242f1d3d6fe6bbdf92d8f65a8a748c5d1f3b59.jpg
-title: 로그이엠 라피아드롭 니트 숄더 백 구매 가이드
-date: 2026-06-22
-description: 로그이엠 라피아드롭 니트 숄더 백은 라피아 소재와 니트 짜임이 조화된 여름 시즌 데일리룩 및 휴가철에 어울리는 가방입니다.
----
 
 
 

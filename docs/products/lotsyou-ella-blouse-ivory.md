@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e25e/aa777c06f0036115d1c89f3839d86860a4f3c640b7658534a2623fdf1898.jpg
+title: Lotsyou_Ella Blouse Ivory 109501 구매 가이드
+date: 2026-07-09
+description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 세련된 디자인으로 오피스룩, 데이트룩, 하객룩 등 다양한 상황에 활용하기 좋은 여성 블라우스입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -72,12 +78,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e25e/aa777c06f0036115d1c89f3839d86860a4f3c640b7658534a2623fdf1898.jpg
-title: Lotsyou_Ella Blouse Ivory 109501 구매 가이드
-date: 2026-07-09
-description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 세련된 디자인으로 오피스룩, 데이트룩, 하객룩 등 다양한 상황에 활용하기 좋은 여성 블라우스입니다.
----
 
 
 

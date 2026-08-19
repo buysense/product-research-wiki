@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/28a42561-a48b-4212-bc6c-17c4fcdacdc93316662627150239623.png
+title: 맛군 엿구마 바삭칩 8개 구매 가이드
+date: 2026-05-12
+description: 맛군 엿구마 바삭칩 8개는 국산 고구마 100%로 만든 건강 간식으로, 식단 관리 중이거나 아이들 과자 대용으로 바삭하고 달콤하게 즐기기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/28a42561-a48b-4212-bc6c-17c4fcdacdc93316662627150239623.png
-title: 맛군 엿구마 바삭칩 8개 구매 가이드
-date: 2026-05-12
-description: 맛군 엿구마 바삭칩 8개는 국산 고구마 100%로 만든 건강 간식으로, 식단 관리 중이거나 아이들 과자 대용으로 바삭하고 달콤하게 즐기기 좋습니다.
----
 
 
 

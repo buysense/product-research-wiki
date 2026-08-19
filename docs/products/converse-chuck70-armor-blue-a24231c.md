@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e279/3f293fc55c370504c97180cff8133d384e61a48ef0785efff090ace7f874.jpg
+title: 컨버스 척 70 X 아머 블루 A24231C 구매 가이드
+date: 2026-07-02
+description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인에 향상된 착화감과 내구성을 갖춘 스니커즈로, 일상적인 캐주얼룩부터 다양한 패션 스타일 연출에 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -71,12 +77,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e279/3f293fc55c370504c97180cff8133d384e61a48ef0785efff090ace7f874.jpg
-title: 컨버스 척 70 X 아머 블루 A24231C 구매 가이드
-date: 2026-07-02
-description: 컨버스 척 70 X 아머 블루 A24231C는 클래식한 디자인에 향상된 착화감과 내구성을 갖춘 스니커즈로, 일상적인 캐주얼룩부터 다양한 패션 스타일 연출에 활용하기 좋습니다.
----
 
 
 

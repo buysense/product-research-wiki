@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3ae9/5a53b5a69bdbdc6a7301c55c90d26ef3934ce220cd659547ed5d14723312.jpg
+title: 트리미고 신생아 접이식 휴대용 유아침대 구매 가이드
+date: 2026-07-01
+description: 트리미고 신생아 접이식 휴대용 유아침대는 신생아 분리 수면이나 여행 시 편리한 이동식 침대로, 반려동물과의 분리 공간 마련에도 활용됩니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3ae9/5a53b5a69bdbdc6a7301c55c90d26ef3934ce220cd659547ed5d14723312.jpg
-title: 트리미고 신생아 접이식 휴대용 유아침대 구매 가이드
-date: 2026-07-01
-description: 트리미고 신생아 접이식 휴대용 유아침대는 신생아 분리 수면이나 여행 시 편리한 이동식 침대로, 반려동물과의 분리 공간 마련에도 활용됩니다.
----
 
 
 

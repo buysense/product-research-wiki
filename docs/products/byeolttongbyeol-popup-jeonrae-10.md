@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/07/11/4/901929f5-328e-4887-8322-549446969ec5.png
+title: 팝업 전래 전 10권 구매 가이드
+date: 2026-05-20
+description: 팝업 전래 전 10권은 어린 아이들이 전래동화를 쉽고 재미있게 접하며 독서 습관을 기를 수 있도록 돕는 입체 그림책 세트입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/07/11/4/901929f5-328e-4887-8322-549446969ec5.png
-title: 팝업 전래 전 10권 구매 가이드
-date: 2026-05-20
-description: 팝업 전래 전 10권은 어린 아이들이 전래동화를 쉽고 재미있게 접하며 독서 습관을 기를 수 있도록 돕는 입체 그림책 세트입니다.
----
 
 
 

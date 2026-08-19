@@ -1,3 +1,9 @@
+---
+title: 프링글스 오리지날 구매 가이드 — 53g vs 110g 용량 선택
+date: 2026-04-07
+description: 프링글스 오리지날은 특유의 바삭한 식감과 짭짤한 감자 맛이 특징인 스낵입니다. 53g 소용량(휴대용)과 110g 표준 용량 중 어떤 걸 선택해야 할지 비교합니다.
+slug_en: pringles-original-crisps
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-title: 프링글스 오리지날 구매 가이드 — 53g vs 110g 용량 선택
-date: 2026-04-07
-description: 프링글스 오리지날은 특유의 바삭한 식감과 짭짤한 감자 맛이 특징인 스낵입니다. 53g 소용량(휴대용)과 110g 표준 용량 중 어떤 걸 선택해야 할지 비교합니다.
-slug_en: pringles-original-crisps
----
 
 
 

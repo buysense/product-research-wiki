@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3473673308813734-fb3d1db8-0f5d-4321-aa18-44bbb40b6f3d.jpg
+title: 듀이트리 어반 쉐이드 피치 라이크 톤업 선스틱 SPF50+ PA++++ 구매 가이드
+date: 2026-06-16
+description: 듀이트리 어반 쉐이드 피치 라이크 톤업 선스틱은 자연스러운 피치 톤업과 강력한 자외선 차단, 내장 브러쉬로 외출 중 간편한 수정 화장과 데일리 선케어에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -88,12 +94,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3473673308813734-fb3d1db8-0f5d-4321-aa18-44bbb40b6f3d.jpg
-title: 듀이트리 어반 쉐이드 피치 라이크 톤업 선스틱 SPF50+ PA++++ 구매 가이드
-date: 2026-06-16
-description: 듀이트리 어반 쉐이드 피치 라이크 톤업 선스틱은 자연스러운 피치 톤업과 강력한 자외선 차단, 내장 브러쉬로 외출 중 간편한 수정 화장과 데일리 선케어에 적합합니다.
----
 
 
 

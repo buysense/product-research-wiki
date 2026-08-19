@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3bda/b77a0d3bea84cb21a4e019ca77639f305a91368730477c8e3c793bdc10aa.jpg
+title: 지오다노 라운드 반팔 면티 구매 가이드
+date: 2026-04-07
+description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드러운 착용감을 제공하며, 교복 이너나 데일리룩에 활용하기 좋은 스테디셀러 기본템입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -89,12 +95,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3bda/b77a0d3bea84cb21a4e019ca77639f305a91368730477c8e3c793bdc10aa.jpg
-title: 지오다노 라운드 반팔 면티 구매 가이드
-date: 2026-04-07
-description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드러운 착용감을 제공하며, 교복 이너나 데일리룩에 활용하기 좋은 스테디셀러 기본템입니다.
----
 
 
 

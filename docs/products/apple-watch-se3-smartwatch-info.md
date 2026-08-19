@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/64462608547238-0055e003-8c66-4082-aef7-ef7b545e93ab.jpg
+title: 애플워치 SE3 구매 가이드
+date: 2026-04-30
+description: 애플워치 SE3는 초등학생 자녀의 첫 스마트워치나 합리적인 가격으로 일상적인 알림 및 건강 관리를 원하는 아이폰 사용자에게 적합한 모델입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -89,12 +95,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/64462608547238-0055e003-8c66-4082-aef7-ef7b545e93ab.jpg
-title: 애플워치 SE3 구매 가이드
-date: 2026-04-30
-description: 애플워치 SE3는 초등학생 자녀의 첫 스마트워치나 합리적인 가격으로 일상적인 알림 및 건강 관리를 원하는 아이폰 사용자에게 적합한 모델입니다.
----
 
 
 

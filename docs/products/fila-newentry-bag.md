@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/30/11/7/d53601f1-9b06-4c17-be4d-adf0493cd5f0.jpg
+title: 휠라 뉴엔트리 백 구매 가이드
+date: 2026-04-28
+description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출에 적합한 실용적인 데일리 백입니다. 내구성이 좋은 폴리에스터 소재로 제작되어 편안하게 사용할 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -88,12 +94,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/30/11/7/d53601f1-9b06-4c17-be4d-adf0493cd5f0.jpg
-title: 휠라 뉴엔트리 백 구매 가이드
-date: 2026-04-28
-description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출에 적합한 실용적인 데일리 백입니다. 내구성이 좋은 폴리에스터 소재로 제작되어 편안하게 사용할 수 있습니다.
----
 
 
 

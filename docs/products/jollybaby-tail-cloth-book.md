@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/be68/0bdf34933137d7daff350546e944d0dff36b37c089232b5d2d400904f3e9.png
+title: Jollybaby 헝겊책 꼬리책 구매 가이드
+date: 2026-06-08
+description: Jollybaby 헝겊책 꼬리책은 아기들의 오감 발달을 위한 다채로운 촉감, 시각, 청각 자극을 제공하는 헝겊책으로, 구강기 아기들의 안전한 탐색 놀이에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/be68/0bdf34933137d7daff350546e944d0dff36b37c089232b5d2d400904f3e9.png
-title: Jollybaby 헝겊책 꼬리책 구매 가이드
-date: 2026-06-08
-description: Jollybaby 헝겊책 꼬리책은 아기들의 오감 발달을 위한 다채로운 촉감, 시각, 청각 자극을 제공하는 헝겊책으로, 구강기 아기들의 안전한 탐색 놀이에 적합합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/1e51fc75-c776-42c0-929f-61b912dfcda6_fixing_v2.png
+title: 오리지니크 자동 디스펜서 구매 가이드
+date: 2026-04-19
+description: 오리지니크 자동 디스펜서는 주방과 욕실의 위생과 미관을 동시에 개선하려는 소비자에게 적합한 무선 스텐 비접촉식 세제 용기입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/1e51fc75-c776-42c0-929f-61b912dfcda6_fixing_v2.png
-title: 오리지니크 자동 디스펜서 구매 가이드
-date: 2026-04-19
-description: 오리지니크 자동 디스펜서는 주방과 욕실의 위생과 미관을 동시에 개선하려는 소비자에게 적합한 무선 스텐 비접촉식 세제 용기입니다.
----
 
 
 

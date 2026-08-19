@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c83e4266-9dc1-4ee5-bcfa-3ced4d8fa25f412927118944096231.png
+title: 피노 프리미엄 터치 헤어 마스크 비 구매 가이드
+date: 2026-06-19
+description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리하는 데 도움을 주는 헤어 마스크로, 꾸덕한 제형과 부드러운 사용감이 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -95,12 +101,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c83e4266-9dc1-4ee5-bcfa-3ced4d8fa25f412927118944096231.png
-title: 피노 프리미엄 터치 헤어 마스크 비 구매 가이드
-date: 2026-06-19
-description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리하는 데 도움을 주는 헤어 마스크로, 꾸덕한 제형과 부드러운 사용감이 특징입니다.
----
 
 
 

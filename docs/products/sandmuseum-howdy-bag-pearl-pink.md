@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4616/216cb1a16e2da5a1cb4bc7127fbc9673018abe33ac38c8dd570f6f5f7bb0.jpg
+title: 샌드뮤지엄 SAND MUSEUM HOWDY BAG Pearl Pink 구매 가이드
+date: 2026-07-25
+description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인과 사랑스러운 펄 핑크 색상이 특징인 핸드백으로, 데일리룩에 포인트를 주거나 특별한 날 스타일을 완성하기에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -65,12 +71,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4616/216cb1a16e2da5a1cb4bc7127fbc9673018abe33ac38c8dd570f6f5f7bb0.jpg
-title: 샌드뮤지엄 SAND MUSEUM HOWDY BAG Pearl Pink 구매 가이드
-date: 2026-07-25
-description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인과 사랑스러운 펄 핑크 색상이 특징인 핸드백으로, 데일리룩에 포인트를 주거나 특별한 날 스타일을 완성하기에 적합합니다.
----
 
 
 

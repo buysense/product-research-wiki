@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cc9e/417cfca0b4ea4312c795a927be15b3e99caa9e02a27187b2686ca9846913.png
+title: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스 구매 가이드
+date: 2026-04-06
+description: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스는 2025년 출시된 롤온 타입 오일 퍼퓸으로, 은은하고 지속력 좋은 플로럴 머스크 향이 특징입니다. 데일리 사용과 선물용으로 인기가 높으며, 알코올 향 없이 부드럽게 피부에 스며들어 편안한 향기 경험을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -85,12 +91,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cc9e/417cfca0b4ea4312c795a927be15b3e99caa9e02a27187b2686ca9846913.png
-title: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스 구매 가이드
-date: 2026-04-06
-description: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스는 2025년 출시된 롤온 타입 오일 퍼퓸으로, 은은하고 지속력 좋은 플로럴 머스크 향이 특징입니다. 데일리 사용과 선물용으로 인기가 높으며, 알코올 향 없이 부드럽게 피부에 스며들어 편안한 향기 경험을 제공합니다.
----
 
 
 

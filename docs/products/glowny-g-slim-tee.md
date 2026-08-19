@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0e97/9f0935c870063acad9ff2cc06e538f47760205ec35e43135cbf8e3733efc.jpg
+title: GLOWNY 글로니 G SLIM TEE 구매 가이드
+date: 2026-07-24
+description: GLOWNY 글로니 G SLIM TEE는 슬림핏 디자인으로 다양한 코디에 활용하기 좋은 티셔츠입니다. 데일리룩, 운동 시 이너웨어 등으로 편안하게 착용할 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -63,12 +69,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0e97/9f0935c870063acad9ff2cc06e538f47760205ec35e43135cbf8e3733efc.jpg
-title: GLOWNY 글로니 G SLIM TEE 구매 가이드
-date: 2026-07-24
-description: GLOWNY 글로니 G SLIM TEE는 슬림핏 디자인으로 다양한 코디에 활용하기 좋은 티셔츠입니다. 데일리룩, 운동 시 이너웨어 등으로 편안하게 착용할 수 있습니다.
----
 
 
 

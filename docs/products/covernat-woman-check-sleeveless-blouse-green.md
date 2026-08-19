@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2f69/6275eeaeb1c566ad12192263410275ae6e072afabb7e374b2c574d0a983e.jpg
+title: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린 구매 가이드
+date: 2026-07-09
+description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은 캐주얼하면서도 세련된 스타일로 봄부터 가을까지 다양한 상황에서 활용하기 좋은 아이템입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -68,12 +74,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2f69/6275eeaeb1c566ad12192263410275ae6e072afabb7e374b2c574d0a983e.jpg
-title: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린 구매 가이드
-date: 2026-07-09
-description: COVERNAT WOMAN 우먼 체크 슬리브리스 블라우스 그린은 캐주얼하면서도 세련된 스타일로 봄부터 가을까지 다양한 상황에서 활용하기 좋은 아이템입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e207/b5d15e233053f5ffae00b17ae279c3bc0cf55eca1c6329f223c867958c84.jpg
+title: ROUGHNECK 백플레어 커브드 팬츠 블랙 구매 가이드
+date: 2026-06-23
+description: ROUGHNECK 백플레어 커브드 팬츠 블랙은 독특한 백플레어와 커브드 핏으로 일상복부터 개성 있는 스타일링까지 연출 가능한 유니크한 디자인의 팬츠입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -66,12 +72,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e207/b5d15e233053f5ffae00b17ae279c3bc0cf55eca1c6329f223c867958c84.jpg
-title: ROUGHNECK 백플레어 커브드 팬츠 블랙 구매 가이드
-date: 2026-06-23
-description: ROUGHNECK 백플레어 커브드 팬츠 블랙은 독특한 백플레어와 커브드 핏으로 일상복부터 개성 있는 스타일링까지 연출 가능한 유니크한 디자인의 팬츠입니다.
----
 
 
 

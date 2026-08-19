@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1761804510901/e23fe0bc-a248-4c52-93cc-cb1b723614a7.jpg
+title: 라이프썸 핸디형 무선 청소기 구매 가이드
+date: 2026-05-20
+description: 라이프썸 핸디형 무선 청소기는 감각적인 디자인과 가벼운 무게로 일상 생활 먼지, 차량 내부, 좁은 공간 청소에 유용한 무선 핸디 청소기입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1761804510901/e23fe0bc-a248-4c52-93cc-cb1b723614a7.jpg
-title: 라이프썸 핸디형 무선 청소기 구매 가이드
-date: 2026-05-20
-description: 라이프썸 핸디형 무선 청소기는 감각적인 디자인과 가벼운 무게로 일상 생활 먼지, 차량 내부, 좁은 공간 청소에 유용한 무선 핸디 청소기입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7963/86d784b5fe4b2a627e02962346bbdf180d09d655432bd61b77860429e079.jpg
+title: 폴라레티 후르츠 아이스바 40ml x 80개 구매 가이드
+date: 2026-05-12
+description: 폴라레티 후르츠 아이스바 40ml x 80개는 여름철 아이들 간식과 온 가족의 시원한 디저트로 인기가 높으며, 4가지 과일 맛과 간편함이 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7963/86d784b5fe4b2a627e02962346bbdf180d09d655432bd61b77860429e079.jpg
-title: 폴라레티 후르츠 아이스바 40ml x 80개 구매 가이드
-date: 2026-05-12
-description: 폴라레티 후르츠 아이스바 40ml x 80개는 여름철 아이들 간식과 온 가족의 시원한 디저트로 인기가 높으며, 4가지 과일 맛과 간편함이 특징입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f81a/b6582a3d2bd2c9ee97e48650aa791e39a30a9f5a2a2032c2fc3460999486.jpg
+title: 카네이션 용돈박스 구매 가이드
+date: 2026-04-29
+description: 카네이션 용돈박스는 부모님 생신, 어버이날 등 특별한 날에 현금을 센스 있게 전달하는 이벤트성 선물로, 조화와 비누꽃으로 구성되어 보관이 용이합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f81a/b6582a3d2bd2c9ee97e48650aa791e39a30a9f5a2a2032c2fc3460999486.jpg
-title: 카네이션 용돈박스 구매 가이드
-date: 2026-04-29
-description: 카네이션 용돈박스는 부모님 생신, 어버이날 등 특별한 날에 현금을 센스 있게 전달하는 이벤트성 선물로, 조화와 비누꽃으로 구성되어 보관이 용이합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/62ad/775995bbdade0e141da6d88f957c7f6f8f59add2ca716e944a38e687ed82.jpg
+title: 자개 병풍 용돈봉투 구매 가이드
+date: 2026-04-29
+description: 자개 병풍 용돈봉투는 부모님 환갑, 칠순 등 특별한 날 현금 선물을 고급스럽게 전달하고 기념할 수 있는 병풍 형태의 봉투입니다. 전통적인 자개 디자인으로 소중한 순간을 더욱 빛냅니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/62ad/775995bbdade0e141da6d88f957c7f6f8f59add2ca716e944a38e687ed82.jpg
-title: 자개 병풍 용돈봉투 구매 가이드
-date: 2026-04-29
-description: 자개 병풍 용돈봉투는 부모님 환갑, 칠순 등 특별한 날 현금 선물을 고급스럽게 전달하고 기념할 수 있는 병풍 형태의 봉투입니다. 전통적인 자개 디자인으로 소중한 순간을 더욱 빛냅니다.
----
 
 
 

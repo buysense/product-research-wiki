@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/3adaffdd-c21b-4b50-871c-c8cf1c103a5c_fixing_v2.png
+title: 네추럴라이즈 오메가 꾸미 구매 가이드
+date: 2026-05-06
+description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 오메가3를 섭취하려는 어린이나 알약 섭취가 어려운 성인에게 적합한 젤리형 건강기능식품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -82,12 +88,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/3adaffdd-c21b-4b50-871c-c8cf1c103a5c_fixing_v2.png
-title: 네추럴라이즈 오메가 꾸미 구매 가이드
-date: 2026-05-06
-description: 네추럴라이즈 오메가 꾸미는 비린 맛 없이 맛있게 오메가3를 섭취하려는 어린이나 알약 섭취가 어려운 성인에게 적합한 젤리형 건강기능식품입니다.
----
 
 
 

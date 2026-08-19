@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8312/3f1ecf1b037156416db403dfdb97a25a217420f03735f26152ab27b541c0.png
+title: 헬로키티 텀블러 보냉백 물병가방 벤티 빨대홀 보틀백 파우치 구매 가이드
+date: 2026-07-05
+description: 헬로키티 텀블러 보냉백은 벤티 사이즈 음료 용기를 휴대하며 보냉/보온 효과를 유지하고 싶은 사용자에게 적합한 물병 가방입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8312/3f1ecf1b037156416db403dfdb97a25a217420f03735f26152ab27b541c0.png
-title: 헬로키티 텀블러 보냉백 물병가방 벤티 빨대홀 보틀백 파우치 구매 가이드
-date: 2026-07-05
-description: 헬로키티 텀블러 보냉백은 벤티 사이즈 음료 용기를 휴대하며 보냉/보온 효과를 유지하고 싶은 사용자에게 적합한 물병 가방입니다.
----
 
 
 

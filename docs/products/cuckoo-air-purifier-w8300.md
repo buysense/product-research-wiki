@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3805/e3f354c4380040f44de9638ab15bdd199d45209987b3784ec62b96177bab.jpg
+title: 쿠쿠 공기청정기 W8300 (96.8㎡) 구매 가이드
+date: 2026-06-26
+description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간을 위한 제품으로, 거실이나 카페 등에서 쾌적한 공기 관리에 도움을 줍니다. 합리적인 가격과 뛰어난 성능, 편리한 자동 모드를 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,12 +92,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3805/e3f354c4380040f44de9638ab15bdd199d45209987b3784ec62b96177bab.jpg
-title: 쿠쿠 공기청정기 W8300 (96.8㎡) 구매 가이드
-date: 2026-06-26
-description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간을 위한 제품으로, 거실이나 카페 등에서 쾌적한 공기 관리에 도움을 줍니다. 합리적인 가격과 뛰어난 성능, 편리한 자동 모드를 제공합니다.
----
 
 
 

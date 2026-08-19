@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2019/06/07/14/1/9d08e013-6742-4afc-b307-486bbf6ee7d2.jpg
+title: 부가부 유모차 컵홀더 구매 가이드
+date: 2026-05-21
+description: 부가부 유모차 컵홀더는 유모차 운행 중 음료 편의를 위한 정품 액세서리입니다. 깔끔한 호환성과 안정적인 거치로 유모차 나들이, 산책 시 두 손을 자유롭게 합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2019/06/07/14/1/9d08e013-6742-4afc-b307-486bbf6ee7d2.jpg
-title: 부가부 유모차 컵홀더 구매 가이드
-date: 2026-05-21
-description: 부가부 유모차 컵홀더는 유모차 운행 중 음료 편의를 위한 정품 액세서리입니다. 깔끔한 호환성과 안정적인 거치로 유모차 나들이, 산책 시 두 손을 자유롭게 합니다.
----
 
 
 

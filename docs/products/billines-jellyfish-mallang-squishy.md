@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3ae1/ec082af1909a39d56c163b8bd89d12512251346d578ea2eaeea92e6bceb3.jpg
+title: 빌리네집 해파리 말랑이 구매 가이드
+date: 2026-05-15
+description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드러운 촉감으로 스트레스 해소에 도움을 주는 스퀴시 장난감입니다. KC 안전인증을 받아 안심하고 사용할 수 있으며, 3개 세트로 구성되어 다채롭게 활용 가능합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3ae1/ec082af1909a39d56c163b8bd89d12512251346d578ea2eaeea92e6bceb3.jpg
-title: 빌리네집 해파리 말랑이 구매 가이드
-date: 2026-05-15
-description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드러운 촉감으로 스트레스 해소에 도움을 주는 스퀴시 장난감입니다. KC 안전인증을 받아 안심하고 사용할 수 있으며, 3개 세트로 구성되어 다채롭게 활용 가능합니다.
----
 
 
 

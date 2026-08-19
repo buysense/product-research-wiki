@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/346690958850634-134992d8-381e-4920-8374-45acff871c44.jpg
+title: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림, 40ml, 1개 구매 가이드
+date: 2026-06-11
+description: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림 40ml는 예민해진 피부 진정, 건조함 개선, 시술 후 장벽 케어에 도움을 주는 고보습 재생 크림입니다. 임산부나 40대 이상 피부 고민 시 사용하기 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -87,12 +93,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/346690958850634-134992d8-381e-4920-8374-45acff871c44.jpg
-title: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림, 40ml, 1개 구매 가이드
-date: 2026-06-11
-description: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림 40ml는 예민해진 피부 진정, 건조함 개선, 시술 후 장벽 케어에 도움을 주는 고보습 재생 크림입니다. 임산부나 40대 이상 피부 고민 시 사용하기 적합합니다.
----
 
 
 

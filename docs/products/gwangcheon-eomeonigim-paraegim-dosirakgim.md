@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b68e/fca7b280484cc7ccb37571beaf35f33ed4be99ff39638ea2dc2e736f9f6c.jpg
+title: 광천 어머니김 파래김 구매 가이드
+date: 2026-06-26
+description: 광천 어머니김 파래김은 바삭하고 얇은 식감, 향긋하고 고소한 맛이 특징으로, 온 가족 식탁의 밥반찬이나 아이들 간식, 도시락 반찬으로 일상에서 즐기기 좋은 파래 도시락김입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b68e/fca7b280484cc7ccb37571beaf35f33ed4be99ff39638ea2dc2e736f9f6c.jpg
-title: 광천 어머니김 파래김 구매 가이드
-date: 2026-06-26
-description: 광천 어머니김 파래김은 바삭하고 얇은 식감, 향긋하고 고소한 맛이 특징으로, 온 가족 식탁의 밥반찬이나 아이들 간식, 도시락 반찬으로 일상에서 즐기기 좋은 파래 도시락김입니다.
----
 
 
 

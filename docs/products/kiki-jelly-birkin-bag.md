@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/73f0/5004493d6878f16c7c6b601b9c76e7bf574dca8b4dd8952b51893f4bf4e5.jpeg
+title: 키키 젤리 버킨백 구매 가이드
+date: 2026-05-11
+description: 키키 젤리 버킨백은 여름철 캐주얼한 의상에 포인트를 더하거나, 비치웨어에 활용하기 좋은 PVC 소재의 패션 아이템입니다. 가볍고 관리가 용이한 특징이 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -60,12 +66,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/73f0/5004493d6878f16c7c6b601b9c76e7bf574dca8b4dd8952b51893f4bf4e5.jpeg
-title: 키키 젤리 버킨백 구매 가이드
-date: 2026-05-11
-description: 키키 젤리 버킨백은 여름철 캐주얼한 의상에 포인트를 더하거나, 비치웨어에 활용하기 좋은 PVC 소재의 패션 아이템입니다. 가볍고 관리가 용이한 특징이 있습니다.
----
 
 
 

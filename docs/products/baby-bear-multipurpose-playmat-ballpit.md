@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/yf5yfjfv/0e6fecbdb55f4598be7c033f1c31bedc.jpg
+title: 유아용 곰돌이 다용도 플레이매트 볼풀장 구매 가이드
+date: 2026-06-23
+description: 유아용 곰돌이 다용도 플레이매트 볼풀장은 활동량 많은 아기를 위해 안전한 실내 놀이 공간을 제공하며, 매트, 볼풀장, 물놀이 등 다용도로 활용 가능한 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -79,12 +85,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/yf5yfjfv/0e6fecbdb55f4598be7c033f1c31bedc.jpg
-title: 유아용 곰돌이 다용도 플레이매트 볼풀장 구매 가이드
-date: 2026-06-23
-description: 유아용 곰돌이 다용도 플레이매트 볼풀장은 활동량 많은 아기를 위해 안전한 실내 놀이 공간을 제공하며, 매트, 볼풀장, 물놀이 등 다용도로 활용 가능한 제품입니다.
----
 
 
 

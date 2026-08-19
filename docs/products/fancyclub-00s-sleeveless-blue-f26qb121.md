@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a945/0a8cdae9192c8e0848369aa64cd0da474ac85b641a2538437e9f382bdbb9.jpg
+title: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121 구매 가이드
+date: 2026-07-01
+description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레트로 무드를 담은 슬리브리스로, 여름철 캐주얼 데일리룩이나 다양한 상의와 레이어드하여 활용하기 좋은 패션 아이템입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -81,12 +87,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a945/0a8cdae9192c8e0848369aa64cd0da474ac85b641a2538437e9f382bdbb9.jpg
-title: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121 구매 가이드
-date: 2026-07-01
-description: 팬시클럽 00s 슬리브리스 (BLUE) F26QB121은 2000년대 레트로 무드를 담은 슬리브리스로, 여름철 캐주얼 데일리룩이나 다양한 상의와 레이어드하여 활용하기 좋은 패션 아이템입니다.
----
 
 
 

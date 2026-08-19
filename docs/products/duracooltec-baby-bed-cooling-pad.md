@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/64ff/7f57a2582df9931154a48a6a49ed3c55532e0a266d8e853552b2b221e045.jpg
+title: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드 구매 가이드
+date: 2026-05-27
+description: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많은 아기의 숙면을 돕고 땀띠 걱정을 줄여주는 냉감 침구로, 여름철 아기 침대나 유모차에서 쾌적한 환경을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -77,12 +83,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/64ff/7f57a2582df9931154a48a6a49ed3c55532e0a266d8e853552b2b221e045.jpg
-title: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드 구매 가이드
-date: 2026-05-27
-description: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많은 아기의 숙면을 돕고 땀띠 걱정을 줄여주는 냉감 침구로, 여름철 아기 침대나 유모차에서 쾌적한 환경을 제공합니다.
----
 
 
 

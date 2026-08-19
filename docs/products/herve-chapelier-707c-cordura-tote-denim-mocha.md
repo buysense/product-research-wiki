@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a9c1/fac924f7c65644e11e4c4998cf1331a9214c4dca3a3dd5f7b7213a218642.jpg
+title: 에르베샤플리에 Herve Chapelier 707C 코듀라 토트백 M 데님 모카 프랑스 구매 가이드
+date: 2026-06-20
+description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 가볍고 실용적인 프랑스제 데일리백으로, 캐주얼부터 세미 정장까지 다양한 스타일에 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -70,12 +76,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a9c1/fac924f7c65644e11e4c4998cf1331a9214c4dca3a3dd5f7b7213a218642.jpg
-title: 에르베샤플리에 Herve Chapelier 707C 코듀라 토트백 M 데님 모카 프랑스 구매 가이드
-date: 2026-06-20
-description: 에르베샤플리에 707C 코듀라 토트백 M 데님 모카는 가볍고 실용적인 프랑스제 데일리백으로, 캐주얼부터 세미 정장까지 다양한 스타일에 활용하기 좋습니다.
----
 
 
 

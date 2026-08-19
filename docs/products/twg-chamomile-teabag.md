@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/80a2/c75147bae81b67011bf1ffa8d0a7ea34b08b250a8d12e0ce1044feeb88a8.jpg
+title: 티더블유지 카모마일 티백 구매 가이드
+date: 2026-05-06
+description: TWG 카모마일 티백은 고급스러운 향과 부드러운 맛으로 일상 속 휴식이나 특별한 순간에 편안함을 선사하는 프리미엄 허브티입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -79,12 +85,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/80a2/c75147bae81b67011bf1ffa8d0a7ea34b08b250a8d12e0ce1044feeb88a8.jpg
-title: 티더블유지 카모마일 티백 구매 가이드
-date: 2026-05-06
-description: TWG 카모마일 티백은 고급스러운 향과 부드러운 맛으로 일상 속 휴식이나 특별한 순간에 편안함을 선사하는 프리미엄 허브티입니다.
----
 
 
 

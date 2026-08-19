@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c072/9e1183dbe40a239750ef9408c0c1b52e9ddc55cc22c3aaba0f7469f03d00.jpg
+title: 무신사 스탠다드 우먼 MUSINSASTANDARDWOMAN 우먼즈 오버 숄더 오버사이즈 블레이저 블랙 구매 가이드
+date: 2026-08-09
+description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블레이저 블랙은 편안하면서도 스타일리시한 연출을 위한 아우터로, 일상복부터 세미 오피스룩까지 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -36,12 +42,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c072/9e1183dbe40a239750ef9408c0c1b52e9ddc55cc22c3aaba0f7469f03d00.jpg
-title: 무신사 스탠다드 우먼 MUSINSASTANDARDWOMAN 우먼즈 오버 숄더 오버사이즈 블레이저 블랙 구매 가이드
-date: 2026-08-09
-description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블레이저 블랙은 편안하면서도 스타일리시한 연출을 위한 아우터로, 일상복부터 세미 오피스룩까지 활용하기 좋습니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b858/5d67f6f6b1bb09e72b3579ff935aede348f78fce6b1e568bc2c02a83f4f0.jpg
+title: 세노비스 키즈 츄어블 오메가3 150정 구매 가이드
+date: 2026-05-06
+description: 세노비스 키즈 츄어블 오메가3 150정은 비린 맛 없이 아이들이 좋아하는 오렌지 맛과 바다 동물 모양으로 두뇌 발달과 눈 건강을 돕는 어린이 영양제입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -81,12 +87,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b858/5d67f6f6b1bb09e72b3579ff935aede348f78fce6b1e568bc2c02a83f4f0.jpg
-title: 세노비스 키즈 츄어블 오메가3 150정 구매 가이드
-date: 2026-05-06
-description: 세노비스 키즈 츄어블 오메가3 150정은 비린 맛 없이 아이들이 좋아하는 오렌지 맛과 바다 동물 모양으로 두뇌 발달과 눈 건강을 돕는 어린이 영양제입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83963674903192-910efed1-ef8e-48ce-a80f-b19f926130fb.jpg
+title: 랩신 V3 항균 스프레이 살균제 구매 가이드
+date: 2026-07-07
+description: 랩신 V3 항균 스프레이 살균제는 문손잡이, 식탁, 아기용품 등 생활 속 다양한 공간을 위생적으로 관리하고자 할 때 유용한 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -88,12 +94,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83963674903192-910efed1-ef8e-48ce-a80f-b19f926130fb.jpg
-title: 랩신 V3 항균 스프레이 살균제 구매 가이드
-date: 2026-07-07
-description: 랩신 V3 항균 스프레이 살균제는 문손잡이, 식탁, 아기용품 등 생활 속 다양한 공간을 위생적으로 관리하고자 할 때 유용한 제품입니다.
----
 
 
 

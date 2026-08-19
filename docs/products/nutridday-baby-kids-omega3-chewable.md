@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1132634889853340-f7d55d64-1182-4845-9ee2-2f6a14c041fe.jpg
+title: 뉴트리디데이 베이비 앤 키즈 오메가3 구매 가이드
+date: 2026-05-06
+description: 뉴트리디데이 베이비 앤 키즈 오메가3는 생선 비린내 없이 젤리처럼 씹어 먹는 형태로, 성장기 아이들의 두뇌 발달과 눈 건강을 위한 영양 간식으로 활용됩니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -85,12 +91,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1132634889853340-f7d55d64-1182-4845-9ee2-2f6a14c041fe.jpg
-title: 뉴트리디데이 베이비 앤 키즈 오메가3 구매 가이드
-date: 2026-05-06
-description: 뉴트리디데이 베이비 앤 키즈 오메가3는 생선 비린내 없이 젤리처럼 씹어 먹는 형태로, 성장기 아이들의 두뇌 발달과 눈 건강을 위한 영양 간식으로 활용됩니다.
----
 
 
 

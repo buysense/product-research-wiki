@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1271028652680189-4f8a7724-338c-49cf-afd3-513d7fbc1db7.jpg
+title: 삼성전자 갤럭시 S26 (SM-S942N) 구매 가이드
+date: 2026-06-22
+description: 삼성전자 갤럭시 S26 (SM-S942N)은 최신 기술과 강력한 성능을 갖춘 플래그십 스마트폰으로, 일상적인 활용부터 전문적인 작업, 고사양 엔터테인먼트까지 폭넓은 소비 상황에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -89,12 +95,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1271028652680189-4f8a7724-338c-49cf-afd3-513d7fbc1db7.jpg
-title: 삼성전자 갤럭시 S26 (SM-S942N) 구매 가이드
-date: 2026-06-22
-description: 삼성전자 갤럭시 S26 (SM-S942N)은 최신 기술과 강력한 성능을 갖춘 플래그십 스마트폰으로, 일상적인 활용부터 전문적인 작업, 고사양 엔터테인먼트까지 폭넓은 소비 상황에 적합합니다.
----
 
 
 

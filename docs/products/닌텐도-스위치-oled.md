@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/412280697789905-2d7be49a-b397-4782-bc26-a566446b7e23.jpg
+title: 닌텐도 스위치 OLED 구매 가이드
+date: 2026-03-25
+description: 닌텐도 스위치 OLED는 휴대 및 거치형 게임기를 고민하는 소비자, 특히 어린이날 선물을 찾는 부모님들에게 매력적인 선택지입니다. 기존 모델 대비 선명해진 7인치 OLED 디스플레이와 향상된 오디오 품질, 그리고 더욱 안정적인 스탠드가 특징으로,...
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -83,12 +89,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/412280697789905-2d7be49a-b397-4782-bc26-a566446b7e23.jpg
-title: 닌텐도 스위치 OLED 구매 가이드
-date: 2026-03-25
-description: 닌텐도 스위치 OLED는 휴대 및 거치형 게임기를 고민하는 소비자, 특히 어린이날 선물을 찾는 부모님들에게 매력적인 선택지입니다. 기존 모델 대비 선명해진 7인치 OLED 디스플레이와 향상된 오디오 품질, 그리고 더욱 안정적인 스탠드가 특징으로,...
----
 
 
 

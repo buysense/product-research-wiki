@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bcf2/54b7a07cbfb7dbc72af9b22ed259176883f8ab6eae74a029960cd4aac288.png
+title: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기 구매 가이드
+date: 2026-06-17
+description: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기는 강력한 바람과 휴대성을 겸비하여 야외 활동, 작업 현장, 이동 중 더위를 빠르게 식히는 데 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,12 +92,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bcf2/54b7a07cbfb7dbc72af9b22ed259176883f8ab6eae74a029960cd4aac288.png
-title: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기 구매 가이드
-date: 2026-06-17
-description: 알리사 100단 ICE BLAST MAX 무선 급속 냉각 핸디 휴대용 선풍기는 강력한 바람과 휴대성을 겸비하여 야외 활동, 작업 현장, 이동 중 더위를 빠르게 식히는 데 적합합니다.
----
 
 
 

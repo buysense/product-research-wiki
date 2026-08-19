@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/be20/d9ae07d39f5b1bd2fa0deec0be4396e9ebe07446324c2b282fec7ff1a3ef.jpg
+title: 롤베이비 하우스 착한 폴더 놀이매트 구매 가이드
+date: 2026-05-19
+description: 롤베이비 하우스 착한 폴더 놀이매트는 4cm 두께와 다양한 사이즈로 아이 있는 집의 층간소음 방지, 안전한 놀이 공간 조성, 간편한 청소에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/be20/d9ae07d39f5b1bd2fa0deec0be4396e9ebe07446324c2b282fec7ff1a3ef.jpg
-title: 롤베이비 하우스 착한 폴더 놀이매트 구매 가이드
-date: 2026-05-19
-description: 롤베이비 하우스 착한 폴더 놀이매트는 4cm 두께와 다양한 사이즈로 아이 있는 집의 층간소음 방지, 안전한 놀이 공간 조성, 간편한 청소에 적합합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/67dd/431368b15444518510957bff1bd4bdd5654f060c5bdd619f35205bf60baa.jpg
+title: 토키즈 어린이 유치원버스 구매 가이드
+date: 2026-04-25
+description: 토키즈 어린이 유치원버스는 실제 버스처럼 문이 열리고 소리와 불빛이 나는 완구로, 아이들의 상상력 발달과 역할놀이를 위한 선물로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/67dd/431368b15444518510957bff1bd4bdd5654f060c5bdd619f35205bf60baa.jpg
-title: 토키즈 어린이 유치원버스 구매 가이드
-date: 2026-04-25
-description: 토키즈 어린이 유치원버스는 실제 버스처럼 문이 열리고 소리와 불빛이 나는 완구로, 아이들의 상상력 발달과 역할놀이를 위한 선물로 적합합니다.
----
 
 
 

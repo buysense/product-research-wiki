@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/219291227847996-6686944e-eff8-4bbf-b253-8b4bd3f0291d.jpg
+title: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너, 240ml, 1개 구매 가이드
+date: 2026-06-11
+description: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너는 칙칙한 피부톤, 거친 피부결, 색소침착 개선을 위해 얼굴과 바디에 활용되는 각질 케어 토너입니다. 대용량으로 다양한 피부 고민에 사용 가능합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/219291227847996-6686944e-eff8-4bbf-b253-8b4bd3f0291d.jpg
-title: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너, 240ml, 1개 구매 가이드
-date: 2026-06-11
-description: 디오디너리 글리코릭 애시드 7% 엑스폴리에이팅 토너는 칙칙한 피부톤, 거친 피부결, 색소침착 개선을 위해 얼굴과 바디에 활용되는 각질 케어 토너입니다. 대용량으로 다양한 피부 고민에 사용 가능합니다.
----
 
 
 

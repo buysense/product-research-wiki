@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/597164906606997-7f11e73b-6ead-4752-887e-63b183d25841.jpg
+title: 유시몰 화이트닝 플렉스펌 칫솔 화이트 구매 가이드
+date: 2026-04-23
+description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착색 고민, 꼼꼼한 세정을 원하는 소비자를 위한 제품입니다. 플렉스펌 헤드가 치아 굴곡에 맞춰 구석구석 닦아주며, 고급스러운 디자인으로 욕실 인테리어 효과도 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -89,12 +95,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/597164906606997-7f11e73b-6ead-4752-887e-63b183d25841.jpg
-title: 유시몰 화이트닝 플렉스펌 칫솔 화이트 구매 가이드
-date: 2026-04-23
-description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착색 고민, 꼼꼼한 세정을 원하는 소비자를 위한 제품입니다. 플렉스펌 헤드가 치아 굴곡에 맞춰 구석구석 닦아주며, 고급스러운 디자인으로 욕실 인테리어 효과도 제공합니다.
----
 
 
 

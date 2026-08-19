@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/22/11/8/17270a0f-cc9d-4543-9390-c42619f295d6.jpg
+title: Apple 맥북 프로 14 M5칩실버 · M5 10코어 · 10코어 GPU · 16GB · 1TB 구매 가이드
+date: 2026-05-23
+description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM, 1TB 저장 공간을 갖춰 웹 개발, 영상 편집 등 고성능 작업과 외부 휴대 사용에 최적화된 전문가용 노트북입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/22/11/8/17270a0f-cc9d-4543-9390-c42619f295d6.jpg
-title: Apple 맥북 프로 14 M5칩실버 · M5 10코어 · 10코어 GPU · 16GB · 1TB 구매 가이드
-date: 2026-05-23
-description: Apple 맥북 프로 14 M5칩 실버 모델은 M5 10코어, 16GB RAM, 1TB 저장 공간을 갖춰 웹 개발, 영상 편집 등 고성능 작업과 외부 휴대 사용에 최적화된 전문가용 노트북입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97386169988535-30076f3d-260d-4adb-924a-22440a9840f5.jpg
+title: 농협 임금님표 이천쌀 특등급 구매 가이드
+date: 2026-07-19
+description: 농협 임금님표 이천쌀 특등급은 뛰어난 밥맛과 찰기, 고른 쌀알이 특징으로, 까다로운 가족 입맛이나 2인 가구의 신선한 소비에 적합한 프리미엄 쌀입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97386169988535-30076f3d-260d-4adb-924a-22440a9840f5.jpg
-title: 농협 임금님표 이천쌀 특등급 구매 가이드
-date: 2026-07-19
-description: 농협 임금님표 이천쌀 특등급은 뛰어난 밥맛과 찰기, 고른 쌀알이 특징으로, 까다로운 가족 입맛이나 2인 가구의 신선한 소비에 적합한 프리미엄 쌀입니다.
----
 
 
 

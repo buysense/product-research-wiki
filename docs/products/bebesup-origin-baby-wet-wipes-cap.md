@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg
+title: 베베숲 오리진 유아물티슈 캡형 구매 가이드
+date: 2026-07-03
+description: 베베숲 오리진 유아물티슈 캡형은 아기 기저귀 교체, 손/입 세정, 생활 오염 제거 등 다양한 상황에서 사용되는 데일리 물티슈입니다. 50g 평량의 적당한 두께와 넉넉한 용량으로 온 가족이 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -95,12 +101,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg
-title: 베베숲 오리진 유아물티슈 캡형 구매 가이드
-date: 2026-07-03
-description: 베베숲 오리진 유아물티슈 캡형은 아기 기저귀 교체, 손/입 세정, 생활 오염 제거 등 다양한 상황에서 사용되는 데일리 물티슈입니다. 50g 평량의 적당한 두께와 넉넉한 용량으로 온 가족이 활용하기 좋습니다.
----
 
 
 

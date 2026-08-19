@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/369148784/390535680/main/9791194280804_L.jpg
+title: 프란츠카프카 변신 소설 구매 가이드
+date: 2026-05-22
+description: 프란츠카프카의 대표작 '변신' 소설은 휴대하기 좋은 크기와 합리적인 가격으로 독서 입문자나 이동 중 가볍게 읽기 적합한 고전 문학입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/369148784/390535680/main/9791194280804_L.jpg
-title: 프란츠카프카 변신 소설 구매 가이드
-date: 2026-05-22
-description: 프란츠카프카의 대표작 '변신' 소설은 휴대하기 좋은 크기와 합리적인 가격으로 독서 입문자나 이동 중 가볍게 읽기 적합한 고전 문학입니다.
----
 
 
 

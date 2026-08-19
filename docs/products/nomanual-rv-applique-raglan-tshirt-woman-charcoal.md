@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/441d/8b1dfae004f5748abe00dd61df4c6ff973c2af41f0038305fc77a4038398.jpg
+title: [노매뉴얼] R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL 구매 가이드
+date: 2026-07-15
+description: 노매뉴얼 R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL은 캐주얼하면서도 개성 있는 스타일을 연출하는 여성용 티셔츠로, 일상적인 착용 및 레이어드 코디에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -66,12 +72,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/441d/8b1dfae004f5748abe00dd61df4c6ff973c2af41f0038305fc77a4038398.jpg
-title: [노매뉴얼] R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL 구매 가이드
-date: 2026-07-15
-description: 노매뉴얼 R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL은 캐주얼하면서도 개성 있는 스타일을 연출하는 여성용 티셔츠로, 일상적인 착용 및 레이어드 코디에 적합합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/09/17/2/29b7270b-7ef2-46cf-ac90-38a4e1a4f9eb.jpg
+title: 찰떡파이 명가 두바이st 피스타치오맛 구매 가이드
+date: 2026-04-25
+description: 찰떡파이 명가 두바이st 피스타치오맛은 쫀득한 찰떡과 고소한 피스타치오 크림, 바삭한 카다이프 식감이 조화로운 디저트입니다. 커피와 함께 즐기기 좋은 간식으로 추천됩니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -93,12 +99,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/09/17/2/29b7270b-7ef2-46cf-ac90-38a4e1a4f9eb.jpg
-title: 찰떡파이 명가 두바이st 피스타치오맛 구매 가이드
-date: 2026-04-25
-description: 찰떡파이 명가 두바이st 피스타치오맛은 쫀득한 찰떡과 고소한 피스타치오 크림, 바삭한 카다이프 식감이 조화로운 디저트입니다. 커피와 함께 즐기기 좋은 간식으로 추천됩니다.
----
 
 
 

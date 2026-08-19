@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2532576284644573-43fd403e-e1c1-44a7-a2ec-fe709c300e3c.jpg
+title: 포카칩 오리지널 구매 가이드
+date: 2026-04-07
+description: 포카칩 오리지널은 1988년 출시된 국민 감자칩으로, 얇고 바삭한 식감과 담백한 맛이 특징입니다. 영화, 맥주 안주, 간식 등 다양한 상황에서 즐기기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2532576284644573-43fd403e-e1c1-44a7-a2ec-fe709c300e3c.jpg
-title: 포카칩 오리지널 구매 가이드
-date: 2026-04-07
-description: 포카칩 오리지널은 1988년 출시된 국민 감자칩으로, 얇고 바삭한 식감과 담백한 맛이 특징입니다. 영화, 맥주 안주, 간식 등 다양한 상황에서 즐기기 좋습니다.
----
 
 
 

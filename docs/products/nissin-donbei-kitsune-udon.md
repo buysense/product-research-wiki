@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/70ca/68c21c3cf1ba6f74a2dc7f1888df8a23a22b943e9ec80258c188a8e78c1a.jpg
+title: 닛신 돈베이 키츠네 우동 구매 가이드
+date: 2026-04-10
+description: 닛신 돈베이 키츠네 우동은 일본 현지의 맛을 집에서 간편하게 즐길 수 있는 컵우동입니다. 큰 유부와 깊은 국물 맛이 특징이며, 동/서일본편으로 지역별 선호에 맞춰 출시됩니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/70ca/68c21c3cf1ba6f74a2dc7f1888df8a23a22b943e9ec80258c188a8e78c1a.jpg
-title: 닛신 돈베이 키츠네 우동 구매 가이드
-date: 2026-04-10
-description: 닛신 돈베이 키츠네 우동은 일본 현지의 맛을 집에서 간편하게 즐길 수 있는 컵우동입니다. 큰 유부와 깊은 국물 맛이 특징이며, 동/서일본편으로 지역별 선호에 맞춰 출시됩니다.
----
 
 
 

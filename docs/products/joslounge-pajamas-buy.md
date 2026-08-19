@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2967/7cbe4c5e54ee3c248df165c47eae56a0f3b0cef85351b7cb80d13f3175f7.jpg
+title: 조스라운지 잠옷 구매 가이드
+date: 2026-05-01
+description: 조스라운지 잠옷은 집에서 편안한 휴식과 숙면을 위해 선택하기 좋은 제품으로, 부드러운 소재와 편안한 디자인이 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -67,12 +73,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2967/7cbe4c5e54ee3c248df165c47eae56a0f3b0cef85351b7cb80d13f3175f7.jpg
-title: 조스라운지 잠옷 구매 가이드
-date: 2026-05-01
-description: 조스라운지 잠옷은 집에서 편안한 휴식과 숙면을 위해 선택하기 좋은 제품으로, 부드러운 소재와 편안한 디자인이 특징입니다.
----
 
 
 

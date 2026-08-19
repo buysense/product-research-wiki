@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c339/4a4facd3e097ddb565fbc92eaf929ed0462f3f74b39ecb4c4d95e86aa1d4.jpg
+title: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory) 구매 가이드
+date: 2026-06-29
+description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory)는 여름철 일상복, 오피스룩, 데이트룩으로 활용하기 좋은 반소매 상의입니다. 자연스러운 핏과 셔링 디테일이 특징이며, 편안함과 스타일을 동시에 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c339/4a4facd3e097ddb565fbc92eaf929ed0462f3f74b39ecb4c4d95e86aa1d4.jpg
-title: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory) 구매 가이드
-date: 2026-06-29
-description: [플리즈노팔로우] Kaya Button Shirring Short Sleeve Top (Ivory)는 여름철 일상복, 오피스룩, 데이트룩으로 활용하기 좋은 반소매 상의입니다. 자연스러운 핏과 셔링 디테일이 특징이며, 편안함과 스타일을 동시에 제공합니다.
----
 
 
 

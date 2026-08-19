@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d92/4634a4e19e72092fe5eec55cb01292f1f8d8eed701b5d68068878b3274ac.jpg
+title: 아이오페 레티놀 슈퍼 바운스 세럼, 50ml, 1개 구매 가이드
+date: 2026-06-11
+description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 등 피부 노화 고민을 관리하며, 민감성 피부도 사용하기 좋은 데일리 안티에이징 세럼입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d92/4634a4e19e72092fe5eec55cb01292f1f8d8eed701b5d68068878b3274ac.jpg
-title: 아이오페 레티놀 슈퍼 바운스 세럼, 50ml, 1개 구매 가이드
-date: 2026-06-11
-description: 아이오페 레티놀 슈퍼 바운스 세럼은 주름과 모공 등 피부 노화 고민을 관리하며, 민감성 피부도 사용하기 좋은 데일리 안티에이징 세럼입니다.
----
 
 
 

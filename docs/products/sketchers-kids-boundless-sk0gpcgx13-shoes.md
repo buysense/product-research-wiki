@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/14/18/4/4d7e9f58-1787-4ccd-a2e5-68c9737bfd82.jpg
+title: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13 구매 가이드
+date: 2026-07-03
+description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등학생 아이들이 일상에서 편안하게 신고 벗을 수 있도록 설계된 경량 운동화입니다. 기계 세탁이 가능하여 관리 편의성이 높습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -93,12 +99,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/14/18/4/4d7e9f58-1787-4ccd-a2e5-68c9737bfd82.jpg
-title: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13 구매 가이드
-date: 2026-07-03
-description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등학생 아이들이 일상에서 편안하게 신고 벗을 수 있도록 설계된 경량 운동화입니다. 기계 세탁이 가능하여 관리 편의성이 높습니다.
----
 
 
 

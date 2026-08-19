@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/56cc/617139b4dba7a29ab65c856c60064d2cdce7a5a2733020973dd4d87762f3.jpg
+title: 슈콤마보니 Ribbon jelly sandal 구매 가이드
+date: 2026-06-14
+description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일상에서 편안함과 스타일을 동시에 추구하는 소비자에게 적합한 여성 샌들입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -66,12 +72,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/56cc/617139b4dba7a29ab65c856c60064d2cdce7a5a2733020973dd4d87762f3.jpg
-title: 슈콤마보니 Ribbon jelly sandal 구매 가이드
-date: 2026-06-14
-description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일상에서 편안함과 스타일을 동시에 추구하는 소비자에게 적합한 여성 샌들입니다.
----
 
 
 

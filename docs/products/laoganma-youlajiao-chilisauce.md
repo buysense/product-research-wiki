@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/d6cd/cc3d74edee235e7d9dc9e29523367325191c6607cd906b07dbb03313c453.jpg
+title: 라오깐마 유라죠우 라조장 고추소스 구매 가이드
+date: 2026-05-21
+description: 라오깐마 유라죠우 라조장 고추소스는 고소하고 매콤한 감칠맛으로 밥, 면, 볶음 요리 등 다양한 가정식에 중화풍 풍미를 더해주는 만능 소스입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -89,12 +95,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/d6cd/cc3d74edee235e7d9dc9e29523367325191c6607cd906b07dbb03313c453.jpg
-title: 라오깐마 유라죠우 라조장 고추소스 구매 가이드
-date: 2026-05-21
-description: 라오깐마 유라죠우 라조장 고추소스는 고소하고 매콤한 감칠맛으로 밥, 면, 볶음 요리 등 다양한 가정식에 중화풍 풍미를 더해주는 만능 소스입니다.
----
 
 
 

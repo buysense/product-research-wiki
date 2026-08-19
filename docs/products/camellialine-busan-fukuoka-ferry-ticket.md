@@ -1,3 +1,9 @@
+---
+image: https://t5c.coupangcdn.com/thumbnails/remote/212x212ex/image/travel_reactor/travelSeller/common/A00021503/2a639292-4ba4-4199-8811-0b8c6472b859.jpg
+title: 카멜리아호 부산 후쿠오카 배편 승선권 구매 가이드
+date: 2026-04-02
+description: 부산과 후쿠오카를 잇는 뉴카멜리아호 승선권은 비행기 대신 숙박과 이동을 겸하며 여유로운 쇼핑 여행을 계획하는 분들에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
@@ -15,12 +21,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://t5c.coupangcdn.com/thumbnails/remote/212x212ex/image/travel_reactor/travelSeller/common/A00021503/2a639292-4ba4-4199-8811-0b8c6472b859.jpg
-title: 카멜리아호 부산 후쿠오카 배편 승선권 구매 가이드
-date: 2026-04-02
-description: 부산과 후쿠오카를 잇는 뉴카멜리아호 승선권은 비행기 대신 숙박과 이동을 겸하며 여유로운 쇼핑 여행을 계획하는 분들에게 적합합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2022/12/01/17/3/716c7913-1214-484a-81aa-bf3db7265b3e.jpg
+title: 신건호 멸치 육수용 디포리 구매 가이드
+date: 2026-04-19
+description: 신선한 국산 디포리와 천일염으로 만든 신건호 육수용 디포리는 김장, 찌개, 국 등 다양한 한식 요리에 깊고 깔끔한 감칠맛을 더해줍니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -77,12 +83,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2022/12/01/17/3/716c7913-1214-484a-81aa-bf3db7265b3e.jpg
-title: 신건호 멸치 육수용 디포리 구매 가이드
-date: 2026-04-19
-description: 신선한 국산 디포리와 천일염으로 만든 신건호 육수용 디포리는 김장, 찌개, 국 등 다양한 한식 요리에 깊고 깔끔한 감칠맛을 더해줍니다.
----
 
 
 

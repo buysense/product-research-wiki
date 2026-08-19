@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c801/0bce5c6d779f2bb02484dd0bc7e38a2c8b7f4b95869efe69a2c00d7f5e68.jpg
+title: 로열스테디 초경량 양산 구매 가이드
+date: 2026-06-14
+description: 로열스테디 초경량 양산은 200g대의 가벼운 무게와 UV 차단 기능을 갖춰 햇볕이 강한 날이나 갑작스러운 비에도 데일리로 휴대하기 좋은 접이식 양우산입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c801/0bce5c6d779f2bb02484dd0bc7e38a2c8b7f4b95869efe69a2c00d7f5e68.jpg
-title: 로열스테디 초경량 양산 구매 가이드
-date: 2026-06-14
-description: 로열스테디 초경량 양산은 200g대의 가벼운 무게와 UV 차단 기능을 갖춰 햇볕이 강한 날이나 갑작스러운 비에도 데일리로 휴대하기 좋은 접이식 양우산입니다.
----
 
 
 

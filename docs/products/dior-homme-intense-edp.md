@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/971a/68e870cfb309034ac3bdb9ac10b48a80f85e38a8bc42f69c547fa33fccc6.JPG
+title: 디올 옴므 오 드 퍼퓸 인텐스 구매 가이드
+date: 2026-04-06
+description: 디올 옴므 오 드 퍼퓸 인텐스는 아이리스와 우디, 앰버 노트가 어우러져 깊고 파우더리한 매력을 선사하며, 가을/겨울 저녁 또는 특별한 자리에서 우아함과 강렬한 존재감을 드러내고자 하는 이들에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -69,12 +75,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/971a/68e870cfb309034ac3bdb9ac10b48a80f85e38a8bc42f69c547fa33fccc6.JPG
-title: 디올 옴므 오 드 퍼퓸 인텐스 구매 가이드
-date: 2026-04-06
-description: 디올 옴므 오 드 퍼퓸 인텐스는 아이리스와 우디, 앰버 노트가 어우러져 깊고 파우더리한 매력을 선사하며, 가을/겨울 저녁 또는 특별한 자리에서 우아함과 강렬한 존재감을 드러내고자 하는 이들에게 적합합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/439332706646088-d07d1d11-fcc5-41be-be30-297e7e5e86d7.jpg
+title: LG전자 4K UHD 울트라HD 모니터 구매 가이드
+date: 2026-05-22
+description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화면으로 작업 효율과 몰입감을 높여주며, 전문가 및 일반 사용자 모두에게 적합한 디스플레이 솔루션입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/439332706646088-d07d1d11-fcc5-41be-be30-297e7e5e86d7.jpg
-title: LG전자 4K UHD 울트라HD 모니터 구매 가이드
-date: 2026-05-22
-description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화면으로 작업 효율과 몰입감을 높여주며, 전문가 및 일반 사용자 모두에게 적합한 디스플레이 솔루션입니다.
----
 
 
 

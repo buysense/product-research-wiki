@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c53d/ec1a807a85ffecb384ebdd146f6b64df3df309d7ec095725013e6016e13b.jpg
+title: GNC 밀크시슬 1300mg 타블렛 (120정, 3개) 구매 가이드
+date: 2026-06-16
+description: GNC 밀크시슬 1300mg 타블렛은 잦은 야근과 회식, 만성 피로로 간 건강 관리가 필요한 직장인과 성인을 위한 고함량 건강기능식품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -82,12 +88,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c53d/ec1a807a85ffecb384ebdd146f6b64df3df309d7ec095725013e6016e13b.jpg
-title: GNC 밀크시슬 1300mg 타블렛 (120정, 3개) 구매 가이드
-date: 2026-06-16
-description: GNC 밀크시슬 1300mg 타블렛은 잦은 야근과 회식, 만성 피로로 간 건강 관리가 필요한 직장인과 성인을 위한 고함량 건강기능식품입니다.
----
 
 
 

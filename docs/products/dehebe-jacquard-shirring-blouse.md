@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/26a3/17e11d1e0e6299385344594cea4ce246f2041698ffe1e80a29403889b300.jpg
+title: 드헤베 쟈카드 셔링 블라우스 구매 가이드
+date: 2026-05-26
+description: 드헤베 쟈카드 셔링 블라우스는 섬세한 쟈카드 패턴과 우아한 셔링 디테일이 돋보이며, 오피스룩부터 특별한 모임까지 다양한 상황에 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -66,12 +72,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/26a3/17e11d1e0e6299385344594cea4ce246f2041698ffe1e80a29403889b300.jpg
-title: 드헤베 쟈카드 셔링 블라우스 구매 가이드
-date: 2026-05-26
-description: 드헤베 쟈카드 셔링 블라우스는 섬세한 쟈카드 패턴과 우아한 셔링 디테일이 돋보이며, 오피스룩부터 특별한 모임까지 다양한 상황에 활용하기 좋습니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ccc0/752c14acb203fc5d1b8b07d6f0287f5e1fe3b9e5ece46f81f93704e3f2e7.jpg
+title: 알에스에스씨 RSSC FRINGE DYED CHECK SHIRT - PINK 구매 가이드
+date: 2026-07-21
+description: 알에스에스씨 RSSC 프렌지 다이드 체크 셔츠 핑크는 유니크한 프린지 디테일과 다이드 염색으로 포인트를 준 체크 셔츠입니다. 캐주얼한 일상복이나 개성 있는 간절기 스타일링에 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -66,12 +72,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ccc0/752c14acb203fc5d1b8b07d6f0287f5e1fe3b9e5ece46f81f93704e3f2e7.jpg
-title: 알에스에스씨 RSSC FRINGE DYED CHECK SHIRT - PINK 구매 가이드
-date: 2026-07-21
-description: 알에스에스씨 RSSC 프렌지 다이드 체크 셔츠 핑크는 유니크한 프린지 디테일과 다이드 염색으로 포인트를 준 체크 셔츠입니다. 캐주얼한 일상복이나 개성 있는 간절기 스타일링에 활용하기 좋습니다.
----
 
 
 

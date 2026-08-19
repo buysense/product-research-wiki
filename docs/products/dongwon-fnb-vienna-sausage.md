@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5120279096368072-77e802a9-0ab5-427d-9086-2611234d4624.jpg
+title: 동원에프앤비 비엔나소시지 구매 가이드
+date: 2026-04-28
+description: 동원에프앤비 비엔나소시지는 84.53%의 높은 돼지고기 함량으로 탱글한 식감과 고소한 맛을 자랑하며, 아이들 반찬부터 맥주 안주까지 다양한 식사 상황에 활용하기 좋은 대용량 소시지입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -93,12 +99,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5120279096368072-77e802a9-0ab5-427d-9086-2611234d4624.jpg
-title: 동원에프앤비 비엔나소시지 구매 가이드
-date: 2026-04-28
-description: 동원에프앤비 비엔나소시지는 84.53%의 높은 돼지고기 함량으로 탱글한 식감과 고소한 맛을 자랑하며, 아이들 반찬부터 맥주 안주까지 다양한 식사 상황에 활용하기 좋은 대용량 소시지입니다.
----
 
 
 

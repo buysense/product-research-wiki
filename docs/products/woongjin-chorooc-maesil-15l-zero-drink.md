@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2446/c2b2ba58e353a53b54e3a7a386bb27ce7fbac6c719a06b62335fd8200cae.jpg
+title: 초록매실 1.5L 구매 가이드
+date: 2026-04-28
+description: 초록매실 1.5L는 칼로리 부담 없이 익숙한 매실 맛을 즐기려는 소비자를 위한 음료로, 식후 입가심이나 일상 음료로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2446/c2b2ba58e353a53b54e3a7a386bb27ce7fbac6c719a06b62335fd8200cae.jpg
-title: 초록매실 1.5L 구매 가이드
-date: 2026-04-28
-description: 초록매실 1.5L는 칼로리 부담 없이 익숙한 매실 맛을 즐기려는 소비자를 위한 음료로, 식후 입가심이나 일상 음료로 적합합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7e94/3f79b6f8e302ea318b4ecd5068480dd8855df5c896486c3a01e76185fbca.jpg
+title: 엄브로 댄커X 구매 가이드
+date: 2026-04-24
+description: 엄브로 댄커X는 일상적인 활동이나 가벼운 운동 시 착용하기 좋은 스니커즈로, 디자인과 편안함을 중시하는 소비자에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7e94/3f79b6f8e302ea318b4ecd5068480dd8855df5c896486c3a01e76185fbca.jpg
-title: 엄브로 댄커X 구매 가이드
-date: 2026-04-24
-description: 엄브로 댄커X는 일상적인 활동이나 가벼운 운동 시 착용하기 좋은 스니커즈로, 디자인과 편안함을 중시하는 소비자에게 적합합니다.
----
 
 
 

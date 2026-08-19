@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/19db/2cd721bcc08eb2ef6bde5edafbc5cf29a61f95552f7919dadde894772a70.jpg
+title: 릴크리터스 이뮨 아연 비타민 C D 60정 구매 가이드
+date: 2026-05-06
+description: 성장기 아이들의 면역력 관리를 위한 릴크리터스 이뮨 아연 비타민 C D 60정은 새콤달콤한 젤리 형태로 편식하는 아이도 간식처럼 즐겨 섭취하며, 바쁜 부모들도 간편하게 영양을 챙겨줄 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -81,12 +87,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/19db/2cd721bcc08eb2ef6bde5edafbc5cf29a61f95552f7919dadde894772a70.jpg
-title: 릴크리터스 이뮨 아연 비타민 C D 60정 구매 가이드
-date: 2026-05-06
-description: 성장기 아이들의 면역력 관리를 위한 릴크리터스 이뮨 아연 비타민 C D 60정은 새콤달콤한 젤리 형태로 편식하는 아이도 간식처럼 즐겨 섭취하며, 바쁜 부모들도 간편하게 영양을 챙겨줄 수 있습니다.
----
 
 
 

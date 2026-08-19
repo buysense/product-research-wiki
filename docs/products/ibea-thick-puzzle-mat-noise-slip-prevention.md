@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2aab/0d0c9283aa7e4c3b2390499497b0c6c1c6b1cf6f4040b7e721f288b2de27.png
+title: 이베아 두꺼운 퍼즐매트 층간소음 미끄럼방지 구매 가이드
+date: 2026-05-20
+description: 이베아 두꺼운 퍼즐매트는 2.5cm 두께로 층간소음 완화 및 아이 안전을 위한 충격 흡수에 탁월하며, 깔끔한 디자인으로 거실이나 아이방 인테리어에 잘 어울립니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -79,12 +85,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2aab/0d0c9283aa7e4c3b2390499497b0c6c1c6b1cf6f4040b7e721f288b2de27.png
-title: 이베아 두꺼운 퍼즐매트 층간소음 미끄럼방지 구매 가이드
-date: 2026-05-20
-description: 이베아 두꺼운 퍼즐매트는 2.5cm 두께로 층간소음 완화 및 아이 안전을 위한 충격 흡수에 탁월하며, 깔끔한 디자인으로 거실이나 아이방 인테리어에 잘 어울립니다.
----
 
 
 

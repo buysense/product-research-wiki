@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf0d/cc6af8f1f671151e3140e5340ad9c4f5db8cbe71af9410616c26d0088446.jpg
+title: SETUP-EXE NAPOLEON HIGH-NECK JACKET 구매 가이드
+date: 2026-06-16
+description: SETUP-EXE 나폴레옹 하이넥 재킷은 세련된 디자인과 보온성을 겸비하여 간절기부터 초겨울까지 다양한 캐주얼 및 포멀 착장에 활용하기 좋은 아우터입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -68,12 +74,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf0d/cc6af8f1f671151e3140e5340ad9c4f5db8cbe71af9410616c26d0088446.jpg
-title: SETUP-EXE NAPOLEON HIGH-NECK JACKET 구매 가이드
-date: 2026-06-16
-description: SETUP-EXE 나폴레옹 하이넥 재킷은 세련된 디자인과 보온성을 겸비하여 간절기부터 초겨울까지 다양한 캐주얼 및 포멀 착장에 활용하기 좋은 아우터입니다.
----
 
 
 

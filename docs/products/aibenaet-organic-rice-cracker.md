@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/99814111207271-4fcf6f27-c982-48a8-b255-811d53bd9e56.jpg
+title: 아이배냇 유기농 쌀떡뻥 구매 가이드
+date: 2026-04-17
+description: 아이배냇 유기농 쌀떡뻥은 이유식을 시작하는 6개월 이상 아기의 첫 간식 및 외출용으로 적합한, 입안에서 잘 녹는 유기농 쌀과자입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/99814111207271-4fcf6f27-c982-48a8-b255-811d53bd9e56.jpg
-title: 아이배냇 유기농 쌀떡뻥 구매 가이드
-date: 2026-04-17
-description: 아이배냇 유기농 쌀떡뻥은 이유식을 시작하는 6개월 이상 아기의 첫 간식 및 외출용으로 적합한, 입안에서 잘 녹는 유기농 쌀과자입니다.
----
 
 
 

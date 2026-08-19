@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd67/9f7db6ee6da6198452cc7da60f77420a9b3012f5e9faa38c08a9913165eb.PNG
+title: 오뗄 한입 핫도그, 1kg, 1개 구매 가이드
+date: 2026-04-14
+description: 오뗄 한입 핫도그는 부드러운 카스테라 빵과 국내산 돈육 소시지로 만들어져 아이 간식, 바쁜 아침 식사 대용으로 인기가 높은 냉동 간편식입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -87,12 +93,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd67/9f7db6ee6da6198452cc7da60f77420a9b3012f5e9faa38c08a9913165eb.PNG
-title: 오뗄 한입 핫도그, 1kg, 1개 구매 가이드
-date: 2026-04-14
-description: 오뗄 한입 핫도그는 부드러운 카스테라 빵과 국내산 돈육 소시지로 만들어져 아이 간식, 바쁜 아침 식사 대용으로 인기가 높은 냉동 간편식입니다.
----
 
 
 

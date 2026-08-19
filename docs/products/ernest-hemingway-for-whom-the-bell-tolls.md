@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6ea2/bb7bf24e6c572ea370311f1ad02e3d7ce562fcf47fe66207058d2c4c00dd.jpg
+title: 어니스트 헤밍웨이 누구를 위하여 종은 울리나 구매 가이드
+date: 2026-08-02
+description: 어니스트 헤밍웨이의 장편소설 누구를 위하여 종은 울리나를 구매하려는 독자를 위한 가이드입니다. 작품 배경, 주요 특징, 구매 시 고려사항을 상세히 안내합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -68,12 +74,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6ea2/bb7bf24e6c572ea370311f1ad02e3d7ce562fcf47fe66207058d2c4c00dd.jpg
-title: 어니스트 헤밍웨이 누구를 위하여 종은 울리나 구매 가이드
-date: 2026-08-02
-description: 어니스트 헤밍웨이의 장편소설 누구를 위하여 종은 울리나를 구매하려는 독자를 위한 가이드입니다. 작품 배경, 주요 특징, 구매 시 고려사항을 상세히 안내합니다.
----
 
 
 

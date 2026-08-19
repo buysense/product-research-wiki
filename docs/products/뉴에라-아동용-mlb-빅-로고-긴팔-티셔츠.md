@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/567174279333817-76f5702f-7d7c-489a-9095-7d0d94f9ff50.jpg
+title: 뉴에라 아동용 MLB 빅 로고 긴팔 티셔츠 구매 가이드
+date: 2026-03-20
+description: 뉴에라 아동용 MLB 빅 로고 긴팔 티셔츠는 활동량이 많은 어린이를 위한 캐주얼 긴팔 티셔츠로, 뉴에라의 상징적인 MLB 빅 로고 디자인이 특징입니다. 봄·가을 단독 착용 및 겨울 이너웨어로 활용도가 높으며, 편안한 착용감과 깔끔한 스타일로 주말...
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -71,12 +77,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/567174279333817-76f5702f-7d7c-489a-9095-7d0d94f9ff50.jpg
-title: 뉴에라 아동용 MLB 빅 로고 긴팔 티셔츠 구매 가이드
-date: 2026-03-20
-description: 뉴에라 아동용 MLB 빅 로고 긴팔 티셔츠는 활동량이 많은 어린이를 위한 캐주얼 긴팔 티셔츠로, 뉴에라의 상징적인 MLB 빅 로고 디자인이 특징입니다. 봄·가을 단독 착용 및 겨울 이너웨어로 활용도가 높으며, 편안한 착용감과 깔끔한 스타일로 주말...
----
 
 
 

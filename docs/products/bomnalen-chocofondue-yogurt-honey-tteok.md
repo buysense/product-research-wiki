@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a5a2/6ca0edf13c5bbe397da15585c8670995c4cb54d7e70bb5615814222ddad1.png
+title: 봄날엔 초코퐁당 요거꿀떡 구매 가이드
+date: 2026-08-18
+description: 봄날엔 초코퐁당 요거꿀떡은 쫀득한 떡 속에 달콤한 초코 또는 상큼한 요거트 크림이 들어있는 디저트 떡으로, 아이들 간식이나 커피·차와 함께 즐기는 홈카페 디저트로 인기가 높습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -44,12 +50,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a5a2/6ca0edf13c5bbe397da15585c8670995c4cb54d7e70bb5615814222ddad1.png
-title: 봄날엔 초코퐁당 요거꿀떡 구매 가이드
-date: 2026-08-18
-description: 봄날엔 초코퐁당 요거꿀떡은 쫀득한 떡 속에 달콤한 초코 또는 상큼한 요거트 크림이 들어있는 디저트 떡으로, 아이들 간식이나 커피·차와 함께 즐기는 홈카페 디저트로 인기가 높습니다.
----
 
 
 

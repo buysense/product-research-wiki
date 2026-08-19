@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/396201089/418963861/main/9791194530701_L.jpg
+title: 괴테는 모든 것을 말했다 구매 가이드
+date: 2026-08-04
+description: 2025년 아쿠타가와상 수상작 '괴테는 모든 것을 말했다'는 인용과 진실의 의미를 탐구하는 철학적 소설입니다. 깊은 사유와 문학적 감동을 선사하며, 선물용으로도 좋은 선택입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -68,12 +74,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/396201089/418963861/main/9791194530701_L.jpg
-title: 괴테는 모든 것을 말했다 구매 가이드
-date: 2026-08-04
-description: 2025년 아쿠타가와상 수상작 '괴테는 모든 것을 말했다'는 인용과 진실의 의미를 탐구하는 철학적 소설입니다. 깊은 사유와 문학적 감동을 선사하며, 선물용으로도 좋은 선택입니다.
----
 
 
 

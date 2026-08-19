@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6197122227286-9822671f-bfb0-47d2-b137-4bc23e44e139.jpg
+title: 옳곡 100% 국내산 땅콩버터 스무스 구매 가이드
+date: 2026-06-13
+description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 국내산 땅콩으로만 만들어져 아기 땅콩 알레르기 테스트, 아이 간식, 건강한 어른 식단 등 온 가족이 안심하고 즐기기 좋은 부드러운 땅콩버터입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6197122227286-9822671f-bfb0-47d2-b137-4bc23e44e139.jpg
-title: 옳곡 100% 국내산 땅콩버터 스무스 구매 가이드
-date: 2026-06-13
-description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 국내산 땅콩으로만 만들어져 아기 땅콩 알레르기 테스트, 아이 간식, 건강한 어른 식단 등 온 가족이 안심하고 즐기기 좋은 부드러운 땅콩버터입니다.
----
 
 
 

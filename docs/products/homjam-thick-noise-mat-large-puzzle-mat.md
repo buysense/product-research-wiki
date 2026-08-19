@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0707/d396b3f09ad9eb5038d6b6b93677e6356e288df8efba136bb146c897c310.png
+title: 홈잼 두꺼운 층간소음 매트 대형 퍼즐매트 베란다 바닥매트 구매 가이드
+date: 2026-05-19
+description: 홈잼 두꺼운 층간소음 매트는 2.6cm 두께로 아이 있는 집의 층간소음을 줄이고, 베란다나 거실 바닥을 안전하게 보호하며 실내 분위기를 개선하는 데 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0707/d396b3f09ad9eb5038d6b6b93677e6356e288df8efba136bb146c897c310.png
-title: 홈잼 두꺼운 층간소음 매트 대형 퍼즐매트 베란다 바닥매트 구매 가이드
-date: 2026-05-19
-description: 홈잼 두꺼운 층간소음 매트는 2.6cm 두께로 아이 있는 집의 층간소음을 줄이고, 베란다나 거실 바닥을 안전하게 보호하며 실내 분위기를 개선하는 데 적합합니다.
----
 
 
 

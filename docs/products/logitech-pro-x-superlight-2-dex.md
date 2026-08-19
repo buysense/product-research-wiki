@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/12/11/2/a3d50e20-1947-4c2b-af89-7bf22f4d8deb.jpg
+title: 로지텍 PRO X SUPERLIGHT 2 DEX 구매 가이드
+date: 2026-05-29
+description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교한 에임과 손목 부담을 줄여주는 초경량 무선 게이밍 마우스로, 오른손 전용 비대칭 그립감을 선호하는 게이머에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -91,12 +97,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/12/11/2/a3d50e20-1947-4c2b-af89-7bf22f4d8deb.jpg
-title: 로지텍 PRO X SUPERLIGHT 2 DEX 구매 가이드
-date: 2026-05-29
-description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교한 에임과 손목 부담을 줄여주는 초경량 무선 게이밍 마우스로, 오른손 전용 비대칭 그립감을 선호하는 게이머에게 적합합니다.
----
 
 
 

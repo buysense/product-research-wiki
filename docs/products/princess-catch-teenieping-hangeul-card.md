@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/18/9/3/dbd85c50-4844-4649-a3d4-e0fa0279cc9f.jpg
+title: 프린세스 캐치티니핑 한글카드 구매 가이드
+date: 2026-04-29
+description: 프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를 활용하여 4-6세 여자아이들이 한글을 놀이처럼 즐겁게 학습하고, 외출 시 집중력을 높이는 데 활용하기 좋은 교육용 카드입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/18/9/3/dbd85c50-4844-4649-a3d4-e0fa0279cc9f.jpg
-title: 프린세스 캐치티니핑 한글카드 구매 가이드
-date: 2026-04-29
-description: 프린세스 캐치티니핑 한글카드는 티니핑 캐릭터를 활용하여 4-6세 여자아이들이 한글을 놀이처럼 즐겁게 학습하고, 외출 시 집중력을 높이는 데 활용하기 좋은 교육용 카드입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5fc2/78bd5d229866dac2b55f474b77566210344dc055504c9764688a85986ac4.jpg
+title: Pillsbury 레디 투 베이크 초콜릿 칩 쿠키도우 구매 가이드
+date: 2026-04-08
+description: Pillsbury 레디 투 베이크 초콜릿 칩 쿠키도우는 복잡한 과정 없이 간편하게 갓 구운 쿠키를 즐길 수 있는 제품입니다. 아이들 간식, 홈베이킹, 손님 접대에 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -69,12 +75,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5fc2/78bd5d229866dac2b55f474b77566210344dc055504c9764688a85986ac4.jpg
-title: Pillsbury 레디 투 베이크 초콜릿 칩 쿠키도우 구매 가이드
-date: 2026-04-08
-description: Pillsbury 레디 투 베이크 초콜릿 칩 쿠키도우는 복잡한 과정 없이 간편하게 갓 구운 쿠키를 즐길 수 있는 제품입니다. 아이들 간식, 홈베이킹, 손님 접대에 활용하기 좋습니다.
----
 
 
 

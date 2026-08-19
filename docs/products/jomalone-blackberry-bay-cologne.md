@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1008424526172745-d04fa906-5ced-4975-8138-bfb60d58a189.jpg
+title: 조말론 향수 남자, 블랙베리 앤 베이 코롱 구매 가이드
+date: 2026-04-06
+description: 조말론런던 블랙베리 앤 베이 코롱은 남녀 모두에게 사랑받는 중성적인 향수로, 상큼한 블랙베리와 싱그러운 월계수 잎, 따뜻한 시더우드가 조화를 이룹니다. 데일리 사용 및 선물용으로 적합하며, 레이어링을 통해 자신만의 시그니처 향을 연출할 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1008424526172745-d04fa906-5ced-4975-8138-bfb60d58a189.jpg
-title: 조말론 향수 남자, 블랙베리 앤 베이 코롱 구매 가이드
-date: 2026-04-06
-description: 조말론런던 블랙베리 앤 베이 코롱은 남녀 모두에게 사랑받는 중성적인 향수로, 상큼한 블랙베리와 싱그러운 월계수 잎, 따뜻한 시더우드가 조화를 이룹니다. 데일리 사용 및 선물용으로 적합하며, 레이어링을 통해 자신만의 시그니처 향을 연출할 수 있습니다.
----
 
 
 

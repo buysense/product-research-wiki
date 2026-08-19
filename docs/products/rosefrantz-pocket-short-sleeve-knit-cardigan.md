@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4e90/9fb550e83ee06662b7b8dd70891f0b72d29a9453b0d5cc19464212f0a585.jpg
+title: 로제프란츠 ROSEFRANTZ Pocket short sleeve knit cardigan 구매 가이드
+date: 2026-07-29
+description: 로제프란츠 포켓 반팔 니트 가디건은 간절기 또는 실내 냉방 시 가볍게 걸치기 좋은 데일리 아이템으로, 활용도 높은 디자인과 편안한 착용감이 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -69,12 +75,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4e90/9fb550e83ee06662b7b8dd70891f0b72d29a9453b0d5cc19464212f0a585.jpg
-title: 로제프란츠 ROSEFRANTZ Pocket short sleeve knit cardigan 구매 가이드
-date: 2026-07-29
-description: 로제프란츠 포켓 반팔 니트 가디건은 간절기 또는 실내 냉방 시 가볍게 걸치기 좋은 데일리 아이템으로, 활용도 높은 디자인과 편안한 착용감이 특징입니다.
----
 
 
 

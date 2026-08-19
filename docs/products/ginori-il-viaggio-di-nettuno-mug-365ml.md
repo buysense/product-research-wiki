@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0f96/e098b7cec13f28e902166ab6c9bb816350b1068bb4fef1e20b94fd89038d.jpg
+title: 지노리 IL VIAGGIO DI NETTUNO 머그 365ml 구매 가이드
+date: 2026-07-22
+description: 지노리 IL VIAGGIO DI NETTUNO 머그 365ml는 독특한 해양 신화 테마 디자인과 이탈리아 장인 정신이 돋보이는 제품으로, 특별한 선물이나 개인 소장품, 또는 일상에 예술적 감각을 더하고 싶을 때 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -68,12 +74,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0f96/e098b7cec13f28e902166ab6c9bb816350b1068bb4fef1e20b94fd89038d.jpg
-title: 지노리 IL VIAGGIO DI NETTUNO 머그 365ml 구매 가이드
-date: 2026-07-22
-description: 지노리 IL VIAGGIO DI NETTUNO 머그 365ml는 독특한 해양 신화 테마 디자인과 이탈리아 장인 정신이 돋보이는 제품으로, 특별한 선물이나 개인 소장품, 또는 일상에 예술적 감각을 더하고 싶을 때 적합합니다.
----
 
 
 

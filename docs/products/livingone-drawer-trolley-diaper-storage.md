@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4794/2ece695cbda4e89e404e71801b2c6e82f331fdd0592ef8baac0d63e97aa7.jpg
+title: 리빙원 서랍형트롤리 이동식기저귀함 구매 가이드
+date: 2026-05-20
+description: 리빙원 서랍형트롤리 이동식기저귀함은 아이 기저귀, 육아용품 정리 및 다양한 소품 수납에 활용되는 실용적인 이동식 트롤리입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4794/2ece695cbda4e89e404e71801b2c6e82f331fdd0592ef8baac0d63e97aa7.jpg
-title: 리빙원 서랍형트롤리 이동식기저귀함 구매 가이드
-date: 2026-05-20
-description: 리빙원 서랍형트롤리 이동식기저귀함은 아이 기저귀, 육아용품 정리 및 다양한 소품 수납에 활용되는 실용적인 이동식 트롤리입니다.
----
 
 
 

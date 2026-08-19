@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6f98/519a100188c8c16fbab118366cd9ad083e930756e2bfdf9bf2f8f7dee648.png
+title: 쿠지 2단 스텐도시락통 밀프랩 가방 세트 구매 가이드
+date: 2026-05-12
+description: 직장인, 아이 도시락, 밀프랩 등 다양한 상황에서 활용하기 좋은 쿠지 2단 스텐도시락통 밀프랩 가방 세트는 전자레인지 사용이 가능하며 위생적인 스테인리스 재질이 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -77,12 +83,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6f98/519a100188c8c16fbab118366cd9ad083e930756e2bfdf9bf2f8f7dee648.png
-title: 쿠지 2단 스텐도시락통 밀프랩 가방 세트 구매 가이드
-date: 2026-05-12
-description: 직장인, 아이 도시락, 밀프랩 등 다양한 상황에서 활용하기 좋은 쿠지 2단 스텐도시락통 밀프랩 가방 세트는 전자레인지 사용이 가능하며 위생적인 스테인리스 재질이 특징입니다.
----
 
 
 

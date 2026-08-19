@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1105943929094568-f3172524-1053-4fa2-84b2-253778656eda.jpg
+title: 설성목장 무항생제 한우로 만든 한우 어린이 육포 구매 가이드
+date: 2026-05-12
+description: 설성목장 무항생제 한우로 만든 어린이 육포는 성장기 아이들의 간식 및 단백질 보충을 위한 제품으로, 부드러운 식감과 담백한 맛이 특징입니다. 외출용 간식으로도 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -93,12 +99,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1105943929094568-f3172524-1053-4fa2-84b2-253778656eda.jpg
-title: 설성목장 무항생제 한우로 만든 한우 어린이 육포 구매 가이드
-date: 2026-05-12
-description: 설성목장 무항생제 한우로 만든 어린이 육포는 성장기 아이들의 간식 및 단백질 보충을 위한 제품으로, 부드러운 식감과 담백한 맛이 특징입니다. 외출용 간식으로도 적합합니다.
----
 
 
 

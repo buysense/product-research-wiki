@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b081/2faa3ab0b9fee0175f31d40a8e2623a6ea08fccbf8d2ac3259fac4bded67.jpg
+title: COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이 구매 가이드
+date: 2026-08-10
+description: 코이세이오 플라워 카프리 슬리브 블루 그레이는 꽃무늬 디자인과 카프리 소매가 특징인 상의로, 봄부터 가을까지 일상복이나 캐주얼한 외출복으로 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -37,12 +43,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b081/2faa3ab0b9fee0175f31d40a8e2623a6ea08fccbf8d2ac3259fac4bded67.jpg
-title: COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이 구매 가이드
-date: 2026-08-10
-description: 코이세이오 플라워 카프리 슬리브 블루 그레이는 꽃무늬 디자인과 카프리 소매가 특징인 상의로, 봄부터 가을까지 일상복이나 캐주얼한 외출복으로 활용하기 좋습니다.
----
 
 
 

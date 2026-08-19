@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/24e7/f566e3e9f5aa29d29e8d5233281c897c1d6338c123b34e9d2fb5c9a6a38c.jpg
+title: 닛신 미니즈 컵 세트 (5개입) 구매 가이드
+date: 2026-07-31
+description: 닛신 미니즈 컵 세트 (5개입)는 5가지 인기 일본 미니 컵라면으로, 다양한 맛을 경험하거나 간식, 여행 기념품으로 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -72,12 +78,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/24e7/f566e3e9f5aa29d29e8d5233281c897c1d6338c123b34e9d2fb5c9a6a38c.jpg
-title: 닛신 미니즈 컵 세트 (5개입) 구매 가이드
-date: 2026-07-31
-description: 닛신 미니즈 컵 세트 (5개입)는 5가지 인기 일본 미니 컵라면으로, 다양한 맛을 경험하거나 간식, 여행 기념품으로 활용하기 좋습니다.
----
 
 
 

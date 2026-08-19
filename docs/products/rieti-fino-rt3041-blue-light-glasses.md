@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381689744293921-8f74ce30-6cd6-4d9b-b082-bea0d70cbe59.jpg
+title: 리에티 블루라이트차단 안경 FINO RT 3041 구매 가이드
+date: 2026-08-08
+description: 리에티 FINO RT 3041 블루라이트차단 안경은 디지털 기기 사용자의 눈 피로를 덜어주고, 가볍고 슬림한 디자인으로 일상에서 편안하게 착용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -45,12 +51,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381689744293921-8f74ce30-6cd6-4d9b-b082-bea0d70cbe59.jpg
-title: 리에티 블루라이트차단 안경 FINO RT 3041 구매 가이드
-date: 2026-08-08
-description: 리에티 FINO RT 3041 블루라이트차단 안경은 디지털 기기 사용자의 눈 피로를 덜어주고, 가볍고 슬림한 디자인으로 일상에서 편안하게 착용하기 좋습니다.
----
 
 
 

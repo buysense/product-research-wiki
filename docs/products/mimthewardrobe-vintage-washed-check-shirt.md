@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/aad6/9bcb6243056991238fc17696bff8f4e2aa2892ba4323db2c235ee035f04f.jpg
+title: 밈더워드로브 MIMTHEWARDROBE 빈티지 워시드 체크 셔츠 구매 가이드
+date: 2026-07-31
+description: 밈더워드로브 빈티지 워시드 체크 셔츠는 캐주얼하고 자연스러운 스타일을 연출하기 좋으며, 일상복이나 레이어드 아이템으로 활용하기 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -65,12 +71,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/aad6/9bcb6243056991238fc17696bff8f4e2aa2892ba4323db2c235ee035f04f.jpg
-title: 밈더워드로브 MIMTHEWARDROBE 빈티지 워시드 체크 셔츠 구매 가이드
-date: 2026-07-31
-description: 밈더워드로브 빈티지 워시드 체크 셔츠는 캐주얼하고 자연스러운 스타일을 연출하기 좋으며, 일상복이나 레이어드 아이템으로 활용하기 적합합니다.
----
 
 
 

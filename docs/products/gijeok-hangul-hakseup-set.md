@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0954/11354139a837bfb17d2484df61cfba447a51038eb4223908b8479a3ae7f2.jpg
+title: 기적의 한글 학습 1~5 세트 구매 가이드
+date: 2026-04-29
+description: 기적의 한글 학습 1~5 세트는 유아 및 초등 입학 전 아동이 가정에서 체계적으로 한글을 배우고 기초를 다질 때 활용되는 학습 교재 세트입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0954/11354139a837bfb17d2484df61cfba447a51038eb4223908b8479a3ae7f2.jpg
-title: 기적의 한글 학습 1~5 세트 구매 가이드
-date: 2026-04-29
-description: 기적의 한글 학습 1~5 세트는 유아 및 초등 입학 전 아동이 가정에서 체계적으로 한글을 배우고 기초를 다질 때 활용되는 학습 교재 세트입니다.
----
 
 
 

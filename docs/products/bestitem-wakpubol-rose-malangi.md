@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dc8c/6e9773e1dbbbe9536824b8b748993fa6f876d391c2a74ae2f4c406127c9b.jpg
+title: 베스트템 왁뿌볼 로제 말랑이 구매 가이드
+date: 2026-05-15
+description: 베스트템 왁뿌볼 로제 말랑이는 부드러운 촉감과 매력적인 로제 색상이 특징인 스트레스 해소 및 감각 발달용 장난감으로, 아이들 놀이용이나 수집 및 선물용으로 인기가 많습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dc8c/6e9773e1dbbbe9536824b8b748993fa6f876d391c2a74ae2f4c406127c9b.jpg
-title: 베스트템 왁뿌볼 로제 말랑이 구매 가이드
-date: 2026-05-15
-description: 베스트템 왁뿌볼 로제 말랑이는 부드러운 촉감과 매력적인 로제 색상이 특징인 스트레스 해소 및 감각 발달용 장난감으로, 아이들 놀이용이나 수집 및 선물용으로 인기가 많습니다.
----
 
 
 

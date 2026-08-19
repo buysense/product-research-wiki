@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b49f/efbc4f28a776251059b599480088f267831341500a82b36984374c350fe0.jpg
+title: 레고(LEGO) 창의력 쑥쑥 브릭 박스 11038 구매 가이드
+date: 2026-04-27
+description: 레고 창의력 쑥쑥 브릭 박스 11038은 다양한 브릭으로 아이들의 창의력과 상상력을 자극하며, 자유로운 놀이와 브릭 조립 경험을 제공하는 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -36,12 +42,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b49f/efbc4f28a776251059b599480088f267831341500a82b36984374c350fe0.jpg
-title: 레고(LEGO) 창의력 쑥쑥 브릭 박스 11038 구매 가이드
-date: 2026-04-27
-description: 레고 창의력 쑥쑥 브릭 박스 11038은 다양한 브릭으로 아이들의 창의력과 상상력을 자극하며, 자유로운 놀이와 브릭 조립 경험을 제공하는 제품입니다.
----
 
 
 

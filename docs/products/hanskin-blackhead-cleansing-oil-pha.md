@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a658/8486a1adf149bea4a1d5bb9f97018c4b183d7505ed026a9f316949ee5b71.png
+title: 한스킨 블랙헤드 클렌징 오일 PHA 구매 가이드
+date: 2026-06-09
+description: 한스킨 블랙헤드 클렌징 오일 PHA는 모공 속 블랙헤드와 노폐물 관리를 돕는 클렌징 오일입니다. 순한 성분과 PHA 함유로 민감한 피부도 사용할 수 있으며, 데일리 클렌징 시 효과적인 모공 케어를 원하는 사용자에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -67,12 +73,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a658/8486a1adf149bea4a1d5bb9f97018c4b183d7505ed026a9f316949ee5b71.png
-title: 한스킨 블랙헤드 클렌징 오일 PHA 구매 가이드
-date: 2026-06-09
-description: 한스킨 블랙헤드 클렌징 오일 PHA는 모공 속 블랙헤드와 노폐물 관리를 돕는 클렌징 오일입니다. 순한 성분과 PHA 함유로 민감한 피부도 사용할 수 있으며, 데일리 클렌징 시 효과적인 모공 케어를 원하는 사용자에게 적합합니다.
----
 
 
 

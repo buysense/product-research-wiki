@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6869/e371f8ab779c89e99f34c9d1e1afb5033a327eda91a4de98c9a70196ac63.png
+title: 말랑스테이 왁뿌볼 세트 구매 가이드
+date: 2026-05-15
+description: 말랑스테이 왁뿌볼 세트는 세탁 시 의류에 붙은 보푸라기, 반려동물 털 등을 효과적으로 제거하여 옷감 손상을 줄이고 깨끗한 세탁을 돕는 세탁 보조용품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6869/e371f8ab779c89e99f34c9d1e1afb5033a327eda91a4de98c9a70196ac63.png
-title: 말랑스테이 왁뿌볼 세트 구매 가이드
-date: 2026-05-15
-description: 말랑스테이 왁뿌볼 세트는 세탁 시 의류에 붙은 보푸라기, 반려동물 털 등을 효과적으로 제거하여 옷감 손상을 줄이고 깨끗한 세탁을 돕는 세탁 보조용품입니다.
----
 
 
 

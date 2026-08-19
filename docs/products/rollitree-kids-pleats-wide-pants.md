@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4103483177193904-e037e166-dd12-463c-94e5-4a55f165a0d9.jpg
+title: 롤리트리 아동 플리츠 와이드 팬츠 구매 가이드
+date: 2026-06-02
+description: 롤리트리 아동 플리츠 와이드 팬츠는 편안한 착용감과 세련된 플리츠 와이드핏으로 일상복, 등원룩, 활동복으로 적합한 아동 바지입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4103483177193904-e037e166-dd12-463c-94e5-4a55f165a0d9.jpg
-title: 롤리트리 아동 플리츠 와이드 팬츠 구매 가이드
-date: 2026-06-02
-description: 롤리트리 아동 플리츠 와이드 팬츠는 편안한 착용감과 세련된 플리츠 와이드핏으로 일상복, 등원룩, 활동복으로 적합한 아동 바지입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/e47d226c30df402c1b5185ce0b3e27139360291d041bb05d491139e48dca_1757295026089.jpg
+title: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5 구매 가이드
+date: 2026-03-29
+description: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5는 뛰어난 휴대성, 선명한 AMOLED 터치 디스플레이, 강력한 AI 성능을 갖춰 이동이 잦은 직장인과 학생에게 최적화된 프리미엄 노트북입니다.
+---
 <!-- bs:jsonld -->
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
@@ -55,12 +61,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/e47d226c30df402c1b5185ce0b3e27139360291d041bb05d491139e48dca_1757295026089.jpg
-title: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5 구매 가이드
-date: 2026-03-29
-description: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5는 뛰어난 휴대성, 선명한 AMOLED 터치 디스플레이, 강력한 AI 성능을 갖춰 이동이 잦은 직장인과 학생에게 최적화된 프리미엄 노트북입니다.
----
 
 
 

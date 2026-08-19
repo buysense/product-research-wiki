@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/07/18/3/f3f55ba1-b816-4735-bd2a-8702bfb70bc1.jpg
+title: 세터 나일론 캐쥬얼 볼캡 구매 가이드
+date: 2026-07-03
+description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감으로 일상복, 가벼운 야외 활동에 적합하며 다양한 캐주얼 스타일에 활용하기 좋은 볼캡입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,12 +92,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/07/18/3/f3f55ba1-b816-4735-bd2a-8702bfb70bc1.jpg
-title: 세터 나일론 캐쥬얼 볼캡 구매 가이드
-date: 2026-07-03
-description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감으로 일상복, 가벼운 야외 활동에 적합하며 다양한 캐주얼 스타일에 활용하기 좋은 볼캡입니다.
----
 
 
 

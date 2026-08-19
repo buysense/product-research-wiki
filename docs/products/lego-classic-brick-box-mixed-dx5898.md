@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5906/9132aae6e69752f52e7ee9ab6a800dbdf87424995ae0622f7562583a27f8.png
+title: 레고클래식 브릭 박스 혼합색상 1개 DX5898 구매 가이드
+date: 2026-05-13
+description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 창의력 발달과 자유로운 조립 놀이를 위한 기본 브릭 세트입니다. 다양한 색상의 브릭으로 상상하는 무엇이든 만들 수 있어 선물용이나 가정 학습용으로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5906/9132aae6e69752f52e7ee9ab6a800dbdf87424995ae0622f7562583a27f8.png
-title: 레고클래식 브릭 박스 혼합색상 1개 DX5898 구매 가이드
-date: 2026-05-13
-description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 창의력 발달과 자유로운 조립 놀이를 위한 기본 브릭 세트입니다. 다양한 색상의 브릭으로 상상하는 무엇이든 만들 수 있어 선물용이나 가정 학습용으로 적합합니다.
----
 
 
 

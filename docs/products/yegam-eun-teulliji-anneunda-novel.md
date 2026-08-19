@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e097/a069600594db304472350be90aec8ae40140519d14e644748c3c2aed84d8.png
+title: 예감은 틀리지 않는다 구매 가이드
+date: 2026-05-22
+description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된 기억과 성찰을 다루는 소설로, 깊은 여운을 원하는 독자나 지인 선물용으로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e097/a069600594db304472350be90aec8ae40140519d14e644748c3c2aed84d8.png
-title: 예감은 틀리지 않는다 구매 가이드
-date: 2026-05-22
-description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된 기억과 성찰을 다루는 소설로, 깊은 여운을 원하는 독자나 지인 선물용으로 적합합니다.
----
 
 
 

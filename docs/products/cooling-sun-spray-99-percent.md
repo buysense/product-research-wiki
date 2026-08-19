@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ca44/7cb44f3623eec2958d97273747c721faf5dc55bc2d195f2f39d0a51d77df.jpg
+title: 국내최초 99.94%지속 쿨링선스프레이 구매 가이드
+date: 2026-08-01
+description: 국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활동 시 끈적임 없이 피부 온도를 낮춰주며, 땀에도 강해 간편한 자외선 차단을 원하는 사용자에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -72,12 +78,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ca44/7cb44f3623eec2958d97273747c721faf5dc55bc2d195f2f39d0a51d77df.jpg
-title: 국내최초 99.94%지속 쿨링선스프레이 구매 가이드
-date: 2026-08-01
-description: 국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활동 시 끈적임 없이 피부 온도를 낮춰주며, 땀에도 강해 간편한 자외선 차단을 원하는 사용자에게 적합합니다.
----
 
 
 

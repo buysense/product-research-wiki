@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1175/39bb7d7e48d025922f172b71f61827bdfbef48d57c39fd482a6e095de34e.jpg
+title: 우베파우더 구매 가이드
+date: 2026-04-09
+description: 필리핀산 보라색 참마를 건조한 우베파우더는 인공 색소 없이 선명한 보랏빛을 내며 홈카페 라떼·베이킹에 활용된다. 타로·자색고구마와의 차이부터 100% 원물 선택법까지 정리.
+---
 <!-- bs:jsonld -->
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
@@ -45,12 +51,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1175/39bb7d7e48d025922f172b71f61827bdfbef48d57c39fd482a6e095de34e.jpg
-title: 우베파우더 구매 가이드
-date: 2026-04-09
-description: 필리핀산 보라색 참마를 건조한 우베파우더는 인공 색소 없이 선명한 보랏빛을 내며 홈카페 라떼·베이킹에 활용된다. 타로·자색고구마와의 차이부터 100% 원물 선택법까지 정리.
----
 
 
 

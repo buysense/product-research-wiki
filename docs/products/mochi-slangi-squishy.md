@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/293e/261470ec45dccefe2e83695a04869070d3e4ff14d891b9965f966ac708c6.jpg
+title: 모찌 슬랑이 스퀴시 구매 가이드
+date: 2026-05-15
+description: 모찌 슬랑이 스퀴시는 부드럽고 몰캉한 촉감으로 손의 스트레스를 해소하고 집중력 향상을 돕는 감각 놀이용 스퀴시 장난감입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/293e/261470ec45dccefe2e83695a04869070d3e4ff14d891b9965f966ac708c6.jpg
-title: 모찌 슬랑이 스퀴시 구매 가이드
-date: 2026-05-15
-description: 모찌 슬랑이 스퀴시는 부드럽고 몰캉한 촉감으로 손의 스트레스를 해소하고 집중력 향상을 돕는 감각 놀이용 스퀴시 장난감입니다.
----
 
 
 

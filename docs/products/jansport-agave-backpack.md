@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f355/c11cdac3e5d41e81f4550b114415e20e1e87845e2faf74d3aa0f0a18095a.jpg
+title: 잔스포츠 아가베 구매 가이드
+date: 2026-04-21
+description: 잔스포츠 아가베는 일상생활, 통학, 가벼운 외출 등 다양한 상황에서 활용하기 좋은 실용적인 캐주얼 백팩입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -73,12 +79,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f355/c11cdac3e5d41e81f4550b114415e20e1e87845e2faf74d3aa0f0a18095a.jpg
-title: 잔스포츠 아가베 구매 가이드
-date: 2026-04-21
-description: 잔스포츠 아가베는 일상생활, 통학, 가벼운 외출 등 다양한 상황에서 활용하기 좋은 실용적인 캐주얼 백팩입니다.
----
 
 
 

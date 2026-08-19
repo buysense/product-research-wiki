@@ -1,3 +1,9 @@
+---
+image: https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin/images/05494/05494_Product_new.png
+title: 신비오페르민S 플러스 구매 가이드
+date: 2026-03-31
+description: 신비오페르민S 플러스는 일본 후생노동성이 인정한 지정의약부외품 정장제로, 3~4종의 인간 유래 유산균이 소장부터 대장까지 장 환경을 개선하여 변비, 설사, 복부 팽만감을 완화하는 데 도움을 줍니다. 일본 여행 시 혹은 직구로 구매하는 경우가 많으며, 온 가족 장 건강 관리에 적합합니다.
+---
 <!-- bs:jsonld -->
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
@@ -30,12 +36,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin/images/05494/05494_Product_new.png
-title: 신비오페르민S 플러스 구매 가이드
-date: 2026-03-31
-description: 신비오페르민S 플러스는 일본 후생노동성이 인정한 지정의약부외품 정장제로, 3~4종의 인간 유래 유산균이 소장부터 대장까지 장 환경을 개선하여 변비, 설사, 복부 팽만감을 완화하는 데 도움을 줍니다. 일본 여행 시 혹은 직구로 구매하는 경우가 많으며, 온 가족 장 건강 관리에 적합합니다.
----
 
 
 

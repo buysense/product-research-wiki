@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8198/0f014053abee0233d023fef6c1fcd4943d442f98f89e821e4038c495f5dc.jpg
+title: 르시랑스 드립백커피 구매 가이드
+date: 2026-04-29
+description: 르시랑스 드립백커피는 다양한 원두 구성과 간편한 추출 방식으로 사무실, 가정에서 즐기기 좋은 데일리 커피입니다. 선물용으로도 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8198/0f014053abee0233d023fef6c1fcd4943d442f98f89e821e4038c495f5dc.jpg
-title: 르시랑스 드립백커피 구매 가이드
-date: 2026-04-29
-description: 르시랑스 드립백커피는 다양한 원두 구성과 간편한 추출 방식으로 사무실, 가정에서 즐기기 좋은 데일리 커피입니다. 선물용으로도 적합합니다.
----
 
 
 

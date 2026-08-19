@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e864/11b9f6b38a90dd8446a0fb5fb4328ce5b3a6ba9b4d33f3002f13c9cdde0d.jpg
+title: 나우푸드 실리마린 밀크 시슬 추출물 (300mg 베지 캡슐, 200정, 1개) 구매 가이드
+date: 2026-08-06
+description: 나우푸드 실리마린 밀크 시슬 추출물은 야근과 피로 누적으로 간 건강 관리가 필요하거나 꾸준한 영양제 섭취를 원하는 소비자를 위한 300mg 실리마린 베지 캡슐입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -45,12 +51,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e864/11b9f6b38a90dd8446a0fb5fb4328ce5b3a6ba9b4d33f3002f13c9cdde0d.jpg
-title: 나우푸드 실리마린 밀크 시슬 추출물 (300mg 베지 캡슐, 200정, 1개) 구매 가이드
-date: 2026-08-06
-description: 나우푸드 실리마린 밀크 시슬 추출물은 야근과 피로 누적으로 간 건강 관리가 필요하거나 꾸준한 영양제 섭취를 원하는 소비자를 위한 300mg 실리마린 베지 캡슐입니다.
----
 
 
 

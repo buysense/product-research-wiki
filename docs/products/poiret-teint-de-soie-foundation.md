@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2932/83b9746f2820bc8c53ed04756cfeff573db7b7001710b3ed5e2b557a92ba.png
+title: 뽀아레 뗑 드 스와 파운데이션 구매 가이드
+date: 2026-06-02
+description: 뽀아레 뗑 드 스와 파운데이션은 답답함 없이 자연스럽고 건강한 윤광 피부 표현을 선호하는 이들을 위한 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2932/83b9746f2820bc8c53ed04756cfeff573db7b7001710b3ed5e2b557a92ba.png
-title: 뽀아레 뗑 드 스와 파운데이션 구매 가이드
-date: 2026-06-02
-description: 뽀아레 뗑 드 스와 파운데이션은 답답함 없이 자연스럽고 건강한 윤광 피부 표현을 선호하는 이들을 위한 제품입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f3ec/4b71860ae3ba39608fbf67853d59f90f8a3d46a0c1d19360960d7bd638d3.jpg
+title: 두닷 책선반 구매 가이드
+date: 2026-04-19
+description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 수납하며, 인테리어 효과까지 고려하는 사용자를 위한 견고하고 깔끔한 수직형 수납 솔루션입니다. 집 정리 및 서재 꾸미기 시 활용됩니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -82,12 +88,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f3ec/4b71860ae3ba39608fbf67853d59f90f8a3d46a0c1d19360960d7bd638d3.jpg
-title: 두닷 책선반 구매 가이드
-date: 2026-04-19
-description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 수납하며, 인테리어 효과까지 고려하는 사용자를 위한 견고하고 깔끔한 수직형 수납 솔루션입니다. 집 정리 및 서재 꾸미기 시 활용됩니다.
----
 
 
 

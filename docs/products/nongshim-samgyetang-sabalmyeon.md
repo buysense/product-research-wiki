@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4e22/8d1d1bd24af359c5b83ca0fe8578b48e7c438f0640bb5918bfdabf304a4c.jpg
+title: 농심 삼계탕 사발면 구매 가이드
+date: 2026-08-12
+description: 농심 삼계탕 사발면은 간편하게 삼계탕의 풍미를 즐길 수 있는 컵라면으로, 바쁜 일상 속 식사나 야외 활동 시 따뜻한 국물이 필요한 상황에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -36,12 +42,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4e22/8d1d1bd24af359c5b83ca0fe8578b48e7c438f0640bb5918bfdabf304a4c.jpg
-title: 농심 삼계탕 사발면 구매 가이드
-date: 2026-08-12
-description: 농심 삼계탕 사발면은 간편하게 삼계탕의 풍미를 즐길 수 있는 컵라면으로, 바쁜 일상 속 식사나 야외 활동 시 따뜻한 국물이 필요한 상황에 적합합니다.
----
 
 
 

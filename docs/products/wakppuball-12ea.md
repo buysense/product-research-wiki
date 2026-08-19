@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f32b/5fe63bf249ed5452d668759fa737797aabd7a5181f750b1a409e88350920.jpg
+title: 왁뿌볼 12개 구매 가이드
+date: 2026-05-15
+description: 왁뿌볼 12개는 일상에서 간편하게 즐기거나 소소한 선물용으로 활용하기 좋은 소포장 제품으로 다양한 상황에서 유용합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f32b/5fe63bf249ed5452d668759fa737797aabd7a5181f750b1a409e88350920.jpg
-title: 왁뿌볼 12개 구매 가이드
-date: 2026-05-15
-description: 왁뿌볼 12개는 일상에서 간편하게 즐기거나 소소한 선물용으로 활용하기 좋은 소포장 제품으로 다양한 상황에서 유용합니다.
----
 
 
 

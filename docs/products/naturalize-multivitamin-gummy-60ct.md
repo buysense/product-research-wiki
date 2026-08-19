@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/106566565411278-8c13c536-b1a7-4d3e-a342-b43def2180be.jpg
+title: 네추럴라이즈 멀티비타민 꾸미, 60정 구매 가이드
+date: 2026-05-06
+description: 네추럴라이즈 멀티비타민 꾸미는 알약 섭취에 부담을 느끼는 가족 모두가 간식처럼 맛있게 비타민을 보충하며 일상 컨디션을 유지하는 데 도움을 주는 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -85,12 +91,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/106566565411278-8c13c536-b1a7-4d3e-a342-b43def2180be.jpg
-title: 네추럴라이즈 멀티비타민 꾸미, 60정 구매 가이드
-date: 2026-05-06
-description: 네추럴라이즈 멀티비타민 꾸미는 알약 섭취에 부담을 느끼는 가족 모두가 간식처럼 맛있게 비타민을 보충하며 일상 컨디션을 유지하는 데 도움을 주는 제품입니다.
----
 
 
 

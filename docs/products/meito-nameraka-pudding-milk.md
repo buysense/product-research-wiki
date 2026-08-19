@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0983/783a18fbf8bcc8e74ad6a03d463aa0b87726ef3ff229ad8575566f0ccef6.jpg
+title: 메이토 나메라카 푸딩 밀크 구매 가이드
+date: 2026-04-17
+description: 메이토 나메라카 푸딩 밀크는 부드러운 식감과 진한 우유 맛이 특징인 일본산 푸딩으로, 간식이나 디저트로 즐기기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0983/783a18fbf8bcc8e74ad6a03d463aa0b87726ef3ff229ad8575566f0ccef6.jpg
-title: 메이토 나메라카 푸딩 밀크 구매 가이드
-date: 2026-04-17
-description: 메이토 나메라카 푸딩 밀크는 부드러운 식감과 진한 우유 맛이 특징인 일본산 푸딩으로, 간식이나 디저트로 즐기기 좋습니다.
----
 
 
 

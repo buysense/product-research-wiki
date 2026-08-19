@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/36555813883701-dae93e9c-b474-4d2d-8421-a55c128357f8.jpg
+title: 롯데제로 초콜릿 칩 쿠키 구매 가이드
+date: 2026-05-12
+description: 롯데제로 초콜릿 칩 쿠키는 설탕과 당류가 0g인 초콜릿 칩 쿠키로, 식단 관리 중이나 당 섭취를 줄이고 싶은 소비자가 부담 없이 즐기기 좋습니다. 개별 포장되어 휴대하기 편리합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/36555813883701-dae93e9c-b474-4d2d-8421-a55c128357f8.jpg
-title: 롯데제로 초콜릿 칩 쿠키 구매 가이드
-date: 2026-05-12
-description: 롯데제로 초콜릿 칩 쿠키는 설탕과 당류가 0g인 초콜릿 칩 쿠키로, 식단 관리 중이나 당 섭취를 줄이고 싶은 소비자가 부담 없이 즐기기 좋습니다. 개별 포장되어 휴대하기 편리합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/feb2/6af4f22a0468f9b0c83f3ea13b663ddf396952260d9b709582c2fa7e489b.jpg
+title: 엄브로 UMBRO HBL 우먼스 블록코어 반팔 스모킹 탑 화이트 구매 가이드
+date: 2026-07-31
+description: 엄브로 UMBRO HBL 우먼스 블록코어 반팔 스모킹 탑 화이트는 트렌디한 블록코어 디자인과 편안한 스모킹 디테일이 특징으로, 일상적인 캐주얼룩이나 활동적인 여름 코디에 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -60,12 +66,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/feb2/6af4f22a0468f9b0c83f3ea13b663ddf396952260d9b709582c2fa7e489b.jpg
-title: 엄브로 UMBRO HBL 우먼스 블록코어 반팔 스모킹 탑 화이트 구매 가이드
-date: 2026-07-31
-description: 엄브로 UMBRO HBL 우먼스 블록코어 반팔 스모킹 탑 화이트는 트렌디한 블록코어 디자인과 편안한 스모킹 디테일이 특징으로, 일상적인 캐주얼룩이나 활동적인 여름 코디에 활용하기 좋습니다.
----
 
 
 

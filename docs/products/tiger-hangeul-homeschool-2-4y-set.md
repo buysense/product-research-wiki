@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd56/244f646e80197b9b014d4db601c5b8d477c16ebff5a971d313ca6365c709.jpeg
+title: 타이거 한글홈스쿨 만2~4세 10권세트 구매 가이드
+date: 2026-04-29
+description: 타이거 한글홈스쿨 만2~4세 10권세트는 가정에서 만 2세부터 4세 아이에게 체계적인 한글 학습을 시작할 수 있도록 돕는 교재 세트입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -68,12 +74,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd56/244f646e80197b9b014d4db601c5b8d477c16ebff5a971d313ca6365c709.jpeg
-title: 타이거 한글홈스쿨 만2~4세 10권세트 구매 가이드
-date: 2026-04-29
-description: 타이거 한글홈스쿨 만2~4세 10권세트는 가정에서 만 2세부터 4세 아이에게 체계적인 한글 학습을 시작할 수 있도록 돕는 교재 세트입니다.
----
 
 
 

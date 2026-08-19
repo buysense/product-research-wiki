@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9bb2/fa2467c333823621107bcf3abcba125050c171baf98e21f1fdab4a42a1e4.jpg
+title: 알로 볼캡 구매 가이드
+date: 2026-05-08
+description: 알로 볼캡은 데일리 캐주얼룩이나 애슬레저 스타일에 활용하기 좋은 패션 아이템으로, 디자인과 편안함을 중시하는 소비자를 위한 구매 가이드입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9bb2/fa2467c333823621107bcf3abcba125050c171baf98e21f1fdab4a42a1e4.jpg
-title: 알로 볼캡 구매 가이드
-date: 2026-05-08
-description: 알로 볼캡은 데일리 캐주얼룩이나 애슬레저 스타일에 활용하기 좋은 패션 아이템으로, 디자인과 편안함을 중시하는 소비자를 위한 구매 가이드입니다.
----
 
 
 

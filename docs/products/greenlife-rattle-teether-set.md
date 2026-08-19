@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/09/01/19/0/ccf3ece4-7e63-4d51-bf8c-747730dd4bef.jpg
+title: Greenlife 딸랑이 + 치발기 세트 구매 가이드
+date: 2024-05-30
+description: Greenlife 딸랑이 + 치발기 세트는 옥수수 전분 PLA 소재로 만들어져 구강기 아기들의 안전한 소근육 발달과 놀이를 돕는 제품입니다. 출산 선물이나 3개월 이상 아기의 외출 필수품으로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/09/01/19/0/ccf3ece4-7e63-4d51-bf8c-747730dd4bef.jpg
-title: Greenlife 딸랑이 + 치발기 세트 구매 가이드
-date: 2024-05-30
-description: Greenlife 딸랑이 + 치발기 세트는 옥수수 전분 PLA 소재로 만들어져 구강기 아기들의 안전한 소근육 발달과 놀이를 돕는 제품입니다. 출산 선물이나 3개월 이상 아기의 외출 필수품으로 적합합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/508057741407956-b6abc340-3ba3-4113-a9b5-5c622490a5fc.jpg
+title: 요미요미 유기농 주스 과일믹스, 125ml, 24개 구매 가이드
+date: 2026-06-02
+description: 아이들의 건강한 간식과 외출용 음료로 적합한 요미요미 유기농 주스 과일믹스는 125ml 소용량으로 6개월 이상 아이부터 섭취 가능하며, 유기농 과일 원료와 무첨가 성분이 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -92,12 +98,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/508057741407956-b6abc340-3ba3-4113-a9b5-5c622490a5fc.jpg
-title: 요미요미 유기농 주스 과일믹스, 125ml, 24개 구매 가이드
-date: 2026-06-02
-description: 아이들의 건강한 간식과 외출용 음료로 적합한 요미요미 유기농 주스 과일믹스는 125ml 소용량으로 6개월 이상 아이부터 섭취 가능하며, 유기농 과일 원료와 무첨가 성분이 특징입니다.
----
 
 
 

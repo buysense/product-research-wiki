@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6c07/73c53f25c5c038df6e1054c77ee26835fe45d4c07567e0a1ff49f651d733.jpg
+title: 타낫 모션 트랙 자켓 구매 가이드
+date: 2026-06-10
+description: 타낫 모션 트랙 자켓은 뛰어난 활동성과 세련된 디자인으로 가벼운 운동이나 일상생활에서 편안함과 스타일을 동시에 제공하는 기능성 자켓입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -67,12 +73,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6c07/73c53f25c5c038df6e1054c77ee26835fe45d4c07567e0a1ff49f651d733.jpg
-title: 타낫 모션 트랙 자켓 구매 가이드
-date: 2026-06-10
-description: 타낫 모션 트랙 자켓은 뛰어난 활동성과 세련된 디자인으로 가벼운 운동이나 일상생활에서 편안함과 스타일을 동시에 제공하는 기능성 자켓입니다.
----
 
 
 

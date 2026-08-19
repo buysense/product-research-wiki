@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5197/599d36dbdb557fa847d79c4837399e1063a583a62bf1a47c03721c6c2a84.jpg
+title: 마이크로 초경량 트라이크 디럭스 구매 가이드
+date: 2026-05-20
+description: 마이크로 초경량 트라이크 디럭스는 뛰어난 휴대성과 가벼운 무게를 자랑하며, 도시 외출이나 여행 시 아이와 함께 편안하게 이동하고 싶은 부모님에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5197/599d36dbdb557fa847d79c4837399e1063a583a62bf1a47c03721c6c2a84.jpg
-title: 마이크로 초경량 트라이크 디럭스 구매 가이드
-date: 2026-05-20
-description: 마이크로 초경량 트라이크 디럭스는 뛰어난 휴대성과 가벼운 무게를 자랑하며, 도시 외출이나 여행 시 아이와 함께 편안하게 이동하고 싶은 부모님에게 적합합니다.
----
 
 
 

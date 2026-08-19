@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/187819524542020-d666be77-580a-49cc-be07-a6cb964640aa.jpg
+title: 레고 듀플로 브릭 박스 10913 구매 가이드
+date: 2026-07-03
+description: 레고 듀플로 브릭 박스 10913은 18개월 이상 영유아를 위한 첫 블록 장난감으로, 큰 브릭과 안전성, 뛰어난 창의력 발달 기회를 제공하여 아이의 성장을 돕습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -94,12 +100,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/187819524542020-d666be77-580a-49cc-be07-a6cb964640aa.jpg
-title: 레고 듀플로 브릭 박스 10913 구매 가이드
-date: 2026-07-03
-description: 레고 듀플로 브릭 박스 10913은 18개월 이상 영유아를 위한 첫 블록 장난감으로, 큰 브릭과 안전성, 뛰어난 창의력 발달 기회를 제공하여 아이의 성장을 돕습니다.
----
 
 
 

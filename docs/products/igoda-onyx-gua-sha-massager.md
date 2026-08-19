@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/79119368208365-e440eaff-20b2-4b31-a9e6-5eab48db09e7.jpg
+title: 이고다 오닉스 핸드 괄사 마사지기 구매 가이드
+date: 2026-04-20
+description: 이고다 오닉스 핸드 괄사 마사지기는 두피, 얼굴, 바디 관리를 위한 3종 세트 괄사로, 집에서 셀프케어를 원하는 소비자가 뭉친 부위를 시원하게 풀어주거나 붓기를 관리할 때 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/79119368208365-e440eaff-20b2-4b31-a9e6-5eab48db09e7.jpg
-title: 이고다 오닉스 핸드 괄사 마사지기 구매 가이드
-date: 2026-04-20
-description: 이고다 오닉스 핸드 괄사 마사지기는 두피, 얼굴, 바디 관리를 위한 3종 세트 괄사로, 집에서 셀프케어를 원하는 소비자가 뭉친 부위를 시원하게 풀어주거나 붓기를 관리할 때 활용하기 좋습니다.
----
 
 
 

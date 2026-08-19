@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3e1c/2fe134210247f6f9da6281e7299253fb9ee7a14e9d2bc1a1e3e1b187a8ec.jpg
+title: UCANBE 아이섀도우 팔레트 구매 가이드
+date: 2026-06-01
+description: UCANBE 아이섀도우 팔레트는 다양한 메이크업 룩 연출을 위한 다채로운 색상 구성과 활용도를 제공하며, 일상 및 특별한 날 사용에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3e1c/2fe134210247f6f9da6281e7299253fb9ee7a14e9d2bc1a1e3e1b187a8ec.jpg
-title: UCANBE 아이섀도우 팔레트 구매 가이드
-date: 2026-06-01
-description: UCANBE 아이섀도우 팔레트는 다양한 메이크업 룩 연출을 위한 다채로운 색상 구성과 활용도를 제공하며, 일상 및 특별한 날 사용에 적합합니다.
----
 
 
 

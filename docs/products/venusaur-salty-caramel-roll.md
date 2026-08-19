@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3e3a/1a885636a175bb66a8e6961e5b3c155e86ba7f131ed492b73dad13e2d2fc.jpg
+title: 이상해꽃의 솔티카라멜롤 구매 가이드
+date: 2026-05-05
+description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카라멜의 조화가 돋보이는 롤케이크입니다. 달콤하고 짭짤한 맛으로 간식이나 디저트, 가벼운 선물용으로 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3e3a/1a885636a175bb66a8e6961e5b3c155e86ba7f131ed492b73dad13e2d2fc.jpg
-title: 이상해꽃의 솔티카라멜롤 구매 가이드
-date: 2026-05-05
-description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카라멜의 조화가 돋보이는 롤케이크입니다. 달콤하고 짭짤한 맛으로 간식이나 디저트, 가벼운 선물용으로 좋습니다.
----
 
 
 

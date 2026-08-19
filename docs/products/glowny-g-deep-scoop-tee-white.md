@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ebff/1ce53ac119e487367a9f6edcc7297f60f5d47afb2929259756d66eb4cb8b.jpg
+title: GLOWNY 글로니 G DEEP SCOOP TEE (WHITE) 구매 가이드
+date: 2026-07-21
+description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 깊은 넥라인이 특징인 기본 티셔츠로, 일상적인 캐주얼 스타일이나 레이어드룩에 활용하기 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -72,12 +78,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ebff/1ce53ac119e487367a9f6edcc7297f60f5d47afb2929259756d66eb4cb8b.jpg
-title: GLOWNY 글로니 G DEEP SCOOP TEE (WHITE) 구매 가이드
-date: 2026-07-21
-description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 깊은 넥라인이 특징인 기본 티셔츠로, 일상적인 캐주얼 스타일이나 레이어드룩에 활용하기 적합합니다.
----
 
 
 

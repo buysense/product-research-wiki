@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/628d/5342a905e2bb877946f243232ca6d94c0bd8db8bb67be0d4f59997acdf83.jpg
+title: 풍국면 들기름 막국수 6인분 798g, 2개 구매 가이드
+date: 2026-05-12
+description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 만든 탄력 있는 메밀면과 진한 들기름의 고소함이 특징입니다. 온 가족 간편식이나 더운 날씨에 불 없이 즐기기 좋은 별미로, 전문점 수준의 막국수를 집에서 손쉽게 맛볼 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/628d/5342a905e2bb877946f243232ca6d94c0bd8db8bb67be0d4f59997acdf83.jpg
-title: 풍국면 들기름 막국수 6인분 798g, 2개 구매 가이드
-date: 2026-05-12
-description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 만든 탄력 있는 메밀면과 진한 들기름의 고소함이 특징입니다. 온 가족 간편식이나 더운 날씨에 불 없이 즐기기 좋은 별미로, 전문점 수준의 막국수를 집에서 손쉽게 맛볼 수 있습니다.
----
 
 
 

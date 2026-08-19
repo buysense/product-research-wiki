@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d3c3/a78dece96dc825abb8b60a11cab476d531ba5f6302d6619809321e61ff15.png
+title: 코이체 자동차 접이식 트렁크 정리함 대형66L 구매 가이드
+date: 2026-05-20
+description: 코이체 자동차 접이식 트렁크 정리함 대형66L은 튼튼한 PP 소재로 차량 트렁크를 깔끔하게 정리하고 캠핑, 쇼핑 등 다양한 상황에서 활용하기 좋은 대용량 수납 솔루션입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d3c3/a78dece96dc825abb8b60a11cab476d531ba5f6302d6619809321e61ff15.png
-title: 코이체 자동차 접이식 트렁크 정리함 대형66L 구매 가이드
-date: 2026-05-20
-description: 코이체 자동차 접이식 트렁크 정리함 대형66L은 튼튼한 PP 소재로 차량 트렁크를 깔끔하게 정리하고 캠핑, 쇼핑 등 다양한 상황에서 활용하기 좋은 대용량 수납 솔루션입니다.
----
 
 
 

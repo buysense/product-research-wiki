@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/17f8/47b4f9c4674e0721180ca0fef86a3c8d085492414fab163fd45feb88fa35.jpg
+title: 플라이밀 단백질 쉐이크 파우치 스타터팩 구매 가이드
+date: 2026-04-10
+description: 플라이밀 단백질 쉐이크 파우치 스타터팩은 13가지 다양한 맛과 간편한 휴대성으로 식단 관리나 바쁜 일상 속 한 끼 대용으로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -70,12 +76,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/17f8/47b4f9c4674e0721180ca0fef86a3c8d085492414fab163fd45feb88fa35.jpg
-title: 플라이밀 단백질 쉐이크 파우치 스타터팩 구매 가이드
-date: 2026-04-10
-description: 플라이밀 단백질 쉐이크 파우치 스타터팩은 13가지 다양한 맛과 간편한 휴대성으로 식단 관리나 바쁜 일상 속 한 끼 대용으로 적합합니다.
----
 
 
 

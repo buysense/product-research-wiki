@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2bda651f-181b-4ab9-a2af-e002e3f1680c10302076699210871846.png
+title: 풍심당 국내산 연근칩 구매 가이드
+date: 2026-05-12
+description: 풍심당 국내산 연근칩은 국내산 연근을 주원료로 한 건강 간식입니다. 아기 간식, 다이어트 중 입이 심심할 때, 또는 일상에서 건강하게 바삭한 맛을 즐기고 싶을 때 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2bda651f-181b-4ab9-a2af-e002e3f1680c10302076699210871846.png
-title: 풍심당 국내산 연근칩 구매 가이드
-date: 2026-05-12
-description: 풍심당 국내산 연근칩은 국내산 연근을 주원료로 한 건강 간식입니다. 아기 간식, 다이어트 중 입이 심심할 때, 또는 일상에서 건강하게 바삭한 맛을 즐기고 싶을 때 적합합니다.
----
 
 
 

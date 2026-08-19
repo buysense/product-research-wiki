@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b6b1/7662efd1ec0178a2fe82e90647e1184e1ba1d18a48e6260c6d321e88ef66.png
+title: 호미펫 움직이는 춤추는 오징어장난감 구매 가이드
+date: 2026-04-23
+description: 호미펫 움직이는 춤추는 오징어장난감은 SNS에서 화제된 아이템으로, 아이들 선물, 반려동물 놀이, 스트레스 해소 등 다양한 상황에서 즐거움을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b6b1/7662efd1ec0178a2fe82e90647e1184e1ba1d18a48e6260c6d321e88ef66.png
-title: 호미펫 움직이는 춤추는 오징어장난감 구매 가이드
-date: 2026-04-23
-description: 호미펫 움직이는 춤추는 오징어장난감은 SNS에서 화제된 아이템으로, 아이들 선물, 반려동물 놀이, 스트레스 해소 등 다양한 상황에서 즐거움을 제공합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1c75/3bd1cc9d0f2a7f59616381e63cd75f9f668df061ae59523ace80f7eee823.png
+title: 디엘라 여성숄더백 버킷백 구매 가이드
+date: 2026-07-25
+description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주얼한 모임, 가벼운 여행 등 다양한 상황에서 활용하기 좋은 디자인과 수납력을 겸비한 가방입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1c75/3bd1cc9d0f2a7f59616381e63cd75f9f668df061ae59523ace80f7eee823.png
-title: 디엘라 여성숄더백 버킷백 구매 가이드
-date: 2026-07-25
-description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주얼한 모임, 가벼운 여행 등 다양한 상황에서 활용하기 좋은 디자인과 수납력을 겸비한 가방입니다.
----
 
 
 

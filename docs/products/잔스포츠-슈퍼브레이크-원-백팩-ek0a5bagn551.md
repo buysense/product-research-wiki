@@ -1,3 +1,8 @@
+---
+title: 잔스포츠 슈퍼브레이크 원 백팩 EK0A5BAGN551 구매 가이드
+date: 2026-03-13
+description: 잔스포츠(JanSport) 슈퍼브레이크 원(Superbreak One) 백팩은 수십 년간 이어온 슈퍼브레이크 시리즈의 클래식한 DNA를 계승한 데일리 백팩입니다. 출시 연도는 공식 자료 미확인으로 미공개이나, 현재까지 학생·직장인·여행자 등 다양...
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,11 +91,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-title: 잔스포츠 슈퍼브레이크 원 백팩 EK0A5BAGN551 구매 가이드
-date: 2026-03-13
-description: 잔스포츠(JanSport) 슈퍼브레이크 원(Superbreak One) 백팩은 수십 년간 이어온 슈퍼브레이크 시리즈의 클래식한 DNA를 계승한 데일리 백팩입니다. 출시 연도는 공식 자료 미확인으로 미공개이나, 현재까지 학생·직장인·여행자 등 다양...
----
 
 
 

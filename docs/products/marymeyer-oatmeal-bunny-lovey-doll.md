@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1060672887502049-f9876564-f0eb-4d64-98ff-82f3059f5753.jpg
+title: 메리메이어 오트밀 버니 애착인형 구매 가이드
+date: 2026-06-08
+description: 메리메이어 오트밀 버니 애착인형은 부드러운 촉감과 가벼운 무게로 신생아 첫 애착인형, 외출용, 선물용으로 적합한 토끼 디자인의 아기 인형입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1060672887502049-f9876564-f0eb-4d64-98ff-82f3059f5753.jpg
-title: 메리메이어 오트밀 버니 애착인형 구매 가이드
-date: 2026-06-08
-description: 메리메이어 오트밀 버니 애착인형은 부드러운 촉감과 가벼운 무게로 신생아 첫 애착인형, 외출용, 선물용으로 적합한 토끼 디자인의 아기 인형입니다.
----
 
 
 

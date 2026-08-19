@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/58ce/2ecae2fd100e201c7c1a9defdf222f422531b1506e6ca4515debaa74991b.jpg
+title: NOT4NERD W Polka Dot Lace Trim Sleeveless - White 구매 가이드
+date: 2026-07-04
+description: NOT4NERD W 폴카 도트 레이스 트림 슬리브리스 화이트는 여성스러운 레이스와 폴카 도트 디자인이 돋보이는 민소매 탑으로, 데일리룩부터 데이트룩까지 다양하게 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -66,12 +72,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/58ce/2ecae2fd100e201c7c1a9defdf222f422531b1506e6ca4515debaa74991b.jpg
-title: NOT4NERD W Polka Dot Lace Trim Sleeveless - White 구매 가이드
-date: 2026-07-04
-description: NOT4NERD W 폴카 도트 레이스 트림 슬리브리스 화이트는 여성스러운 레이스와 폴카 도트 디자인이 돋보이는 민소매 탑으로, 데일리룩부터 데이트룩까지 다양하게 활용하기 좋습니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70027550660842-a328b31d-ea7c-47c7-925a-d3e0389a8e8c.jpg
+title: 아토팜 판테놀 크림, 100ml, 1개 구매 가이드
+date: 2026-06-11
+description: 건조하고 민감한 피부, 아기 피부 진정 및 보습에 효과적인 아토팜 판테놀 크림. 피부 장벽 강화와 편안한 사용감을 제공하여 환절기 온 가족 보습 관리용으로 추천합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -92,12 +98,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70027550660842-a328b31d-ea7c-47c7-925a-d3e0389a8e8c.jpg
-title: 아토팜 판테놀 크림, 100ml, 1개 구매 가이드
-date: 2026-06-11
-description: 건조하고 민감한 피부, 아기 피부 진정 및 보습에 효과적인 아토팜 판테놀 크림. 피부 장벽 강화와 편안한 사용감을 제공하여 환절기 온 가족 보습 관리용으로 추천합니다.
----
 
 
 

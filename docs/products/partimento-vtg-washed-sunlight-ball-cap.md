@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/678e/7b8f483f3c201841948a128e9cc5223dd2cce563c77c13363425ef9d929f.jpg
+title: 파르티멘토 PARTIMENTO VTG 워시드 리뉴얼 선라이트 볼 캡 아이보리 블랙 구매 가이드
+date: 2026-08-12
+description: 파르티멘토 VTG 워시드 리뉴얼 선라이트 볼 캡은 자연스러운 빈티지 워싱과 편안한 착용감이 특징인 모자로, 일상 캐주얼룩 및 야외 활동에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -36,12 +42,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/678e/7b8f483f3c201841948a128e9cc5223dd2cce563c77c13363425ef9d929f.jpg
-title: 파르티멘토 PARTIMENTO VTG 워시드 리뉴얼 선라이트 볼 캡 아이보리 블랙 구매 가이드
-date: 2026-08-12
-description: 파르티멘토 VTG 워시드 리뉴얼 선라이트 볼 캡은 자연스러운 빈티지 워싱과 편안한 착용감이 특징인 모자로, 일상 캐주얼룩 및 야외 활동에 적합합니다.
----
 
 
 

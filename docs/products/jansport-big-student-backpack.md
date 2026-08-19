@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/21/16/2/95fa6cc5-7736-406e-b7d7-76c00f4be60f.jpg
+title: 잔스포츠 빅스튜던트 구매 가이드
+date: 2026-04-28
+description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공간과 편안한 착용감을 제공하여 중고등학생들의 학용품이나 여행용품을 보관하기에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -91,12 +97,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/21/16/2/95fa6cc5-7736-406e-b7d7-76c00f4be60f.jpg
-title: 잔스포츠 빅스튜던트 구매 가이드
-date: 2026-04-28
-description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공간과 편안한 착용감을 제공하여 중고등학생들의 학용품이나 여행용품을 보관하기에 적합합니다.
----
 
 
 

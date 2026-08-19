@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d77f/4a1b847809d5a6c0ad2fe054a8d0aa9d1dec54142c8895b962043377ff4b.png
+title: BTS 흑설탕 호떡 오레오 방탄소년단 한정판 에디션 구매 가이드
+date: 2026-06-10
+description: 방탄소년단 한정판으로 출시된 흑설탕 호떡 맛 오레오를 기념품, 특별한 간식, 또는 소장용으로 찾는 소비자를 위한 구매 가이드입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d77f/4a1b847809d5a6c0ad2fe054a8d0aa9d1dec54142c8895b962043377ff4b.png
-title: BTS 흑설탕 호떡 오레오 방탄소년단 한정판 에디션 구매 가이드
-date: 2026-06-10
-description: 방탄소년단 한정판으로 출시된 흑설탕 호떡 맛 오레오를 기념품, 특별한 간식, 또는 소장용으로 찾는 소비자를 위한 구매 가이드입니다.
----
 
 
 

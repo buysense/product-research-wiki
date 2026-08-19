@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/330307286/349941074/main/9791193506981_L.jpg
+title: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙 구매 가이드"
+date: 2026-05-27
+description: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙은 아이의 감정 및 행동을 뇌 발달 관점에서 이해하도록 돕는 부모를 위한 실용적인 지침서입니다."
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/330307286/349941074/main/9791193506981_L.jpg
-title: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙 구매 가이드"
-date: 2026-05-27
-description: "아이의 뇌: 뇌과학에서 찾아낸 4가지 양육 원칙은 아이의 감정 및 행동을 뇌 발달 관점에서 이해하도록 돕는 부모를 위한 실용적인 지침서입니다."
----
 
 
 

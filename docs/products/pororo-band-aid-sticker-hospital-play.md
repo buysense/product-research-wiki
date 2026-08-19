@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1167367322366851-8c353214-3ccd-4fe6-a079-e3d43a73806f.jpg
+title: 뽀로로 반창고 스티커 병원놀이 구매 가이드
+date: 2026-06-08
+description: 뽀로로 반창고 스티커 병원놀이는 아이들이 의사, 환자 역할을 하며 병원 상황을 이해하고 공감 능력을 키우는 역할놀이 장난감입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -99,12 +105,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1167367322366851-8c353214-3ccd-4fe6-a079-e3d43a73806f.jpg
-title: 뽀로로 반창고 스티커 병원놀이 구매 가이드
-date: 2026-06-08
-description: 뽀로로 반창고 스티커 병원놀이는 아이들이 의사, 환자 역할을 하며 병원 상황을 이해하고 공감 능력을 키우는 역할놀이 장난감입니다.
----
 
 
 

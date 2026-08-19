@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f724/96c7781a748cd3aff97c4dfdb1ebd36fb24ab973b8a88d26fcc003d51555.jpg
+title: 홈이즈스토리 수달인형 구매 가이드
+date: 2026-04-13
+description: 홈이즈스토리 수달인형은 30cm 크기의 귀여운 봉제인형으로, 부드러운 촉감과 두건, 물고기 디테일이 특징입니다. 아이들 애착인형이나 소중한 사람을 위한 선물로 인기가 많습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -69,12 +75,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f724/96c7781a748cd3aff97c4dfdb1ebd36fb24ab973b8a88d26fcc003d51555.jpg
-title: 홈이즈스토리 수달인형 구매 가이드
-date: 2026-04-13
-description: 홈이즈스토리 수달인형은 30cm 크기의 귀여운 봉제인형으로, 부드러운 촉감과 두건, 물고기 디테일이 특징입니다. 아이들 애착인형이나 소중한 사람을 위한 선물로 인기가 많습니다.
----
 
 
 

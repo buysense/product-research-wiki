@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/33a0/f7863052d899a6d9d7946a1c0035a580fa73d7bf49621c8306ba8ec9bd29.jpg
+title: iSDG 마라탕 컵라면 구매 가이드
+date: 2026-04-17
+description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼하고 진한 마라맛이 특징입니다. 집에서 간편하게 마라탕을 즐기거나 스트레스를 풀고 싶을 때 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/33a0/f7863052d899a6d9d7946a1c0035a580fa73d7bf49621c8306ba8ec9bd29.jpg
-title: iSDG 마라탕 컵라면 구매 가이드
-date: 2026-04-17
-description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼하고 진한 마라맛이 특징입니다. 집에서 간편하게 마라탕을 즐기거나 스트레스를 풀고 싶을 때 적합합니다.
----
 
 
 

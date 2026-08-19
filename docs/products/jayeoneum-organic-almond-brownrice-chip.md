@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fe89/98ae351b027ec7ac4c04702e7eaf04d1fdf8bad8dc4b1dcc79ba59f34bb8.jpg
+title: 자연이음 유기농 구운 아몬드 현미칩 구매 가이드
+date: 2026-05-12
+description: 자연이음 유기농 구운 아몬드 현미칩은 당뇨식이나 다이어트 중 건강한 간식을 찾는 소비자를 위한 바삭하고 담백한 비유탕 스낵입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fe89/98ae351b027ec7ac4c04702e7eaf04d1fdf8bad8dc4b1dcc79ba59f34bb8.jpg
-title: 자연이음 유기농 구운 아몬드 현미칩 구매 가이드
-date: 2026-05-12
-description: 자연이음 유기농 구운 아몬드 현미칩은 당뇨식이나 다이어트 중 건강한 간식을 찾는 소비자를 위한 바삭하고 담백한 비유탕 스낵입니다.
----
 
 
 

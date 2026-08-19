@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/121e/342a632963bb8e6dc8491734f2c8dc5caeead27967db083df7b57ea0e3db.jpg
+title: 야끼소바 U.F.O. 구매 가이드
+date: 2026-04-10
+description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 소스 기반의 감칠맛과 쫄깃한 면발이 특징인 일본 대표 컵 볶음면입니다. 일본 여행 기념품이나 간편한 식사, 야식으로 인기가 많습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/121e/342a632963bb8e6dc8491734f2c8dc5caeead27967db083df7b57ea0e3db.jpg
-title: 야끼소바 U.F.O. 구매 가이드
-date: 2026-04-10
-description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 소스 기반의 감칠맛과 쫄깃한 면발이 특징인 일본 대표 컵 볶음면입니다. 일본 여행 기념품이나 간편한 식사, 야식으로 인기가 많습니다.
----
 
 
 

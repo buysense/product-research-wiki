@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e5db/6c0db3b0c5928350cb52bf6bca21db0507bd44742bce5204832d2d888a4c.jpg
+title: 애리조 태닝 크림 구매 가이드
+date: 2026-04-18
+description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 피부를 연출하고자 할 때 사용되는 제품으로, 밀착력과 지속력이 좋은 것이 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e5db/6c0db3b0c5928350cb52bf6bca21db0507bd44742bce5204832d2d888a4c.jpg
-title: 애리조 태닝 크림 구매 가이드
-date: 2026-04-18
-description: 애리조 태닝 크림은 라틴 스타일의 건강한 구릿빛 피부를 연출하고자 할 때 사용되는 제품으로, 밀착력과 지속력이 좋은 것이 특징입니다.
----
 
 
 

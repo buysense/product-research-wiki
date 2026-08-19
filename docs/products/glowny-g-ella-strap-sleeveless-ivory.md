@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2789/db2aa8d9a63fe88f6c0955da356cc2302e7c072d32de3c542ff7e66c6c5e.jpg
+title: 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245 구매 가이드
+date: 2026-08-18
+description: 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245는 스트랩 디테일이 돋보이는 아이보리 민소매 상의로, 단독 착용이나 레이어드 스타일링에 활용됩니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -36,12 +42,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2789/db2aa8d9a63fe88f6c0955da356cc2302e7c072d32de3c542ff7e66c6c5e.jpg
-title: 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245 구매 가이드
-date: 2026-08-18
-description: 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245는 스트랩 디테일이 돋보이는 아이보리 민소매 상의로, 단독 착용이나 레이어드 스타일링에 활용됩니다.
----
 
 
 

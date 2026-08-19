@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/320222960391344-9f068c76-f808-4fbd-907e-a3f055f38a01.jpg
+title: 롯데웰푸드 티코 밀크초코 저당 (냉동) 구매 가이드
+date: 2026-05-12
+description: 롯데웰푸드 티코 밀크초코 저당은 부담 없이 즐길 수 있는 저당 아이스크림으로, 식후 간식이나 아이들 간식, 다이어트 중 달콤한 유혹을 해결하고 싶을 때 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -88,12 +94,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/320222960391344-9f068c76-f808-4fbd-907e-a3f055f38a01.jpg
-title: 롯데웰푸드 티코 밀크초코 저당 (냉동) 구매 가이드
-date: 2026-05-12
-description: 롯데웰푸드 티코 밀크초코 저당은 부담 없이 즐길 수 있는 저당 아이스크림으로, 식후 간식이나 아이들 간식, 다이어트 중 달콤한 유혹을 해결하고 싶을 때 적합합니다.
----
 
 
 

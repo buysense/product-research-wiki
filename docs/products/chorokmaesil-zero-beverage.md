@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9c3c/a01f5016eece9bfa5c70b3161636c2bbe6a54124536b5d4e7863cbb69c34.jpg
+title: 초록매실 제로 구매 가이드
+date: 2026-04-28
+description: 초록매실 제로는 칼로리 부담 없이 기존 초록매실의 상큼하고 달콤한 맛을 즐길 수 있는 음료입니다. 건강 관리에 신경 쓰는 소비자들이 식후 입가심이나 갈증 해소를 위해 선택하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -101,12 +107,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9c3c/a01f5016eece9bfa5c70b3161636c2bbe6a54124536b5d4e7863cbb69c34.jpg
-title: 초록매실 제로 구매 가이드
-date: 2026-04-28
-description: 초록매실 제로는 칼로리 부담 없이 기존 초록매실의 상큼하고 달콤한 맛을 즐길 수 있는 음료입니다. 건강 관리에 신경 쓰는 소비자들이 식후 입가심이나 갈증 해소를 위해 선택하기 좋습니다.
----
 
 
 

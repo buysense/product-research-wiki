@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cd5e/9ed7a0e1e21f0f5746fc76d2342dc76aaa48a0f5be274363025c65e9acba.jpg
+title: 라임키친 무타공 슬라이딩 선반 구매 가이드
+date: 2026-04-19
+description: 라임키친 무타공 슬라이딩 선반은 주방 싱크대 하부장 및 수납장 내 공간 활용을 극대화하는 접착식 선반입니다. 드릴 없이 간편하게 설치하여 양념, 세제, 소형 주방용품 등을 효율적으로 정리하고 편리하게 꺼낼 수 있어 깔끔한 주방 환경을 원하는 사용자에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cd5e/9ed7a0e1e21f0f5746fc76d2342dc76aaa48a0f5be274363025c65e9acba.jpg
-title: 라임키친 무타공 슬라이딩 선반 구매 가이드
-date: 2026-04-19
-description: 라임키친 무타공 슬라이딩 선반은 주방 싱크대 하부장 및 수납장 내 공간 활용을 극대화하는 접착식 선반입니다. 드릴 없이 간편하게 설치하여 양념, 세제, 소형 주방용품 등을 효율적으로 정리하고 편리하게 꺼낼 수 있어 깔끔한 주방 환경을 원하는 사용자에게 적합합니다.
----
 
 
 

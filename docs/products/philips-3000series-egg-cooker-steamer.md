@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/397575187492117-f4537fea-f1e0-435e-ac4f-efc598b9f364.png
+title: 필립스 3000시리즈 에그 쿠커 계란찜기 구매 가이드
+date: 2026-07-22
+description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준비와 식단 관리를 간편하게 돕는 계란찜기입니다. 최대 6개 동시 조리, 완벽한 반숙 및 완숙 조절 기능으로 일상의 편리함을 더합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/397575187492117-f4537fea-f1e0-435e-ac4f-efc598b9f364.png
-title: 필립스 3000시리즈 에그 쿠커 계란찜기 구매 가이드
-date: 2026-07-22
-description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준비와 식단 관리를 간편하게 돕는 계란찜기입니다. 최대 6개 동시 조리, 완벽한 반숙 및 완숙 조절 기능으로 일상의 편리함을 더합니다.
----
 
 
 

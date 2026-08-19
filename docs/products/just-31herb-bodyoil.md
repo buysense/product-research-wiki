@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf6a/b293aea9683bfa103d632eba6b11ca40bfc7e10c34b3a842fc279337c3e4.jpg
+title: 유스트 31허브 바디오일 구매 가이드
+date: 2026-05-20
+description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 아로마 오일로, 스트레스 완화, 숙면 유도, 뭉친 부위 이완 등 다양한 상황에서 사용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -91,12 +97,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf6a/b293aea9683bfa103d632eba6b11ca40bfc7e10c34b3a842fc279337c3e4.jpg
-title: 유스트 31허브 바디오일 구매 가이드
-date: 2026-05-20
-description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 아로마 오일로, 스트레스 완화, 숙면 유도, 뭉친 부위 이완 등 다양한 상황에서 사용하기 좋습니다.
----
 
 
 

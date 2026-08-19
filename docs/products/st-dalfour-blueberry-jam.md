@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/810975151335912-cc6936e0-847c-478a-9ec2-136ffc5605f1.jpg
+title: 샹달프 블루베리잼 구매 가이드
+date: 2026-05-03
+description: 샹달프 블루베리잼은 설탕 대신 과일 농축액으로 단맛을 내어 과하지 않은 상큼함이 특징이며, 토스트, 요거트, 팬케이크 등 다양한 아침 식사 및 간식에 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -85,12 +91,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/810975151335912-cc6936e0-847c-478a-9ec2-136ffc5605f1.jpg
-title: 샹달프 블루베리잼 구매 가이드
-date: 2026-05-03
-description: 샹달프 블루베리잼은 설탕 대신 과일 농축액으로 단맛을 내어 과하지 않은 상큼함이 특징이며, 토스트, 요거트, 팬케이크 등 다양한 아침 식사 및 간식에 활용하기 좋습니다.
----
 
 
 

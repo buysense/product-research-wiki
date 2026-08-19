@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/8guowcx2/37fd0925c7b749979e91138894cd0b36.png
+title: 아이레빗 아이스론 냉감패드 구매 가이드
+date: 2026-05-27
+description: 아이레빗 아이스론 냉감패드는 신생아 태열 관리 및 여름철 아기 땀띠 예방을 위해 아기 침대, 요람 등에 사용하는 양면 냉감 패드입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/8guowcx2/37fd0925c7b749979e91138894cd0b36.png
-title: 아이레빗 아이스론 냉감패드 구매 가이드
-date: 2026-05-27
-description: 아이레빗 아이스론 냉감패드는 신생아 태열 관리 및 여름철 아기 땀띠 예방을 위해 아기 침대, 요람 등에 사용하는 양면 냉감 패드입니다.
----
 
 
 

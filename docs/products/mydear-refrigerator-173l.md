@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/16bd/eb4248b61479fc60eb347689a018d8d292647e771f61ef2f976cc586ae69.jpg
+title: 마이디어 냉장고 173L 구매 가이드
+date: 2026-07-02
+description: 마이디어 냉장고 173L은 1인 가구, 원룸 또는 서브 냉장고로 적합하며, 효율적인 공간 활용과 실용성을 제공하는 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/16bd/eb4248b61479fc60eb347689a018d8d292647e771f61ef2f976cc586ae69.jpg
-title: 마이디어 냉장고 173L 구매 가이드
-date: 2026-07-02
-description: 마이디어 냉장고 173L은 1인 가구, 원룸 또는 서브 냉장고로 적합하며, 효율적인 공간 활용과 실용성을 제공하는 제품입니다.
----
 
 
 

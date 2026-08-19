@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/624165180499360-8898574a-808e-4bdf-a31b-bdcb762a3ad7.jpg
+title: 데이지크 섀도우 팔레트 구매 가이드
+date: 2026-06-05
+description: 데이지크 섀도우 팔레트는 다양한 색상과 부드러운 발색으로 데일리 메이크업부터 포인트 메이크업까지 활용하기 좋은 팔레트입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/624165180499360-8898574a-808e-4bdf-a31b-bdcb762a3ad7.jpg
-title: 데이지크 섀도우 팔레트 구매 가이드
-date: 2026-06-05
-description: 데이지크 섀도우 팔레트는 다양한 색상과 부드러운 발색으로 데일리 메이크업부터 포인트 메이크업까지 활용하기 좋은 팔레트입니다.
----
 
 
 

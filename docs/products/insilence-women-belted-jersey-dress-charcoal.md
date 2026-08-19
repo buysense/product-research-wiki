@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e493/2ff2a6a9c592d1c7d6c5d311aa71cffd4953f26fb7c455f7b27cbda54b12.jpg
+title: 인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL 구매 가이드
+date: 2026-08-11
+description: 인사일런스 벨티드 져지 원피스 차콜은 편안한 착용감과 세련된 디자인으로 데일리룩, 오피스룩, 캐주얼 모임 등 다양한 상황에 활용하기 좋은 여성 의류입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -37,12 +43,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e493/2ff2a6a9c592d1c7d6c5d311aa71cffd4953f26fb7c455f7b27cbda54b12.jpg
-title: 인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL 구매 가이드
-date: 2026-08-11
-description: 인사일런스 벨티드 져지 원피스 차콜은 편안한 착용감과 세련된 디자인으로 데일리룩, 오피스룩, 캐주얼 모임 등 다양한 상황에 활용하기 좋은 여성 의류입니다.
----
 
 
 

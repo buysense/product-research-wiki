@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f47a/4b7244156791aed29332fe93d724dab88c34b7205b7606f8a6f589c0d6d3.jpg
+title: 락케이크 Classic Henly Neck Top - Gray 구매 가이드
+date: 2026-08-13
+description: 락케이크 Classic Henly Neck Top - Gray는 편안하면서도 세련된 데일리 웨어로, 캐주얼한 일상부터 가벼운 외출까지 다양한 상황에 활용하기 좋은 클래식 헨리넥 상의입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -37,12 +43,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f47a/4b7244156791aed29332fe93d724dab88c34b7205b7606f8a6f589c0d6d3.jpg
-title: 락케이크 Classic Henly Neck Top - Gray 구매 가이드
-date: 2026-08-13
-description: 락케이크 Classic Henly Neck Top - Gray는 편안하면서도 세련된 데일리 웨어로, 캐주얼한 일상부터 가벼운 외출까지 다양한 상황에 활용하기 좋은 클래식 헨리넥 상의입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b9f/632a39b8c3f626a0ee5d25754e3fe48825c3b8ef613190b499ee610b52bf.jpg
+title: 바이오가 우유단백질 로션 구매 가이드
+date: 2026-05-24
+description: 바이오가 우유단백질 로션은 건조하고 민감한 피부를 가진 온 가족이 사계절 내내 순하고 촉촉하게 사용할 수 있는 얼굴·바디 겸용 보습 로션입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,12 +92,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b9f/632a39b8c3f626a0ee5d25754e3fe48825c3b8ef613190b499ee610b52bf.jpg
-title: 바이오가 우유단백질 로션 구매 가이드
-date: 2026-05-24
-description: 바이오가 우유단백질 로션은 건조하고 민감한 피부를 가진 온 가족이 사계절 내내 순하고 촉촉하게 사용할 수 있는 얼굴·바디 겸용 보습 로션입니다.
----
 
 
 

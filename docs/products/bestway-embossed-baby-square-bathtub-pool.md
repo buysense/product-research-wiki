@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/dfcdc543-70da-4f62-ab92-5363e2f921ce_1777256518216.jpeg
+title: 베스트웨이 엠보싱 유아 사각 욕조 풀장 구매 가이드
+date: 2026-05-19
+description: 베스트웨이 엠보싱 유아 사각 욕조 풀장은 집에서 간편하게 물놀이, 볼풀장, 안전한 놀이 공간으로 활용할 수 있는 다용도 육아템입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/dfcdc543-70da-4f62-ab92-5363e2f921ce_1777256518216.jpeg
-title: 베스트웨이 엠보싱 유아 사각 욕조 풀장 구매 가이드
-date: 2026-05-19
-description: 베스트웨이 엠보싱 유아 사각 욕조 풀장은 집에서 간편하게 물놀이, 볼풀장, 안전한 놀이 공간으로 활용할 수 있는 다용도 육아템입니다.
----
 
 
 

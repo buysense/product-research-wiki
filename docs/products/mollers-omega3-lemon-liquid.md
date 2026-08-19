@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/18/13/7/6ced1d86-0d64-4acf-b90d-3ea0b15d725a.jpg
+title: 뭴러스 오메가3 레몬맛 구매 가이드
+date: 2026-05-06
+description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪거나 비린 맛에 민감한 소비자를 위한 액상형 오메가3 제품으로, 상큼한 레몬향으로 부담 없이 섭취할 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -85,12 +91,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/18/13/7/6ced1d86-0d64-4acf-b90d-3ea0b15d725a.jpg
-title: 뭴러스 오메가3 레몬맛 구매 가이드
-date: 2026-05-06
-description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪거나 비린 맛에 민감한 소비자를 위한 액상형 오메가3 제품으로, 상큼한 레몬향으로 부담 없이 섭취할 수 있습니다.
----
 
 
 

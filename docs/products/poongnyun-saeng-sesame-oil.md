@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/fb01ff0e-3a9e-4d5f-9686-aa70a3fba41d_fixing_v2.png
+title: 풍년기름집 생참기름 구매 가이드
+date: 2026-04-14
+description: 풍년기름집 생참기름은 1986년부터 이어온 백년가게의 저온압착 방식으로, 명절 선물 및 건강한 식단을 선호하는 분께 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/fb01ff0e-3a9e-4d5f-9686-aa70a3fba41d_fixing_v2.png
-title: 풍년기름집 생참기름 구매 가이드
-date: 2026-04-14
-description: 풍년기름집 생참기름은 1986년부터 이어온 백년가게의 저온압착 방식으로, 명절 선물 및 건강한 식단을 선호하는 분께 적합합니다.
----
 
 
 

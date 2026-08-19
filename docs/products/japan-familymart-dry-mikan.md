@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5acd/e5449dc2a72ec88a69125a6514549fce0cc1f590e2376ee7f6c529018767.png
+title: 일본패밀리마트 드라이미깡 구매 가이드
+date: 2026-07-30
+description: 일본패밀리마트 드라이미깡은 일본 여행 중 간편하게 즐기거나 선물하기 좋은 건조 귤 스낵입니다. 자연 그대로의 맛을 담아 부담 없이 즐기기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -72,12 +78,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5acd/e5449dc2a72ec88a69125a6514549fce0cc1f590e2376ee7f6c529018767.png
-title: 일본패밀리마트 드라이미깡 구매 가이드
-date: 2026-07-30
-description: 일본패밀리마트 드라이미깡은 일본 여행 중 간편하게 즐기거나 선물하기 좋은 건조 귤 스낵입니다. 자연 그대로의 맛을 담아 부담 없이 즐기기 좋습니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3c06/726b00230a2ea2851f448e00ad15f32608a971c93339626dff782c04fda8.jpg
+title: 스마이즈 그래핀모 칫솔 3.0 구매 가이드
+date: 2026-06-09
+description: 스마이즈 그래핀모 칫솔 3.0은 신소재 그래핀모와 롱 헤드 설계로 잇몸 자극 없이 입안 깊숙한 곳까지 개운하게 세정해주는 데일리 칫솔입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3c06/726b00230a2ea2851f448e00ad15f32608a971c93339626dff782c04fda8.jpg
-title: 스마이즈 그래핀모 칫솔 3.0 구매 가이드
-date: 2026-06-09
-description: 스마이즈 그래핀모 칫솔 3.0은 신소재 그래핀모와 롱 헤드 설계로 잇몸 자극 없이 입안 깊숙한 곳까지 개운하게 세정해주는 데일리 칫솔입니다.
----
 
 
 

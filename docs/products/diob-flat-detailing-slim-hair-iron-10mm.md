@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3913378993617076-65d3ec04-8c43-4321-9af3-50a75874fcbb.jpg
+title: 디오비 플랫 열판 디테일링 슬림 고데기 10mm 구매 가이드
+date: 2026-06-24
+description: 디오비 플랫 열판 디테일링 슬림 고데기 10mm는 섬세한 뿌리 볼륨 연출과 악성 곱슬모 관리에 특화된 제품입니다. 손쉬운 사용감으로 초보자도 자연스러운 스타일링을 돕습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -81,12 +87,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3913378993617076-65d3ec04-8c43-4321-9af3-50a75874fcbb.jpg
-title: 디오비 플랫 열판 디테일링 슬림 고데기 10mm 구매 가이드
-date: 2026-06-24
-description: 디오비 플랫 열판 디테일링 슬림 고데기 10mm는 섬세한 뿌리 볼륨 연출과 악성 곱슬모 관리에 특화된 제품입니다. 손쉬운 사용감으로 초보자도 자연스러운 스타일링을 돕습니다.
----
 
 
 

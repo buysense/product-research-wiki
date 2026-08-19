@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/501a/d598a82fc68fe0c1d1c05c00a6654ecb55af4484eb1c5c41ae35f6b58ad7.png
+title: 오리온 마이구미 포도 제로 슈가 젤리 구매 가이드
+date: 2026-05-12
+description: 오리온 마이구미 포도 제로 슈가 젤리는 설탕 없이 진한 포도 맛과 쫀득한 식감을 즐길 수 있어, 당 섭취를 줄이려는 성인이나 아이 간식으로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/501a/d598a82fc68fe0c1d1c05c00a6654ecb55af4484eb1c5c41ae35f6b58ad7.png
-title: 오리온 마이구미 포도 제로 슈가 젤리 구매 가이드
-date: 2026-05-12
-description: 오리온 마이구미 포도 제로 슈가 젤리는 설탕 없이 진한 포도 맛과 쫀득한 식감을 즐길 수 있어, 당 섭취를 줄이려는 성인이나 아이 간식으로 적합합니다.
----
 
 
 

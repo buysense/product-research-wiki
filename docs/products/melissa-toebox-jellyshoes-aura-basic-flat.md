@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e452/ae3b2a48a52e4b9f3eee6b85025c1981a3952a3fc96f10390190d3a29651.jpg
+title: 멜리사 토박스 젤리슈즈 우먼 아우라 베이직 플랫 구매 가이드
+date: 2026-06-11
+description: 멜리사 토박스 젤리슈즈 우먼 아우라 베이직 플랫은 데일리 캐주얼부터 비 오는 날까지 편안함과 스타일을 겸비한 플랫 슈즈입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -66,12 +72,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e452/ae3b2a48a52e4b9f3eee6b85025c1981a3952a3fc96f10390190d3a29651.jpg
-title: 멜리사 토박스 젤리슈즈 우먼 아우라 베이직 플랫 구매 가이드
-date: 2026-06-11
-description: 멜리사 토박스 젤리슈즈 우먼 아우라 베이직 플랫은 데일리 캐주얼부터 비 오는 날까지 편안함과 스타일을 겸비한 플랫 슈즈입니다.
----
 
 
 

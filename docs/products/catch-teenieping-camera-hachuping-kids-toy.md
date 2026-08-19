@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e9e7/32591e0741e1ef502e7058fa2a7baca39500416a25a46071cbf4efcfabe3.png
+title: 캐치티니핑 카메라 하츄핑 구매 가이드
+date: 2026-07-03
+description: 캐치티니핑 카메라 하츄핑은 귀여운 디자인과 셀카 기능으로 아이들이 사진 놀이를 통해 관찰력과 표현력을 키울 수 있도록 돕는 선물용 어린이 카메라입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -82,12 +88,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e9e7/32591e0741e1ef502e7058fa2a7baca39500416a25a46071cbf4efcfabe3.png
-title: 캐치티니핑 카메라 하츄핑 구매 가이드
-date: 2026-07-03
-description: 캐치티니핑 카메라 하츄핑은 귀여운 디자인과 셀카 기능으로 아이들이 사진 놀이를 통해 관찰력과 표현력을 키울 수 있도록 돕는 선물용 어린이 카메라입니다.
----
 
 
 

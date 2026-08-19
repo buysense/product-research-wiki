@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/81a2/2ce2a39f458270a3db9ba75246cf7b83473bcb4a89f68640b1c2d8c5cb49.png
+title: 의령망개떡 구매 가이드
+date: 2026-05-04
+description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담백한 팥소를 특징으로 하며, 온 가족 간식이나 선물용으로 좋은 전통 떡입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -85,12 +91,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/81a2/2ce2a39f458270a3db9ba75246cf7b83473bcb4a89f68640b1c2d8c5cb49.png
-title: 의령망개떡 구매 가이드
-date: 2026-05-04
-description: 의령망개떡은 신선한 망개잎 향과 쫄깃한 식감, 담백한 팥소를 특징으로 하며, 온 가족 간식이나 선물용으로 좋은 전통 떡입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2a3b/de9636c990c9d44cbc66bebc0e7d44cc2ed22f49d9739ce8c5d3bfe3dcac.jpg
+title: 아이스토리키즈 여름봄무지 7부 플리츠 구매 가이드
+date: 2026-05-11
+description: 아이스토리키즈 여름봄무지 7부 플리츠는 활동량 많은 아이를 위한 편안한 데일리 상하복으로, 부드러운 소재와 통기성이 뛰어나 어린이집 등원룩이나 실내복으로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -89,12 +95,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2a3b/de9636c990c9d44cbc66bebc0e7d44cc2ed22f49d9739ce8c5d3bfe3dcac.jpg
-title: 아이스토리키즈 여름봄무지 7부 플리츠 구매 가이드
-date: 2026-05-11
-description: 아이스토리키즈 여름봄무지 7부 플리츠는 활동량 많은 아이를 위한 편안한 데일리 상하복으로, 부드러운 소재와 통기성이 뛰어나 어린이집 등원룩이나 실내복으로 적합합니다.
----
 
 
 

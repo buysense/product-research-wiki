@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/117b/d561e2176155145d9cb1c4365d15962b4c1ff17dd3dfa96f334dbb4bc70e.jpg
+title: [셋업이엑스이] P/L RAGLAN TOP / BLACK 구매 가이드
+date: 2026-07-04
+description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안함을 중시하는 이들을 위한 상의로, 가벼운 운동이나 일상적인 캐주얼 착용에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -83,12 +89,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/117b/d561e2176155145d9cb1c4365d15962b4c1ff17dd3dfa96f334dbb4bc70e.jpg
-title: [셋업이엑스이] P/L RAGLAN TOP / BLACK 구매 가이드
-date: 2026-07-04
-description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안함을 중시하는 이들을 위한 상의로, 가벼운 운동이나 일상적인 캐주얼 착용에 적합합니다.
----
 
 
 

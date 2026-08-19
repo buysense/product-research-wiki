@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/npr2fwcw/a68743560cac422182b5f4086ffbad70.jpg
+title: 이델리 간편집밥 사골 미역국 구매 가이드
+date: 2026-04-13
+description: 이델리 간편집밥 사골 미역국은 깊고 구수한 사골 베이스에 풍성한 건더기가 특징인 간편식입니다. 바쁜 일상, 캠핑 등 다양한 상황에서 따뜻하고 든든한 한 끼를 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -69,12 +75,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/npr2fwcw/a68743560cac422182b5f4086ffbad70.jpg
-title: 이델리 간편집밥 사골 미역국 구매 가이드
-date: 2026-04-13
-description: 이델리 간편집밥 사골 미역국은 깊고 구수한 사골 베이스에 풍성한 건더기가 특징인 간편식입니다. 바쁜 일상, 캠핑 등 다양한 상황에서 따뜻하고 든든한 한 끼를 제공합니다.
----
 
 
 

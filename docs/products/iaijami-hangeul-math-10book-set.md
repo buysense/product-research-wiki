@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f7b9/5b01d20ff2d87f4d2e09fb927ee998c8e613b188a1565c0f4009ca29b0c9.jpg
+title: 아이재미 한글 수학 각 10권 세트 구매 가이드
+date: 2026-04-29
+description: 아이재미 한글 수학 각 10권 세트는 3~7세 아이들이 집에서 한글과 숫자 개념을 놀이처럼 익힐 수 있도록 돕는 워크북입니다. 스티커, 그림 등 다양한 활동으로 구성되어 학습 부담 없이 자연스러운 흥미 유발에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f7b9/5b01d20ff2d87f4d2e09fb927ee998c8e613b188a1565c0f4009ca29b0c9.jpg
-title: 아이재미 한글 수학 각 10권 세트 구매 가이드
-date: 2026-04-29
-description: 아이재미 한글 수학 각 10권 세트는 3~7세 아이들이 집에서 한글과 숫자 개념을 놀이처럼 익힐 수 있도록 돕는 워크북입니다. 스티커, 그림 등 다양한 활동으로 구성되어 학습 부담 없이 자연스러운 흥미 유발에 적합합니다.
----
 
 
 

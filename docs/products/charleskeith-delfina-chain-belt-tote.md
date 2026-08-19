@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4e9f/f6600a89dd3558f183affa95a97f388363f5fde2567172f8ef47fd57d0d4.jpg
+title: 찰스앤키스 공식 델피나 체인 사이드 벨트 토트백 구매 가이드
+date: 2026-07-07
+description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세련된 디자인과 실용적인 수납력을 겸비하여 일상 외출이나 오피스룩에 포인트를 더하고 싶은 소비자에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4e9f/f6600a89dd3558f183affa95a97f388363f5fde2567172f8ef47fd57d0d4.jpg
-title: 찰스앤키스 공식 델피나 체인 사이드 벨트 토트백 구매 가이드
-date: 2026-07-07
-description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세련된 디자인과 실용적인 수납력을 겸비하여 일상 외출이나 오피스룩에 포인트를 더하고 싶은 소비자에게 적합합니다.
----
 
 
 

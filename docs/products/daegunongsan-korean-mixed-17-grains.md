@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5594/af7207eaa6ffcff4de1174e2791882c830681b26fbb298f3b5aa6e3d4baa.jpg
+title: 대구농산 국산 혼합 17곡 구매 가이드
+date: 2026-04-29
+description: 대구농산 국산 혼합 17곡은 밥맛과 영양을 동시에 잡고 싶은 가정을 위한 곡물 제품입니다. 국산 17가지 곡물로 구성되어 균형 잡힌 식사와 건강 관리에 도움을 줍니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5594/af7207eaa6ffcff4de1174e2791882c830681b26fbb298f3b5aa6e3d4baa.jpg
-title: 대구농산 국산 혼합 17곡 구매 가이드
-date: 2026-04-29
-description: 대구농산 국산 혼합 17곡은 밥맛과 영양을 동시에 잡고 싶은 가정을 위한 곡물 제품입니다. 국산 17가지 곡물로 구성되어 균형 잡힌 식사와 건강 관리에 도움을 줍니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4cc3ad5d-13cd-4b12-8be0-7f651bfa219c9063583350783345023.png
+title: 핑크퐁 아기상어 스트로우타입 젤리 10p 구매 가이드
+date: 2026-06-02
+description: 핑크퐁 아기상어 스트로우타입 젤리 10p는 아이들이 좋아하는 캐릭터 패키지와 간편한 스트로우 타입으로 외출, 캠핑 등 다양한 상황에서 즐기기 좋은 간식입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -81,12 +87,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4cc3ad5d-13cd-4b12-8be0-7f651bfa219c9063583350783345023.png
-title: 핑크퐁 아기상어 스트로우타입 젤리 10p 구매 가이드
-date: 2026-06-02
-description: 핑크퐁 아기상어 스트로우타입 젤리 10p는 아이들이 좋아하는 캐릭터 패키지와 간편한 스트로우 타입으로 외출, 캠핑 등 다양한 상황에서 즐기기 좋은 간식입니다.
----
 
 
 

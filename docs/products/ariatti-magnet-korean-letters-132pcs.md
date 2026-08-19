@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/07/16/14/8/cbaf76a6-0d60-4a49-af7e-7f07951363df.jpg
+title: 아리아띠 자석글자 한글, 1개, 132피스 구매 가이드
+date: 2026-04-29
+description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 한글을 쉽고 재미있게 놀이처럼 익힐 수 있도록 돕는 132피스 교육용 자석 세트입니다. 파스텔톤 색감과 안전한 디자인이 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -92,12 +98,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/07/16/14/8/cbaf76a6-0d60-4a49-af7e-7f07951363df.jpg
-title: 아리아띠 자석글자 한글, 1개, 132피스 구매 가이드
-date: 2026-04-29
-description: 아리아띠 자석글자 한글은 5-6세 아이들이 집에서 한글을 쉽고 재미있게 놀이처럼 익힐 수 있도록 돕는 132피스 교육용 자석 세트입니다. 파스텔톤 색감과 안전한 디자인이 특징입니다.
----
 
 
 

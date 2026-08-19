@@ -1,3 +1,9 @@
+---
+image: https://mrmax.jp/static_files/product_images/4902102123198_01.jpg
+title: 코카콜라 플러스 제로칼로리 구매 가이드
+date: 2026-04-01
+description: 코카콜라 플러스 제로칼로리는 제로 슈거와 식이섬유를 함유하여 식사 중 지방 흡수 억제 및 배변 활동에 도움을 주는 기능성 탄산음료입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -69,12 +75,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://mrmax.jp/static_files/product_images/4902102123198_01.jpg
-title: 코카콜라 플러스 제로칼로리 구매 가이드
-date: 2026-04-01
-description: 코카콜라 플러스 제로칼로리는 제로 슈거와 식이섬유를 함유하여 식사 중 지방 흡수 억제 및 배변 활동에 도움을 주는 기능성 탄산음료입니다.
----
 
 
 

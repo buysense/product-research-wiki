@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3f8d/b2b5260ae4496a97722d3ff38ed97c04e41ef3b9f17247c1ee663c2f75ff.jpg
+title: 참을 수 없는 존재의 가벼움 구매 가이드
+date: 2026-08-02
+description: 밀란 쿤데라의 참을 수 없는 존재의 가벼움은 인간 존재의 본질, 사랑, 자유를 탐구하며 깊은 사유를 즐기는 독자에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -67,12 +73,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3f8d/b2b5260ae4496a97722d3ff38ed97c04e41ef3b9f17247c1ee663c2f75ff.jpg
-title: 참을 수 없는 존재의 가벼움 구매 가이드
-date: 2026-08-02
-description: 밀란 쿤데라의 참을 수 없는 존재의 가벼움은 인간 존재의 본질, 사랑, 자유를 탐구하며 깊은 사유를 즐기는 독자에게 적합합니다.
----
 
 
 

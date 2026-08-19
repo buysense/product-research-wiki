@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/827734813019437-34865c4e-a8f7-4f31-be41-fc1ea4488e2a.jpg
+title: 에코밍글 어깨뿔방지 논슬립 회전형 옷걸이 구매 가이드
+date: 2026-05-25
+description: 에코밍글 어깨뿔방지 논슬립 회전형 옷걸이는 니트, 블라우스 등 옷의 어깨뿔과 늘어짐을 방지하고 옷장 정리를 돕는 실용적인 옷걸이입니다. 미끄럼 방지 및 회전형 고리 기능으로 다양한 의류를 깔끔하게 보관하고 공간 활용도를 높이는 데 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/827734813019437-34865c4e-a8f7-4f31-be41-fc1ea4488e2a.jpg
-title: 에코밍글 어깨뿔방지 논슬립 회전형 옷걸이 구매 가이드
-date: 2026-05-25
-description: 에코밍글 어깨뿔방지 논슬립 회전형 옷걸이는 니트, 블라우스 등 옷의 어깨뿔과 늘어짐을 방지하고 옷장 정리를 돕는 실용적인 옷걸이입니다. 미끄럼 방지 및 회전형 고리 기능으로 다양한 의류를 깔끔하게 보관하고 공간 활용도를 높이는 데 적합합니다.
----
 
 
 

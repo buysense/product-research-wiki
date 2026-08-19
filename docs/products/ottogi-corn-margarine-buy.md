@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31519280387131-b95e82b9-feaf-44e0-bde7-e81f647f476c.png
+title: 오뚜기 옥수수 마아가린 구매 가이드
+date: 2026-05-30
+description: 오뚜기 옥수수 마아가린은 토스트, 계란프라이 등 아침 식사 및 간식 준비에 활용하기 좋은 200g 용량의 식물성 마가린입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31519280387131-b95e82b9-feaf-44e0-bde7-e81f647f476c.png
-title: 오뚜기 옥수수 마아가린 구매 가이드
-date: 2026-05-30
-description: 오뚜기 옥수수 마아가린은 토스트, 계란프라이 등 아침 식사 및 간식 준비에 활용하기 좋은 200g 용량의 식물성 마가린입니다.
----
 
 
 

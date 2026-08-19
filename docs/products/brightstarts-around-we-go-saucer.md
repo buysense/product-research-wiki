@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/441647074689842-4c6ae6c6-9443-43e3-8501-c5535aad276b.jpg
+title: 브라이트스타트 2in1 어라운드 위고 쏘서 구매 가이드
+date: 2026-04-13
+description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 이상 아기에게 안전한 놀이 공간과 걸음마 연습 기회를 제공하며, 부모에게는 잠시의 휴식 시간을 선물하는 활동 센터입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/441647074689842-4c6ae6c6-9443-43e3-8501-c5535aad276b.jpg
-title: 브라이트스타트 2in1 어라운드 위고 쏘서 구매 가이드
-date: 2026-04-13
-description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 이상 아기에게 안전한 놀이 공간과 걸음마 연습 기회를 제공하며, 부모에게는 잠시의 휴식 시간을 선물하는 활동 센터입니다.
----
 
 
 

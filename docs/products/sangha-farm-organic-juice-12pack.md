@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ba1b/e659b1b10760736e3a34ddd95d8701c1a6cbd65e540656f5a42c066913d4.jpg
+title: 상하목장 유기농주스 사과오렌지케일4 + 사과블루베리케일4+ 사과딸기케일4(총12팩) 구매 가이드
+date: 2026-05-29
+description: 상하목장 유기농주스 12팩은 사과, 오렌지, 케일 등 유기농 과채를 담아 아이 간식이나 바쁜 일상 속 건강한 음료로 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ba1b/e659b1b10760736e3a34ddd95d8701c1a6cbd65e540656f5a42c066913d4.jpg
-title: 상하목장 유기농주스 사과오렌지케일4 + 사과블루베리케일4+ 사과딸기케일4(총12팩) 구매 가이드
-date: 2026-05-29
-description: 상하목장 유기농주스 12팩은 사과, 오렌지, 케일 등 유기농 과채를 담아 아이 간식이나 바쁜 일상 속 건강한 음료로 좋습니다.
----
 
 
 

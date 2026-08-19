@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5466219660688108-78244b76-df16-4064-b763-f0fbd1e1cbb0.jpg
+title: 바다숲 한입에 쏙 구운감태 구매 가이드
+date: 2026-06-27
+description: 바다숲 한입에 쏙 구운감태는 감태 특유의 깊은 풍미와 바삭한 식감이 특징으로, 밥반찬, 술안주, 혹은 회나 고기와 곁들이는 고급스러운 별미로 활용하기 좋은 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -97,12 +103,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5466219660688108-78244b76-df16-4064-b763-f0fbd1e1cbb0.jpg
-title: 바다숲 한입에 쏙 구운감태 구매 가이드
-date: 2026-06-27
-description: 바다숲 한입에 쏙 구운감태는 감태 특유의 깊은 풍미와 바삭한 식감이 특징으로, 밥반찬, 술안주, 혹은 회나 고기와 곁들이는 고급스러운 별미로 활용하기 좋은 제품입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/07/17/6/19086b28-5fb9-4ac5-b2b4-1e30eed86ef5.jpg
+title: 오즈토이 튼튼한 푸드 쇼핑카트 구매 가이드
+date: 2026-07-03
+description: 오즈토이 튼튼한 푸드 쇼핑카트는 유아의 걸음마 연습, 소꿉놀이, 장난감 정리함으로 활용 가능한 다기능 유아 장난감입니다. 실내에서 안전하고 즐거운 놀이 시간을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,12 +92,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/07/17/6/19086b28-5fb9-4ac5-b2b4-1e30eed86ef5.jpg
-title: 오즈토이 튼튼한 푸드 쇼핑카트 구매 가이드
-date: 2026-07-03
-description: 오즈토이 튼튼한 푸드 쇼핑카트는 유아의 걸음마 연습, 소꿉놀이, 장난감 정리함으로 활용 가능한 다기능 유아 장난감입니다. 실내에서 안전하고 즐거운 놀이 시간을 제공합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52389924987457-1990cc6f-0023-40a7-b126-960b13e4a316.jpg
+title: 홀리카홀리카 마이페이브 무드 아이 팔레트 구매 가이드
+date: 2026-06-03
+description: 홀리카홀리카 마이페이브 무드 아이 팔레트는 데일리 메이크업부터 특별한 날까지 활용하기 좋은 9구 팔레트로, 자연스러운 발색과 뛰어난 활용도를 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -91,12 +97,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52389924987457-1990cc6f-0023-40a7-b126-960b13e4a316.jpg
-title: 홀리카홀리카 마이페이브 무드 아이 팔레트 구매 가이드
-date: 2026-06-03
-description: 홀리카홀리카 마이페이브 무드 아이 팔레트는 데일리 메이크업부터 특별한 날까지 활용하기 좋은 9구 팔레트로, 자연스러운 발색과 뛰어난 활용도를 제공합니다.
----
 
 
 

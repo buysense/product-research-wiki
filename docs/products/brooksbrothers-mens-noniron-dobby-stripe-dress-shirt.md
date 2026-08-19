@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/13/17/5/5962e445-4757-4d14-96a2-01130625677b.jpg
+title: 브룩스브라더스 남성용 논아이론 도비 스트라이프 드레스셔츠 구매 가이드
+date: 2026-05-23
+description: 브룩스브라더스 남성용 논아이론 도비 스트라이프 드레스셔츠는 다림질 부담을 줄여주는 실용적인 디자인으로, 직장인의 데일리 출근룩에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/13/17/5/5962e445-4757-4d14-96a2-01130625677b.jpg
-title: 브룩스브라더스 남성용 논아이론 도비 스트라이프 드레스셔츠 구매 가이드
-date: 2026-05-23
-description: 브룩스브라더스 남성용 논아이론 도비 스트라이프 드레스셔츠는 다림질 부담을 줄여주는 실용적인 디자인으로, 직장인의 데일리 출근룩에 적합합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/17/16/1/7415dad0-086e-4e3b-a472-d96c52d92091.png
+title: 아브카 베이비 앤 키즈 이지워시 선크림 SPF50+ PA++++, 50ml 구매 가이드
+date: 2026-05-19
+description: 아이와 민감성 피부를 위한 아브카 베이비 앤 키즈 이지워시 선크림은 SPF50+ PA++++로 강력한 자외선 차단과 물세안만으로도 간편한 클렌징을 제공하여 데일리 야외 활동에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -90,12 +96,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/17/16/1/7415dad0-086e-4e3b-a472-d96c52d92091.png
-title: 아브카 베이비 앤 키즈 이지워시 선크림 SPF50+ PA++++, 50ml 구매 가이드
-date: 2026-05-19
-description: 아이와 민감성 피부를 위한 아브카 베이비 앤 키즈 이지워시 선크림은 SPF50+ PA++++로 강력한 자외선 차단과 물세안만으로도 간편한 클렌징을 제공하여 데일리 야외 활동에 적합합니다.
----
 
 
 

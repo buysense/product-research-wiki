@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7440/f5445e5d40d93894ba682e07f2426be8210f84eb8cb6bacebbbe26623596.jpg
+title: 해피데이 3단 런던 캠핑매트 구매 가이드
+date: 2026-04-20
+description: 해피데이 3단 런던 캠핑매트는 가족 단위 야외 활동, 피크닉, 캠핑 시 바닥의 냉기와 딱딱함을 완화해주며, 간편한 휴대와 보관이 특징인 접이식 매트입니다. 아이와 함께하는 나들이에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7440/f5445e5d40d93894ba682e07f2426be8210f84eb8cb6bacebbbe26623596.jpg
-title: 해피데이 3단 런던 캠핑매트 구매 가이드
-date: 2026-04-20
-description: 해피데이 3단 런던 캠핑매트는 가족 단위 야외 활동, 피크닉, 캠핑 시 바닥의 냉기와 딱딱함을 완화해주며, 간편한 휴대와 보관이 특징인 접이식 매트입니다. 아이와 함께하는 나들이에 적합합니다.
----
 
 
 

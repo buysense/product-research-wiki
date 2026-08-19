@@ -1,3 +1,9 @@
+---
+image: https://image15.coupangcdn.com/image/travelSeller/common/A00222540/c8e5a29b-6eff-42bb-b586-430eca93e2bf.png
+title: 대마도 노바호 승선권 + 토요코인 숙박 구매 가이드
+date: 2026-04-02
+description: 대마도 노바호 승선권과 토요코인 숙박을 결합한 자유여행 패키지로, 가까운 일본 여행을 편리하게 즐기려는 여행자에게 적합합니다. 가성비 좋은 숙소와 쾌적한 배편으로 짧은 기간 동안 알찬 해외여행을 경험할 수 있습니다.
+---
 <!-- bs:jsonld -->
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
@@ -15,12 +21,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://image15.coupangcdn.com/image/travelSeller/common/A00222540/c8e5a29b-6eff-42bb-b586-430eca93e2bf.png
-title: 대마도 노바호 승선권 + 토요코인 숙박 구매 가이드
-date: 2026-04-02
-description: 대마도 노바호 승선권과 토요코인 숙박을 결합한 자유여행 패키지로, 가까운 일본 여행을 편리하게 즐기려는 여행자에게 적합합니다. 가성비 좋은 숙소와 쾌적한 배편으로 짧은 기간 동안 알찬 해외여행을 경험할 수 있습니다.
----
 
 
 

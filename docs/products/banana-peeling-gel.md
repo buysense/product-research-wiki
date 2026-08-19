@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/bd51c320-542a-4774-9ccb-1fb07f9276cb13620622446053745421.png
+title: 바나나 필링필링젤 구매 가이드
+date: 2026-06-07
+description: 바나나 필링필링젤은 집에서 간편하게 각질을 관리하고자 할 때 사용되는 젤 타입 필링 제품입니다. 부드러운 각질 제거와 바나나 향이 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -77,12 +83,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/bd51c320-542a-4774-9ccb-1fb07f9276cb13620622446053745421.png
-title: 바나나 필링필링젤 구매 가이드
-date: 2026-06-07
-description: 바나나 필링필링젤은 집에서 간편하게 각질을 관리하고자 할 때 사용되는 젤 타입 필링 제품입니다. 부드러운 각질 제거와 바나나 향이 특징입니다.
----
 
 
 

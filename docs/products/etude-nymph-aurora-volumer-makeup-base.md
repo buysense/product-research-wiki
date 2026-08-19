@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/93567165624337-1337a1fe-5c23-468f-8bfb-bc846f131f00.jpg
+title: 에뛰드 님프 광채 볼류머 메이크업 베이스 구매 가이드
+date: 2026-06-02
+description: 에뛰드 님프 광채 볼류머 메이크업 베이스는 피부에 자연스러운 물광과 촉촉함을 부여하여 건강하고 윤기 있는 피부 표현을 돕는 제품입니다. 건조한 피부나 매트한 파운데이션 사용 시 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -88,12 +94,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/93567165624337-1337a1fe-5c23-468f-8bfb-bc846f131f00.jpg
-title: 에뛰드 님프 광채 볼류머 메이크업 베이스 구매 가이드
-date: 2026-06-02
-description: 에뛰드 님프 광채 볼류머 메이크업 베이스는 피부에 자연스러운 물광과 촉촉함을 부여하여 건강하고 윤기 있는 피부 표현을 돕는 제품입니다. 건조한 피부나 매트한 파운데이션 사용 시 활용하기 좋습니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37683230804196-c54bd443-7b63-440b-8550-1f014ea75f10.JPG
+title: 자연애찬 동물복지 구운란 구매 가이드
+date: 2026-04-02
+description: 자연애찬 동물복지 구운란은 난각번호 2번 동물복지 인증 계란으로, 바쁜 아침 식사, 다이어트 간식, 아이들 영양 간식으로 간편하게 즐길 수 있는 고소하고 쫀득한 구운란입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -69,12 +75,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37683230804196-c54bd443-7b63-440b-8550-1f014ea75f10.JPG
-title: 자연애찬 동물복지 구운란 구매 가이드
-date: 2026-04-02
-description: 자연애찬 동물복지 구운란은 난각번호 2번 동물복지 인증 계란으로, 바쁜 아침 식사, 다이어트 간식, 아이들 영양 간식으로 간편하게 즐길 수 있는 고소하고 쫀득한 구운란입니다.
----
 
 
 

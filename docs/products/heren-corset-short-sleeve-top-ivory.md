@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e813/92a3184f47065d35c18d45a4bbb264d15a62bc761821d27bfb4a1619f95b.jpg
+title: Heren Corset Short Sleeve Top (Ivory) 구매 가이드
+date: 2026-07-18
+description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 강조하는 트렌디한 디자인으로, 다양한 캐주얼 및 세미 포멀 스타일에 활용하기 좋은 반팔 상의입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e813/92a3184f47065d35c18d45a4bbb264d15a62bc761821d27bfb4a1619f95b.jpg
-title: Heren Corset Short Sleeve Top (Ivory) 구매 가이드
-date: 2026-07-18
-description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 강조하는 트렌디한 디자인으로, 다양한 캐주얼 및 세미 포멀 스타일에 활용하기 좋은 반팔 상의입니다.
----
 
 
 

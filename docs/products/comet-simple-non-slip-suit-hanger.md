@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/dba9def7-2179-4960-9333-296ad29c7e6e6110714200277616273.png
+title: 코멧 심플 미끄럼방지 정장 옷걸이 구매 가이드
+date: 2026-05-25
+description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자인과 PVC 논슬립 코팅으로 옷장 공간을 효율적으로 활용하며, 정장, 니트 등 의류 형태를 깔끔하게 유지하고자 할 때 유용합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/dba9def7-2179-4960-9333-296ad29c7e6e6110714200277616273.png
-title: 코멧 심플 미끄럼방지 정장 옷걸이 구매 가이드
-date: 2026-05-25
-description: 코멧 심플 미끄럼방지 정장 옷걸이는 슬림한 디자인과 PVC 논슬립 코팅으로 옷장 공간을 효율적으로 활용하며, 정장, 니트 등 의류 형태를 깔끔하게 유지하고자 할 때 유용합니다.
----
 
 
 

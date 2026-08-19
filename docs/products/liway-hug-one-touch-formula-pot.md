@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f478/68a5cef38ce9ad6d29b6aad7d6ae9650729f35c6442dd541e5e42cea61ad.jpg
+title: 리웨이 허그 원터치 분유포트 구매 가이드
+date: 2026-07-01
+description: 리웨이 허그 원터치 분유포트는 신생아부터 유아까지 빠르고 위생적인 분유 준비와 보리차 끓이기에 최적화된 제품입니다. 밤중 수유와 바쁜 육아 환경에서 시간을 절약하고 싶은 부모들에게 실용적인 솔루션을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -83,12 +89,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f478/68a5cef38ce9ad6d29b6aad7d6ae9650729f35c6442dd541e5e42cea61ad.jpg
-title: 리웨이 허그 원터치 분유포트 구매 가이드
-date: 2026-07-01
-description: 리웨이 허그 원터치 분유포트는 신생아부터 유아까지 빠르고 위생적인 분유 준비와 보리차 끓이기에 최적화된 제품입니다. 밤중 수유와 바쁜 육아 환경에서 시간을 절약하고 싶은 부모들에게 실용적인 솔루션을 제공합니다.
----
 
 
 

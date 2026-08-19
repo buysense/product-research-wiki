@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ee06/0d9af693a208729e1b3c6a86ee45544685afcf2d70b3e1bff224d733dfaa.jpg
+title: 무진기행 구매 가이드
+date: 2026-08-03
+description: "김승옥 작가의 대표작 \"무진기행\" 구매 가이드. 몽환적인 분위기 속 주인공의 심리를 섬세하게 묘사하여 내면 성찰과 깊은 여운을 선사하는 소설입니다. 삶에 지쳤을 때 조용히 자신을 돌아보고 싶은 독자에게 적합합니다."
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -67,12 +73,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ee06/0d9af693a208729e1b3c6a86ee45544685afcf2d70b3e1bff224d733dfaa.jpg
-title: 무진기행 구매 가이드
-date: 2026-08-03
-description: "김승옥 작가의 대표작 \"무진기행\" 구매 가이드. 몽환적인 분위기 속 주인공의 심리를 섬세하게 묘사하여 내면 성찰과 깊은 여운을 선사하는 소설입니다. 삶에 지쳤을 때 조용히 자신을 돌아보고 싶은 독자에게 적합합니다."
----
 
 
 

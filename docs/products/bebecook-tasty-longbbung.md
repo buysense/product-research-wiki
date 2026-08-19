@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7638563012482463-d0315dd9-66f6-43ca-bb80-40974203de51.png
+title: 베베쿡 더 맛있는 빼빼롱뻥 구매 가이드
+date: 2026-04-15
+description: 베베쿡 더 맛있는 빼빼롱뻥은 유기농 현미와 NON-GMO 옥수수로 만든 스틱형 아기 과자로, 자일리톨의 은은한 단맛이 특징입니다. 외출 시, 간식 시간에 아기에게 긴 휴식과 영양을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -82,12 +88,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7638563012482463-d0315dd9-66f6-43ca-bb80-40974203de51.png
-title: 베베쿡 더 맛있는 빼빼롱뻥 구매 가이드
-date: 2026-04-15
-description: 베베쿡 더 맛있는 빼빼롱뻥은 유기농 현미와 NON-GMO 옥수수로 만든 스틱형 아기 과자로, 자일리톨의 은은한 단맛이 특징입니다. 외출 시, 간식 시간에 아기에게 긴 휴식과 영양을 제공합니다.
----
 
 
 

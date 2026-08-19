@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/21/9/9/ba5239e3-bfaf-4bc2-9820-4d116a85630f.png
+title: 해태제과 홈런볼 옥수수콘크림맛 구매 가이드
+date: 2026-06-25
+description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤한 옥수수 맛을 특징으로 하는 과자로, 특히 냉장/냉동 보관 후 시원하게 즐기기 좋은 간식입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -87,12 +93,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/21/9/9/ba5239e3-bfaf-4bc2-9820-4d116a85630f.png
-title: 해태제과 홈런볼 옥수수콘크림맛 구매 가이드
-date: 2026-06-25
-description: 해태제과 홈런볼 옥수수콘크림맛은 고소하고 달콤한 옥수수 맛을 특징으로 하는 과자로, 특히 냉장/냉동 보관 후 시원하게 즐기기 좋은 간식입니다.
----
 
 
 

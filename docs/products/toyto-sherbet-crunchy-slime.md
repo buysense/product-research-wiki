@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b0c0/cb3a6b78163b179af5f6153885dd157930e32396edcbc018c7b1fd2837f4.jpg
+title: 토이토 샤베트 크런치 슬랑이 슬라임 구매 가이드
+date: 2026-05-15
+description: 토이토 샤베트 크런치 슬랑이 슬라임은 독특한 샤베트 소리와 크런치 촉감을 제공하여 아이들의 놀이 시간이나 스트레스 해소에 적합한 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b0c0/cb3a6b78163b179af5f6153885dd157930e32396edcbc018c7b1fd2837f4.jpg
-title: 토이토 샤베트 크런치 슬랑이 슬라임 구매 가이드
-date: 2026-05-15
-description: 토이토 샤베트 크런치 슬랑이 슬라임은 독특한 샤베트 소리와 크런치 촉감을 제공하여 아이들의 놀이 시간이나 스트레스 해소에 적합한 제품입니다.
----
 
 
 

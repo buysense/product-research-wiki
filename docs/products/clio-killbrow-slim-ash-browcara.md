@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bbc7/96838c1d80cf4d95e6f96f03623fe7f95e501b046fe0e05ec111098d2207.jpg
+title: 클리오 킬브로우 슬림 애쉬 브로우카라 구매 가이드
+date: 2026-06-04
+description: 클리오 킬브로우 슬림 애쉬 브로우카라는 자연스러운 눈썹 연출과 탈색 없이 눈썹 톤을 밝히고 싶은 사용자를 위한 제품입니다. 슬림한 브러쉬와 부담 없는 색감으로 눈썹 메이크업 초보자도 쉽게 사용할 수 있으며, 데일리 눈썹 정돈에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bbc7/96838c1d80cf4d95e6f96f03623fe7f95e501b046fe0e05ec111098d2207.jpg
-title: 클리오 킬브로우 슬림 애쉬 브로우카라 구매 가이드
-date: 2026-06-04
-description: 클리오 킬브로우 슬림 애쉬 브로우카라는 자연스러운 눈썹 연출과 탈색 없이 눈썹 톤을 밝히고 싶은 사용자를 위한 제품입니다. 슬림한 브러쉬와 부담 없는 색감으로 눈썹 메이크업 초보자도 쉽게 사용할 수 있으며, 데일리 눈썹 정돈에 적합합니다.
----
 
 
 

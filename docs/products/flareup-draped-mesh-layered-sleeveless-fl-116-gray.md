@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d328/7b7688e49845e91cdf32b50c93d30f6c39c6280d1295a0737f4faf4a44f2.jpg
+title: 플레어업 FLAREUP Draped Mesh Layered Sleeveless FL-116 Gray 구매 가이드
+date: 2026-08-08
+description: 플레어업 드레이프드 메쉬 레이어드 슬리브리스 FL-116 Gray는 독특한 드레이프 디자인과 메쉬 소재로 다양한 스타일링이 가능한 여름철 또는 간절기 패션 아이템입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -37,12 +43,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d328/7b7688e49845e91cdf32b50c93d30f6c39c6280d1295a0737f4faf4a44f2.jpg
-title: 플레어업 FLAREUP Draped Mesh Layered Sleeveless FL-116 Gray 구매 가이드
-date: 2026-08-08
-description: 플레어업 드레이프드 메쉬 레이어드 슬리브리스 FL-116 Gray는 독특한 드레이프 디자인과 메쉬 소재로 다양한 스타일링이 가능한 여름철 또는 간절기 패션 아이템입니다.
----
 
 
 

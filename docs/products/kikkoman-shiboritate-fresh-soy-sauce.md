@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f84f/19e99fcb8635bfbd29a43b3a92f059ed6e83dd09077a1065ca359c606606.jpg
+title: 기꼬만 시보리타테 (생 간장) 구매 가이드
+date: 2026-04-15
+description: 기꼬만 시보리타테 생 간장은 깊은 감칠맛과 부드러운 풍미가 특징이며, 일본식 요리, 덮밥, 회, 계란밥 등에 최적화된 간장입니다. 혁신적인 밀폐 용기로 신선도를 오래 유지합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,12 +92,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f84f/19e99fcb8635bfbd29a43b3a92f059ed6e83dd09077a1065ca359c606606.jpg
-title: 기꼬만 시보리타테 (생 간장) 구매 가이드
-date: 2026-04-15
-description: 기꼬만 시보리타테 생 간장은 깊은 감칠맛과 부드러운 풍미가 특징이며, 일본식 요리, 덮밥, 회, 계란밥 등에 최적화된 간장입니다. 혁신적인 밀폐 용기로 신선도를 오래 유지합니다.
----
 
 
 

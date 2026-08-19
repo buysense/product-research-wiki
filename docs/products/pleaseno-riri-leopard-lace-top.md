@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0805/9106464af4a9f3b68d6ff8602d0e2ea34155c5ea532304c9d32c439fc330.jpg
+title: [플리즈노팔로우] Riri Leopard Lace Top (Pink/Grey) 구매 가이드
+date: 2026-07-24
+description: [플리즈노팔로우] Riri Leopard Lace Top (Pink/Grey)는 레오파드 패턴과 레이스 디테일이 돋보이는 상의로, 트렌디한 스타일링이나 레이어드 룩 연출에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -61,12 +67,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0805/9106464af4a9f3b68d6ff8602d0e2ea34155c5ea532304c9d32c439fc330.jpg
-title: [플리즈노팔로우] Riri Leopard Lace Top (Pink/Grey) 구매 가이드
-date: 2026-07-24
-description: [플리즈노팔로우] Riri Leopard Lace Top (Pink/Grey)는 레오파드 패턴과 레이스 디테일이 돋보이는 상의로, 트렌디한 스타일링이나 레이어드 룩 연출에 적합합니다.
----
 
 
 

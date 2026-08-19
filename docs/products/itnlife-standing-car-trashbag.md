@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/851b/0b087ebe5cbc323c73ed85e4dcf6a3d600ef5cb2231251d44cbc1c514460.jpg
+title: 잇앤라이프 세워지는 차량용 부착 쓰레기봉투 구매 가이드
+date: 2026-05-20
+description: 잇앤라이프 세워지는 차량용 부착 쓰레기봉투는 차 안의 자잘한 쓰레기를 깔끔하게 처리하며, 접착식과 자립형 구조로 운전 중에도 편리하게 사용할 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/851b/0b087ebe5cbc323c73ed85e4dcf6a3d600ef5cb2231251d44cbc1c514460.jpg
-title: 잇앤라이프 세워지는 차량용 부착 쓰레기봉투 구매 가이드
-date: 2026-05-20
-description: 잇앤라이프 세워지는 차량용 부착 쓰레기봉투는 차 안의 자잘한 쓰레기를 깔끔하게 처리하며, 접착식과 자립형 구조로 운전 중에도 편리하게 사용할 수 있습니다.
----
 
 
 

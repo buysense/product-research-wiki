@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1bfa/2bc3cf13a23fbdef73a53634fba512a5681cbd130ac1c572a4a3cc86c972.jpg
+title: 미아방지 팔찌 일회용 손목밴드 구매 가이드
+date: 2026-05-15
+description: 미아방지 팔찌 일회용 손목밴드는 아이와 외출 시 혹시 모를 상황에 대비하여 보호자의 연락처를 손목에 기록해 주는 제품입니다. 놀이공원, 박람회 등 인파가 많은 곳에서 유용합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1bfa/2bc3cf13a23fbdef73a53634fba512a5681cbd130ac1c572a4a3cc86c972.jpg
-title: 미아방지 팔찌 일회용 손목밴드 구매 가이드
-date: 2026-05-15
-description: 미아방지 팔찌 일회용 손목밴드는 아이와 외출 시 혹시 모를 상황에 대비하여 보호자의 연락처를 손목에 기록해 주는 제품입니다. 놀이공원, 박람회 등 인파가 많은 곳에서 유용합니다.
----
 
 
 

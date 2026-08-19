@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2844381687039755-0c9d1ab0-46c6-4cb5-bdf1-b40311762511.jpg
+title: 나마 키리모찌 구매 가이드
+date: 2026-04-18
+description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징인 일본식 찹쌀떡으로, 간식부터 다양한 요리에 활용하기 좋습니다. 간단한 조리법과 편리한 개별 포장으로 손쉽게 즐길 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -89,12 +95,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2844381687039755-0c9d1ab0-46c6-4cb5-bdf1-b40311762511.jpg
-title: 나마 키리모찌 구매 가이드
-date: 2026-04-18
-description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징인 일본식 찹쌀떡으로, 간식부터 다양한 요리에 활용하기 좋습니다. 간단한 조리법과 편리한 개별 포장으로 손쉽게 즐길 수 있습니다.
----
 
 
 

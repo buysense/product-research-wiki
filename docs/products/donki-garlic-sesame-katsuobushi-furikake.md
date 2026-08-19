@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/e7400881-48b2-459d-8665-fab5ec8de9bd_fixing_v2.png
+title: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케 구매 가이드
+date: 2026-07-28
+description: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케는 마늘, 참깨, 가츠오의 감칠맛이 특징인 일본식 밥 양념으로, 바쁜 일상 속 간편한 식사나 도시락 반찬으로 활용하기에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -68,12 +74,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/e7400881-48b2-459d-8665-fab5ec8de9bd_fixing_v2.png
-title: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케 구매 가이드
-date: 2026-07-28
-description: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케는 마늘, 참깨, 가츠오의 감칠맛이 특징인 일본식 밥 양념으로, 바쁜 일상 속 간편한 식사나 도시락 반찬으로 활용하기에 적합합니다.
----
 
 
 

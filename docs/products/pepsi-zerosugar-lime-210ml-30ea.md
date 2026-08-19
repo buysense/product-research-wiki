@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg
+title: 펩시 제로슈거 라임향 (210ml, 30개) 구매 가이드
+date: 2026-07-13
+description: 펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리로 부담 없이 즐기는 상큼한 탄산음료입니다. 식사 시 느끼함을 잡아주거나 갈증 해소에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -85,12 +91,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg
-title: 펩시 제로슈거 라임향 (210ml, 30개) 구매 가이드
-date: 2026-07-13
-description: 펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리로 부담 없이 즐기는 상큼한 탄산음료입니다. 식사 시 느끼함을 잡아주거나 갈증 해소에 적합합니다.
----
 
 
 

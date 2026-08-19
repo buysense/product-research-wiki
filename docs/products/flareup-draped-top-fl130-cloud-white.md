@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d97f/af274ea589ae1f4438e163a9d4900c20a8271cf880ec0b48f7bc4a3e7ca3.jpg
+title: 플레어업 FLAREUP Draped Top FL-130_Cloud White 176060 구매 가이드
+date: 2026-08-10
+description: 플레어업 FLAREUP Draped Top FL-130_Cloud White 176060은 드레이프 디자인의 우아함과 클라우드 화이트 색상의 깔끔함으로 일상 및 세미 캐주얼 착장에 활용하기 좋은 상의입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -36,12 +42,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d97f/af274ea589ae1f4438e163a9d4900c20a8271cf880ec0b48f7bc4a3e7ca3.jpg
-title: 플레어업 FLAREUP Draped Top FL-130_Cloud White 176060 구매 가이드
-date: 2026-08-10
-description: 플레어업 FLAREUP Draped Top FL-130_Cloud White 176060은 드레이프 디자인의 우아함과 클라우드 화이트 색상의 깔끔함으로 일상 및 세미 캐주얼 착장에 활용하기 좋은 상의입니다.
----
 
 
 

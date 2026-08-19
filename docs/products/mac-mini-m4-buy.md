@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/50501396989104-37ee03f5-eea4-409a-8faf-0837cf61cd7d.jpg
+title: 맥 미니 M4 구매 가이드
+date: 2026-05-06
+description: 맥 미니 M4는 컴팩트한 디자인과 강력한 M4 칩 성능을 겸비한 데스크톱 컴퓨터로, 개발자, 콘텐츠 제작자, 일반 사무용, 그리고 깔끔한 데스크테리어를 원하는 사용자에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -85,12 +91,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/50501396989104-37ee03f5-eea4-409a-8faf-0837cf61cd7d.jpg
-title: 맥 미니 M4 구매 가이드
-date: 2026-05-06
-description: 맥 미니 M4는 컴팩트한 디자인과 강력한 M4 칩 성능을 겸비한 데스크톱 컴퓨터로, 개발자, 콘텐츠 제작자, 일반 사무용, 그리고 깔끔한 데스크테리어를 원하는 사용자에게 적합합니다.
----
 
 
 

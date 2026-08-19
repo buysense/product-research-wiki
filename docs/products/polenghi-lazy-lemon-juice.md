@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1221277550506257-df96e6eb-1620-499c-9df8-9f4c16dad5ce.jpg
+title: 폴렝기 레이지 레몬주스 구매 가이드
+date: 2026-04-14
+description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 레몬으로 만든 100% 원액 레몬즙입니다. 상큼한 레몬수로 즐기거나, 다양한 요리의 풍미를 더하는 데 활용되며, 다이어트 및 건강 관리 식단에도 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -82,12 +88,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1221277550506257-df96e6eb-1620-499c-9df8-9f4c16dad5ce.jpg
-title: 폴렝기 레이지 레몬주스 구매 가이드
-date: 2026-04-14
-description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 레몬으로 만든 100% 원액 레몬즙입니다. 상큼한 레몬수로 즐기거나, 다양한 요리의 풍미를 더하는 데 활용되며, 다이어트 및 건강 관리 식단에도 적합합니다.
----
 
 
 

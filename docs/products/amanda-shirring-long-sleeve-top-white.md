@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a56/66b69584bd3c845a69dc2d0550381363453f0d1b6032efbaae765670a1ef.jpg
+title: [플리즈노팔로우] Amanda Shirring Long Sleeve Top (White) 구매 가이드
+date: 2026-07-14
+description: Amanda Shirring Long Sleeve Top (White)은 데일리룩부터 세미 캐주얼까지 다양한 코디에 활용하기 좋은 여성 긴팔 상의입니다. 자연스러운 셔링 디테일로 편안하면서도 스타일리시한 연출을 돕습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a56/66b69584bd3c845a69dc2d0550381363453f0d1b6032efbaae765670a1ef.jpg
-title: [플리즈노팔로우] Amanda Shirring Long Sleeve Top (White) 구매 가이드
-date: 2026-07-14
-description: Amanda Shirring Long Sleeve Top (White)은 데일리룩부터 세미 캐주얼까지 다양한 코디에 활용하기 좋은 여성 긴팔 상의입니다. 자연스러운 셔링 디테일로 편안하면서도 스타일리시한 연출을 돕습니다.
----
 
 
 

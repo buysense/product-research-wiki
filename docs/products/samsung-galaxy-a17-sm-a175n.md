@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/573839143474032-434e39aa-e53d-4af1-965e-907bd4b672fa.jpg
+title: 삼성전자 갤럭시 A17 (SM-A175N) 구매 가이드
+date: 2026-06-22
+description: 삼성전자 갤럭시 A17 (SM-A175N)은 전화, 카카오톡, 웹서핑 등 기본적인 스마트폰 사용에 최적화된 가성비 모델입니다. 자녀의 첫 스마트폰, 부모님 효도폰, 또는 서브폰으로 적합하며, 넉넉한 배터리와 선명한 디스플레이가 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/573839143474032-434e39aa-e53d-4af1-965e-907bd4b672fa.jpg
-title: 삼성전자 갤럭시 A17 (SM-A175N) 구매 가이드
-date: 2026-06-22
-description: 삼성전자 갤럭시 A17 (SM-A175N)은 전화, 카카오톡, 웹서핑 등 기본적인 스마트폰 사용에 최적화된 가성비 모델입니다. 자녀의 첫 스마트폰, 부모님 효도폰, 또는 서브폰으로 적합하며, 넉넉한 배터리와 선명한 디스플레이가 특징입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/18/11/5/cde8b0b0-6272-4870-b1a9-037d2d14792d.jpg
+title: LG전자 QHD 스탠바이미 2 LED TV 구매 가이드
+date: 2026-05-15
+description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭게 이동하며 개인 맞춤형 콘텐츠를 즐길 수 있는 무선 스마트 스크린입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -88,12 +94,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/18/11/5/cde8b0b0-6272-4870-b1a9-037d2d14792d.jpg
-title: LG전자 QHD 스탠바이미 2 LED TV 구매 가이드
-date: 2026-05-15
-description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭게 이동하며 개인 맞춤형 콘텐츠를 즐길 수 있는 무선 스마트 스크린입니다.
----
 
 
 

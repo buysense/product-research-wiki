@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/457124028150062-046e08ec-0108-4d1b-9d98-79442810cde4.jpg
+title: 브라더 컬러 레이저 복합기 구매 가이드
+date: 2026-06-26
+description: 브라더 컬러 레이저 복합기 MFC-L3760CDW는 학교, 소규모 사무실, 가정에서 고품질 컬러 출력과 빠른 속도를 원하는 사용자에게 적합합니다. 주요 모델의 장단점, 유지비, 사용 팁을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -79,12 +85,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/457124028150062-046e08ec-0108-4d1b-9d98-79442810cde4.jpg
-title: 브라더 컬러 레이저 복합기 구매 가이드
-date: 2026-06-26
-description: 브라더 컬러 레이저 복합기 MFC-L3760CDW는 학교, 소규모 사무실, 가정에서 고품질 컬러 출력과 빠른 속도를 원하는 사용자에게 적합합니다. 주요 모델의 장단점, 유지비, 사용 팁을 제공합니다.
----
 
 
 

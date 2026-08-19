@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c1d8/25ea4bd8b7c3688c78d4affcf95dc5c2e3e9e654820777095f7b5497e73d.jpg
+title: 에즈이프 캘리 ASIF CALIE NEW DIRTYWASHING OVERFIT CHECK SHIRT NAVY 구매 가이드
+date: 2026-07-17
+description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이비는 빈티지한 무드의 오버핏 셔츠로, 일상적인 캐주얼룩이나 레이어드 스타일링에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -68,12 +74,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c1d8/25ea4bd8b7c3688c78d4affcf95dc5c2e3e9e654820777095f7b5497e73d.jpg
-title: 에즈이프 캘리 ASIF CALIE NEW DIRTYWASHING OVERFIT CHECK SHIRT NAVY 구매 가이드
-date: 2026-07-17
-description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이비는 빈티지한 무드의 오버핏 셔츠로, 일상적인 캐주얼룩이나 레이어드 스타일링에 적합합니다.
----
 
 
 

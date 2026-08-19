@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ab88/56778d66958976ef08714f7cccc201e00cc1bc185f9ef063743ced4750f0.jpg
+title: 이클립스 페퍼민트향 구매 가이드
+date: 2026-05-03
+description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중 졸음 방지, 중요한 미팅 전 입안 상쾌함 유지 등 다양한 상황에서 활용되는 무설탕 캔디입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -94,12 +100,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ab88/56778d66958976ef08714f7cccc201e00cc1bc185f9ef063743ced4750f0.jpg
-title: 이클립스 페퍼민트향 구매 가이드
-date: 2026-05-03
-description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중 졸음 방지, 중요한 미팅 전 입안 상쾌함 유지 등 다양한 상황에서 활용되는 무설탕 캔디입니다.
----
 
 
 

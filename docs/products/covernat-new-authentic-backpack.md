@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/256891482360345-e86f6acf-e0a0-4a94-95d5-124f319445af.jpg
+title: 커버낫 뉴 어센틱 구매 가이드
+date: 2026-04-28
+description: 커버낫 뉴 어센틱 백팩 27L은 중고등학생들의 학업용 및 일상 데일리 백팩으로 넉넉한 수납과 편안한 착용감을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -83,12 +89,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/256891482360345-e86f6acf-e0a0-4a94-95d5-124f319445af.jpg
-title: 커버낫 뉴 어센틱 구매 가이드
-date: 2026-04-28
-description: 커버낫 뉴 어센틱 백팩 27L은 중고등학생들의 학업용 및 일상 데일리 백팩으로 넉넉한 수납과 편안한 착용감을 제공합니다.
----
 
 
 

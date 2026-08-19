@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/62915765523688-d995bf62-9ccf-426f-b5ea-ca311adebd95.jpg
+title: 캐치티니핑 멀티비타민 미네랄 음료 포도맛, 200ml, 24개 구매 가이드
+date: 2026-05-29
+description: 캐치티니핑 멀티비타민 미네랄 음료 포도맛은 아이들을 위한 200ml 소용량 포도맛 음료로, 멀티비타민과 미네랄을 함유해 간식이나 식사 시 영양 보충에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/62915765523688-d995bf62-9ccf-426f-b5ea-ca311adebd95.jpg
-title: 캐치티니핑 멀티비타민 미네랄 음료 포도맛, 200ml, 24개 구매 가이드
-date: 2026-05-29
-description: 캐치티니핑 멀티비타민 미네랄 음료 포도맛은 아이들을 위한 200ml 소용량 포도맛 음료로, 멀티비타민과 미네랄을 함유해 간식이나 식사 시 영양 보충에 적합합니다.
----
 
 
 

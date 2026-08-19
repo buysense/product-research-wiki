@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e1f8/adb8bbf625ddd3c314224bf08d0ae29cc73e6cccca2241c24f6de19f4431.jpg
+title: 리즈니 구슬 비즈 슬랑이 구매 가이드
+date: 2026-05-15
+description: 리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에서 스트레스 해소 및 집중력 향상에 도움을 주는 비즈 촉감 슬라임입니다. 독특한 촉감과 ASMR 사운드로 부담 없이 즐길 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -81,12 +87,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e1f8/adb8bbf625ddd3c314224bf08d0ae29cc73e6cccca2241c24f6de19f4431.jpg
-title: 리즈니 구슬 비즈 슬랑이 구매 가이드
-date: 2026-05-15
-description: 리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에서 스트레스 해소 및 집중력 향상에 도움을 주는 비즈 촉감 슬라임입니다. 독특한 촉감과 ASMR 사운드로 부담 없이 즐길 수 있습니다.
----
 
 
 

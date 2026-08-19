@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/128275036756338-37ffc28f-66d2-471e-98a8-d167897dbb5a.jpg
+title: 아이워너 안전망 트램폴린 플러스 구매 가이드
+date: 2026-04-15
+description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 아이들의 실내 에너지 발산을 돕는 안전하고 견고한 놀이 기구입니다. 층간소음 걱정을 줄이고 부모에게 육아의 여유를 제공하며, 악천후 시 집콕놀이에 특히 유용합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -91,12 +97,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/128275036756338-37ffc28f-66d2-471e-98a8-d167897dbb5a.jpg
-title: 아이워너 안전망 트램폴린 플러스 구매 가이드
-date: 2026-04-15
-description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 아이들의 실내 에너지 발산을 돕는 안전하고 견고한 놀이 기구입니다. 층간소음 걱정을 줄이고 부모에게 육아의 여유를 제공하며, 악천후 시 집콕놀이에 특히 유용합니다.
----
 
 
 

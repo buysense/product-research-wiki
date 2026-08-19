@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/609f/1444182b95bdc52ade01565aabaaaafdf800d77835d4c7999d27980c4a6e.jpg
+title: 아이블린 투명워터매트 구매 가이드
+date: 2026-06-23
+description: 아이블린 투명워터매트는 아기 성장 발달에 도움을 주는 사각형 형태의 물놀이 매트로, 안정적인 공간 활용과 다양한 시각 자극을 제공하여 유아기 아기들이 즐겁게 놀이하며 오감 발달을 촉진하도록 돕습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/609f/1444182b95bdc52ade01565aabaaaafdf800d77835d4c7999d27980c4a6e.jpg
-title: 아이블린 투명워터매트 구매 가이드
-date: 2026-06-23
-description: 아이블린 투명워터매트는 아기 성장 발달에 도움을 주는 사각형 형태의 물놀이 매트로, 안정적인 공간 활용과 다양한 시각 자극을 제공하여 유아기 아기들이 즐겁게 놀이하며 오감 발달을 촉진하도록 돕습니다.
----
 
 
 

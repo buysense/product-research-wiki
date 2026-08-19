@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1940626476902596-fe73c230-f26a-40f9-b823-c1ec9a9cbafb.jpg
+title: 경기떡집 이티떡 구매 가이드
+date: 2026-05-03
+description: 경기떡집 이티떡은 쫀득한 떡과 고소한 콩고물이 특징인 냉동 떡입니다. 간식, 아침 대용, 선물용, 손님 접대 등 다양한 상황에서 간편하고 맛있게 즐길 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1940626476902596-fe73c230-f26a-40f9-b823-c1ec9a9cbafb.jpg
-title: 경기떡집 이티떡 구매 가이드
-date: 2026-05-03
-description: 경기떡집 이티떡은 쫀득한 떡과 고소한 콩고물이 특징인 냉동 떡입니다. 간식, 아침 대용, 선물용, 손님 접대 등 다양한 상황에서 간편하고 맛있게 즐길 수 있습니다.
----
 
 
 

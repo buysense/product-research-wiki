@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/436082475443544-839312db-5f37-4bae-8044-8d417dd0c14c.jpg
+title: 삼호어묵 바른사각 구매 가이드
+date: 2026-05-01
+description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다양한 가정 요리에 활용하기 좋은 얇고 쫄깃한 사각 어묵입니다. 양념이 잘 배어들어 맛있는 일상 식탁을 완성합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/436082475443544-839312db-5f37-4bae-8044-8d417dd0c14c.jpg
-title: 삼호어묵 바른사각 구매 가이드
-date: 2026-05-01
-description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다양한 가정 요리에 활용하기 좋은 얇고 쫄깃한 사각 어묵입니다. 양념이 잘 배어들어 맛있는 일상 식탁을 완성합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b20f/49c537485bc54fa47c11485464790442aceefb10626ffe54649a51222d8c.jpg
+title: 바스커빌가의 사냥개 구매 가이드
+date: 2026-08-03
+description: 바스커빌가의 사냥개는 아서 코난 도일의 대표적인 셜록 홈즈 시리즈 장편 소설로, 미스터리 추리 소설을 좋아하는 독자들이 몰입하여 읽기 좋은 고전 명작입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -68,12 +74,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b20f/49c537485bc54fa47c11485464790442aceefb10626ffe54649a51222d8c.jpg
-title: 바스커빌가의 사냥개 구매 가이드
-date: 2026-08-03
-description: 바스커빌가의 사냥개는 아서 코난 도일의 대표적인 셜록 홈즈 시리즈 장편 소설로, 미스터리 추리 소설을 좋아하는 독자들이 몰입하여 읽기 좋은 고전 명작입니다.
----
 
 
 

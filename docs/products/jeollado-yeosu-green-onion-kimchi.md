@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a747/f4556ed4437ca44df193369b7d4f9f269f0ff612a9beb2bf5b50aec270a9.png
+title: 전라도 여수 파김치 구매 가이드
+date: 2026-05-18
+description: 국내산 쪽파와 감칠맛 나는 양념이 특징인 전라도 여수 파김치 구매 가이드. 밥, 라면, 고기 등 다양한 요리에 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -79,12 +85,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a747/f4556ed4437ca44df193369b7d4f9f269f0ff612a9beb2bf5b50aec270a9.png
-title: 전라도 여수 파김치 구매 가이드
-date: 2026-05-18
-description: 국내산 쪽파와 감칠맛 나는 양념이 특징인 전라도 여수 파김치 구매 가이드. 밥, 라면, 고기 등 다양한 요리에 활용하기 좋습니다.
----
 
 
 

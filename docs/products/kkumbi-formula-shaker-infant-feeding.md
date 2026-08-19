@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/03/11/16/5/785431ad-4278-48ef-bd4e-69ab3deb8315.jpg
+title: 꿈비 분유 쉐이커 구매 가이드
+date: 2026-05-20
+description: 꿈비 분유 쉐이커는 신생아 부모의 밤중 수유 편의성을 높이고 손목 부담을 줄여주는 자동 분유 혼합기입니다. 덩어리 없이 고르게 섞어 거품을 줄여주어 아기 배앓이 걱정을 덜어줍니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -84,12 +90,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/03/11/16/5/785431ad-4278-48ef-bd4e-69ab3deb8315.jpg
-title: 꿈비 분유 쉐이커 구매 가이드
-date: 2026-05-20
-description: 꿈비 분유 쉐이커는 신생아 부모의 밤중 수유 편의성을 높이고 손목 부담을 줄여주는 자동 분유 혼합기입니다. 덩어리 없이 고르게 섞어 거품을 줄여주어 아기 배앓이 걱정을 덜어줍니다.
----
 
 
 

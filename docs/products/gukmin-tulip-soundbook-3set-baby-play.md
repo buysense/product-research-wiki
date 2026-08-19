@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/358390590393311-47352ce9-d9c1-48ee-a042-d67f1b3eb484.jpg
+title: "국민 튤립 사운드북 전3종 세트: 아기사랑동요 + 오감놀이동요 + 아기똑똑동요 구매 가이드"
+date: 2026-05-21
+description: 국민 튤립 사운드북 전3종 세트는 3개월 이상 영유아의 시청각 발달과 오감 자극을 돕는 사운드북으로, 가정 및 외출 시 아기들의 놀이와 교육에 활용됩니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/358390590393311-47352ce9-d9c1-48ee-a042-d67f1b3eb484.jpg
-title: "국민 튤립 사운드북 전3종 세트: 아기사랑동요 + 오감놀이동요 + 아기똑똑동요 구매 가이드"
-date: 2026-05-21
-description: 국민 튤립 사운드북 전3종 세트는 3개월 이상 영유아의 시청각 발달과 오감 자극을 돕는 사운드북으로, 가정 및 외출 시 아기들의 놀이와 교육에 활용됩니다.
----
 
 
 

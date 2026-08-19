@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/50aa/0f34f95344fbdf2c60c43d669736e8fb5782fa583695d34300ccdc3f6a8a.jpg
+title: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White 구매 가이드
+date: 2026-06-28
+description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주얼한 일상복, 여름철 시원한 착용 또는 스타일리시한 레이어링에 적합한 탱크탑입니다. 독특한 아일렛 스터드 디자인으로 포인트를 더합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -76,12 +82,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/50aa/0f34f95344fbdf2c60c43d669736e8fb5782fa583695d34300ccdc3f6a8a.jpg
-title: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White 구매 가이드
-date: 2026-06-28
-description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주얼한 일상복, 여름철 시원한 착용 또는 스타일리시한 레이어링에 적합한 탱크탑입니다. 독특한 아일렛 스터드 디자인으로 포인트를 더합니다.
----
 
 
 

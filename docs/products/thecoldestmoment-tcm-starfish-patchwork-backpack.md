@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b8f/f030cc2421659e5222ebdf70b0e765d3a8f04b8cd155ddd8c79058690c25.jpg
+title: 더콜디스트모먼트 TCM starfish patchwork backpack 구매 가이드
+date: 2026-07-20
+description: 더콜디스트모먼트 TCM starfish patchwork backpack은 독특한 불가사리 패치워크 디자인이 돋보이는 가방으로, 개성 있는 스타일을 완성하고 싶은 소비자를 위한 패션 아이템입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -69,12 +75,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b8f/f030cc2421659e5222ebdf70b0e765d3a8f04b8cd155ddd8c79058690c25.jpg
-title: 더콜디스트모먼트 TCM starfish patchwork backpack 구매 가이드
-date: 2026-07-20
-description: 더콜디스트모먼트 TCM starfish patchwork backpack은 독특한 불가사리 패치워크 디자인이 돋보이는 가방으로, 개성 있는 스타일을 완성하고 싶은 소비자를 위한 패션 아이템입니다.
----
 
 
 

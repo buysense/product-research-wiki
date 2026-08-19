@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/385e/65e43715abe64335047ffca06ee66a1316bca7665d21181d2be7776c8644.jpg
+title: 비렌느 스팟 엑스 구매 가이드
+date: 2026-07-23
+description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 국소 부위 피부 고민을 집에서 관리하고자 할 때 적합한 세럼입니다. 병풀추출물과 율무 성분으로 자극 없이 피부를 진정하고 개선하는 데 도움을 줍니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -78,12 +84,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/385e/65e43715abe64335047ffca06ee66a1316bca7665d21181d2be7776c8644.jpg
-title: 비렌느 스팟 엑스 구매 가이드
-date: 2026-07-23
-description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 국소 부위 피부 고민을 집에서 관리하고자 할 때 적합한 세럼입니다. 병풀추출물과 율무 성분으로 자극 없이 피부를 진정하고 개선하는 데 도움을 줍니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f67b/7b1bc61869bc1966f2c66e424a824fc2cf5989c18a208289b57b47f82732.jpg
+title: 하이스쿨디스코 플라워 슬리브리스 구매 가이드
+date: 2026-07-03
+description: 하이스쿨디스코 플라워 슬리브리스는 다채로운 꽃무늬 디자인이 돋보이는 슬리브리스 상의로, 시원하고 편안하여 여름철 캐주얼룩이나 휴양지 패션으로 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -66,12 +72,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f67b/7b1bc61869bc1966f2c66e424a824fc2cf5989c18a208289b57b47f82732.jpg
-title: 하이스쿨디스코 플라워 슬리브리스 구매 가이드
-date: 2026-07-03
-description: 하이스쿨디스코 플라워 슬리브리스는 다채로운 꽃무늬 디자인이 돋보이는 슬리브리스 상의로, 시원하고 편안하여 여름철 캐주얼룩이나 휴양지 패션으로 활용하기 좋습니다.
----
 
 
 

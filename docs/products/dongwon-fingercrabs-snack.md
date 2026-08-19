@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/z9joq3dq/7dd06f108d334da7bcaf45afc0d73753.jpg
+title: 동원 핑거크랩스 구매 가이드
+date: 2026-04-26
+description: 동원 핑거크랩스는 한입 크기로 즐길 수 있는 게맛살로, 아이 간식, 어른 맥주 안주, 샐러드나 김밥 등 다양한 요리 재료로 활용하기 좋은 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -77,12 +83,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/z9joq3dq/7dd06f108d334da7bcaf45afc0d73753.jpg
-title: 동원 핑거크랩스 구매 가이드
-date: 2026-04-26
-description: 동원 핑거크랩스는 한입 크기로 즐길 수 있는 게맛살로, 아이 간식, 어른 맥주 안주, 샐러드나 김밥 등 다양한 요리 재료로 활용하기 좋은 제품입니다.
----
 
 
 

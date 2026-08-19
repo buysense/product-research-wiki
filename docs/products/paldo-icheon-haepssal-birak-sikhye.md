@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/11/11/0/f28a8700-f812-4dbf-86bf-38ae15b073a7.jpg
+title: 팔도 이천햅쌀 비락식혜 구매 가이드
+date: 2026-04-02
+description: 팔도 이천햅쌀 비락식혜는 경기도 이천 햅쌀을 사용한 전통음료로, 명절 상차림 및 일상 간식, 시원한 디저트로 즐기기 좋습니다. 풀오픈캔으로 밥알 섭취가 편리하며, 얼려 슬러시로 즐길 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -69,12 +75,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/11/11/0/f28a8700-f812-4dbf-86bf-38ae15b073a7.jpg
-title: 팔도 이천햅쌀 비락식혜 구매 가이드
-date: 2026-04-02
-description: 팔도 이천햅쌀 비락식혜는 경기도 이천 햅쌀을 사용한 전통음료로, 명절 상차림 및 일상 간식, 시원한 디저트로 즐기기 좋습니다. 풀오픈캔으로 밥알 섭취가 편리하며, 얼려 슬러시로 즐길 수 있습니다.
----
 
 
 

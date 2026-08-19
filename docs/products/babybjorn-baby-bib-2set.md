@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/e15c3024c18bc395a0ef4ed2118883216696f4404239d82cf75ad7d6551a_1776245286232.jpg
+title: 베이비뵨 이유식 턱받이 (2종 세트) 구매 가이드
+date: 2026-04-16
+description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작하는 아기부터 유아까지 성장에 맞춰 사용할 수 있는 BPA 프리 소재의 턱받이입니다. 넓고 깊은 포켓으로 음식물 흘림을 방지하며, 간편한 세척으로 육아의 번거로움을 줄여줍니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,12 +92,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/e15c3024c18bc395a0ef4ed2118883216696f4404239d82cf75ad7d6551a_1776245286232.jpg
-title: 베이비뵨 이유식 턱받이 (2종 세트) 구매 가이드
-date: 2026-04-16
-description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작하는 아기부터 유아까지 성장에 맞춰 사용할 수 있는 BPA 프리 소재의 턱받이입니다. 넓고 깊은 포켓으로 음식물 흘림을 방지하며, 간편한 세척으로 육아의 번거로움을 줄여줍니다.
----
 
 
 

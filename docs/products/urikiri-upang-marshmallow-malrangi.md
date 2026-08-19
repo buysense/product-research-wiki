@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8ad2/08b72503bcc27b7ecc981ac68b5d008e06cb02e9fca6594882a4f920de5a.jpg
+title: 우리끼리 말랑한 우팡이 마시멜로 말랑이 구매 가이드
+date: 2026-05-15
+description: 우리끼리 말랑한 우팡이 마시멜로 말랑이는 말랑쫀득한 촉감으로 아이들의 스트레스 완화와 소근육 발달에 도움을 주며, 부담 없는 선물이나 책상 위 피젯 토이로 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8ad2/08b72503bcc27b7ecc981ac68b5d008e06cb02e9fca6594882a4f920de5a.jpg
-title: 우리끼리 말랑한 우팡이 마시멜로 말랑이 구매 가이드
-date: 2026-05-15
-description: 우리끼리 말랑한 우팡이 마시멜로 말랑이는 말랑쫀득한 촉감으로 아이들의 스트레스 완화와 소근육 발달에 도움을 주며, 부담 없는 선물이나 책상 위 피젯 토이로 활용하기 좋습니다.
----
 
 
 

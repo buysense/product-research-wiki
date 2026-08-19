@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/612e/16a7af63f2fb2d735a6b7a74c4fff57a9cc2525b1c080e74bafedebd3f78.png
+title: 자연지감 프리미엄 온명란 백명란 저염명란젓 소분포장 구매 가이드
+date: 2026-07-13
+description: 자연지감 프리미엄 온명란 백명란 저염명란젓 소분포장은 개별 포장으로 신선함과 편리함을 제공하며, 밥반찬이나 다양한 요리 재료로 활용하기 좋은 저염 명란젓입니다. 비린 맛이 적고 담백해 온 가족이 즐기기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/612e/16a7af63f2fb2d735a6b7a74c4fff57a9cc2525b1c080e74bafedebd3f78.png
-title: 자연지감 프리미엄 온명란 백명란 저염명란젓 소분포장 구매 가이드
-date: 2026-07-13
-description: 자연지감 프리미엄 온명란 백명란 저염명란젓 소분포장은 개별 포장으로 신선함과 편리함을 제공하며, 밥반찬이나 다양한 요리 재료로 활용하기 좋은 저염 명란젓입니다. 비린 맛이 적고 담백해 온 가족이 즐기기 좋습니다.
----
 
 
 

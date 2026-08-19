@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1664/74c56e19e4170d3aefa8e3ba4a86ea2221055f03e66a2c31bfeeb36c8cfc.jpg
+title: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK 구매 가이드
+date: 2026-08-07
+description: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK는 도시적인 스트릿 패션과 일상적인 캐주얼 착장에 어울리는 하이탑 스니커즈입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -37,12 +43,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1664/74c56e19e4170d3aefa8e3ba4a86ea2221055f03e66a2c31bfeeb36c8cfc.jpg
-title: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK 구매 가이드
-date: 2026-08-07
-description: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK는 도시적인 스트릿 패션과 일상적인 캐주얼 착장에 어울리는 하이탑 스니커즈입니다.
----
 
 
 

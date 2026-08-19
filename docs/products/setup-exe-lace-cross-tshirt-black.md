@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d225/073b983c97248f9a5a0bf5fbf758f05b32e20e49ad408eec9c5f671b9e7c.jpg
+title: [셋업이엑스이] LACE CROSS T-SHIRT / BLACK 구매 가이드
+date: 2026-07-10
+description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이스 크로스 디테일로 개성을 표현하며, 일상 캐주얼부터 특별한 날까지 활용하기 좋은 티셔츠입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -66,12 +72,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d225/073b983c97248f9a5a0bf5fbf758f05b32e20e49ad408eec9c5f671b9e7c.jpg
-title: [셋업이엑스이] LACE CROSS T-SHIRT / BLACK 구매 가이드
-date: 2026-07-10
-description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이스 크로스 디테일로 개성을 표현하며, 일상 캐주얼부터 특별한 날까지 활용하기 좋은 티셔츠입니다.
----
 
 
 

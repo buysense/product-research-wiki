@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/26/14/5/3e64923d-4346-42cf-8d32-0a9e0fc587a8.jpg
+title: 쑥쑥 크는 아이는 이유가 있다:세 살부터 준비하는 평생 키 성장 프로젝트 구매 가이드
+date: 2026-05-27
+description: '세 살부터 준비하는 평생 키 성장 프로젝트 도서는 자녀의 키 성장에 대한 부모의 기본적인 궁금증을 해소하고 생활 습관 개선을 통해 건강한 성장을 돕기 위한 정보를 제공합니다.'
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/26/14/5/3e64923d-4346-42cf-8d32-0a9e0fc587a8.jpg
-title: 쑥쑥 크는 아이는 이유가 있다:세 살부터 준비하는 평생 키 성장 프로젝트 구매 가이드
-date: 2026-05-27
-description: '세 살부터 준비하는 평생 키 성장 프로젝트 도서는 자녀의 키 성장에 대한 부모의 기본적인 궁금증을 해소하고 생활 습관 개선을 통해 건강한 성장을 돕기 위한 정보를 제공합니다.'
----
 
 
 

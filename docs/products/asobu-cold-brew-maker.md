@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/04/30/3715921980/fef6bb5c-215e-4007-a358-087fffc52aff.jpg
+title: 아소부 콜드브루 메이커 구매 가이드
+date: 2026-07-03
+description: 아소부 콜드브루 메이커는 집에서 간편하게 콜드브루 커피를 즐기고 싶은 사용자에게 적합한 제품입니다. 세련된 디자인과 쉬운 세척이 장점이지만, 미세한 커피 가루 필터링과 맛의 개인차가 있을 수 있습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -80,12 +86,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/04/30/3715921980/fef6bb5c-215e-4007-a358-087fffc52aff.jpg
-title: 아소부 콜드브루 메이커 구매 가이드
-date: 2026-07-03
-description: 아소부 콜드브루 메이커는 집에서 간편하게 콜드브루 커피를 즐기고 싶은 사용자에게 적합한 제품입니다. 세련된 디자인과 쉬운 세척이 장점이지만, 미세한 커피 가루 필터링과 맛의 개인차가 있을 수 있습니다.
----
 
 
 

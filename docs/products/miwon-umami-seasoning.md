@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83079826965603-1feacb43-f88e-47c2-9ce2-1208fb9b11be.jpg
+title: 미원 구매 가이드
+date: 2026-04-30
+description: 미원은 1956년 출시된 국산 1호 조미료로, 사탕수수 발효를 통해 얻은 순수한 감칠맛이 특징입니다. 가정에서 일반 요리나 외식 메뉴의 맛을 재현할 때 활용되며, 소금 사용량을 줄여 저염식에도 도움을 줍니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -79,12 +85,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83079826965603-1feacb43-f88e-47c2-9ce2-1208fb9b11be.jpg
-title: 미원 구매 가이드
-date: 2026-04-30
-description: 미원은 1956년 출시된 국산 1호 조미료로, 사탕수수 발효를 통해 얻은 순수한 감칠맛이 특징입니다. 가정에서 일반 요리나 외식 메뉴의 맛을 재현할 때 활용되며, 소금 사용량을 줄여 저염식에도 도움을 줍니다.
----
 
 
 

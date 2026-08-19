@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/47736228517732-f0671b08-7ef7-4fd5-8c1d-87a5d7ef2467.jpg
+title: 테라로사 드립백커피 구매 가이드
+date: 2026-04-29
+description: 테라로사 드립백커피는 풍부한 향과 밸런스 좋은 맛을 자랑하며, 집, 사무실, 캠핑 등 언제 어디서든 간편하게 고품질 커피를 즐기기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,12 +92,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/47736228517732-f0671b08-7ef7-4fd5-8c1d-87a5d7ef2467.jpg
-title: 테라로사 드립백커피 구매 가이드
-date: 2026-04-29
-description: 테라로사 드립백커피는 풍부한 향과 밸런스 좋은 맛을 자랑하며, 집, 사무실, 캠핑 등 언제 어디서든 간편하게 고품질 커피를 즐기기 좋습니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a09/7504f4b03d26cba9d52c14e7ec8959e63cef456921006c0dcc8312828b9f.jpg
+title: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이넥 티 FOT249 DOH676 구매 가이드
+date: 2026-07-11
+description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이넥 티는 데일리룩과 편안함을 중시하는 여성들을 위한 기본 아이템입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -70,12 +76,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a09/7504f4b03d26cba9d52c14e7ec8959e63cef456921006c0dcc8312828b9f.jpg
-title: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이넥 티 FOT249 DOH676 구매 가이드
-date: 2026-07-11
-description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이넥 티는 데일리룩과 편안함을 중시하는 여성들을 위한 기본 아이템입니다.
----
 
 
 

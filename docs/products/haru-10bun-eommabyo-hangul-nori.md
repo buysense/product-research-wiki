@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/104745279/116802615/main/9791192259284_L.jpg
+title: 하루 10분 엄마표 한글 놀이 구매 가이드
+date: 2023-10-27
+description: 하루 10분 엄마표 한글 놀이는 짧은 시간 동안 놀이처럼 한글을 가르치고자 하는 부모를 위한 교재입니다. 아이들이 즐겁게 한글을 익히는 데 도움을 줍니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail-product-api/A00077021/104745279/116802615/main/9791192259284_L.jpg
-title: 하루 10분 엄마표 한글 놀이 구매 가이드
-date: 2023-10-27
-description: 하루 10분 엄마표 한글 놀이는 짧은 시간 동안 놀이처럼 한글을 가르치고자 하는 부모를 위한 교재입니다. 아이들이 즐겁게 한글을 익히는 데 도움을 줍니다.
----
 
 
 

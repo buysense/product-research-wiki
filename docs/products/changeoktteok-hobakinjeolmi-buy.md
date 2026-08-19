@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1307630783358384-33b2001e-8846-4747-bcd9-7176e0e265f9.jpg
+title: 창억떡 호박인절미 구매 가이드
+date: 2026-05-03
+description: 창억떡 호박인절미는 부드럽고 쫄깃한 식감과 은은한 단맛이 특징인 냉동 떡으로, 바쁜 아침 식사 대용이나 출출할 때 간식으로 간편하게 즐기기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1307630783358384-33b2001e-8846-4747-bcd9-7176e0e265f9.jpg
-title: 창억떡 호박인절미 구매 가이드
-date: 2026-05-03
-description: 창억떡 호박인절미는 부드럽고 쫄깃한 식감과 은은한 단맛이 특징인 냉동 떡으로, 바쁜 아침 식사 대용이나 출출할 때 간식으로 간편하게 즐기기 좋습니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2e54/c04627c91b236393379c1614e7417f454e8764590c25064f6642f20ac85d.jpg
+title: 국내산 전라도식 전통 열무김치 구매 가이드
+date: 2026-06-27
+description: 국내산 전라도식 전통 열무김치는 HACCP 인증을 받은 국내산 재료로 만들어졌으며, 여름철 입맛을 돋우거나 집에서 직접 김치를 담그기 어려울 때 가족의 식탁을 풍성하게 만듭니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -83,12 +89,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2e54/c04627c91b236393379c1614e7417f454e8764590c25064f6642f20ac85d.jpg
-title: 국내산 전라도식 전통 열무김치 구매 가이드
-date: 2026-06-27
-description: 국내산 전라도식 전통 열무김치는 HACCP 인증을 받은 국내산 재료로 만들어졌으며, 여름철 입맛을 돋우거나 집에서 직접 김치를 담그기 어려울 때 가족의 식탁을 풍성하게 만듭니다.
----
 
 
 

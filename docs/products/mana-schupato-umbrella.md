@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c9ca/f6581ea930bdd943c57f426983fc055a2c4ef576b57f7bdd17a2e6a125f7.png
+title: 마나 슈파토 우산 구매 가이드
+date: 2026-06-18
+description: 마나 슈파토 우산은 갑작스러운 비나 일상생활에서 간편하게 사용할 수 있는 일반적인 우산입니다. 휴대성과 기본적인 방수 기능을 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -73,12 +79,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c9ca/f6581ea930bdd943c57f426983fc055a2c4ef576b57f7bdd17a2e6a125f7.png
-title: 마나 슈파토 우산 구매 가이드
-date: 2026-06-18
-description: 마나 슈파토 우산은 갑작스러운 비나 일상생활에서 간편하게 사용할 수 있는 일반적인 우산입니다. 휴대성과 기본적인 방수 기능을 제공합니다.
----
 
 
 

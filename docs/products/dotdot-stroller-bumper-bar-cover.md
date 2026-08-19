@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f265/502f1ac99a767f8b97897cbea21262f0677f4cda80badd9e27a75512e087.jpg
+title: 돗투돗 유모차 안전바 벨트 커버 구매 가이드
+date: 2026-05-27
+description: 돗투돗 유모차 안전바 벨트 커버는 아이의 위생과 안전을 고려해 유모차 안전바를 청결하게 유지하며, 아이가 입으로 물고 빨 때 보호해주는 유아용품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f265/502f1ac99a767f8b97897cbea21262f0677f4cda80badd9e27a75512e087.jpg
-title: 돗투돗 유모차 안전바 벨트 커버 구매 가이드
-date: 2026-05-27
-description: 돗투돗 유모차 안전바 벨트 커버는 아이의 위생과 안전을 고려해 유모차 안전바를 청결하게 유지하며, 아이가 입으로 물고 빨 때 보호해주는 유아용품입니다.
----
 
 
 

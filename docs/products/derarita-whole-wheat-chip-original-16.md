@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10113766538417-4f797e4f-81cf-49c6-ad5f-4a28c1a0a350.jpg
+title: 데라리타 통밀칩 오리지널 16개 구매 가이드
+date: 2026-05-12
+description: 데라리타 통밀칩 오리지널 16개는 건강을 생각하는 간식으로, 고소한 통밀 맛과 바삭한 식감이 특징입니다. 다이어트 중이거나 자극적이지 않은 간식을 찾는 분, 운동 전후 혹은 사무실 간식으로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -87,12 +93,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10113766538417-4f797e4f-81cf-49c6-ad5f-4a28c1a0a350.jpg
-title: 데라리타 통밀칩 오리지널 16개 구매 가이드
-date: 2026-05-12
-description: 데라리타 통밀칩 오리지널 16개는 건강을 생각하는 간식으로, 고소한 통밀 맛과 바삭한 식감이 특징입니다. 다이어트 중이거나 자극적이지 않은 간식을 찾는 분, 운동 전후 혹은 사무실 간식으로 적합합니다.
----
 
 
 

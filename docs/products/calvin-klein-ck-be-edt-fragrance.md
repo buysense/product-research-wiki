@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/23/17/8/28280740-8672-4e89-97a3-e46bca74491d.jpg
+title: 캘빈클라인 CK be 오드뚜왈렛 구매 가이드
+date: 2026-04-02
+description: 캘빈클라인 CK be 오드뚜왈렛은 1996년 출시된 남녀 공용 향수로, 깔끔하고 중성적인 비누 향과 포근한 머스크 잔향이 특징입니다. 데일리 사용 및 선물용으로 적합한 ck향수입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -83,12 +89,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/23/17/8/28280740-8672-4e89-97a3-e46bca74491d.jpg
-title: 캘빈클라인 CK be 오드뚜왈렛 구매 가이드
-date: 2026-04-02
-description: 캘빈클라인 CK be 오드뚜왈렛은 1996년 출시된 남녀 공용 향수로, 깔끔하고 중성적인 비누 향과 포근한 머스크 잔향이 특징입니다. 데일리 사용 및 선물용으로 적합한 ck향수입니다.
----
 
 
 

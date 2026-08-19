@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d7a/989709de690ffa9721fe98a8f1bb139a01361b9690245cae6e4ac632cf9e.jpg
+title: [제라헌] 제주 동문시장 오메기떡 3종 팥 흑임자 쑥 구매 가이드
+date: 2026-06-18
+description: 제라헌 제주 동문시장 오메기떡 3종은 팥, 흑임자, 쑥 세 가지 맛으로 제주 여행의 추억을 집에서 즐기거나 가족에게 선물하기 좋은 간식입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d7a/989709de690ffa9721fe98a8f1bb139a01361b9690245cae6e4ac632cf9e.jpg
-title: [제라헌] 제주 동문시장 오메기떡 3종 팥 흑임자 쑥 구매 가이드
-date: 2026-06-18
-description: 제라헌 제주 동문시장 오메기떡 3종은 팥, 흑임자, 쑥 세 가지 맛으로 제주 여행의 추억을 집에서 즐기거나 가족에게 선물하기 좋은 간식입니다.
----
 
 
 

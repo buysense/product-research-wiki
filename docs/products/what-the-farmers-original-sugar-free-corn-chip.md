@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/681d/077f51a0635741e920f48ae332b19af1a568a21fbfcd28f334baea08168b.jpg
+title: 다이어터 필수품 왓더파머스 오리지널 무설탕 옥수수칩 구매 가이드
+date: 2026-05-12
+description: 왓더파머스 오리지널 무설탕 옥수수칩은 다이어트 중에도 부담 없이 즐길 수 있도록 기름 없이 구워낸 건강 간식입니다. 입이 심심할 때나 온 가족 영양 간식으로 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -82,12 +88,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/681d/077f51a0635741e920f48ae332b19af1a568a21fbfcd28f334baea08168b.jpg
-title: 다이어터 필수품 왓더파머스 오리지널 무설탕 옥수수칩 구매 가이드
-date: 2026-05-12
-description: 왓더파머스 오리지널 무설탕 옥수수칩은 다이어트 중에도 부담 없이 즐길 수 있도록 기름 없이 구워낸 건강 간식입니다. 입이 심심할 때나 온 가족 영양 간식으로 적합합니다.
----
 
 
 

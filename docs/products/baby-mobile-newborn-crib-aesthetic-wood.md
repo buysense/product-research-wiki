@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fabb/d55b6b491aaa027c87000bbd9daf0059f949d74e7ad87059ab0d7cee53cc.jpg
+title: 아기 모빌 신생아 아기 침대 감성모빌 원목 구매 가이드
+date: 2026-07-01
+description: 신생아의 시각 발달과 정서적 안정에 도움을 주는 아기 모빌, 특히 아기 침대용 감성모빌 원목 제품에 대한 구매 가이드입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fabb/d55b6b491aaa027c87000bbd9daf0059f949d74e7ad87059ab0d7cee53cc.jpg
-title: 아기 모빌 신생아 아기 침대 감성모빌 원목 구매 가이드
-date: 2026-07-01
-description: 신생아의 시각 발달과 정서적 안정에 도움을 주는 아기 모빌, 특히 아기 침대용 감성모빌 원목 제품에 대한 구매 가이드입니다.
----
 
 
 

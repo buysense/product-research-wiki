@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd02/23a6125030601d683468720b293099cc4bc9f44650d253aa5df41e36caf1.jpeg
+title: EFM ipTIME BE3600QCA 유무선공유기 구매 가이드
+date: 2026-07-01
+description: EFM ipTIME BE3600QCA 유무선공유기는 Wi-Fi 7을 지원하며, 빠른 속도와 안정적인 연결성으로 가정이나 사무실에서 다수의 기기를 사용하는 환경에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd02/23a6125030601d683468720b293099cc4bc9f44650d253aa5df41e36caf1.jpeg
-title: EFM ipTIME BE3600QCA 유무선공유기 구매 가이드
-date: 2026-07-01
-description: EFM ipTIME BE3600QCA 유무선공유기는 Wi-Fi 7을 지원하며, 빠른 속도와 안정적인 연결성으로 가정이나 사무실에서 다수의 기기를 사용하는 환경에 적합합니다.
----
 
 
 

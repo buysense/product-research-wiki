@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/811527186775297-1b7d0c70-184f-4338-8b22-283693ffecb3.jpg
+title: 샹달프 딸기잼 구매 가이드
+date: 2026-05-04
+description: 샹달프 딸기잼은 설탕 대신 과일 본연의 단맛과 풍부한 과육으로 온 가족 아침 식사나 아이 간식으로 활용하기 좋은 프리미엄 잼입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -85,12 +91,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/811527186775297-1b7d0c70-184f-4338-8b22-283693ffecb3.jpg
-title: 샹달프 딸기잼 구매 가이드
-date: 2026-05-04
-description: 샹달프 딸기잼은 설탕 대신 과일 본연의 단맛과 풍부한 과육으로 온 가족 아침 식사나 아이 간식으로 활용하기 좋은 프리미엄 잼입니다.
----
 
 
 

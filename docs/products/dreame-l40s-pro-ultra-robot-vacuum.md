@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/17/15/3/8fdbaf88-f1a3-4954-97a5-1ef527c64b7a.png
+title: 드리미 올인원 로봇청소기 L40s Pro Ultra 구매 가이드
+date: 2026-06-26
+description: 드리미 L40s Pro Ultra는 바쁜 일상 속에서 완벽한 바닥 청소 자동화를 원하는 가정을 위한 올인원 로봇청소기입니다. 자동 먼지 비움, 걸레 세척 및 건조 기능으로 청소 스트레스를 줄여줍니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -91,12 +97,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/17/15/3/8fdbaf88-f1a3-4954-97a5-1ef527c64b7a.png
-title: 드리미 올인원 로봇청소기 L40s Pro Ultra 구매 가이드
-date: 2026-06-26
-description: 드리미 L40s Pro Ultra는 바쁜 일상 속에서 완벽한 바닥 청소 자동화를 원하는 가정을 위한 올인원 로봇청소기입니다. 자동 먼지 비움, 걸레 세척 및 건조 기능으로 청소 스트레스를 줄여줍니다.
----
 
 
 

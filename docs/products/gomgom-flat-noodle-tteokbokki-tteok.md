@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/272164943064728-2cf253f2-a513-4790-b425-97294eb90116.jpg
+title: 곰곰 납작한 누들 밀 떡볶이떡 (냉장), 500g, 1개 구매 가이드
+date: 2026-05-17
+description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰어난 소스 흡수력을 자랑하며, 집에서 간편하고 맛있게 떡볶이 등 다양한 요리를 즐기고 싶은 소비자에게 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/272164943064728-2cf253f2-a513-4790-b425-97294eb90116.jpg
-title: 곰곰 납작한 누들 밀 떡볶이떡 (냉장), 500g, 1개 구매 가이드
-date: 2026-05-17
-description: 곰곰 납작한 누들 밀 떡볶이떡은 쫄깃한 식감과 뛰어난 소스 흡수력을 자랑하며, 집에서 간편하고 맛있게 떡볶이 등 다양한 요리를 즐기고 싶은 소비자에게 적합합니다.
----
 
 
 

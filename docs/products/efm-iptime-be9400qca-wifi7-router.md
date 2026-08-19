@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1444/b7224791e10b58037948edf3fbc1970f6b2856c671cf85b0686813106dbf.jpg
+title: EFM ipTIME BE9400QCA 유무선공유기 구매 가이드
+date: 2026-07-01
+description: EFM ipTIME BE9400QCA 유무선공유기는 NAS나 내부망을 활용하여 끊김 없는 고속 네트워크를 원하는 사용자를 위한 최신 Wi-Fi 7 및 2.5GbE 지원 라우터입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -77,12 +83,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1444/b7224791e10b58037948edf3fbc1970f6b2856c671cf85b0686813106dbf.jpg
-title: EFM ipTIME BE9400QCA 유무선공유기 구매 가이드
-date: 2026-07-01
-description: EFM ipTIME BE9400QCA 유무선공유기는 NAS나 내부망을 활용하여 끊김 없는 고속 네트워크를 원하는 사용자를 위한 최신 Wi-Fi 7 및 2.5GbE 지원 라우터입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/15/13/7/e4d3676d-d984-401e-aadc-24c484f12e59.jpg
+title: 캐치티니핑 하츄핑 핸드폰 여행세트 구매 가이드
+date: 2026-07-03
+description: 캐치티니핑 하츄핑 핸드폰 여행세트는 4-7세 여자아이들에게 인기 있는 역할놀이 장난감으로, 생일이나 어린이날 선물로 적합하며 다양한 소품으로 풍부한 상상력을 자극합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -82,12 +88,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/15/13/7/e4d3676d-d984-401e-aadc-24c484f12e59.jpg
-title: 캐치티니핑 하츄핑 핸드폰 여행세트 구매 가이드
-date: 2026-07-03
-description: 캐치티니핑 하츄핑 핸드폰 여행세트는 4-7세 여자아이들에게 인기 있는 역할놀이 장난감으로, 생일이나 어린이날 선물로 적합하며 다양한 소품으로 풍부한 상상력을 자극합니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/186749504319141-dc3399f3-58c2-41b9-afde-1c59fc2db1ea.jpg
+title: 마이크로소프트 Windows 11 Home FPP USB 구매 가이드
+date: 2026-04-06
+description: 마이크로소프트 Windows 11 Home FPP USB는 조립 PC 및 운영체제 미포함 PC 사용자에게 안정적인 윈도우 11 환경을 제공하며, 쉬운 설치와 PC 교체 시 라이선스 재사용이 가능한 정품 운영체제입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -88,12 +94,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/186749504319141-dc3399f3-58c2-41b9-afde-1c59fc2db1ea.jpg
-title: 마이크로소프트 Windows 11 Home FPP USB 구매 가이드
-date: 2026-04-06
-description: 마이크로소프트 Windows 11 Home FPP USB는 조립 PC 및 운영체제 미포함 PC 사용자에게 안정적인 윈도우 11 환경을 제공하며, 쉬운 설치와 PC 교체 시 라이선스 재사용이 가능한 정품 운영체제입니다.
----
 
 
 

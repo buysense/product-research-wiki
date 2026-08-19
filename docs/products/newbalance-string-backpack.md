@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/18/16/3/64a549bd-cda1-40ee-b43b-ae0326b97497.jpg
+title: 뉴발란스 스트링 백팩 구매 가이드
+date: 2026-04-29
+description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 학원 가방, 일상용으로 적합한 실용적인 수납력과 견고한 디자인의 가방입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -86,12 +92,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/18/16/3/64a549bd-cda1-40ee-b43b-ae0326b97497.jpg
-title: 뉴발란스 스트링 백팩 구매 가이드
-date: 2026-04-29
-description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 학원 가방, 일상용으로 적합한 실용적인 수납력과 견고한 디자인의 가방입니다.
----
 
 
 

@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/0cy1mgq4/fce034d358dc42088880dfd4fbba510c.jpg
+title: 리에티 AIDA RT 2016 편광 선글라스 구매 가이드
+date: 2026-08-11
+description: 리에티 AIDA RT 2016 편광 선글라스는 야외 활동, 운전 등 눈부심 감소와 선명한 시야 확보가 필요한 상황에 적합한 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -45,12 +51,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/0cy1mgq4/fce034d358dc42088880dfd4fbba510c.jpg
-title: 리에티 AIDA RT 2016 편광 선글라스 구매 가이드
-date: 2026-08-11
-description: 리에티 AIDA RT 2016 편광 선글라스는 야외 활동, 운전 등 눈부심 감소와 선명한 시야 확보가 필요한 상황에 적합한 제품입니다.
----
 
 
 

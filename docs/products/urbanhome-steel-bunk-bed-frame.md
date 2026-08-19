@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b8ff/366febc6c4ded8a0d4df8fd6fe54a3d6a5d5f65f84424edfea03cab64f9a.png
+title: 어반홈 철제 2층 벙커 침대 프레임 구매 가이드
+date: 2026-04-19
+description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공간 활용에 적합하며, 높은 하부 공간을 아지트처럼 꾸밀 수 있는 가성비 좋은 제품입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -81,12 +87,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b8ff/366febc6c4ded8a0d4df8fd6fe54a3d6a5d5f65f84424edfea03cab64f9a.png
-title: 어반홈 철제 2층 벙커 침대 프레임 구매 가이드
-date: 2026-04-19
-description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공간 활용에 적합하며, 높은 하부 공간을 아지트처럼 꾸밀 수 있는 가성비 좋은 제품입니다.
----
 
 
 

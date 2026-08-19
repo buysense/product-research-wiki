@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4ad4/c4d11cb96b1421a8da55fc881d28116a54dafbd98c3b30f0ac5d39b993df.jpg
+title: 스키피 수퍼 청크 피넛 버터 구매 가이드
+date: 2026-04-26
+description: 스키피 수퍼 청크 피넛 버터는 큼직한 땅콩 알갱이의 씹는 맛과 진한 고소함이 특징으로, 아침 식사, 간편한 간식, 식단 관리 중 에너지 보충 등 다양한 상황에서 활용됩니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -83,12 +89,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4ad4/c4d11cb96b1421a8da55fc881d28116a54dafbd98c3b30f0ac5d39b993df.jpg
-title: 스키피 수퍼 청크 피넛 버터 구매 가이드
-date: 2026-04-26
-description: 스키피 수퍼 청크 피넛 버터는 큼직한 땅콩 알갱이의 씹는 맛과 진한 고소함이 특징으로, 아침 식사, 간편한 간식, 식단 관리 중 에너지 보충 등 다양한 상황에서 활용됩니다.
----
 
 
 

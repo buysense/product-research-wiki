@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3161/058343c2435ff3368c95a1bec28369f5450035f4f8947bc1348827e5707f.png
+title: 리카틸 멕세이프 거치대 구매 가이드
+date: 2026-04-19
+description: 리카틸 멕세이프 거치대는 고강도 알루미늄 풀 메탈 바디와 강력한 맥세이프 자력을 갖춰 아이폰을 안정적으로 고정하며, 부드러운 곡선의 세련된 디자인으로 책상 위 공간을 오브제처럼 연출해줍니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -74,12 +80,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3161/058343c2435ff3368c95a1bec28369f5450035f4f8947bc1348827e5707f.png
-title: 리카틸 멕세이프 거치대 구매 가이드
-date: 2026-04-19
-description: 리카틸 멕세이프 거치대는 고강도 알루미늄 풀 메탈 바디와 강력한 맥세이프 자력을 갖춰 아이폰을 안정적으로 고정하며, 부드러운 곡선의 세련된 디자인으로 책상 위 공간을 오브제처럼 연출해줍니다.
----
 
 
 

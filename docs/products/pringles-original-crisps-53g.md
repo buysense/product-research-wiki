@@ -1,3 +1,9 @@
+---
+title: 프링글스 오리지날 53g 10개입 구매 가이드
+date: 2026-04-07
+description: 프링글스 오리지날 53g 10개입은 휴대하기 좋은 소용량 캔 멀티팩으로, 도시락 간식, 나들이, 편의점 대용으로 1인이 한 번에 즐기기 딱 좋은 구성입니다.
+slug_en: pringles-original-crisps-53g
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -69,12 +75,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-title: 프링글스 오리지날 53g 10개입 구매 가이드
-date: 2026-04-07
-description: 프링글스 오리지날 53g 10개입은 휴대하기 좋은 소용량 캔 멀티팩으로, 도시락 간식, 나들이, 편의점 대용으로 1인이 한 번에 즐기기 딱 좋은 구성입니다.
-slug_en: pringles-original-crisps-53g
----
 
 
 

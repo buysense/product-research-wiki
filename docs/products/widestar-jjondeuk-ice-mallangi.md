@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/109843231399247-ecbfa78a-7bc8-4d3e-9594-c11891d27c17.jpg
+title: 위드스타 쫀득쫀득 얼음 말랑이 구매 가이드
+date: 2026-05-15
+description: 위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이들의 촉감 놀이 및 스트레스 해소를 위한 장난감으로, 특유의 얼음 모양과 쫀득한 촉감이 특징입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -81,12 +87,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/109843231399247-ecbfa78a-7bc8-4d3e-9594-c11891d27c17.jpg
-title: 위드스타 쫀득쫀득 얼음 말랑이 구매 가이드
-date: 2026-05-15
-description: 위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이들의 촉감 놀이 및 스트레스 해소를 위한 장난감으로, 특유의 얼음 모양과 쫀득한 촉감이 특징입니다.
----
 
 
 

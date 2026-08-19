@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34395385550626-615f1595-b179-43e2-9054-ede9119b500c.jpg
+title: 풀무원 1+등급 무항생제 목초란 구매 가이드
+date: 2026-05-19
+description: 풀무원 1+등급 무항생제 목초란은 신선하고 비린내 없는 고소한 맛이 특징이며, 온 가족이 안심하고 섭취할 수 있는 건강한 식재료를 찾는 분들에게 적합합니다. 아침 식사부터 아이들 반찬까지 다양한 요리에 활용하기 좋습니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34395385550626-615f1595-b179-43e2-9054-ede9119b500c.jpg
-title: 풀무원 1+등급 무항생제 목초란 구매 가이드
-date: 2026-05-19
-description: 풀무원 1+등급 무항생제 목초란은 신선하고 비린내 없는 고소한 맛이 특징이며, 온 가족이 안심하고 섭취할 수 있는 건강한 식재료를 찾는 분들에게 적합합니다. 아침 식사부터 아이들 반찬까지 다양한 요리에 활용하기 좋습니다.
----
 
 
 

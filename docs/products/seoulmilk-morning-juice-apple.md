@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/11a0/aca5144e50f5bfdca1e0504a9a9525f727bee00c0b8705bd7a4c696e6816.jpg
+title: 아침에주스 사과 구매 가이드
+date: 2026-04-13
+description: 서울우유 아침에주스 사과는 익숙하고 상큼한 맛으로 아침 식사 대용이나 온 가족 간식으로 즐기기 좋은 냉장 사과주스입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -75,12 +81,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/11a0/aca5144e50f5bfdca1e0504a9a9525f727bee00c0b8705bd7a4c696e6816.jpg
-title: 아침에주스 사과 구매 가이드
-date: 2026-04-13
-description: 서울우유 아침에주스 사과는 익숙하고 상큼한 맛으로 아침 식사 대용이나 온 가족 간식으로 즐기기 좋은 냉장 사과주스입니다.
----
 
 
 

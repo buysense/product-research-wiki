@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/leetk3ie/01b62f8f74e645e585e5eddacfa23dfd.jpg
+title: 네이쳐러브메레 유아용 ABC 비행기 흡착식판 구매 가이드
+date: 2026-04-26
+description: 네이쳐러브메레 유아용 ABC 비행기 흡착식판은 아기가 스스로 식사하는 습관을 기를 수 있도록 돕는 흡착식 식판입니다. 견고한 디자인과 안정적인 흡착력으로 국물 있는 음식도 안심하고 담을 수 있어, 초기 유아 자기 주도 식사에 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -88,12 +94,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/leetk3ie/01b62f8f74e645e585e5eddacfa23dfd.jpg
-title: 네이쳐러브메레 유아용 ABC 비행기 흡착식판 구매 가이드
-date: 2026-04-26
-description: 네이쳐러브메레 유아용 ABC 비행기 흡착식판은 아기가 스스로 식사하는 습관을 기를 수 있도록 돕는 흡착식 식판입니다. 견고한 디자인과 안정적인 흡착력으로 국물 있는 음식도 안심하고 담을 수 있어, 초기 유아 자기 주도 식사에 적합합니다.
----
 
 
 

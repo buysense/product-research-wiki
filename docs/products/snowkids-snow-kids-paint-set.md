@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2730580176911353-3393889c-57c1-4104-b3bb-8d776e8ecbde.jpg
+title: 스노우키즈 스노우 유아물감 세트 구매 가이드
+date: 2026-05-29
+description: 스노우키즈 스노우 유아물감 세트는 유아의 안전한 미술 놀이를 위해 고안된 제품으로, 가정에서 창의적인 활동을 지원하는 데 적합합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -88,12 +94,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2730580176911353-3393889c-57c1-4104-b3bb-8d776e8ecbde.jpg
-title: 스노우키즈 스노우 유아물감 세트 구매 가이드
-date: 2026-05-29
-description: 스노우키즈 스노우 유아물감 세트는 유아의 안전한 미술 놀이를 위해 고안된 제품으로, 가정에서 창의적인 활동을 지원하는 데 적합합니다.
----
 
 
 

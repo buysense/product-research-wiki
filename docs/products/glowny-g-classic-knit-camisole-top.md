@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dfbc/88e5e6fe8ae541322bfe67c185731f6c4469356e9ca58b1f245bec5c0a8b.jpg
+title: GLOWNY G CLASSIC KNIT CAMISOLE 구매 가이드
+date: 2026-08-07
+description: GLOWNY G CLASSIC KNIT CAMISOLE은 부드러운 착용감과 뛰어난 활용도를 자랑하며, 단독 착용부터 다양한 상의 안에 레이어드하기 좋은 데일리 아이템입니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -36,12 +42,6 @@
 <!-- bs:chart -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dfbc/88e5e6fe8ae541322bfe67c185731f6c4469356e9ca58b1f245bec5c0a8b.jpg
-title: GLOWNY G CLASSIC KNIT CAMISOLE 구매 가이드
-date: 2026-08-07
-description: GLOWNY G CLASSIC KNIT CAMISOLE은 부드러운 착용감과 뛰어난 활용도를 자랑하며, 단독 착용부터 다양한 상의 안에 레이어드하기 좋은 데일리 아이템입니다.
----
 
 
 

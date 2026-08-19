@@ -1,3 +1,9 @@
+---
+image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/32089040334907-2ca508fa-0e3c-4083-9ffc-f14aba74ffd1.jpg
+title: 롯데제로 카카오 케이크 12p, 171g, 2개 구매 가이드
+date: 2026-05-12
+description: 당류 0g으로 부담 없이 즐기는 롯데제로 카카오 케이크 구매 가이드. 총 24개 낱개 포장으로 식단 관리 중이거나 아이들 간식으로 적합하며, 촉촉한 식감과 진한 카카오 풍미를 제공합니다.
+---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
 {
@@ -87,12 +93,6 @@
 <!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
----
-image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/32089040334907-2ca508fa-0e3c-4083-9ffc-f14aba74ffd1.jpg
-title: 롯데제로 카카오 케이크 12p, 171g, 2개 구매 가이드
-date: 2026-05-12
-description: 당류 0g으로 부담 없이 즐기는 롯데제로 카카오 케이크 구매 가이드. 총 24개 낱개 포장으로 식단 관리 중이거나 아이들 간식으로 적합하며, 촉촉한 식감과 진한 카카오 풍미를 제공합니다.
----
 
 
 
