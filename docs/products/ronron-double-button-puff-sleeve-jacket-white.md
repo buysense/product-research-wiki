@@ -10,6 +10,7 @@ description: 론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "론론 DOUBLE BUTTON PUFF SLEEVE JACKET WHITE",
+  "description": "론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 있는 자리, 오피스룩, 데이트룩 등 우아함과 세련됨을 더해주는 재킷입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cbec/d78efd32a1f9a280c3753026cd9fef87d779843195c8305209b78c8fcd99.jpg"
   ],
@@ -19,7 +20,7 @@ description: 론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 �
     "price": "116600",
     "url": "https://link.coupang.com/a/fkrBMLO4s0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   }
 }
 </script>
@@ -43,7 +44,7 @@ description: 론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,34 +53,35 @@ description: 론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 95 L 94 95 L 120 164 L 146 164 L 172 164 L 198 164 L 224 164 L 250 164 L 276 164 L 302 95 L 328 115 L 354 95 L 380 95 L 406 95 L 432 95 L 458 66 L 484 66 L 510 115 L 536 115 L 562 66 L 588 115 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 95 L 94 95 L 120 164 L 146 164 L 172 164 L 198 164 L 224 164 L 250 164 L 276 164 L 302 95 L 328 115 L 354 95 L 380 95 L 406 95 L 432 95 L 458 66 L 484 66 L 510 115 L 536 115 L 562 66 L 588 115" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 95 L 93 95 L 118 164 L 142 164 L 167 164 L 192 164 L 217 164 L 241 164 L 266 164 L 291 95 L 316 115 L 340 95 L 365 95 L 390 95 L 415 95 L 439 66 L 464 66 L 489 115 L 514 115 L 538 66 L 563 115 L 588 115 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 95 L 93 95 L 118 164 L 142 164 L 167 164 L 192 164 L 217 164 L 241 164 L 266 164 L 291 95 L 316 115 L 340 95 L 365 95 L 390 95 L 415 95 L 439 66 L 464 66 L 489 115 L 514 115 L 538 66 L 563 115 L 588 115" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="94" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="120" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="302" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="354" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="432" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="510" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="536" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="562" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="93" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="118" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="266" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="291" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="316" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="340" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="415" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="439" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="464" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="489" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="514" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="538" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="563" cy="115" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="115" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="103" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">116,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
