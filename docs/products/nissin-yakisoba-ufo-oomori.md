@@ -10,13 +10,14 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "야끼소바 U.F.O.",
+  "description": "1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 소스 기반의 감칠맛과 쫄깃한 면발이 특징인 일본 대표 컵 볶음면입니다. 일본 여행 기념품이나 간편한 식사, 야식으로 인기가 많습니다.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "38480",
+    "price": "34900",
     "url": "https://link.coupang.com/a/elPCqb",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -36,7 +37,7 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 38,480원 · 별점 4.7 · 리뷰 651개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,900원 · 별점 4.7 · 리뷰 651개</span>
     <a href="https://link.coupang.com/a/elPCqb" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -54,31 +55,32 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 84 L 86 84 L 104 84 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 114 L 301 90 L 319 90 L 337 90 L 355 90 L 373 84 L 391 84 L 409 84 L 427 84 L 445 84 L 462 84 L 480 84 L 498 114 L 516 114 L 534 114 L 552 114 L 570 114 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 84 L 86 84 L 104 84 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 114 L 301 90 L 319 90 L 337 90 L 355 90 L 373 84 L 391 84 L 409 84 L 427 84 L 445 84 L 462 84 L 480 84 L 498 114 L 516 114 L 534 114 L 552 114 L 570 114 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 84 L 86 84 L 104 114 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 90 L 301 90 L 319 90 L 337 90 L 355 84 L 373 84 L 391 84 L 409 84 L 427 84 L 445 84 L 462 84 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 49 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 84 L 86 84 L 104 114 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 90 L 301 90 L 319 90 L 337 90 L 355 84 L 373 84 L 391 84 L 409 84 L 427 84 L 445 84 L 462 84 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 49 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="49" r="5" fill="#ea580c"></circle>
+    <circle cx="86" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="104" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="37" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">38,480원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="92" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -366,7 +368,7 @@ A. 소스 간이 센 편이므로, 평소 싱겁게 드시는 분들은 마요�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 38,480원 · 별점 4.7 · 리뷰 651개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,900원 · 별점 4.7 · 리뷰 651개</span>
     <a href="https://link.coupang.com/a/elPCqb" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
