@@ -10,6 +10,7 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White",
+  "description": "디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주얼한 일상복, 여름철 시원한 착용 또는 스타일리시한 레이어링에 적합한 탱크탑입니다. 독특한 아일렛 스터드 디자인으로 포인트를 더합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/50aa/0f34f95344fbdf2c60c43d669736e8fb5782fa583695d34300ccdc3f6a8a.jpg"
   ],
@@ -19,7 +20,7 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
     "price": "43300",
     "url": "https://link.coupang.com/a/eXdTgfWhzg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   }
 }
 </script>
@@ -52,31 +53,32 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 29 L 86 29 L 104 29 L 122 29 L 140 29 L 158 70 L 176 70 L 194 70 L 211 70 L 229 29 L 247 29 L 265 29 L 283 29 L 301 29 L 319 29 L 337 29 L 355 29 L 373 29 L 391 29 L 409 29 L 427 29 L 445 132 L 462 132 L 480 132 L 498 70 L 516 70 L 534 70 L 552 70 L 570 70 L 588 128 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 29 L 86 29 L 104 29 L 122 29 L 140 29 L 158 70 L 176 70 L 194 70 L 211 70 L 229 29 L 247 29 L 265 29 L 283 29 L 301 29 L 319 29 L 337 29 L 355 29 L 373 29 L 391 29 L 409 29 L 427 29 L 445 132 L 462 132 L 480 132 L 498 70 L 516 70 L 534 70 L 552 70 L 570 70 L 588 128" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 29 L 86 29 L 104 29 L 122 29 L 140 70 L 158 70 L 176 70 L 194 70 L 211 29 L 229 29 L 247 29 L 265 29 L 283 29 L 301 29 L 319 29 L 337 29 L 355 29 L 373 29 L 391 29 L 409 29 L 427 132 L 445 132 L 462 132 L 480 70 L 498 70 L 516 70 L 534 70 L 552 70 L 570 128 L 588 128 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 29 L 86 29 L 104 29 L 122 29 L 140 70 L 158 70 L 176 70 L 194 70 L 211 29 L 229 29 L 247 29 L 265 29 L 283 29 L 301 29 L 319 29 L 337 29 L 355 29 L 373 29 L 391 29 L 409 29 L 427 132 L 445 132 L 462 132 L 480 70 L 498 70 L 516 70 L 534 70 L 552 70 L 570 128 L 588 128" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="70" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="132" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="70" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="128" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="128" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="116" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">43,300원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
