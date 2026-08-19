@@ -10,6 +10,7 @@ description: 위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "위드스타 쫀득쫀득 얼음 말랑이",
+  "description": "위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이들의 촉감 놀이 및 스트레스 해소를 위한 장난감으로, 특유의 얼음 모양과 쫀득한 촉감이 특징입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/109843231399247-ecbfa78a-7bc8-4d3e-9594-c11891d27c17.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/02/17/1/97dd0c77-a9b1-43a2-a4c6-3bb4e6b617e0.jpg"
@@ -20,12 +21,12 @@ description: 위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이�
     "price": "4490",
     "url": "https://link.coupang.com/a/dLGwX829xk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.3,
-    "reviewCount": 435,
+    "ratingValue": 4.2,
+    "reviewCount": 439,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +43,7 @@ description: 위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,490원 · 별점 4.3 · 리뷰 435개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,490원 · 별점 4.2 · 리뷰 439개</span>
     <a href="https://link.coupang.com/a/dLGwX829xk" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,28 +61,29 @@ description: 위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 26 L 319 28 L 337 28 L 355 28 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 58 L 552 58 L 570 58 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 26 L 319 28 L 337 28 L 355 28 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 58 L 552 58 L 570 58 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 26 L 301 28 L 319 28 L 337 28 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 58 L 552 58 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 26 L 301 28 L 319 28 L 337 28 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 58 L 552 58 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,490원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -324,7 +326,7 @@ A. 먼지나 이물질이 묻었을 경우 흐르는 물에 씻어주면 다시 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,490원 · 별점 4.3 · 리뷰 435개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,490원 · 별점 4.2 · 리뷰 439개</span>
     <a href="https://link.coupang.com/a/dLGwX829xk" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
