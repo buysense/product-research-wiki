@@ -10,6 +10,7 @@ description: 마이노멀 밀가루 없는 제로칩 어니언맛은 다이어�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "마이노멀 밀가루 없는 제로칩 어니언맛",
+  "description": "마이노멀 밀가루 없는 제로칩 어니언맛은 다이어트 중이거나 건강한 간식을 찾는 소비자를 위한 바삭하고 고소한 현미칩입니다. 죄책감 없이 즐길 수 있는 저당 스낵으로 입이 심심할 때나 맥주 안주로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c55b/dba97f3ed29aee7618911bb36ac70f7efefd788447ced1362ef52331d4c1.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e76e/14748cbeb380addaf1b35b894fe58be85f2dbf6438a08c4ca10d9a57ec8a.jpg"
@@ -20,12 +21,12 @@ description: 마이노멀 밀가루 없는 제로칩 어니언맛은 다이어�
     "price": "13900",
     "url": "https://link.coupang.com/a/epWLdOTHsO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 547,
+    "reviewCount": 554,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +43,7 @@ description: 마이노멀 밀가루 없는 제로칩 어니언맛은 다이어�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,900원 · 별점 4.9 · 리뷰 547개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,900원 · 별점 4.9 · 리뷰 554개</span>
     <a href="https://link.coupang.com/a/epWLdOTHsO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,44 +61,44 @@ description: 마이노멀 밀가루 없는 제로칩 어니언맛은 다이어�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 125 L 86 125 L 104 167 L 122 108 L 140 108 L 158 108 L 176 125 L 194 128 L 211 128 L 229 127 L 247 127 L 265 127 L 283 127 L 301 127 L 319 127 L 337 125 L 355 127 L 373 127 L 391 125 L 409 125 L 427 127 L 445 125 L 462 125 L 480 127 L 498 127 L 516 127 L 534 26 L 552 127 L 570 26 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 86 125 L 104 167 L 122 108 L 140 108 L 158 108 L 176 125 L 194 128 L 211 128 L 229 127 L 247 127 L 265 127 L 283 127 L 301 127 L 319 127 L 337 125 L 355 127 L 373 127 L 391 125 L 409 125 L 427 127 L 445 125 L 462 125 L 480 127 L 498 127 L 516 127 L 534 26 L 552 127 L 570 26 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 125 L 86 167 L 104 108 L 122 108 L 140 108 L 158 125 L 176 128 L 194 128 L 211 127 L 229 127 L 247 127 L 265 127 L 283 127 L 301 127 L 319 125 L 337 127 L 355 127 L 373 125 L 391 125 L 409 127 L 427 125 L 445 125 L 462 127 L 480 127 L 498 127 L 516 26 L 534 127 L 552 26 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 86 167 L 104 108 L 122 108 L 140 108 L 158 125 L 176 128 L 194 128 L 211 127 L 229 127 L 247 127 L 265 127 L 283 127 L 301 127 L 319 125 L 337 127 L 355 127 L 373 125 L 391 125 L 409 127 L 427 125 L 445 125 L 462 127 L 480 127 L 498 127 L 516 26 L 534 127 L 552 26 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="167" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="128" r="4" fill="#fdba74"></circle>
     <circle cx="194" cy="128" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="128" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="127" r="4" fill="#fdba74"></circle>
     <circle cx="355" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="391" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="445" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="127" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -285,7 +286,7 @@ A. 당 부담을 줄인 저당 제품이지만, 프락토올리고당, 나한과
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,900원 · 별점 4.9 · 리뷰 547개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,900원 · 별점 4.9 · 리뷰 554개</span>
     <a href="https://link.coupang.com/a/epWLdOTHsO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
