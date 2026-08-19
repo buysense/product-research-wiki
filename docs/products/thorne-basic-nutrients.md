@@ -10,6 +10,7 @@ description: THORNE 기본 영양소는 일상적인 영양 균형 유지와 전
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "THORNE 기본 영양소",
+  "description": "THORNE 기본 영양소는 일상적인 영양 균형 유지와 전반적인 건강 관리를 돕는 종합 비타민 미네랄 보충제로, 꾸준한 건강 관리를 원하는 소비자에게 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/889e/0aa1e7f5d5e0ad274071721a799d56b6abdde240f246157547eef55b5c99.jpg"
   ],
@@ -19,7 +20,7 @@ description: THORNE 기본 영양소는 일상적인 영양 균형 유지와 전
     "price": "207590",
     "url": "https://link.coupang.com/a/eDDugl",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   }
 }
 </script>
@@ -58,16 +59,16 @@ description: THORNE 기본 영양소는 일상적인 영양 균형 유지와 전
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">207,590원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

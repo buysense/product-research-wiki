@@ -10,6 +10,7 @@ description: 타이거 한글홈스쿨 만2~4세 10권세트는 가정에서 만
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "타이거 한글홈스쿨 만2~4세 10권세트",
+  "description": "타이거 한글홈스쿨 만2~4세 10권세트는 가정에서 만 2세부터 4세 아이에게 체계적인 한글 학습을 시작할 수 있도록 돕는 교재 세트입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd56/244f646e80197b9b014d4db601c5b8d477c16ebff5a971d313ca6365c709.jpeg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cc67/6d834f1f7950cec3153f42fc5ddd182607ebd1c2a1dcab45fab81ff9fcb6.jpeg"
@@ -20,7 +21,7 @@ description: 타이거 한글홈스쿨 만2~4세 10권세트는 가정에서 만
     "price": "24000",
     "url": "https://link.coupang.com/a/eyFgd9",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   }
 }
 </script>
@@ -59,16 +60,16 @@ description: 타이거 한글홈스쿨 만2~4세 10권세트는 가정에서 만
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
