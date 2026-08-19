@@ -10,13 +10,14 @@ description: 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛은 2004년 출�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛",
+  "description": "샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛은 2004년 출시된 남성 향수로, 상쾌한 시트러스와 우디 노트가 조화로운 향을 선사합니다. 데일리 사용은 물론, 특별한 날 품격을 더해 자신감 넘치는 현대 남성에게 적합합니다.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "125000",
     "url": "https://link.coupang.com/a/egjaTe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -54,24 +55,24 @@ description: 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛은 2004년 출�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">124,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">123,000</text>
 
-    <path d="M 68 169 L 86 169 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 169 L 462 169 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 169 L 86 169 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 169 L 462 169 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 169 L 86 169 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 169 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 169 L 86 169 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 169 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">125,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
