@@ -10,6 +10,7 @@ description: 편강율 키즈 앤 베이비 모이스처 선크림은 SPF50+ PA+
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "편강율 키즈 앤 베이비 모이스처 선크림 SPF50+ PA++++, 1개, 150ml",
+  "description": "편강율 키즈 앤 베이비 모이스처 선크림은 SPF50+ PA++++의 높은 차단력과 순한 사용감으로 야외활동이 많은 아이와 온 가족이 함께 사용하기 좋은 대용량 선크림입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/296630739919084-ecac78b8-503a-472f-aefe-2e6a96ce66b5.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4158899347568313-5cfe3150-4a3a-43f7-b4a9-13542c9ec886.png"
@@ -20,12 +21,12 @@ description: 편강율 키즈 앤 베이비 모이스처 선크림은 SPF50+ PA+
     "price": "15900",
     "url": "https://link.coupang.com/a/efDvzUUp8S",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 4153,
+    "reviewCount": 4157,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +43,7 @@ description: 편강율 키즈 앤 베이비 모이스처 선크림은 SPF50+ PA+
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,900원 · 별점 4.9 · 리뷰 4,153개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,900원 · 별점 4.9 · 리뷰 4,157개</span>
     <a href="https://link.coupang.com/a/efDvzUUp8S" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,26 +61,26 @@ description: 편강율 키즈 앤 베이비 모이스처 선크림은 SPF50+ PA+
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
 
-    <path d="M 68 34 L 86 34 L 104 34 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 154 L 229 154 L 247 34 L 265 34 L 283 34 L 301 34 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 86 34 L 104 34 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 154 L 229 154 L 247 34 L 265 34 L 283 34 L 301 34 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 86 34 L 104 154 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 154 L 229 34 L 247 34 L 265 34 L 283 34 L 301 34 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 86 34 L 104 154 L 122 154 L 140 154 L 158 154 L 176 154 L 194 154 L 211 154 L 229 34 L 247 34 L 265 34 L 283 34 L 301 34 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="154" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="154" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -281,7 +282,7 @@ A. 150ml의 넉넉한 용량으로, 자녀가 있는 가정에서 온 가족이 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,900원 · 별점 4.9 · 리뷰 4,153개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,900원 · 별점 4.9 · 리뷰 4,157개</span>
     <a href="https://link.coupang.com/a/efDvzUUp8S" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
