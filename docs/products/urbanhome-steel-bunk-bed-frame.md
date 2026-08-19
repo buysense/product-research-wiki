@@ -10,6 +10,7 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "어반홈 철제 2층 벙커 침대 프레임",
+  "description": "어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공간 활용에 적합하며, 높은 하부 공간을 아지트처럼 꾸밀 수 있는 가성비 좋은 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b8ff/366febc6c4ded8a0d4df8fd6fe54a3d6a5d5f65f84424edfea03cab64f9a.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/212e/85ba47297d93a3c367db2eeba6ccba0b1bbf2b6a040c8e950a5dc50c69db.png"
@@ -20,7 +21,7 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
     "price": "217000",
     "url": "https://link.coupang.com/a/er2k9H",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "priceValidUntil": "2026-08-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,28 +61,28 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">220,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">210,000</text>
 
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 26 L 480 125 L 498 125 L 516 125 L 534 26 L 552 125 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 26 L 480 125 L 498 125 L 516 125 L 534 26 L 552 125 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 26 L 462 125 L 480 125 L 498 125 L 516 26 L 534 125 L 552 125 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 26 L 462 125 L 480 125 L 498 125 L 516 26 L 534 125 L 552 125 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">217,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
