@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 닥터유 다이제: products/dr-you-digest-biscuit.md
     - 봄날엔 초코퐁당 요거꿀떡: products/bomnalen-chocofondue-yogurt-honey-tteok.md
     - 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245: products/glowny-g-ella-strap-sleeveless-ivory.md
     - 드헤베 Strap S리 Leeveless Blouse Light Beige: products/deheve-strap-sleeveless-blouse-light-beige.md
