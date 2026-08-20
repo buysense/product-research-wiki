@@ -21,7 +21,7 @@ description: 아이스토리키즈 여름봄무지 7부 플리츠는 활동량 �
     "price": "11510",
     "url": "https://link.coupang.com/a/dFf89o0jWC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-27"
+    "priceValidUntil": "2026-08-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,37 +61,36 @@ description: 아이스토리키즈 여름봄무지 7부 플리츠는 활동량 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 85 L 86 85 L 104 114 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 114 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 73 L 391 28 L 409 28 L 427 28 L 445 76 L 462 38 L 480 38 L 498 76 L 516 38 L 534 38 L 552 38 L 570 63 L 588 63 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 85 L 86 85 L 104 114 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 114 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 73 L 391 28 L 409 28 L 427 28 L 445 76 L 462 38 L 480 38 L 498 76 L 516 38 L 534 38 L 552 38 L 570 63 L 588 63" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 85 L 86 114 L 104 114 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 73 L 373 28 L 391 28 L 409 28 L 427 76 L 445 38 L 462 38 L 480 76 L 498 38 L 516 38 L 534 38 L 552 63 L 570 63 L 588 63 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 85 L 86 114 L 104 114 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 73 L 373 28 L 391 28 L 409 28 L 427 76 L 445 38 L 462 38 L 480 76 L 498 38 L 516 38 L 534 38 L 552 63 L 570 63 L 588 63" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="114" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="462" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="76" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="38" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="63" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="76" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="63" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="63" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="51" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,510원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
