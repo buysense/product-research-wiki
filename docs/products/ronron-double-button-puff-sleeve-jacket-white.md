@@ -17,10 +17,10 @@ description: 론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "116600",
+    "price": "129500",
     "url": "https://link.coupang.com/a/fkrBMLO4s0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-27"
+    "priceValidUntil": "2026-08-28"
   }
 }
 </script>
@@ -35,7 +35,7 @@ description: 론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 116,600원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 129,500원</span>
     <a href="https://link.coupang.com/a/fkrBMLO4s0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -44,7 +44,7 @@ description: 론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -53,35 +53,36 @@ description: 론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 95 L 93 95 L 118 164 L 142 164 L 167 164 L 192 164 L 217 164 L 241 164 L 266 164 L 291 95 L 316 115 L 340 95 L 365 95 L 390 95 L 415 95 L 439 66 L 464 66 L 489 115 L 514 115 L 538 66 L 563 115 L 588 115 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 95 L 93 95 L 118 164 L 142 164 L 167 164 L 192 164 L 217 164 L 241 164 L 266 164 L 291 95 L 316 115 L 340 95 L 365 95 L 390 95 L 415 95 L 439 66 L 464 66 L 489 115 L 514 115 L 538 66 L 563 115 L 588 115" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 95 L 92 95 L 115 164 L 139 164 L 163 164 L 186 164 L 210 164 L 233 164 L 257 164 L 281 95 L 304 115 L 328 95 L 352 95 L 375 95 L 399 95 L 423 66 L 446 66 L 470 115 L 493 115 L 517 66 L 541 115 L 564 115 L 588 66 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 95 L 92 95 L 115 164 L 139 164 L 163 164 L 186 164 L 210 164 L 233 164 L 257 164 L 281 95 L 304 115 L 328 95 L 352 95 L 375 95 L 399 95 L 423 66 L 446 66 L 470 115 L 493 115 L 517 66 L 541 115 L 564 115 L 588 66" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="93" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="118" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="266" cy="164" r="4" fill="#fdba74"></circle>
-    <circle cx="291" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="316" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="340" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="95" r="4" fill="#fdba74"></circle>
-    <circle cx="439" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="464" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="489" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="514" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="538" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="563" cy="115" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="115" r="5" fill="#ea580c"></circle>
+    <circle cx="92" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="115" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="257" cy="164" r="4" fill="#fdba74"></circle>
+    <circle cx="281" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="304" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="399" cy="95" r="4" fill="#fdba74"></circle>
+    <circle cx="423" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="446" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="470" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="493" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="517" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="541" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="564" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="66" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="103" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">116,600원</text>
+    <text x="588" y="54" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">129,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -205,7 +206,7 @@ A. 퍼프 슬리브 디자인으로 어깨와 소매 부분에 볼륨감이 있�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 116,600원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 129,500원</span>
     <a href="https://link.coupang.com/a/fkrBMLO4s0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
