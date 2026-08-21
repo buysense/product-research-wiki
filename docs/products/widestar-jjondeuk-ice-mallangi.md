@@ -21,7 +21,7 @@ description: 위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이�
     "price": "4490",
     "url": "https://link.coupang.com/a/dLGwX829xk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-28"
+    "priceValidUntil": "2026-08-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,29 +61,29 @@ description: 위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 26 L 283 28 L 301 28 L 319 28 L 337 58 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 58 L 552 110 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 26 L 283 28 L 301 28 L 319 28 L 337 58 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 58 L 552 110 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 26 L 265 28 L 283 28 L 301 28 L 319 58 L 337 58 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 110 L 552 110 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 26 L 265 28 L 283 28 L 301 28 L 319 58 L 337 58 L 355 58 L 373 58 L 391 58 L 409 58 L 427 58 L 445 58 L 462 58 L 480 58 L 498 58 L 516 58 L 534 110 L 552 110 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="58" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,490원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-05</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
