@@ -18,15 +18,15 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "28350",
+    "price": "30630",
     "url": "https://link.coupang.com/a/fAS24kIAoK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-28"
+    "priceValidUntil": "2026-08-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 4452,
+    "reviewCount": 4473,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,350원 · 별점 4.7 · 리뷰 4,452개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 30,630원 · 별점 4.7 · 리뷰 4,473개</span>
     <a href="https://link.coupang.com/a/fAS24kIAoK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,42 +52,43 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 41 L 111 43 L 155 44 L 198 147 L 241 147 L 285 50 L 328 48 L 371 86 L 415 86 L 458 68 L 501 26 L 545 41 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 41 L 111 43 L 155 44 L 198 147 L 241 147 L 285 50 L 328 48 L 371 86 L 415 86 L 458 68 L 501 26 L 545 41 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="111" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="44" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="285" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="48" r="4" fill="#fdba74"></circle>
-    <circle cx="371" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="545" cy="41" r="4" fill="#fdba74"></circle>
+    <path d="M 68 62 L 108 63 L 148 64 L 188 105 L 228 105 L 268 66 L 308 65 L 348 81 L 388 81 L 428 73 L 468 56 L 508 62 L 548 51 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 62 L 108 63 L 148 64 L 188 105 L 228 105 L 268 66 L 308 65 L 348 81 L 388 81 L 428 73 L 468 56 L 508 62 L 548 51 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="108" cy="63" r="4" fill="#fdba74"></circle>
+    <circle cx="148" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="228" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="268" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="428" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="508" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="51" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,350원</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">30,630원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -183,7 +184,7 @@ A. 네, 본체를 제외한 뚜껑과 계란 트레이는 분리하여 물로 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,350원 · 별점 4.7 · 리뷰 4,452개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 30,630원 · 별점 4.7 · 리뷰 4,473개</span>
     <a href="https://link.coupang.com/a/fAS24kIAoK" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
