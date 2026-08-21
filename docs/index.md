@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 룸모 콘낄리에 리가테 | [보기](products/rummo-conchiglie-rigate-pasta.md) |
 | 코라빈 스파클링 패키지 와인세이버 보존시스템 | [보기](products/coravin-sparkling-wine-saver-system.md) |
 | 알리사 100단 아이스 터보 MAX 휴대용 선풍기 | [보기](products/alisa-100step-ice-turbo-max-portable-fan.md) |
 | 베이지 손잡이 쇼핑백 마트 장바구니 시장 바구니 다용도 2size | [보기](products/beige-shopping-bag-market-cart-multi-size.md) |
