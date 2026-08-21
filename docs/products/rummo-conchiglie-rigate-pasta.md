@@ -21,7 +21,7 @@ description: 룸모 콘낄리에 리가테는 소스를 잘 머금는 조개 모
     "price": "5130",
     "url": "https://link.coupang.com/a/goOHN9cSYu",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-28"
+    "priceValidUntil": "2026-08-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
