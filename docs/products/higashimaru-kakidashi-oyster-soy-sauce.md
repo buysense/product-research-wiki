@@ -21,7 +21,7 @@ description: 히가시마루 카키다시 (일본 굴 간장)는 깊은 굴 감�
     "price": "20670",
     "url": "https://link.coupang.com/a/epCcW5",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-28"
+    "priceValidUntil": "2026-08-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,35 +61,35 @@ description: 히가시마루 카키다시 (일본 굴 간장)는 깊은 굴 감�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">19,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 63 L 283 104 L 301 105 L 319 105 L 337 103 L 355 103 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 42 L 480 42 L 498 42 L 516 42 L 534 42 L 552 49 L 570 51 L 588 51 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 63 L 283 104 L 301 105 L 319 105 L 337 103 L 355 103 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 42 L 480 42 L 498 42 L 516 42 L 534 42 L 552 49 L 570 51 L 588 51" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 63 L 265 104 L 283 105 L 301 105 L 319 103 L 337 103 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 42 L 462 42 L 480 42 L 498 42 L 516 42 L 534 49 L 552 51 L 570 51 L 588 51 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 63 L 265 104 L 283 105 L 301 105 L 319 103 L 337 103 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 42 L 462 42 L 480 42 L 498 42 L 516 42 L 534 49 L 552 51 L 570 51 L 588 51" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="63" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="63" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="104" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="105" r="4" fill="#fdba74"></circle>
     <circle cx="301" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="103" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="51" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="42" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="51" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="51" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="39" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">20,670원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
