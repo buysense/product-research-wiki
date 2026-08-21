@@ -17,7 +17,7 @@ description: 플라이밀 단백질 쉐이크 파우치 스타터팩은 13가지
     "price": "45500",
     "url": "https://link.coupang.com/a/elZFoC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-28"
+    "priceValidUntil": "2026-08-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -55,24 +55,24 @@ description: 플라이밀 단백질 쉐이크 파우치 스타터팩은 13가지
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">44,500</text>
 
-    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">45,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
