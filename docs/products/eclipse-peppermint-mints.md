@@ -21,12 +21,12 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
     "price": "6210",
     "url": "https://link.coupang.com/a/eBvfAG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-28"
+    "priceValidUntil": "2026-08-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 59915,
+    "reviewCount": 59987,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,210원 · 별점 4.8 · 리뷰 59,915개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,210원 · 별점 4.8 · 리뷰 59,987개</span>
     <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,40 +61,40 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 72 L 86 72 L 104 161 L 122 72 L 140 72 L 158 81 L 176 81 L 194 81 L 211 72 L 229 74 L 247 74 L 265 74 L 283 89 L 301 72 L 319 72 L 337 72 L 355 72 L 373 138 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 82 L 534 73 L 552 73 L 570 73 L 588 131 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 86 72 L 104 161 L 122 72 L 140 72 L 158 81 L 176 81 L 194 81 L 211 72 L 229 74 L 247 74 L 265 74 L 283 89 L 301 72 L 319 72 L 337 72 L 355 72 L 373 138 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 82 L 534 73 L 552 73 L 570 73 L 588 131" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 86 161 L 104 72 L 122 72 L 140 81 L 158 81 L 176 81 L 194 72 L 211 74 L 229 74 L 247 74 L 265 89 L 283 72 L 301 72 L 319 72 L 337 72 L 355 138 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 82 L 516 73 L 534 73 L 552 73 L 570 131 L 588 131 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 86 161 L 104 72 L 122 72 L 140 81 L 158 81 L 176 81 L 194 72 L 211 74 L 229 74 L 247 74 L 265 89 L 283 72 L 301 72 L 319 72 L 337 72 L 355 138 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 82 L 516 73 L 534 73 L 552 73 L 570 131 L 588 131" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="74" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="82" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="82" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="131" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="131" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="119" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,210원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -361,7 +361,7 @@ A. 이클립스 페퍼민트향의 가장 큰 특징은 단 한 알만으로도 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,210원 · 별점 4.8 · 리뷰 59,915개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,210원 · 별점 4.8 · 리뷰 59,987개</span>
     <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
