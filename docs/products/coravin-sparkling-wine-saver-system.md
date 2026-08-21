@@ -21,7 +21,7 @@ description: 코라빈 스파클링 패키지 와인세이버 보존시스템은
     "price": "679000",
     "url": "https://link.coupang.com/a/goMuJot9DE",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-28"
+    "priceValidUntil": "2026-08-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
