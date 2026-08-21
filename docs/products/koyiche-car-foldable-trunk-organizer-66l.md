@@ -21,7 +21,7 @@ description: 코이체 자동차 접이식 트렁크 정리함 대형66L은 튼�
     "price": "27780",
     "url": "https://link.coupang.com/a/dTWaGzz2Au",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-28"
+    "priceValidUntil": "2026-08-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,29 +61,30 @@ description: 코이체 자동차 접이식 트렁크 정리함 대형66L은 튼�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
 
-    <path d="M 68 34 L 86 34 L 104 34 L 122 34 L 140 34 L 158 34 L 176 34 L 194 34 L 211 34 L 229 34 L 247 34 L 265 34 L 283 34 L 301 34 L 319 34 L 337 157 L 355 157 L 373 157 L 391 157 L 409 157 L 427 157 L 445 157 L 462 157 L 480 167 L 498 167 L 516 167 L 534 167 L 552 157 L 570 157 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 86 34 L 104 34 L 122 34 L 140 34 L 158 34 L 176 34 L 194 34 L 211 34 L 229 34 L 247 34 L 265 34 L 283 34 L 301 34 L 319 34 L 337 157 L 355 157 L 373 157 L 391 157 L 409 157 L 427 157 L 445 157 L 462 157 L 480 167 L 498 167 L 516 167 L 534 167 L 552 157 L 570 157 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 86 34 L 104 34 L 122 34 L 140 34 L 158 34 L 176 34 L 194 34 L 211 34 L 229 34 L 247 34 L 265 34 L 283 34 L 301 34 L 319 157 L 337 157 L 355 157 L 373 157 L 391 157 L 409 157 L 427 157 L 445 157 L 462 167 L 480 167 L 498 167 L 516 167 L 534 157 L 552 157 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 86 34 L 104 34 L 122 34 L 140 34 L 158 34 L 176 34 L 194 34 L 211 34 L 229 34 L 247 34 L 265 34 L 283 34 L 301 34 L 319 157 L 337 157 L 355 157 L 373 157 L 391 157 L 409 157 L 427 157 L 445 157 L 462 167 L 480 167 L 498 167 L 516 167 L 534 157 L 552 157 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="167" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="157" r="4" fill="#fdba74"></circle>
     <circle cx="552" cy="157" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="157" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">27,780원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
