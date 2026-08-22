@@ -21,12 +21,12 @@ description: 하기스 네이처메이드 생분해 물티슈는 환경을 생�
     "price": "22900",
     "url": "https://link.coupang.com/a/e48c8LI3Xg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 4324,
+    "reviewCount": 4329,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 하기스 네이처메이드 생분해 물티슈는 환경을 생�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,900원 · 별점 4.9 · 리뷰 4,324개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,900원 · 별점 4.9 · 리뷰 4,329개</span>
     <a href="https://link.coupang.com/a/e48c8LI3Xg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,31 +61,30 @@ description: 하기스 네이처메이드 생분해 물티슈는 환경을 생�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
 
-    <path d="M 68 158 L 86 158 L 104 176 L 122 158 L 140 158 L 158 176 L 176 176 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 121 L 319 121 L 337 121 L 355 121 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 158 L 86 158 L 104 176 L 122 158 L 140 158 L 158 176 L 176 176 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 121 L 319 121 L 337 121 L 355 121 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 158 L 86 176 L 104 158 L 122 158 L 140 176 L 158 176 L 176 121 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 121 L 319 121 L 337 121 L 355 121 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 158 L 86 176 L 104 158 L 122 158 L 140 176 L 158 176 L 176 121 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 121 L 319 121 L 337 121 L 355 121 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="158" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="158" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="176" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="158" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="158" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="158" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="176" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="121" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -231,7 +230,7 @@ A. 이 제품은 65gsm의 도톰한 두께를 가지고 있습니다. 이는 물
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,900원 · 별점 4.9 · 리뷰 4,324개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,900원 · 별점 4.9 · 리뷰 4,329개</span>
     <a href="https://link.coupang.com/a/e48c8LI3Xg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
