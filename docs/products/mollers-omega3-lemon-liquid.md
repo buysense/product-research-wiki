@@ -21,7 +21,7 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     "price": "34200",
     "url": "https://link.coupang.com/a/eDBeaL",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,29 +61,29 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
 
-    <path d="M 68 90 L 86 90 L 104 90 L 122 90 L 140 90 L 158 127 L 176 127 L 194 101 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 38 L 516 38 L 534 38 L 552 38 L 570 38 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 90 L 86 90 L 104 90 L 122 90 L 140 90 L 158 127 L 176 127 L 194 101 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 38 L 516 38 L 534 38 L 552 38 L 570 38 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 90 L 86 90 L 104 90 L 122 90 L 140 127 L 158 127 L 176 101 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 38 L 498 38 L 516 38 L 534 38 L 552 38 L 570 38 L 588 38 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 90 L 86 90 L 104 90 L 122 90 L 140 127 L 158 127 L 176 101 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 38 L 498 38 L 516 38 L 534 38 L 552 38 L 570 38 L 588 38" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="127" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="101" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="38" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="101" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="38" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="38" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="26" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
