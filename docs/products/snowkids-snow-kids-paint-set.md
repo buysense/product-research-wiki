@@ -21,7 +21,7 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
     "price": "13660",
     "url": "https://link.coupang.com/a/d8QKkq0UeW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,35 +61,34 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 141 L 86 141 L 104 96 L 122 141 L 140 141 L 158 108 L 176 96 L 194 150 L 211 150 L 229 150 L 247 150 L 265 150 L 283 150 L 301 150 L 319 150 L 337 150 L 355 150 L 373 150 L 391 150 L 409 150 L 427 150 L 445 150 L 462 150 L 480 150 L 498 150 L 516 147 L 534 50 L 552 115 L 570 115 L 588 115 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 141 L 86 141 L 104 96 L 122 141 L 140 141 L 158 108 L 176 96 L 194 150 L 211 150 L 229 150 L 247 150 L 265 150 L 283 150 L 301 150 L 319 150 L 337 150 L 355 150 L 373 150 L 391 150 L 409 150 L 427 150 L 445 150 L 462 150 L 480 150 L 498 150 L 516 147 L 534 50 L 552 115 L 570 115 L 588 115" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 141 L 86 96 L 104 141 L 122 141 L 140 108 L 158 96 L 176 150 L 194 150 L 211 150 L 229 150 L 247 150 L 265 150 L 283 150 L 301 150 L 319 150 L 337 150 L 355 150 L 373 150 L 391 150 L 409 150 L 427 150 L 445 150 L 462 150 L 480 150 L 498 147 L 516 50 L 534 115 L 552 115 L 570 115 L 588 115 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 141 L 86 96 L 104 141 L 122 141 L 140 108 L 158 96 L 176 150 L 194 150 L 211 150 L 229 150 L 247 150 L 265 150 L 283 150 L 301 150 L 319 150 L 337 150 L 355 150 L 373 150 L 391 150 L 409 150 L 427 150 L 445 150 L 462 150 L 480 150 L 498 147 L 516 50 L 534 115 L 552 115 L 570 115 L 588 115" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="96" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="96" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="141" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="96" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="150" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="96" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="150" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="150" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="150" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="150" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="150" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="147" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="115" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="150" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="147" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="50" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="115" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="115" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="103" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,660원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
