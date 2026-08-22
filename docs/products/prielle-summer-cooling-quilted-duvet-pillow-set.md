@@ -21,7 +21,7 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
     "price": "42410",
     "url": "https://link.coupang.com/a/fl5yLovy8a",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,7 +52,7 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,35 +61,35 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 26 L 92 27 L 115 27 L 139 27 L 163 27 L 186 27 L 210 111 L 233 27 L 257 27 L 281 27 L 304 27 L 328 27 L 352 100 L 375 137 L 399 65 L 423 65 L 446 65 L 470 111 L 493 146 L 517 26 L 541 65 L 564 65 L 588 65 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 92 27 L 115 27 L 139 27 L 163 27 L 186 27 L 210 111 L 233 27 L 257 27 L 281 27 L 304 27 L 328 27 L 352 100 L 375 137 L 399 65 L 423 65 L 446 65 L 470 111 L 493 146 L 517 26 L 541 65 L 564 65 L 588 65" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 91 27 L 113 27 L 136 27 L 158 27 L 181 27 L 204 111 L 226 27 L 249 27 L 271 27 L 294 27 L 317 27 L 339 100 L 362 137 L 385 65 L 407 65 L 430 65 L 452 111 L 475 146 L 498 26 L 520 65 L 543 65 L 565 65 L 588 65 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 91 27 L 113 27 L 136 27 L 158 27 L 181 27 L 204 111 L 226 27 L 249 27 L 271 27 L 294 27 L 317 27 L 339 100 L 362 137 L 385 65 L 407 65 L 430 65 L 452 111 L 475 146 L 498 26 L 520 65 L 543 65 L 565 65 L 588 65" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="186" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="446" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="517" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="91" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="181" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="204" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="226" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="317" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="339" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="362" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="385" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="430" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="452" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="475" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="520" cy="65" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="65" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="53" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">42,410원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
