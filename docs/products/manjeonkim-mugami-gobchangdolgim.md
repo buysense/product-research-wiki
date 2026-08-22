@@ -21,7 +21,7 @@ description: 만전김 무가미 곱창돌김은 조미되지 않아 담백하�
     "price": "15000",
     "url": "https://link.coupang.com/a/dGH8m8u5im",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,36 +61,36 @@ description: 만전김 무가미 곱창돌김은 조미되지 않아 담백하�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 153 L 86 59 L 104 59 L 122 59 L 140 120 L 158 120 L 176 120 L 194 120 L 211 131 L 229 131 L 247 131 L 265 131 L 283 131 L 301 131 L 319 120 L 337 120 L 355 120 L 373 102 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 120 L 516 120 L 534 135 L 552 135 L 570 59 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 153 L 86 59 L 104 59 L 122 59 L 140 120 L 158 120 L 176 120 L 194 120 L 211 131 L 229 131 L 247 131 L 265 131 L 283 131 L 301 131 L 319 120 L 337 120 L 355 120 L 373 102 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 120 L 516 120 L 534 135 L 552 135 L 570 59 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="120" r="4" fill="#fdba74"></circle>
+    <path d="M 68 59 L 86 59 L 104 59 L 122 120 L 140 120 L 158 120 L 176 120 L 194 131 L 211 131 L 229 131 L 247 131 L 265 131 L 283 131 L 301 120 L 319 120 L 337 120 L 355 102 L 373 120 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 120 L 516 135 L 534 135 L 552 59 L 570 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 59 L 86 59 L 104 59 L 122 120 L 140 120 L 158 120 L 176 120 L 194 131 L 211 131 L 229 131 L 247 131 L 265 131 L 283 131 L 301 120 L 319 120 L 337 120 L 355 102 L 373 120 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 120 L 516 135 L 534 135 L 552 59 L 570 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="135" r="4" fill="#fdba74"></circle>
     <circle cx="534" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="135" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="102" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
