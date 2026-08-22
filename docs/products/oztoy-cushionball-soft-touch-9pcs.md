@@ -21,7 +21,7 @@ description: 구강기 아기들의 촉감 발달과 소근육 성장을 돕는 
     "price": "9840",
     "url": "https://link.coupang.com/a/eqQeSxHmh2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,24 +61,24 @@ description: 구강기 아기들의 촉감 발달과 소근육 성장을 돕는 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,800</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,700</text>
 
-    <path d="M 68 155 L 86 155 L 104 155 L 122 155 L 140 155 L 158 155 L 176 155 L 194 155 L 211 155 L 229 155 L 247 155 L 265 155 L 283 155 L 301 155 L 319 155 L 337 155 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 155 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 155 L 86 155 L 104 155 L 122 155 L 140 155 L 158 155 L 176 155 L 194 155 L 211 155 L 229 155 L 247 155 L 265 155 L 283 155 L 301 155 L 319 155 L 337 155 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 155 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 155 L 86 155 L 104 155 L 122 155 L 140 155 L 158 155 L 176 155 L 194 155 L 211 155 L 229 155 L 247 155 L 265 155 L 283 155 L 301 155 L 319 155 L 337 155 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 155 L 86 155 L 104 155 L 122 155 L 140 155 L 158 155 L 176 155 L 194 155 L 211 155 L 229 155 L 247 155 L 265 155 L 283 155 L 301 155 L 319 155 L 337 155 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="72" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="72" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,840원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
