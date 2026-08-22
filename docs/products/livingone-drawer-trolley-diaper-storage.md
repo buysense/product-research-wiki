@@ -21,7 +21,7 @@ description: 리빙원 서랍형트롤리 이동식기저귀함은 아이 기저
     "price": "30800",
     "url": "https://link.coupang.com/a/dTX9PwSvqS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -67,16 +67,16 @@ description: 리빙원 서랍형트롤리 이동식기저귀함은 아이 기저
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">30,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
