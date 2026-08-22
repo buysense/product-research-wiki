@@ -21,7 +21,7 @@ description: 카스가이 젤리는 일본의 대표적인 제과 브랜드에�
     "price": "27700",
     "url": "https://link.coupang.com/a/gqjEMpPQZw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

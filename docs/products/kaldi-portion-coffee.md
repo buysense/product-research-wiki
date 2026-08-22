@@ -21,7 +21,7 @@ description: 칼디 포션 커피는 믹스 커피 대신 깔끔하고 부담 �
     "price": "12300",
     "url": "https://link.coupang.com/a/ezWAKZOXnM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,27 +61,27 @@ description: 칼디 포션 커피는 믹스 커피 대신 깔끔하고 부담 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 129 L 86 129 L 104 129 L 122 131 L 140 131 L 158 131 L 176 131 L 194 131 L 211 131 L 229 131 L 247 131 L 265 131 L 283 131 L 301 131 L 319 131 L 337 131 L 355 131 L 373 131 L 391 131 L 409 131 L 427 131 L 445 131 L 462 131 L 480 131 L 498 131 L 516 48 L 534 131 L 552 131 L 570 131 L 588 131 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 129 L 86 129 L 104 129 L 122 131 L 140 131 L 158 131 L 176 131 L 194 131 L 211 131 L 229 131 L 247 131 L 265 131 L 283 131 L 301 131 L 319 131 L 337 131 L 355 131 L 373 131 L 391 131 L 409 131 L 427 131 L 445 131 L 462 131 L 480 131 L 498 131 L 516 48 L 534 131 L 552 131 L 570 131 L 588 131" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 129 L 86 129 L 104 131 L 122 131 L 140 131 L 158 131 L 176 131 L 194 131 L 211 131 L 229 131 L 247 131 L 265 131 L 283 131 L 301 131 L 319 131 L 337 131 L 355 131 L 373 131 L 391 131 L 409 131 L 427 131 L 445 131 L 462 131 L 480 131 L 498 48 L 516 131 L 534 131 L 552 131 L 570 131 L 588 131 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 129 L 86 129 L 104 131 L 122 131 L 140 131 L 158 131 L 176 131 L 194 131 L 211 131 L 229 131 L 247 131 L 265 131 L 283 131 L 301 131 L 319 131 L 337 131 L 355 131 L 373 131 L 391 131 L 409 131 L 427 131 L 445 131 L 462 131 L 480 131 L 498 48 L 516 131 L 534 131 L 552 131 L 570 131 L 588 131" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="48" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="129" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="48" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="131" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="131" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="119" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,300원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
