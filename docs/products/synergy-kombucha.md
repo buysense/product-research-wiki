@@ -21,7 +21,7 @@ description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌�
     "price": "107900",
     "url": "https://link.coupang.com/a/eDdjUm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   }
 }
 </script>
@@ -54,29 +54,29 @@ description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 136 L 86 136 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 141 L 427 141 L 445 141 L 462 141 L 480 47 L 498 47 L 516 136 L 534 90 L 552 90 L 570 90 L 588 90 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 136 L 86 136 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 141 L 427 141 L 445 141 L 462 141 L 480 47 L 498 47 L 516 136 L 534 90 L 552 90 L 570 90 L 588 90" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 136 L 86 136 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 141 L 409 141 L 427 141 L 445 141 L 462 47 L 480 47 L 498 136 L 516 90 L 534 90 L 552 90 L 570 90 L 588 90 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 136 L 86 136 L 104 136 L 122 136 L 140 136 L 158 136 L 176 136 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 141 L 409 141 L 427 141 L 445 141 L 462 47 L 480 47 L 498 136 L 516 90 L 534 90 L 552 90 L 570 90 L 588 90" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="47" r="4" fill="#fdba74"></circle>
     <circle cx="480" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="90" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="90" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="78" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">107,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
