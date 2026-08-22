@@ -21,7 +21,7 @@ description: 캐치티니핑 카메라 하츄핑은 귀여운 디자인과 셀�
     "price": "99000",
     "url": "https://link.coupang.com/a/e5hSzsnCRo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,28 +61,28 @@ description: 캐치티니핑 카메라 하츄핑은 귀여운 디자인과 셀�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
 
-    <path d="M 68 131 L 86 131 L 104 131 L 122 131 L 140 131 L 158 34 L 176 34 L 194 34 L 211 34 L 229 34 L 247 34 L 265 34 L 283 131 L 301 131 L 319 131 L 337 131 L 355 131 L 373 131 L 391 131 L 409 131 L 427 131 L 445 131 L 462 131 L 480 131 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 131 L 86 131 L 104 131 L 122 131 L 140 131 L 158 34 L 176 34 L 194 34 L 211 34 L 229 34 L 247 34 L 265 34 L 283 131 L 301 131 L 319 131 L 337 131 L 355 131 L 373 131 L 391 131 L 409 131 L 427 131 L 445 131 L 462 131 L 480 131 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 131 L 86 131 L 104 131 L 122 131 L 140 34 L 158 34 L 176 34 L 194 34 L 211 34 L 229 34 L 247 34 L 265 131 L 283 131 L 301 131 L 319 131 L 337 131 L 355 131 L 373 131 L 391 131 L 409 131 L 427 131 L 445 131 L 462 131 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 131 L 86 131 L 104 131 L 122 131 L 140 34 L 158 34 L 176 34 L 194 34 L 211 34 L 229 34 L 247 34 L 265 131 L 283 131 L 301 131 L 319 131 L 337 131 L 355 131 L 373 131 L 391 131 L 409 131 L 427 131 L 445 131 L 462 131 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">99,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
