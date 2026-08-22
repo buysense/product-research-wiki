@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 미스터리 파티 시리즈 몇 번이고 푸른달에 불을 붙였다: products/mystery-party-series-blue-moon.md
     - 카스가이 젤리: products/kasugai-jelly.md
     - 룸모 콘낄리에 리가테: products/rummo-conchiglie-rigate-pasta.md
     - 코라빈 스파클링 패키지 와인세이버 보존시스템: products/coravin-sparkling-wine-saver-system.md

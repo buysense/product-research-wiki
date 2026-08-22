@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 미스터리 파티 시리즈 몇 번이고 푸른달에 불을 붙였다 | [보기](products/mystery-party-series-blue-moon.md) |
 | 카스가이 젤리 | [보기](products/kasugai-jelly.md) |
 | 룸모 콘낄리에 리가테 | [보기](products/rummo-conchiglie-rigate-pasta.md) |
 | 코라빈 스파클링 패키지 와인세이버 보존시스템 | [보기](products/coravin-sparkling-wine-saver-system.md) |
