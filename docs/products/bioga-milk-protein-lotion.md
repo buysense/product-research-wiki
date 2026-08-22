@@ -21,7 +21,7 @@ description: 바이오가 우유단백질 로션은 건조하고 민감한 피�
     "price": "21500",
     "url": "https://link.coupang.com/a/d0TzEOH6k0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,34 +61,34 @@ description: 바이오가 우유단백질 로션은 건조하고 민감한 피�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 104 L 86 131 L 104 138 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 26 L 247 26 L 265 26 L 283 26 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 56 L 498 56 L 516 56 L 534 144 L 552 68 L 570 68 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 104 L 86 131 L 104 138 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 26 L 247 26 L 265 26 L 283 26 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 56 L 498 56 L 516 56 L 534 144 L 552 68 L 570 68 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="144" r="4" fill="#fdba74"></circle>
+    <path d="M 68 131 L 86 138 L 104 138 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 26 L 229 26 L 247 26 L 265 26 L 283 46 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 56 L 480 56 L 498 56 L 516 144 L 534 68 L 552 68 L 570 121 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 131 L 86 138 L 104 138 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 26 L 229 26 L 247 26 L 265 26 L 283 46 L 301 46 L 319 46 L 337 46 L 355 46 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 56 L 480 56 L 498 56 L 516 144 L 534 68 L 552 68 L 570 121 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="68" r="4" fill="#fdba74"></circle>
     <circle cx="552" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="68" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="121" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="121" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="109" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
