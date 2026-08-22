@@ -20,7 +20,7 @@ description: 미스터리 파티 시리즈 몇 번이고 푸른달에 불을 붙
     "price": "41000",
     "url": "https://link.coupang.com/a/gqlh6J2FmC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-29"
+    "priceValidUntil": "2026-08-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
