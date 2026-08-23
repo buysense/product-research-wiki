@@ -21,7 +21,7 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
     "price": "13050",
     "url": "https://link.coupang.com/a/exnwQU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,45 +61,44 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 69 L 86 110 L 104 110 L 122 81 L 140 107 L 158 109 L 176 103 L 194 99 L 211 107 L 229 117 L 247 123 L 265 118 L 283 125 L 301 107 L 319 107 L 337 107 L 355 107 L 373 116 L 391 107 L 409 107 L 427 166 L 445 166 L 462 166 L 480 166 L 498 105 L 516 98 L 534 98 L 552 98 L 570 98 L 588 98 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 69 L 86 110 L 104 110 L 122 81 L 140 107 L 158 109 L 176 103 L 194 99 L 211 107 L 229 117 L 247 123 L 265 118 L 283 125 L 301 107 L 319 107 L 337 107 L 355 107 L 373 116 L 391 107 L 409 107 L 427 166 L 445 166 L 462 166 L 480 166 L 498 105 L 516 98 L 534 98 L 552 98 L 570 98 L 588 98" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="69" r="4" fill="#fdba74"></circle>
+    <path d="M 68 110 L 86 110 L 104 81 L 122 107 L 140 109 L 158 103 L 176 99 L 194 107 L 211 117 L 229 123 L 247 118 L 265 125 L 283 107 L 301 107 L 319 107 L 337 107 L 355 116 L 373 107 L 391 107 L 409 166 L 427 166 L 445 166 L 462 166 L 480 105 L 498 98 L 516 98 L 534 98 L 552 98 L 570 98 L 588 98 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 86 110 L 104 81 L 122 107 L 140 109 L 158 103 L 176 99 L 194 107 L 211 117 L 229 123 L 247 118 L 265 125 L 283 107 L 301 107 L 319 107 L 337 107 L 355 116 L 373 107 L 391 107 L 409 166 L 427 166 L 445 166 L 462 166 L 480 105 L 498 98 L 516 98 L 534 98 L 552 98 L 570 98 L 588 98" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="86" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="109" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="99" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="123" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="118" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="81" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="109" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="99" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="117" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="123" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="118" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="107" r="4" fill="#fdba74"></circle>
     <circle cx="301" cy="107" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="107" r="4" fill="#fdba74"></circle>
     <circle cx="337" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="107" r="4" fill="#fdba74"></circle>
     <circle cx="391" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="98" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="166" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="98" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="98" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="86" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,050원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
