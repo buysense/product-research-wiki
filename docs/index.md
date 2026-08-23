@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 고은담 명인이 만든 보리차 진액 | [보기](products/goeundam-barley-tea-extract.md) |
 | 미스터리 파티 시리즈 몇 번이고 푸른달에 불을 붙였다 | [보기](products/mystery-party-series-blue-moon.md) |
 | 카스가이 젤리 | [보기](products/kasugai-jelly.md) |
 | 룸모 콘낄리에 리가테 | [보기](products/rummo-conchiglie-rigate-pasta.md) |
