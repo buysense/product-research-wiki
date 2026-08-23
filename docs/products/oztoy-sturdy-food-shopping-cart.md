@@ -21,7 +21,7 @@ description: 오즈토이 튼튼한 푸드 쇼핑카트는 유아의 걸음마 �
     "price": "16890",
     "url": "https://link.coupang.com/a/e47yEOgAJo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,34 +61,34 @@ description: 오즈토이 튼튼한 푸드 쇼핑카트는 유아의 걸음마 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 43 L 86 43 L 104 43 L 122 43 L 140 124 L 158 124 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 111 L 391 43 L 409 43 L 427 43 L 445 43 L 462 98 L 480 98 L 498 111 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 43 L 86 43 L 104 43 L 122 43 L 140 124 L 158 124 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 111 L 391 43 L 409 43 L 427 43 L 445 43 L 462 98 L 480 98 L 498 111 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 43 L 86 43 L 104 43 L 122 124 L 140 124 L 158 43 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 111 L 373 43 L 391 43 L 409 43 L 427 43 L 445 98 L 462 98 L 480 111 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 43 L 86 43 L 104 43 L 122 124 L 140 124 L 158 43 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 111 L 373 43 L 391 43 L 409 43 L 427 43 L 445 98 L 462 98 L 480 111 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="124" r="4" fill="#fdba74"></circle>
     <circle cx="140" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="124" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="43" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="98" r="4" fill="#fdba74"></circle>
     <circle cx="462" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="34" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,890원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
