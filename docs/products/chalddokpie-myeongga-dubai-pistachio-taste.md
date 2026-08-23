@@ -21,12 +21,12 @@ description: 찰떡파이 명가 두바이st 피스타치오맛은 쫀득한 찰
     "price": "58090",
     "url": "https://link.coupang.com/a/ewdo03",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 10611,
+    "reviewCount": 10625,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 찰떡파이 명가 두바이st 피스타치오맛은 쫀득한 찰
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 58,090원 · 별점 4.8 · 리뷰 10,611개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 58,090원 · 별점 4.8 · 리뷰 10,625개</span>
     <a href="https://link.coupang.com/a/ewdo03" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -57,41 +57,40 @@ description: 찰떡파이 명가 두바이st 피스타치오맛은 쫀득한 찰
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 72 L 86 133 L 104 138 L 122 132 L 140 132 L 158 132 L 176 90 L 194 90 L 211 137 L 229 90 L 247 90 L 265 117 L 283 90 L 301 90 L 319 90 L 337 90 L 355 90 L 373 90 L 391 117 L 409 117 L 427 90 L 445 90 L 462 90 L 480 90 L 498 90 L 516 90 L 534 90 L 552 90 L 570 90 L 588 90 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 86 133 L 104 138 L 122 132 L 140 132 L 158 132 L 176 90 L 194 90 L 211 137 L 229 90 L 247 90 L 265 117 L 283 90 L 301 90 L 319 90 L 337 90 L 355 90 L 373 90 L 391 117 L 409 117 L 427 90 L 445 90 L 462 90 L 480 90 L 498 90 L 516 90 L 534 90 L 552 90 L 570 90 L 588 90" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="133" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="132" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="90" r="5" fill="#ea580c"></circle>
+    <path d="M 68 141 L 86 155 L 104 140 L 122 140 L 140 140 L 158 33 L 176 33 L 194 151 L 211 33 L 229 33 L 247 102 L 265 33 L 283 33 L 301 33 L 319 33 L 337 33 L 355 33 L 373 102 L 391 102 L 409 33 L 427 33 L 445 33 L 462 33 L 480 33 L 498 33 L 516 33 L 534 33 L 552 33 L 570 33 L 588 33 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 141 L 86 155 L 104 140 L 122 140 L 140 140 L 158 33 L 176 33 L 194 151 L 211 33 L 229 33 L 247 102 L 265 33 L 283 33 L 301 33 L 319 33 L 337 33 L 355 33 L 373 102 L 391 102 L 409 33 L 427 33 L 445 33 L 462 33 L 480 33 L 498 33 L 516 33 L 534 33 L 552 33 L 570 33 L 588 33" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="141" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="155" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="140" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="151" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="33" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="33" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="78" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">58,090원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="588" y="21" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">58,090원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -371,7 +370,7 @@ A. 식후 가벼운 디저트, 오후의 간식, 커피나 차와 함께하는 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 58,090원 · 별점 4.8 · 리뷰 10,611개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 58,090원 · 별점 4.8 · 리뷰 10,625개</span>
     <a href="https://link.coupang.com/a/ewdo03" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
