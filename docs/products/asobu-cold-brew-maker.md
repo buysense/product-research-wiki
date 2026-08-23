@@ -21,7 +21,7 @@ description: 아소부 콜드브루 메이커는 집에서 간편하게 콜드�
     "price": "49900",
     "url": "https://link.coupang.com/a/e4Y9dzqJFc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,28 +61,28 @@ description: 아소부 콜드브루 메이커는 집에서 간편하게 콜드�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 138 L 283 138 L 301 138 L 319 138 L 337 138 L 355 138 L 373 138 L 391 138 L 409 138 L 427 138 L 445 66 L 462 66 L 480 66 L 498 66 L 516 28 L 534 28 L 552 28 L 570 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 138 L 283 138 L 301 138 L 319 138 L 337 138 L 355 138 L 373 138 L 391 138 L 409 138 L 427 138 L 445 66 L 462 66 L 480 66 L 498 66 L 516 28 L 534 28 L 552 28 L 570 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 138 L 355 138 L 373 138 L 391 138 L 409 138 L 427 66 L 445 66 L 462 66 L 480 66 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 138 L 355 138 L 373 138 L 391 138 L 409 138 L 427 66 L 445 66 L 462 66 L 480 66 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="28" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="138" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="66" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="28" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="28" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="16" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
