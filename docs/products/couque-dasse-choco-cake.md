@@ -21,7 +21,7 @@ description: 쿠크다스 쵸코케이크는 부드러운 시트에 초콜릿이
     "price": "8570",
     "url": "https://link.coupang.com/a/gr9Tms7nYO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
