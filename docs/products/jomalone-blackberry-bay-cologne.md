@@ -14,15 +14,15 @@ description: 조말론런던 블랙베리 앤 베이 코롱은 남녀 모두에�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "104500",
+    "price": "99000",
     "url": "https://link.coupang.com/a/ejdOA7",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 677,
+    "reviewCount": 681,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -37,7 +37,7 @@ description: 조말론런던 블랙베리 앤 베이 코롱은 남녀 모두에�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 104,500원 · 별점 4.8 · 리뷰 677개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 99,000원 · 별점 4.8 · 리뷰 681개</span>
     <a href="https://link.coupang.com/a/ejdOA7" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -51,32 +51,33 @@ description: 조말론런던 블랙베리 앤 베이 코롱은 남녀 모두에�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">104,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">102,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">105,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">95,000</text>
 
-    <path d="M 68 121 L 86 121 L 104 121 L 122 121 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 121 L 498 121 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 121 L 86 121 L 104 121 L 122 121 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 121 L 498 121 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <path d="M 68 79 L 86 79 L 104 79 L 122 34 L 140 34 L 158 34 L 176 34 L 194 34 L 211 34 L 229 34 L 247 34 L 265 34 L 283 34 L 301 34 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 79 L 480 79 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 86 79 L 104 79 L 122 34 L 140 34 L 158 34 L 176 34 L 194 34 L 211 34 L 229 34 L 247 34 L 265 34 L 283 34 L 301 34 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 79 L 480 79 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="79" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">104,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">99,000원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -379,7 +380,7 @@ A. 조말론 블랙베리 앤 베이 코롱은 9ml, 30ml, 50ml, 100ml 등 다양
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 104,500원 · 별점 4.8 · 리뷰 677개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 99,000원 · 별점 4.8 · 리뷰 681개</span>
     <a href="https://link.coupang.com/a/ejdOA7" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
