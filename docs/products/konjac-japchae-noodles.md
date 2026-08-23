@@ -21,7 +21,7 @@ description: 곤약잡채면은 칼로리 부담 없이 잡채의 맛을 즐길 
     "price": "7900",
     "url": "https://link.coupang.com/a/gr9EIeGJga",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
