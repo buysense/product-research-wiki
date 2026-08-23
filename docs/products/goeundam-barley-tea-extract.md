@@ -21,7 +21,7 @@ description: 고은담 명인이 만든 보리차 진액은 물에 희석하여 
     "price": "14900",
     "url": "https://link.coupang.com/a/gr8vSggAcS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
