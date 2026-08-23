@@ -21,7 +21,7 @@ description: 스타벅스 드립백은 집, 캠핑, 여행 등 다양한 상황�
     "price": "23990",
     "url": "https://link.coupang.com/a/eySGWC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,28 +61,28 @@ description: 스타벅스 드립백은 집, 캠핑, 여행 등 다양한 상황�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 161 L 86 161 L 104 161 L 122 161 L 140 161 L 158 161 L 176 161 L 194 161 L 211 161 L 229 161 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 136 L 427 136 L 445 136 L 462 136 L 480 136 L 498 26 L 516 64 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 161 L 86 161 L 104 161 L 122 161 L 140 161 L 158 161 L 176 161 L 194 161 L 211 161 L 229 161 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 136 L 427 136 L 445 136 L 462 136 L 480 136 L 498 26 L 516 64 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 161 L 86 161 L 104 161 L 122 161 L 140 161 L 158 161 L 176 161 L 194 161 L 211 161 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 136 L 427 136 L 445 136 L 462 136 L 480 26 L 498 64 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 161 L 86 161 L 104 161 L 122 161 L 140 161 L 158 161 L 176 161 L 194 161 L 211 161 L 229 136 L 247 136 L 265 136 L 283 136 L 301 136 L 319 136 L 337 136 L 355 136 L 373 136 L 391 136 L 409 136 L 427 136 L 445 136 L 462 136 L 480 26 L 498 64 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="161" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="136" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="161" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="136" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,990원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
