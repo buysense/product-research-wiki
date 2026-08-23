@@ -16,7 +16,7 @@ description: 잔스포츠 Drawsack은 14L 용량, 약 190g의 초경량 드로�
     "price": "34100",
     "url": "https://link.coupang.com/a/d22r9l",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,16 +60,16 @@ description: 잔스포츠 Drawsack은 14L 용량, 약 190g의 초경량 드로�
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,100원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
