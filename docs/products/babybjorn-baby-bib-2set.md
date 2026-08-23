@@ -21,7 +21,7 @@ description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작
     "price": "28050",
     "url": "https://link.coupang.com/a/eqhPpZ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,34 +61,33 @@ description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
 
-    <path d="M 68 37 L 86 167 L 104 37 L 122 91 L 140 37 L 158 100 L 176 100 L 194 37 L 211 37 L 229 37 L 247 37 L 265 37 L 283 37 L 301 37 L 319 37 L 337 37 L 355 37 L 373 37 L 391 37 L 409 100 L 427 100 L 445 100 L 462 100 L 480 100 L 498 100 L 516 100 L 534 37 L 552 100 L 570 100 L 588 100 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 37 L 86 167 L 104 37 L 122 91 L 140 37 L 158 100 L 176 100 L 194 37 L 211 37 L 229 37 L 247 37 L 265 37 L 283 37 L 301 37 L 319 37 L 337 37 L 355 37 L 373 37 L 391 37 L 409 100 L 427 100 L 445 100 L 462 100 L 480 100 L 498 100 L 516 100 L 534 37 L 552 100 L 570 100 L 588 100" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="167" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="91" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="37" r="4" fill="#fdba74"></circle>
+    <path d="M 68 167 L 86 37 L 104 91 L 122 37 L 140 100 L 158 100 L 176 37 L 194 37 L 211 37 L 229 37 L 247 37 L 265 37 L 283 37 L 301 37 L 319 37 L 337 37 L 355 37 L 373 37 L 391 100 L 409 100 L 427 100 L 445 100 L 462 100 L 480 100 L 498 100 L 516 37 L 534 100 L 552 100 L 570 100 L 588 100 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 167 L 86 37 L 104 91 L 122 37 L 140 100 L 158 100 L 176 37 L 194 37 L 211 37 L 229 37 L 247 37 L 265 37 L 283 37 L 301 37 L 319 37 L 337 37 L 355 37 L 373 37 L 391 100 L 409 100 L 427 100 L 445 100 L 462 100 L 480 100 L 498 100 L 516 37 L 534 100 L 552 100 L 570 100 L 588 100" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="167" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="91" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="100" r="4" fill="#fdba74"></circle>
     <circle cx="158" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="37" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="37" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="100" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="100" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="88" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,050원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
