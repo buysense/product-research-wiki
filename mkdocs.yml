@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 쿠크다스 쵸코케이크: products/couque-dasse-choco-cake.md
     - 곤약잡채면: products/konjac-japchae-noodles.md
     - 고은담 명인이 만든 보리차 진액: products/goeundam-barley-tea-extract.md
     - 미스터리 파티 시리즈 몇 번이고 푸른달에 불을 붙였다: products/mystery-party-series-blue-moon.md
