@@ -18,10 +18,10 @@ description: 리에티 AIDA RT 2016 편광 선글라스는 야외 활동, 운전
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "41900",
+    "price": "35280",
     "url": "https://link.coupang.com/a/f8bjYJu8aa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -43,7 +43,7 @@ description: 리에티 AIDA RT 2016 편광 선글라스는 야외 활동, 운전
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 41,900원 · 별점 4.8 · 리뷰 10개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 35,280원 · 별점 4.8 · 리뷰 10개</span>
     <a href="https://link.coupang.com/a/f8bjYJu8aa" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,29 +52,31 @@ description: 리에티 AIDA RT 2016 편광 선글라스는 야외 활동, 운전
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">44,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">42,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 151 L 172 26 L 276 106 L 380 106 L 484 106 L 588 106 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 151 L 172 26 L 276 106 L 380 106 L 484 106 L 588 106" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="151" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="106" r="5" fill="#ea580c"></circle>
+    <path d="M 68 91 L 155 40 L 241 73 L 328 73 L 415 73 L 501 73 L 588 174 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 91 L 155 40 L 241 73 L 328 73 L 415 73 L 501 73 L 588 174" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="91" r="4" fill="#fdba74"></circle>
+    <circle cx="155" cy="40" r="4" fill="#fdba74"></circle>
+    <circle cx="241" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="501" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="174" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="94" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">41,900원</text>
+    <text x="588" y="162" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">35,280원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-11</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -171,7 +173,7 @@ A. 렌즈에 지문이나 먼지가 묻었을 경우, 흐르는 물에 가볍게
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 41,900원 · 별점 4.8 · 리뷰 10개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 35,280원 · 별점 4.8 · 리뷰 10개</span>
     <a href="https://link.coupang.com/a/f8bjYJu8aa" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
