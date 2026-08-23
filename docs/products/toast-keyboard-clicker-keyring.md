@@ -21,12 +21,12 @@ description: 귀여운 식빵 디자인과 경쾌한 키보드 타건감을 선�
     "price": "3880",
     "url": "https://link.coupang.com/a/eCuNBo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 143,
+    "reviewCount": 144,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 귀여운 식빵 디자인과 경쾌한 키보드 타건감을 선�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 3,880원 · 별점 4.5 · 리뷰 143개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 3,880원 · 별점 4.5 · 리뷰 144개</span>
     <a href="https://link.coupang.com/a/eCuNBo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,26 +61,26 @@ description: 귀여운 식빵 디자인과 경쾌한 키보드 타건감을 선�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">2,000</text>
 
-    <path d="M 68 103 L 86 103 L 104 103 L 122 103 L 140 103 L 158 103 L 176 103 L 194 103 L 211 103 L 229 103 L 247 27 L 265 27 L 283 27 L 301 27 L 319 27 L 337 27 L 355 27 L 373 27 L 391 27 L 409 27 L 427 27 L 445 27 L 462 27 L 480 27 L 498 107 L 516 107 L 534 107 L 552 107 L 570 107 L 588 107 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 103 L 86 103 L 104 103 L 122 103 L 140 103 L 158 103 L 176 103 L 194 103 L 211 103 L 229 103 L 247 27 L 265 27 L 283 27 L 301 27 L 319 27 L 337 27 L 355 27 L 373 27 L 391 27 L 409 27 L 427 27 L 445 27 L 462 27 L 480 27 L 498 107 L 516 107 L 534 107 L 552 107 L 570 107 L 588 107" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 103 L 86 103 L 104 103 L 122 103 L 140 103 L 158 103 L 176 103 L 194 103 L 211 103 L 229 27 L 247 27 L 265 27 L 283 27 L 301 27 L 319 27 L 337 27 L 355 27 L 373 27 L 391 27 L 409 27 L 427 27 L 445 27 L 462 27 L 480 107 L 498 107 L 516 107 L 534 107 L 552 107 L 570 107 L 588 107 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 103 L 86 103 L 104 103 L 122 103 L 140 103 L 158 103 L 176 103 L 194 103 L 211 103 L 229 27 L 247 27 L 265 27 L 283 27 L 301 27 L 319 27 L 337 27 L 355 27 L 373 27 L 391 27 L 409 27 L 427 27 L 445 27 L 462 27 L 480 107 L 498 107 L 516 107 L 534 107 L 552 107 L 570 107 L 588 107" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="107" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="107" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="107" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="95" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">3,880원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-07</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -332,7 +332,7 @@ A. 키링 형태로 제작되어 가방, 열쇠 등 다양한 곳에 걸어 장�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 3,880원 · 별점 4.5 · 리뷰 143개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 3,880원 · 별점 4.5 · 리뷰 144개</span>
     <a href="https://link.coupang.com/a/eCuNBo" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
