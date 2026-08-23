@@ -17,7 +17,7 @@ description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 �
     "price": "134830",
     "url": "https://link.coupang.com/a/en8x7i",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-30"
+    "priceValidUntil": "2026-08-31"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -55,39 +55,40 @@ description: 브라이트스타트 2in1 어라운드 위고 쏘서는 6개월 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">130,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">125,000</text>
 
-    <path d="M 68 119 L 86 119 L 104 119 L 122 131 L 140 131 L 158 131 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 119 L 283 71 L 301 105 L 319 105 L 337 105 L 355 105 L 373 103 L 391 103 L 409 103 L 427 113 L 445 113 L 462 113 L 480 113 L 498 113 L 516 94 L 534 94 L 552 102 L 570 67 L 588 29 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 119 L 86 119 L 104 119 L 122 131 L 140 131 L 158 131 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 119 L 283 71 L 301 105 L 319 105 L 337 105 L 355 105 L 373 103 L 391 103 L 409 103 L 427 113 L 445 113 L 462 113 L 480 113 L 498 113 L 516 94 L 534 94 L 552 102 L 570 67 L 588 29" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 119 L 86 119 L 104 131 L 122 131 L 140 131 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 119 L 265 71 L 283 105 L 301 105 L 319 105 L 337 105 L 355 103 L 373 103 L 391 103 L 409 113 L 427 113 L 445 113 L 462 113 L 480 113 L 498 94 L 516 94 L 534 102 L 552 67 L 570 29 L 588 29 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 119 L 86 119 L 104 131 L 122 131 L 140 131 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 119 L 265 71 L 283 105 L 301 105 L 319 105 L 337 105 L 355 103 L 373 103 L 391 103 L 409 113 L 427 113 L 445 113 L 462 113 L 480 113 L 498 94 L 516 94 L 534 102 L 552 67 L 570 29 L 588 29" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="131" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="103" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="113" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="131" r="4" fill="#fdba74"></circle>
+    <circle cx="158" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="105" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="103" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="113" r="4" fill="#fdba74"></circle>
+    <circle cx="498" cy="94" r="4" fill="#fdba74"></circle>
     <circle cx="516" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="94" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="102" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="67" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="29" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="29" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="17" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">134,830원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
