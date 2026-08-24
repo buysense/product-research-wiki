@@ -20,7 +20,7 @@ description: 베스트템 왁뿌볼 로제 말랑이는 부드러운 촉감과 �
     "price": "11800",
     "url": "https://link.coupang.com/a/dLE4vuXxsW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-31"
+    "priceValidUntil": "2026-09-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,24 +60,24 @@ description: 베스트템 왁뿌볼 로제 말랑이는 부드러운 촉감과 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="110" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="110" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
