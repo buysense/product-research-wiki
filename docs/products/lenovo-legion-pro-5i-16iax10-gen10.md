@@ -21,7 +21,7 @@ description: 레노버 2025 리전 프로 5i는 고성능 게이밍과 전문 �
     "price": "3337740",
     "url": "https://link.coupang.com/a/gsXFOYpciG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-31"
+    "priceValidUntil": "2026-09-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

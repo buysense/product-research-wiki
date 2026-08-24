@@ -20,7 +20,7 @@ description: 오뚜기 콕콕콕 참깨란볶이는 고소한 참깨와 계란 �
     "price": "22900",
     "url": "https://link.coupang.com/a/gtGfrxVm0G",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-31"
+    "priceValidUntil": "2026-09-01"
   }
 }
 </script>
