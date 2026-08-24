@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 레노버 2025 리전 프로 5i 16IAX10 Gen10 코어Ultra7 | [보기](products/lenovo-legion-pro-5i-16iax10-gen10.md) |
 | 쿠크다스 쵸코케이크 | [보기](products/couque-dasse-choco-cake.md) |
 | 곤약잡채면 | [보기](products/konjac-japchae-noodles.md) |
 | 고은담 명인이 만든 보리차 진액 | [보기](products/goeundam-barley-tea-extract.md) |
