@@ -18,15 +18,15 @@ description: 기꼬만 시보리타테 생 간장은 깊은 감칠맛과 부드�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "6430",
+    "price": "6250",
     "url": "https://link.coupang.com/a/epCERb",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-31"
+    "priceValidUntil": "2026-09-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 179,
+    "reviewCount": 181,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 기꼬만 시보리타테 생 간장은 깊은 감칠맛과 부드�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,430원 · 별점 4.8 · 리뷰 179개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,250원 · 별점 4.8 · 리뷰 181개</span>
     <a href="https://link.coupang.com/a/epCERb" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,32 +61,33 @@ description: 기꼬만 시보리타테 생 간장은 깊은 감칠맛과 부드�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 111 L 86 111 L 104 111 L 122 111 L 140 108 L 158 108 L 176 108 L 194 108 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 89 L 391 89 L 409 89 L 427 89 L 445 89 L 462 89 L 480 89 L 498 86 L 516 86 L 534 86 L 552 86 L 570 86 L 588 86 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 111 L 86 111 L 104 111 L 122 111 L 140 108 L 158 108 L 176 108 L 194 108 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 89 L 391 89 L 409 89 L 427 89 L 445 89 L 462 89 L 480 89 L 498 86 L 516 86 L 534 86 L 552 86 L 570 86 L 588 86" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 111 L 86 111 L 104 111 L 122 108 L 140 108 L 158 108 L 176 108 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 89 L 373 89 L 391 89 L 409 89 L 427 89 L 445 89 L 462 89 L 480 86 L 498 86 L 516 86 L 534 86 L 552 86 L 570 86 L 588 93 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 111 L 86 111 L 104 111 L 122 108 L 140 108 L 158 108 L 176 108 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 89 L 373 89 L 391 89 L 409 89 L 427 89 L 445 89 L 462 89 L 480 86 L 498 86 L 516 86 L 534 86 L 552 86 L 570 86 L 588 93" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="176" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
     <circle cx="265" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="89" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="86" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="86" r="5" fill="#ea580c"></circle>
+    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="89" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="86" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="93" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="74" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,430원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="588" y="81" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,250원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -360,7 +361,7 @@ A. 이중 구조 밀폐 용기 덕분에 공기 접촉을 최소화하여 개봉
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,430원 · 별점 4.8 · 리뷰 179개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,250원 · 별점 4.8 · 리뷰 181개</span>
     <a href="https://link.coupang.com/a/epCERb" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
