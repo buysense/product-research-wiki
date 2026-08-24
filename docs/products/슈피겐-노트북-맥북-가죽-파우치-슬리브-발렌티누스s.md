@@ -16,7 +16,7 @@ description: 슈피겐 노트북 맥북 가죽 파우치 슬리브 발렌티누�
     "price": "36900",
     "url": "https://link.coupang.com/a/d6Skej",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-31"
+    "priceValidUntil": "2026-09-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -54,28 +54,28 @@ description: 슈피겐 노트북 맥북 가죽 파우치 슬리브 발렌티누�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 46 L 86 46 L 104 46 L 122 46 L 140 144 L 158 144 L 176 144 L 194 144 L 211 144 L 229 144 L 247 144 L 265 144 L 283 144 L 301 144 L 319 144 L 337 144 L 355 144 L 373 144 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 46 L 498 73 L 516 73 L 534 73 L 552 73 L 570 73 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 46 L 86 46 L 104 46 L 122 46 L 140 144 L 158 144 L 176 144 L 194 144 L 211 144 L 229 144 L 247 144 L 265 144 L 283 144 L 301 144 L 319 144 L 337 144 L 355 144 L 373 144 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 46 L 498 73 L 516 73 L 534 73 L 552 73 L 570 73 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 46 L 86 46 L 104 46 L 122 144 L 140 144 L 158 144 L 176 144 L 194 144 L 211 144 L 229 144 L 247 144 L 265 144 L 283 144 L 301 144 L 319 144 L 337 144 L 355 144 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 73 L 498 73 L 516 73 L 534 73 L 552 73 L 570 73 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 46 L 86 46 L 104 46 L 122 144 L 140 144 L 158 144 L 176 144 L 194 144 L 211 144 L 229 144 L 247 144 L 265 144 L 283 144 L 301 144 L 319 144 L 337 144 L 355 144 L 373 46 L 391 46 L 409 46 L 427 46 L 445 46 L 462 46 L 480 73 L 498 73 L 516 73 L 534 73 L 552 73 L 570 73 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="46" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="46" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="73" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="73" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="61" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
