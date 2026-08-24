@@ -18,15 +18,15 @@ description: 베스트웨이 피쉬토이 분수 미끄럼 물놀이 풀장은 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "53790",
+    "price": "51190",
     "url": "https://link.coupang.com/a/dSH40wgvsG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-31"
+    "priceValidUntil": "2026-09-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.4,
-    "reviewCount": 482,
+    "reviewCount": 483,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 베스트웨이 피쉬토이 분수 미끄럼 물놀이 풀장은 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 53,790원 · 별점 4.4 · 리뷰 482개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 51,190원 · 별점 4.4 · 리뷰 483개</span>
     <a href="https://link.coupang.com/a/dSH40wgvsG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -57,39 +57,40 @@ description: 베스트웨이 피쉬토이 분수 미끄럼 물놀이 풀장은 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">56,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">54,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">52,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 98 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 98 L 355 98 L 373 26 L 391 26 L 409 26 L 427 100 L 445 26 L 462 26 L 480 26 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 98 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 98 L 355 98 L 373 26 L 391 26 L 409 26 L 427 100 L 445 26 L 462 26 L 480 26 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
+    <path d="M 68 73 L 86 73 L 104 73 L 122 73 L 140 73 L 158 73 L 176 73 L 194 73 L 211 116 L 229 73 L 247 73 L 265 73 L 283 73 L 301 73 L 319 116 L 337 116 L 355 73 L 373 73 L 391 74 L 409 116 L 427 74 L 445 74 L 462 74 L 480 120 L 498 120 L 516 120 L 534 120 L 552 120 L 570 120 L 588 160 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 73 L 86 73 L 104 73 L 122 73 L 140 73 L 158 73 L 176 73 L 194 73 L 211 116 L 229 73 L 247 73 L 265 73 L 283 73 L 301 73 L 319 116 L 337 116 L 355 73 L 373 73 L 391 74 L 409 116 L 427 74 L 445 74 L 462 74 L 480 120 L 498 120 L 516 120 L 534 120 L 552 120 L 570 120 L 588 160" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="73" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="116" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="74" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="120" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="160" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">53,790원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="588" y="148" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">51,190원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -328,7 +329,7 @@ A. 네, 풀장 본체, 미끄럼틀, 작은 물놀이 장난감 모두 공기를
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 53,790원 · 별점 4.4 · 리뷰 482개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 51,190원 · 별점 4.4 · 리뷰 483개</span>
     <a href="https://link.coupang.com/a/dSH40wgvsG" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
