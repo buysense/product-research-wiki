@@ -21,7 +21,7 @@ description: 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트는
     "price": "12900",
     "url": "https://link.coupang.com/a/e5amdG8hm8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-31"
+    "priceValidUntil": "2026-09-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,41 +61,40 @@ description: 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트는
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 145 L 86 145 L 104 175 L 122 145 L 140 145 L 158 36 L 176 36 L 194 36 L 211 36 L 229 90 L 247 90 L 265 90 L 283 106 L 301 32 L 319 34 L 337 34 L 355 59 L 373 59 L 391 59 L 409 59 L 427 59 L 445 34 L 462 34 L 480 34 L 498 106 L 516 106 L 534 144 L 552 144 L 570 144 L 588 144 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 145 L 86 145 L 104 175 L 122 145 L 140 145 L 158 36 L 176 36 L 194 36 L 211 36 L 229 90 L 247 90 L 265 90 L 283 106 L 301 32 L 319 34 L 337 34 L 355 59 L 373 59 L 391 59 L 409 59 L 427 59 L 445 34 L 462 34 L 480 34 L 498 106 L 516 106 L 534 144 L 552 144 L 570 144 L 588 144" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 145 L 86 175 L 104 145 L 122 145 L 140 36 L 158 36 L 176 36 L 194 36 L 211 90 L 229 90 L 247 90 L 265 106 L 283 32 L 301 34 L 319 34 L 337 59 L 355 59 L 373 59 L 391 59 L 409 59 L 427 34 L 445 34 L 462 34 L 480 106 L 498 106 L 516 144 L 534 144 L 552 144 L 570 144 L 588 144 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 145 L 86 175 L 104 145 L 122 145 L 140 36 L 158 36 L 176 36 L 194 36 L 211 90 L 229 90 L 247 90 L 265 106 L 283 32 L 301 34 L 319 34 L 337 59 L 355 59 L 373 59 L 391 59 L 409 59 L 427 34 L 445 34 L 462 34 L 480 106 L 498 106 L 516 144 L 534 144 L 552 144 L 570 144 L 588 144" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="175" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="175" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="145" r="4" fill="#fdba74"></circle>
     <circle cx="122" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="90" r="4" fill="#fdba74"></circle>
-    <circle cx="283" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="194" cy="36" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="90" r="4" fill="#fdba74"></circle>
+    <circle cx="265" cy="106" r="4" fill="#fdba74"></circle>
+    <circle cx="283" cy="32" r="4" fill="#fdba74"></circle>
+    <circle cx="301" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="319" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="59" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="59" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="34" r="4" fill="#fdba74"></circle>
+    <circle cx="480" cy="106" r="4" fill="#fdba74"></circle>
     <circle cx="498" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="144" r="4" fill="#fdba74"></circle>
+    <circle cx="516" cy="144" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="144" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="132" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
