@@ -21,7 +21,7 @@ description: 헬로키티 텀블러 보냉백은 벤티 사이즈 음료 용기�
     "price": "6900",
     "url": "https://link.coupang.com/a/e8JHxVMdnU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-31"
+    "priceValidUntil": "2026-09-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -67,16 +67,16 @@ description: 헬로키티 텀블러 보냉백은 벤티 사이즈 음료 용기�
     <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">6,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
