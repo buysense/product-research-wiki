@@ -18,15 +18,15 @@ description: 바다숲 밥에 싸먹는 구운감태는 신선한 감태를 고�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "15000",
+    "price": "13600",
     "url": "https://link.coupang.com/a/fK0vXo5NL2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-31"
+    "priceValidUntil": "2026-09-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 1581,
+    "reviewCount": 1582,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 바다숲 밥에 싸먹는 구운감태는 신선한 감태를 고�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,000원 · 별점 4.7 · 리뷰 1,581개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,600원 · 별점 4.7 · 리뷰 1,582개</span>
     <a href="https://link.coupang.com/a/fK0vXo5NL2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,31 +52,32 @@ description: 바다숲 밥에 싸먹는 구운감태는 신선한 감태를 고�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,100</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,900</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
 
-    <path d="M 68 102 L 108 102 L 148 102 L 188 102 L 228 102 L 268 102 L 308 102 L 348 102 L 388 102 L 428 102 L 468 102 L 508 102 L 548 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 108 102 L 148 102 L 188 102 L 228 102 L 268 102 L 308 102 L 348 102 L 388 102 L 428 102 L 468 102 L 508 102 L 548 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 26 L 105 26 L 142 26 L 179 26 L 217 26 L 254 26 L 291 26 L 328 26 L 365 26 L 402 26 L 439 26 L 477 26 L 514 26 L 551 26 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 105 26 L 142 26 L 179 26 L 217 26 L 254 26 L 291 26 L 328 26 L 365 26 L 402 26 L 439 26 L 477 26 L 514 26 L 551 26 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="551" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,000원</text>
+    <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -180,7 +181,7 @@ A. 감태는 항산화 성분인 폴리페놀, 풍부한 식이섬유, 칼슘, �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,000원 · 별점 4.7 · 리뷰 1,581개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,600원 · 별점 4.7 · 리뷰 1,582개</span>
     <a href="https://link.coupang.com/a/fK0vXo5NL2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
