@@ -21,12 +21,12 @@ description: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림 40ml는 예�
     "price": "23760",
     "url": "https://link.coupang.com/a/euwouI9g0y",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-01"
+    "priceValidUntil": "2026-09-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 8595,
+    "reviewCount": 8608,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림 40ml는 예�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,760원 · 별점 4.6 · 리뷰 8,595개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 23,760원 · 별점 4.6 · 리뷰 8,608개</span>
     <a href="https://link.coupang.com/a/euwouI9g0y" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,33 +61,33 @@ description: 라로슈포제 뉴 시카플라스트 밤 B5+ 크림 40ml는 예�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">23,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">23,000</text>
 
-    <path d="M 68 62 L 86 62 L 104 62 L 122 78 L 140 78 L 158 78 L 176 78 L 194 78 L 211 78 L 229 78 L 247 119 L 265 78 L 283 78 L 301 78 L 319 78 L 337 78 L 355 29 L 373 29 L 391 29 L 409 47 L 427 47 L 445 47 L 462 47 L 480 62 L 498 62 L 516 62 L 534 62 L 552 62 L 570 62 L 588 62 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 62 L 86 62 L 104 62 L 122 78 L 140 78 L 158 78 L 176 78 L 194 78 L 211 78 L 229 78 L 247 119 L 265 78 L 283 78 L 301 78 L 319 78 L 337 78 L 355 29 L 373 29 L 391 29 L 409 47 L 427 47 L 445 47 L 462 47 L 480 62 L 498 62 L 516 62 L 534 62 L 552 62 L 570 62 L 588 62" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 62 L 86 62 L 104 78 L 122 78 L 140 78 L 158 78 L 176 78 L 194 78 L 211 78 L 229 119 L 247 78 L 265 78 L 283 78 L 301 78 L 319 78 L 337 29 L 355 29 L 373 29 L 391 47 L 409 47 L 427 47 L 445 47 L 462 62 L 480 62 L 498 62 L 516 62 L 534 62 L 552 62 L 570 62 L 588 62 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 62 L 86 62 L 104 78 L 122 78 L 140 78 L 158 78 L 176 78 L 194 78 L 211 78 L 229 119 L 247 78 L 265 78 L 283 78 L 301 78 L 319 78 L 337 29 L 355 29 L 373 29 L 391 47 L 409 47 L 427 47 L 445 47 L 462 62 L 480 62 L 498 62 L 516 62 L 534 62 L 552 62 L 570 62 L 588 62" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="229" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="119" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="78" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="29" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="62" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="211" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="119" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="319" cy="78" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="29" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="47" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="62" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="62" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="50" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,760원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -275,7 +275,7 @@ A. 평상시에는 건조하거나 예민한 부위에 국소적으로 사용하
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,760원 · 별점 4.6 · 리뷰 8,595개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 23,760원 · 별점 4.6 · 리뷰 8,608개</span>
     <a href="https://link.coupang.com/a/euwouI9g0y" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
