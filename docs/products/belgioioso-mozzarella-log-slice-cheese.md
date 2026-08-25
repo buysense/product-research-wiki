@@ -21,7 +21,7 @@ description: 벨지오이오조 모짜렐라 로그슬라이스는 신선한 맛
     "price": "12900",
     "url": "https://link.coupang.com/a/gvoOVc1IhU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-01"
+    "priceValidUntil": "2026-09-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
