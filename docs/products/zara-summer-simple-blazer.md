@@ -21,7 +21,7 @@ description: ZARA 자라 여름 심플 턴다운 블레이저 자는 여름철 �
     "price": "39700",
     "url": "https://link.coupang.com/a/gvnxQNbO9Y",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-01"
+    "priceValidUntil": "2026-09-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
