@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 아직 제정신입니다 : 마메의 정신없는 날들 | [보기](products/mame-sane-hectic-days-book.md) |
 | 벨지오이오조 모짜렐라 로그슬라이스 | [보기](products/belgioioso-mozzarella-log-slice-cheese.md) |
 | ZARA 자라 여름 심플 턴다운 블레이저 자 | [보기](products/zara-summer-simple-blazer.md) |
 | 오뚜기 콕콕콕 참깨란볶이 | [보기](products/ottogi-kokkokkok-chamkkaeranbokki.md) |
