@@ -21,12 +21,12 @@ description: 리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에�
     "price": "5390",
     "url": "https://link.coupang.com/a/dLG0ERvbFY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-01"
+    "priceValidUntil": "2026-09-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.2,
-    "reviewCount": 130,
+    "ratingValue": 4.1,
+    "reviewCount": 134,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,390원 · 별점 4.2 · 리뷰 130개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,390원 · 별점 4.1 · 리뷰 134개</span>
     <a href="https://link.coupang.com/a/dLG0ERvbFY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,29 +61,29 @@ description: 리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 61 L 176 61 L 194 61 L 211 61 L 229 61 L 247 61 L 265 61 L 283 61 L 301 61 L 319 61 L 337 61 L 355 61 L 373 61 L 391 64 L 409 64 L 427 64 L 445 64 L 462 162 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 61 L 176 61 L 194 61 L 211 61 L 229 61 L 247 61 L 265 61 L 283 61 L 301 61 L 319 61 L 337 61 L 355 61 L 373 61 L 391 64 L 409 64 L 427 64 L 445 64 L 462 162 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 61 L 158 61 L 176 61 L 194 61 L 211 61 L 229 61 L 247 61 L 265 61 L 283 61 L 301 61 L 319 61 L 337 61 L 355 61 L 373 64 L 391 64 L 409 64 L 427 64 L 445 162 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 61 L 158 61 L 176 61 L 194 61 L 211 61 L 229 61 L 247 61 L 265 61 L 283 61 L 301 61 L 319 61 L 337 61 L 355 61 L 373 64 L 391 64 L 409 64 L 427 64 L 445 162 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="61" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="162" r="4" fill="#fdba74"></circle>
-    <circle cx="480" cy="125" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="61" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="162" r="4" fill="#fdba74"></circle>
+    <circle cx="462" cy="125" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="125" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,390원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -332,7 +332,7 @@ A. 일반적인 말랑이 제품이 주로 부드러운 촉감에 집중한다�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,390원 · 별점 4.2 · 리뷰 130개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,390원 · 별점 4.1 · 리뷰 134개</span>
     <a href="https://link.coupang.com/a/dLG0ERvbFY" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
