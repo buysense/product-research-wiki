@@ -18,10 +18,10 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "45000",
+    "price": "44910",
     "url": "https://link.coupang.com/a/fl5yLovy8a",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-01"
+    "priceValidUntil": "2026-09-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -43,7 +43,7 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 45,000원 · 별점 4.9 · 리뷰 908개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 44,910원 · 별점 4.9 · 리뷰 908개</span>
     <a href="https://link.coupang.com/a/fl5yLovy8a" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,37 +61,38 @@ description: 쁘리엘르 써머쿨링 냉감 여름 차렵 이불베개 세트�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
-    <path d="M 68 26 L 89 27 L 110 27 L 130 27 L 151 27 L 172 27 L 193 111 L 214 27 L 234 27 L 255 27 L 276 27 L 297 27 L 318 100 L 338 137 L 359 65 L 380 65 L 401 65 L 422 111 L 442 146 L 463 26 L 484 65 L 505 65 L 526 65 L 546 65 L 567 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 89 27 L 110 27 L 130 27 L 151 27 L 172 27 L 193 111 L 214 27 L 234 27 L 255 27 L 276 27 L 297 27 L 318 100 L 338 137 L 359 65 L 380 65 L 401 65 L 422 111 L 442 146 L 463 26 L 484 65 L 505 65 L 526 65 L 546 65 L 567 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 88 27 L 108 27 L 128 27 L 148 27 L 168 27 L 188 111 L 208 27 L 228 27 L 248 27 L 268 27 L 288 27 L 308 100 L 328 137 L 348 65 L 368 65 L 388 65 L 408 111 L 428 146 L 448 26 L 468 65 L 488 65 L 508 65 L 528 65 L 548 26 L 568 26 L 588 27 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 88 27 L 108 27 L 128 27 L 148 27 L 168 27 L 188 111 L 208 27 L 228 27 L 248 27 L 268 27 L 288 27 L 308 100 L 328 137 L 348 65 L 368 65 L 388 65 L 408 111 L 428 146 L 448 26 L 468 65 L 488 65 L 508 65 L 528 65 L 548 26 L 568 26 L 588 27" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="89" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="193" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="214" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="297" cy="27" r="4" fill="#fdba74"></circle>
-    <circle cx="318" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="338" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="359" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="401" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="422" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="442" cy="146" r="4" fill="#fdba74"></circle>
-    <circle cx="463" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="484" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="546" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="567" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <circle cx="88" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="168" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="188" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="208" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="288" cy="27" r="4" fill="#fdba74"></circle>
+    <circle cx="308" cy="100" r="4" fill="#fdba74"></circle>
+    <circle cx="328" cy="137" r="4" fill="#fdba74"></circle>
+    <circle cx="348" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="388" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="408" cy="111" r="4" fill="#fdba74"></circle>
+    <circle cx="428" cy="146" r="4" fill="#fdba74"></circle>
+    <circle cx="448" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="468" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="528" cy="65" r="4" fill="#fdba74"></circle>
+    <circle cx="548" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="568" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="27" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">45,000원</text>
+    <text x="588" y="15" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">44,910원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -211,7 +212,7 @@ A. 베개커버는 지퍼가 없는 호텔식 디자인으로, 3mm 3D 에어매�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 45,000원 · 별점 4.9 · 리뷰 908개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 44,910원 · 별점 4.9 · 리뷰 908개</span>
     <a href="https://link.coupang.com/a/fl5yLovy8a" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
