@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 벨지오이오조 모짜렐라 로그슬라이스: products/belgioioso-mozzarella-log-slice-cheese.md
     - ZARA 자라 여름 심플 턴다운 블레이저 자: products/zara-summer-simple-blazer.md
     - 오뚜기 콕콕콕 참깨란볶이: products/ottogi-kokkokkok-chamkkaeranbokki.md
     - 레노버 2025 리전 프로 5i 16IAX10 Gen10 코어Ultra7: products/lenovo-legion-pro-5i-16iax10-gen10.md
