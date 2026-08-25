@@ -20,7 +20,7 @@ description: "마메 작가의 '아직 제정신입니다 : 마메의 정신없�
     "price": "10800",
     "url": "https://link.coupang.com/a/gvp6Pw5MXs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-01"
+    "priceValidUntil": "2026-09-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
