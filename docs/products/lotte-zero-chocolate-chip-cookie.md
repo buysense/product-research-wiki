@@ -18,15 +18,15 @@ description: 롯데제로 초콜릿 칩 쿠키는 설탕과 당류가 0g인 초�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "8550",
+    "price": "8800",
     "url": "https://link.coupang.com/a/dGJaJzBKNM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-02"
+    "priceValidUntil": "2026-09-03"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 15552,
+    "reviewCount": 15574,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 롯데제로 초콜릿 칩 쿠키는 설탕과 당류가 0g인 초�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,550원 · 별점 4.7 · 리뷰 15,552개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,800원 · 별점 4.7 · 리뷰 15,574개</span>
     <a href="https://link.coupang.com/a/dGJaJzBKNM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,30 +61,31 @@ description: 롯데제로 초콜릿 칩 쿠키는 설탕과 당류가 0g인 초�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,600</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,400</text>
 
-    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 34 L 391 34 L 409 49 L 427 49 L 445 49 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 121 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 34 L 391 34 L 409 49 L 427 49 L 445 49 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 121 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 34 L 373 34 L 391 49 L 409 49 L 427 49 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 121 L 570 121 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 34 L 373 34 L 391 49 L 409 49 L 427 49 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 121 L 570 121 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="337" cy="64" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="34" r="4" fill="#fdba74"></circle>
     <circle cx="373" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="34" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="49" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="391" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="49" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="552" cy="121" r="4" fill="#fdba74"></circle>
     <circle cx="570" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="121" r="5" fill="#ea580c"></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="109" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,550원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -327,7 +328,7 @@ A. 식단 관리 중 단 것이 당길 때, 커피나 차와 함께 즐기는 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,550원 · 별점 4.7 · 리뷰 15,552개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,800원 · 별점 4.7 · 리뷰 15,574개</span>
     <a href="https://link.coupang.com/a/dGJaJzBKNM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
