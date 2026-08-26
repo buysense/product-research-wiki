@@ -18,10 +18,10 @@ description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "49490",
+    "price": "49480",
     "url": "https://link.coupang.com/a/e5tHXjzRO8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-02"
+    "priceValidUntil": "2026-09-03"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -43,7 +43,7 @@ description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 49,490원 · 별점 4.7 · 리뷰 7개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 49,480원 · 별점 4.7 · 리뷰 7개</span>
     <a href="https://link.coupang.com/a/e5tHXjzRO8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,29 +61,29 @@ description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 36 L 86 39 L 104 71 L 122 108 L 140 112 L 158 84 L 176 84 L 194 84 L 211 84 L 229 84 L 247 84 L 265 84 L 283 84 L 301 84 L 319 84 L 337 84 L 355 84 L 373 84 L 391 84 L 409 84 L 427 84 L 445 84 L 462 30 L 480 30 L 498 30 L 516 30 L 534 30 L 552 30 L 570 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 36 L 86 39 L 104 71 L 122 108 L 140 112 L 158 84 L 176 84 L 194 84 L 211 84 L 229 84 L 247 84 L 265 84 L 283 84 L 301 84 L 319 84 L 337 84 L 355 84 L 373 84 L 391 84 L 409 84 L 427 84 L 445 84 L 462 30 L 480 30 L 498 30 L 516 30 L 534 30 L 552 30 L 570 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="36" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="39" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="71" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="112" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="462" cy="30" r="4" fill="#fdba74"></circle>
+    <path d="M 68 39 L 86 71 L 104 108 L 122 112 L 140 84 L 158 84 L 176 84 L 194 84 L 211 84 L 229 84 L 247 84 L 265 84 L 283 84 L 301 84 L 319 84 L 337 84 L 355 84 L 373 84 L 391 84 L 409 84 L 427 84 L 445 30 L 462 30 L 480 30 L 498 30 L 516 30 L 534 30 L 552 30 L 570 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 39 L 86 71 L 104 108 L 122 112 L 140 84 L 158 84 L 176 84 L 194 84 L 211 84 L 229 84 L 247 84 L 265 84 L 283 84 L 301 84 L 319 84 L 337 84 L 355 84 L 373 84 L 391 84 L 409 84 L 427 84 L 445 30 L 462 30 L 480 30 L 498 30 L 516 30 L 534 30 L 552 30 L 570 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="39" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="71" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="108" r="4" fill="#fdba74"></circle>
+    <circle cx="122" cy="112" r="4" fill="#fdba74"></circle>
+    <circle cx="140" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="84" r="4" fill="#fdba74"></circle>
+    <circle cx="445" cy="30" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="30" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="30" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,490원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,480원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -217,7 +217,7 @@ A. 나일론 소재의 손상을 방지하기 위해 중성세제를 사용하�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 49,490원 · 별점 4.7 · 리뷰 7개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 49,480원 · 별점 4.7 · 리뷰 7개</span>
     <a href="https://link.coupang.com/a/e5tHXjzRO8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
