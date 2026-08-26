@@ -21,7 +21,7 @@ description: 치토스 크런치 오리지널 치즈맛은 독특한 치즈 시�
     "price": "12400",
     "url": "https://link.coupang.com/a/gw4p5vMXE4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-02"
+    "priceValidUntil": "2026-09-03"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
