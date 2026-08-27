@@ -14,15 +14,15 @@ description: 이탈리아산 듀럼밀 세몰리나 100%로 만든 그라노로 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "5700",
+    "price": "5670",
     "url": "https://link.coupang.com/a/eoMugR",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-03"
+    "priceValidUntil": "2026-09-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 3141,
+    "reviewCount": 3149,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -37,7 +37,7 @@ description: 이탈리아산 듀럼밀 세몰리나 100%로 만든 그라노로 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,700원 · 별점 4.7 · 리뷰 3,141개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,670원 · 별점 4.7 · 리뷰 3,149개</span>
     <a href="https://link.coupang.com/a/eoMugR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -55,26 +55,27 @@ description: 이탈리아산 듀럼밀 세몰리나 100%로 만든 그라노로 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,500</text>
 
-    <path d="M 68 72 L 86 72 L 104 72 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 148 L 552 148 L 570 148 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 86 72 L 104 72 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 169 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 148 L 552 148 L 570 148 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 72 L 86 72 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 148 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 148 L 552 148 L 570 148 L 588 152 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 86 72 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 169 L 283 169 L 301 169 L 319 169 L 337 169 L 355 169 L 373 169 L 391 169 L 409 169 L 427 148 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 148 L 552 148 L 570 148 L 588 152" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="72" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="148" r="5" fill="#ea580c"></circle>
+    <circle cx="86" cy="72" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="570" cy="148" r="4" fill="#fdba74"></circle>
+    <circle cx="588" cy="152" r="5" fill="#ea580c"></circle>
 
-    <text x="588" y="136" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,700원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="588" y="140" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,670원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -390,7 +391,7 @@ A. 샐러드의 베이스, 스튜나 카레의 사이드, 채소볶음이나 고
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,700원 · 별점 4.7 · 리뷰 3,141개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,670원 · 별점 4.7 · 리뷰 3,149개</span>
     <a href="https://link.coupang.com/a/eoMugR" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
