@@ -21,12 +21,12 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
     "price": "11300",
     "url": "https://link.coupang.com/a/ersmX2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-03"
+    "priceValidUntil": "2026-09-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 848,
+    "reviewCount": 850,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,300원 · 별점 4.7 · 리뷰 848개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,300원 · 별점 4.7 · 리뷰 850개</span>
     <a href="https://link.coupang.com/a/ersmX2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,31 +61,31 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">11,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,500</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 134 L 283 134 L 301 134 L 319 134 L 337 134 L 355 134 L 373 134 L 391 169 L 409 169 L 427 41 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 169 L 265 134 L 283 134 L 301 134 L 319 134 L 337 134 L 355 134 L 373 134 L 391 169 L 409 169 L 427 41 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 86 26 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 134 L 265 134 L 283 134 L 301 134 L 319 134 L 337 134 L 355 134 L 373 169 L 391 169 L 409 41 L 427 56 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 169 L 122 169 L 140 169 L 158 169 L 176 169 L 194 169 L 211 169 L 229 169 L 247 134 L 265 134 L 283 134 L 301 134 L 319 134 L 337 134 L 355 134 L 373 169 L 391 169 L 409 41 L 427 56 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="86" cy="26" r="4" fill="#fdba74"></circle>
+    <circle cx="104" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="229" cy="169" r="4" fill="#fdba74"></circle>
+    <circle cx="247" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="355" cy="134" r="4" fill="#fdba74"></circle>
+    <circle cx="373" cy="169" r="4" fill="#fdba74"></circle>
     <circle cx="391" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="169" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="56" r="4" fill="#fdba74"></circle>
+    <circle cx="409" cy="41" r="4" fill="#fdba74"></circle>
+    <circle cx="427" cy="56" r="4" fill="#fdba74"></circle>
     <circle cx="588" cy="56" r="5" fill="#ea580c"></circle>
 
     <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,300원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -358,7 +358,7 @@ A. 네, 나마 키리모찌는 자체적으로 강한 맛이나 향이 없어 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,300원 · 별점 4.7 · 리뷰 848개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,300원 · 별점 4.7 · 리뷰 850개</span>
     <a href="https://link.coupang.com/a/ersmX2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
