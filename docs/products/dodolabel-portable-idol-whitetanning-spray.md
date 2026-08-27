@@ -20,7 +20,7 @@ description: 도도레이블 휴대용 아이돌 화이트태닝 스프레이는
     "price": "17000",
     "url": "https://link.coupang.com/a/gyJgoYowBV",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-03"
+    "priceValidUntil": "2026-09-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
