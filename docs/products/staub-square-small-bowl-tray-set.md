@@ -9,7 +9,7 @@ description: 스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트는 모던
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트\n스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트",
+  "name": "스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트",
   "description": "스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트는 모던한 디자인으로 일상 식탁이나 손님 접대 시 활용하기 좋은 다용도 식기 세트입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1488/d8dac683fc7a3239435d11e794e44629bbd18daacb668f3f8deaccfa4831.jpg"
@@ -58,8 +58,7 @@ description: 스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트는 모던
 
 <!-- bs:image -->
 <div style="display:flex; justify-content:center; margin:20px 0 24px;">
-  <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1488/d8dac683fc7a3239435d11e794e44629bbd18daacb668f3f8deaccfa4831.jpg" alt="스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트
-스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1488/d8dac683fc7a3239435d11e794e44629bbd18daacb668f3f8deaccfa4831.jpg" alt="스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트" style="max-width:320px; width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
 <!-- /bs:image -->
 

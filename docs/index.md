@@ -18,8 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
-| 스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트
-스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트 | [보기](products/staub-square-small-bowl-tray-set.md) |
+| 스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트 | [보기](products/staub-square-small-bowl-tray-set.md) |
 | 도도레이블 휴대용 아이돌 화이트태닝 스프레이 | [보기](products/dodolabel-portable-idol-whitetanning-spray.md) |
 | 치토스 크런치 오리지널 치즈맛 | [보기](products/cheetos-crunch-original-cheese-flavor.md) |
 | 아직 제정신입니다 : 마메의 정신없는 날들 | [보기](products/mame-sane-hectic-days-book.md) |
