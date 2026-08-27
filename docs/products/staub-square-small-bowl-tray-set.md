@@ -9,7 +9,7 @@ description: 스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트는 모던
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트",
+  "name": "스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트\n스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트",
   "description": "스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트는 모던한 디자인으로 일상 식탁이나 손님 접대 시 활용하기 좋은 다용도 식기 세트입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1488/d8dac683fc7a3239435d11e794e44629bbd18daacb668f3f8deaccfa4831.jpg"
@@ -20,7 +20,7 @@ description: 스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트는 모던
     "price": "123100",
     "url": "https://link.coupang.com/a/gyJYfytQu4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-03"
+    "priceValidUntil": "2026-09-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
