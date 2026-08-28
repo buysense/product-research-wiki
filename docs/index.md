@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 3448 마시모두띠 화이트블랙 스트라이프 면 오각포켓대비셔츠 | [보기](products/massimodutti-3448-striped-cotton-pocket-shirt.md) |
 | 스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트 | [보기](products/staub-square-small-bowl-tray-set.md) |
 | 도도레이블 휴대용 아이돌 화이트태닝 스프레이 | [보기](products/dodolabel-portable-idol-whitetanning-spray.md) |
 | 치토스 크런치 오리지널 치즈맛 | [보기](products/cheetos-crunch-original-cheese-flavor.md) |
