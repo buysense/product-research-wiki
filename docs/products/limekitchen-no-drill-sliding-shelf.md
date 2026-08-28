@@ -18,15 +18,15 @@ description: 라임키친 무타공 슬라이딩 선반은 주방 싱크대 하�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "21800",
+    "price": "19800",
     "url": "https://link.coupang.com/a/er1PhU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-04"
+    "priceValidUntil": "2026-09-05"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2131,
+    "reviewCount": 2140,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 라임키친 무타공 슬라이딩 선반은 주방 싱크대 하�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,800원 · 별점 4.8 · 리뷰 2,131개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,800원 · 별점 4.8 · 리뷰 2,140개</span>
     <a href="https://link.coupang.com/a/er1PhU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,27 +61,28 @@ description: 라임키친 무타공 슬라이딩 선반은 주방 싱크대 하�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">19,000</text>
 
-    <path d="M 68 117 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 26 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 117 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 26 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="355" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <path d="M 68 117 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 26 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 26 L 552 26 L 570 26 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 117 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 26 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 26 L 552 26 L 570 26 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="117" r="4" fill="#fdba74"><title>07-13 19,800원</title></circle>
+    <circle cx="301" cy="117" r="4" fill="#fdba74"><title>07-26 19,800원</title></circle>
+    <circle cx="319" cy="26" r="4" fill="#fdba74"><title>07-30 21,800원</title></circle>
+    <circle cx="337" cy="117" r="4" fill="#fdba74"><title>07-31 19,800원</title></circle>
+    <circle cx="516" cy="117" r="4" fill="#fdba74"><title>08-25 19,800원</title></circle>
+    <circle cx="534" cy="26" r="4" fill="#fdba74"><title>08-26 21,800원</title></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"><title>08-28 21,800원</title></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>08-29 19,800원</title></circle>
 
-    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -350,7 +351,7 @@ A. 네, 이 제품은 수납장 깊숙이 있는 물건을 꺼내기 위해 허�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,800원 · 별점 4.8 · 리뷰 2,131개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,800원 · 별점 4.8 · 리뷰 2,140개</span>
     <a href="https://link.coupang.com/a/er1PhU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
