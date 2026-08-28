@@ -21,7 +21,7 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
     "price": "10260",
     "url": "https://link.coupang.com/a/dLFCtfGf3Q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-04"
+    "priceValidUntil": "2026-09-05"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,31 +61,31 @@ description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,800</text>
 
-    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 83 L 158 83 L 176 83 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 121 L 319 26 L 337 41 L 355 41 L 373 41 L 391 45 L 409 41 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 83 L 158 83 L 176 83 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 121 L 319 26 L 337 41 L 355 41 L 373 41 L 391 45 L 409 41 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="176" cy="83" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="337" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="373" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="45" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 83 L 158 83 L 176 121 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 26 L 319 41 L 337 41 L 355 41 L 373 45 L 391 41 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 83 L 158 83 L 176 121 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 26 L 319 41 L 337 41 L 355 41 L 373 45 L 391 41 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="83" r="4" fill="#fdba74"><title>07-17 10,050원</title></circle>
+    <circle cx="158" cy="83" r="4" fill="#fdba74"><title>07-22 10,050원</title></circle>
+    <circle cx="176" cy="121" r="4" fill="#fdba74"><title>07-23 9,950원</title></circle>
+    <circle cx="283" cy="121" r="4" fill="#fdba74"><title>07-31 9,950원</title></circle>
+    <circle cx="301" cy="26" r="4" fill="#fdba74"><title>08-01 10,240원</title></circle>
+    <circle cx="319" cy="41" r="4" fill="#fdba74"><title>08-02 10,160원</title></circle>
+    <circle cx="355" cy="41" r="4" fill="#fdba74"><title>08-04 10,160원</title></circle>
+    <circle cx="373" cy="45" r="4" fill="#fdba74"><title>08-05 10,150원</title></circle>
+    <circle cx="391" cy="41" r="4" fill="#fdba74"><title>08-06 10,160원</title></circle>
+    <circle cx="409" cy="26" r="4" fill="#fdba74"><title>08-19 10,260원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>08-29 10,260원</title></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,260원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-06</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
