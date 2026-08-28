@@ -21,12 +21,12 @@ description: 스타벅스 드립백은 집, 캠핑, 여행 등 다양한 상황�
     "price": "37110",
     "url": "https://link.coupang.com/a/eySGWC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-04"
+    "priceValidUntil": "2026-09-05"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 169,
+    "reviewCount": 170,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 스타벅스 드립백은 집, 캠핑, 여행 등 다양한 상황�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 37,110원 · 별점 4.7 · 리뷰 169개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 37,110원 · 별점 4.7 · 리뷰 170개</span>
     <a href="https://link.coupang.com/a/eySGWC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,31 +61,32 @@ description: 스타벅스 드립백은 집, 캠핑, 여행 등 다양한 상황�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 175 L 86 175 L 104 175 L 122 175 L 140 175 L 158 170 L 176 170 L 194 170 L 211 170 L 229 170 L 247 170 L 265 170 L 283 170 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 170 L 409 148 L 427 155 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 47 L 552 47 L 570 47 L 588 48 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 175 L 86 175 L 104 175 L 122 175 L 140 175 L 158 170 L 176 170 L 194 170 L 211 170 L 229 170 L 247 170 L 265 170 L 283 170 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 170 L 409 148 L 427 155 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 47 L 552 47 L 570 47 L 588 48" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="175" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="175" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="391" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="409" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="427" cy="155" r="4" fill="#fdba74"></circle>
-    <circle cx="445" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="516" cy="148" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="47" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="48" r="5" fill="#ea580c"></circle>
+    <path d="M 68 175 L 86 175 L 104 175 L 122 175 L 140 170 L 158 170 L 176 170 L 194 170 L 211 170 L 229 170 L 247 170 L 265 170 L 283 170 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 148 L 409 155 L 427 148 L 445 148 L 462 148 L 480 148 L 498 148 L 516 47 L 534 47 L 552 47 L 570 48 L 588 48 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 175 L 86 175 L 104 175 L 122 175 L 140 170 L 158 170 L 176 170 L 194 170 L 211 170 L 229 170 L 247 170 L 265 170 L 283 170 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 148 L 409 155 L 427 148 L 445 148 L 462 148 L 480 148 L 498 148 L 516 47 L 534 47 L 552 47 L 570 48 L 588 48" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="175" r="4" fill="#fdba74"><title>07-13 20,450원</title></circle>
+    <circle cx="122" cy="175" r="4" fill="#fdba74"><title>07-16 20,450원</title></circle>
+    <circle cx="140" cy="170" r="4" fill="#fdba74"><title>07-17 21,110원</title></circle>
+    <circle cx="373" cy="170" r="4" fill="#fdba74"><title>08-03 21,110원</title></circle>
+    <circle cx="391" cy="148" r="4" fill="#fdba74"><title>08-05 23,990원</title></circle>
+    <circle cx="409" cy="155" r="4" fill="#fdba74"><title>08-19 22,990원</title></circle>
+    <circle cx="427" cy="148" r="4" fill="#fdba74"><title>08-20 23,990원</title></circle>
+    <circle cx="498" cy="148" r="4" fill="#fdba74"><title>08-24 23,990원</title></circle>
+    <circle cx="516" cy="47" r="4" fill="#fdba74"><title>08-25 37,270원</title></circle>
+    <circle cx="552" cy="47" r="4" fill="#fdba74"><title>08-27 37,270원</title></circle>
+    <circle cx="570" cy="48" r="4" fill="#fdba74"><title>08-28 37,110원</title></circle>
+    <circle cx="588" cy="48" r="5" fill="#ea580c"><title>08-29 37,110원</title></circle>
 
     <text x="588" y="36" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">37,110원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -364,7 +365,7 @@ A. 네, 스타벅스 드립백은 깔끔하고 고급스러운 패키지를 갖�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 37,110원 · 별점 4.7 · 리뷰 169개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 37,110원 · 별점 4.7 · 리뷰 170개</span>
     <a href="https://link.coupang.com/a/eySGWC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
