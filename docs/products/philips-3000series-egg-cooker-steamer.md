@@ -21,12 +21,12 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
     "price": "29900",
     "url": "https://link.coupang.com/a/fAS24kIAoK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-04"
+    "priceValidUntil": "2026-09-05"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 4616,
+    "reviewCount": 4632,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 29,900원 · 별점 4.6 · 리뷰 4,616개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 29,900원 · 별점 4.6 · 리뷰 4,632개</span>
     <a href="https://link.coupang.com/a/fAS24kIAoK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,38 +61,39 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 62 L 95 63 L 123 64 L 150 105 L 177 105 L 205 66 L 232 65 L 260 81 L 287 81 L 314 73 L 342 56 L 369 62 L 396 51 L 424 26 L 451 26 L 479 26 L 506 26 L 533 26 L 561 26 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 62 L 95 63 L 123 64 L 150 105 L 177 105 L 205 66 L 232 65 L 260 81 L 287 81 L 314 73 L 342 56 L 369 62 L 396 51 L 424 26 L 451 26 L 479 26 L 506 26 L 533 26 L 561 26 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="95" cy="63" r="4" fill="#fdba74"></circle>
-    <circle cx="123" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="150" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="177" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="205" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="232" cy="65" r="4" fill="#fdba74"></circle>
-    <circle cx="260" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="287" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="314" cy="73" r="4" fill="#fdba74"></circle>
-    <circle cx="342" cy="56" r="4" fill="#fdba74"></circle>
-    <circle cx="369" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="396" cy="51" r="4" fill="#fdba74"></circle>
-    <circle cx="424" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="479" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="506" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="561" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="28" r="5" fill="#ea580c"></circle>
+    <path d="M 68 62 L 94 63 L 120 64 L 146 105 L 172 105 L 198 66 L 224 65 L 250 81 L 276 81 L 302 73 L 328 56 L 354 62 L 380 51 L 406 26 L 432 26 L 458 26 L 484 26 L 510 26 L 536 26 L 562 28 L 588 28 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 62 L 94 63 L 120 64 L 146 105 L 172 105 L 198 66 L 224 65 L 250 81 L 276 81 L 302 73 L 328 56 L 354 62 L 380 51 L 406 26 L 432 26 L 458 26 L 484 26 L 510 26 L 536 26 L 562 28 L 588 28" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="62" r="4" fill="#fdba74"><title>07-22 27,610원</title></circle>
+    <circle cx="94" cy="63" r="4" fill="#fdba74"><title>07-23 27,550원</title></circle>
+    <circle cx="120" cy="64" r="4" fill="#fdba74"><title>07-24 27,530원</title></circle>
+    <circle cx="146" cy="105" r="4" fill="#fdba74"><title>07-25 24,810원</title></circle>
+    <circle cx="172" cy="105" r="4" fill="#fdba74"><title>07-26 24,810원</title></circle>
+    <circle cx="198" cy="66" r="4" fill="#fdba74"><title>07-30 27,370원</title></circle>
+    <circle cx="224" cy="65" r="4" fill="#fdba74"><title>07-31 27,410원</title></circle>
+    <circle cx="250" cy="81" r="4" fill="#fdba74"><title>08-02 26,410원</title></circle>
+    <circle cx="276" cy="81" r="4" fill="#fdba74"><title>08-03 26,410원</title></circle>
+    <circle cx="302" cy="73" r="4" fill="#fdba74"><title>08-04 26,900원</title></circle>
+    <circle cx="328" cy="56" r="4" fill="#fdba74"><title>08-19 28,000원</title></circle>
+    <circle cx="354" cy="62" r="4" fill="#fdba74"><title>08-20 27,600원</title></circle>
+    <circle cx="380" cy="51" r="4" fill="#fdba74"><title>08-21 28,350원</title></circle>
+    <circle cx="406" cy="26" r="4" fill="#fdba74"><title>08-22 30,630원</title></circle>
+    <circle cx="458" cy="26" r="4" fill="#fdba74"><title>08-24 30,630원</title></circle>
+    <circle cx="484" cy="26" r="4" fill="#fdba74"><title>08-25 31,110원</title></circle>
+    <circle cx="536" cy="26" r="4" fill="#fdba74"><title>08-27 31,110원</title></circle>
+    <circle cx="562" cy="28" r="4" fill="#fdba74"><title>08-28 29,900원</title></circle>
+    <circle cx="588" cy="28" r="5" fill="#ea580c"><title>08-29 29,900원</title></circle>
 
     <text x="588" y="16" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">29,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -188,7 +189,7 @@ A. 네, 본체를 제외한 뚜껑과 계란 트레이는 분리하여 물로 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 29,900원 · 별점 4.6 · 리뷰 4,616개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 29,900원 · 별점 4.6 · 리뷰 4,632개</span>
     <a href="https://link.coupang.com/a/fAS24kIAoK" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
