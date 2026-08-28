@@ -21,7 +21,7 @@ description: 베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후 아�
     "price": "35840",
     "url": "https://link.coupang.com/a/e47Kyp2X7Y",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-04"
+    "priceValidUntil": "2026-09-05"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,25 +61,26 @@ description: 베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후 아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">36,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">34,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 104 L 570 104 L 588 108 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 104 L 570 104 L 588 108" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="534" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="552" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="108" r="5" fill="#ea580c"></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 104 L 552 104 L 570 108 L 588 108 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 104 L 552 104 L 570 108 L 588 108" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-16 39,800원</title></circle>
+    <circle cx="516" cy="26" r="4" fill="#fdba74"><title>08-25 39,800원</title></circle>
+    <circle cx="534" cy="104" r="4" fill="#fdba74"><title>08-26 35,950원</title></circle>
+    <circle cx="552" cy="104" r="4" fill="#fdba74"><title>08-27 35,950원</title></circle>
+    <circle cx="570" cy="108" r="4" fill="#fdba74"><title>08-28 35,840원</title></circle>
+    <circle cx="588" cy="108" r="5" fill="#ea580c"><title>08-29 35,840원</title></circle>
 
     <text x="588" y="96" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">35,840원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
