@@ -20,7 +20,7 @@ description: 분더캄머 백 브러쉬드 투웨이 자켓은 따뜻한 기모 
     "price": "415600",
     "url": "https://link.coupang.com/a/gAnkIN8qwC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-04"
+    "priceValidUntil": "2026-09-05"
   }
 }
 </script>
