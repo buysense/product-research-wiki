@@ -21,7 +21,7 @@ description: 랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면�
     "price": "18800",
     "url": "https://link.coupang.com/a/d0RmMrVOqO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-04"
+    "priceValidUntil": "2026-09-05"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,31 +61,30 @@ description: 랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 42 L 86 57 L 104 60 L 122 66 L 140 69 L 158 125 L 176 125 L 194 125 L 211 80 L 229 80 L 247 80 L 265 80 L 283 80 L 301 80 L 319 120 L 337 120 L 355 120 L 373 120 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 120 L 516 120 L 534 120 L 552 120 L 570 120 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 42 L 86 57 L 104 60 L 122 66 L 140 69 L 158 125 L 176 125 L 194 125 L 211 80 L 229 80 L 247 80 L 265 80 L 283 80 L 301 80 L 319 120 L 337 120 L 355 120 L 373 120 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 120 L 516 120 L 534 120 L 552 120 L 570 120 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="86" cy="57" r="4" fill="#fdba74"></circle>
-    <circle cx="104" cy="60" r="4" fill="#fdba74"></circle>
-    <circle cx="122" cy="66" r="4" fill="#fdba74"></circle>
-    <circle cx="140" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="158" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="194" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="211" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="301" cy="80" r="4" fill="#fdba74"></circle>
-    <circle cx="319" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="120" r="5" fill="#ea580c"></circle>
+    <path d="M 68 57 L 86 60 L 104 66 L 122 69 L 140 125 L 158 125 L 176 125 L 194 80 L 211 80 L 229 80 L 247 80 L 265 80 L 283 80 L 301 120 L 319 120 L 337 120 L 355 120 L 373 120 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 120 L 516 120 L 534 120 L 552 120 L 570 120 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 57 L 86 60 L 104 66 L 122 69 L 140 125 L 158 125 L 176 125 L 194 80 L 211 80 L 229 80 L 247 80 L 265 80 L 283 80 L 301 120 L 319 120 L 337 120 L 355 120 L 373 120 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 120 L 516 120 L 534 120 L 552 120 L 570 120 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="57" r="4" fill="#fdba74"><title>07-15 22,940원</title></circle>
+    <circle cx="86" cy="60" r="4" fill="#fdba74"><title>07-16 22,740원</title></circle>
+    <circle cx="104" cy="66" r="4" fill="#fdba74"><title>07-17 22,350원</title></circle>
+    <circle cx="122" cy="69" r="4" fill="#fdba74"><title>07-18 22,170원</title></circle>
+    <circle cx="140" cy="125" r="4" fill="#fdba74"><title>07-19 18,500원</title></circle>
+    <circle cx="176" cy="125" r="4" fill="#fdba74"><title>07-21 18,500원</title></circle>
+    <circle cx="194" cy="80" r="4" fill="#fdba74"><title>07-22 21,450원</title></circle>
+    <circle cx="283" cy="80" r="4" fill="#fdba74"><title>07-29 21,450원</title></circle>
+    <circle cx="301" cy="120" r="4" fill="#fdba74"><title>07-30 18,800원</title></circle>
+    <circle cx="588" cy="120" r="5" fill="#ea580c"><title>08-29 18,800원</title></circle>
 
     <text x="588" y="108" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
