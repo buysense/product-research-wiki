@@ -21,12 +21,12 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
     "price": "15400",
     "url": "https://link.coupang.com/a/exAdfsMN7k",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-05"
+    "priceValidUntil": "2026-09-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 4343,
+    "reviewCount": 4362,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,400원 · 별점 4.7 · 리뷰 4,343개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,400원 · 별점 4.7 · 리뷰 4,362개</span>
     <a href="https://link.coupang.com/a/exAdfsMN7k" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -57,30 +57,29 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,500</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,500</text>
 
-    <path d="M 68 137 L 86 49 L 104 49 L 122 49 L 140 49 L 158 49 L 176 49 L 194 49 L 211 49 L 229 49 L 247 49 L 265 49 L 283 49 L 301 49 L 319 49 L 337 49 L 355 49 L 373 49 L 391 68 L 409 49 L 427 49 L 445 49 L 462 49 L 480 49 L 498 49 L 516 49 L 534 49 L 552 49 L 570 49 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 137 L 86 49 L 104 49 L 122 49 L 140 49 L 158 49 L 176 49 L 194 49 L 211 49 L 229 49 L 247 49 L 265 49 L 283 49 L 301 49 L 319 49 L 337 49 L 355 49 L 373 49 L 391 68 L 409 49 L 427 49 L 445 49 L 462 49 L 480 49 L 498 49 L 516 49 L 534 49 L 552 49 L 570 49 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="137" r="4" fill="#fdba74"><title>07-13 13,090원</title></circle>
-    <circle cx="86" cy="49" r="4" fill="#fdba74"><title>07-14 15,400원</title></circle>
-    <circle cx="373" cy="49" r="4" fill="#fdba74"><title>08-03 15,400원</title></circle>
-    <circle cx="391" cy="68" r="4" fill="#fdba74"><title>08-04 14,900원</title></circle>
-    <circle cx="409" cy="49" r="4" fill="#fdba74"><title>08-19 15,400원</title></circle>
-    <circle cx="588" cy="49" r="5" fill="#ea580c"><title>08-29 15,400원</title></circle>
+    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 117 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 117 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="41" r="4" fill="#fdba74"><title>07-14 15,400원</title></circle>
+    <circle cx="355" cy="41" r="4" fill="#fdba74"><title>08-03 15,400원</title></circle>
+    <circle cx="373" cy="117" r="4" fill="#fdba74"><title>08-04 14,900원</title></circle>
+    <circle cx="391" cy="41" r="4" fill="#fdba74"><title>08-19 15,400원</title></circle>
+    <circle cx="588" cy="41" r="5" fill="#ea580c"><title>08-30 15,400원</title></circle>
 
-    <text x="588" y="37" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,400원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -262,7 +261,7 @@ A. 일반적인 땅콩버터는 설탕이나 소금 등의 첨가물로 맛을 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,400원 · 별점 4.7 · 리뷰 4,343개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,400원 · 별점 4.7 · 리뷰 4,362개</span>
     <a href="https://link.coupang.com/a/exAdfsMN7k" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
