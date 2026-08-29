@@ -21,7 +21,7 @@ description: 벨지오이오조 홀밀크 리코타는 풍부하고 크리미한
     "price": "24680",
     "url": "https://link.coupang.com/a/gBVKhIcaY0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-05"
+    "priceValidUntil": "2026-09-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
