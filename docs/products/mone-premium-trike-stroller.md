@@ -21,7 +21,7 @@ description: 모네 프리미엄 트라이크 유모차는 활동적인 유아�
     "price": "264820",
     "url": "https://link.coupang.com/a/dTXXZfdEXs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-05"
+    "priceValidUntil": "2026-09-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,28 +61,28 @@ description: 모네 프리미엄 트라이크 유모차는 활동적인 유아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">300,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">250,000</text>
 
-    <path d="M 68 91 L 86 91 L 104 91 L 122 91 L 140 91 L 158 91 L 176 91 L 194 91 L 211 91 L 229 95 L 247 95 L 265 95 L 283 95 L 301 95 L 319 95 L 337 95 L 355 109 L 373 109 L 391 109 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 155 L 534 155 L 552 155 L 570 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 91 L 86 91 L 104 91 L 122 91 L 140 91 L 158 91 L 176 91 L 194 91 L 211 91 L 229 95 L 247 95 L 265 95 L 283 95 L 301 95 L 319 95 L 337 95 L 355 109 L 373 109 L 391 109 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 155 L 534 155 L 552 155 L 570 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="91" r="4" fill="#fdba74"><title>07-13 307,000원</title></circle>
-    <circle cx="211" cy="91" r="4" fill="#fdba74"><title>07-21 307,000원</title></circle>
-    <circle cx="229" cy="95" r="4" fill="#fdba74"><title>07-22 304,920원</title></circle>
-    <circle cx="337" cy="95" r="4" fill="#fdba74"><title>07-31 304,920원</title></circle>
-    <circle cx="355" cy="109" r="4" fill="#fdba74"><title>08-02 295,680원</title></circle>
-    <circle cx="391" cy="109" r="4" fill="#fdba74"><title>08-04 295,680원</title></circle>
-    <circle cx="409" cy="155" r="4" fill="#fdba74"><title>08-19 264,820원</title></circle>
-    <circle cx="588" cy="155" r="5" fill="#ea580c"><title>08-29 264,820원</title></circle>
+    <path d="M 68 91 L 86 91 L 104 91 L 122 91 L 140 91 L 158 91 L 176 91 L 194 91 L 211 95 L 229 95 L 247 95 L 265 95 L 283 95 L 301 95 L 319 95 L 337 109 L 355 109 L 373 109 L 391 155 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 155 L 534 155 L 552 155 L 570 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 91 L 86 91 L 104 91 L 122 91 L 140 91 L 158 91 L 176 91 L 194 91 L 211 95 L 229 95 L 247 95 L 265 95 L 283 95 L 301 95 L 319 95 L 337 109 L 355 109 L 373 109 L 391 155 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 155 L 534 155 L 552 155 L 570 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="91" r="4" fill="#fdba74"><title>07-14 307,000원</title></circle>
+    <circle cx="194" cy="91" r="4" fill="#fdba74"><title>07-21 307,000원</title></circle>
+    <circle cx="211" cy="95" r="4" fill="#fdba74"><title>07-22 304,920원</title></circle>
+    <circle cx="319" cy="95" r="4" fill="#fdba74"><title>07-31 304,920원</title></circle>
+    <circle cx="337" cy="109" r="4" fill="#fdba74"><title>08-02 295,680원</title></circle>
+    <circle cx="373" cy="109" r="4" fill="#fdba74"><title>08-04 295,680원</title></circle>
+    <circle cx="391" cy="155" r="4" fill="#fdba74"><title>08-19 264,820원</title></circle>
+    <circle cx="588" cy="155" r="5" fill="#ea580c"><title>08-30 264,820원</title></circle>
 
     <text x="588" y="143" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">264,820원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
