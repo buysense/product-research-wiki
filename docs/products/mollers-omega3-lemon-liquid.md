@@ -21,7 +21,7 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     "price": "34200",
     "url": "https://link.coupang.com/a/eDBeaL",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-05"
+    "priceValidUntil": "2026-09-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -57,29 +57,28 @@ description: 뭴러스 오메가3 레몬맛은 알약 섭취에 어려움을 겪
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">34,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">33,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">32,000</text>
 
-    <path d="M 68 177 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 114 L 391 114 L 409 114 L 427 114 L 445 114 L 462 114 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 114 L 588 114 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 177 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 114 L 391 114 L 409 114 L 427 114 L 445 114 L 462 114 L 480 114 L 498 114 L 516 114 L 534 114 L 552 114 L 570 114 L 588 114" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="177" r="4" fill="#fdba74"><title>07-13 30,090원</title></circle>
-    <circle cx="86" cy="140" r="4" fill="#fdba74"><title>07-14 32,490원</title></circle>
-    <circle cx="355" cy="140" r="4" fill="#fdba74"><title>08-02 32,490원</title></circle>
-    <circle cx="373" cy="114" r="4" fill="#fdba74"><title>08-03 34,200원</title></circle>
-    <circle cx="588" cy="114" r="5" fill="#ea580c"><title>08-29 34,200원</title></circle>
+    <path d="M 68 141 L 86 141 L 104 141 L 122 141 L 140 141 L 158 141 L 176 141 L 194 141 L 211 141 L 229 141 L 247 141 L 265 141 L 283 141 L 301 141 L 319 141 L 337 141 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 141 L 86 141 L 104 141 L 122 141 L 140 141 L 158 141 L 176 141 L 194 141 L 211 141 L 229 141 L 247 141 L 265 141 L 283 141 L 301 141 L 319 141 L 337 141 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="141" r="4" fill="#fdba74"><title>07-14 32,490원</title></circle>
+    <circle cx="337" cy="141" r="4" fill="#fdba74"><title>08-02 32,490원</title></circle>
+    <circle cx="355" cy="26" r="4" fill="#fdba74"><title>08-03 34,200원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>08-30 34,200원</title></circle>
 
-    <text x="588" y="102" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,200원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
