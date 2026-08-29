@@ -21,12 +21,12 @@ description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착�
     "price": "4560",
     "url": "https://link.coupang.com/a/euStPc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-05"
+    "priceValidUntil": "2026-09-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 709,
+    "reviewCount": 710,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,560원 · 별점 4.8 · 리뷰 709개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 4,560원 · 별점 4.8 · 리뷰 710개</span>
     <a href="https://link.coupang.com/a/euStPc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,36 +61,36 @@ description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,500</text>
 
-    <path d="M 68 50 L 86 50 L 104 50 L 122 108 L 140 108 L 158 108 L 176 113 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 114 L 301 113 L 319 114 L 337 114 L 355 114 L 373 117 L 391 117 L 409 161 L 427 161 L 445 161 L 462 161 L 480 161 L 498 161 L 516 161 L 534 161 L 552 161 L 570 169 L 588 169 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 50 L 86 50 L 104 50 L 122 108 L 140 108 L 158 108 L 176 113 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 114 L 301 113 L 319 114 L 337 114 L 355 114 L 373 117 L 391 117 L 409 161 L 427 161 L 445 161 L 462 161 L 480 161 L 498 161 L 516 161 L 534 161 L 552 161 L 570 169 L 588 169" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="50" r="4" fill="#fdba74"><title>07-16 5,340원</title></circle>
-    <circle cx="104" cy="50" r="4" fill="#fdba74"><title>07-18 5,340원</title></circle>
-    <circle cx="122" cy="108" r="4" fill="#fdba74"><title>07-19 4,960원</title></circle>
-    <circle cx="158" cy="108" r="4" fill="#fdba74"><title>07-21 4,960원</title></circle>
-    <circle cx="176" cy="113" r="4" fill="#fdba74"><title>07-22 4,930원</title></circle>
-    <circle cx="194" cy="114" r="4" fill="#fdba74"><title>07-23 4,920원</title></circle>
-    <circle cx="283" cy="114" r="4" fill="#fdba74"><title>07-30 4,920원</title></circle>
-    <circle cx="301" cy="113" r="4" fill="#fdba74"><title>07-31 4,930원</title></circle>
-    <circle cx="319" cy="114" r="4" fill="#fdba74"><title>08-01 4,920원</title></circle>
-    <circle cx="355" cy="114" r="4" fill="#fdba74"><title>08-03 4,920원</title></circle>
-    <circle cx="373" cy="117" r="4" fill="#fdba74"><title>08-04 4,900원</title></circle>
-    <circle cx="391" cy="117" r="4" fill="#fdba74"><title>08-05 4,900원</title></circle>
-    <circle cx="409" cy="161" r="4" fill="#fdba74"><title>08-19 4,610원</title></circle>
-    <circle cx="552" cy="161" r="4" fill="#fdba74"><title>08-27 4,610원</title></circle>
-    <circle cx="570" cy="169" r="4" fill="#fdba74"><title>08-28 4,560원</title></circle>
-    <circle cx="588" cy="169" r="5" fill="#ea580c"><title>08-29 4,560원</title></circle>
+    <path d="M 68 50 L 86 50 L 104 108 L 122 108 L 140 108 L 158 113 L 176 114 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 113 L 301 114 L 319 114 L 337 114 L 355 117 L 373 117 L 391 161 L 409 161 L 427 161 L 445 161 L 462 161 L 480 161 L 498 161 L 516 161 L 534 161 L 552 169 L 570 169 L 588 169 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 50 L 86 50 L 104 108 L 122 108 L 140 108 L 158 113 L 176 114 L 194 114 L 211 114 L 229 114 L 247 114 L 265 114 L 283 113 L 301 114 L 319 114 L 337 114 L 355 117 L 373 117 L 391 161 L 409 161 L 427 161 L 445 161 L 462 161 L 480 161 L 498 161 L 516 161 L 534 161 L 552 169 L 570 169 L 588 169" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="50" r="4" fill="#fdba74"><title>07-17 5,340원</title></circle>
+    <circle cx="86" cy="50" r="4" fill="#fdba74"><title>07-18 5,340원</title></circle>
+    <circle cx="104" cy="108" r="4" fill="#fdba74"><title>07-19 4,960원</title></circle>
+    <circle cx="140" cy="108" r="4" fill="#fdba74"><title>07-21 4,960원</title></circle>
+    <circle cx="158" cy="113" r="4" fill="#fdba74"><title>07-22 4,930원</title></circle>
+    <circle cx="176" cy="114" r="4" fill="#fdba74"><title>07-23 4,920원</title></circle>
+    <circle cx="265" cy="114" r="4" fill="#fdba74"><title>07-30 4,920원</title></circle>
+    <circle cx="283" cy="113" r="4" fill="#fdba74"><title>07-31 4,930원</title></circle>
+    <circle cx="301" cy="114" r="4" fill="#fdba74"><title>08-01 4,920원</title></circle>
+    <circle cx="337" cy="114" r="4" fill="#fdba74"><title>08-03 4,920원</title></circle>
+    <circle cx="355" cy="117" r="4" fill="#fdba74"><title>08-04 4,900원</title></circle>
+    <circle cx="373" cy="117" r="4" fill="#fdba74"><title>08-05 4,900원</title></circle>
+    <circle cx="391" cy="161" r="4" fill="#fdba74"><title>08-19 4,610원</title></circle>
+    <circle cx="534" cy="161" r="4" fill="#fdba74"><title>08-27 4,610원</title></circle>
+    <circle cx="552" cy="169" r="4" fill="#fdba74"><title>08-28 4,560원</title></circle>
+    <circle cx="588" cy="169" r="5" fill="#ea580c"><title>08-30 4,560원</title></circle>
 
     <text x="588" y="157" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,560원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -365,7 +365,7 @@ A. '화이트닝'이라는 이름은 치아 표면을 깔끔하게 닦아내어 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,560원 · 별점 4.8 · 리뷰 709개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 4,560원 · 별점 4.8 · 리뷰 710개</span>
     <a href="https://link.coupang.com/a/euStPc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
