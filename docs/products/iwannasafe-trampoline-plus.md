@@ -17,7 +17,7 @@ description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 �
     "price": "140500",
     "url": "https://link.coupang.com/a/epoiPo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-05"
+    "priceValidUntil": "2026-09-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -55,41 +55,40 @@ description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">120,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 38 L 86 40 L 104 41 L 122 41 L 140 41 L 158 41 L 176 42 L 194 42 L 211 38 L 229 38 L 247 26 L 265 38 L 283 38 L 301 38 L 319 38 L 337 38 L 355 38 L 373 38 L 391 38 L 409 120 L 427 120 L 445 120 L 462 99 L 480 99 L 498 99 L 516 38 L 534 38 L 552 38 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 38 L 86 40 L 104 41 L 122 41 L 140 41 L 158 41 L 176 42 L 194 42 L 211 38 L 229 38 L 247 26 L 265 38 L 283 38 L 301 38 L 319 38 L 337 38 L 355 38 L 373 38 L 391 38 L 409 120 L 427 120 L 445 120 L 462 99 L 480 99 L 498 99 L 516 38 L 534 38 L 552 38 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="38" r="4" fill="#fdba74"><title>07-15 136,830원</title></circle>
-    <circle cx="86" cy="40" r="4" fill="#fdba74"><title>07-16 136,190원</title></circle>
-    <circle cx="104" cy="41" r="4" fill="#fdba74"><title>07-17 136,120원</title></circle>
-    <circle cx="122" cy="41" r="4" fill="#fdba74"><title>07-18 136,100원</title></circle>
-    <circle cx="140" cy="41" r="4" fill="#fdba74"><title>07-19 136,030원</title></circle>
-    <circle cx="158" cy="41" r="4" fill="#fdba74"><title>07-20 135,970원</title></circle>
-    <circle cx="176" cy="42" r="4" fill="#fdba74"><title>07-21 135,900원</title></circle>
-    <circle cx="194" cy="42" r="4" fill="#fdba74"><title>07-22 135,820원</title></circle>
-    <circle cx="211" cy="38" r="4" fill="#fdba74"><title>07-23 136,900원</title></circle>
-    <circle cx="229" cy="38" r="4" fill="#fdba74"><title>07-24 136,900원</title></circle>
-    <circle cx="247" cy="26" r="4" fill="#fdba74"><title>07-25 140,400원</title></circle>
-    <circle cx="265" cy="38" r="4" fill="#fdba74"><title>07-26 136,900원</title></circle>
-    <circle cx="391" cy="38" r="4" fill="#fdba74"><title>08-04 136,900원</title></circle>
-    <circle cx="409" cy="120" r="4" fill="#fdba74"><title>08-19 115,190원</title></circle>
-    <circle cx="445" cy="120" r="4" fill="#fdba74"><title>08-21 115,190원</title></circle>
-    <circle cx="462" cy="99" r="4" fill="#fdba74"><title>08-22 120,880원</title></circle>
-    <circle cx="498" cy="99" r="4" fill="#fdba74"><title>08-24 120,880원</title></circle>
-    <circle cx="516" cy="38" r="4" fill="#fdba74"><title>08-25 136,900원</title></circle>
-    <circle cx="552" cy="38" r="4" fill="#fdba74"><title>08-27 136,900원</title></circle>
-    <circle cx="570" cy="26" r="4" fill="#fdba74"><title>08-28 140,500원</title></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>08-29 140,500원</title></circle>
+    <path d="M 68 40 L 86 41 L 104 41 L 122 41 L 140 41 L 158 42 L 176 42 L 194 38 L 211 38 L 229 26 L 247 38 L 265 38 L 283 38 L 301 38 L 319 38 L 337 38 L 355 38 L 373 38 L 391 120 L 409 120 L 427 120 L 445 99 L 462 99 L 480 99 L 498 38 L 516 38 L 534 38 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 40 L 86 41 L 104 41 L 122 41 L 140 41 L 158 42 L 176 42 L 194 38 L 211 38 L 229 26 L 247 38 L 265 38 L 283 38 L 301 38 L 319 38 L 337 38 L 355 38 L 373 38 L 391 120 L 409 120 L 427 120 L 445 99 L 462 99 L 480 99 L 498 38 L 516 38 L 534 38 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="40" r="4" fill="#fdba74"><title>07-16 136,190원</title></circle>
+    <circle cx="86" cy="41" r="4" fill="#fdba74"><title>07-17 136,120원</title></circle>
+    <circle cx="104" cy="41" r="4" fill="#fdba74"><title>07-18 136,100원</title></circle>
+    <circle cx="122" cy="41" r="4" fill="#fdba74"><title>07-19 136,030원</title></circle>
+    <circle cx="140" cy="41" r="4" fill="#fdba74"><title>07-20 135,970원</title></circle>
+    <circle cx="158" cy="42" r="4" fill="#fdba74"><title>07-21 135,900원</title></circle>
+    <circle cx="176" cy="42" r="4" fill="#fdba74"><title>07-22 135,820원</title></circle>
+    <circle cx="194" cy="38" r="4" fill="#fdba74"><title>07-23 136,900원</title></circle>
+    <circle cx="211" cy="38" r="4" fill="#fdba74"><title>07-24 136,900원</title></circle>
+    <circle cx="229" cy="26" r="4" fill="#fdba74"><title>07-25 140,400원</title></circle>
+    <circle cx="247" cy="38" r="4" fill="#fdba74"><title>07-26 136,900원</title></circle>
+    <circle cx="373" cy="38" r="4" fill="#fdba74"><title>08-04 136,900원</title></circle>
+    <circle cx="391" cy="120" r="4" fill="#fdba74"><title>08-19 115,190원</title></circle>
+    <circle cx="427" cy="120" r="4" fill="#fdba74"><title>08-21 115,190원</title></circle>
+    <circle cx="445" cy="99" r="4" fill="#fdba74"><title>08-22 120,880원</title></circle>
+    <circle cx="480" cy="99" r="4" fill="#fdba74"><title>08-24 120,880원</title></circle>
+    <circle cx="498" cy="38" r="4" fill="#fdba74"><title>08-25 136,900원</title></circle>
+    <circle cx="534" cy="38" r="4" fill="#fdba74"><title>08-27 136,900원</title></circle>
+    <circle cx="552" cy="26" r="4" fill="#fdba74"><title>08-28 140,500원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>08-30 140,500원</title></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">140,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
