@@ -18,10 +18,10 @@ description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "57800",
+    "price": "49480",
     "url": "https://link.coupang.com/a/fqcJ1ZGc0q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-05"
+    "priceValidUntil": "2026-09-06"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -43,7 +43,7 @@ description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 57,800원 · 별점 4.3 · 리뷰 12개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 49,480원 · 별점 4.3 · 리뷰 12개</span>
     <a href="https://link.coupang.com/a/fqcJ1ZGc0q" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,38 +61,39 @@ description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 26 L 88 26 L 108 26 L 128 26 L 148 26 L 168 26 L 188 26 L 208 28 L 228 26 L 248 100 L 268 26 L 288 83 L 308 83 L 328 83 L 348 56 L 368 57 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 49 L 508 98 L 528 106 L 548 43 L 568 106 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 88 26 L 108 26 L 128 26 L 148 26 L 168 26 L 188 26 L 208 28 L 228 26 L 248 100 L 268 26 L 288 83 L 308 83 L 328 83 L 348 56 L 368 57 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 49 L 508 98 L 528 106 L 548 43 L 568 106 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 87 26 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 28 L 222 26 L 241 100 L 261 26 L 280 83 L 299 83 L 318 83 L 338 56 L 357 57 L 376 26 L 395 26 L 415 26 L 434 26 L 453 26 L 472 49 L 492 98 L 511 106 L 530 43 L 549 106 L 569 43 L 588 106 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 87 26 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 28 L 222 26 L 241 100 L 261 26 L 280 83 L 299 83 L 318 83 L 338 56 L 357 57 L 376 26 L 395 26 L 415 26 L 434 26 L 453 26 L 472 49 L 492 98 L 511 106 L 530 43 L 549 106 L 569 43 L 588 106" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-16 61,100원</title></circle>
-    <circle cx="188" cy="26" r="4" fill="#fdba74"><title>07-22 61,100원</title></circle>
-    <circle cx="208" cy="28" r="4" fill="#fdba74"><title>07-23 59,790원</title></circle>
-    <circle cx="228" cy="26" r="4" fill="#fdba74"><title>07-24 61,100원</title></circle>
-    <circle cx="248" cy="100" r="4" fill="#fdba74"><title>07-25 50,250원</title></circle>
-    <circle cx="268" cy="26" r="4" fill="#fdba74"><title>07-26 61,100원</title></circle>
-    <circle cx="288" cy="83" r="4" fill="#fdba74"><title>07-30 52,440원</title></circle>
-    <circle cx="328" cy="83" r="4" fill="#fdba74"><title>08-02 52,440원</title></circle>
-    <circle cx="348" cy="56" r="4" fill="#fdba74"><title>08-03 56,110원</title></circle>
-    <circle cx="368" cy="57" r="4" fill="#fdba74"><title>08-05 55,940원</title></circle>
-    <circle cx="388" cy="26" r="4" fill="#fdba74"><title>08-19 62,100원</title></circle>
-    <circle cx="468" cy="26" r="4" fill="#fdba74"><title>08-23 62,100원</title></circle>
-    <circle cx="488" cy="49" r="4" fill="#fdba74"><title>08-24 56,950원</title></circle>
-    <circle cx="508" cy="98" r="4" fill="#fdba74"><title>08-25 50,500원</title></circle>
-    <circle cx="528" cy="106" r="4" fill="#fdba74"><title>08-26 49,500원</title></circle>
-    <circle cx="548" cy="43" r="4" fill="#fdba74"><title>08-27 57,800원</title></circle>
-    <circle cx="568" cy="106" r="4" fill="#fdba74"><title>08-28 49,490원</title></circle>
-    <circle cx="588" cy="43" r="5" fill="#ea580c"><title>08-29 57,800원</title></circle>
+    <circle cx="184" cy="26" r="4" fill="#fdba74"><title>07-22 61,100원</title></circle>
+    <circle cx="203" cy="28" r="4" fill="#fdba74"><title>07-23 59,790원</title></circle>
+    <circle cx="222" cy="26" r="4" fill="#fdba74"><title>07-24 61,100원</title></circle>
+    <circle cx="241" cy="100" r="4" fill="#fdba74"><title>07-25 50,250원</title></circle>
+    <circle cx="261" cy="26" r="4" fill="#fdba74"><title>07-26 61,100원</title></circle>
+    <circle cx="280" cy="83" r="4" fill="#fdba74"><title>07-30 52,440원</title></circle>
+    <circle cx="318" cy="83" r="4" fill="#fdba74"><title>08-02 52,440원</title></circle>
+    <circle cx="338" cy="56" r="4" fill="#fdba74"><title>08-03 56,110원</title></circle>
+    <circle cx="357" cy="57" r="4" fill="#fdba74"><title>08-05 55,940원</title></circle>
+    <circle cx="376" cy="26" r="4" fill="#fdba74"><title>08-19 62,100원</title></circle>
+    <circle cx="453" cy="26" r="4" fill="#fdba74"><title>08-23 62,100원</title></circle>
+    <circle cx="472" cy="49" r="4" fill="#fdba74"><title>08-24 56,950원</title></circle>
+    <circle cx="492" cy="98" r="4" fill="#fdba74"><title>08-25 50,500원</title></circle>
+    <circle cx="511" cy="106" r="4" fill="#fdba74"><title>08-26 49,500원</title></circle>
+    <circle cx="530" cy="43" r="4" fill="#fdba74"><title>08-27 57,800원</title></circle>
+    <circle cx="549" cy="106" r="4" fill="#fdba74"><title>08-28 49,490원</title></circle>
+    <circle cx="569" cy="43" r="4" fill="#fdba74"><title>08-29 57,800원</title></circle>
+    <circle cx="588" cy="106" r="5" fill="#ea580c"><title>08-30 49,480원</title></circle>
 
-    <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">57,800원</text>
+    <text x="588" y="94" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,480원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -202,7 +203,7 @@ A. 블루라이트를 차단하는 과정에서 렌즈가 미세하게 노란색
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 57,800원 · 별점 4.3 · 리뷰 12개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 49,480원 · 별점 4.3 · 리뷰 12개</span>
     <a href="https://link.coupang.com/a/fqcJ1ZGc0q" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
