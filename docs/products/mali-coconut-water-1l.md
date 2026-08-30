@@ -21,12 +21,12 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
     "price": "16810",
     "url": "https://link.coupang.com/a/eDJ5YO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-06"
+    "priceValidUntil": "2026-09-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 26190,
+    "reviewCount": 26217,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,810원 · 별점 4.8 · 리뷰 26,190개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,810원 · 별점 4.8 · 리뷰 26,217개</span>
     <a href="https://link.coupang.com/a/eDJ5YO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,28 +61,28 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 104 L 86 104 L 104 104 L 122 104 L 140 104 L 158 104 L 176 104 L 194 104 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 104 L 516 104 L 534 104 L 552 104 L 570 116 L 588 116 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 104 L 86 104 L 104 104 L 122 104 L 140 104 L 158 104 L 176 104 L 194 104 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 104 L 516 104 L 534 104 L 552 104 L 570 116 L 588 116" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="104" r="4" fill="#fdba74"><title>07-14 16,980원</title></circle>
-    <circle cx="194" cy="104" r="4" fill="#fdba74"><title>07-21 16,980원</title></circle>
-    <circle cx="211" cy="28" r="4" fill="#fdba74"><title>07-22 17,980원</title></circle>
-    <circle cx="480" cy="28" r="4" fill="#fdba74"><title>08-24 17,980원</title></circle>
-    <circle cx="498" cy="104" r="4" fill="#fdba74"><title>08-25 16,980원</title></circle>
-    <circle cx="552" cy="104" r="4" fill="#fdba74"><title>08-28 16,980원</title></circle>
-    <circle cx="570" cy="116" r="4" fill="#fdba74"><title>08-29 16,810원</title></circle>
-    <circle cx="588" cy="116" r="5" fill="#ea580c"><title>08-30 16,810원</title></circle>
+    <path d="M 68 104 L 86 104 L 104 104 L 122 104 L 140 104 L 158 104 L 176 104 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 104 L 498 104 L 516 104 L 534 104 L 552 116 L 570 116 L 588 116 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 104 L 86 104 L 104 104 L 122 104 L 140 104 L 158 104 L 176 104 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 104 L 498 104 L 516 104 L 534 104 L 552 116 L 570 116 L 588 116" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="104" r="4" fill="#fdba74"><title>07-15 16,980원</title></circle>
+    <circle cx="176" cy="104" r="4" fill="#fdba74"><title>07-21 16,980원</title></circle>
+    <circle cx="194" cy="28" r="4" fill="#fdba74"><title>07-22 17,980원</title></circle>
+    <circle cx="462" cy="28" r="4" fill="#fdba74"><title>08-24 17,980원</title></circle>
+    <circle cx="480" cy="104" r="4" fill="#fdba74"><title>08-25 16,980원</title></circle>
+    <circle cx="534" cy="104" r="4" fill="#fdba74"><title>08-28 16,980원</title></circle>
+    <circle cx="552" cy="116" r="4" fill="#fdba74"><title>08-29 16,810원</title></circle>
+    <circle cx="588" cy="116" r="5" fill="#ea580c"><title>08-31 16,810원</title></circle>
 
     <text x="588" y="104" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,810원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -338,7 +338,7 @@ A. 전해질은 우리 몸의 체액에 녹아 있는 나트륨, 칼륨, 마그�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,810원 · 별점 4.8 · 리뷰 26,190개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,810원 · 별점 4.8 · 리뷰 26,217개</span>
     <a href="https://link.coupang.com/a/eDJ5YO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
