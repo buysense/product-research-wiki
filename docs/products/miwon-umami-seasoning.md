@@ -18,15 +18,15 @@ description: 미원은 1956년 출시된 국산 1호 조미료로, 사탕수수 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "9480",
+    "price": "9220",
     "url": "https://link.coupang.com/a/ezURa9",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-06"
+    "priceValidUntil": "2026-09-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 48224,
+    "reviewCount": 48291,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 미원은 1956년 출시된 국산 1호 조미료로, 사탕수수 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,480원 · 별점 4.8 · 리뷰 48,224개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 9,220원 · 별점 4.8 · 리뷰 48,291개</span>
     <a href="https://link.coupang.com/a/ezURa9" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,29 +61,30 @@ description: 미원은 1956년 출시된 국산 1호 조미료로, 사탕수수 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">9,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 94 L 86 94 L 104 94 L 122 94 L 140 94 L 158 94 L 176 94 L 194 94 L 211 94 L 229 94 L 247 94 L 265 94 L 283 94 L 301 129 L 319 129 L 337 129 L 355 129 L 373 66 L 391 66 L 409 66 L 427 45 L 445 66 L 462 66 L 480 66 L 498 66 L 516 66 L 534 66 L 552 66 L 570 66 L 588 66 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 94 L 86 94 L 104 94 L 122 94 L 140 94 L 158 94 L 176 94 L 194 94 L 211 94 L 229 94 L 247 94 L 265 94 L 283 94 L 301 129 L 319 129 L 337 129 L 355 129 L 373 66 L 391 66 L 409 66 L 427 45 L 445 66 L 462 66 L 480 66 L 498 66 L 516 66 L 534 66 L 552 66 L 570 66 L 588 66" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="94" r="4" fill="#fdba74"><title>07-14 9,100원</title></circle>
-    <circle cx="283" cy="94" r="4" fill="#fdba74"><title>07-26 9,100원</title></circle>
-    <circle cx="301" cy="129" r="4" fill="#fdba74"><title>07-30 8,650원</title></circle>
-    <circle cx="355" cy="129" r="4" fill="#fdba74"><title>08-03 8,650원</title></circle>
-    <circle cx="373" cy="66" r="4" fill="#fdba74"><title>08-04 9,480원</title></circle>
-    <circle cx="409" cy="66" r="4" fill="#fdba74"><title>08-20 9,480원</title></circle>
-    <circle cx="427" cy="45" r="4" fill="#fdba74"><title>08-21 9,750원</title></circle>
-    <circle cx="445" cy="66" r="4" fill="#fdba74"><title>08-22 9,480원</title></circle>
-    <circle cx="588" cy="66" r="5" fill="#ea580c"><title>08-30 9,480원</title></circle>
+    <path d="M 68 94 L 86 94 L 104 94 L 122 94 L 140 94 L 158 94 L 176 94 L 194 94 L 211 94 L 229 94 L 247 94 L 265 94 L 283 129 L 301 129 L 319 129 L 337 129 L 355 66 L 373 66 L 391 66 L 409 45 L 427 66 L 445 66 L 462 66 L 480 66 L 498 66 L 516 66 L 534 66 L 552 66 L 570 66 L 588 85 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 94 L 86 94 L 104 94 L 122 94 L 140 94 L 158 94 L 176 94 L 194 94 L 211 94 L 229 94 L 247 94 L 265 94 L 283 129 L 301 129 L 319 129 L 337 129 L 355 66 L 373 66 L 391 66 L 409 45 L 427 66 L 445 66 L 462 66 L 480 66 L 498 66 L 516 66 L 534 66 L 552 66 L 570 66 L 588 85" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="94" r="4" fill="#fdba74"><title>07-15 9,100원</title></circle>
+    <circle cx="265" cy="94" r="4" fill="#fdba74"><title>07-26 9,100원</title></circle>
+    <circle cx="283" cy="129" r="4" fill="#fdba74"><title>07-30 8,650원</title></circle>
+    <circle cx="337" cy="129" r="4" fill="#fdba74"><title>08-03 8,650원</title></circle>
+    <circle cx="355" cy="66" r="4" fill="#fdba74"><title>08-04 9,480원</title></circle>
+    <circle cx="391" cy="66" r="4" fill="#fdba74"><title>08-20 9,480원</title></circle>
+    <circle cx="409" cy="45" r="4" fill="#fdba74"><title>08-21 9,750원</title></circle>
+    <circle cx="427" cy="66" r="4" fill="#fdba74"><title>08-22 9,480원</title></circle>
+    <circle cx="570" cy="66" r="4" fill="#fdba74"><title>08-30 9,480원</title></circle>
+    <circle cx="588" cy="85" r="5" fill="#ea580c"><title>08-31 9,220원</title></circle>
 
-    <text x="588" y="54" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,480원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="73" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,220원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -347,7 +348,7 @@ A. 미원은 소량만으로도 충분한 효과를 내므로, '한 꼬집' 또�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,480원 · 별점 4.8 · 리뷰 48,224개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 9,220원 · 별점 4.8 · 리뷰 48,291개</span>
     <a href="https://link.coupang.com/a/ezURa9" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
