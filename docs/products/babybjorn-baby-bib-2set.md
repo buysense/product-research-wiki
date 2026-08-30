@@ -21,7 +21,7 @@ description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작
     "price": "31350",
     "url": "https://link.coupang.com/a/eqhPpZ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-06"
+    "priceValidUntil": "2026-09-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,29 +61,29 @@ description: 베이비뵨 이유식 턱받이 2종 세트는 이유식을 시작
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
 
-    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 113 L 158 113 L 176 113 L 194 113 L 211 113 L 229 113 L 247 113 L 265 113 L 283 176 L 301 176 L 319 176 L 337 176 L 355 176 L 373 176 L 391 176 L 409 113 L 427 176 L 445 176 L 462 176 L 480 176 L 498 176 L 516 176 L 534 176 L 552 51 L 570 51 L 588 51 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 113 L 158 113 L 176 113 L 194 113 L 211 113 L 229 113 L 247 113 L 265 113 L 283 176 L 301 176 L 319 176 L 337 176 L 355 176 L 373 176 L 391 176 L 409 113 L 427 176 L 445 176 L 462 176 L 480 176 L 498 176 L 516 176 L 534 176 L 552 51 L 570 51 L 588 51" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="113" r="4" fill="#fdba74"><title>07-17 29,700원</title></circle>
-    <circle cx="265" cy="113" r="4" fill="#fdba74"><title>07-30 29,700원</title></circle>
-    <circle cx="283" cy="176" r="4" fill="#fdba74"><title>07-31 28,050원</title></circle>
-    <circle cx="391" cy="176" r="4" fill="#fdba74"><title>08-19 28,050원</title></circle>
-    <circle cx="409" cy="113" r="4" fill="#fdba74"><title>08-20 29,700원</title></circle>
-    <circle cx="427" cy="176" r="4" fill="#fdba74"><title>08-21 28,050원</title></circle>
-    <circle cx="534" cy="176" r="4" fill="#fdba74"><title>08-27 28,050원</title></circle>
-    <circle cx="552" cy="51" r="4" fill="#fdba74"><title>08-28 31,350원</title></circle>
-    <circle cx="588" cy="51" r="5" fill="#ea580c"><title>08-30 31,350원</title></circle>
+    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 113 L 158 113 L 176 113 L 194 113 L 211 113 L 229 113 L 247 113 L 265 176 L 283 176 L 301 176 L 319 176 L 337 176 L 355 176 L 373 176 L 391 113 L 409 176 L 427 176 L 445 176 L 462 176 L 480 176 L 498 176 L 516 176 L 534 51 L 552 51 L 570 51 L 588 51 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 113 L 86 113 L 104 113 L 122 113 L 140 113 L 158 113 L 176 113 L 194 113 L 211 113 L 229 113 L 247 113 L 265 176 L 283 176 L 301 176 L 319 176 L 337 176 L 355 176 L 373 176 L 391 113 L 409 176 L 427 176 L 445 176 L 462 176 L 480 176 L 498 176 L 516 176 L 534 51 L 552 51 L 570 51 L 588 51" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="113" r="4" fill="#fdba74"><title>07-18 29,700원</title></circle>
+    <circle cx="247" cy="113" r="4" fill="#fdba74"><title>07-30 29,700원</title></circle>
+    <circle cx="265" cy="176" r="4" fill="#fdba74"><title>07-31 28,050원</title></circle>
+    <circle cx="373" cy="176" r="4" fill="#fdba74"><title>08-19 28,050원</title></circle>
+    <circle cx="391" cy="113" r="4" fill="#fdba74"><title>08-20 29,700원</title></circle>
+    <circle cx="409" cy="176" r="4" fill="#fdba74"><title>08-21 28,050원</title></circle>
+    <circle cx="516" cy="176" r="4" fill="#fdba74"><title>08-27 28,050원</title></circle>
+    <circle cx="534" cy="51" r="4" fill="#fdba74"><title>08-28 31,350원</title></circle>
+    <circle cx="588" cy="51" r="5" fill="#ea580c"><title>08-31 31,350원</title></circle>
 
     <text x="588" y="39" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">31,350원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
