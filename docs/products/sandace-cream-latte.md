@@ -20,7 +20,7 @@ description: 샌드에이스 크림라떼는 달콤하고 부드러운 맛을 �
     "price": "16900",
     "url": "https://link.coupang.com/a/gDHhhDgvWm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-06"
+    "priceValidUntil": "2026-09-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
