@@ -10,7 +10,6 @@ description: 아이와 민감성 피부를 위한 아브카 베이비 앤 키즈
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "아브카 베이비 앤 키즈 이지워시 선크림 SPF50+ PA++++, 50ml",
-  "description": "아이와 민감성 피부를 위한 아브카 베이비 앤 키즈 이지워시 선크림은 SPF50+ PA++++로 강력한 자외선 차단과 물세안만으로도 간편한 클렌징을 제공하여 데일리 야외 활동에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/17/16/1/7415dad0-086e-4e3b-a472-d96c52d92091.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/lg7jkgwe/8aea1efbbd88407a9ef045bf125b7e77.png"
@@ -21,12 +20,12 @@ description: 아이와 민감성 피부를 위한 아브카 베이비 앤 키즈
     "price": "8400",
     "url": "https://link.coupang.com/a/dSIQT8ti5k",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-06"
+    "priceValidUntil": "2026-09-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 752,
+    "reviewCount": 758,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +42,7 @@ description: 아이와 민감성 피부를 위한 아브카 베이비 앤 키즈
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,400원 · 별점 4.8 · 리뷰 752개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,400원 · 별점 4.8 · 리뷰 758개</span>
     <a href="https://link.coupang.com/a/dSIQT8ti5k" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,33 +60,33 @@ description: 아이와 민감성 피부를 위한 아브카 베이비 앤 키즈
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,000</text>
 
-    <path d="M 68 91 L 86 91 L 104 91 L 122 91 L 140 34 L 158 26 L 176 34 L 194 34 L 211 34 L 229 34 L 247 104 L 265 104 L 283 72 L 301 91 L 319 91 L 337 91 L 355 91 L 373 91 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 91 L 86 91 L 104 91 L 122 91 L 140 34 L 158 26 L 176 34 L 194 34 L 211 34 L 229 34 L 247 104 L 265 104 L 283 72 L 301 91 L 319 91 L 337 91 L 355 91 L 373 91 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="91" r="4" fill="#fdba74"><title>07-17 8,140원</title></circle>
-    <circle cx="122" cy="91" r="4" fill="#fdba74"><title>07-20 8,140원</title></circle>
-    <circle cx="140" cy="34" r="4" fill="#fdba74"><title>07-21 8,900원</title></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"><title>07-22 9,400원</title></circle>
-    <circle cx="176" cy="34" r="4" fill="#fdba74"><title>07-23 8,900원</title></circle>
-    <circle cx="229" cy="34" r="4" fill="#fdba74"><title>07-26 8,900원</title></circle>
-    <circle cx="247" cy="104" r="4" fill="#fdba74"><title>07-28 7,980원</title></circle>
-    <circle cx="265" cy="104" r="4" fill="#fdba74"><title>07-30 7,980원</title></circle>
-    <circle cx="283" cy="72" r="4" fill="#fdba74"><title>07-31 8,400원</title></circle>
-    <circle cx="301" cy="91" r="4" fill="#fdba74"><title>08-01 8,140원</title></circle>
-    <circle cx="373" cy="91" r="4" fill="#fdba74"><title>08-05 8,140원</title></circle>
-    <circle cx="391" cy="72" r="4" fill="#fdba74"><title>08-19 8,400원</title></circle>
-    <circle cx="588" cy="72" r="5" fill="#ea580c"><title>08-30 8,400원</title></circle>
+    <path d="M 68 91 L 86 91 L 104 91 L 122 34 L 140 26 L 158 34 L 176 34 L 194 34 L 211 34 L 229 104 L 247 104 L 265 72 L 283 91 L 301 91 L 319 91 L 337 91 L 355 91 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 91 L 86 91 L 104 91 L 122 34 L 140 26 L 158 34 L 176 34 L 194 34 L 211 34 L 229 104 L 247 104 L 265 72 L 283 91 L 301 91 L 319 91 L 337 91 L 355 91 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="91" r="4" fill="#fdba74"><title>07-18 8,140원</title></circle>
+    <circle cx="104" cy="91" r="4" fill="#fdba74"><title>07-20 8,140원</title></circle>
+    <circle cx="122" cy="34" r="4" fill="#fdba74"><title>07-21 8,900원</title></circle>
+    <circle cx="140" cy="26" r="4" fill="#fdba74"><title>07-22 9,400원</title></circle>
+    <circle cx="158" cy="34" r="4" fill="#fdba74"><title>07-23 8,900원</title></circle>
+    <circle cx="211" cy="34" r="4" fill="#fdba74"><title>07-26 8,900원</title></circle>
+    <circle cx="229" cy="104" r="4" fill="#fdba74"><title>07-28 7,980원</title></circle>
+    <circle cx="247" cy="104" r="4" fill="#fdba74"><title>07-30 7,980원</title></circle>
+    <circle cx="265" cy="72" r="4" fill="#fdba74"><title>07-31 8,400원</title></circle>
+    <circle cx="283" cy="91" r="4" fill="#fdba74"><title>08-01 8,140원</title></circle>
+    <circle cx="355" cy="91" r="4" fill="#fdba74"><title>08-05 8,140원</title></circle>
+    <circle cx="373" cy="72" r="4" fill="#fdba74"><title>08-19 8,400원</title></circle>
+    <circle cx="588" cy="72" r="5" fill="#ea580c"><title>08-31 8,400원</title></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -324,7 +323,7 @@ A. 어린이집 등원, 짧은 외출, 공원 나들이, 벚꽃 구경 등 일�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,400원 · 별점 4.8 · 리뷰 752개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,400원 · 별점 4.8 · 리뷰 758개</span>
     <a href="https://link.coupang.com/a/dSIQT8ti5k" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
