@@ -21,7 +21,7 @@ description: 랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면�
     "price": "18800",
     "url": "https://link.coupang.com/a/d0RmMrVOqO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-06"
+    "priceValidUntil": "2026-09-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -57,33 +57,32 @@ description: 랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
 
-    <path d="M 68 60 L 86 66 L 104 69 L 122 125 L 140 125 L 158 125 L 176 80 L 194 80 L 211 80 L 229 80 L 247 80 L 265 80 L 283 120 L 301 120 L 319 120 L 337 120 L 355 120 L 373 120 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 120 L 516 120 L 534 120 L 552 120 L 570 120 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 60 L 86 66 L 104 69 L 122 125 L 140 125 L 158 125 L 176 80 L 194 80 L 211 80 L 229 80 L 247 80 L 265 80 L 283 120 L 301 120 L 319 120 L 337 120 L 355 120 L 373 120 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 120 L 516 120 L 534 120 L 552 120 L 570 120 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="60" r="4" fill="#fdba74"><title>07-16 22,740원</title></circle>
-    <circle cx="86" cy="66" r="4" fill="#fdba74"><title>07-17 22,350원</title></circle>
-    <circle cx="104" cy="69" r="4" fill="#fdba74"><title>07-18 22,170원</title></circle>
-    <circle cx="122" cy="125" r="4" fill="#fdba74"><title>07-19 18,500원</title></circle>
-    <circle cx="158" cy="125" r="4" fill="#fdba74"><title>07-21 18,500원</title></circle>
-    <circle cx="176" cy="80" r="4" fill="#fdba74"><title>07-22 21,450원</title></circle>
-    <circle cx="265" cy="80" r="4" fill="#fdba74"><title>07-29 21,450원</title></circle>
-    <circle cx="283" cy="120" r="4" fill="#fdba74"><title>07-30 18,800원</title></circle>
-    <circle cx="588" cy="120" r="5" fill="#ea580c"><title>08-30 18,800원</title></circle>
+    <path d="M 68 26 L 86 26 L 104 159 L 122 159 L 140 159 L 158 47 L 176 47 L 194 47 L 211 47 L 229 47 L 247 47 L 265 148 L 283 148 L 301 148 L 319 148 L 337 148 L 355 148 L 373 148 L 391 148 L 409 148 L 427 148 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 148 L 552 148 L 570 148 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 159 L 122 159 L 140 159 L 158 47 L 176 47 L 194 47 L 211 47 L 229 47 L 247 47 L 265 148 L 283 148 L 301 148 L 319 148 L 337 148 L 355 148 L 373 148 L 391 148 L 409 148 L 427 148 L 445 148 L 462 148 L 480 148 L 498 148 L 516 148 L 534 148 L 552 148 L 570 148 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-17 22,350원</title></circle>
+    <circle cx="86" cy="26" r="4" fill="#fdba74"><title>07-18 22,170원</title></circle>
+    <circle cx="104" cy="159" r="4" fill="#fdba74"><title>07-19 18,500원</title></circle>
+    <circle cx="140" cy="159" r="4" fill="#fdba74"><title>07-21 18,500원</title></circle>
+    <circle cx="158" cy="47" r="4" fill="#fdba74"><title>07-22 21,450원</title></circle>
+    <circle cx="247" cy="47" r="4" fill="#fdba74"><title>07-29 21,450원</title></circle>
+    <circle cx="265" cy="148" r="4" fill="#fdba74"><title>07-30 18,800원</title></circle>
+    <circle cx="588" cy="148" r="5" fill="#ea580c"><title>08-31 18,800원</title></circle>
 
-    <text x="588" y="108" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,800원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="136" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
