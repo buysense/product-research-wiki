@@ -21,7 +21,7 @@ description: 꼬깔콘 애플 시나몬맛은 익숙한 꼬깔콘에 사과와 �
     "price": "11370",
     "url": "https://link.coupang.com/a/gDHxPpTOpx",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-06"
+    "priceValidUntil": "2026-09-07"
   }
 }
 </script>

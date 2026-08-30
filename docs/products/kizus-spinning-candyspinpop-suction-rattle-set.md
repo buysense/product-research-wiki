@@ -21,7 +21,7 @@ description: 키저스 빙글빙글 캔디스핀팝 흡착회전딸랑이 3종 �
     "price": "19520",
     "url": "https://link.coupang.com/a/dVNNnqpRUi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-06"
+    "priceValidUntil": "2026-09-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,28 +61,28 @@ description: 키저스 빙글빙글 캔디스핀팝 흡착회전딸랑이 3종 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">19,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">19,000</text>
 
-    <path d="M 68 175 L 86 175 L 104 175 L 122 175 L 140 175 L 158 175 L 176 175 L 194 175 L 211 175 L 229 175 L 247 175 L 265 175 L 283 175 L 301 175 L 319 99 L 337 99 L 355 175 L 373 175 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 175 L 86 175 L 104 175 L 122 175 L 140 175 L 158 175 L 176 175 L 194 175 L 211 175 L 229 175 L 247 175 L 265 175 L 283 175 L 301 175 L 319 99 L 337 99 L 355 175 L 373 175 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="175" r="4" fill="#fdba74"><title>07-16 19,020원</title></circle>
-    <circle cx="301" cy="175" r="4" fill="#fdba74"><title>07-31 19,020원</title></circle>
-    <circle cx="319" cy="99" r="4" fill="#fdba74"><title>08-01 19,520원</title></circle>
-    <circle cx="337" cy="99" r="4" fill="#fdba74"><title>08-02 19,520원</title></circle>
-    <circle cx="355" cy="175" r="4" fill="#fdba74"><title>08-03 19,020원</title></circle>
-    <circle cx="373" cy="175" r="4" fill="#fdba74"><title>08-04 19,020원</title></circle>
-    <circle cx="391" cy="99" r="4" fill="#fdba74"><title>08-19 19,520원</title></circle>
-    <circle cx="588" cy="99" r="5" fill="#ea580c"><title>08-30 19,520원</title></circle>
+    <path d="M 68 175 L 86 175 L 104 175 L 122 175 L 140 175 L 158 175 L 176 175 L 194 175 L 211 175 L 229 175 L 247 175 L 265 175 L 283 175 L 301 99 L 319 99 L 337 175 L 355 175 L 373 99 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 175 L 86 175 L 104 175 L 122 175 L 140 175 L 158 175 L 176 175 L 194 175 L 211 175 L 229 175 L 247 175 L 265 175 L 283 175 L 301 99 L 319 99 L 337 175 L 355 175 L 373 99 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="175" r="4" fill="#fdba74"><title>07-17 19,020원</title></circle>
+    <circle cx="283" cy="175" r="4" fill="#fdba74"><title>07-31 19,020원</title></circle>
+    <circle cx="301" cy="99" r="4" fill="#fdba74"><title>08-01 19,520원</title></circle>
+    <circle cx="319" cy="99" r="4" fill="#fdba74"><title>08-02 19,520원</title></circle>
+    <circle cx="337" cy="175" r="4" fill="#fdba74"><title>08-03 19,020원</title></circle>
+    <circle cx="355" cy="175" r="4" fill="#fdba74"><title>08-04 19,020원</title></circle>
+    <circle cx="373" cy="99" r="4" fill="#fdba74"><title>08-19 19,520원</title></circle>
+    <circle cx="588" cy="99" r="5" fill="#ea580c"><title>08-31 19,520원</title></circle>
 
     <text x="588" y="87" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,520원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
