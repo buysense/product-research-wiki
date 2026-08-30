@@ -21,12 +21,12 @@ description: GNC 밀크시슬 1300mg 타블렛은 잦은 야근과 회식, 만�
     "price": "61030",
     "url": "https://link.coupang.com/a/eCXbjys4gC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-06"
+    "priceValidUntil": "2026-09-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 18010,
+    "reviewCount": 18019,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: GNC 밀크시슬 1300mg 타블렛은 잦은 야근과 회식, 만�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 61,030원 · 별점 4.7 · 리뷰 18,010개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 61,030원 · 별점 4.7 · 리뷰 18,019개</span>
     <a href="https://link.coupang.com/a/eCXbjys4gC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,29 +61,29 @@ description: GNC 밀크시슬 1300mg 타블렛은 잦은 야근과 회식, 만�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">61,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">60,900</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 102 L 158 79 L 176 79 L 194 79 L 211 79 L 229 79 L 247 79 L 265 79 L 283 79 L 301 79 L 319 79 L 337 79 L 355 79 L 373 79 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 79 L 516 79 L 534 79 L 552 79 L 570 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 102 L 158 79 L 176 79 L 194 79 L 211 79 L 229 79 L 247 79 L 265 79 L 283 79 L 301 79 L 319 79 L 337 79 L 355 79 L 373 79 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 79 L 516 79 L 534 79 L 552 79 L 570 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-17 61,100원</title></circle>
-    <circle cx="122" cy="26" r="4" fill="#fdba74"><title>07-20 61,100원</title></circle>
-    <circle cx="140" cy="102" r="4" fill="#fdba74"><title>07-21 61,000원</title></circle>
-    <circle cx="158" cy="79" r="4" fill="#fdba74"><title>07-22 61,030원</title></circle>
-    <circle cx="373" cy="79" r="4" fill="#fdba74"><title>08-05 61,030원</title></circle>
-    <circle cx="391" cy="102" r="4" fill="#fdba74"><title>08-19 61,000원</title></circle>
-    <circle cx="480" cy="102" r="4" fill="#fdba74"><title>08-24 61,000원</title></circle>
-    <circle cx="498" cy="79" r="4" fill="#fdba74"><title>08-25 61,030원</title></circle>
-    <circle cx="588" cy="79" r="5" fill="#ea580c"><title>08-30 61,030원</title></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 102 L 140 79 L 158 79 L 176 79 L 194 79 L 211 79 L 229 79 L 247 79 L 265 79 L 283 79 L 301 79 L 319 79 L 337 79 L 355 79 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 79 L 498 79 L 516 79 L 534 79 L 552 79 L 570 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 102 L 140 79 L 158 79 L 176 79 L 194 79 L 211 79 L 229 79 L 247 79 L 265 79 L 283 79 L 301 79 L 319 79 L 337 79 L 355 79 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 79 L 498 79 L 516 79 L 534 79 L 552 79 L 570 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-18 61,100원</title></circle>
+    <circle cx="104" cy="26" r="4" fill="#fdba74"><title>07-20 61,100원</title></circle>
+    <circle cx="122" cy="102" r="4" fill="#fdba74"><title>07-21 61,000원</title></circle>
+    <circle cx="140" cy="79" r="4" fill="#fdba74"><title>07-22 61,030원</title></circle>
+    <circle cx="355" cy="79" r="4" fill="#fdba74"><title>08-05 61,030원</title></circle>
+    <circle cx="373" cy="102" r="4" fill="#fdba74"><title>08-19 61,000원</title></circle>
+    <circle cx="462" cy="102" r="4" fill="#fdba74"><title>08-24 61,000원</title></circle>
+    <circle cx="480" cy="79" r="4" fill="#fdba74"><title>08-25 61,030원</title></circle>
+    <circle cx="588" cy="79" r="5" fill="#ea580c"><title>08-31 61,030원</title></circle>
 
     <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">61,030원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -264,7 +264,7 @@ A. 잦은 야근과 회식, 과도한 스트레스로 인해 만성 피로를 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 61,030원 · 별점 4.7 · 리뷰 18,010개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 61,030원 · 별점 4.7 · 리뷰 18,019개</span>
     <a href="https://link.coupang.com/a/eCXbjys4gC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
