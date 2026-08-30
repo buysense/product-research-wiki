@@ -20,7 +20,7 @@ description: 한성 미니 시카고피자 10개는 간편한 조리로 1~2인�
     "price": "15210",
     "url": "https://link.coupang.com/a/dGAffru5iC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-06"
+    "priceValidUntil": "2026-09-07"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -62,20 +62,20 @@ description: 한성 미니 시카고피자 10개는 간편한 조리로 1~2인�
 
     <path d="M 68 94 L 86 94 L 104 94 L 122 94 L 140 94 L 158 94 L 176 94 L 194 94 L 211 94 L 229 94 L 247 94 L 265 94 L 283 94 L 301 94 L 319 94 L 337 94 L 355 94 L 373 94 L 391 94 L 409 94 L 427 94 L 445 94 L 462 94 L 480 94 L 498 94 L 516 94 L 534 94 L 552 94 L 570 94 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 94 L 86 94 L 104 94 L 122 94 L 140 94 L 158 94 L 176 94 L 194 94 L 211 94 L 229 94 L 247 94 L 265 94 L 283 94 L 301 94 L 319 94 L 337 94 L 355 94 L 373 94 L 391 94 L 409 94 L 427 94 L 445 94 L 462 94 L 480 94 L 498 94 L 516 94 L 534 94 L 552 94 L 570 94 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="94" r="4" fill="#fdba74"><title>07-17 15,210원</title></circle>
-    <circle cx="588" cy="94" r="5" fill="#ea580c"><title>08-30 15,210원</title></circle>
+    <circle cx="68" cy="94" r="4" fill="#fdba74"><title>07-18 15,210원</title></circle>
+    <circle cx="588" cy="94" r="5" fill="#ea580c"><title>08-31 15,210원</title></circle>
 
     <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,210원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
