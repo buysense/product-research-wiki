@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 꼬깔콘 애플 시나몬맛: products/kkokkalcon-apple-cinnamon.md
     - 샌드에이스 크림라떼: products/sandace-cream-latte.md
     - 벨지오이오조 홀밀크 리코타: products/belgioioso-whole-milk-ricotta.md
     - 매일바이오 그릭 요거트 무가당 플레인: products/maeilbio-greek-yogurt-unsweetened-plain.md
