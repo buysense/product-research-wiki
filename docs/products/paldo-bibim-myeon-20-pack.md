@@ -18,15 +18,15 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "16620",
+    "price": "31400",
     "url": "https://link.coupang.com/a/evtA6l",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-07"
+    "priceValidUntil": "2026-09-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 28991,
+    "reviewCount": 28997,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,620원 · 별점 4.8 · 리뷰 28,991개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 31,400원 · 별점 4.8 · 리뷰 28,997개</span>
     <a href="https://link.coupang.com/a/evtA6l" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,35 +61,36 @@ description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 58 L 86 58 L 104 58 L 122 58 L 140 58 L 158 58 L 176 58 L 194 127 L 211 127 L 229 127 L 247 127 L 265 127 L 283 127 L 301 127 L 319 26 L 337 121 L 355 123 L 373 118 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 26 L 516 26 L 534 121 L 552 128 L 570 128 L 588 128 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 58 L 86 58 L 104 58 L 122 58 L 140 58 L 158 58 L 176 58 L 194 127 L 211 127 L 229 127 L 247 127 L 265 127 L 283 127 L 301 127 L 319 26 L 337 121 L 355 123 L 373 118 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 120 L 498 26 L 516 26 L 534 121 L 552 128 L 570 128 L 588 128" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="58" r="4" fill="#fdba74"><title>07-15 25,730원</title></circle>
-    <circle cx="176" cy="58" r="4" fill="#fdba74"><title>07-21 25,730원</title></circle>
-    <circle cx="194" cy="127" r="4" fill="#fdba74"><title>07-22 16,750원</title></circle>
-    <circle cx="301" cy="127" r="4" fill="#fdba74"><title>07-31 16,750원</title></circle>
-    <circle cx="319" cy="26" r="4" fill="#fdba74"><title>08-02 30,400원</title></circle>
-    <circle cx="337" cy="121" r="4" fill="#fdba74"><title>08-03 17,480원</title></circle>
-    <circle cx="355" cy="123" r="4" fill="#fdba74"><title>08-04 17,290원</title></circle>
-    <circle cx="373" cy="118" r="4" fill="#fdba74"><title>08-19 17,890원</title></circle>
-    <circle cx="391" cy="120" r="4" fill="#fdba74"><title>08-20 17,620원</title></circle>
-    <circle cx="480" cy="120" r="4" fill="#fdba74"><title>08-25 17,620원</title></circle>
-    <circle cx="498" cy="26" r="4" fill="#fdba74"><title>08-26 32,080원</title></circle>
-    <circle cx="516" cy="26" r="4" fill="#fdba74"><title>08-27 32,080원</title></circle>
-    <circle cx="534" cy="121" r="4" fill="#fdba74"><title>08-28 17,500원</title></circle>
-    <circle cx="552" cy="128" r="4" fill="#fdba74"><title>08-29 16,620원</title></circle>
-    <circle cx="588" cy="128" r="5" fill="#ea580c"><title>08-31 16,620원</title></circle>
+    <path d="M 68 58 L 86 58 L 104 58 L 122 58 L 140 58 L 158 58 L 176 127 L 194 127 L 211 127 L 229 127 L 247 127 L 265 127 L 283 127 L 301 26 L 319 121 L 337 123 L 355 118 L 373 120 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 26 L 498 26 L 516 121 L 534 128 L 552 128 L 570 128 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 58 L 86 58 L 104 58 L 122 58 L 140 58 L 158 58 L 176 127 L 194 127 L 211 127 L 229 127 L 247 127 L 265 127 L 283 127 L 301 26 L 319 121 L 337 123 L 355 118 L 373 120 L 391 120 L 409 120 L 427 120 L 445 120 L 462 120 L 480 26 L 498 26 L 516 121 L 534 128 L 552 128 L 570 128 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="58" r="4" fill="#fdba74"><title>07-16 25,730원</title></circle>
+    <circle cx="158" cy="58" r="4" fill="#fdba74"><title>07-21 25,730원</title></circle>
+    <circle cx="176" cy="127" r="4" fill="#fdba74"><title>07-22 16,750원</title></circle>
+    <circle cx="283" cy="127" r="4" fill="#fdba74"><title>07-31 16,750원</title></circle>
+    <circle cx="301" cy="26" r="4" fill="#fdba74"><title>08-02 30,400원</title></circle>
+    <circle cx="319" cy="121" r="4" fill="#fdba74"><title>08-03 17,480원</title></circle>
+    <circle cx="337" cy="123" r="4" fill="#fdba74"><title>08-04 17,290원</title></circle>
+    <circle cx="355" cy="118" r="4" fill="#fdba74"><title>08-19 17,890원</title></circle>
+    <circle cx="373" cy="120" r="4" fill="#fdba74"><title>08-20 17,620원</title></circle>
+    <circle cx="462" cy="120" r="4" fill="#fdba74"><title>08-25 17,620원</title></circle>
+    <circle cx="480" cy="26" r="4" fill="#fdba74"><title>08-26 32,080원</title></circle>
+    <circle cx="498" cy="26" r="4" fill="#fdba74"><title>08-27 32,080원</title></circle>
+    <circle cx="516" cy="121" r="4" fill="#fdba74"><title>08-28 17,500원</title></circle>
+    <circle cx="534" cy="128" r="4" fill="#fdba74"><title>08-29 16,620원</title></circle>
+    <circle cx="570" cy="128" r="4" fill="#fdba74"><title>08-31 16,620원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-01 31,400원</title></circle>
 
-    <text x="588" y="116" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,620원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">31,400원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -359,7 +360,7 @@ A. 팔도비빔면은 오랜 시간 변함없는 새콤달콤매콤한 고유의
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,620원 · 별점 4.8 · 리뷰 28,991개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 31,400원 · 별점 4.8 · 리뷰 28,997개</span>
     <a href="https://link.coupang.com/a/evtA6l" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
