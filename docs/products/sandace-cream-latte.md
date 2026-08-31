@@ -20,7 +20,7 @@ description: 샌드에이스 크림라떼는 달콤하고 부드러운 맛을 �
     "price": "16900",
     "url": "https://link.coupang.com/a/gDHhhDgvWm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-07"
+    "priceValidUntil": "2026-09-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -50,6 +50,29 @@ description: 샌드에이스 크림라떼는 달콤하고 부드러운 맛을 �
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">16,900</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,800</text>
+
+    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>08-30 16,900원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-01 16,900원</title></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요
