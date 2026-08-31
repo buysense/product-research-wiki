@@ -20,7 +20,7 @@ description: 해태 오예스 베이크하우스 얼그레이&쇼콜라 280g은 
     "price": "7500",
     "url": "https://link.coupang.com/a/gFndWXAHee",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-07"
+    "priceValidUntil": "2026-09-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
