@@ -21,7 +21,7 @@ description: 아몬드초코볼 애플요거트는 바삭한 아몬드와 달콤
     "price": "12600",
     "url": "https://link.coupang.com/a/gFmiOamFdQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-07"
+    "priceValidUntil": "2026-09-08"
   }
 }
 </script>
