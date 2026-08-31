@@ -20,7 +20,7 @@ description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된
     "price": "15750",
     "url": "https://link.coupang.com/a/dXOWedqbCe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-07"
+    "priceValidUntil": "2026-09-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -62,20 +62,20 @@ description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된
 
     <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 140 L 552 140 L 570 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 140 L 552 140 L 570 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="140" r="4" fill="#fdba74"><title>07-14 15,750원</title></circle>
-    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>08-31 15,750원</title></circle>
+    <circle cx="68" cy="140" r="4" fill="#fdba74"><title>07-15 15,750원</title></circle>
+    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>09-01 15,750원</title></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,750원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
