@@ -21,12 +21,12 @@ description: 농협 임금님표 이천쌀 특등급은 뛰어난 밥맛과 찰�
     "price": "46900",
     "url": "https://link.coupang.com/a/fv232IWn2y",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-07"
+    "priceValidUntil": "2026-09-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 3010,
+    "reviewCount": 3039,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 농협 임금님표 이천쌀 특등급은 뛰어난 밥맛과 찰�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 46,900원 · 별점 4.7 · 리뷰 3,010개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 46,900원 · 별점 4.7 · 리뷰 3,039개</span>
     <a href="https://link.coupang.com/a/fv232IWn2y" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 농협 임금님표 이천쌀 특등급은 뛰어난 밥맛과 찰�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,26 +61,26 @@ description: 농협 임금님표 이천쌀 특등급은 뛰어난 밥맛과 찰�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">44,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">42,000</text>
 
-    <path d="M 68 106 L 89 106 L 110 106 L 130 106 L 151 106 L 172 106 L 193 106 L 214 106 L 234 68 L 255 68 L 276 68 L 297 68 L 318 68 L 338 26 L 359 26 L 380 26 L 401 26 L 422 26 L 442 26 L 463 26 L 484 26 L 505 26 L 526 26 L 546 26 L 567 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 106 L 89 106 L 110 106 L 130 106 L 151 106 L 172 106 L 193 106 L 214 106 L 234 68 L 255 68 L 276 68 L 297 68 L 318 68 L 338 26 L 359 26 L 380 26 L 401 26 L 422 26 L 442 26 L 463 26 L 484 26 L 505 26 L 526 26 L 546 26 L 567 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 106 L 88 106 L 108 106 L 128 106 L 148 106 L 168 106 L 188 106 L 208 106 L 228 68 L 248 68 L 268 68 L 288 68 L 308 68 L 328 26 L 348 26 L 368 26 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 26 L 508 26 L 528 26 L 548 26 L 568 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 106 L 88 106 L 108 106 L 128 106 L 148 106 L 168 106 L 188 106 L 208 106 L 228 68 L 248 68 L 268 68 L 288 68 L 308 68 L 328 26 L 348 26 L 368 26 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 26 L 508 26 L 528 26 L 548 26 L 568 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="106" r="4" fill="#fdba74"><title>07-19 43,900원</title></circle>
-    <circle cx="214" cy="106" r="4" fill="#fdba74"><title>07-26 43,900원</title></circle>
-    <circle cx="234" cy="68" r="4" fill="#fdba74"><title>07-30 44,900원</title></circle>
-    <circle cx="318" cy="68" r="4" fill="#fdba74"><title>08-04 44,900원</title></circle>
-    <circle cx="338" cy="26" r="4" fill="#fdba74"><title>08-19 46,900원</title></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>08-31 46,900원</title></circle>
+    <circle cx="208" cy="106" r="4" fill="#fdba74"><title>07-26 43,900원</title></circle>
+    <circle cx="228" cy="68" r="4" fill="#fdba74"><title>07-30 44,900원</title></circle>
+    <circle cx="308" cy="68" r="4" fill="#fdba74"><title>08-04 44,900원</title></circle>
+    <circle cx="328" cy="26" r="4" fill="#fdba74"><title>08-19 46,900원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-01 46,900원</title></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">46,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -200,7 +200,7 @@ A. 밥맛 외에도 밥을 지었을 때 윤기가 흐르고 시간이 지나도
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 46,900원 · 별점 4.7 · 리뷰 3,010개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 46,900원 · 별점 4.7 · 리뷰 3,039개</span>
     <a href="https://link.coupang.com/a/fv232IWn2y" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
