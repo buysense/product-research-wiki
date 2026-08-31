@@ -18,15 +18,15 @@ description: 삼성전자 갤럭시 핏3는 가벼운 착용감과 긴 배터리
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "125000",
+    "price": "134650",
     "url": "https://link.coupang.com/a/ezlTMR",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-07"
+    "priceValidUntil": "2026-09-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 15240,
+    "reviewCount": 15262,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 삼성전자 갤럭시 핏3는 가벼운 착용감과 긴 배터리
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 125,000원 · 별점 4.8 · 리뷰 15,240개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 134,650원 · 별점 4.8 · 리뷰 15,262개</span>
     <a href="https://link.coupang.com/a/ezlTMR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,38 +61,39 @@ description: 삼성전자 갤럭시 핏3는 가벼운 착용감과 긴 배터리
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 137 L 86 137 L 104 137 L 122 137 L 140 137 L 158 137 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 137 L 301 137 L 319 137 L 337 137 L 355 137 L 373 26 L 391 104 L 409 26 L 427 43 L 445 77 L 462 49 L 480 33 L 498 49 L 516 49 L 534 49 L 552 47 L 570 47 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 137 L 86 137 L 104 137 L 122 137 L 140 137 L 158 137 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 137 L 301 137 L 319 137 L 337 137 L 355 137 L 373 26 L 391 104 L 409 26 L 427 43 L 445 77 L 462 49 L 480 33 L 498 49 L 516 49 L 534 49 L 552 47 L 570 47 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="137" r="4" fill="#fdba74"><title>07-15 77,200원</title></circle>
-    <circle cx="158" cy="137" r="4" fill="#fdba74"><title>07-20 77,200원</title></circle>
-    <circle cx="176" cy="125" r="4" fill="#fdba74"><title>07-21 85,000원</title></circle>
-    <circle cx="265" cy="125" r="4" fill="#fdba74"><title>07-26 85,000원</title></circle>
-    <circle cx="283" cy="137" r="4" fill="#fdba74"><title>07-30 77,200원</title></circle>
-    <circle cx="355" cy="137" r="4" fill="#fdba74"><title>08-05 77,200원</title></circle>
-    <circle cx="373" cy="26" r="4" fill="#fdba74"><title>08-19 155,000원</title></circle>
-    <circle cx="391" cy="104" r="4" fill="#fdba74"><title>08-20 99,000원</title></circle>
-    <circle cx="409" cy="26" r="4" fill="#fdba74"><title>08-21 161,520원</title></circle>
-    <circle cx="427" cy="43" r="4" fill="#fdba74"><title>08-22 139,000원</title></circle>
-    <circle cx="445" cy="77" r="4" fill="#fdba74"><title>08-23 116,690원</title></circle>
-    <circle cx="462" cy="49" r="4" fill="#fdba74"><title>08-24 135,000원</title></circle>
-    <circle cx="480" cy="33" r="4" fill="#fdba74"><title>08-25 145,430원</title></circle>
-    <circle cx="498" cy="49" r="4" fill="#fdba74"><title>08-26 135,000원</title></circle>
-    <circle cx="534" cy="49" r="4" fill="#fdba74"><title>08-28 135,000원</title></circle>
-    <circle cx="552" cy="47" r="4" fill="#fdba74"><title>08-29 136,040원</title></circle>
-    <circle cx="570" cy="47" r="4" fill="#fdba74"><title>08-30 136,040원</title></circle>
-    <circle cx="588" cy="64" r="5" fill="#ea580c"><title>08-31 125,000원</title></circle>
+    <path d="M 68 137 L 86 137 L 104 137 L 122 137 L 140 137 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 137 L 283 137 L 301 137 L 319 137 L 337 137 L 355 26 L 373 104 L 391 26 L 409 43 L 427 77 L 445 49 L 462 33 L 480 49 L 498 49 L 516 49 L 534 47 L 552 47 L 570 64 L 588 49 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 137 L 86 137 L 104 137 L 122 137 L 140 137 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 137 L 283 137 L 301 137 L 319 137 L 337 137 L 355 26 L 373 104 L 391 26 L 409 43 L 427 77 L 445 49 L 462 33 L 480 49 L 498 49 L 516 49 L 534 47 L 552 47 L 570 64 L 588 49" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="137" r="4" fill="#fdba74"><title>07-16 77,200원</title></circle>
+    <circle cx="140" cy="137" r="4" fill="#fdba74"><title>07-20 77,200원</title></circle>
+    <circle cx="158" cy="125" r="4" fill="#fdba74"><title>07-21 85,000원</title></circle>
+    <circle cx="247" cy="125" r="4" fill="#fdba74"><title>07-26 85,000원</title></circle>
+    <circle cx="265" cy="137" r="4" fill="#fdba74"><title>07-30 77,200원</title></circle>
+    <circle cx="337" cy="137" r="4" fill="#fdba74"><title>08-05 77,200원</title></circle>
+    <circle cx="355" cy="26" r="4" fill="#fdba74"><title>08-19 155,000원</title></circle>
+    <circle cx="373" cy="104" r="4" fill="#fdba74"><title>08-20 99,000원</title></circle>
+    <circle cx="391" cy="26" r="4" fill="#fdba74"><title>08-21 161,520원</title></circle>
+    <circle cx="409" cy="43" r="4" fill="#fdba74"><title>08-22 139,000원</title></circle>
+    <circle cx="427" cy="77" r="4" fill="#fdba74"><title>08-23 116,690원</title></circle>
+    <circle cx="445" cy="49" r="4" fill="#fdba74"><title>08-24 135,000원</title></circle>
+    <circle cx="462" cy="33" r="4" fill="#fdba74"><title>08-25 145,430원</title></circle>
+    <circle cx="480" cy="49" r="4" fill="#fdba74"><title>08-26 135,000원</title></circle>
+    <circle cx="516" cy="49" r="4" fill="#fdba74"><title>08-28 135,000원</title></circle>
+    <circle cx="534" cy="47" r="4" fill="#fdba74"><title>08-29 136,040원</title></circle>
+    <circle cx="552" cy="47" r="4" fill="#fdba74"><title>08-30 136,040원</title></circle>
+    <circle cx="570" cy="64" r="4" fill="#fdba74"><title>08-31 125,000원</title></circle>
+    <circle cx="588" cy="49" r="5" fill="#ea580c"><title>09-01 134,650원</title></circle>
 
-    <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">125,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="588" y="37" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">134,650원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -368,7 +369,7 @@ A. 네, 갤럭시 핏3는 직관적인 사용법과 필수 기능 위주로 구�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 125,000원 · 별점 4.8 · 리뷰 15,240개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 134,650원 · 별점 4.8 · 리뷰 15,262개</span>
     <a href="https://link.coupang.com/a/ezlTMR" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
