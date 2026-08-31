@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 아몬드초코볼 애플요거트 | [보기](products/almond-chocoball-apple-yogurt.md) |
 | 꼬깔콘 애플 시나몬맛 | [보기](products/kkokkalcon-apple-cinnamon.md) |
 | 샌드에이스 크림라떼 | [보기](products/sandace-cream-latte.md) |
 | 벨지오이오조 홀밀크 리코타 | [보기](products/belgioioso-whole-milk-ricotta.md) |
