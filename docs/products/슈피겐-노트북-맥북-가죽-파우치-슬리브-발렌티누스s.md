@@ -16,7 +16,7 @@ description: 슈피겐 노트북 맥북 가죽 파우치 슬리브 발렌티누�
     "price": "36900",
     "url": "https://link.coupang.com/a/d6Skej",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-07"
+    "priceValidUntil": "2026-09-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -54,30 +54,30 @@ description: 슈피겐 노트북 맥북 가죽 파우치 슬리브 발렌티누�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 144 L 86 144 L 104 144 L 122 144 L 140 144 L 158 144 L 176 144 L 194 144 L 211 144 L 229 144 L 247 144 L 265 46 L 283 46 L 301 46 L 319 46 L 337 46 L 355 46 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 73 L 498 96 L 516 96 L 534 73 L 552 73 L 570 73 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 144 L 86 144 L 104 144 L 122 144 L 140 144 L 158 144 L 176 144 L 194 144 L 211 144 L 229 144 L 247 144 L 265 46 L 283 46 L 301 46 L 319 46 L 337 46 L 355 46 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 73 L 498 96 L 516 96 L 534 73 L 552 73 L 570 73 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="144" r="4" fill="#fdba74"><title>07-16 32,220원</title></circle>
-    <circle cx="247" cy="144" r="4" fill="#fdba74"><title>07-26 32,220원</title></circle>
-    <circle cx="265" cy="46" r="4" fill="#fdba74"><title>07-29 38,700원</title></circle>
-    <circle cx="355" cy="46" r="4" fill="#fdba74"><title>08-04 38,700원</title></circle>
-    <circle cx="373" cy="73" r="4" fill="#fdba74"><title>08-19 36,900원</title></circle>
-    <circle cx="480" cy="73" r="4" fill="#fdba74"><title>08-25 36,900원</title></circle>
-    <circle cx="498" cy="96" r="4" fill="#fdba74"><title>08-26 35,424원</title></circle>
-    <circle cx="516" cy="96" r="4" fill="#fdba74"><title>08-27 35,420원</title></circle>
-    <circle cx="534" cy="73" r="4" fill="#fdba74"><title>08-28 36,900원</title></circle>
-    <circle cx="588" cy="73" r="5" fill="#ea580c"><title>08-31 36,900원</title></circle>
+    <path d="M 68 144 L 86 144 L 104 144 L 122 144 L 140 144 L 158 144 L 176 144 L 194 144 L 211 144 L 229 144 L 247 46 L 265 46 L 283 46 L 301 46 L 319 46 L 337 46 L 355 73 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 96 L 498 96 L 516 73 L 534 73 L 552 73 L 570 73 L 588 73 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 144 L 86 144 L 104 144 L 122 144 L 140 144 L 158 144 L 176 144 L 194 144 L 211 144 L 229 144 L 247 46 L 265 46 L 283 46 L 301 46 L 319 46 L 337 46 L 355 73 L 373 73 L 391 73 L 409 73 L 427 73 L 445 73 L 462 73 L 480 96 L 498 96 L 516 73 L 534 73 L 552 73 L 570 73 L 588 73" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="144" r="4" fill="#fdba74"><title>07-17 32,220원</title></circle>
+    <circle cx="229" cy="144" r="4" fill="#fdba74"><title>07-26 32,220원</title></circle>
+    <circle cx="247" cy="46" r="4" fill="#fdba74"><title>07-29 38,700원</title></circle>
+    <circle cx="337" cy="46" r="4" fill="#fdba74"><title>08-04 38,700원</title></circle>
+    <circle cx="355" cy="73" r="4" fill="#fdba74"><title>08-19 36,900원</title></circle>
+    <circle cx="462" cy="73" r="4" fill="#fdba74"><title>08-25 36,900원</title></circle>
+    <circle cx="480" cy="96" r="4" fill="#fdba74"><title>08-26 35,424원</title></circle>
+    <circle cx="498" cy="96" r="4" fill="#fdba74"><title>08-27 35,420원</title></circle>
+    <circle cx="516" cy="73" r="4" fill="#fdba74"><title>08-28 36,900원</title></circle>
+    <circle cx="588" cy="73" r="5" fill="#ea580c"><title>09-01 36,900원</title></circle>
 
     <text x="588" y="61" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
