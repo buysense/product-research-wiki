@@ -9,8 +9,7 @@ description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "뉴발란스 스트링 백팩",
-  "description": "뉴발란스 스트링 백팩은 중고등학생의 등하교 및 학원 가방, 일상용으로 적합한 실용적인 수납력과 견고한 디자인의 가방입니다.",
+  "name": "newbalance-string-backpack",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/18/16/3/64a549bd-cda1-40ee-b43b-ae0326b97497.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/qd5we8im/8b144420a37f4b28af53a536f22a8258.jpg"
@@ -21,12 +20,12 @@ description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 �
     "price": "95200",
     "url": "https://link.coupang.com/a/eyNW4T",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 363,
+    "reviewCount": 365,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +42,7 @@ description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 95,200원 · 별점 4.8 · 리뷰 363개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 95,200원 · 별점 4.8 · 리뷰 365개</span>
     <a href="https://link.coupang.com/a/eyNW4T" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,25 +60,25 @@ description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">95,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
 
-    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 99 L 176 99 L 194 99 L 211 99 L 229 99 L 247 99 L 265 99 L 283 99 L 301 99 L 319 99 L 337 171 L 355 99 L 373 99 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 99 L 176 99 L 194 99 L 211 99 L 229 99 L 247 99 L 265 99 L 283 99 L 301 99 L 319 99 L 337 171 L 355 99 L 373 99 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="99" r="4" fill="#fdba74"><title>07-16 95,200원</title></circle>
-    <circle cx="319" cy="99" r="4" fill="#fdba74"><title>08-03 95,200원</title></circle>
-    <circle cx="337" cy="171" r="4" fill="#fdba74"><title>08-04 90,440원</title></circle>
-    <circle cx="355" cy="99" r="4" fill="#fdba74"><title>08-19 95,200원</title></circle>
-    <circle cx="588" cy="99" r="5" fill="#ea580c"><title>09-01 95,200원</title></circle>
+    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 99 L 176 99 L 194 99 L 211 99 L 229 99 L 247 99 L 265 99 L 283 99 L 301 99 L 319 171 L 337 99 L 355 99 L 373 99 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 99 L 176 99 L 194 99 L 211 99 L 229 99 L 247 99 L 265 99 L 283 99 L 301 99 L 319 171 L 337 99 L 355 99 L 373 99 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="99" r="4" fill="#fdba74"><title>07-17 95,200원</title></circle>
+    <circle cx="301" cy="99" r="4" fill="#fdba74"><title>08-03 95,200원</title></circle>
+    <circle cx="319" cy="171" r="4" fill="#fdba74"><title>08-04 90,440원</title></circle>
+    <circle cx="337" cy="99" r="4" fill="#fdba74"><title>08-19 95,200원</title></circle>
+    <circle cx="588" cy="99" r="5" fill="#ea580c"><title>09-02 95,200원</title></circle>
 
     <text x="588" y="87" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">95,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -353,7 +352,7 @@ A. 네, 뉴발란스 코리아 정식 제품이므로 전국 뉴발란스 오프
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 95,200원 · 별점 4.8 · 리뷰 363개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 95,200원 · 별점 4.8 · 리뷰 365개</span>
     <a href="https://link.coupang.com/a/eyNW4T" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
