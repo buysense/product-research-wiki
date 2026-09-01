@@ -11,17 +11,12 @@ description: 룸모 콘낄리에 리가테는 소스를 잘 머금는 조개 모
   "@type": "Product",
   "name": "룸모 콘낄리에 리가테",
   "description": "룸모 콘낄리에 리가테는 소스를 잘 머금는 조개 모양의 프리미엄 파스타로, 가정에서 다양한 파스타 요리를 즐기기에 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c28d/c7fdbf5b2b5abf0355cb662f3f7004a59325204efaf111b05aea537a8cc8.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1005220074004572-f9610447-7395-4b2e-b7ad-275efb5221b4.png"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "5130",
-    "url": "https://link.coupang.com/a/goOHN9cSYu",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

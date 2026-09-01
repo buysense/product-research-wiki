@@ -11,16 +11,12 @@ description: 론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 �
   "@type": "Product",
   "name": "론론 DOUBLE BUTTON PUFF SLEEVE JACKET WHITE",
   "description": "론론 더블 버튼 퍼프 슬리브 재킷 화이트는 격식 있는 자리, 오피스룩, 데이트룩 등 우아함과 세련됨을 더해주는 재킷입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cbec/d78efd32a1f9a280c3753026cd9fef87d779843195c8305209b78c8fcd99.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "103600",
-    "url": "https://link.coupang.com/a/fkrBMLO4s0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   }
 }
 </script>

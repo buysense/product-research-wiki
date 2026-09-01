@@ -11,16 +11,12 @@ description: 분더캄머 백 브러쉬드 투웨이 자켓은 따뜻한 기모 
   "@type": "Product",
   "name": "분더캄머 백 브러쉬드 투웨이 자켓 여성 기모 재킷 점퍼 아우터",
   "description": "분더캄머 백 브러쉬드 투웨이 자켓은 따뜻한 기모 안감과 활용도 높은 투웨이 디자인이 특징인 여성 아우터로, 간절기 및 초겨울 데일리룩에 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d55/0413fc030791cfd9367c1a2d0be165ccb4c3ebc62ec06b87b95c897b77f7.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "415600",
-    "url": "https://link.coupang.com/a/gAnkIN8qwC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   }
 }
 </script>

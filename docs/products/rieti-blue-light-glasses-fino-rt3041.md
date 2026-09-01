@@ -11,22 +11,17 @@ description: 리에티 블루라이트차단 안경 FINO RT 3041은 디지털 �
   "@type": "Product",
   "name": "리에티 블루라이트차단 안경 FINO RT 3041",
   "description": "리에티 블루라이트차단 안경 FINO RT 3041은 디지털 기기 사용으로 인한 눈의 피로를 줄여주는 안경으로, 장시간 모니터, 스마트폰을 사용하는 환경에서 눈 보호를 고려하는 사용자에게 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381690528433259-ed10c458-00e3-407d-918a-a66741c17152.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/383866783248194-be681cf3-e8ea-4042-9dfc-1ade6dedc9ef.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "53720",
-    "url": "https://link.coupang.com/a/fqcJ1ZGc0q",
+    "price": "56780",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.3,
-    "reviewCount": 12,
+    "ratingValue": 4.4,
+    "reviewCount": 13,
     "bestRating": 5,
     "worstRating": 1
   }
