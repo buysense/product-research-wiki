@@ -9,7 +9,7 @@ description: 미원은 1956년 출시된 국산 1호 조미료로, 사탕수수 
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "miwon-umami-seasoning",
+  "name": "미원",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83079826965603-1feacb43-f88e-47c2-9ce2-1208fb9b11be.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1888673514527620-93418c91-0956-4ed0-919a-c028d30592e9.png"

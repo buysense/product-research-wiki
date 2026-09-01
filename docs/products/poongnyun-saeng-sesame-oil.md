@@ -9,7 +9,7 @@ description: 풍년기름집 생참기름은 1986년부터 이어온 백년가�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "poongnyun-saeng-sesame-oil",
+  "name": "풍년기름집 생참기름",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",

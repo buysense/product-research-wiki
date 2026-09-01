@@ -9,7 +9,7 @@ description: 풀무원 1+등급 무항생제 목초란은 신선하고 비린내
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "pulmuone-1-grade-antibiotic-free-pasture-eggs",
+  "name": "풀무원 1+등급 무항생제 목초란",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34395385550626-615f1595-b179-43e2-9054-ede9119b500c.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/01/09/13/5/c0c8ffad-a9a2-4d6a-9c73-3cf5e6fd1e09.jpg"

@@ -9,7 +9,7 @@ description: 촉촉한 황치즈칩은 진한 황치즈 풍미와 부드럽고 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "orion-hwang-cheese-chip",
+  "name": "촉촉한 황치즈칩",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8976/8f6871f61d78c919c00898d996001a29b3f703263744c8c76f00f389b4b6.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0627/2a46bc4d8b90253c5a5b6a6bbb047fea7c408336c9fdf300b120863994c5.png"

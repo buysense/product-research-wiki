@@ -9,7 +9,7 @@ description: 마이노멀 밀가루 없는 제로칩 어니언맛은 다이어�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "mynormal-no-flour-zero-chip-onion",
+  "name": "마이노멀 밀가루 없는 제로칩 어니언맛",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c55b/dba97f3ed29aee7618911bb36ac70f7efefd788447ced1362ef52331d4c1.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e76e/14748cbeb380addaf1b35b894fe58be85f2dbf6438a08c4ca10d9a57ec8a.jpg"

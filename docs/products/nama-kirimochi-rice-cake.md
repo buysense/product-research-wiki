@@ -9,7 +9,7 @@ description: 나마 키리모찌는 쫄깃하고 부드러운 식감이 특징�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "nama-kirimochi-rice-cake",
+  "name": "나마 키리모찌",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2844381687039755-0c9d1ab0-46c6-4cb5-bdf1-b40311762511.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2844399073491978-269f650f-32bd-4155-a2bf-786d410f22b4.jpg"

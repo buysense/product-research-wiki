@@ -9,7 +9,7 @@ description: 아이워너 안전망 트램폴린 플러스는 활동량 많은 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "iwannasafe-trampoline-plus",
+  "name": "아이워너 안전망 트램폴린 플러스",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",

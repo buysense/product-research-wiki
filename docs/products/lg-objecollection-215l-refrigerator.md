@@ -9,7 +9,7 @@ description: LG전자 오브제컬렉션 215L 냉장고는 1~2인 가구, 자취
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "lg-objecollection-215l-refrigerator",
+  "name": "LG전자 오브제컬렉션 215L 냉장고",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/18/17/5/79a5f06c-9ae9-48aa-af13-9d86b7db021c.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/cfwaghw3/a33ab8fa2eb249c4ae7ffa198d295e17.jpg"

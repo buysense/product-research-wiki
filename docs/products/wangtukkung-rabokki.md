@@ -9,7 +9,7 @@ description: 왕뚜껑 라볶이는 매콤달콤한 라볶이 맛을 컵라면�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "wangtukkung-rabokki",
+  "name": "왕뚜껑 라볶이",
   "description": "왕뚜껑 라볶이는 매콤달콤한 라볶이 맛을 컵라면으로 간편하게 즐길 수 있는 제품으로, 바쁜 일상 속 간편한 식사나 야식으로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/774a/323f27655d720e05dba8a66dd2b053552a0ccd41a6bdfeebdc52ec5a552c.jpg",

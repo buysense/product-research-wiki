@@ -9,7 +9,7 @@ description: 정호영 셰프의 다카마쓰 우동 컵라면은 집에서 간�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "junghoyoung-takamatsu-udon-cup",
+  "name": "정호영 다카마쓰 우동 컵라면",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d20e/fb028ed8db9bd53d0e328e9ebb745dd844eaa2e7f7fe9b7aa11438e820a6.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e3b9/942b2c918b5044e7014c66f1998c4702815a3c4c3ff92e7f5227dbc91d83.jpg"

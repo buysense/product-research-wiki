@@ -9,7 +9,7 @@ description: 쫀득하고 맛있고 탱탱한 동물복지 구운란은 난각�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "jjonmattang-animal-welfare-roasted-egg-number2",
+  "name": "쫀득하고 맛있고 탱탱한 동물복지 구운란 (난각번호 2번)",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",

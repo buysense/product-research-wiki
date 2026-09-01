@@ -9,7 +9,7 @@ description: SHUSHUTONG 플라워 니트 가디건은 화사한 플라워 패턴
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "shushutong-flower-knit-cardigan",
+  "name": "SHUSHUTONG 플라워 니트 가디건",
   "description": "SHUSHUTONG 플라워 니트 가디건은 화사한 플라워 패턴과 부드러운 니트 소재가 특징으로, 간절기 데일리룩이나 특별한 외출 시 포인트를 더해주는 아이템입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/23ab/9dd08406465ce584726a0aadb60426ebf062b7e5a2992380540fcdec7350.jpg",
