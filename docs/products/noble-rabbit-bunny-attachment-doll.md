@@ -21,7 +21,7 @@ description: 노블레빗 토끼 애착 인형은 부드러운 촉감과 귀여�
     "price": "15330",
     "url": "https://link.coupang.com/a/eqP0XT9RXU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -57,28 +57,28 @@ description: 노블레빗 토끼 애착 인형은 부드러운 촉감과 귀여�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,500</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,400</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,300</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">15,400</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">15,300</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,200</text>
 
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 155 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 155 L 534 155 L 552 155 L 570 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 155 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 155 L 534 155 L 552 155 L 570 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="125" r="4" fill="#fdba74"><title>07-16 15,370원</title></circle>
-    <circle cx="319" cy="125" r="4" fill="#fdba74"><title>08-03 15,370원</title></circle>
-    <circle cx="337" cy="155" r="4" fill="#fdba74"><title>08-04 15,330원</title></circle>
-    <circle cx="588" cy="155" r="5" fill="#ea580c"><title>09-01 15,330원</title></circle>
+    <path d="M 68 49 L 86 49 L 104 49 L 122 49 L 140 49 L 158 49 L 176 49 L 194 49 L 211 49 L 229 49 L 247 49 L 265 49 L 283 49 L 301 49 L 319 79 L 337 79 L 355 79 L 373 79 L 391 79 L 409 79 L 427 79 L 445 79 L 462 79 L 480 79 L 498 79 L 516 79 L 534 79 L 552 79 L 570 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 49 L 86 49 L 104 49 L 122 49 L 140 49 L 158 49 L 176 49 L 194 49 L 211 49 L 229 49 L 247 49 L 265 49 L 283 49 L 301 49 L 319 79 L 337 79 L 355 79 L 373 79 L 391 79 L 409 79 L 427 79 L 445 79 L 462 79 L 480 79 L 498 79 L 516 79 L 534 79 L 552 79 L 570 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="49" r="4" fill="#fdba74"><title>07-17 15,370원</title></circle>
+    <circle cx="301" cy="49" r="4" fill="#fdba74"><title>08-03 15,370원</title></circle>
+    <circle cx="319" cy="79" r="4" fill="#fdba74"><title>08-04 15,330원</title></circle>
+    <circle cx="588" cy="79" r="5" fill="#ea580c"><title>09-02 15,330원</title></circle>
 
-    <text x="588" y="143" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,330원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,330원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
