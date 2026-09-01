@@ -9,20 +9,19 @@ description: 쫀득하고 맛있고 탱탱한 동물복지 구운란은 난각�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "쫀득하고 맛있고 탱탱한 동물복지 구운란 (난각번호 2번)",
+  "name": "jjonmattang-animal-welfare-roasted-egg-number2",
   "description": "쫀득하고 맛있고 탱탱한 동물복지 구운란은 난각번호 2번 계란으로 만든 고단백 간식입니다. 아침 대용, 아이 간식, 다이어트 식단에 적합합니다.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "15560",
-    "url": "https://link.coupang.com/a/eg8TKP",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 4559,
+    "reviewCount": 4561,
     "bestRating": 5,
     "worstRating": 1
   }

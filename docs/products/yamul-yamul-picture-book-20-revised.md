@@ -11,22 +11,17 @@ description: 야물야물 그림책 전 20권 최신 개정판은 영유아기 �
   "@type": "Product",
   "name": "야물야물 그림책 전 20권 최신 개정판",
   "description": "야물야물 그림책 전 20권 최신 개정판은 영유아기 아이들의 언어 및 인지 발달을 돕는 종합 그림책 세트로, 가정 내 독서 습관 형성 및 학습 지원에 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5a4b/b3ee1093ab6bde3efba856c2053abf4880ad24924ecc55806c62607b767e.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/317851455134340-5df47cf2-4a06-4ba5-8cf6-6dddeac15a94.png"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "99000",
-    "url": "https://link.coupang.com/a/dTZZDq7Uku",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 304,
+    "reviewCount": 305,
     "bestRating": 5,
     "worstRating": 1
   }

@@ -11,17 +11,12 @@ description: 몰리멜리 차차 플리츠 시원 플리츠는 활동성과 시�
   "@type": "Product",
   "name": "몰리멜리 차차 플리츠 시원 플리츠",
   "description": "몰리멜리 차차 플리츠 시원 플리츠는 활동성과 시원함을 겸비한 하의로, 봄부터 가을까지 데일리룩이나 편안한 외출복으로 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269177593424284-f7b4961d-146b-4e77-8889-17b61c57ad7b.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/326865790142702-9223effe-c905-4c45-81f4-3da5de5b2cce.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "22370",
-    "url": "https://link.coupang.com/a/dFgleYxOF2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

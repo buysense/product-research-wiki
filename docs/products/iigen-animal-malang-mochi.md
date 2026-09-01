@@ -11,22 +11,17 @@ description: iiGEN 애니멀 말랑 모찌는 부드러운 촉감과 귀여운 �
   "@type": "Product",
   "name": "iiGEN 애니멀 말랑 모찌, 랜덤 발송, 5개",
   "description": "iiGEN 애니멀 말랑 모찌는 부드러운 촉감과 귀여운 디자인으로 아이들 장난감이나 가벼운 스트레스 해소용으로 적합하며, 랜덤 발송 5개 구성으로 수집의 재미를 더합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/07/04/15/3/417484d7-e3d4-4e96-ae13-3a2970a6d890.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/295056452729783-114c2aba-e1e5-4779-967d-a9a74526506e.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "4000",
-    "url": "https://link.coupang.com/a/dLDR2akj8K",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 1045,
+    "reviewCount": 1046,
     "bestRating": 5,
     "worstRating": 1
   }

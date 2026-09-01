@@ -11,22 +11,17 @@ description: 엄브로 댄커X는 일상적인 활동이나 가벼운 운동 시
   "@type": "Product",
   "name": "엄브로 댄커X",
   "description": "엄브로 댄커X는 일상적인 활동이나 가벼운 운동 시 착용하기 좋은 스니커즈로, 디자인과 편안함을 중시하는 소비자에게 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7e94/3f79b6f8e302ea318b4ecd5068480dd8855df5c896486c3a01e76185fbca.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1a43/893a330d2e67c8232bd906525a550a1d765b24a7649c479f7ea10c9ac9dd.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "157940",
-    "url": "https://link.coupang.com/a/evrbdC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 5,
-    "reviewCount": 27,
+    "reviewCount": 28,
     "bestRating": 5,
     "worstRating": 1
   }

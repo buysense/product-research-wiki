@@ -9,19 +9,14 @@ description: 네이쳐러브메레 유아용 ABC 비행기 흡착식판은 아�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "네이쳐러브메레 유아용 ABC 비행기 흡착식판",
+  "name": "naturelovemere-abc-airplane-suction-plate",
   "description": "네이쳐러브메레 유아용 ABC 비행기 흡착식판은 아기가 스스로 식사하는 습관을 기를 수 있도록 돕는 흡착식 식판입니다. 견고한 디자인과 안정적인 흡착력으로 국물 있는 음식도 안심하고 담을 수 있어, 초기 유아 자기 주도 식사에 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/leetk3ie/01b62f8f74e645e585e5eddacfa23dfd.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/07/11/11/6/239309af-c3cb-431e-ad44-6e6ae49f6540.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "19900",
-    "url": "https://link.coupang.com/a/ewTbil",
+    "price": "18900",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
