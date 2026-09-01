@@ -11,17 +11,12 @@ description: 토도리브로 원목교구 한글 판퍼즐은 유아의 한글 �
   "@type": "Product",
   "name": "토도리브로 원목교구 한글 판퍼즐",
   "description": "토도리브로 원목교구 한글 판퍼즐은 유아의 한글 인지 및 소근육 발달을 돕는 원목 교구입니다. 안전한 라운드 마감과 감성적인 디자인으로 가정에서 아이와 함께 즐기기 좋습니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2016/12/01/3000698886/b7350b74-548c-4a96-a2bb-7e99327d80e8.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2017/11/21/3000698886/8dc35adc-5a41-44b8-be68-ace6f6d9645f.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "11680",
-    "url": "https://link.coupang.com/a/eyLh8O",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

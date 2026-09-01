@@ -11,17 +11,12 @@ description: 써지컬 스틸 미아방지 목걸이 캐릭터 팬던트는 자�
   "@type": "Product",
   "name": "써지컬 스틸 미아방지 목걸이 캐릭터 팬던트",
   "description": "써지컬 스틸 미아방지 목걸이 캐릭터 팬던트는 자녀의 미아 방지를 위해 귀여운 캐릭터 디자인으로 아이들이 거부감 없이 착용할 수 있도록 돕는 제품입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0ed3/6f06bb83b6f86f909cb31ee4fc4c0b62ce85141eca62b65e788302ad170e.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2a5f/a95822adb7583191ae641bf8e86013c9490405a34e741596601a9994b156.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "14100",
-    "url": "https://link.coupang.com/a/dLMlQpxOJU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

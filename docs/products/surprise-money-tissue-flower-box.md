@@ -11,17 +11,12 @@ description: 서프라이즈 용돈 박스 돈티슈 플라워는 아름다운 �
   "@type": "Product",
   "name": "서프라이즈 용돈 박스 돈티슈 플라워",
   "description": "서프라이즈 용돈 박스 돈티슈 플라워는 아름다운 꽃 장식과 용돈 인출 기능을 결합하여 환갑, 생일, 기념일 등 특별한 날 부모님이나 소중한 이에게 감동적인 현금 선물을 전달하기에 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3b61/2487562d06a9b634d662aa8aa8d234dbfa49ddca8c5615426d883a2c2a8b.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d693/243229a24b2c3b36f751fecbea2c24284f3f81df7e4e68ab1994d5b9fc9f.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "28800",
-    "url": "https://link.coupang.com/a/eyDPJb",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
