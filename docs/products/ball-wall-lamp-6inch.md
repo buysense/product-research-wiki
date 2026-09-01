@@ -10,7 +10,6 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "공 벽등 6인치",
-  "description": "베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조명을 제공하는 공 벽등 6인치 구매 가이드. 방수 기능으로 물 사용 공간에서도 안심하고 사용할 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d959/9ae6b6be49432b7f7e2b2eed72f78d2c9655bcac0e2c1c56541864d4b8ae.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9f99/fffc5e76a56b0473f9ad31eeff89c1003f790576fbd6c1769324c33f6555.jpg"
@@ -21,7 +20,7 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
     "price": "12370",
     "url": "https://link.coupang.com/a/exEeiV",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,26 +60,26 @@ description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
 
-    <path d="M 68 126 L 86 126 L 104 126 L 122 126 L 140 126 L 158 126 L 176 126 L 194 126 L 211 126 L 229 126 L 247 126 L 265 126 L 283 126 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 126 L 86 126 L 104 126 L 122 126 L 140 126 L 158 126 L 176 126 L 194 126 L 211 126 L 229 126 L 247 126 L 265 126 L 283 126 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="126" r="4" fill="#fdba74"><title>07-19 9,380원</title></circle>
-    <circle cx="283" cy="126" r="4" fill="#fdba74"><title>08-02 9,380원</title></circle>
-    <circle cx="301" cy="26" r="4" fill="#fdba74"><title>08-03 12,440원</title></circle>
-    <circle cx="337" cy="26" r="4" fill="#fdba74"><title>08-05 12,440원</title></circle>
-    <circle cx="355" cy="26" r="4" fill="#fdba74"><title>08-19 12,370원</title></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-01 12,370원</title></circle>
+    <path d="M 68 126 L 86 126 L 104 126 L 122 126 L 140 126 L 158 126 L 176 126 L 194 126 L 211 126 L 229 126 L 247 126 L 265 126 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 126 L 86 126 L 104 126 L 122 126 L 140 126 L 158 126 L 176 126 L 194 126 L 211 126 L 229 126 L 247 126 L 265 126 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="126" r="4" fill="#fdba74"><title>07-20 9,380원</title></circle>
+    <circle cx="265" cy="126" r="4" fill="#fdba74"><title>08-02 9,380원</title></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"><title>08-03 12,440원</title></circle>
+    <circle cx="319" cy="26" r="4" fill="#fdba74"><title>08-05 12,440원</title></circle>
+    <circle cx="337" cy="26" r="4" fill="#fdba74"><title>08-19 12,370원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-02 12,370원</title></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,370원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
