@@ -10,7 +10,6 @@ description: 차오차이 마라샹궈 소스는 집에서 간편하게 전문�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "차오차이 마라샹궈 소스",
-  "description": "차오차이 마라샹궈 소스는 집에서 간편하게 전문점 수준의 마라샹궈를 만들고자 할 때 유용한 제품입니다. 다양한 재료와 함께 매콤한 맛을 즐길 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/230427076861253-200430cd-810d-4e97-8eb1-19a2d9887c9b.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/230413887885277-dc8c0c10-0fff-496e-ab00-48a025f570fc.jpg"
@@ -21,12 +20,12 @@ description: 차오차이 마라샹궈 소스는 집에서 간편하게 전문�
     "price": "5220",
     "url": "https://link.coupang.com/a/gGZ3U7ERTU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 2646,
+    "reviewCount": 2647,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +43,7 @@ description: 차오차이 마라샹궈 소스는 집에서 간편하게 전문�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,220원 · 별점 4.7 · 리뷰 2,646개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,220원 · 별점 4.7 · 리뷰 2,647개</span>
     <a href="https://link.coupang.com/a/gGZ3U7ERTU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -143,7 +142,7 @@ A. 마라샹궈의 주재료인 다양한 육류(소고기, 돼지고기 등), �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,220원 · 별점 4.7 · 리뷰 2,646개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,220원 · 별점 4.7 · 리뷰 2,647개</span>
     <a href="https://link.coupang.com/a/gGZ3U7ERTU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
