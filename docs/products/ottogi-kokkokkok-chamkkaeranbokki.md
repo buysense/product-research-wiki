@@ -10,11 +10,14 @@ description: 오뚜기 콕콕콕 참깨란볶이는 고소한 참깨와 계란 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "오뚜기 콕콕콕 참깨란볶이",
-  "description": "오뚜기 콕콕콕 참깨란볶이는 고소한 참깨와 계란 풍미가 특징인 컵라면으로, 간편한 한 끼 식사나 야식으로 적합합니다.",
+  "image": [
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1975/f99c6d75e17ccf4e27b4ef30f184b3a5daf4a35bfe29b000ceeb829e1fff.jpg"
+  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "21130",
+    "url": "https://link.coupang.com/a/gtGfrxVm0G",
     "availability": "https://schema.org/InStock",
     "priceValidUntil": "2026-09-09"
   },
@@ -48,7 +51,7 @@ description: 오뚜기 콕콕콕 참깨란볶이는 고소한 참깨와 계란 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -57,26 +60,28 @@ description: 오뚜기 콕콕콕 참깨란볶이는 고소한 참깨와 계란 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,000</text>
 
-    <path d="M 68 34 L 133 34 L 198 73 L 263 78 L 328 78 L 393 78 L 458 78 L 523 79 L 588 168 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 133 34 L 198 73 L 263 78 L 328 78 L 393 78 L 458 78 L 523 79 L 588 168" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 126 34 L 184 73 L 241 78 L 299 78 L 357 78 L 415 78 L 472 79 L 530 168 L 588 168 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 126 34 L 184 73 L 241 78 L 299 78 L 357 78 L 415 78 L 472 79 L 530 168 L 588 168" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"><title>08-24 22,900원</title></circle>
-    <circle cx="133" cy="34" r="4" fill="#fdba74"><title>08-25 22,900원</title></circle>
-    <circle cx="198" cy="73" r="4" fill="#fdba74"><title>08-26 22,380원</title></circle>
-    <circle cx="263" cy="78" r="4" fill="#fdba74"><title>08-27 22,310원</title></circle>
-    <circle cx="458" cy="78" r="4" fill="#fdba74"><title>08-30 22,310원</title></circle>
-    <circle cx="523" cy="79" r="4" fill="#fdba74"><title>08-31 22,300원</title></circle>
-    <circle cx="588" cy="168" r="5" fill="#ea580c"><title>09-01 21,130원</title></circle>
+    <circle cx="126" cy="34" r="4" fill="#fdba74"><title>08-25 22,900원</title></circle>
+    <circle cx="184" cy="73" r="4" fill="#fdba74"><title>08-26 22,380원</title></circle>
+    <circle cx="241" cy="78" r="4" fill="#fdba74"><title>08-27 22,310원</title></circle>
+    <circle cx="415" cy="78" r="4" fill="#fdba74"><title>08-30 22,310원</title></circle>
+    <circle cx="472" cy="79" r="4" fill="#fdba74"><title>08-31 22,300원</title></circle>
+    <circle cx="530" cy="168" r="4" fill="#fdba74"><title>09-01 21,130원</title></circle>
+    <circle cx="588" cy="168" r="5" fill="#ea580c"><title>09-02 21,130원</title></circle>
 
     <text x="588" y="156" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,130원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

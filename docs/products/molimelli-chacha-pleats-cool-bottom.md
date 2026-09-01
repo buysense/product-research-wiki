@@ -10,11 +10,15 @@ description: 몰리멜리 차차 플리츠 시원 플리츠는 활동성과 시�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "몰리멜리 차차 플리츠 시원 플리츠",
-  "description": "몰리멜리 차차 플리츠 시원 플리츠는 활동성과 시원함을 겸비한 하의로, 봄부터 가을까지 데일리룩이나 편안한 외출복으로 적합합니다.",
+  "image": [
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269177593424284-f7b4961d-146b-4e77-8889-17b61c57ad7b.jpg",
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/326865790142702-9223effe-c905-4c45-81f4-3da5de5b2cce.jpg"
+  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "22370",
+    "url": "https://link.coupang.com/a/dFgleYxOF2",
     "availability": "https://schema.org/InStock",
     "priceValidUntil": "2026-09-09"
   },
@@ -58,20 +62,20 @@ description: 몰리멜리 차차 플리츠 시원 플리츠는 활동성과 시�
 
     <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="125" r="4" fill="#fdba74"><title>07-16 22,370원</title></circle>
-    <circle cx="588" cy="125" r="5" fill="#ea580c"><title>09-01 22,370원</title></circle>
+    <circle cx="68" cy="125" r="4" fill="#fdba74"><title>07-17 22,370원</title></circle>
+    <circle cx="588" cy="125" r="5" fill="#ea580c"><title>09-02 22,370원</title></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,370원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

@@ -10,10 +10,15 @@ description: 바나나 필링필링젤은 집에서 간편하게 각질을 관�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "바나나 필링필링젤",
+  "image": [
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/4ab215b2b61c2a956495d98caa30a63ff86edccfdcea5f2b2974deda8b5e_1770860819664.png",
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bc24/f24eab78dc5117b608aaba21fe2eb9c7da82c832c6623a0d10c43c1e1d5c.png"
+  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "49600",
+    "url": "https://link.coupang.com/a/eokIV270eq",
     "availability": "https://schema.org/InStock",
     "priceValidUntil": "2026-09-09"
   },
