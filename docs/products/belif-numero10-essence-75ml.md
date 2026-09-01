@@ -10,7 +10,6 @@ description: 빌리프 뉴메로 10 에센스 (75ml)는 세안 직후 증발하�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "빌리프 뉴메로 10 에센스 (75ml)",
-  "description": "빌리프 뉴메로 10 에센스 (75ml)는 세안 직후 증발하는 수분을 빠르게 잡아주는 퍼스트 에센스로, 건조함이 느껴지는 모든 피부 타입에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/01/13/12/8/a01c429e-b0f0-4fef-81ec-adb2f92b0030.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/546038891561940-221b8749-c783-44c2-9028-fb738d7ca583.jpg"
@@ -21,12 +20,12 @@ description: 빌리프 뉴메로 10 에센스 (75ml)는 세안 직후 증발하�
     "price": "30160",
     "url": "https://link.coupang.com/a/eQyKfBupEq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1520,
+    "reviewCount": 1523,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +42,7 @@ description: 빌리프 뉴메로 10 에센스 (75ml)는 세안 직후 증발하�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 30,160원 · 별점 4.8 · 리뷰 1,520개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 30,160원 · 별점 4.8 · 리뷰 1,523개</span>
     <a href="https://link.coupang.com/a/eQyKfBupEq" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,32 +60,32 @@ description: 빌리프 뉴메로 10 에센스 (75ml)는 세안 직후 증발하�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
 
-    <path d="M 68 75 L 86 75 L 104 121 L 122 58 L 140 58 L 158 58 L 176 58 L 194 58 L 211 58 L 229 58 L 247 58 L 265 58 L 283 58 L 301 58 L 319 144 L 337 55 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 45 L 480 45 L 498 45 L 516 45 L 534 45 L 552 45 L 570 45 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 75 L 86 75 L 104 121 L 122 58 L 140 58 L 158 58 L 176 58 L 194 58 L 211 58 L 229 58 L 247 58 L 265 58 L 283 58 L 301 58 L 319 144 L 337 55 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 45 L 480 45 L 498 45 L 516 45 L 534 45 L 552 45 L 570 45 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="75" r="4" fill="#fdba74"><title>07-19 28,700원</title></circle>
-    <circle cx="86" cy="75" r="4" fill="#fdba74"><title>07-20 28,700원</title></circle>
-    <circle cx="104" cy="121" r="4" fill="#fdba74"><title>07-21 27,490원</title></circle>
-    <circle cx="122" cy="58" r="4" fill="#fdba74"><title>07-22 29,170원</title></circle>
-    <circle cx="301" cy="58" r="4" fill="#fdba74"><title>08-03 29,170원</title></circle>
-    <circle cx="319" cy="144" r="4" fill="#fdba74"><title>08-04 26,900원</title></circle>
-    <circle cx="337" cy="55" r="4" fill="#fdba74"><title>08-05 29,250원</title></circle>
-    <circle cx="355" cy="26" r="4" fill="#fdba74"><title>08-19 30,490원</title></circle>
-    <circle cx="445" cy="26" r="4" fill="#fdba74"><title>08-24 30,490원</title></circle>
-    <circle cx="462" cy="45" r="4" fill="#fdba74"><title>08-25 29,500원</title></circle>
-    <circle cx="570" cy="45" r="4" fill="#fdba74"><title>08-31 29,500원</title></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-01 30,160원</title></circle>
+    <path d="M 68 75 L 86 121 L 104 58 L 122 58 L 140 58 L 158 58 L 176 58 L 194 58 L 211 58 L 229 58 L 247 58 L 265 58 L 283 58 L 301 144 L 319 55 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 45 L 462 45 L 480 45 L 498 45 L 516 45 L 534 45 L 552 45 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 75 L 86 121 L 104 58 L 122 58 L 140 58 L 158 58 L 176 58 L 194 58 L 211 58 L 229 58 L 247 58 L 265 58 L 283 58 L 301 144 L 319 55 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 45 L 462 45 L 480 45 L 498 45 L 516 45 L 534 45 L 552 45 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="75" r="4" fill="#fdba74"><title>07-20 28,700원</title></circle>
+    <circle cx="86" cy="121" r="4" fill="#fdba74"><title>07-21 27,490원</title></circle>
+    <circle cx="104" cy="58" r="4" fill="#fdba74"><title>07-22 29,170원</title></circle>
+    <circle cx="283" cy="58" r="4" fill="#fdba74"><title>08-03 29,170원</title></circle>
+    <circle cx="301" cy="144" r="4" fill="#fdba74"><title>08-04 26,900원</title></circle>
+    <circle cx="319" cy="55" r="4" fill="#fdba74"><title>08-05 29,250원</title></circle>
+    <circle cx="337" cy="26" r="4" fill="#fdba74"><title>08-19 30,490원</title></circle>
+    <circle cx="427" cy="26" r="4" fill="#fdba74"><title>08-24 30,490원</title></circle>
+    <circle cx="445" cy="45" r="4" fill="#fdba74"><title>08-25 29,500원</title></circle>
+    <circle cx="552" cy="45" r="4" fill="#fdba74"><title>08-31 29,500원</title></circle>
+    <circle cx="570" cy="26" r="4" fill="#fdba74"><title>09-01 30,160원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-02 30,160원</title></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">30,160원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -247,7 +246,7 @@ A. 개인의 사용량에 따라 다르지만, 일반적으로 하루 2회 꾸�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 30,160원 · 별점 4.8 · 리뷰 1,520개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 30,160원 · 별점 4.8 · 리뷰 1,523개</span>
     <a href="https://link.coupang.com/a/eQyKfBupEq" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
