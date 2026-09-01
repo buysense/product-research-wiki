@@ -11,22 +11,17 @@ description: 스노우키즈 스노우 유아물감 세트는 유아의 안전�
   "@type": "Product",
   "name": "스노우키즈 스노우 유아물감 세트",
   "description": "스노우키즈 스노우 유아물감 세트는 유아의 안전한 미술 놀이를 위해 고안된 제품으로, 가정에서 창의적인 활동을 지원하는 데 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2730580176911353-3393889c-57c1-4104-b3bb-8d776e8ecbde.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2895838117845277-9fb1994f-da52-4e20-a3dc-d8f3d21506ae.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "13580",
-    "url": "https://link.coupang.com/a/d8QKkq0UeW",
+    "price": "13620",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 4818,
+    "reviewCount": 4819,
     "bestRating": 5,
     "worstRating": 1
   }

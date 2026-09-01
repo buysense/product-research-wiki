@@ -9,24 +9,19 @@ description: 스키피 수퍼 청크 피넛 버터는 큼직한 땅콩 알갱이
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "스키피 수퍼 청크 피넛 버터",
+  "name": "skippy-super-chunk-peanut-butter",
   "description": "스키피 수퍼 청크 피넛 버터는 큼직한 땅콩 알갱이의 씹는 맛과 진한 고소함이 특징으로, 아침 식사, 간편한 간식, 식단 관리 중 에너지 보충 등 다양한 상황에서 활용됩니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4ad4/c4d11cb96b1421a8da55fc881d28116a54dafbd98c3b30f0ac5d39b993df.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/451e/b996bf31f9ab70584e1c32b467d1694a5cb087f7954e14b9a2a808d7f980.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "31500",
-    "url": "https://link.coupang.com/a/ewTzWf",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 50645,
+    "reviewCount": 50717,
     "bestRating": 5,
     "worstRating": 1
   }

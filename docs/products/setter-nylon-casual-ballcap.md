@@ -11,17 +11,12 @@ description: 세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감�
   "@type": "Product",
   "name": "세터 나일론 캐쥬얼 볼캡",
   "description": "세터 나일론 캐쥬얼 볼캡은 가볍고 편안한 착용감으로 일상복, 가벼운 야외 활동에 적합하며 다양한 캐주얼 스타일에 활용하기 좋은 볼캡입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/07/18/3/f3f55ba1-b816-4735-bd2a-8702bfb70bc1.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/07/18/2/148ee9b5-5719-4b0b-9193-c60096788933.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "53090",
-    "url": "https://link.coupang.com/a/e5tHXjzRO8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
