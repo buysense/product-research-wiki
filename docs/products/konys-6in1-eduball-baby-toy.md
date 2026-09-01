@@ -11,17 +11,12 @@ description: 코니스 6in1에듀볼은 6개월부터 3세까지 영유아의 �
   "@type": "Product",
   "name": "코니스 6in1에듀볼 국산 소근육발달 터미타임 아기장난감",
   "description": "코니스 6in1에듀볼은 6개월부터 3세까지 영유아의 소근육 발달, 감각 자극에 효과적인 다기능 아기장난감으로, 아기 선물 및 터미타임용으로 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/9f4108aa-2863-4640-995c-a8ffc36b8c1a_fixing_v2.png",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9fdd/265eacdfd0f1db0d08dab3ed10e5ef710c899fd184dd0ae51365f9cf75b0.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "42900",
-    "url": "https://link.coupang.com/a/eBrioUFV0e",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

@@ -11,17 +11,12 @@ description: 코이체 베이직 라인 접이식 자동차 트렁크 정리함�
   "@type": "Product",
   "name": "코이체 베이직 라인 접이식 자동차 트렁크 정리함",
   "description": "코이체 베이직 라인 접이식 자동차 트렁크 정리함은 차량 내부 짐을 깔끔하게 정리하고 주행 중 물건이 굴러다니는 것을 방지하여 운전 환경을 개선합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d3d7/21d9c9f268d9507154a57ac0fae925be6dd68bd9e0c44abfda358fe67bd7.png",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/784c/a00958947efe23f3bdc9b3aafa5d37e03a9ffcb95c291b0cf3c58d92e351.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "23900",
-    "url": "https://link.coupang.com/a/dTVY1xcZNc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

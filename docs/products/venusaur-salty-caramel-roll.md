@@ -9,18 +9,21 @@ description: 이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "이상해꽃의 솔티카라멜롤",
+  "name": "venusaur-salty-caramel-roll",
   "description": "이상해꽃의 솔티카라멜롤은 인기 캐릭터와 솔티카라멜의 조화가 돋보이는 롤케이크입니다. 달콤하고 짭짤한 맛으로 간식이나 디저트, 가벼운 선물용으로 좋습니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3e3a/1a885636a175bb66a8e6961e5b3c155e86ba7f131ed492b73dad13e2d2fc.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "9400",
-    "url": "https://link.coupang.com/a/eDegom",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.5,
+    "reviewCount": 109,
+    "bestRating": 5,
+    "worstRating": 1
   }
 }
 </script>

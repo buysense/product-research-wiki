@@ -11,17 +11,12 @@ description: 킨더퍼페츠 100% 써지컬 미아방지 목걸이는 의료용 
   "@type": "Product",
   "name": "킨더퍼페츠 100% 써지컬 미아방지 목걸이",
   "description": "킨더퍼페츠 100% 써지컬 미아방지 목걸이는 의료용 써지컬 스틸과 KC 인증으로 아이 피부에 안전하며, 물놀이에도 변색 걱정 없이 오래 사용 가능한 제품입니다. 아이의 미아방지 및 데일리 착용에 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/10de/cf62d387f78a22dd2c5870c5e9226969f4b2ce4e65fff8b09678b937eb02.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2ed0/0037430725c1b4f561ebb3165041c681e1292574a74206f3080351df6850.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "12900",
-    "url": "https://link.coupang.com/a/dLMyFANwzs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
