@@ -15,9 +15,8 @@ description: Pillsbury 레디 투 베이크 초콜릿 칩 쿠키도우는 복잡
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "21200",
-    "url": "https://link.coupang.com/a/ek1obZ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

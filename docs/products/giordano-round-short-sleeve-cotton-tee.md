@@ -14,14 +14,13 @@ description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드�
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "24120",
-    "url": "https://link.coupang.com/a/ej5Zze",
     "availability": "https://schema.org/InStock",
     "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2752,
+    "reviewCount": 2757,
     "bestRating": 5,
     "worstRating": 1
   }
