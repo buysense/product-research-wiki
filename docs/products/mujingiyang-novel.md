@@ -11,21 +11,17 @@ description: "김승옥 작가의 대표작 \"무진기행\" 구매 가이드. �
   "@type": "Product",
   "name": "무진기행",
   "description": "\"김승옥 작가의 대표작 \\\"무진기행\\\" 구매 가이드. 몽환적인 분위기 속 주인공의 심리를 섬세하게 묘사하여 내면 성찰과 깊은 여운을 선사하는 소설입니다. 삶에 지쳤을 때 조용히 자신을 돌아보고 싶은 독자에게 적합합니다.\"",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ee06/0d9af693a208729e1b3c6a86ee45544685afcf2d70b3e1bff224d733dfaa.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "9900",
-    "url": "https://link.coupang.com/a/fUV1CHlEZ2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.9,
-    "reviewCount": 84,
+    "ratingValue": 4.8,
+    "reviewCount": 98,
     "bestRating": 5,
     "worstRating": 1
   }

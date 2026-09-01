@@ -8,15 +8,14 @@ description: 잔스포츠(JanSport)는 1967년 미국에서 창립된 글로벌 
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "잔스포츠 빅스튜던트 백팩 EK0A5BAHN541",
+  "name": "잔스포츠-빅스튜던트-백팩-ek0a5bahn541",
   "description": "잔스포츠(JanSport)는 1967년 미국에서 창립된 글로벌 아웃도어 가방 브랜드로, 전 세계 백팩 시장 상위권에 자리잡은 장기 스테디셀러 브랜드입니다. 빅스튜던트(Big Student)는 잔스포츠의 데일리 백팩 라인을 대표하는 모델로, 34 ...",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "60580",
-    "url": "https://link.coupang.com/a/d3IlpA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

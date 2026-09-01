@@ -11,22 +11,17 @@ description: 뽀로로 어린이음료 밀크맛은 아이들이 좋아하는 �
   "@type": "Product",
   "name": "뽀로로 어린이음료 밀크맛, 235ml, 24개",
   "description": "뽀로로 어린이음료 밀크맛은 아이들이 좋아하는 캐릭터와 부드러운 맛으로 일상 간식, 나들이, 행사 등 다양한 상황에서 즐기기 좋은 235ml 어린이 음료입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/97b469e3-ecc2-49a2-9377-9fad99d395ca_fixing_v2.png",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/697097591678139-25378c81-fd82-4199-a061-3ec6168a7312.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "16630",
-    "url": "https://link.coupang.com/a/d8Q1amCOvQ",
+    "price": "17190",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 35637,
+    "reviewCount": 35663,
     "bestRating": 5,
     "worstRating": 1
   }

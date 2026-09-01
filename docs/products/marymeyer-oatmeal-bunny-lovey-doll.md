@@ -11,22 +11,17 @@ description: 메리메이어 오트밀 버니 애착인형은 부드러운 촉�
   "@type": "Product",
   "name": "메리메이어 오트밀 버니 애착인형",
   "description": "메리메이어 오트밀 버니 애착인형은 부드러운 촉감과 가벼운 무게로 신생아 첫 애착인형, 외출용, 선물용으로 적합한 토끼 디자인의 아기 인형입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1060672887502049-f9876564-f0eb-4d64-98ff-82f3059f5753.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/602103380840323-f6235b20-e721-4a3f-b312-676c6fe6343b.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "26900",
-    "url": "https://link.coupang.com/a/epSnCgAuwm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 310,
+    "reviewCount": 311,
     "bestRating": 5,
     "worstRating": 1
   }
