@@ -10,7 +10,6 @@ description: 베이지 손잡이 쇼핑백은 마트, 시장, 다용도로 활�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "베이지 손잡이 쇼핑백 마트 장바구니 시장 바구니 다용도 2size",
-  "description": "베이지 손잡이 쇼핑백은 마트, 시장, 다용도로 활용 가능한 장바구니로, 2가지 사이즈로 제공되어 다양한 쇼핑 상황에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7d35/71caf9de3cbce006c073ab4f1ae8f663a002a95fc733bd41e325b7fd2832.jpeg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7ee2/91dc691b9fae30f82b7db8d015499db83a7d9d79a47bf454954bc96b0eae.jpeg"
@@ -21,7 +20,7 @@ description: 베이지 손잡이 쇼핑백은 마트, 시장, 다용도로 활�
     "price": "10720",
     "url": "https://link.coupang.com/a/glysdJ05bU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -53,7 +52,7 @@ description: 베이지 손잡이 쇼핑백은 마트, 시장, 다용도로 활�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,22 +61,22 @@ description: 베이지 손잡이 쇼핑백은 마트, 시장, 다용도로 활�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,700</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,600</text>
 
-    <path d="M 68 87 L 108 87 L 148 87 L 188 87 L 228 87 L 268 87 L 308 87 L 348 87 L 388 87 L 428 87 L 468 87 L 508 87 L 548 87 L 588 87 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 87 L 108 87 L 148 87 L 188 87 L 228 87 L 268 87 L 308 87 L 348 87 L 388 87 L 428 87 L 468 87 L 508 87 L 548 87 L 588 87" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 87 L 105 87 L 142 87 L 179 87 L 217 87 L 254 87 L 291 87 L 328 87 L 365 87 L 402 87 L 439 87 L 477 87 L 514 87 L 551 87 L 588 87 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 87 L 105 87 L 142 87 L 179 87 L 217 87 L 254 87 L 291 87 L 328 87 L 365 87 L 402 87 L 439 87 L 477 87 L 514 87 L 551 87 L 588 87" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="87" r="4" fill="#fdba74"><title>08-19 10,720원</title></circle>
-    <circle cx="588" cy="87" r="5" fill="#ea580c"><title>09-01 10,720원</title></circle>
+    <circle cx="588" cy="87" r="5" fill="#ea580c"><title>09-02 10,720원</title></circle>
 
     <text x="588" y="75" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,720원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
