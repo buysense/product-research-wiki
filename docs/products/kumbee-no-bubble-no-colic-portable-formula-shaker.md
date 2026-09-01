@@ -11,16 +11,12 @@ description: 밤중 수유나 외출 시 편리하게 분유를 타주는 꿈비
   "@type": "Product",
   "name": "꿈비 노거품 노배앓이 휴대용 무선 자동 분유쉐이커",
   "description": "밤중 수유나 외출 시 편리하게 분유를 타주는 꿈비 노거품 노배앓이 휴대용 무선 자동 분유쉐이커는 거품 생성과 배앓이 가능성을 줄여줍니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2c1b/3449c63112be3ea95b9ad7dca82237941e518142e37daba9a09e85f19171.png"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "54000",
-    "url": "https://link.coupang.com/a/dTYZTrRkHc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

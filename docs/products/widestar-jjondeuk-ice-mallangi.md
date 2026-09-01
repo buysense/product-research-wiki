@@ -11,22 +11,17 @@ description: 위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이�
   "@type": "Product",
   "name": "위드스타 쫀득쫀득 얼음 말랑이",
   "description": "위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이들의 촉감 놀이 및 스트레스 해소를 위한 장난감으로, 특유의 얼음 모양과 쫀득한 촉감이 특징입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/109843231399247-ecbfa78a-7bc8-4d3e-9594-c11891d27c17.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/02/17/1/97dd0c77-a9b1-43a2-a4c6-3bb4e6b617e0.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "4240",
-    "url": "https://link.coupang.com/a/dLGwX829xk",
+    "price": "4490",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.3,
-    "reviewCount": 506,
+    "reviewCount": 508,
     "bestRating": 5,
     "worstRating": 1
   }

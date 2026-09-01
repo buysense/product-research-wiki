@@ -11,22 +11,17 @@ description: 필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준�
   "@type": "Product",
   "name": "필립스 3000시리즈 에그 쿠커 계란찜기",
   "description": "필립스 3000시리즈 에그 쿠커는 바쁜 아침 식사 준비와 식단 관리를 간편하게 돕는 계란찜기입니다. 최대 6개 동시 조리, 완벽한 반숙 및 완숙 조절 기능으로 일상의 편리함을 더합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/397575187492117-f4537fea-f1e0-435e-ac4f-efc598b9f364.png",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/188314446835543-4e6548bd-b6c0-4d62-841e-d9f49df4f659.png"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "29900",
-    "url": "https://link.coupang.com/a/fAS24kIAoK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 4707,
+    "reviewCount": 4720,
     "bestRating": 5,
     "worstRating": 1
   }

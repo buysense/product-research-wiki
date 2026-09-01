@@ -11,22 +11,17 @@ description: 리락쿠마 아동용 사각 밀폐 2단 도시락은 어린이집
   "@type": "Product",
   "name": "리락쿠마 아동용 사각 밀폐 2단 도시락",
   "description": "리락쿠마 아동용 사각 밀폐 2단 도시락은 어린이집, 유치원 소풍, 견학 및 외출 시 사용하기 적합하며, 가벼운 무게와 귀여운 디자인이 특징입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/7cc7/0ebfc161b4cbcce1db8f6cd6d6c7b3d69414cb0d270e5f693958273e437c.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/08/08/3675505994/6995a808-749d-4138-9276-8915cacd12ab.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "6200",
-    "url": "https://link.coupang.com/a/dGAD4XBSlU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 1581,
+    "reviewCount": 1583,
     "bestRating": 5,
     "worstRating": 1
   }
