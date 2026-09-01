@@ -10,7 +10,6 @@ description: 꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "꿈비 뭉침없는 LED 분유쉐이커",
-  "description": "꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 배앓이 걱정을 덜고 싶은 부모를 위한 제품으로, 거품 없이 분유를 혼합하여 편리한 수유 환경을 제공합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/10/14/1/2a236691-63e9-4ea1-92a2-bcb1373184d3.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/ljobrzrl/5707f60d6852432b946cd6d62db9656d.jpg"
@@ -21,7 +20,7 @@ description: 꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 
     "price": "44900",
     "url": "https://link.coupang.com/a/dTYN0uDfY4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,30 +60,30 @@ description: 꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 61 L 86 61 L 104 61 L 122 138 L 140 138 L 158 83 L 176 83 L 194 83 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 83 L 373 83 L 391 83 L 409 83 L 427 83 L 445 83 L 462 83 L 480 83 L 498 83 L 516 83 L 534 83 L 552 83 L 570 83 L 588 83 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 61 L 86 61 L 104 61 L 122 138 L 140 138 L 158 83 L 176 83 L 194 83 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 83 L 373 83 L 391 83 L 409 83 L 427 83 L 445 83 L 462 83 L 480 83 L 498 83 L 516 83 L 534 83 L 552 83 L 570 83 L 588 83" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="61" r="4" fill="#fdba74"><title>07-19 50,670원</title></circle>
-    <circle cx="104" cy="61" r="4" fill="#fdba74"><title>07-21 50,670원</title></circle>
-    <circle cx="122" cy="138" r="4" fill="#fdba74"><title>07-22 30,470원</title></circle>
-    <circle cx="140" cy="138" r="4" fill="#fdba74"><title>07-23 30,470원</title></circle>
-    <circle cx="158" cy="83" r="4" fill="#fdba74"><title>07-24 44,900원</title></circle>
-    <circle cx="194" cy="83" r="4" fill="#fdba74"><title>07-26 44,900원</title></circle>
-    <circle cx="211" cy="102" r="4" fill="#fdba74"><title>07-29 39,900원</title></circle>
-    <circle cx="337" cy="102" r="4" fill="#fdba74"><title>08-05 39,900원</title></circle>
-    <circle cx="355" cy="83" r="4" fill="#fdba74"><title>08-19 44,900원</title></circle>
-    <circle cx="588" cy="83" r="5" fill="#ea580c"><title>09-01 44,900원</title></circle>
+    <path d="M 68 61 L 86 61 L 104 138 L 122 138 L 140 83 L 158 83 L 176 83 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 83 L 355 83 L 373 83 L 391 83 L 409 83 L 427 83 L 445 83 L 462 83 L 480 83 L 498 83 L 516 83 L 534 83 L 552 83 L 570 83 L 588 83 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 61 L 86 61 L 104 138 L 122 138 L 140 83 L 158 83 L 176 83 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 83 L 355 83 L 373 83 L 391 83 L 409 83 L 427 83 L 445 83 L 462 83 L 480 83 L 498 83 L 516 83 L 534 83 L 552 83 L 570 83 L 588 83" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="61" r="4" fill="#fdba74"><title>07-20 50,670원</title></circle>
+    <circle cx="86" cy="61" r="4" fill="#fdba74"><title>07-21 50,670원</title></circle>
+    <circle cx="104" cy="138" r="4" fill="#fdba74"><title>07-22 30,470원</title></circle>
+    <circle cx="122" cy="138" r="4" fill="#fdba74"><title>07-23 30,470원</title></circle>
+    <circle cx="140" cy="83" r="4" fill="#fdba74"><title>07-24 44,900원</title></circle>
+    <circle cx="176" cy="83" r="4" fill="#fdba74"><title>07-26 44,900원</title></circle>
+    <circle cx="194" cy="102" r="4" fill="#fdba74"><title>07-29 39,900원</title></circle>
+    <circle cx="319" cy="102" r="4" fill="#fdba74"><title>08-05 39,900원</title></circle>
+    <circle cx="337" cy="83" r="4" fill="#fdba74"><title>08-19 44,900원</title></circle>
+    <circle cx="588" cy="83" r="5" fill="#ea580c"><title>09-02 44,900원</title></circle>
 
     <text x="588" y="71" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">44,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
