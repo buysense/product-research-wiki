@@ -10,7 +10,6 @@ description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "빌리네집 해파리 말랑이",
-  "description": "빌리네집 해파리 말랑이는 귀여운 디자인과 부드러운 촉감으로 스트레스 해소에 도움을 주는 스퀴시 장난감입니다. KC 안전인증을 받아 안심하고 사용할 수 있으며, 3개 세트로 구성되어 다채롭게 활용 가능합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3ae1/ec082af1909a39d56c163b8bd89d12512251346d578ea2eaeea92e6bceb3.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7f60/6caac937cc88e30698b9363458fcad1df9558ae2805ac7ec400a1e39f536.jpg"
@@ -21,7 +20,7 @@ description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드�
     "price": "9240",
     "url": "https://link.coupang.com/a/dLFpPtrcrs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -63,20 +62,20 @@ description: 빌리네집 해파리 말랑이는 귀여운 디자인과 부드�
 
     <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 72 L 158 72 L 176 72 L 194 72 L 211 72 L 229 72 L 247 72 L 265 72 L 283 72 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 72 L 86 72 L 104 72 L 122 72 L 140 72 L 158 72 L 176 72 L 194 72 L 211 72 L 229 72 L 247 72 L 265 72 L 283 72 L 301 72 L 319 72 L 337 72 L 355 72 L 373 72 L 391 72 L 409 72 L 427 72 L 445 72 L 462 72 L 480 72 L 498 72 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="72" r="4" fill="#fdba74"><title>07-19 9,240원</title></circle>
-    <circle cx="588" cy="72" r="5" fill="#ea580c"><title>09-01 9,240원</title></circle>
+    <circle cx="68" cy="72" r="4" fill="#fdba74"><title>07-20 9,240원</title></circle>
+    <circle cx="588" cy="72" r="5" fill="#ea580c"><title>09-02 9,240원</title></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">9,240원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

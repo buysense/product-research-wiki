@@ -10,7 +10,6 @@ description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "비렌느 스팟 엑스",
-  "description": "비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 국소 부위 피부 고민을 집에서 관리하고자 할 때 적합한 세럼입니다. 병풀추출물과 율무 성분으로 자극 없이 피부를 진정하고 개선하는 데 도움을 줍니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/385e/65e43715abe64335047ffca06ee66a1316bca7665d21181d2be7776c8644.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/39d7f7e5-e44f-4770-8b8c-37eaf85a33ec14491523447821229106.jpg"
@@ -18,15 +17,15 @@ description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 �
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "28000",
+    "price": "31800",
     "url": "https://link.coupang.com/a/fCHSYndlS0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 3.5,
-    "reviewCount": 9333,
+    "reviewCount": 9451,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +42,7 @@ description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,000원 · 별점 3.5 · 리뷰 9,333개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 31,800원 · 별점 3.5 · 리뷰 9,451개</span>
     <a href="https://link.coupang.com/a/fCHSYndlS0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +51,7 @@ description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,28 +60,29 @@ description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">28,000</text>
 
-    <path d="M 68 34 L 89 34 L 110 34 L 130 34 L 151 34 L 172 34 L 193 34 L 214 34 L 234 34 L 255 34 L 276 64 L 297 64 L 318 178 L 338 34 L 359 34 L 380 34 L 401 34 L 422 34 L 442 34 L 463 34 L 484 34 L 505 34 L 526 34 L 546 34 L 567 34 L 588 178 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 89 34 L 110 34 L 130 34 L 151 34 L 172 34 L 193 34 L 214 34 L 234 34 L 255 34 L 276 64 L 297 64 L 318 178 L 338 34 L 359 34 L 380 34 L 401 34 L 422 34 L 442 34 L 463 34 L 484 34 L 505 34 L 526 34 L 546 34 L 567 34 L 588 178" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 34 L 88 34 L 108 34 L 128 34 L 148 34 L 168 34 L 188 34 L 208 34 L 228 34 L 248 34 L 268 64 L 288 64 L 308 178 L 328 34 L 348 34 L 368 34 L 388 34 L 408 34 L 428 34 L 448 34 L 468 34 L 488 34 L 508 34 L 528 34 L 548 34 L 568 178 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 34 L 88 34 L 108 34 L 128 34 L 148 34 L 168 34 L 188 34 L 208 34 L 228 34 L 248 34 L 268 64 L 288 64 L 308 178 L 328 34 L 348 34 L 368 34 L 388 34 L 408 34 L 428 34 L 448 34 L 468 34 L 488 34 L 508 34 L 528 34 L 548 34 L 568 178 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="34" r="4" fill="#fdba74"><title>07-23 31,800원</title></circle>
-    <circle cx="255" cy="34" r="4" fill="#fdba74"><title>08-03 31,800원</title></circle>
-    <circle cx="276" cy="64" r="4" fill="#fdba74"><title>08-04 31,000원</title></circle>
-    <circle cx="297" cy="64" r="4" fill="#fdba74"><title>08-05 31,000원</title></circle>
-    <circle cx="318" cy="178" r="4" fill="#fdba74"><title>08-19 28,000원</title></circle>
-    <circle cx="338" cy="34" r="4" fill="#fdba74"><title>08-20 31,800원</title></circle>
-    <circle cx="567" cy="34" r="4" fill="#fdba74"><title>08-31 31,800원</title></circle>
-    <circle cx="588" cy="178" r="5" fill="#ea580c"><title>09-01 28,000원</title></circle>
+    <circle cx="248" cy="34" r="4" fill="#fdba74"><title>08-03 31,800원</title></circle>
+    <circle cx="268" cy="64" r="4" fill="#fdba74"><title>08-04 31,000원</title></circle>
+    <circle cx="288" cy="64" r="4" fill="#fdba74"><title>08-05 31,000원</title></circle>
+    <circle cx="308" cy="178" r="4" fill="#fdba74"><title>08-19 28,000원</title></circle>
+    <circle cx="328" cy="34" r="4" fill="#fdba74"><title>08-20 31,800원</title></circle>
+    <circle cx="548" cy="34" r="4" fill="#fdba74"><title>08-31 31,800원</title></circle>
+    <circle cx="568" cy="178" r="4" fill="#fdba74"><title>09-01 28,000원</title></circle>
+    <circle cx="588" cy="34" r="5" fill="#ea580c"><title>09-02 31,800원</title></circle>
 
-    <text x="588" y="166" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,000원</text>
+    <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">31,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -214,7 +214,7 @@ A. 비렌느 스팟 엑스는 의약품이 아닌 화장품으로, 즉각적인 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,000원 · 별점 3.5 · 리뷰 9,333개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 31,800원 · 별점 3.5 · 리뷰 9,451개</span>
     <a href="https://link.coupang.com/a/fCHSYndlS0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
