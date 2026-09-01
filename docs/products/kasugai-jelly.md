@@ -10,7 +10,6 @@ description: 카스가이 젤리는 일본의 대표적인 제과 브랜드에�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "카스가이 젤리",
-  "description": "카스가이 젤리는 일본의 대표적인 제과 브랜드에서 선보이는 젤리로, 달콤하고 쫀득한 식감으로 간편한 간식, 디저트, 또는 가벼운 선물용으로 인기가 높습니다.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",

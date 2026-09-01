@@ -11,22 +11,17 @@ description: 태기스 헝겊책 촉감 발달 완구는 신생아부터 사용 
   "@type": "Product",
   "name": "태기스 헝겊책 촉감 발달 완구",
   "description": "태기스 헝겊책 촉감 발달 완구는 신생아부터 사용 가능한 부드러운 촉감책으로, 다양한 태그와 소리로 아기 감각 발달 및 집중력 향상에 도움을 줍니다. 외출 시 휴대하기 편리하며 수면 교육, 출산 선물용으로도 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/30/15/7/82fcff36-2156-4758-b939-de55a3b3b20b.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/30/15/0/b9fc1ca1-0e51-40dc-b11e-6d03303b0775.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "30120",
-    "url": "https://link.coupang.com/a/epJx7AJBe0",
+    "price": "31280",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.7,
-    "reviewCount": 67,
+    "ratingValue": 4.6,
+    "reviewCount": 68,
     "bestRating": 5,
     "worstRating": 1
   }
