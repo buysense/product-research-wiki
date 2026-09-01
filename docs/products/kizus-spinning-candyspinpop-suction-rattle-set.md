@@ -11,22 +11,17 @@ description: 키저스 빙글빙글 캔디스핀팝 흡착회전딸랑이 3종 �
   "@type": "Product",
   "name": "키저스 빙글빙글 캔디스핀팝 흡착회전딸랑이 3종 세트",
   "description": "키저스 빙글빙글 캔디스핀팝 흡착회전딸랑이 3종 세트는 아기의 시각·청각·촉각 발달을 돕는 멀티 기능 장난감으로, 신생아 선물이나 아기들의 다양한 놀이 상황에서 활용됩니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/21fd/661151971408596664fe731709d2fa54ef20ec7a283a14ad9294bdcb1a0a.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/vecuppyz/ae379db219cf471ca4247999254602fc.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "19520",
-    "url": "https://link.coupang.com/a/dVNNnqpRUi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 203,
+    "reviewCount": 204,
     "bestRating": 5,
     "worstRating": 1
   }
