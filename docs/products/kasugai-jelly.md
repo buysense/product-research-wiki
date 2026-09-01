@@ -11,17 +11,12 @@ description: 카스가이 젤리는 일본의 대표적인 제과 브랜드에�
   "@type": "Product",
   "name": "카스가이 젤리",
   "description": "카스가이 젤리는 일본의 대표적인 제과 브랜드에서 선보이는 젤리로, 달콤하고 쫀득한 식감으로 간편한 간식, 디저트, 또는 가벼운 선물용으로 인기가 높습니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a316/dd7d76391f503ad6a2d3507d3c0ac731453df56873a0d1d222eb984c46f1.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e7ef/3364b05f32e87c9ba6ff129cc6c9cf7e25be5d0ee2f59e5061b19fb17558.jpeg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "27700",
-    "url": "https://link.coupang.com/a/gqjEMpPQZw",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

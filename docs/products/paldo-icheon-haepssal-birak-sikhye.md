@@ -9,20 +9,19 @@ description: 팔도 이천햅쌀 비락식혜는 경기도 이천 햅쌀을 사�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "팔도 이천햅쌀 비락식혜",
+  "name": "paldo-icheon-haepssal-birak-sikhye",
   "description": "팔도 이천햅쌀 비락식혜는 경기도 이천 햅쌀을 사용한 전통음료로, 명절 상차림 및 일상 간식, 시원한 디저트로 즐기기 좋습니다. 풀오픈캔으로 밥알 섭취가 편리하며, 얼려 슬러시로 즐길 수 있습니다.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "6220",
-    "url": "https://link.coupang.com/a/egI76G",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 3147,
+    "reviewCount": 3156,
     "bestRating": 5,
     "worstRating": 1
   }

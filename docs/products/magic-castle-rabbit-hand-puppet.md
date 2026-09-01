@@ -9,24 +9,19 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "매직캐슬 토끼 손인형",
+  "name": "magic-castle-rabbit-hand-puppet",
   "description": "매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인형, 부모와의 상호작용 및 반려동물 놀이 등 다양한 상황에서 활용할 수 있는 부드러운 토끼 손인형입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/561472905245970-cb5a7704-cd26-4970-8e13-9fedd072641c.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4a37/c76e77f1998366a1b879a3dc1156207168136936c719a600902184dc4619.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "12300",
-    "url": "https://link.coupang.com/a/exnwQU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 131,
+    "reviewCount": 132,
     "bestRating": 5,
     "worstRating": 1
   }
