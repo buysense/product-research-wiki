@@ -21,12 +21,12 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
     "price": "60630",
     "url": "https://link.coupang.com/a/dUsgXOCSEm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1201,
+    "reviewCount": 1202,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 60,630원 · 별점 4.8 · 리뷰 1,201개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 60,630원 · 별점 4.8 · 리뷰 1,202개</span>
     <a href="https://link.coupang.com/a/dUsgXOCSEm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,32 +61,32 @@ description: 유스트 31허브 바디오일은 31가지 허브가 블렌딩된 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 86 L 86 86 L 104 86 L 122 86 L 140 86 L 158 86 L 176 86 L 194 86 L 211 86 L 229 88 L 247 88 L 265 146 L 283 86 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 86 L 427 86 L 445 86 L 462 86 L 480 86 L 498 86 L 516 78 L 534 78 L 552 136 L 570 86 L 588 86 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 86 L 86 86 L 104 86 L 122 86 L 140 86 L 158 86 L 176 86 L 194 86 L 211 86 L 229 88 L 247 88 L 265 146 L 283 86 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 86 L 427 86 L 445 86 L 462 86 L 480 86 L 498 86 L 516 78 L 534 78 L 552 136 L 570 86 L 588 86" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="86" r="4" fill="#fdba74"><title>07-18 60,630원</title></circle>
-    <circle cx="211" cy="86" r="4" fill="#fdba74"><title>07-26 60,630원</title></circle>
-    <circle cx="229" cy="88" r="4" fill="#fdba74"><title>07-29 59,030원</title></circle>
-    <circle cx="247" cy="88" r="4" fill="#fdba74"><title>07-30 59,030원</title></circle>
-    <circle cx="265" cy="146" r="4" fill="#fdba74"><title>07-31 20,900원</title></circle>
-    <circle cx="283" cy="86" r="4" fill="#fdba74"><title>08-01 60,630원</title></circle>
-    <circle cx="498" cy="86" r="4" fill="#fdba74"><title>08-27 60,630원</title></circle>
-    <circle cx="516" cy="78" r="4" fill="#fdba74"><title>08-28 65,700원</title></circle>
-    <circle cx="534" cy="78" r="4" fill="#fdba74"><title>08-29 65,700원</title></circle>
-    <circle cx="552" cy="136" r="4" fill="#fdba74"><title>08-30 27,600원</title></circle>
-    <circle cx="570" cy="86" r="4" fill="#fdba74"><title>08-31 60,630원</title></circle>
-    <circle cx="588" cy="86" r="5" fill="#ea580c"><title>09-01 60,630원</title></circle>
+    <path d="M 68 86 L 86 86 L 104 86 L 122 86 L 140 86 L 158 86 L 176 86 L 194 86 L 211 88 L 229 88 L 247 146 L 265 86 L 283 86 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 86 L 427 86 L 445 86 L 462 86 L 480 86 L 498 78 L 516 78 L 534 136 L 552 86 L 570 86 L 588 86 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 86 L 86 86 L 104 86 L 122 86 L 140 86 L 158 86 L 176 86 L 194 86 L 211 88 L 229 88 L 247 146 L 265 86 L 283 86 L 301 86 L 319 86 L 337 86 L 355 86 L 373 86 L 391 86 L 409 86 L 427 86 L 445 86 L 462 86 L 480 86 L 498 78 L 516 78 L 534 136 L 552 86 L 570 86 L 588 86" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="86" r="4" fill="#fdba74"><title>07-19 60,630원</title></circle>
+    <circle cx="194" cy="86" r="4" fill="#fdba74"><title>07-26 60,630원</title></circle>
+    <circle cx="211" cy="88" r="4" fill="#fdba74"><title>07-29 59,030원</title></circle>
+    <circle cx="229" cy="88" r="4" fill="#fdba74"><title>07-30 59,030원</title></circle>
+    <circle cx="247" cy="146" r="4" fill="#fdba74"><title>07-31 20,900원</title></circle>
+    <circle cx="265" cy="86" r="4" fill="#fdba74"><title>08-01 60,630원</title></circle>
+    <circle cx="480" cy="86" r="4" fill="#fdba74"><title>08-27 60,630원</title></circle>
+    <circle cx="498" cy="78" r="4" fill="#fdba74"><title>08-28 65,700원</title></circle>
+    <circle cx="516" cy="78" r="4" fill="#fdba74"><title>08-29 65,700원</title></circle>
+    <circle cx="534" cy="136" r="4" fill="#fdba74"><title>08-30 27,600원</title></circle>
+    <circle cx="552" cy="86" r="4" fill="#fdba74"><title>08-31 60,630원</title></circle>
+    <circle cx="588" cy="86" r="5" fill="#ea580c"><title>09-02 60,630원</title></circle>
 
     <text x="588" y="74" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">60,630원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -320,7 +320,7 @@ A. 한 번 사용할 때 한두 방울의 소량만으로도 충분한 효과를
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 60,630원 · 별점 4.8 · 리뷰 1,201개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 60,630원 · 별점 4.8 · 리뷰 1,202개</span>
     <a href="https://link.coupang.com/a/dUsgXOCSEm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
