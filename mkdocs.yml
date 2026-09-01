@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 리스 하트 오브 팜: products/reese-heart-of-palm.md
     - 차오차이 마라샹궈 소스: products/chaochai-malaxiangguo-sauce.md
     - "해태 오예스 베이크하우스 얼그레이&쇼콜라 280g": products/haitai-ohyes-bakehouse-earlgrey-chocola.md
     - 아몬드초코볼 애플요거트: products/almond-chocoball-apple-yogurt.md
