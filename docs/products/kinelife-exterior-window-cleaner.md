@@ -11,21 +11,17 @@ description: 키넬라이프 외창문 클리너는 손 닿지 않는 외부 창
   "@type": "Product",
   "name": "키넬라이프 외창문 클리너",
   "description": "키넬라이프 외창문 클리너는 손 닿지 않는 외부 창문을 쉽고 안전하게 청소하도록 돕는 도구입니다. 아파트나 높은 층의 창문 청소, 묵은 먼지 제거에 유용합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9868/36c8eb34f13652d9c71b74268075c0dd17fd9d20cda69538fbd6f23730ad.png"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "29900",
-    "url": "https://link.coupang.com/a/fiQrXg6zdY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 3.5,
-    "reviewCount": 127,
+    "reviewCount": 129,
     "bestRating": 5,
     "worstRating": 1
   }
