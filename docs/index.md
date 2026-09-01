@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 차오차이 마라샹궈 소스 | [보기](products/chaochai-malaxiangguo-sauce.md) |
 | 해태 오예스 베이크하우스 얼그레이&쇼콜라 280g | [보기](products/haitai-ohyes-bakehouse-earlgrey-chocola.md) |
 | 아몬드초코볼 애플요거트 | [보기](products/almond-chocoball-apple-yogurt.md) |
 | 꼬깔콘 애플 시나몬맛 | [보기](products/kkokkalcon-apple-cinnamon.md) |
