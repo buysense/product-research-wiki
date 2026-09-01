@@ -10,7 +10,6 @@ description: 돗투돗 유모차 안전바 벨트 커버는 아이의 위생과 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "돗투돗 유모차 안전바 벨트 커버",
-  "description": "돗투돗 유모차 안전바 벨트 커버는 아이의 위생과 안전을 고려해 유모차 안전바를 청결하게 유지하며, 아이가 입으로 물고 빨 때 보호해주는 유아용품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f265/502f1ac99a767f8b97897cbea21262f0677f4cda80badd9e27a75512e087.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c00e/75ebf4cf7963d6e68fea329294690fac384337b94cea735fdcbc883ccfb1.jpg"
@@ -21,7 +20,7 @@ description: 돗투돗 유모차 안전바 벨트 커버는 아이의 위생과 
     "price": "26900",
     "url": "https://link.coupang.com/a/d5kyjbRvzg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -63,20 +62,20 @@ description: 돗투돗 유모차 안전바 벨트 커버는 아이의 위생과 
 
     <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-19 26,900원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-01 26,900원</title></circle>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-20 26,900원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-02 26,900원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">26,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

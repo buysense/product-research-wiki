@@ -10,7 +10,6 @@ description: 에코밍글 어깨뿔방지 논슬립 회전형 옷걸이는 니�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "에코밍글 어깨뿔방지 논슬립 회전형 옷걸이",
-  "description": "에코밍글 어깨뿔방지 논슬립 회전형 옷걸이는 니트, 블라우스 등 옷의 어깨뿔과 늘어짐을 방지하고 옷장 정리를 돕는 실용적인 옷걸이입니다. 미끄럼 방지 및 회전형 고리 기능으로 다양한 의류를 깔끔하게 보관하고 공간 활용도를 높이는 데 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/827734813019437-34865c4e-a8f7-4f31-be41-fc1ea4488e2a.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/423751896656305-1728a050-e949-44d9-b16b-d628bc8ea9d2.jpg"
@@ -21,7 +20,7 @@ description: 에코밍글 어깨뿔방지 논슬립 회전형 옷걸이는 니�
     "price": "21900",
     "url": "https://link.coupang.com/a/d2zgX7BE9k",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,24 +60,24 @@ description: 에코밍글 어깨뿔방지 논슬립 회전형 옷걸이는 니�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,500</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-19 22,650원</title></circle>
-    <circle cx="427" cy="26" r="4" fill="#fdba74"><title>08-23 22,650원</title></circle>
-    <circle cx="445" cy="117" r="4" fill="#fdba74"><title>08-24 21,900원</title></circle>
-    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>09-01 21,900원</title></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-20 22,650원</title></circle>
+    <circle cx="409" cy="26" r="4" fill="#fdba74"><title>08-23 22,650원</title></circle>
+    <circle cx="427" cy="117" r="4" fill="#fdba74"><title>08-24 21,900원</title></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>09-02 21,900원</title></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

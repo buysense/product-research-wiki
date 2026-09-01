@@ -10,7 +10,6 @@ description: EFM ipTIME BE9400QCA 유무선공유기는 NAS나 내부망을 활�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "EFM ipTIME BE9400QCA 유무선공유기",
-  "description": "EFM ipTIME BE9400QCA 유무선공유기는 NAS나 내부망을 활용하여 끊김 없는 고속 네트워크를 원하는 사용자를 위한 최신 Wi-Fi 7 및 2.5GbE 지원 라우터입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1444/b7224791e10b58037948edf3fbc1970f6b2856c671cf85b0686813106dbf.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b287/033181837470ead1d41943c86dc5e8e0667f24527d0ae5375638f84d4cc4.jpg"
@@ -21,7 +20,7 @@ description: EFM ipTIME BE9400QCA 유무선공유기는 NAS나 내부망을 활�
     "price": "239000",
     "url": "https://link.coupang.com/a/e1MCWy45wi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,24 +60,24 @@ description: EFM ipTIME BE9400QCA 유무선공유기는 NAS나 내부망을 활�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
 
-    <path d="M 68 134 L 86 134 L 104 134 L 122 134 L 140 134 L 158 43 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 43 L 391 43 L 409 43 L 427 43 L 445 43 L 462 43 L 480 43 L 498 43 L 516 43 L 534 43 L 552 43 L 570 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 134 L 86 134 L 104 134 L 122 134 L 140 134 L 158 43 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 43 L 391 43 L 409 43 L 427 43 L 445 43 L 462 43 L 480 43 L 498 43 L 516 43 L 534 43 L 552 43 L 570 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="134" r="4" fill="#fdba74"><title>07-19 179,000원</title></circle>
-    <circle cx="140" cy="134" r="4" fill="#fdba74"><title>07-23 179,000원</title></circle>
-    <circle cx="158" cy="43" r="4" fill="#fdba74"><title>07-24 239,000원</title></circle>
-    <circle cx="588" cy="43" r="5" fill="#ea580c"><title>09-01 239,000원</title></circle>
+    <path d="M 68 134 L 86 134 L 104 134 L 122 134 L 140 43 L 158 43 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 43 L 391 43 L 409 43 L 427 43 L 445 43 L 462 43 L 480 43 L 498 43 L 516 43 L 534 43 L 552 43 L 570 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 134 L 86 134 L 104 134 L 122 134 L 140 43 L 158 43 L 176 43 L 194 43 L 211 43 L 229 43 L 247 43 L 265 43 L 283 43 L 301 43 L 319 43 L 337 43 L 355 43 L 373 43 L 391 43 L 409 43 L 427 43 L 445 43 L 462 43 L 480 43 L 498 43 L 516 43 L 534 43 L 552 43 L 570 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="134" r="4" fill="#fdba74"><title>07-20 179,000원</title></circle>
+    <circle cx="122" cy="134" r="4" fill="#fdba74"><title>07-23 179,000원</title></circle>
+    <circle cx="140" cy="43" r="4" fill="#fdba74"><title>07-24 239,000원</title></circle>
+    <circle cx="588" cy="43" r="5" fill="#ea580c"><title>09-02 239,000원</title></circle>
 
     <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">239,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

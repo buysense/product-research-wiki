@@ -10,7 +10,6 @@ description: 한스킨 블랙헤드 클렌징 오일 PHA는 모공 속 블랙헤
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "한스킨 블랙헤드 클렌징 오일 PHA",
-  "description": "한스킨 블랙헤드 클렌징 오일 PHA는 모공 속 블랙헤드와 노폐물 관리를 돕는 클렌징 오일입니다. 순한 성분과 PHA 함유로 민감한 피부도 사용할 수 있으며, 데일리 클렌징 시 효과적인 모공 케어를 원하는 사용자에게 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a658/8486a1adf149bea4a1d5bb9f97018c4b183d7505ed026a9f316949ee5b71.png"
   ],
@@ -20,7 +19,7 @@ description: 한스킨 블랙헤드 클렌징 오일 PHA는 모공 속 블랙헤
     "price": "39260",
     "url": "https://link.coupang.com/a/erHbFNwEdU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   }
 }
 </script>
@@ -53,24 +52,24 @@ description: 한스킨 블랙헤드 클렌징 오일 PHA는 모공 속 블랙헤
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">39,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">39,000</text>
 
-    <path d="M 68 32 L 86 32 L 104 32 L 122 32 L 140 32 L 158 32 L 176 32 L 194 32 L 211 32 L 229 32 L 247 32 L 265 32 L 283 32 L 301 32 L 319 32 L 337 32 L 355 32 L 373 32 L 391 32 L 409 32 L 427 32 L 445 32 L 462 138 L 480 138 L 498 138 L 516 138 L 534 138 L 552 138 L 570 138 L 588 138 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 32 L 86 32 L 104 32 L 122 32 L 140 32 L 158 32 L 176 32 L 194 32 L 211 32 L 229 32 L 247 32 L 265 32 L 283 32 L 301 32 L 319 32 L 337 32 L 355 32 L 373 32 L 391 32 L 409 32 L 427 32 L 445 32 L 462 138 L 480 138 L 498 138 L 516 138 L 534 138 L 552 138 L 570 138 L 588 138" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="32" r="4" fill="#fdba74"><title>07-19 39,960원</title></circle>
-    <circle cx="445" cy="32" r="4" fill="#fdba74"><title>08-24 39,960원</title></circle>
-    <circle cx="462" cy="138" r="4" fill="#fdba74"><title>08-25 39,260원</title></circle>
-    <circle cx="588" cy="138" r="5" fill="#ea580c"><title>09-01 39,260원</title></circle>
+    <path d="M 68 32 L 86 32 L 104 32 L 122 32 L 140 32 L 158 32 L 176 32 L 194 32 L 211 32 L 229 32 L 247 32 L 265 32 L 283 32 L 301 32 L 319 32 L 337 32 L 355 32 L 373 32 L 391 32 L 409 32 L 427 32 L 445 138 L 462 138 L 480 138 L 498 138 L 516 138 L 534 138 L 552 138 L 570 138 L 588 138 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 32 L 86 32 L 104 32 L 122 32 L 140 32 L 158 32 L 176 32 L 194 32 L 211 32 L 229 32 L 247 32 L 265 32 L 283 32 L 301 32 L 319 32 L 337 32 L 355 32 L 373 32 L 391 32 L 409 32 L 427 32 L 445 138 L 462 138 L 480 138 L 498 138 L 516 138 L 534 138 L 552 138 L 570 138 L 588 138" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="32" r="4" fill="#fdba74"><title>07-20 39,960원</title></circle>
+    <circle cx="427" cy="32" r="4" fill="#fdba74"><title>08-24 39,960원</title></circle>
+    <circle cx="445" cy="138" r="4" fill="#fdba74"><title>08-25 39,260원</title></circle>
+    <circle cx="588" cy="138" r="5" fill="#ea580c"><title>09-02 39,260원</title></circle>
 
     <text x="588" y="126" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">39,260원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

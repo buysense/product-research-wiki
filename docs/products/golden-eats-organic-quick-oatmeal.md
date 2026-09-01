@@ -10,7 +10,6 @@ description: 골든잇츠 유기농 퀵 오트밀은 바쁜 아침, 건강한 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "골든잇츠 유기농 퀵 오트밀",
-  "description": "골든잇츠 유기농 퀵 오트밀은 바쁜 아침, 건강한 식단 관리, 아기 이유식 등 다양한 상황에서 간편하고 영양가 있는 한 끼를 제공하는 유기농 퀵 오트밀입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/708622703145289-619425aa-56d4-4c18-95c8-639cd0280dd5.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/23923149002760-81795f93-0251-4559-ac0c-5de1ef18b1ce.png"
@@ -21,7 +20,7 @@ description: 골든잇츠 유기농 퀵 오트밀은 바쁜 아침, 건강한 �
     "price": "13860",
     "url": "https://link.coupang.com/a/dSHBjRPhn2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -63,20 +62,20 @@ description: 골든잇츠 유기농 퀵 오트밀은 바쁜 아침, 건강한 �
 
     <path d="M 68 132 L 86 132 L 104 132 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 132 L 265 132 L 283 132 L 301 132 L 319 132 L 337 132 L 355 132 L 373 132 L 391 132 L 409 132 L 427 132 L 445 132 L 462 132 L 480 132 L 498 132 L 516 132 L 534 132 L 552 132 L 570 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 132 L 86 132 L 104 132 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 132 L 265 132 L 283 132 L 301 132 L 319 132 L 337 132 L 355 132 L 373 132 L 391 132 L 409 132 L 427 132 L 445 132 L 462 132 L 480 132 L 498 132 L 516 132 L 534 132 L 552 132 L 570 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="132" r="4" fill="#fdba74"><title>07-19 13,860원</title></circle>
-    <circle cx="588" cy="132" r="5" fill="#ea580c"><title>09-01 13,860원</title></circle>
+    <circle cx="68" cy="132" r="4" fill="#fdba74"><title>07-20 13,860원</title></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"><title>09-02 13,860원</title></circle>
 
     <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,860원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

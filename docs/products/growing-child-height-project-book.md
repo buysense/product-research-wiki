@@ -10,7 +10,6 @@ description: '세 살부터 준비하는 평생 키 성장 프로젝트 도서�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "쑥쑥 크는 아이는 이유가 있다:세 살부터 준비하는 평생 키 성장 프로젝트",
-  "description": "'세 살부터 준비하는 평생 키 성장 프로젝트 도서는 자녀의 키 성장에 대한 부모의 기본적인 궁금증을 해소하고 생활 습관 개선을 통해 건강한 성장을 돕기 위한 정보를 제공합니다.'",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/26/14/5/3e64923d-4346-42cf-8d32-0a9e0fc587a8.jpg"
   ],
@@ -20,7 +19,7 @@ description: '세 살부터 준비하는 평생 키 성장 프로젝트 도서�
     "price": "15750",
     "url": "https://link.coupang.com/a/d5TTEyU16q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -62,20 +61,20 @@ description: '세 살부터 준비하는 평생 키 성장 프로젝트 도서�
 
     <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 140 L 552 140 L 570 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 140 L 552 140 L 570 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="140" r="4" fill="#fdba74"><title>07-19 15,750원</title></circle>
-    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>09-01 15,750원</title></circle>
+    <circle cx="68" cy="140" r="4" fill="#fdba74"><title>07-20 15,750원</title></circle>
+    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>09-02 15,750원</title></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,750원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

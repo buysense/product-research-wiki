@@ -10,7 +10,6 @@ description: 닥터유 다이제는 통밀을 주재료로 하여 건강하고 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "닥터유 다이제",
-  "description": "닥터유 다이제는 통밀을 주재료로 하여 건강하고 든든하게 즐길 수 있는 비스킷으로, 간식이나 간단한 식사 대용으로 인기가 많습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2843168156495907-99af0937-8e3a-40af-9431-32eb4f8a91bd.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/567518498293353-290101c7-a79c-4bb6-ab3f-8586c4f7a7ea.jpg"
@@ -21,12 +20,12 @@ description: 닥터유 다이제는 통밀을 주재료로 하여 건강하고 �
     "price": "20550",
     "url": "https://link.coupang.com/a/glk4CL3MnQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 23696,
+    "reviewCount": 23742,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +43,7 @@ description: 닥터유 다이제는 통밀을 주재료로 하여 건강하고 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,550원 · 별점 4.6 · 리뷰 23,696개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,550원 · 별점 4.6 · 리뷰 23,742개</span>
     <a href="https://link.coupang.com/a/glk4CL3MnQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -53,7 +52,7 @@ description: 닥터유 다이제는 통밀을 주재료로 하여 건강하고 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,22 +61,22 @@ description: 닥터유 다이제는 통밀을 주재료로 하여 건강하고 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,600</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,500</text>
 
-    <path d="M 68 140 L 108 140 L 148 140 L 188 140 L 228 140 L 268 140 L 308 140 L 348 140 L 388 140 L 428 140 L 468 140 L 508 140 L 548 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 108 140 L 148 140 L 188 140 L 228 140 L 268 140 L 308 140 L 348 140 L 388 140 L 428 140 L 468 140 L 508 140 L 548 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 140 L 105 140 L 142 140 L 179 140 L 217 140 L 254 140 L 291 140 L 328 140 L 365 140 L 402 140 L 439 140 L 477 140 L 514 140 L 551 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 105 140 L 142 140 L 179 140 L 217 140 L 254 140 L 291 140 L 328 140 L 365 140 L 402 140 L 439 140 L 477 140 L 514 140 L 551 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="140" r="4" fill="#fdba74"><title>08-19 20,550원</title></circle>
-    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>09-01 20,550원</title></circle>
+    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>09-02 20,550원</title></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">20,550원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -173,7 +172,7 @@ A. 다이제는 통밀을 주재료로 사용하여 일반 밀가루 비스킷�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,550원 · 별점 4.6 · 리뷰 23,696개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,550원 · 별점 4.6 · 리뷰 23,742개</span>
     <a href="https://link.coupang.com/a/glk4CL3MnQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

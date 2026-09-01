@@ -10,7 +10,6 @@ description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "유시몰 화이트닝 플렉스펌 칫솔 화이트",
-  "description": "유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착색 고민, 꼼꼼한 세정을 원하는 소비자를 위한 제품입니다. 플렉스펌 헤드가 치아 굴곡에 맞춰 구석구석 닦아주며, 고급스러운 디자인으로 욕실 인테리어 효과도 제공합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/597164906606997-7f11e73b-6ead-4752-887e-63b183d25841.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2718867523899233-6fa5eee8-f2d4-42c3-a381-cd4bac43210b.jpg"
@@ -21,7 +20,7 @@ description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착�
     "price": "4560",
     "url": "https://link.coupang.com/a/euStPc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,34 +60,34 @@ description: 유시몰 화이트닝 플렉스펌 칫솔 화이트는 치아 착�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">4,600</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,400</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 98 L 373 98 L 391 98 L 409 98 L 427 98 L 445 98 L 462 98 L 480 98 L 498 98 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 98 L 373 98 L 391 98 L 409 98 L 427 98 L 445 98 L 462 98 L 480 98 L 498 98 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-19 4,960원</title></circle>
-    <circle cx="104" cy="26" r="4" fill="#fdba74"><title>07-21 4,960원</title></circle>
-    <circle cx="122" cy="26" r="4" fill="#fdba74"><title>07-22 4,930원</title></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"><title>07-23 4,920원</title></circle>
-    <circle cx="229" cy="26" r="4" fill="#fdba74"><title>07-30 4,920원</title></circle>
-    <circle cx="247" cy="26" r="4" fill="#fdba74"><title>07-31 4,930원</title></circle>
-    <circle cx="265" cy="26" r="4" fill="#fdba74"><title>08-01 4,920원</title></circle>
-    <circle cx="301" cy="26" r="4" fill="#fdba74"><title>08-03 4,920원</title></circle>
-    <circle cx="319" cy="26" r="4" fill="#fdba74"><title>08-04 4,900원</title></circle>
-    <circle cx="337" cy="26" r="4" fill="#fdba74"><title>08-05 4,900원</title></circle>
-    <circle cx="355" cy="98" r="4" fill="#fdba74"><title>08-19 4,610원</title></circle>
-    <circle cx="498" cy="98" r="4" fill="#fdba74"><title>08-27 4,610원</title></circle>
-    <circle cx="516" cy="117" r="4" fill="#fdba74"><title>08-28 4,560원</title></circle>
-    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>09-01 4,560원</title></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 98 L 355 98 L 373 98 L 391 98 L 409 98 L 427 98 L 445 98 L 462 98 L 480 98 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 98 L 355 98 L 373 98 L 391 98 L 409 98 L 427 98 L 445 98 L 462 98 L 480 98 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-20 4,960원</title></circle>
+    <circle cx="86" cy="26" r="4" fill="#fdba74"><title>07-21 4,960원</title></circle>
+    <circle cx="104" cy="26" r="4" fill="#fdba74"><title>07-22 4,930원</title></circle>
+    <circle cx="122" cy="26" r="4" fill="#fdba74"><title>07-23 4,920원</title></circle>
+    <circle cx="211" cy="26" r="4" fill="#fdba74"><title>07-30 4,920원</title></circle>
+    <circle cx="229" cy="26" r="4" fill="#fdba74"><title>07-31 4,930원</title></circle>
+    <circle cx="247" cy="26" r="4" fill="#fdba74"><title>08-01 4,920원</title></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"><title>08-03 4,920원</title></circle>
+    <circle cx="301" cy="26" r="4" fill="#fdba74"><title>08-04 4,900원</title></circle>
+    <circle cx="319" cy="26" r="4" fill="#fdba74"><title>08-05 4,900원</title></circle>
+    <circle cx="337" cy="98" r="4" fill="#fdba74"><title>08-19 4,610원</title></circle>
+    <circle cx="480" cy="98" r="4" fill="#fdba74"><title>08-27 4,610원</title></circle>
+    <circle cx="498" cy="117" r="4" fill="#fdba74"><title>08-28 4,560원</title></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>09-02 4,560원</title></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">4,560원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
