@@ -9,24 +9,19 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "LG전자 QHD 스탠바이미 2 LED TV",
+  "name": "lg-standbyme-2-qhd-led-tv",
   "description": "LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭게 이동하며 개인 맞춤형 콘텐츠를 즐길 수 있는 무선 스마트 스크린입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/18/11/5/cde8b0b0-6272-4870-b1a9-037d2d14792d.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/uphnh4lk/9705565048f04e67b494053caa0fe509.JPG"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "1195010",
-    "url": "https://link.coupang.com/a/dL2nfPaZ1U",
+    "price": "1144940",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 211,
+    "reviewCount": 212,
     "bestRating": 5,
     "worstRating": 1
   }

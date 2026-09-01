@@ -11,16 +11,12 @@ description: 오뚜기 콕콕콕 참깨란볶이는 고소한 참깨와 계란 �
   "@type": "Product",
   "name": "오뚜기 콕콕콕 참깨란볶이",
   "description": "오뚜기 콕콕콕 참깨란볶이는 고소한 참깨와 계란 풍미가 특징인 컵라면으로, 간편한 한 끼 식사나 야식으로 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1975/f99c6d75e17ccf4e27b4ef30f184b3a5daf4a35bfe29b000ceeb829e1fff.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "21130",
-    "url": "https://link.coupang.com/a/gtGfrxVm0G",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

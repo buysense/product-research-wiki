@@ -9,24 +9,19 @@ description: 샹달프 딸기잼은 설탕 대신 과일 본연의 단맛과 풍
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "샹달프 딸기잼",
+  "name": "st-dalfour-strawberry-jam",
   "description": "샹달프 딸기잼은 설탕 대신 과일 본연의 단맛과 풍부한 과육으로 온 가족 아침 식사나 아이 간식으로 활용하기 좋은 프리미엄 잼입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/811527186775297-1b7d0c70-184f-4338-8b22-283693ffecb3.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/cb3f3ff6-9719-4e71-a4d3-f03430a14f645879158554138002820.png"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "6950",
-    "url": "https://link.coupang.com/a/eB37JS",
+    "price": "7100",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2007,
+    "reviewCount": 2009,
     "bestRating": 5,
     "worstRating": 1
   }

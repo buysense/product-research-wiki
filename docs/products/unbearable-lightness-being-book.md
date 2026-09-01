@@ -11,16 +11,12 @@ description: 밀란 쿤데라의 참을 수 없는 존재의 가벼움은 인간
   "@type": "Product",
   "name": "참을 수 없는 존재의 가벼움",
   "description": "밀란 쿤데라의 참을 수 없는 존재의 가벼움은 인간 존재의 본질, 사랑, 자유를 탐구하며 깊은 사유를 즐기는 독자에게 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3f8d/b2b5260ae4496a97722d3ff38ed97c04e41ef3b9f17247c1ee663c2f75ff.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "15300",
-    "url": "https://link.coupang.com/a/fTo1lgzFam",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

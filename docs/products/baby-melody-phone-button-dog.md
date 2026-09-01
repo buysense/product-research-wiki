@@ -9,16 +9,11 @@ description: 아기 멜로디 휴대폰 버튼식 강아지는 어른 휴대폰�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "아기 멜로디 휴대폰 버튼식 강아지",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6d70/c14782228e62a3f858c2da1d25d0683a9823e13416c7b56fc56bdaf91fca.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/803829233377252-e8b38427-f9a4-4470-a861-b2190762a6e9.png"
-  ],
+  "name": "baby-melody-phone-button-dog",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "5500",
-    "url": "https://link.coupang.com/a/eqPK9lZqCa",
     "availability": "https://schema.org/InStock",
     "priceValidUntil": "2026-09-09"
   },

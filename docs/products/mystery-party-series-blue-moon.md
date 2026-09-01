@@ -11,16 +11,12 @@ description: 미스터리 파티 시리즈 몇 번이고 푸른달에 불을 붙
   "@type": "Product",
   "name": "미스터리 파티 시리즈 몇 번이고 푸른달에 불을 붙였다",
   "description": "미스터리 파티 시리즈 몇 번이고 푸른달에 불을 붙였다는 친구, 가족과 함께 즐기기 좋은 추리형 보드게임으로, 몰입감 있는 스토리와 반전이 특징입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/780f/853acfa5ee4a1ce19137aac593477b07000278a45db0f93d47a0abe82048.png"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "41000",
-    "url": "https://link.coupang.com/a/gqlh6J2FmC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

@@ -9,24 +9,19 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "네이밍 플러피 파우더 블러쉬",
+  "name": "naming-fluffy-powder-blush",
   "description": "네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 자연스러운 혈색을 연출하며, 데일리 메이크업에 활용하기 좋은 빌더블 타입 블러셔입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/233cf2df-ef7a-4134-b606-4489cbc37800_fixing_v2.png",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c2b2/74f0968a7b957926edc0b5b555853e4f8677d8f6ae734ca9f4d72970ad34.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "11890",
-    "url": "https://link.coupang.com/a/ejlaj37N3A",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1068,
+    "reviewCount": 1071,
     "bestRating": 5,
     "worstRating": 1
   }

@@ -11,22 +11,17 @@ description: 르시랑스 드립백커피는 다양한 원두 구성과 간편�
   "@type": "Product",
   "name": "르시랑스 드립백커피",
   "description": "르시랑스 드립백커피는 다양한 원두 구성과 간편한 추출 방식으로 사무실, 가정에서 즐기기 좋은 데일리 커피입니다. 선물용으로도 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8198/0f014053abee0233d023fef6c1fcd4943d442f98f89e821e4038c495f5dc.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2414714234427360-01e86df2-8b2c-4e8b-a8ea-ecbc86a63bbb.png"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "16600",
-    "url": "https://link.coupang.com/a/eySs6G",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 2255,
+    "reviewCount": 2257,
     "bestRating": 5,
     "worstRating": 1
   }

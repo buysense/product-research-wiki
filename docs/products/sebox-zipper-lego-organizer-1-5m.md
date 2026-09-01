@@ -11,17 +11,12 @@ description: 아이들 레고 정리 스트레스를 줄여주는 시벅스 지�
   "@type": "Product",
   "name": "시벅스 지퍼형 레고 정리함 1.5m",
   "description": "아이들 레고 정리 스트레스를 줄여주는 시벅스 지퍼형 레고 정리함 1.5m는 넓은 놀이 공간과 간편한 수납을 제공하여 깔끔한 놀이 환경을 만들어줍니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/05/31/18/7/e4bcc55a-fb95-46c2-bc9c-301f37680523.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/339527948378448-6300b3fb-2bf7-4e86-ac40-7bbe0d38062f.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "24200",
-    "url": "https://link.coupang.com/a/exsxO8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

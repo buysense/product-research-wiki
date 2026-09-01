@@ -11,22 +11,17 @@ description: 아이스토리키즈 여름봄무지 7부 플리츠는 활동량 �
   "@type": "Product",
   "name": "아이스토리키즈 여름봄무지 7부 플리츠",
   "description": "아이스토리키즈 여름봄무지 7부 플리츠는 활동량 많은 아이를 위한 편안한 데일리 상하복으로, 부드러운 소재와 통기성이 뛰어나 어린이집 등원룩이나 실내복으로 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2a3b/de9636c990c9d44cbc66bebc0e7d44cc2ed22f49d9739ce8c5d3bfe3dcac.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a796/9eb70cab74ee124b1d53fc0896e3089e2bc96b45073851ccb3f7a08caed5.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "11510",
-    "url": "https://link.coupang.com/a/dFf89o0jWC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 1280,
+    "reviewCount": 1299,
     "bestRating": 5,
     "worstRating": 1
   }
