@@ -9,19 +9,14 @@ description: 비세 레이어드 후루리 티크 블러셔는 자연스러운 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "비세 레이어드 후루리 티크 블러셔",
+  "name": "visee-layered-fururi-cheek-blusher",
   "description": "비세 레이어드 후루리 티크 블러셔는 자연스러운 혈색과 입체감을 연출하며, 데일리 메이크업이나 섬세한 치크 표현에 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/11fb/36802b45dd998ab484bebd04bf88e7e5a52b036bbb4200331ed677d89047.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f8fc/edda1e21e1eaa7e0a82b9bc92c1415c75dd45e7c4ca0f57038aab6b43354.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "28050",
-    "url": "https://link.coupang.com/a/ek0SIPYaQu",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   }
 }
 </script>

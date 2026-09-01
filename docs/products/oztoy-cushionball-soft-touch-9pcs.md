@@ -11,22 +11,17 @@ description: 구강기 아기들의 촉감 발달과 소근육 성장을 돕는 
   "@type": "Product",
   "name": "오즈토이 쿠션볼 말랑 소프트 촉감 볼 9종",
   "description": "구강기 아기들의 촉감 발달과 소근육 성장을 돕는 오즈토이 쿠션볼 말랑 소프트 촉감 볼 9종은 안전한 소재와 다양한 디자인으로 가정 내 놀이 활동에 적합합니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/25/14/1/60f54953-6c38-47be-983b-15717134cc25.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/25/15/9/e45ae43c-7b4c-4cec-bf0d-2561a71fde03.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "9900",
-    "url": "https://link.coupang.com/a/eqQeSxHmh2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 789,
+    "reviewCount": 791,
     "bestRating": 5,
     "worstRating": 1
   }

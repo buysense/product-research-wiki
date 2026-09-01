@@ -9,20 +9,19 @@ description: 오뗄 한입 핫도그는 부드러운 카스테라 빵과 국내�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "오뗄 한입 핫도그, 1kg, 1개",
+  "name": "ottel-bite-hotdog-1kg",
   "description": "오뗄 한입 핫도그는 부드러운 카스테라 빵과 국내산 돈육 소시지로 만들어져 아이 간식, 바쁜 아침 식사 대용으로 인기가 높은 냉동 간편식입니다.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "12490",
-    "url": "https://link.coupang.com/a/eoCgvV",
+    "price": "12480",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 572,
+    "reviewCount": 573,
     "bestRating": 5,
     "worstRating": 1
   }

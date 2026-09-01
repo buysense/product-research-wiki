@@ -9,19 +9,14 @@ description: ZARA 자라 여름 심플 턴다운 블레이저 자는 여름철 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "ZARA 자라 여름 심플 턴다운 블레이저 자",
+  "name": "zara-summer-simple-blazer",
   "description": "ZARA 자라 여름 심플 턴다운 블레이저 자는 여름철 가볍고 세련된 비즈니스 캐주얼룩이나 일상 스타일링에 활용하기 좋은 심플한 디자인의 블레이저입니다.",
-  "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/991d/8aa4c45fb3f2a0ceb01902b21f831e21efc0fad590e29283576176c704c6.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e95a/8b3c67e6d18fc1a01b71d795d6c0ce38e4a08f2bd816d72a2b8dfd08c3b3.jpg"
-  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "39700",
-    "url": "https://link.coupang.com/a/gvnxQNbO9Y",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
+    "priceValidUntil": "2026-09-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
