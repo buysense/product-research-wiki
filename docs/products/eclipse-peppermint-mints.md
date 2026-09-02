@@ -11,21 +11,21 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
   "@type": "Product",
   "name": "이클립스 페퍼민트향",
   "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ab88/56778d66958976ef08714f7cccc201e00cc1bc185f9ef063743ced4750f0.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/85170423585347-77297e79-4757-4aac-ba02-dc329c458db7.jpg"
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/bf212d4d-3109-4026-b40c-977b8bae3fa85262655584945609930_1751332834902.png",
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/114417656496173-94d8d54d-d1e4-47b6-9843-28d7cce890b3.jpg"
   ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "6210",
+    "price": "6240",
     "url": "https://link.coupang.com/a/eBvfAG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 61050,
+    "reviewCount": 61166,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 이클립스 페퍼민트향은 식후 입냄새 제거, 운전 중
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,210원 · 별점 4.8 · 리뷰 61,050개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 6,240원 · 별점 4.8 · 리뷰 61,166개</span>
     <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -361,7 +361,7 @@ A. 이클립스 페퍼민트향의 가장 큰 특징은 단 한 알만으로도 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,210원 · 별점 4.8 · 리뷰 61,050개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 6,240원 · 별점 4.8 · 리뷰 61,166개</span>
     <a href="https://link.coupang.com/a/eBvfAG" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
