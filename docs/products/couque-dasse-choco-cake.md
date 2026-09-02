@@ -11,8 +11,8 @@ description: 쿠크다스 쵸코케이크는 부드러운 시트에 초콜릿이
   "@type": "Product",
   "name": "쿠크다스 쵸코케이크",
   "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/22e2/5e061ffb7d42b7d760e6603c1f239bbc5dc427cba7716e537a11d1dd32fd.png",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fc84/35272e36b0df7bde13eddfa59eb965caaa148085992ffc0bea508427fc2b.png"
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/08/03/9/1/f0ab77b6-0b9c-4eaa-8a02-0d3a71a28777.jpg",
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/08/03/9/8/15ba1799-185c-40d4-bab2-66b7332a55d1.png"
   ],
   "offers": {
     "@type": "Offer",
@@ -20,12 +20,12 @@ description: 쿠크다스 쵸코케이크는 부드러운 시트에 초콜릿이
     "price": "7000",
     "url": "https://link.coupang.com/a/gr9Tms7nYO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.4,
-    "reviewCount": 114,
+    "reviewCount": 132,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 쿠크다스 쵸코케이크는 부드러운 시트에 초콜릿이
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,000원 · 별점 4.4 · 리뷰 114개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,000원 · 별점 4.4 · 리뷰 132개</span>
     <a href="https://link.coupang.com/a/gr9Tms7nYO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 쿠크다스 쵸코케이크는 부드러운 시트에 초콜릿이
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 11개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,29 +61,29 @@ description: 쿠크다스 쵸코케이크는 부드러운 시트에 초콜릿이
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">8,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
 
-    <path d="M 68 80 L 120 80 L 172 68 L 224 45 L 276 116 L 328 134 L 380 79 L 432 140 L 484 140 L 536 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 80 L 120 80 L 172 68 L 224 45 L 276 116 L 328 134 L 380 79 L 432 140 L 484 140 L 536 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 80 L 115 80 L 163 68 L 210 45 L 257 116 L 304 134 L 352 79 L 399 140 L 446 140 L 493 140 L 541 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 80 L 115 80 L 163 68 L 210 45 L 257 116 L 304 134 L 352 79 L 399 140 L 446 140 L 493 140 L 541 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="80" r="4" fill="#fdba74"><title>08-23 8,570원</title></circle>
-    <circle cx="120" cy="80" r="4" fill="#fdba74"><title>08-24 8,570원</title></circle>
-    <circle cx="172" cy="68" r="4" fill="#fdba74"><title>08-25 8,900원</title></circle>
-    <circle cx="224" cy="45" r="4" fill="#fdba74"><title>08-26 9,500원</title></circle>
-    <circle cx="276" cy="116" r="4" fill="#fdba74"><title>08-27 7,630원</title></circle>
-    <circle cx="328" cy="134" r="4" fill="#fdba74"><title>08-28 7,160원</title></circle>
-    <circle cx="380" cy="79" r="4" fill="#fdba74"><title>08-29 8,610원</title></circle>
-    <circle cx="432" cy="140" r="4" fill="#fdba74"><title>08-30 7,000원</title></circle>
-    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>09-02 7,000원</title></circle>
+    <circle cx="115" cy="80" r="4" fill="#fdba74"><title>08-24 8,570원</title></circle>
+    <circle cx="163" cy="68" r="4" fill="#fdba74"><title>08-25 8,900원</title></circle>
+    <circle cx="210" cy="45" r="4" fill="#fdba74"><title>08-26 9,500원</title></circle>
+    <circle cx="257" cy="116" r="4" fill="#fdba74"><title>08-27 7,630원</title></circle>
+    <circle cx="304" cy="134" r="4" fill="#fdba74"><title>08-28 7,160원</title></circle>
+    <circle cx="352" cy="79" r="4" fill="#fdba74"><title>08-29 8,610원</title></circle>
+    <circle cx="399" cy="140" r="4" fill="#fdba74"><title>08-30 7,000원</title></circle>
+    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>09-03 7,000원</title></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -174,7 +174,7 @@ A. 네, 그렇습니다. 대부분의 제과 제품과 마찬가지로 밀, 우�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,000원 · 별점 4.4 · 리뷰 114개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,000원 · 별점 4.4 · 리뷰 132개</span>
     <a href="https://link.coupang.com/a/gr9Tms7nYO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
