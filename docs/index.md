@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 명가삼대떡집 전통발효술떡 방울증편 잔기지떡 | [보기](products/myeonggasamdae-tteokjip-traditional-fermented-rice-cake.md) |
 | 퓨어닷 NEW 소독 물티슈 캡형 | [보기](products/puredot-new-disinfectant-wet-wipes-cap-type.md) |
 | 리스 하트 오브 팜 | [보기](products/reese-heart-of-palm.md) |
 | 차오차이 마라샹궈 소스 | [보기](products/chaochai-malaxiangguo-sauce.md) |
