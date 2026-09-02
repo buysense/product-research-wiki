@@ -11,8 +11,7 @@ description: 바이오가 우유단백질 로션은 건조하고 민감한 피�
   "@type": "Product",
   "name": "바이오가 우유단백질 로션",
   "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b9f/632a39b8c3f626a0ee5d25754e3fe48825c3b8ef613190b499ee610b52bf.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f089/a83e230fb7534e7c24f500510e1477434be22cb071103a9b89d622d06846.png"
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/75b7/8cbcef8d9c8ac6b0dc6e58715244d0f77afe9d3fa0e5b717b514f9718acb.jpg"
   ],
   "offers": {
     "@type": "Offer",
@@ -20,12 +19,12 @@ description: 바이오가 우유단백질 로션은 건조하고 민감한 피�
     "price": "21030",
     "url": "https://link.coupang.com/a/d0TzEOH6k0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 758,
+    "reviewCount": 759,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +41,7 @@ description: 바이오가 우유단백질 로션은 건조하고 민감한 피�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,030원 · 별점 4.8 · 리뷰 758개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,030원 · 별점 4.8 · 리뷰 759개</span>
     <a href="https://link.coupang.com/a/d0TzEOH6k0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,40 +59,40 @@ description: 바이오가 우유단백질 로션은 건조하고 민감한 피�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">15,000</text>
 
-    <path d="M 68 40 L 86 40 L 104 49 L 122 49 L 140 49 L 158 49 L 176 49 L 194 49 L 211 49 L 229 49 L 247 49 L 265 49 L 283 53 L 301 53 L 319 53 L 337 88 L 355 58 L 373 58 L 391 79 L 409 79 L 427 80 L 445 84 L 462 87 L 480 99 L 498 102 L 516 105 L 534 105 L 552 105 L 570 80 L 588 86 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 40 L 86 40 L 104 49 L 122 49 L 140 49 L 158 49 L 176 49 L 194 49 L 211 49 L 229 49 L 247 49 L 265 49 L 283 53 L 301 53 L 319 53 L 337 88 L 355 58 L 373 58 L 391 79 L 409 79 L 427 80 L 445 84 L 462 87 L 480 99 L 498 102 L 516 105 L 534 105 L 552 105 L 570 80 L 588 86" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="40" r="4" fill="#fdba74"><title>07-20 24,100원</title></circle>
-    <circle cx="86" cy="40" r="4" fill="#fdba74"><title>07-21 24,100원</title></circle>
-    <circle cx="104" cy="49" r="4" fill="#fdba74"><title>07-22 23,470원</title></circle>
-    <circle cx="265" cy="49" r="4" fill="#fdba74"><title>08-02 23,470원</title></circle>
-    <circle cx="283" cy="53" r="4" fill="#fdba74"><title>08-03 23,210원</title></circle>
-    <circle cx="319" cy="53" r="4" fill="#fdba74"><title>08-05 23,210원</title></circle>
-    <circle cx="337" cy="88" r="4" fill="#fdba74"><title>08-19 20,900원</title></circle>
-    <circle cx="355" cy="58" r="4" fill="#fdba74"><title>08-20 22,900원</title></circle>
-    <circle cx="373" cy="58" r="4" fill="#fdba74"><title>08-21 22,900원</title></circle>
-    <circle cx="391" cy="79" r="4" fill="#fdba74"><title>08-22 21,500원</title></circle>
-    <circle cx="409" cy="79" r="4" fill="#fdba74"><title>08-23 21,500원</title></circle>
-    <circle cx="427" cy="80" r="4" fill="#fdba74"><title>08-24 21,470원</title></circle>
-    <circle cx="445" cy="84" r="4" fill="#fdba74"><title>08-25 21,200원</title></circle>
-    <circle cx="462" cy="87" r="4" fill="#fdba74"><title>08-26 21,000원</title></circle>
-    <circle cx="480" cy="99" r="4" fill="#fdba74"><title>08-27 20,200원</title></circle>
-    <circle cx="498" cy="102" r="4" fill="#fdba74"><title>08-28 20,000원</title></circle>
-    <circle cx="516" cy="105" r="4" fill="#fdba74"><title>08-29 19,800원</title></circle>
-    <circle cx="552" cy="105" r="4" fill="#fdba74"><title>08-31 19,800원</title></circle>
-    <circle cx="570" cy="80" r="4" fill="#fdba74"><title>09-01 21,480원</title></circle>
-    <circle cx="588" cy="86" r="5" fill="#ea580c"><title>09-02 21,030원</title></circle>
+    <path d="M 68 40 L 86 49 L 104 49 L 122 49 L 140 49 L 158 49 L 176 49 L 194 49 L 211 49 L 229 49 L 247 49 L 265 53 L 283 53 L 301 53 L 319 88 L 337 58 L 355 58 L 373 79 L 391 79 L 409 80 L 427 84 L 445 87 L 462 99 L 480 102 L 498 105 L 516 105 L 534 105 L 552 80 L 570 86 L 588 86 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 40 L 86 49 L 104 49 L 122 49 L 140 49 L 158 49 L 176 49 L 194 49 L 211 49 L 229 49 L 247 49 L 265 53 L 283 53 L 301 53 L 319 88 L 337 58 L 355 58 L 373 79 L 391 79 L 409 80 L 427 84 L 445 87 L 462 99 L 480 102 L 498 105 L 516 105 L 534 105 L 552 80 L 570 86 L 588 86" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="40" r="4" fill="#fdba74"><title>07-21 24,100원</title></circle>
+    <circle cx="86" cy="49" r="4" fill="#fdba74"><title>07-22 23,470원</title></circle>
+    <circle cx="247" cy="49" r="4" fill="#fdba74"><title>08-02 23,470원</title></circle>
+    <circle cx="265" cy="53" r="4" fill="#fdba74"><title>08-03 23,210원</title></circle>
+    <circle cx="301" cy="53" r="4" fill="#fdba74"><title>08-05 23,210원</title></circle>
+    <circle cx="319" cy="88" r="4" fill="#fdba74"><title>08-19 20,900원</title></circle>
+    <circle cx="337" cy="58" r="4" fill="#fdba74"><title>08-20 22,900원</title></circle>
+    <circle cx="355" cy="58" r="4" fill="#fdba74"><title>08-21 22,900원</title></circle>
+    <circle cx="373" cy="79" r="4" fill="#fdba74"><title>08-22 21,500원</title></circle>
+    <circle cx="391" cy="79" r="4" fill="#fdba74"><title>08-23 21,500원</title></circle>
+    <circle cx="409" cy="80" r="4" fill="#fdba74"><title>08-24 21,470원</title></circle>
+    <circle cx="427" cy="84" r="4" fill="#fdba74"><title>08-25 21,200원</title></circle>
+    <circle cx="445" cy="87" r="4" fill="#fdba74"><title>08-26 21,000원</title></circle>
+    <circle cx="462" cy="99" r="4" fill="#fdba74"><title>08-27 20,200원</title></circle>
+    <circle cx="480" cy="102" r="4" fill="#fdba74"><title>08-28 20,000원</title></circle>
+    <circle cx="498" cy="105" r="4" fill="#fdba74"><title>08-29 19,800원</title></circle>
+    <circle cx="534" cy="105" r="4" fill="#fdba74"><title>08-31 19,800원</title></circle>
+    <circle cx="552" cy="80" r="4" fill="#fdba74"><title>09-01 21,480원</title></circle>
+    <circle cx="570" cy="86" r="4" fill="#fdba74"><title>09-02 21,030원</title></circle>
+    <circle cx="588" cy="86" r="5" fill="#ea580c"><title>09-03 21,030원</title></circle>
 
     <text x="588" y="74" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,030원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -329,7 +328,7 @@ A. 충분한 보습감을 제공하지만, 매우 건조한 겨울철이나 극�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,030원 · 별점 4.8 · 리뷰 758개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,030원 · 별점 4.8 · 리뷰 759개</span>
     <a href="https://link.coupang.com/a/d0TzEOH6k0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
