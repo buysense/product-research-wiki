@@ -11,8 +11,8 @@ description: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많�
   "@type": "Product",
   "name": "듀라쿨텍 KC인증 국산 아기 침대 냉감패드",
   "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/64ff/7f57a2582df9931154a48a6a49ed3c55532e0a266d8e853552b2b221e045.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/52a1/6738bd9978265aa70768b380ead6c9fde5dea56ebf02860bf53e10d1cc44.jpg"
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2104/61da54356c1c29ad82ceb81747f0cf28a9983dc5d46cfe6482d09086fec5.jpg",
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1eb6/58f0d972f0cad389c693c9fb437c53d47e7de1406e541012793ebff019ac.jpg"
   ],
   "offers": {
     "@type": "Offer",
@@ -20,7 +20,7 @@ description: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많�
     "price": "16900",
     "url": "https://link.coupang.com/a/d5Wv6G8EIS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-10"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -62,20 +62,20 @@ description: 듀라쿨텍 KC인증 국산 아기 침대 냉감패드는 열 많�
 
     <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-20 16,900원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-02 16,900원</title></circle>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-21 16,900원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-03 16,900원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
