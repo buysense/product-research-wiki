@@ -21,12 +21,12 @@ description: 황비홍 향취고추 부각은 매콤하고 바삭한 식감이 �
     "price": "7900",
     "url": "https://link.coupang.com/a/gLZRhQ7f40",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-11"
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 2660,
+    "reviewCount": 2661,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +44,7 @@ description: 황비홍 향취고추 부각은 매콤하고 바삭한 식감이 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,900원 · 별점 4.7 · 리뷰 2,660개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,900원 · 별점 4.7 · 리뷰 2,661개</span>
     <a href="https://link.coupang.com/a/gLZRhQ7f40" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -142,7 +142,7 @@ A. 제품의 바삭함을 오래 유지하려면 직사광선을 피해 서늘�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,900원 · 별점 4.7 · 리뷰 2,660개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,900원 · 별점 4.7 · 리뷰 2,661개</span>
     <a href="https://link.coupang.com/a/gLZRhQ7f40" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
