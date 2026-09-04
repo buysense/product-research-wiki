@@ -20,7 +20,7 @@ description: 롤리트리 아동 플리츠 와이드 팬츠는 편안한 착용�
     "price": "7990",
     "url": "https://link.coupang.com/a/efC6H0x3fg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-11"
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -62,20 +62,20 @@ description: 롤리트리 아동 플리츠 와이드 팬츠는 편안한 착용�
 
     <path d="M 68 110 L 86 110 L 104 110 L 122 110 L 140 110 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 110 L 86 110 L 104 110 L 122 110 L 140 110 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="110" r="4" fill="#fdba74"><title>07-19 7,990원</title></circle>
-    <circle cx="588" cy="110" r="5" fill="#ea580c"><title>09-04 7,990원</title></circle>
+    <circle cx="68" cy="110" r="4" fill="#fdba74"><title>07-20 7,990원</title></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"><title>09-05 7,990원</title></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,990원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
