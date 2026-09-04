@@ -21,7 +21,7 @@ description: 시눈 sinoon Ribbon Shirring Puff T-Shirt (Cream)은 리본 셔링
     "price": "78700",
     "url": "https://link.coupang.com/a/fF12Q8Dt6q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-11"
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
@@ -45,7 +45,7 @@ description: 시눈 sinoon Ribbon Shirring Puff T-Shirt (Cream)은 리본 셔링
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -54,32 +54,32 @@ description: 시눈 sinoon Ribbon Shirring Puff T-Shirt (Cream)은 리본 셔링
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">70,000</text>
 
-    <path d="M 68 107 L 91 107 L 113 107 L 136 26 L 158 26 L 181 26 L 204 41 L 226 89 L 249 89 L 271 89 L 294 89 L 317 41 L 339 41 L 362 26 L 385 112 L 407 112 L 430 112 L 452 112 L 475 112 L 498 112 L 520 112 L 543 112 L 565 112 L 588 112 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 107 L 91 107 L 113 107 L 136 26 L 158 26 L 181 26 L 204 41 L 226 89 L 249 89 L 271 89 L 294 89 L 317 41 L 339 41 L 362 26 L 385 112 L 407 112 L 430 112 L 452 112 L 475 112 L 498 112 L 520 112 L 543 112 L 565 112 L 588 112" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 107 L 90 107 L 111 107 L 133 26 L 155 26 L 176 26 L 198 41 L 220 89 L 241 89 L 263 89 L 285 89 L 306 41 L 328 41 L 350 26 L 371 112 L 393 112 L 415 112 L 436 112 L 458 112 L 480 112 L 501 112 L 523 112 L 545 112 L 566 112 L 588 112 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 107 L 90 107 L 111 107 L 133 26 L 155 26 L 176 26 L 198 41 L 220 89 L 241 89 L 263 89 L 285 89 L 306 41 L 328 41 L 350 26 L 371 112 L 393 112 L 415 112 L 436 112 L 458 112 L 480 112 L 501 112 L 523 112 L 545 112 L 566 112 L 588 112" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="107" r="4" fill="#fdba74"><title>07-25 79,310원</title></circle>
-    <circle cx="113" cy="107" r="4" fill="#fdba74"><title>07-30 79,310원</title></circle>
-    <circle cx="136" cy="26" r="4" fill="#fdba74"><title>07-31 92,690원</title></circle>
-    <circle cx="181" cy="26" r="4" fill="#fdba74"><title>08-03 92,690원</title></circle>
-    <circle cx="204" cy="41" r="4" fill="#fdba74"><title>08-05 87,990원</title></circle>
-    <circle cx="226" cy="89" r="4" fill="#fdba74"><title>08-19 81,740원</title></circle>
-    <circle cx="294" cy="89" r="4" fill="#fdba74"><title>08-22 81,740원</title></circle>
-    <circle cx="317" cy="41" r="4" fill="#fdba74"><title>08-23 88,000원</title></circle>
-    <circle cx="339" cy="41" r="4" fill="#fdba74"><title>08-24 88,000원</title></circle>
-    <circle cx="362" cy="26" r="4" fill="#fdba74"><title>08-25 97,380원</title></circle>
-    <circle cx="385" cy="112" r="4" fill="#fdba74"><title>08-26 78,700원</title></circle>
-    <circle cx="588" cy="112" r="5" fill="#ea580c"><title>09-04 78,700원</title></circle>
+    <circle cx="111" cy="107" r="4" fill="#fdba74"><title>07-30 79,310원</title></circle>
+    <circle cx="133" cy="26" r="4" fill="#fdba74"><title>07-31 92,690원</title></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"><title>08-03 92,690원</title></circle>
+    <circle cx="198" cy="41" r="4" fill="#fdba74"><title>08-05 87,990원</title></circle>
+    <circle cx="220" cy="89" r="4" fill="#fdba74"><title>08-19 81,740원</title></circle>
+    <circle cx="285" cy="89" r="4" fill="#fdba74"><title>08-22 81,740원</title></circle>
+    <circle cx="306" cy="41" r="4" fill="#fdba74"><title>08-23 88,000원</title></circle>
+    <circle cx="328" cy="41" r="4" fill="#fdba74"><title>08-24 88,000원</title></circle>
+    <circle cx="350" cy="26" r="4" fill="#fdba74"><title>08-25 97,380원</title></circle>
+    <circle cx="371" cy="112" r="4" fill="#fdba74"><title>08-26 78,700원</title></circle>
+    <circle cx="588" cy="112" r="5" fill="#ea580c"><title>09-05 78,700원</title></circle>
 
     <text x="588" y="100" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">78,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
