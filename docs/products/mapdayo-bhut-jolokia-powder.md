@@ -21,7 +21,7 @@ description: 맵다요 부트졸로키아 가루는 최상급 부트졸로키아
     "price": "18500",
     "url": "https://link.coupang.com/a/gLZ0SIu7xc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-11"
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
