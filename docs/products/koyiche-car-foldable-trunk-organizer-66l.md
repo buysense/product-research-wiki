@@ -21,7 +21,7 @@ description: 코이체 자동차 접이식 트렁크 정리함 대형66L은 튼�
     "price": "27780",
     "url": "https://link.coupang.com/a/dTWaGzz2Au",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-11"
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,29 +61,28 @@ description: 코이체 자동차 접이식 트렁크 정리함 대형66L은 튼�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
 
-    <path d="M 68 34 L 86 157 L 104 157 L 122 157 L 140 157 L 158 157 L 176 157 L 194 157 L 211 157 L 229 167 L 247 167 L 265 167 L 283 167 L 301 157 L 319 157 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 34 L 86 157 L 104 157 L 122 157 L 140 157 L 158 157 L 176 157 L 194 157 L 211 157 L 229 167 L 247 167 L 265 167 L 283 167 L 301 157 L 319 157 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="34" r="4" fill="#fdba74"><title>07-21 27,780원</title></circle>
-    <circle cx="86" cy="157" r="4" fill="#fdba74"><title>07-22 24,550원</title></circle>
-    <circle cx="211" cy="157" r="4" fill="#fdba74"><title>07-31 24,550원</title></circle>
-    <circle cx="229" cy="167" r="4" fill="#fdba74"><title>08-01 24,300원</title></circle>
-    <circle cx="283" cy="167" r="4" fill="#fdba74"><title>08-04 24,300원</title></circle>
-    <circle cx="301" cy="157" r="4" fill="#fdba74"><title>08-19 24,550원</title></circle>
-    <circle cx="319" cy="157" r="4" fill="#fdba74"><title>08-20 24,550원</title></circle>
-    <circle cx="337" cy="34" r="4" fill="#fdba74"><title>08-21 27,780원</title></circle>
-    <circle cx="588" cy="34" r="5" fill="#ea580c"><title>09-04 27,780원</title></circle>
+    <path d="M 68 157 L 86 157 L 104 157 L 122 157 L 140 157 L 158 157 L 176 157 L 194 157 L 211 167 L 229 167 L 247 167 L 265 167 L 283 157 L 301 157 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 157 L 86 157 L 104 157 L 122 157 L 140 157 L 158 157 L 176 157 L 194 157 L 211 167 L 229 167 L 247 167 L 265 167 L 283 157 L 301 157 L 319 34 L 337 34 L 355 34 L 373 34 L 391 34 L 409 34 L 427 34 L 445 34 L 462 34 L 480 34 L 498 34 L 516 34 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="157" r="4" fill="#fdba74"><title>07-22 24,550원</title></circle>
+    <circle cx="194" cy="157" r="4" fill="#fdba74"><title>07-31 24,550원</title></circle>
+    <circle cx="211" cy="167" r="4" fill="#fdba74"><title>08-01 24,300원</title></circle>
+    <circle cx="265" cy="167" r="4" fill="#fdba74"><title>08-04 24,300원</title></circle>
+    <circle cx="283" cy="157" r="4" fill="#fdba74"><title>08-19 24,550원</title></circle>
+    <circle cx="301" cy="157" r="4" fill="#fdba74"><title>08-20 24,550원</title></circle>
+    <circle cx="319" cy="34" r="4" fill="#fdba74"><title>08-21 27,780원</title></circle>
+    <circle cx="588" cy="34" r="5" fill="#ea580c"><title>09-05 27,780원</title></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">27,780원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
