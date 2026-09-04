@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 황비홍 향취고추 부각 | [보기](products/hwangbihong-hyangchwi-gochu-bugak.md) |
 | 카시오 엑슬림 z550 o -실버 | [보기](products/casio-exilim-z550-silver.md) |
 | 니도 드림드롭 | [보기](products/nido-dreamdrop.md) |
 | 모모즈랩 두바이 카스테라 찹쌀떡 | [보기](products/momozlab-dubai-castella-chapssaltteok.md) |
