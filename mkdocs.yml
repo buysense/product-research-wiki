@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 맵다요 부트졸로키아 가루: products/mapdayo-bhut-jolokia-powder.md
     - 황비홍 향취고추 부각: products/hwangbihong-hyangchwi-gochu-bugak.md
     - 카시오 엑슬림 z550 o -실버: products/casio-exilim-z550-silver.md
     - 니도 드림드롭: products/nido-dreamdrop.md

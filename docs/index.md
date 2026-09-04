@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 맵다요 부트졸로키아 가루 | [보기](products/mapdayo-bhut-jolokia-powder.md) |
 | 황비홍 향취고추 부각 | [보기](products/hwangbihong-hyangchwi-gochu-bugak.md) |
 | 카시오 엑슬림 z550 o -실버 | [보기](products/casio-exilim-z550-silver.md) |
 | 니도 드림드롭 | [보기](products/nido-dreamdrop.md) |
