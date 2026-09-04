@@ -20,12 +20,12 @@ description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된
     "price": "15750",
     "url": "https://link.coupang.com/a/dXOWedqbCe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.7,
-    "reviewCount": 30,
+    "ratingValue": 4.6,
+    "reviewCount": 31,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,750원 · 별점 4.7 · 리뷰 30개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 15,750원 · 별점 4.6 · 리뷰 31개</span>
     <a href="https://link.coupang.com/a/dXOWedqbCe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -62,20 +62,20 @@ description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된
 
     <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 140 L 552 140 L 570 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 140 L 86 140 L 104 140 L 122 140 L 140 140 L 158 140 L 176 140 L 194 140 L 211 140 L 229 140 L 247 140 L 265 140 L 283 140 L 301 140 L 319 140 L 337 140 L 355 140 L 373 140 L 391 140 L 409 140 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 140 L 552 140 L 570 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="140" r="4" fill="#fdba74"><title>07-16 15,750원</title></circle>
-    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>09-02 15,750원</title></circle>
+    <circle cx="68" cy="140" r="4" fill="#fdba74"><title>07-18 15,750원</title></circle>
+    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>09-04 15,750원</title></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">15,750원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -291,7 +291,7 @@ A. '예감은 틀리지 않는다'는 출판 시기나 에디션에 따라 다�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,750원 · 별점 4.7 · 리뷰 30개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 15,750원 · 별점 4.6 · 리뷰 31개</span>
     <a href="https://link.coupang.com/a/dXOWedqbCe" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

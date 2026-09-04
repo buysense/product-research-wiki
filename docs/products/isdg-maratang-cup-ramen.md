@@ -18,15 +18,15 @@ description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "31700",
+    "price": "24610",
     "url": "https://link.coupang.com/a/eqHujA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 554,
+    "reviewCount": 580,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 31,700원 · 별점 4.8 · 리뷰 554개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,610원 · 별점 4.8 · 리뷰 580개</span>
     <a href="https://link.coupang.com/a/eqHujA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,37 +61,37 @@ description: iSDG 마라탕 컵라면은 일본 현지 감성을 살린 얼얼�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 130 L 86 130 L 104 128 L 122 128 L 140 128 L 158 128 L 176 128 L 194 128 L 211 139 L 229 139 L 247 139 L 265 139 L 283 139 L 301 139 L 319 139 L 337 30 L 355 30 L 373 30 L 391 34 L 409 79 L 427 66 L 445 60 L 462 37 L 480 42 L 498 51 L 516 89 L 534 89 L 552 89 L 570 89 L 588 89 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 130 L 86 130 L 104 128 L 122 128 L 140 128 L 158 128 L 176 128 L 194 128 L 211 139 L 229 139 L 247 139 L 265 139 L 283 139 L 301 139 L 319 139 L 337 30 L 355 30 L 373 30 L 391 34 L 409 79 L 427 66 L 445 60 L 462 37 L 480 42 L 498 51 L 516 89 L 534 89 L 552 89 L 570 89 L 588 89" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="130" r="4" fill="#fdba74"><title>07-19 26,310원</title></circle>
-    <circle cx="86" cy="130" r="4" fill="#fdba74"><title>07-20 26,310원</title></circle>
-    <circle cx="104" cy="128" r="4" fill="#fdba74"><title>07-21 26,600원</title></circle>
-    <circle cx="194" cy="128" r="4" fill="#fdba74"><title>07-26 26,600원</title></circle>
-    <circle cx="211" cy="139" r="4" fill="#fdba74"><title>07-29 25,180원</title></circle>
-    <circle cx="319" cy="139" r="4" fill="#fdba74"><title>08-04 25,180원</title></circle>
-    <circle cx="337" cy="30" r="4" fill="#fdba74"><title>08-19 39,500원</title></circle>
-    <circle cx="373" cy="30" r="4" fill="#fdba74"><title>08-21 39,500원</title></circle>
-    <circle cx="391" cy="34" r="4" fill="#fdba74"><title>08-22 39,000원</title></circle>
-    <circle cx="409" cy="79" r="4" fill="#fdba74"><title>08-23 32,990원</title></circle>
-    <circle cx="427" cy="66" r="4" fill="#fdba74"><title>08-24 34,770원</title></circle>
-    <circle cx="445" cy="60" r="4" fill="#fdba74"><title>08-25 35,550원</title></circle>
-    <circle cx="462" cy="37" r="4" fill="#fdba74"><title>08-26 38,500원</title></circle>
-    <circle cx="480" cy="42" r="4" fill="#fdba74"><title>08-27 37,950원</title></circle>
-    <circle cx="498" cy="51" r="4" fill="#fdba74"><title>08-28 36,750원</title></circle>
-    <circle cx="516" cy="89" r="4" fill="#fdba74"><title>08-29 31,700원</title></circle>
-    <circle cx="588" cy="89" r="5" fill="#ea580c"><title>09-02 31,700원</title></circle>
+    <path d="M 68 128 L 86 128 L 104 128 L 122 128 L 140 128 L 158 128 L 176 139 L 194 139 L 211 139 L 229 139 L 247 139 L 265 139 L 283 139 L 301 30 L 319 30 L 337 30 L 355 34 L 373 79 L 391 66 L 409 60 L 427 37 L 445 42 L 462 51 L 480 89 L 498 89 L 516 89 L 534 89 L 552 89 L 570 143 L 588 143 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 128 L 86 128 L 104 128 L 122 128 L 140 128 L 158 128 L 176 139 L 194 139 L 211 139 L 229 139 L 247 139 L 265 139 L 283 139 L 301 30 L 319 30 L 337 30 L 355 34 L 373 79 L 391 66 L 409 60 L 427 37 L 445 42 L 462 51 L 480 89 L 498 89 L 516 89 L 534 89 L 552 89 L 570 143 L 588 143" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="128" r="4" fill="#fdba74"><title>07-21 26,600원</title></circle>
+    <circle cx="158" cy="128" r="4" fill="#fdba74"><title>07-26 26,600원</title></circle>
+    <circle cx="176" cy="139" r="4" fill="#fdba74"><title>07-29 25,180원</title></circle>
+    <circle cx="283" cy="139" r="4" fill="#fdba74"><title>08-04 25,180원</title></circle>
+    <circle cx="301" cy="30" r="4" fill="#fdba74"><title>08-19 39,500원</title></circle>
+    <circle cx="337" cy="30" r="4" fill="#fdba74"><title>08-21 39,500원</title></circle>
+    <circle cx="355" cy="34" r="4" fill="#fdba74"><title>08-22 39,000원</title></circle>
+    <circle cx="373" cy="79" r="4" fill="#fdba74"><title>08-23 32,990원</title></circle>
+    <circle cx="391" cy="66" r="4" fill="#fdba74"><title>08-24 34,770원</title></circle>
+    <circle cx="409" cy="60" r="4" fill="#fdba74"><title>08-25 35,550원</title></circle>
+    <circle cx="427" cy="37" r="4" fill="#fdba74"><title>08-26 38,500원</title></circle>
+    <circle cx="445" cy="42" r="4" fill="#fdba74"><title>08-27 37,950원</title></circle>
+    <circle cx="462" cy="51" r="4" fill="#fdba74"><title>08-28 36,750원</title></circle>
+    <circle cx="480" cy="89" r="4" fill="#fdba74"><title>08-29 31,700원</title></circle>
+    <circle cx="552" cy="89" r="4" fill="#fdba74"><title>09-02 31,700원</title></circle>
+    <circle cx="570" cy="143" r="4" fill="#fdba74"><title>09-03 24,610원</title></circle>
+    <circle cx="588" cy="143" r="5" fill="#ea580c"><title>09-04 24,610원</title></circle>
 
-    <text x="588" y="77" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">31,700원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="588" y="131" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,610원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -364,7 +364,7 @@ A. 일반 라면 면이 아닌 쫀득한 당면을 사용하여 식감이 독특
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 31,700원 · 별점 4.8 · 리뷰 554개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 24,610원 · 별점 4.8 · 리뷰 580개</span>
     <a href="https://link.coupang.com/a/eqHujA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

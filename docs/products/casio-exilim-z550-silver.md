@@ -20,7 +20,7 @@ description: 카시오 엑슬림 Z550 o -실버는 일상 스냅과 가벼운 �
     "price": "340200",
     "url": "https://link.coupang.com/a/gKo8E6z7G8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-10"
+    "priceValidUntil": "2026-09-11"
   }
 }
 </script>

@@ -21,7 +21,7 @@ description: 니도 드림드롭은 일상 속 스트레스 해소와 편안한 
     "price": "27270",
     "url": "https://link.coupang.com/a/gKoS0BFYyW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-10"
+    "priceValidUntil": "2026-09-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

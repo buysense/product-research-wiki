@@ -10,18 +10,22 @@ description: 베베쿡 더 맛있는 빼빼롱뻥은 유기농 현미와 NON-GMO
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "베베쿡 더 맛있는 빼빼롱뻥",
+  "image": [
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7638563012482463-d0315dd9-66f6-43ca-bb80-40974203de51.png",
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/074a/56a6c7f5005c682ec2d9e4f8d8ac58e2a93906b38a5f49cd371e8cffdec0.png"
+  ],
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "12400",
+    "price": "13500",
     "url": "https://link.coupang.com/a/eppvg4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 10220,
+    "reviewCount": 10235,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -36,7 +40,7 @@ description: 베베쿡 더 맛있는 빼빼롱뻥은 유기농 현미와 NON-GMO
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,400원 · 별점 4.7 · 리뷰 10,220개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,500원 · 별점 4.7 · 리뷰 10,235개</span>
     <a href="https://link.coupang.com/a/eppvg4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -54,27 +58,29 @@ description: 베베쿡 더 맛있는 빼빼롱뻥은 유기농 현미와 NON-GMO
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
 
-    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 37 L 229 37 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 64 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 64 L 194 64 L 211 37 L 229 37 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 64 L 570 64 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="64" r="4" fill="#fdba74"><title>07-20 13,500원</title></circle>
-    <circle cx="194" cy="64" r="4" fill="#fdba74"><title>07-29 13,500원</title></circle>
-    <circle cx="211" cy="37" r="4" fill="#fdba74"><title>07-30 13,860원</title></circle>
-    <circle cx="229" cy="37" r="4" fill="#fdba74"><title>07-31 13,860원</title></circle>
-    <circle cx="247" cy="64" r="4" fill="#fdba74"><title>08-01 13,500원</title></circle>
-    <circle cx="570" cy="64" r="4" fill="#fdba74"><title>09-01 13,500원</title></circle>
-    <circle cx="588" cy="148" r="5" fill="#ea580c"><title>09-02 12,400원</title></circle>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 37 L 194 37 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 148 L 570 148 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 64 L 86 64 L 104 64 L 122 64 L 140 64 L 158 64 L 176 37 L 194 37 L 211 64 L 229 64 L 247 64 L 265 64 L 283 64 L 301 64 L 319 64 L 337 64 L 355 64 L 373 64 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 64 L 516 64 L 534 64 L 552 148 L 570 148 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="64" r="4" fill="#fdba74"><title>07-22 13,500원</title></circle>
+    <circle cx="158" cy="64" r="4" fill="#fdba74"><title>07-29 13,500원</title></circle>
+    <circle cx="176" cy="37" r="4" fill="#fdba74"><title>07-30 13,860원</title></circle>
+    <circle cx="194" cy="37" r="4" fill="#fdba74"><title>07-31 13,860원</title></circle>
+    <circle cx="211" cy="64" r="4" fill="#fdba74"><title>08-01 13,500원</title></circle>
+    <circle cx="534" cy="64" r="4" fill="#fdba74"><title>09-01 13,500원</title></circle>
+    <circle cx="552" cy="148" r="4" fill="#fdba74"><title>09-02 12,400원</title></circle>
+    <circle cx="570" cy="148" r="4" fill="#fdba74"><title>09-03 12,400원</title></circle>
+    <circle cx="588" cy="64" r="5" fill="#ea580c"><title>09-04 13,500원</title></circle>
 
-    <text x="588" y="136" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,400원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,500원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -362,7 +368,7 @@ A. 네, 길쭉한 롱스틱 형태로 아기가 손에 쥐고 오래 먹을 수 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,400원 · 별점 4.7 · 리뷰 10,220개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,500원 · 별점 4.7 · 리뷰 10,235개</span>
     <a href="https://link.coupang.com/a/eppvg4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

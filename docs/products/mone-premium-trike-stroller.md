@@ -18,10 +18,10 @@ description: 모네 프리미엄 트라이크 유모차는 활동적인 유아�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "264820",
+    "price": "249330",
     "url": "https://link.coupang.com/a/dTXXZfdEXs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -43,7 +43,7 @@ description: 모네 프리미엄 트라이크 유모차는 활동적인 유아�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 264,820원 · 별점 4.9 · 리뷰 9개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 249,330원 · 별점 4.9 · 리뷰 9개</span>
     <a href="https://link.coupang.com/a/dTXXZfdEXs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -57,32 +57,34 @@ description: 모네 프리미엄 트라이크 유모차는 활동적인 유아�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">350,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">300,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">250,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">300,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">250,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
 
-    <path d="M 68 91 L 86 91 L 104 91 L 122 91 L 140 91 L 158 95 L 176 95 L 194 95 L 211 95 L 229 95 L 247 95 L 265 95 L 283 109 L 301 109 L 319 109 L 337 155 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 155 L 534 155 L 552 155 L 570 155 L 588 155 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 91 L 86 91 L 104 91 L 122 91 L 140 91 L 158 95 L 176 95 L 194 95 L 211 95 L 229 95 L 247 95 L 265 95 L 283 109 L 301 109 L 319 109 L 337 155 L 355 155 L 373 155 L 391 155 L 409 155 L 427 155 L 445 155 L 462 155 L 480 155 L 498 155 L 516 155 L 534 155 L 552 155 L 570 155 L 588 155" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="91" r="4" fill="#fdba74"><title>07-17 307,000원</title></circle>
-    <circle cx="140" cy="91" r="4" fill="#fdba74"><title>07-21 307,000원</title></circle>
-    <circle cx="158" cy="95" r="4" fill="#fdba74"><title>07-22 304,920원</title></circle>
-    <circle cx="265" cy="95" r="4" fill="#fdba74"><title>07-31 304,920원</title></circle>
-    <circle cx="283" cy="109" r="4" fill="#fdba74"><title>08-02 295,680원</title></circle>
-    <circle cx="319" cy="109" r="4" fill="#fdba74"><title>08-04 295,680원</title></circle>
-    <circle cx="337" cy="155" r="4" fill="#fdba74"><title>08-19 264,820원</title></circle>
-    <circle cx="588" cy="155" r="5" fill="#ea580c"><title>09-02 264,820원</title></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 33 L 265 33 L 283 33 L 301 79 L 319 79 L 337 79 L 355 79 L 373 79 L 391 79 L 409 79 L 427 79 L 445 79 L 462 79 L 480 79 L 498 79 L 516 79 L 534 79 L 552 79 L 570 97 L 588 103 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 33 L 265 33 L 283 33 L 301 79 L 319 79 L 337 79 L 355 79 L 373 79 L 391 79 L 409 79 L 427 79 L 445 79 L 462 79 L 480 79 L 498 79 L 516 79 L 534 79 L 552 79 L 570 97 L 588 103" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-19 307,000원</title></circle>
+    <circle cx="104" cy="26" r="4" fill="#fdba74"><title>07-21 307,000원</title></circle>
+    <circle cx="122" cy="26" r="4" fill="#fdba74"><title>07-22 304,920원</title></circle>
+    <circle cx="229" cy="26" r="4" fill="#fdba74"><title>07-31 304,920원</title></circle>
+    <circle cx="247" cy="33" r="4" fill="#fdba74"><title>08-02 295,680원</title></circle>
+    <circle cx="283" cy="33" r="4" fill="#fdba74"><title>08-04 295,680원</title></circle>
+    <circle cx="301" cy="79" r="4" fill="#fdba74"><title>08-19 264,820원</title></circle>
+    <circle cx="552" cy="79" r="4" fill="#fdba74"><title>09-02 264,820원</title></circle>
+    <circle cx="570" cy="97" r="4" fill="#fdba74"><title>09-03 253,300원</title></circle>
+    <circle cx="588" cy="103" r="5" fill="#ea580c"><title>09-04 249,330원</title></circle>
 
-    <text x="588" y="143" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">264,820원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="588" y="91" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">249,330원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -307,7 +309,7 @@ A. 제품 모델에 따라 접는 방식과 부피가 다르지만, 일반적인
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 264,820원 · 별점 4.9 · 리뷰 9개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 249,330원 · 별점 4.9 · 리뷰 9개</span>
     <a href="https://link.coupang.com/a/dTXXZfdEXs" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

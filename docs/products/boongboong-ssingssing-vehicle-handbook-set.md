@@ -11,8 +11,8 @@ description: 붕붕 씽씽 탈것 핸드북 전10권 세트는 유아 언어 발
   "@type": "Product",
   "name": "붕붕 씽씽 탈것 핸드북 전10권 세트",
   "image": [
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/74aa/11672ea3866754145433dbda4533a323e7b5861bde55a6234d3e9a83f3dd.jpg",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1340956953488731-b72c2156-425c-4a6f-b134-6553c71ffd28.jpg"
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/02/01/3006231696/9ec605e4-6a4e-4ba2-921d-2ac91512bb08.jpg",
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2017/01/03/3006231696/2abafbbf-dd2d-45ec-aac6-e542049b398f.jpg"
   ],
   "offers": {
     "@type": "Offer",
@@ -20,12 +20,12 @@ description: 붕붕 씽씽 탈것 핸드북 전10권 세트는 유아 언어 발
     "price": "34200",
     "url": "https://link.coupang.com/a/epJVz1isZU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 1878,
+    "reviewCount": 1881,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 붕붕 씽씽 탈것 핸드북 전10권 세트는 유아 언어 발
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,200원 · 별점 4.7 · 리뷰 1,878개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 34,200원 · 별점 4.7 · 리뷰 1,881개</span>
     <a href="https://link.coupang.com/a/epJVz1isZU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -62,20 +62,20 @@ description: 붕붕 씽씽 탈것 핸드북 전10권 세트는 유아 언어 발
 
     <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-20 34,200원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-02 34,200원</title></circle>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-22 34,200원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-04 34,200원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -272,7 +272,7 @@ A. 다양한 탈것 이름 인지, 의성어/의태어를 통한 언어 표현�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,200원 · 별점 4.7 · 리뷰 1,878개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 34,200원 · 별점 4.7 · 리뷰 1,881개</span>
     <a href="https://link.coupang.com/a/epJVz1isZU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

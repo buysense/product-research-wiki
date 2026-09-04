@@ -17,12 +17,12 @@ description: 닛신 돈베이 키츠네 우동은 일본 현지의 맛을 집에
     "price": "22900",
     "url": "https://link.coupang.com/a/elT1NA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 2316,
+    "reviewCount": 2350,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -37,7 +37,7 @@ description: 닛신 돈베이 키츠네 우동은 일본 현지의 맛을 집에
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,900원 · 별점 4.8 · 리뷰 2,316개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 22,900원 · 별점 4.8 · 리뷰 2,350개</span>
     <a href="https://link.coupang.com/a/elT1NA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -55,38 +55,37 @@ description: 닛신 돈베이 키츠네 우동은 일본 현지의 맛을 집에
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 58 L 140 100 L 158 100 L 176 100 L 194 26 L 211 73 L 229 73 L 247 101 L 265 101 L 283 101 L 301 101 L 319 101 L 337 94 L 355 94 L 373 94 L 391 94 L 409 94 L 427 94 L 445 114 L 462 114 L 480 114 L 498 114 L 516 123 L 534 123 L 552 123 L 570 134 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 58 L 140 100 L 158 100 L 176 100 L 194 26 L 211 73 L 229 73 L 247 101 L 265 101 L 283 101 L 301 101 L 319 101 L 337 94 L 355 94 L 373 94 L 391 94 L 409 94 L 427 94 L 445 114 L 462 114 L 480 114 L 498 114 L 516 123 L 534 123 L 552 123 L 570 134 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-17 30,380원</title></circle>
-    <circle cx="104" cy="26" r="4" fill="#fdba74"><title>07-19 30,380원</title></circle>
-    <circle cx="122" cy="58" r="4" fill="#fdba74"><title>07-20 27,900원</title></circle>
-    <circle cx="140" cy="100" r="4" fill="#fdba74"><title>07-21 25,110원</title></circle>
-    <circle cx="176" cy="100" r="4" fill="#fdba74"><title>07-23 25,110원</title></circle>
-    <circle cx="194" cy="26" r="4" fill="#fdba74"><title>07-24 32,130원</title></circle>
-    <circle cx="211" cy="73" r="4" fill="#fdba74"><title>07-25 26,910원</title></circle>
-    <circle cx="229" cy="73" r="4" fill="#fdba74"><title>07-26 26,910원</title></circle>
-    <circle cx="247" cy="101" r="4" fill="#fdba74"><title>07-30 25,090원</title></circle>
-    <circle cx="319" cy="101" r="4" fill="#fdba74"><title>08-04 25,090원</title></circle>
-    <circle cx="337" cy="94" r="4" fill="#fdba74"><title>08-19 25,500원</title></circle>
-    <circle cx="427" cy="94" r="4" fill="#fdba74"><title>08-24 25,500원</title></circle>
-    <circle cx="445" cy="114" r="4" fill="#fdba74"><title>08-25 24,220원</title></circle>
-    <circle cx="498" cy="114" r="4" fill="#fdba74"><title>08-28 24,220원</title></circle>
-    <circle cx="516" cy="123" r="4" fill="#fdba74"><title>08-29 23,650원</title></circle>
-    <circle cx="552" cy="123" r="4" fill="#fdba74"><title>08-31 23,650원</title></circle>
-    <circle cx="570" cy="134" r="4" fill="#fdba74"><title>09-01 22,900원</title></circle>
-    <circle cx="588" cy="134" r="5" fill="#ea580c"><title>09-02 22,900원</title></circle>
+    <path d="M 68 26 L 86 58 L 104 100 L 122 100 L 140 100 L 158 26 L 176 73 L 194 73 L 211 101 L 229 101 L 247 101 L 265 101 L 283 101 L 301 94 L 319 94 L 337 94 L 355 94 L 373 94 L 391 94 L 409 114 L 427 114 L 445 114 L 462 114 L 480 123 L 498 123 L 516 123 L 534 134 L 552 134 L 570 134 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 58 L 104 100 L 122 100 L 140 100 L 158 26 L 176 73 L 194 73 L 211 101 L 229 101 L 247 101 L 265 101 L 283 101 L 301 94 L 319 94 L 337 94 L 355 94 L 373 94 L 391 94 L 409 114 L 427 114 L 445 114 L 462 114 L 480 123 L 498 123 L 516 123 L 534 134 L 552 134 L 570 134 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-19 30,380원</title></circle>
+    <circle cx="86" cy="58" r="4" fill="#fdba74"><title>07-20 27,900원</title></circle>
+    <circle cx="104" cy="100" r="4" fill="#fdba74"><title>07-21 25,110원</title></circle>
+    <circle cx="140" cy="100" r="4" fill="#fdba74"><title>07-23 25,110원</title></circle>
+    <circle cx="158" cy="26" r="4" fill="#fdba74"><title>07-24 32,130원</title></circle>
+    <circle cx="176" cy="73" r="4" fill="#fdba74"><title>07-25 26,910원</title></circle>
+    <circle cx="194" cy="73" r="4" fill="#fdba74"><title>07-26 26,910원</title></circle>
+    <circle cx="211" cy="101" r="4" fill="#fdba74"><title>07-30 25,090원</title></circle>
+    <circle cx="283" cy="101" r="4" fill="#fdba74"><title>08-04 25,090원</title></circle>
+    <circle cx="301" cy="94" r="4" fill="#fdba74"><title>08-19 25,500원</title></circle>
+    <circle cx="391" cy="94" r="4" fill="#fdba74"><title>08-24 25,500원</title></circle>
+    <circle cx="409" cy="114" r="4" fill="#fdba74"><title>08-25 24,220원</title></circle>
+    <circle cx="462" cy="114" r="4" fill="#fdba74"><title>08-28 24,220원</title></circle>
+    <circle cx="480" cy="123" r="4" fill="#fdba74"><title>08-29 23,650원</title></circle>
+    <circle cx="516" cy="123" r="4" fill="#fdba74"><title>08-31 23,650원</title></circle>
+    <circle cx="534" cy="134" r="4" fill="#fdba74"><title>09-01 22,900원</title></circle>
+    <circle cx="588" cy="134" r="5" fill="#ea580c"><title>09-04 22,900원</title></circle>
 
     <text x="588" y="122" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">22,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -387,7 +386,7 @@ A. 네, 닛신 돈베이 키츠네 우동의 면발은 일반적인 컵라면과
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,900원 · 별점 4.8 · 리뷰 2,316개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 22,900원 · 별점 4.8 · 리뷰 2,350개</span>
     <a href="https://link.coupang.com/a/elT1NA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

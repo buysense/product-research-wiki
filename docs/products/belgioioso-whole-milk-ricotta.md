@@ -12,7 +12,7 @@ description: 벨지오이오조 홀밀크 리코타는 풍부하고 크리미한
   "name": "벨지오이오조 홀밀크 리코타",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/95b0/9e4cd046088aa3b0121c7440479a2883188f53971ec4191bfd64433a5194.png",
-    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f37b/a23fd80366238f13ddf7193f774d67d92b36e3d4072827eca507e44f26ce.jpg"
+    "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8703/6aa367225fceebc0baefe01f0d39e2ed6da19a8b6bfcc91426338617e7d1.jpg"
   ],
   "offers": {
     "@type": "Offer",
@@ -20,7 +20,7 @@ description: 벨지오이오조 홀밀크 리코타는 풍부하고 크리미한
     "price": "24680",
     "url": "https://link.coupang.com/a/gBVKhIcaY0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-09"
+    "priceValidUntil": "2026-09-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,7 +52,7 @@ description: 벨지오이오조 홀밀크 리코타는 풍부하고 크리미한
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,17 +61,19 @@ description: 벨지오이오조 홀밀크 리코타는 풍부하고 크리미한
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">24,700</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,600</text>
 
-    <path d="M 68 117 L 198 117 L 328 117 L 458 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 117 L 198 117 L 328 117 L 458 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 117 L 155 117 L 241 117 L 328 117 L 415 117 L 501 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 117 L 155 117 L 241 117 L 328 117 L 415 117 L 501 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="117" r="4" fill="#fdba74"><title>08-29 24,680원</title></circle>
-    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>09-02 24,680원</title></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>09-04 24,680원</title></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,680원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
