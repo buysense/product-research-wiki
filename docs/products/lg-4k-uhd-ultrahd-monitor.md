@@ -20,7 +20,7 @@ description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화
     "price": "439000",
     "url": "https://link.coupang.com/a/dXaW80UbxA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-13"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,34 +60,34 @@ description: LG전자 4K UHD 울트라HD 모니터는 선명한 고해상도 화
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">450,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">400,000</text>
 
-    <path d="M 68 81 L 86 81 L 104 81 L 122 81 L 140 81 L 158 81 L 176 81 L 194 81 L 211 81 L 229 104 L 247 104 L 265 104 L 283 28 L 301 28 L 319 104 L 337 104 L 355 104 L 373 104 L 391 104 L 409 104 L 427 104 L 445 104 L 462 104 L 480 28 L 498 28 L 516 104 L 534 104 L 552 104 L 570 119 L 588 119 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 81 L 86 81 L 104 81 L 122 81 L 140 81 L 158 81 L 176 81 L 194 81 L 211 81 L 229 104 L 247 104 L 265 104 L 283 28 L 301 28 L 319 104 L 337 104 L 355 104 L 373 104 L 391 104 L 409 104 L 427 104 L 445 104 L 462 104 L 480 28 L 498 28 L 516 104 L 534 104 L 552 104 L 570 119 L 588 119" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="81" r="4" fill="#fdba74"><title>07-21 464,000원</title></circle>
-    <circle cx="211" cy="81" r="4" fill="#fdba74"><title>07-31 464,000원</title></circle>
-    <circle cx="229" cy="104" r="4" fill="#fdba74"><title>08-02 449,000원</title></circle>
-    <circle cx="265" cy="104" r="4" fill="#fdba74"><title>08-04 449,000원</title></circle>
-    <circle cx="283" cy="28" r="4" fill="#fdba74"><title>08-19 499,000원</title></circle>
-    <circle cx="301" cy="28" r="4" fill="#fdba74"><title>08-20 499,000원</title></circle>
-    <circle cx="319" cy="104" r="4" fill="#fdba74"><title>08-21 449,000원</title></circle>
-    <circle cx="462" cy="104" r="4" fill="#fdba74"><title>08-29 449,000원</title></circle>
-    <circle cx="480" cy="28" r="4" fill="#fdba74"><title>08-30 499,000원</title></circle>
-    <circle cx="498" cy="28" r="4" fill="#fdba74"><title>08-31 499,000원</title></circle>
-    <circle cx="516" cy="104" r="4" fill="#fdba74"><title>09-01 449,000원</title></circle>
-    <circle cx="552" cy="104" r="4" fill="#fdba74"><title>09-03 449,000원</title></circle>
-    <circle cx="570" cy="119" r="4" fill="#fdba74"><title>09-04 439,000원</title></circle>
-    <circle cx="588" cy="119" r="5" fill="#ea580c"><title>09-05 439,000원</title></circle>
+    <path d="M 68 81 L 86 81 L 104 81 L 122 81 L 140 81 L 158 81 L 176 81 L 194 81 L 211 104 L 229 104 L 247 104 L 265 28 L 283 28 L 301 104 L 319 104 L 337 104 L 355 104 L 373 104 L 391 104 L 409 104 L 427 104 L 445 104 L 462 28 L 480 28 L 498 104 L 516 104 L 534 104 L 552 119 L 570 119 L 588 119 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 81 L 86 81 L 104 81 L 122 81 L 140 81 L 158 81 L 176 81 L 194 81 L 211 104 L 229 104 L 247 104 L 265 28 L 283 28 L 301 104 L 319 104 L 337 104 L 355 104 L 373 104 L 391 104 L 409 104 L 427 104 L 445 104 L 462 28 L 480 28 L 498 104 L 516 104 L 534 104 L 552 119 L 570 119 L 588 119" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="81" r="4" fill="#fdba74"><title>07-22 464,000원</title></circle>
+    <circle cx="194" cy="81" r="4" fill="#fdba74"><title>07-31 464,000원</title></circle>
+    <circle cx="211" cy="104" r="4" fill="#fdba74"><title>08-02 449,000원</title></circle>
+    <circle cx="247" cy="104" r="4" fill="#fdba74"><title>08-04 449,000원</title></circle>
+    <circle cx="265" cy="28" r="4" fill="#fdba74"><title>08-19 499,000원</title></circle>
+    <circle cx="283" cy="28" r="4" fill="#fdba74"><title>08-20 499,000원</title></circle>
+    <circle cx="301" cy="104" r="4" fill="#fdba74"><title>08-21 449,000원</title></circle>
+    <circle cx="445" cy="104" r="4" fill="#fdba74"><title>08-29 449,000원</title></circle>
+    <circle cx="462" cy="28" r="4" fill="#fdba74"><title>08-30 499,000원</title></circle>
+    <circle cx="480" cy="28" r="4" fill="#fdba74"><title>08-31 499,000원</title></circle>
+    <circle cx="498" cy="104" r="4" fill="#fdba74"><title>09-01 449,000원</title></circle>
+    <circle cx="534" cy="104" r="4" fill="#fdba74"><title>09-03 449,000원</title></circle>
+    <circle cx="552" cy="119" r="4" fill="#fdba74"><title>09-04 439,000원</title></circle>
+    <circle cx="588" cy="119" r="5" fill="#ea580c"><title>09-06 439,000원</title></circle>
 
     <text x="588" y="107" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">439,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
