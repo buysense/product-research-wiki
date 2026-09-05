@@ -20,7 +20,7 @@ description: 고재스툴 원목 빈티지 디자인 우드스툴은 현관 신�
     "price": "49300",
     "url": "https://link.coupang.com/a/d7BZZS2hPg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-13"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,24 +60,24 @@ description: 고재스툴 원목 빈티지 디자인 우드스툴은 현관 신�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">49,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">48,500</text>
 
-    <path d="M 68 132 L 86 132 L 104 132 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 56 L 265 56 L 283 56 L 301 56 L 319 56 L 337 56 L 355 56 L 373 56 L 391 56 L 409 56 L 427 56 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 132 L 86 132 L 104 132 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 56 L 265 56 L 283 56 L 301 56 L 319 56 L 337 56 L 355 56 L 373 56 L 391 56 L 409 56 L 427 56 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="132" r="4" fill="#fdba74"><title>07-23 48,800원</title></circle>
-    <circle cx="229" cy="132" r="4" fill="#fdba74"><title>08-03 48,800원</title></circle>
-    <circle cx="247" cy="56" r="4" fill="#fdba74"><title>08-04 49,300원</title></circle>
-    <circle cx="588" cy="56" r="5" fill="#ea580c"><title>09-05 49,300원</title></circle>
+    <path d="M 68 132 L 86 132 L 104 132 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 56 L 247 56 L 265 56 L 283 56 L 301 56 L 319 56 L 337 56 L 355 56 L 373 56 L 391 56 L 409 56 L 427 56 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 86 132 L 104 132 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 56 L 247 56 L 265 56 L 283 56 L 301 56 L 319 56 L 337 56 L 355 56 L 373 56 L 391 56 L 409 56 L 427 56 L 445 56 L 462 56 L 480 56 L 498 56 L 516 56 L 534 56 L 552 56 L 570 56 L 588 56" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="132" r="4" fill="#fdba74"><title>07-24 48,800원</title></circle>
+    <circle cx="211" cy="132" r="4" fill="#fdba74"><title>08-03 48,800원</title></circle>
+    <circle cx="229" cy="56" r="4" fill="#fdba74"><title>08-04 49,300원</title></circle>
+    <circle cx="588" cy="56" r="5" fill="#ea580c"><title>09-06 49,300원</title></circle>
 
     <text x="588" y="44" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,300원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
