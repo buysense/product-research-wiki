@@ -21,12 +21,12 @@ description: 리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 
     "price": "54120",
     "url": "https://link.coupang.com/a/dTYBRvEl2a",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-13"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 489,
+    "reviewCount": 490,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 54,120원 · 별점 4.7 · 리뷰 489개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 54,120원 · 별점 4.7 · 리뷰 490개</span>
     <a href="https://link.coupang.com/a/dTYBRvEl2a" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,35 +61,35 @@ description: 리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 71 L 86 71 L 104 71 L 122 71 L 140 71 L 158 71 L 176 71 L 194 138 L 211 92 L 229 92 L 247 92 L 265 92 L 283 66 L 301 66 L 319 138 L 337 115 L 355 115 L 373 115 L 391 115 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 46 L 516 71 L 534 71 L 552 71 L 570 71 L 588 71 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 71 L 86 71 L 104 71 L 122 71 L 140 71 L 158 71 L 176 71 L 194 138 L 211 92 L 229 92 L 247 92 L 265 92 L 283 66 L 301 66 L 319 138 L 337 115 L 355 115 L 373 115 L 391 115 L 409 64 L 427 64 L 445 64 L 462 64 L 480 64 L 498 46 L 516 71 L 534 71 L 552 71 L 570 71 L 588 71" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="71" r="4" fill="#fdba74"><title>07-20 54,120원</title></circle>
-    <circle cx="176" cy="71" r="4" fill="#fdba74"><title>07-26 54,120원</title></circle>
-    <circle cx="194" cy="138" r="4" fill="#fdba74"><title>07-30 45,320원</title></circle>
-    <circle cx="211" cy="92" r="4" fill="#fdba74"><title>07-31 51,300원</title></circle>
-    <circle cx="265" cy="92" r="4" fill="#fdba74"><title>08-05 51,300원</title></circle>
-    <circle cx="283" cy="66" r="4" fill="#fdba74"><title>08-19 54,800원</title></circle>
-    <circle cx="301" cy="66" r="4" fill="#fdba74"><title>08-20 54,800원</title></circle>
-    <circle cx="319" cy="138" r="4" fill="#fdba74"><title>08-21 45,320원</title></circle>
-    <circle cx="337" cy="115" r="4" fill="#fdba74"><title>08-22 48,310원</title></circle>
-    <circle cx="391" cy="115" r="4" fill="#fdba74"><title>08-25 48,310원</title></circle>
-    <circle cx="409" cy="64" r="4" fill="#fdba74"><title>08-26 55,020원</title></circle>
-    <circle cx="480" cy="64" r="4" fill="#fdba74"><title>08-30 55,020원</title></circle>
-    <circle cx="498" cy="46" r="4" fill="#fdba74"><title>08-31 57,410원</title></circle>
-    <circle cx="516" cy="71" r="4" fill="#fdba74"><title>09-01 54,120원</title></circle>
-    <circle cx="588" cy="71" r="5" fill="#ea580c"><title>09-05 54,120원</title></circle>
+    <path d="M 68 71 L 86 71 L 104 71 L 122 71 L 140 71 L 158 71 L 176 138 L 194 92 L 211 92 L 229 92 L 247 92 L 265 66 L 283 66 L 301 138 L 319 115 L 337 115 L 355 115 L 373 115 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 46 L 498 71 L 516 71 L 534 71 L 552 71 L 570 71 L 588 71 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 71 L 86 71 L 104 71 L 122 71 L 140 71 L 158 71 L 176 138 L 194 92 L 211 92 L 229 92 L 247 92 L 265 66 L 283 66 L 301 138 L 319 115 L 337 115 L 355 115 L 373 115 L 391 64 L 409 64 L 427 64 L 445 64 L 462 64 L 480 46 L 498 71 L 516 71 L 534 71 L 552 71 L 570 71 L 588 71" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="71" r="4" fill="#fdba74"><title>07-21 54,120원</title></circle>
+    <circle cx="158" cy="71" r="4" fill="#fdba74"><title>07-26 54,120원</title></circle>
+    <circle cx="176" cy="138" r="4" fill="#fdba74"><title>07-30 45,320원</title></circle>
+    <circle cx="194" cy="92" r="4" fill="#fdba74"><title>07-31 51,300원</title></circle>
+    <circle cx="247" cy="92" r="4" fill="#fdba74"><title>08-05 51,300원</title></circle>
+    <circle cx="265" cy="66" r="4" fill="#fdba74"><title>08-19 54,800원</title></circle>
+    <circle cx="283" cy="66" r="4" fill="#fdba74"><title>08-20 54,800원</title></circle>
+    <circle cx="301" cy="138" r="4" fill="#fdba74"><title>08-21 45,320원</title></circle>
+    <circle cx="319" cy="115" r="4" fill="#fdba74"><title>08-22 48,310원</title></circle>
+    <circle cx="373" cy="115" r="4" fill="#fdba74"><title>08-25 48,310원</title></circle>
+    <circle cx="391" cy="64" r="4" fill="#fdba74"><title>08-26 55,020원</title></circle>
+    <circle cx="462" cy="64" r="4" fill="#fdba74"><title>08-30 55,020원</title></circle>
+    <circle cx="480" cy="46" r="4" fill="#fdba74"><title>08-31 57,410원</title></circle>
+    <circle cx="498" cy="71" r="4" fill="#fdba74"><title>09-01 54,120원</title></circle>
+    <circle cx="588" cy="71" r="5" fill="#ea580c"><title>09-06 54,120원</title></circle>
 
     <text x="588" y="59" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">54,120원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -331,7 +331,7 @@ A. 네, 부드러운 바퀴가 장착되어 있어 거실, 침실 등 집안 어
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 54,120원 · 별점 4.7 · 리뷰 489개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 54,120원 · 별점 4.7 · 리뷰 490개</span>
     <a href="https://link.coupang.com/a/dTYBRvEl2a" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
