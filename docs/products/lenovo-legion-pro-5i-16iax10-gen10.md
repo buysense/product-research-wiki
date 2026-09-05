@@ -21,7 +21,7 @@ description: 레노버 2025 리전 프로 5i는 고성능 게이밍과 전문 �
     "price": "3327660",
     "url": "https://link.coupang.com/a/gsXFOYpciG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-13"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -53,7 +53,7 @@ description: 레노버 2025 리전 프로 5i는 고성능 게이밍과 전문 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,24 +62,24 @@ description: 레노버 2025 리전 프로 5i는 고성능 게이밍과 전문 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">3,330,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">3,320,000</text>
 
-    <path d="M 68 43 L 111 43 L 155 43 L 198 43 L 241 43 L 285 43 L 328 43 L 371 43 L 415 120 L 458 120 L 501 120 L 545 120 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 43 L 111 43 L 155 43 L 198 43 L 241 43 L 285 43 L 328 43 L 371 43 L 415 120 L 458 120 L 501 120 L 545 120 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 43 L 108 43 L 148 43 L 188 43 L 228 43 L 268 43 L 308 43 L 348 43 L 388 120 L 428 120 L 468 120 L 508 120 L 548 120 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 43 L 108 43 L 148 43 L 188 43 L 228 43 L 268 43 L 308 43 L 348 43 L 388 120 L 428 120 L 468 120 L 508 120 L 548 120 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="43" r="4" fill="#fdba74"><title>08-24 3,337,740원</title></circle>
-    <circle cx="371" cy="43" r="4" fill="#fdba74"><title>08-31 3,337,740원</title></circle>
-    <circle cx="415" cy="120" r="4" fill="#fdba74"><title>09-01 3,327,660원</title></circle>
-    <circle cx="588" cy="120" r="5" fill="#ea580c"><title>09-05 3,327,660원</title></circle>
+    <circle cx="348" cy="43" r="4" fill="#fdba74"><title>08-31 3,337,740원</title></circle>
+    <circle cx="388" cy="120" r="4" fill="#fdba74"><title>09-01 3,327,660원</title></circle>
+    <circle cx="588" cy="120" r="5" fill="#ea580c"><title>09-06 3,327,660원</title></circle>
 
     <text x="588" y="108" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">3,327,660원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
