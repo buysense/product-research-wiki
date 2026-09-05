@@ -21,7 +21,7 @@ description: 메디큐브 PDRN 핑크 텐션 업 마스크는 피부 탄력과 �
     "price": "23560",
     "url": "https://link.coupang.com/a/eIbjNpDEWa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-13"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,29 +61,29 @@ description: 메디큐브 PDRN 핑크 텐션 업 마스크는 피부 탄력과 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 158 L 319 158 L 337 158 L 355 158 L 373 103 L 391 113 L 409 113 L 427 113 L 445 113 L 462 113 L 480 113 L 498 113 L 516 113 L 534 113 L 552 124 L 570 124 L 588 124 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 158 L 319 158 L 337 158 L 355 158 L 373 103 L 391 113 L 409 113 L 427 113 L 445 113 L 462 113 L 480 113 L 498 113 L 516 113 L 534 113 L 552 124 L 570 124 L 588 124" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="41" r="4" fill="#fdba74"><title>07-20 29,000원</title></circle>
-    <circle cx="283" cy="41" r="4" fill="#fdba74"><title>08-19 29,000원</title></circle>
-    <circle cx="301" cy="158" r="4" fill="#fdba74"><title>08-20 21,300원</title></circle>
-    <circle cx="355" cy="158" r="4" fill="#fdba74"><title>08-23 21,300원</title></circle>
-    <circle cx="373" cy="103" r="4" fill="#fdba74"><title>08-24 24,960원</title></circle>
-    <circle cx="391" cy="113" r="4" fill="#fdba74"><title>08-25 24,260원</title></circle>
-    <circle cx="534" cy="113" r="4" fill="#fdba74"><title>09-02 24,260원</title></circle>
-    <circle cx="552" cy="124" r="4" fill="#fdba74"><title>09-03 23,560원</title></circle>
-    <circle cx="588" cy="124" r="5" fill="#ea580c"><title>09-05 23,560원</title></circle>
+    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 158 L 301 158 L 319 158 L 337 158 L 355 103 L 373 113 L 391 113 L 409 113 L 427 113 L 445 113 L 462 113 L 480 113 L 498 113 L 516 113 L 534 124 L 552 124 L 570 124 L 588 124 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 41 L 265 41 L 283 158 L 301 158 L 319 158 L 337 158 L 355 103 L 373 113 L 391 113 L 409 113 L 427 113 L 445 113 L 462 113 L 480 113 L 498 113 L 516 113 L 534 124 L 552 124 L 570 124 L 588 124" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="41" r="4" fill="#fdba74"><title>07-21 29,000원</title></circle>
+    <circle cx="265" cy="41" r="4" fill="#fdba74"><title>08-19 29,000원</title></circle>
+    <circle cx="283" cy="158" r="4" fill="#fdba74"><title>08-20 21,300원</title></circle>
+    <circle cx="337" cy="158" r="4" fill="#fdba74"><title>08-23 21,300원</title></circle>
+    <circle cx="355" cy="103" r="4" fill="#fdba74"><title>08-24 24,960원</title></circle>
+    <circle cx="373" cy="113" r="4" fill="#fdba74"><title>08-25 24,260원</title></circle>
+    <circle cx="516" cy="113" r="4" fill="#fdba74"><title>09-02 24,260원</title></circle>
+    <circle cx="534" cy="124" r="4" fill="#fdba74"><title>09-03 23,560원</title></circle>
+    <circle cx="588" cy="124" r="5" fill="#ea580c"><title>09-06 23,560원</title></circle>
 
     <text x="588" y="112" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,560원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
