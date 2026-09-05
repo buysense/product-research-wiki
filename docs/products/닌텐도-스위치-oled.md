@@ -9,22 +9,14 @@ description: 닌텐도 스위치 OLED는 휴대 및 거치형 게임기를 고�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "닌텐도 스위치 OLED",
+  "name": "닌텐도-스위치-oled",
   "description": "닌텐도 스위치 OLED는 휴대 및 거치형 게임기를 고민하는 소비자, 특히 어린이날 선물을 찾는 부모님들에게 매력적인 선택지입니다. 기존 모델 대비 선명해진 7인치 OLED 디스플레이와 향상된 오디오 품질, 그리고 더욱 안정적인 스탠드가 특징으로,...",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "559800",
     "url": "https://link.coupang.com/a/ebhuXi",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-08"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": 4.9,
-    "reviewCount": 1284,
-    "bestRating": 5,
-    "worstRating": 1
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
@@ -37,7 +29,7 @@ description: 닌텐도 스위치 OLED는 휴대 및 거치형 게임기를 고�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 559,800원 · 별점 4.9 · 리뷰 1,284개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/ebhuXi" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -421,7 +413,7 @@ A. OLED 패널은 백라이트가 없어 눈 피로도가 덜할 수 있다는 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 559,800원 · 별점 4.9 · 리뷰 1,284개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/ebhuXi" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

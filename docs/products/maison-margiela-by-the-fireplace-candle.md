@@ -9,7 +9,7 @@ description: 메종 마르지엘라 바이 더 파이어플레이스 캔들은 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "메종 마르지엘라 바이 더 파이어플레이스 캔들",
+  "name": "maison-margiela-by-the-fireplace-candle",
   "description": "메종 마르지엘라 바이 더 파이어플레이스 캔들은 벽난로의 따뜻하고 포근한 향을 담아 실내 분위기를 아늑하게 연출하며 특별한 휴식 시간을 선사합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/21/13/9/c4f83800-afcf-4048-98ee-4933196bb3a1.jpg",

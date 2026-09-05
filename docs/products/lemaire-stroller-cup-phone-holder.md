@@ -9,7 +9,7 @@ description: 르메이어 3 in 1 유모차 스마트폰 컵홀더는 유모차 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "르메이어 3 in 1 유모차 스마트폰 컵홀더, 베이지, 1개",
+  "name": "lemaire-stroller-cup-phone-holder",
   "description": "르메이어 3 in 1 유모차 스마트폰 컵홀더는 유모차 외출 시 음료 2개와 스마트폰을 동시에 거치하여 손을 자유롭게 해주는 필수 편의 용품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/ekctklvm/3f512fc111824508bc3aa425c93ed147.jpg",

@@ -9,7 +9,7 @@ description: 하기스 네이처메이드 생분해 물티슈는 환경을 생�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "하기스 네이처메이드 생분해 물티슈 캡형, 70매, 10개",
+  "name": "huggies-naturemade-biodegradable-wipes-70ct-10pack",
   "description": "하기스 네이처메이드 생분해 물티슈는 환경을 생각하는 생분해 원단과 안전한 성분으로 아기 기저귀 갈이, 외출 시 손 닦기 등 온 가족이 안심하고 사용하기 좋은 캡형 물티슈입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/169543113531242-5c6c7631-8913-462c-88a6-784d309dd72c.jpg",

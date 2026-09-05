@@ -17,13 +17,13 @@ description: [이지노이지] 크롭 퍼 후드 집업 아이보리는 따뜻�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "111000",
     "url": "https://link.coupang.com/a/fkrONQmn5E",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-08"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +34,11 @@ description: [이지노이지] 크롭 퍼 후드 집업 아이보리는 따뜻�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 88,300원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fkrONQmn5E" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,22 +54,22 @@ description: [이지노이지] 크롭 퍼 후드 집업 아이보리는 따뜻�
 
     <path d="M 68 120 L 97 120 L 126 108 L 155 108 L 184 108 L 212 117 L 241 117 L 270 108 L 299 108 L 328 137 L 357 67 L 386 104 L 415 104 L 444 67 L 472 67 L 501 67 L 530 85 L 559 85 L 588 85 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 120 L 97 120 L 126 108 L 155 108 L 184 108 L 212 117 L 241 117 L 270 108 L 299 108 L 328 137 L 357 67 L 386 104 L 415 104 L 444 67 L 472 67 L 501 67 L 530 85 L 559 85 L 588 85" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="97" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="212" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="270" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="108" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="137" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="386" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="104" r="4" fill="#fdba74"></circle>
-    <circle cx="444" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="67" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="85" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="85" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="120" r="4" fill="#fdba74"><title>07-12 88,300원</title></circle>
+    <circle cx="97" cy="120" r="4" fill="#fdba74"><title>07-13 88,300원</title></circle>
+    <circle cx="126" cy="108" r="4" fill="#fdba74"><title>07-14 95,900원</title></circle>
+    <circle cx="184" cy="108" r="4" fill="#fdba74"><title>07-16 95,900원</title></circle>
+    <circle cx="212" cy="117" r="4" fill="#fdba74"><title>07-17 90,200원</title></circle>
+    <circle cx="241" cy="117" r="4" fill="#fdba74"><title>07-18 90,200원</title></circle>
+    <circle cx="270" cy="108" r="4" fill="#fdba74"><title>07-19 95,900원</title></circle>
+    <circle cx="299" cy="108" r="4" fill="#fdba74"><title>07-20 95,900원</title></circle>
+    <circle cx="328" cy="137" r="4" fill="#fdba74"><title>07-21 77,100원</title></circle>
+    <circle cx="357" cy="67" r="4" fill="#fdba74"><title>07-22 123,000원</title></circle>
+    <circle cx="386" cy="104" r="4" fill="#fdba74"><title>07-23 98,800원</title></circle>
+    <circle cx="415" cy="104" r="4" fill="#fdba74"><title>07-24 98,800원</title></circle>
+    <circle cx="444" cy="67" r="4" fill="#fdba74"><title>07-25 123,000원</title></circle>
+    <circle cx="501" cy="67" r="4" fill="#fdba74"><title>07-29 123,000원</title></circle>
+    <circle cx="530" cy="85" r="4" fill="#fdba74"><title>07-30 111,000원</title></circle>
+    <circle cx="588" cy="85" r="5" fill="#ea580c"><title>08-01 111,000원</title></circle>
 
     <text x="588" y="73" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">111,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
@@ -213,8 +214,9 @@ A. 크롭 기장이 익숙하지 않다면, 허리까지 오는 이너와 함께
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 88,300원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fkrONQmn5E" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

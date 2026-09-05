@@ -9,7 +9,7 @@ description: 마티에 프리미에르 앙센 스와브 오드퍼퓸은 깊은 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "마티에 프리미에르 앙센 스와브 오드퍼퓸",
+  "name": "matiere-premiere-encens-suave-edp",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",

@@ -19,11 +19,12 @@ description: GLOWNY G CLASSIC KNIT CAMISOLE은 부드러운 착용감과 뛰어�
     "priceCurrency": "KRW",
     "price": "86600",
     "url": "https://link.coupang.com/a/f1zNcBlFro",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-14"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -38,6 +39,7 @@ description: GLOWNY G CLASSIC KNIT CAMISOLE은 부드러운 착용감과 뛰어�
     <a href="https://link.coupang.com/a/f1zNcBlFro" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- /bs:chart -->
@@ -141,4 +143,5 @@ A. 보통 슬림하거나 레귤러 핏으로 제작되어 몸에 부드럽게 �
     <a href="https://link.coupang.com/a/f1zNcBlFro" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

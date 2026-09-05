@@ -9,7 +9,7 @@ description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "네이밍 플러피 파우더 블러쉬",
+  "name": "naming-fluffy-powder-blush",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/233cf2df-ef7a-4134-b606-4489cbc37800_fixing_v2.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c2b2/74f0968a7b957926edc0b5b555853e4f8677d8f6ae734ca9f4d72970ad34.jpg"

@@ -9,7 +9,7 @@ description: 솔리앤 문어 괄사 지압 전신 마사지기는 오래 앉거
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "솔리앤 문어 괄사 지압 전신 마사지기",
+  "name": "solian-octopus-guasa-body-massager",
   "description": "솔리앤 문어 괄사 지압 전신 마사지기는 오래 앉거나 서서 일하는 현대인들의 목, 어깨, 종아리 등 전신 근육 뭉침을 집에서 간편하게 완화할 수 있는 마사지 도구입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/055f/7dd2794fd71b1ee3adb524fbf5b5fafc787511e87996ca88a0580199e290.jpg",

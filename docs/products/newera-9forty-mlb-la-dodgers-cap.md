@@ -20,8 +20,8 @@ description: 뉴에라 9 FORTY MLB LA 다저스 야구모자는 어떤 옷에도
     "priceCurrency": "KRW",
     "price": "26810",
     "url": "https://link.coupang.com/a/eXd8PDF9dA",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-13"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -32,6 +32,7 @@ description: 뉴에라 9 FORTY MLB LA 다저스 야구모자는 어떤 옷에도
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -46,6 +47,7 @@ description: 뉴에라 9 FORTY MLB LA 다저스 야구모자는 어떤 옷에도
     <a href="https://link.coupang.com/a/eXd8PDF9dA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -183,4 +185,5 @@ A. LA 다저스를 대표하는 다크 로얄(짙은 파란색) 색상으로, �
     <a href="https://link.coupang.com/a/eXd8PDF9dA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

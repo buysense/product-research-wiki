@@ -20,8 +20,8 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
     "priceCurrency": "KRW",
     "price": "62980",
     "url": "https://link.coupang.com/a/dIgFPgtowm",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -32,6 +32,7 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -46,11 +47,12 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
     <a href="https://link.coupang.com/a/dIgFPgtowm" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -59,21 +61,21 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">63,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">62,900</text>
 
-    <path d="M 68 117 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 117 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 117 L 247 117 L 265 117 L 283 117 L 301 117 L 319 117 L 337 117 L 355 117 L 373 117 L 391 117 L 409 117 L 427 117 L 445 117 L 462 117 L 480 117 L 498 117 L 516 117 L 534 117 L 552 117 L 570 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
+    <path d="M 68 117 L 93 117 L 118 117 L 142 117 L 167 117 L 192 117 L 217 117 L 241 117 L 266 117 L 291 117 L 316 117 L 340 117 L 365 117 L 390 117 L 415 117 L 439 117 L 464 117 L 489 117 L 514 117 L 538 117 L 563 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 117 L 93 117 L 118 117 L 142 117 L 167 117 L 192 117 L 217 117 L 241 117 L 266 117 L 291 117 L 316 117 L 340 117 L 365 117 L 390 117 L 415 117 L 439 117 L 464 117 L 489 117 L 514 117 L 538 117 L 563 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="117" r="4" fill="#fdba74"><title>07-08 62,980원</title></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>07-31 62,980원</title></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">62,980원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">06-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
@@ -316,4 +318,5 @@ A. 네, 레고 클래식 브릭은 일반적으로 다른 모든 레고 시스�
     <a href="https://link.coupang.com/a/dIgFPgtowm" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

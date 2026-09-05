@@ -9,7 +9,7 @@ description: 팔도 이천햅쌀 비락식혜는 경기도 이천 햅쌀을 사�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "팔도 이천햅쌀 비락식혜",
+  "name": "paldo-icheon-haepssal-birak-sikhye",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",

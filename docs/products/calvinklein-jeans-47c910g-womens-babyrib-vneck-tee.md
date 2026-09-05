@@ -19,11 +19,12 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
     "priceCurrency": "KRW",
     "price": "62900",
     "url": "https://link.coupang.com/a/fiMa3rVXVI",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +35,11 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 58,800원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 62,900원</span>
     <a href="https://link.coupang.com/a/fiMa3rVXVI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,12 +55,12 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
 
     <path d="M 68 120 L 91 120 L 113 120 L 136 120 L 158 120 L 181 120 L 204 120 L 226 120 L 249 120 L 271 120 L 294 120 L 317 120 L 339 120 L 362 120 L 385 120 L 407 120 L 430 120 L 452 120 L 475 120 L 498 120 L 520 26 L 543 26 L 565 58 L 588 58 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 120 L 91 120 L 113 120 L 136 120 L 158 120 L 181 120 L 204 120 L 226 120 L 249 120 L 271 120 L 294 120 L 317 120 L 339 120 L 362 120 L 385 120 L 407 120 L 430 120 L 452 120 L 475 120 L 498 120 L 520 26 L 543 26 L 565 58 L 588 58" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="498" cy="120" r="4" fill="#fdba74"></circle>
-    <circle cx="520" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="543" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="565" cy="58" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="58" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="120" r="4" fill="#fdba74"><title>07-11 58,800원</title></circle>
+    <circle cx="498" cy="120" r="4" fill="#fdba74"><title>08-01 58,800원</title></circle>
+    <circle cx="520" cy="26" r="4" fill="#fdba74"><title>08-02 65,100원</title></circle>
+    <circle cx="543" cy="26" r="4" fill="#fdba74"><title>08-03 65,100원</title></circle>
+    <circle cx="565" cy="58" r="4" fill="#fdba74"><title>08-04 62,900원</title></circle>
+    <circle cx="588" cy="58" r="5" fill="#ea580c"><title>08-05 62,900원</title></circle>
 
     <text x="588" y="46" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">62,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
@@ -202,8 +204,9 @@ A. 기본적인 브이넥 디자인과 깔끔한 실루엣 덕분에 매우 다�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 58,800원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 62,900원</span>
     <a href="https://link.coupang.com/a/fiMa3rVXVI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

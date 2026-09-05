@@ -19,11 +19,12 @@ description: 노매뉴얼 R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL은 캐�
     "priceCurrency": "KRW",
     "price": "55000",
     "url": "https://link.coupang.com/a/fpoctez3oO",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-01"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -38,6 +39,7 @@ description: 노매뉴얼 R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL은 캐�
     <a href="https://link.coupang.com/a/fpoctez3oO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,8 +55,8 @@ description: 노매뉴얼 R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL은 캐�
 
     <path d="M 68 102 L 120 102 L 172 102 L 224 102 L 276 102 L 328 102 L 380 102 L 432 102 L 484 102 L 536 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 120 102 L 172 102 L 224 102 L 276 102 L 328 102 L 380 102 L 432 102 L 484 102 L 536 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-15 55,000원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>07-25 55,000원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">55,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
@@ -181,4 +183,5 @@ A. 온라인 구매 시에는 제공된 상세 사이즈표의 총장, 가슴단
     <a href="https://link.coupang.com/a/fpoctez3oO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

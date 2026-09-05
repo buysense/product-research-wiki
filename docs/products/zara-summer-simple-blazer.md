@@ -9,7 +9,7 @@ description: ZARA 자라 여름 심플 턴다운 블레이저 자는 여름철 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "ZARA 자라 여름 심플 턴다운 블레이저 자",
+  "name": "zara-summer-simple-blazer",
   "description": "ZARA 자라 여름 심플 턴다운 블레이저 자는 여름철 가볍고 세련된 비즈니스 캐주얼룩이나 일상 스타일링에 활용하기 좋은 심플한 디자인의 블레이저입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/991d/8aa4c45fb3f2a0ceb01902b21f831e21efc0fad590e29283576176c704c6.jpg",

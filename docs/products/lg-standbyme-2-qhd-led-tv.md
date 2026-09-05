@@ -9,7 +9,7 @@ description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "LG전자 QHD 스탠바이미 2 LED TV",
+  "name": "lg-standbyme-2-qhd-led-tv",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/18/11/5/cde8b0b0-6272-4870-b1a9-037d2d14792d.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/uphnh4lk/9705565048f04e67b494053caa0fe509.JPG"

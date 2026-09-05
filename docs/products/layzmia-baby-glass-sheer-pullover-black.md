@@ -17,13 +17,13 @@ description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "83500",
     "url": "https://link.coupang.com/a/fiLGJZbuQ8",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +34,11 @@ description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 97,200원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fiLGJZbuQ8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,22 +54,22 @@ description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가�
 
     <path d="M 68 106 L 97 106 L 126 106 L 155 81 L 184 81 L 212 111 L 241 81 L 270 81 L 299 141 L 328 141 L 357 141 L 386 141 L 415 149 L 444 91 L 472 91 L 501 114 L 530 91 L 559 127 L 588 127 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 106 L 97 106 L 126 106 L 155 81 L 184 81 L 212 111 L 241 81 L 270 81 L 299 141 L 328 141 L 357 141 L 386 141 L 415 149 L 444 91 L 472 91 L 501 114 L 530 91 L 559 127 L 588 127" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="212" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="270" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="386" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="149" r="4" fill="#fdba74"></circle>
-    <circle cx="444" cy="91" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="91" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="114" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="91" r="4" fill="#fdba74"></circle>
-    <circle cx="559" cy="127" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="127" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="106" r="4" fill="#fdba74"><title>07-11 97,200원</title></circle>
+    <circle cx="126" cy="106" r="4" fill="#fdba74"><title>07-13 97,200원</title></circle>
+    <circle cx="155" cy="81" r="4" fill="#fdba74"><title>07-14 113,500원</title></circle>
+    <circle cx="184" cy="81" r="4" fill="#fdba74"><title>07-15 113,500원</title></circle>
+    <circle cx="212" cy="111" r="4" fill="#fdba74"><title>07-16 94,000원</title></circle>
+    <circle cx="241" cy="81" r="4" fill="#fdba74"><title>07-17 113,500원</title></circle>
+    <circle cx="270" cy="81" r="4" fill="#fdba74"><title>07-18 113,500원</title></circle>
+    <circle cx="299" cy="141" r="4" fill="#fdba74"><title>07-19 74,100원</title></circle>
+    <circle cx="386" cy="141" r="4" fill="#fdba74"><title>07-22 74,100원</title></circle>
+    <circle cx="415" cy="149" r="4" fill="#fdba74"><title>07-23 69,300원</title></circle>
+    <circle cx="444" cy="91" r="4" fill="#fdba74"><title>07-24 107,400원</title></circle>
+    <circle cx="472" cy="91" r="4" fill="#fdba74"><title>07-25 107,400원</title></circle>
+    <circle cx="501" cy="114" r="4" fill="#fdba74"><title>07-26 92,100원</title></circle>
+    <circle cx="530" cy="91" r="4" fill="#fdba74"><title>07-29 107,400원</title></circle>
+    <circle cx="559" cy="127" r="4" fill="#fdba74"><title>07-30 83,500원</title></circle>
+    <circle cx="588" cy="127" r="5" fill="#ea580c"><title>07-31 83,500원</title></circle>
 
     <text x="588" y="115" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">83,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
@@ -202,8 +203,9 @@ A. 캐주얼한 데님 팬츠부터 슬랙스, 스커트 등 다양한 하의와
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 97,200원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fiLGJZbuQ8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

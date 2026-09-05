@@ -9,7 +9,7 @@ description: 유리창청소도구는 높은 창문, 욕실 거울 등 손 닿�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "유리창청소도구",
+  "name": "window-cleaning-tool-adjustable-pole",
   "description": "유리창청소도구는 높은 창문, 욕실 거울 등 손 닿기 어려운 곳의 유리면을 효율적으로 청소하고 관리할 수 있도록 돕는 다기능 청소 솔루션입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/232ce57049cd17bce948610120dffb9076f3ea08dcbdb7bb1998c056e440_1781228606660.jpg",

@@ -9,7 +9,7 @@ description: 닛신 돈베이 키츠네 우동은 일본 현지의 맛을 집에
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "닛신 돈베이 키츠네 우동",
+  "name": "nissin-donbei-kitsune-udon",
   "description": "닛신 돈베이 키츠네 우동은 일본 현지의 맛을 집에서 간편하게 즐길 수 있는 컵우동입니다. 큰 유부와 깊은 국물 맛이 특징이며, 동/서일본편으로 지역별 선호에 맞춰 출시됩니다.",
   "offers": {
     "@type": "Offer",

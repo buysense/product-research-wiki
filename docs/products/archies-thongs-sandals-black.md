@@ -20,8 +20,8 @@ description: 아치스 조리샌들_블랙은 호주 의사 및 물리치료사�
     "priceCurrency": "KRW",
     "price": "67500",
     "url": "https://link.coupang.com/a/fL0pZDYg21",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -32,6 +32,7 @@ description: 아치스 조리샌들_블랙은 호주 의사 및 물리치료사�
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -46,6 +47,7 @@ description: 아치스 조리샌들_블랙은 호주 의사 및 물리치료사�
     <a href="https://link.coupang.com/a/fL0pZDYg21" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -61,8 +63,8 @@ description: 아치스 조리샌들_블랙은 호주 의사 및 물리치료사�
 
     <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-29 67,500원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>07-31 67,500원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">67,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
@@ -163,4 +165,5 @@ A. '발 아치 지지 기술'은 샌들 밑창의 형태를 발의 자연스러�
     <a href="https://link.coupang.com/a/fL0pZDYg21" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

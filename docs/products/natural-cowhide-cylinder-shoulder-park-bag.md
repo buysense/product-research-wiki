@@ -20,8 +20,8 @@ description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 
     "priceCurrency": "KRW",
     "price": "92000",
     "url": "https://link.coupang.com/a/fHFCAOL6wS",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-11"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -32,6 +32,7 @@ description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -46,6 +47,7 @@ description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 
     <a href="https://link.coupang.com/a/fHFCAOL6wS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -61,11 +63,11 @@ description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 
 
     <path d="M 68 26 L 172 26 L 276 106 L 380 26 L 484 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 26 L 172 26 L 276 106 L 380 26 L 484 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="276" cy="106" r="4" fill="#fdba74"></circle>
-    <circle cx="380" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-26 92,000원</title></circle>
+    <circle cx="172" cy="26" r="4" fill="#fdba74"><title>07-30 92,000원</title></circle>
+    <circle cx="276" cy="106" r="4" fill="#fdba74"><title>07-31 89,890원</title></circle>
+    <circle cx="380" cy="26" r="4" fill="#fdba74"><title>08-02 92,000원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>08-04 92,000원</title></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">92,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
@@ -169,4 +171,5 @@ A. 가죽의 질감이나 상단부 시접 처리 등 디테일한 마감에 대
     <a href="https://link.coupang.com/a/fHFCAOL6wS" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

@@ -17,13 +17,13 @@ description: 락케이크 슬로건 메쉬 탑 블랙은 시원하고 통기성�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "77900",
     "url": "https://link.coupang.com/a/fgUAeg8tvE",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +34,11 @@ description: 락케이크 슬로건 메쉬 탑 블랙은 시원하고 통기성�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 87,200원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fgUAeg8tvE" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,10 +54,10 @@ description: 락케이크 슬로건 메쉬 탑 블랙은 시원하고 통기성�
 
     <path d="M 68 26 L 97 26 L 126 26 L 155 26 L 184 26 L 212 134 L 241 134 L 270 134 L 299 134 L 328 134 L 357 134 L 386 134 L 415 134 L 444 134 L 472 134 L 501 134 L 530 134 L 559 134 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 26 L 97 26 L 126 26 L 155 26 L 184 26 L 212 134 L 241 134 L 270 134 L 299 134 L 328 134 L 357 134 L 386 134 L 415 134 L 444 134 L 472 134 L 501 134 L 530 134 L 559 134 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="212" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="134" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-10 87,200원</title></circle>
+    <circle cx="184" cy="26" r="4" fill="#fdba74"><title>07-14 87,200원</title></circle>
+    <circle cx="212" cy="134" r="4" fill="#fdba74"><title>07-15 77,900원</title></circle>
+    <circle cx="588" cy="134" r="5" fill="#ea580c"><title>07-31 77,900원</title></circle>
 
     <text x="588" y="122" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">77,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
@@ -188,8 +189,9 @@ A. 제품 상세 페이지에 제공되는 사이즈 차트를 확인하여 본�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 87,200원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fgUAeg8tvE" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

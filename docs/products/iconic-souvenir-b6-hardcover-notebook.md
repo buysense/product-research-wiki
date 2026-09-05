@@ -9,7 +9,7 @@ description: 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장노트",
+  "name": "iconic-souvenir-b6-hardcover-notebook",
   "description": "아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장노트는 일기, 업무 기록, 아이디어 정리 등 일상과 비즈니스 상황에서 깔끔하고 견고하게 활용하기 좋은 노트입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/346226294187799-581fd84f-ab2d-44bb-ae49-c4aa8dc27f6f.png",

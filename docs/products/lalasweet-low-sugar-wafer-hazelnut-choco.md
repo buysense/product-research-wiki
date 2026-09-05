@@ -9,7 +9,7 @@ description: 라라스윗 저당 웨하스 헤이즐넛 초코는 당 걱정 없
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "라라스윗 저당 웨하스 헤이즐넛 초코",
+  "name": "lalasweet-low-sugar-wafer-hazelnut-choco",
   "description": "라라스윗 저당 웨하스 헤이즐넛 초코는 당 걱정 없이 달콤한 초코 웨하스를 즐기고 싶은 분들을 위한 간식입니다. 개별 포장으로 휴대가 간편하며, 커피와 함께 디저트로 즐기기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/05/14/6/9f38cb94-dfef-4cd5-a9a5-0d67fd0f2614.jpg",

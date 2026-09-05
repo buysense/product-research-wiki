@@ -19,8 +19,8 @@ description: 코이세이오 플라워 카프리 슬리브 블루 그레이는 �
     "priceCurrency": "KRW",
     "price": "123500",
     "url": "https://link.coupang.com/a/f6tmUQrMs0",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-02"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
@@ -55,8 +55,8 @@ description: 코이세이오 플라워 카프리 슬리브 블루 그레이는 �
 
     <path d="M 68 102 L 133 102 L 198 102 L 263 102 L 328 102 L 393 102 L 458 102 L 523 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 133 102 L 198 102 L 263 102 L 328 102 L 393 102 L 458 102 L 523 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>08-10 123,500원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>08-26 123,500원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">123,500원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-10</text>

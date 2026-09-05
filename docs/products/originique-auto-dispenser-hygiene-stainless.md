@@ -9,7 +9,7 @@ description: 오리지니크 자동 디스펜서는 주방과 욕실의 위생�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "오리지니크 자동 디스펜서",
+  "name": "originique-auto-dispenser-hygiene-stainless",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/1e51fc75-c776-42c0-929f-61b912dfcda6_fixing_v2.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7b98/c083b7455dbe95f578cb23e8c56cfa44d708a3a5d5664ade1b2df928497f.jpg"

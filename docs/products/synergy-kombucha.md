@@ -9,7 +9,7 @@ description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "시너지 콤부차",
+  "name": "synergy-kombucha",
   "description": "시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌함을 제공하는 발효 음료로, 식사 중이나 건강한 음료 대안으로 소비하기에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cca2/6f46cfa11861c71b124b6a3afe9c619387df917d80a10090e47450b4040b.jpg",

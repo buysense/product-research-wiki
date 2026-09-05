@@ -9,7 +9,7 @@ description: 모모야 라유는 튀긴 마늘과 양파의 바삭한 식감, �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "모모야 라유",
+  "name": "momoya-rayu-chili-oil",
   "description": "모모야 라유는 튀긴 마늘과 양파의 바삭한 식감, 고소함, 부담 없는 매콤함이 특징인 일본식 고추기름으로, 밥, 면, 만두 등 다양한 요리에 활용하기 좋습니다.",
   "offers": {
     "@type": "Offer",

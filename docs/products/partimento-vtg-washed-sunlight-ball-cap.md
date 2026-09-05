@@ -19,11 +19,12 @@ description: 파르티멘토 VTG 워시드 리뉴얼 선라이트 볼 캡은 자
     "priceCurrency": "KRW",
     "price": "32200",
     "url": "https://link.coupang.com/a/f9Pd0BivRs",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-19"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -38,6 +39,7 @@ description: 파르티멘토 VTG 워시드 리뉴얼 선라이트 볼 캡은 자
     <a href="https://link.coupang.com/a/f9Pd0BivRs" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- /bs:chart -->
@@ -127,4 +129,5 @@ A. 네, 이 볼 캡은 후면에 조절 가능한 스트랩이 있어 대부분�
     <a href="https://link.coupang.com/a/f9Pd0BivRs" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

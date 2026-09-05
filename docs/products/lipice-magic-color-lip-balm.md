@@ -9,7 +9,7 @@ description: 립아이스 매직컬러 립밤은 입술 온도에 반응하여 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "립아이스 매직컬러 립밤",
+  "name": "lipice-magic-color-lip-balm",
   "description": "립아이스 매직컬러 립밤은 입술 온도에 반응하여 자연스러운 핑크빛을 연출하는 보습 립밤입니다. 건조한 입술에 생기를 더하고 가벼운 데일리 메이크업에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/497763986605971-02cac888-8038-4383-b157-b728b48a82e6.jpg",

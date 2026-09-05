@@ -17,13 +17,13 @@ description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "48700",
     "url": "https://link.coupang.com/a/fun277NGQ8",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-08"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +34,11 @@ description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 53,400원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fun277NGQ8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,10 +54,10 @@ description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는
 
     <path d="M 68 50 L 111 50 L 155 50 L 198 122 L 241 122 L 285 122 L 328 122 L 371 122 L 415 122 L 458 122 L 501 122 L 545 122 L 588 122 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 50 L 111 50 L 155 50 L 198 122 L 241 122 L 285 122 L 328 122 L 371 122 L 415 122 L 458 122 L 501 122 L 545 122 L 588 122" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="50" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="122" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="122" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="50" r="4" fill="#fdba74"><title>07-18 53,400원</title></circle>
+    <circle cx="155" cy="50" r="4" fill="#fdba74"><title>07-20 53,400원</title></circle>
+    <circle cx="198" cy="122" r="4" fill="#fdba74"><title>07-21 48,700원</title></circle>
+    <circle cx="588" cy="122" r="5" fill="#ea580c"><title>08-01 48,700원</title></circle>
 
     <text x="588" y="110" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">48,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
@@ -185,8 +186,9 @@ A. 레이스 소재의 특성상 섬세한 관리가 필요합니다. 옷감 손
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 53,400원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fun277NGQ8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

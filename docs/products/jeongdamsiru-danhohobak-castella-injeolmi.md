@@ -9,7 +9,7 @@ description: 정담시루 단호박 듬뿍 카스테라 인절미떡은 자연�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "정담시루 단호박 듬뿍 카스테라 인절미떡",
+  "name": "jeongdamsiru-danhohobak-castella-injeolmi",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/jqtxzq8t/26034a1a82994aee8b43f49166fd7e7e.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/epaxjiza/8f52e5adb8c0442a8c94231a45f000eb.jpg"

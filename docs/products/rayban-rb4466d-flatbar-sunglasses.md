@@ -9,7 +9,7 @@ description: 레이벤 RB4466D 플랫바 선글라스는 일상생활부터 휴�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "레이벤 RB4466D 플랫바 선글라스",
+  "name": "rayban-rb4466d-flatbar-sunglasses",
   "description": "레이벤 RB4466D 플랫바 선글라스는 일상생활부터 휴가지까지 다양한 상황에서 스타일과 눈 보호를 동시에 제공하는 현대적인 디자인의 선글라스입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d26/854251277d98be420500f235ec7be7b9519f051354b8fd0d6c9058dfec6c.jpg",

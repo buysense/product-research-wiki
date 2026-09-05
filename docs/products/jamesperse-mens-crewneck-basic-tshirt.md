@@ -9,7 +9,7 @@ description: 제임스펄스 남성용 크루넥 기본 반팔티셔츠는 일�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "제임스펄스 남성용 크루넥 기본 반팔티셔츠",
+  "name": "jamesperse-mens-crewneck-basic-tshirt",
   "description": "제임스펄스 남성용 크루넥 기본 반팔티셔츠는 일상복, 레이어링, 편안한 착용감을 위한 필수 아이템으로, 미니멀리즘과 실용성을 추구하는 소비자에게 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8e14/f501b73542304c9b240f4050e8320883d79b2f2b7da484f6a380724dafb1.jpg",

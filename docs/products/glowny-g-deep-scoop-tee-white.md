@@ -19,11 +19,12 @@ description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 
     "priceCurrency": "KRW",
     "price": "52200",
     "url": "https://link.coupang.com/a/fzbtCFf6cu",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +35,11 @@ description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 47,600원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 52,200원</span>
     <a href="https://link.coupang.com/a/fzbtCFf6cu" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,14 +55,14 @@ description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 
 
     <path d="M 68 138 L 108 138 L 148 170 L 188 170 L 228 138 L 268 138 L 308 138 L 348 138 L 388 138 L 428 69 L 468 69 L 508 69 L 548 69 L 588 69 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 138 L 108 138 L 148 170 L 188 170 L 228 138 L 268 138 L 308 138 L 348 138 L 388 138 L 428 69 L 468 69 L 508 69 L 548 69 L 588 69" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="188" cy="170" r="4" fill="#fdba74"></circle>
-    <circle cx="228" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="388" cy="138" r="4" fill="#fdba74"></circle>
-    <circle cx="428" cy="69" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="69" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="138" r="4" fill="#fdba74"><title>07-21 47,600원</title></circle>
+    <circle cx="108" cy="138" r="4" fill="#fdba74"><title>07-22 47,600원</title></circle>
+    <circle cx="148" cy="170" r="4" fill="#fdba74"><title>07-23 45,500원</title></circle>
+    <circle cx="188" cy="170" r="4" fill="#fdba74"><title>07-24 45,500원</title></circle>
+    <circle cx="228" cy="138" r="4" fill="#fdba74"><title>07-25 47,600원</title></circle>
+    <circle cx="388" cy="138" r="4" fill="#fdba74"><title>07-31 47,600원</title></circle>
+    <circle cx="428" cy="69" r="4" fill="#fdba74"><title>08-01 52,200원</title></circle>
+    <circle cx="588" cy="69" r="5" fill="#ea580c"><title>08-05 52,200원</title></circle>
 
     <text x="588" y="57" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">52,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
@@ -181,8 +183,9 @@ A. 화이트 색상의 면 소재 특성상, 빛의 투과율이나 개인의 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 47,600원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 52,200원</span>
     <a href="https://link.coupang.com/a/fzbtCFf6cu" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

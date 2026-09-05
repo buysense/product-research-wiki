@@ -9,7 +9,7 @@ description: 파티클럽 일회용 헬륨가스는 아기 성장 촬영, 생일
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "파티클럽 일회용 헬륨가스",
+  "name": "partyclub-disposable-helium-gas",
   "description": "파티클럽 일회용 헬륨가스는 아기 성장 촬영, 생일파티, 기념일 등 다양한 홈파티를 쉽고 간편하게 준비할 수 있도록 돕는 제품입니다.",
   "offers": {
     "@type": "Offer",

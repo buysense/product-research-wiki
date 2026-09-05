@@ -9,7 +9,7 @@ description: 페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "페넬로페 본보야지 에펠 아기물티슈 캡형",
+  "name": "penelope-bonvoyage-eiffel-baby-wipes-cap",
   "description": "페넬로페 본보야지 에펠 아기물티슈 캡형은 75gsm의 도톰한 원단과 적절한 수분감으로 아기 피부는 물론 일상생활에서도 위생적으로 사용하기 적합한 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/880319893068885-a6e5af96-9e2d-4342-9879-f37dd8d0f1c5.jpg",

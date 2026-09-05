@@ -17,13 +17,13 @@ description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "117900",
     "url": "https://link.coupang.com/a/fxF0AEhqOO",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-09"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +34,11 @@ description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 114,900원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fxF0AEhqOO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,12 +54,12 @@ description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜�
 
     <path d="M 68 144 L 115 144 L 163 68 L 210 68 L 257 68 L 304 68 L 352 68 L 399 30 L 446 30 L 493 30 L 541 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 144 L 115 144 L 163 68 L 210 68 L 257 68 L 304 68 L 352 68 L 399 30 L 446 30 L 493 30 L 541 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="144" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="68" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="30" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="30" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="144" r="4" fill="#fdba74"><title>07-20 114,900원</title></circle>
+    <circle cx="115" cy="144" r="4" fill="#fdba74"><title>07-21 114,900원</title></circle>
+    <circle cx="163" cy="68" r="4" fill="#fdba74"><title>07-22 116,900원</title></circle>
+    <circle cx="352" cy="68" r="4" fill="#fdba74"><title>07-26 116,900원</title></circle>
+    <circle cx="399" cy="30" r="4" fill="#fdba74"><title>07-28 117,900원</title></circle>
+    <circle cx="588" cy="30" r="5" fill="#ea580c"><title>08-02 117,900원</title></circle>
 
     <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">117,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
@@ -173,8 +174,9 @@ A. 부츠컷 디자인은 허벅지부터 무릎까지는 슬림하게 붙고 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 114,900원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fxF0AEhqOO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

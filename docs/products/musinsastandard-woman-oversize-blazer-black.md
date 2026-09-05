@@ -19,11 +19,12 @@ description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블�
     "priceCurrency": "KRW",
     "price": "73600",
     "url": "https://link.coupang.com/a/f4t4rxRyP6",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-16"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -38,6 +39,7 @@ description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블�
     <a href="https://link.coupang.com/a/f4t4rxRyP6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- /bs:chart -->
@@ -140,4 +142,5 @@ A. 오버사이즈 핏이지만 개인의 체형과 원하는 착용감에 따�
     <a href="https://link.coupang.com/a/f4t4rxRyP6" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

@@ -9,7 +9,7 @@ description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "매직캐슬 토끼 손인형",
+  "name": "magic-castle-rabbit-hand-puppet",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/561472905245970-cb5a7704-cd26-4970-8e13-9fedd072641c.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4a37/c76e77f1998366a1b879a3dc1156207168136936c719a600902184dc4619.jpg"

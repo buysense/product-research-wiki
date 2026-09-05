@@ -9,7 +9,7 @@ description: 라오깐마 유라죠우 라조장 고추소스는 고소하고 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "라오깐마 유라죠우 라조장 고추소스",
+  "name": "laoganma-youlajiao-chilisauce",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/d6cd/cc3d74edee235e7d9dc9e29523367325191c6607cd906b07dbb03313c453.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/x7vkn6kf/83ceab6be28c45beaf241191ce26bd28.jpg"

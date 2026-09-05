@@ -9,7 +9,7 @@ description: 농심 짜짜로니는 진한 액상 춘장 소스와 쫄깃한 면
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "농심 짜짜로니",
+  "name": "nongshim-jjajaroni-ramen",
   "description": "농심 짜짜로니는 진한 액상 춘장 소스와 쫄깃한 면발이 특징인 짜장라면으로, 집에서 간편하고 든든하게 중식 풍미를 즐기려는 소비자에게 적합한 구매 가이드입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/68913501069802-857585fd-a746-4542-9239-e0d91ce2c94e.jpg",

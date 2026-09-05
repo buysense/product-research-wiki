@@ -9,7 +9,7 @@ description: 시가야 전통발효 낫또는 일본 카고시마 공장의 전�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "시가야 전통발효 낫또",
+  "name": "shigaya-traditional-fermented-natto",
   "description": "시가야 전통발효 낫또는 일본 카고시마 공장의 전통 방식으로 만들어진 낫또로, 개별 포장되어 바쁜 아침 식사나 건강 간편식으로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4001/0ee3036865b9f25c28a70bf93b86d544b7355e9f1fa960eba7d6f6fa6e68.jpg",

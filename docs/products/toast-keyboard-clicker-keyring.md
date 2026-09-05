@@ -9,7 +9,7 @@ description: 귀여운 식빵 디자인과 경쾌한 키보드 타건감을 선�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "식빵 키보드 클릭커",
+  "name": "toast-keyboard-clicker-keyring",
   "description": "귀여운 식빵 디자인과 경쾌한 키보드 타건감을 선사하는 식빵 키보드 클릭커는 가방 장식이나 스트레스 해소용 피젯 토이로 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/db93/f5914120cefba2594fb6d584db996719dd9a9a7aa5d1d4ae296d5c797628.png",

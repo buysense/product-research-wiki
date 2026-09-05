@@ -9,7 +9,7 @@ description: 라카나스타 통밀 또띠아는 식단 관리와 건강한 식�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "라카나스타 통밀 또띠아",
+  "name": "lakanasta-whole-wheat-tortilla",
   "description": "라카나스타 통밀 또띠아는 식단 관리와 건강한 식사를 원하는 소비자를 위한 제품으로, 퀘사디아, 랩 등 다양한 요리에 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/103444401736270-4077980a-c22a-47d7-9dd7-e9b639cd8e98.jpg",

@@ -20,8 +20,8 @@ description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주�
     "priceCurrency": "KRW",
     "price": "89900",
     "url": "https://link.coupang.com/a/fF1oEj8qlM",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -32,6 +32,7 @@ description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주�
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -46,6 +47,7 @@ description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주�
     <a href="https://link.coupang.com/a/fF1oEj8qlM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -61,8 +63,8 @@ description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주�
 
     <path d="M 68 102 L 126 102 L 184 102 L 241 102 L 299 102 L 357 102 L 415 102 L 472 102 L 530 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 126 102 L 184 102 L 241 102 L 299 102 L 357 102 L 415 102 L 472 102 L 530 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-25 89,900원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>08-05 89,900원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">89,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
@@ -179,4 +181,5 @@ A. 소재에 따라 다르지만, 일반적으로 합성 가죽 소재인 경우
     <a href="https://link.coupang.com/a/fF1oEj8qlM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

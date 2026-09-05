@@ -19,8 +19,8 @@ description: THORNE 기본 영양소는 일상적인 영양 균형 유지와 전
     "priceCurrency": "KRW",
     "price": "207590",
     "url": "https://link.coupang.com/a/eDDugl",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-03"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
@@ -55,8 +55,8 @@ description: THORNE 기본 영양소는 일상적인 영양 균형 유지와 전
 
     <path d="M 68 110 L 86 110 L 104 110 L 122 110 L 140 110 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 110 L 86 110 L 104 110 L 122 110 L 140 110 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="110" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="110" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="110" r="4" fill="#fdba74"><title>07-11 207,590원</title></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"><title>08-27 207,590원</title></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">207,590원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>

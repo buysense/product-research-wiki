@@ -9,7 +9,7 @@ description: 생미쉘 빨레트 비스킷은 프랑스 전통 제법으로 만�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "생미쉘 빨레트 비스킷",
+  "name": "st-michel-palet-biscuits",
   "description": "생미쉘 빨레트 비스킷은 프랑스 전통 제법으로 만든 버터 비스킷으로, 진한 버터 풍미와 부드럽고 바삭한 식감이 특징입니다. 커피나 차와 함께 즐기기 좋은 간식이며, 고급스러운 포장으로 가볍게 선물하기에도 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/680bb0ac-ec8c-4215-bb0f-e699fc490a6e4065845182412247462.png",

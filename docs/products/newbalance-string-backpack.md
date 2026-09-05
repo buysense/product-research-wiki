@@ -9,7 +9,7 @@ description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "뉴발란스 스트링 백팩",
+  "name": "newbalance-string-backpack",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/18/16/3/64a549bd-cda1-40ee-b43b-ae0326b97497.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/qd5we8im/8b144420a37f4b28af53a536f22a8258.jpg"

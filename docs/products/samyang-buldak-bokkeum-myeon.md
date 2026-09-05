@@ -9,7 +9,7 @@ description: 삼양 불닭볶음면은 매콤하고 중독성 있는 맛으로 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "삼양 불닭볶음면",
+  "name": "samyang-buldak-bokkeum-myeon",
   "description": "삼양 불닭볶음면은 매콤하고 중독성 있는 맛으로 스트레스 해소와 다양한 레시피 활용에 적합하며, 주기적으로 생각나는 매운맛을 찾는 소비자에게 인기 있는 볶음면입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6198060670318-6bdae4d7-b6dd-4fc9-802a-40999e890357.jpg",

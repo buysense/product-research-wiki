@@ -8,7 +8,7 @@ description: 잔스포츠 슈퍼브레이크 플러스 백팩은 15인치 노트
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "잔스포츠 슈퍼브레이크 플러스 백팩",
+  "name": "jansport-superbreak-plus-backpack",
   "description": "잔스포츠 슈퍼브레이크 플러스 백팩은 15인치 노트북 수납이 가능한 실용적인 디자인으로 학생 및 일상용으로 적합한 가방입니다.",
   "offers": {
     "@type": "Offer",

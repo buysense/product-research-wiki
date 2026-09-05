@@ -10,6 +10,7 @@ description: 로제프란츠 포켓 반팔 니트 가디건은 간절기 또는 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "로제프란츠 ROSEFRANTZ Pocket short sleeve knit cardigan",
+  "description": "로제프란츠 포켓 반팔 니트 가디건은 간절기 또는 실내 냉방 시 가볍게 걸치기 좋은 데일리 아이템으로, 활용도 높은 디자인과 편안한 착용감이 특징입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4e90/9fb550e83ee06662b7b8dd70891f0b72d29a9453b0d5cc19464212f0a585.jpg"
   ],
@@ -18,8 +19,8 @@ description: 로제프란츠 포켓 반팔 니트 가디건은 간절기 또는 
     "priceCurrency": "KRW",
     "price": "52000",
     "url": "https://link.coupang.com/a/fME1eQFh7Y",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
@@ -54,13 +55,13 @@ description: 로제프란츠 포켓 반팔 니트 가디건은 간절기 또는 
 
     <path d="M 68 41 L 155 98 L 241 84 L 328 134 L 415 134 L 501 62 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 41 L 155 98 L 241 84 L 328 134 L 415 134 L 501 62 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="155" cy="98" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="84" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="134" r="4" fill="#fdba74"></circle>
-    <circle cx="501" cy="62" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="132" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="41" r="4" fill="#fdba74"><title>07-29 76,100원</title></circle>
+    <circle cx="155" cy="98" r="4" fill="#fdba74"><title>07-30 61,100원</title></circle>
+    <circle cx="241" cy="84" r="4" fill="#fdba74"><title>07-31 64,800원</title></circle>
+    <circle cx="328" cy="134" r="4" fill="#fdba74"><title>08-02 51,600원</title></circle>
+    <circle cx="415" cy="134" r="4" fill="#fdba74"><title>08-03 51,600원</title></circle>
+    <circle cx="501" cy="62" r="4" fill="#fdba74"><title>08-05 70,600원</title></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"><title>08-19 52,000원</title></circle>
 
     <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">52,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>

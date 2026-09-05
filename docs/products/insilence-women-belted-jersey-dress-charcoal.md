@@ -19,8 +19,8 @@ description: 인사일런스 벨티드 져지 원피스 차콜은 편안한 착�
     "priceCurrency": "KRW",
     "price": "140100",
     "url": "https://link.coupang.com/a/f8bxoGsrWS",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-03"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
@@ -55,16 +55,16 @@ description: 인사일런스 벨티드 져지 원피스 차콜은 편안한 착�
 
     <path d="M 68 167 L 126 176 L 184 176 L 241 165 L 299 165 L 357 117 L 415 117 L 472 81 L 530 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 167 L 126 176 L 184 176 L 241 165 L 299 165 L 357 117 L 415 117 L 472 81 L 530 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="167" r="4" fill="#fdba74"></circle>
-    <circle cx="126" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="184" cy="176" r="4" fill="#fdba74"></circle>
-    <circle cx="241" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="165" r="4" fill="#fdba74"></circle>
-    <circle cx="357" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="415" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="472" cy="81" r="4" fill="#fdba74"></circle>
-    <circle cx="530" cy="117" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="117" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="167" r="4" fill="#fdba74"><title>08-11 107,500원</title></circle>
+    <circle cx="126" cy="176" r="4" fill="#fdba74"><title>08-19 101,100원</title></circle>
+    <circle cx="184" cy="176" r="4" fill="#fdba74"><title>08-20 101,100원</title></circle>
+    <circle cx="241" cy="165" r="4" fill="#fdba74"><title>08-21 108,400원</title></circle>
+    <circle cx="299" cy="165" r="4" fill="#fdba74"><title>08-22 108,400원</title></circle>
+    <circle cx="357" cy="117" r="4" fill="#fdba74"><title>08-23 140,100원</title></circle>
+    <circle cx="415" cy="117" r="4" fill="#fdba74"><title>08-24 140,100원</title></circle>
+    <circle cx="472" cy="81" r="4" fill="#fdba74"><title>08-25 163,500원</title></circle>
+    <circle cx="530" cy="117" r="4" fill="#fdba74"><title>08-26 140,100원</title></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>08-27 140,100원</title></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">140,100원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-11</text>

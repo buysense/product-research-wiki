@@ -9,7 +9,7 @@ description: 맨부커상 수상작 '예감은 틀리지 않는다'는 조작된
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "예감은 틀리지 않는다",
+  "name": "yegam-eun-teulliji-anneunda-novel",
   "description": "맨부커상 수상작 '예감은 틀리지 않는다'는 조작된 기억과 성찰을 다루는 소설로, 깊은 여운을 원하는 독자나 지인 선물용으로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e097/a069600594db304472350be90aec8ae40140519d14e644748c3c2aed84d8.png"

@@ -19,11 +19,12 @@ description: 에즈이프 캘리 트위스트 언밸런스 레터링 티셔츠 �
     "priceCurrency": "KRW",
     "price": "65600",
     "url": "https://link.coupang.com/a/fpnMdS6W0y",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-12"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +35,11 @@ description: 에즈이프 캘리 트위스트 언밸런스 레터링 티셔츠 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 64,400원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 65,600원</span>
     <a href="https://link.coupang.com/a/fpnMdS6W0y" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,12 +55,12 @@ description: 에즈이프 캘리 트위스트 언밸런스 레터링 티셔츠 �
 
     <path d="M 68 111 L 95 111 L 123 111 L 150 111 L 177 111 L 205 111 L 232 111 L 260 111 L 287 26 L 314 26 L 342 26 L 369 26 L 396 93 L 424 93 L 451 93 L 479 93 L 506 93 L 533 93 L 561 93 L 588 93 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 111 L 95 111 L 123 111 L 150 111 L 177 111 L 205 111 L 232 111 L 260 111 L 287 26 L 314 26 L 342 26 L 369 26 L 396 93 L 424 93 L 451 93 L 479 93 L 506 93 L 533 93 L 561 93 L 588 93" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="260" cy="111" r="4" fill="#fdba74"></circle>
-    <circle cx="287" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="369" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="396" cy="93" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="93" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="111" r="4" fill="#fdba74"><title>07-15 64,400원</title></circle>
+    <circle cx="260" cy="111" r="4" fill="#fdba74"><title>07-22 64,400원</title></circle>
+    <circle cx="287" cy="26" r="4" fill="#fdba74"><title>07-23 70,000원</title></circle>
+    <circle cx="369" cy="26" r="4" fill="#fdba74"><title>07-26 70,000원</title></circle>
+    <circle cx="396" cy="93" r="4" fill="#fdba74"><title>07-28 65,600원</title></circle>
+    <circle cx="588" cy="93" r="5" fill="#ea580c"><title>08-05 65,600원</title></circle>
 
     <text x="588" y="81" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">65,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
@@ -190,8 +192,9 @@ A. 가장 큰 특징은 밑단이나 소매 등 특정 부분이 비대칭적으
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 64,400원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 65,600원</span>
     <a href="https://link.coupang.com/a/fpnMdS6W0y" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

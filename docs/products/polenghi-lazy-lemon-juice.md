@@ -9,7 +9,7 @@ description: 폴렝기 레이지 레몬주스는 이태리 시실리 최고급 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "폴렝기 레이지 레몬주스",
+  "name": "polenghi-lazy-lemon-juice",
   "description": "폴렝기 레이지 레몬주스는 이태리 시실리 최고급 레몬으로 만든 100% 원액 레몬즙입니다. 상큼한 레몬수로 즐기거나, 다양한 요리의 풍미를 더하는 데 활용되며, 다이어트 및 건강 관리 식단에도 적합합니다.",
   "offers": {
     "@type": "Offer",

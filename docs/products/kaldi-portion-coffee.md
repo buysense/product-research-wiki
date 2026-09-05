@@ -9,7 +9,7 @@ description: 칼디 포션 커피는 믹스 커피 대신 깔끔하고 부담 �
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "칼디 포션 커피",
+  "name": "kaldi-portion-coffee",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/7a46a8892ff5a5a77b1379030ab3e49a57b17034959349824db12bb69f1c_1776997221554.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e430/7a46a8892ff5a5a77b1379030ab3e49a57b17034959349824db12bb69f1c.jpg"

@@ -10,6 +10,7 @@ description: 라이프썸 핸디형 무선 청소기는 감각적인 디자인�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "라이프썸 핸디형 무선 청소기",
+  "description": "라이프썸 핸디형 무선 청소기는 감각적인 디자인과 가벼운 무게로 일상 생활 먼지, 차량 내부, 좁은 공간 청소에 유용한 무선 핸디 청소기입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1761804510901/e23fe0bc-a248-4c52-93cc-cb1b723614a7.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9644/bf906626fdfffcfbb3178a7082dc9369a189c89a024febfbd4d08761fb0a.jpg"
@@ -19,8 +20,8 @@ description: 라이프썸 핸디형 무선 청소기는 감각적인 디자인�
     "priceCurrency": "KRW",
     "price": "43910",
     "url": "https://link.coupang.com/a/dTVFBE3xgO",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-26"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -51,7 +52,7 @@ description: 라이프썸 핸디형 무선 청소기는 감각적인 디자인�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,24 +61,24 @@ description: 라이프썸 핸디형 무선 청소기는 감각적인 디자인�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 119 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 125 L 158 125 L 176 125 L 194 125 L 211 125 L 229 125 L 247 125 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 28 L 373 28 L 391 28 L 409 28 L 427 28 L 445 28 L 462 28 L 480 28 L 498 28 L 516 28 L 534 28 L 552 28 L 570 28 L 588 119" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="247" cy="125" r="4" fill="#fdba74"></circle>
-    <circle cx="265" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="570" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="119" r="5" fill="#ea580c"></circle>
+    <path d="M 68 125 L 90 125 L 111 125 L 133 125 L 155 125 L 176 125 L 198 28 L 220 28 L 241 28 L 263 28 L 285 28 L 306 28 L 328 28 L 350 28 L 371 28 L 393 28 L 415 28 L 436 28 L 458 28 L 480 28 L 501 28 L 523 28 L 545 28 L 566 28 L 588 119 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 90 125 L 111 125 L 133 125 L 155 125 L 176 125 L 198 28 L 220 28 L 241 28 L 263 28 L 285 28 L 306 28 L 328 28 L 350 28 L 371 28 L 393 28 L 415 28 L 436 28 L 458 28 L 480 28 L 501 28 L 523 28 L 545 28 L 566 28 L 588 119" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="125" r="4" fill="#fdba74"><title>07-08 43,470원</title></circle>
+    <circle cx="176" cy="125" r="4" fill="#fdba74"><title>07-13 43,470원</title></circle>
+    <circle cx="198" cy="28" r="4" fill="#fdba74"><title>07-14 49,900원</title></circle>
+    <circle cx="566" cy="28" r="4" fill="#fdba74"><title>08-04 49,900원</title></circle>
+    <circle cx="588" cy="119" r="5" fill="#ea580c"><title>08-19 43,910원</title></circle>
 
     <text x="588" y="107" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">43,910원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>

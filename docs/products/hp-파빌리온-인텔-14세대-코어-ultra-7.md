@@ -9,7 +9,7 @@ description: AI 작업과 일상 멀티태스킹에 최적화된 HP 파빌리온
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "HP 파빌리온 인텔 14세대 코어 Ultra 7",
+  "name": "hp-파빌리온-인텔-14세대-코어-ultra-7",
   "description": "AI 작업과 일상 멀티태스킹에 최적화된 HP 파빌리온 인텔 14세대 코어 Ultra 7 노트북은 강력한 성능과 뛰어난 휴대성을 제공하여 대학생부터 직장인까지 다양한 사용 환경에 적합합니다.",
   "offers": {
     "@type": "Offer",

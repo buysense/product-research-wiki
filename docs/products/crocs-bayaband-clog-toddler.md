@@ -18,20 +18,13 @@ description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "36500",
     "url": "https://link.coupang.com/a/e5iA32qdEW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-08"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": 4.7,
-    "reviewCount": 3529,
-    "bestRating": 5,
-    "worstRating": 1
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -42,15 +35,16 @@ description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 36,500원 · 별점 4.7 · 리뷰 3,529개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/e5iA32qdEW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -59,23 +53,23 @@ description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">37,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">36,000</text>
 
-    <path d="M 68 26 L 87 26 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 26 L 222 26 L 241 26 L 261 26 L 280 26 L 299 140 L 318 140 L 338 140 L 357 140 L 376 140 L 395 140 L 415 140 L 434 140 L 453 140 L 472 140 L 492 140 L 511 140 L 530 140 L 549 140 L 569 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 87 26 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 26 L 222 26 L 241 26 L 261 26 L 280 26 L 299 140 L 318 140 L 338 140 L 357 140 L 376 140 L 395 140 L 415 140 L 434 140 L 453 140 L 472 140 L 492 140 L 511 140 L 530 140 L 549 140 L 569 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="280" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="299" cy="140" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="140" r="5" fill="#ea580c"></circle>
+    <path d="M 68 26 L 92 26 L 115 26 L 139 26 L 163 26 L 186 26 L 210 26 L 233 140 L 257 140 L 281 140 L 304 140 L 328 140 L 352 140 L 375 140 L 399 140 L 423 140 L 446 140 L 470 140 L 493 140 L 517 140 L 541 140 L 564 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 92 26 L 115 26 L 139 26 L 163 26 L 186 26 L 210 26 L 233 140 L 257 140 L 281 140 L 304 140 L 328 140 L 352 140 L 375 140 L 399 140 L 423 140 L 446 140 L 470 140 L 493 140 L 517 140 L 541 140 L 564 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-08 38,300원</title></circle>
+    <circle cx="210" cy="26" r="4" fill="#fdba74"><title>07-14 38,300원</title></circle>
+    <circle cx="233" cy="140" r="4" fill="#fdba74"><title>07-15 36,500원</title></circle>
+    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>08-01 36,500원</title></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-03</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-09</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
   </svg>
 </div>
@@ -214,8 +208,9 @@ A. 새 제품에서 나는 고무 특유의 냄새는 크로슬라이트 소재�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 36,500원 · 별점 4.7 · 리뷰 3,529개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/e5iA32qdEW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

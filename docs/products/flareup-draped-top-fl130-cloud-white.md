@@ -19,11 +19,12 @@ description: 플레어업 FLAREUP Draped Top FL-130_Cloud White 176060은 드레
     "priceCurrency": "KRW",
     "price": "62100",
     "url": "https://link.coupang.com/a/f6s5l80Iou",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-17"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -38,6 +39,7 @@ description: 플레어업 FLAREUP Draped Top FL-130_Cloud White 176060은 드레
     <a href="https://link.coupang.com/a/f6s5l80Iou" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- /bs:chart -->
@@ -143,4 +145,5 @@ A. 현재 제공된 정보로는 플레어업 FLAREUP Draped Top FL-130_Cloud Wh
     <a href="https://link.coupang.com/a/f6s5l80Iou" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

@@ -17,13 +17,13 @@ description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "56200",
     "url": "https://link.coupang.com/a/e6TryVOGey",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -32,17 +32,18 @@ description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 
 <!-- /bs:notice -->
 <!-- bs:cta -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <span style="font-size: 0.8em; color: #888;">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 56,200원</span>
-    <a href="https://link.coupang.com/a/e6TryVOGey" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">쿠팡에서 구매하기</a>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
+    <a href="https://link.coupang.com/a/e6TryVOGey" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -51,21 +52,21 @@ description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">56,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">56,100</text>
 
-    <path d="M 68 102 L 91 102 L 113 102 L 136 102 L 158 102 L 181 102 L 204 102 L 226 102 L 249 102 L 271 102 L 294 102 L 317 102 L 339 102 L 362 102 L 385 102 L 407 102 L 430 102 L 452 102 L 475 102 L 498 102 L 520 102 L 543 102 L 565 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 91 102 L 113 102 L 136 102 L 158 102 L 181 102 L 204 102 L 226 102 L 249 102 L 271 102 L 294 102 L 317 102 L 339 102 L 362 102 L 385 102 L 407 102 L 430 102 L 452 102 L 475 102 L 498 102 L 520 102 L 543 102 L 565 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <path d="M 68 102 L 94 102 L 120 102 L 146 102 L 172 102 L 198 102 L 224 102 L 250 102 L 276 102 L 302 102 L 328 102 L 354 102 L 380 102 L 406 102 L 432 102 L 458 102 L 484 102 L 510 102 L 536 102 L 562 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 94 102 L 120 102 L 146 102 L 172 102 L 198 102 L 224 102 L 250 102 L 276 102 L 302 102 L 328 102 L 354 102 L 380 102 L 406 102 L 432 102 L 458 102 L 484 102 L 510 102 L 536 102 L 562 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-08 56,200원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>07-31 56,200원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">56,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-04</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
@@ -192,10 +193,11 @@ A. 실측 사이즈, 소재 두께, 비침 여부, 세탁 방법을 먼저 확�
 <!-- /bs:celebs -->
 <!-- bs:cta_bottom -->
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
-  <span style="font-size: 0.8em; color: #888;">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
+  <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 56,200원</span>
-    <a href="https://link.coupang.com/a/e6TryVOGey" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">쿠팡에서 구매하기</a>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
+    <a href="https://link.coupang.com/a/e6TryVOGey" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

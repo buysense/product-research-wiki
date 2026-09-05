@@ -17,13 +17,13 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "132500",
     "url": "https://link.coupang.com/a/faukkoH7im",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,15 +34,16 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 189,400원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/faukkoH7im" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -51,37 +52,35 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 42 L 92 42 L 115 145 L 139 145 L 163 100 L 186 100 L 210 100 L 233 42 L 257 153 L 281 100 L 304 100 L 328 100 L 352 100 L 375 166 L 399 100 L 423 100 L 446 100 L 470 100 L 493 129 L 517 129 L 541 177 L 564 166 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 42 L 92 42 L 115 145 L 139 145 L 163 100 L 186 100 L 210 100 L 233 42 L 257 153 L 281 100 L 304 100 L 328 100 L 352 100 L 375 166 L 399 100 L 423 100 L 446 100 L 470 100 L 493 129 L 517 129 L 541 177 L 564 166 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="92" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="115" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="139" cy="145" r="4" fill="#fdba74"></circle>
-    <circle cx="163" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="210" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="233" cy="42" r="4" fill="#fdba74"></circle>
-    <circle cx="257" cy="153" r="4" fill="#fdba74"></circle>
-    <circle cx="281" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="352" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="375" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="399" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="470" cy="100" r="4" fill="#fdba74"></circle>
-    <circle cx="493" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="517" cy="129" r="4" fill="#fdba74"></circle>
-    <circle cx="541" cy="177" r="4" fill="#fdba74"></circle>
-    <circle cx="564" cy="166" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="129" r="5" fill="#ea580c"></circle>
+    <path d="M 68 145 L 94 145 L 120 100 L 146 100 L 172 100 L 198 42 L 224 153 L 250 100 L 276 100 L 302 100 L 328 100 L 354 166 L 380 100 L 406 100 L 432 100 L 458 100 L 484 129 L 510 129 L 536 177 L 562 166 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 145 L 94 145 L 120 100 L 146 100 L 172 100 L 198 42 L 224 153 L 250 100 L 276 100 L 302 100 L 328 100 L 354 166 L 380 100 L 406 100 L 432 100 L 458 100 L 484 129 L 510 129 L 536 177 L 562 166 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="145" r="4" fill="#fdba74"><title>07-08 121,700원</title></circle>
+    <circle cx="94" cy="145" r="4" fill="#fdba74"><title>07-09 121,700원</title></circle>
+    <circle cx="120" cy="100" r="4" fill="#fdba74"><title>07-10 151,500원</title></circle>
+    <circle cx="172" cy="100" r="4" fill="#fdba74"><title>07-12 151,500원</title></circle>
+    <circle cx="198" cy="42" r="4" fill="#fdba74"><title>07-13 189,400원</title></circle>
+    <circle cx="224" cy="153" r="4" fill="#fdba74"><title>07-14 116,300원</title></circle>
+    <circle cx="250" cy="100" r="4" fill="#fdba74"><title>07-15 151,500원</title></circle>
+    <circle cx="328" cy="100" r="4" fill="#fdba74"><title>07-18 151,500원</title></circle>
+    <circle cx="354" cy="166" r="4" fill="#fdba74"><title>07-19 108,200원</title></circle>
+    <circle cx="380" cy="100" r="4" fill="#fdba74"><title>07-20 151,500원</title></circle>
+    <circle cx="458" cy="100" r="4" fill="#fdba74"><title>07-23 151,500원</title></circle>
+    <circle cx="484" cy="129" r="4" fill="#fdba74"><title>07-24 132,500원</title></circle>
+    <circle cx="510" cy="129" r="4" fill="#fdba74"><title>07-25 132,500원</title></circle>
+    <circle cx="536" cy="177" r="4" fill="#fdba74"><title>07-26 100,600원</title></circle>
+    <circle cx="562" cy="166" r="4" fill="#fdba74"><title>07-30 108,100원</title></circle>
+    <circle cx="588" cy="129" r="5" fill="#ea580c"><title>07-31 132,500원</title></circle>
 
     <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">132,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-06</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
@@ -214,8 +213,9 @@ A. 뷔스티에 디자인 특성상 상체 둘레와 어깨 스트랩 조절 여
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 189,400원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/faukkoH7im" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

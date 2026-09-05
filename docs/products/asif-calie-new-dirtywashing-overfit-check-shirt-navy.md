@@ -17,13 +17,13 @@ description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "129800",
     "url": "https://link.coupang.com/a/fsFjZqxFKK",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-08"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +34,11 @@ description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 139,500원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fsFjZqxFKK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,10 +54,10 @@ description: 에즈이프 캘리 뉴 더티워싱 오버핏 체크 셔츠 네이
 
     <path d="M 68 26 L 108 26 L 148 105 L 188 105 L 228 105 L 268 105 L 308 105 L 348 105 L 388 105 L 428 105 L 468 105 L 508 105 L 548 105 L 588 105 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 26 L 108 26 L 148 105 L 188 105 L 228 105 L 268 105 L 308 105 L 348 105 L 388 105 L 428 105 L 468 105 L 508 105 L 548 105 L 588 105" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="108" cy="26" r="4" fill="#fdba74"></circle>
-    <circle cx="148" cy="105" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="105" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-17 139,500원</title></circle>
+    <circle cx="108" cy="26" r="4" fill="#fdba74"><title>07-18 139,500원</title></circle>
+    <circle cx="148" cy="105" r="4" fill="#fdba74"><title>07-19 129,800원</title></circle>
+    <circle cx="588" cy="105" r="5" fill="#ea580c"><title>08-01 129,800원</title></circle>
 
     <text x="588" y="93" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">129,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
@@ -174,8 +175,9 @@ A. 더티워싱 가공된 제품은 원단의 특성과 색상 유지를 위해 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 139,500원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fsFjZqxFKK" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

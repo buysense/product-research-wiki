@@ -19,11 +19,12 @@ description: 농심 삼계탕 사발면은 간편하게 삼계탕의 풍미를 �
     "priceCurrency": "KRW",
     "price": "14800",
     "url": "https://link.coupang.com/a/f9MCzn3XYO",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-19"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -38,6 +39,7 @@ description: 농심 삼계탕 사발면은 간편하게 삼계탕의 풍미를 �
     <a href="https://link.coupang.com/a/f9MCzn3XYO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- /bs:chart -->
@@ -125,4 +127,5 @@ A. 뚜껑을 열고 뜨거운 물을 용기 안쪽 표시선까지 부은 후, �
     <a href="https://link.coupang.com/a/f9MCzn3XYO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

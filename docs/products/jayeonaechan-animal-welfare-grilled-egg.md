@@ -9,7 +9,7 @@ description: 자연애찬 동물복지 구운란은 난각번호 2번 동물복�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "자연애찬 동물복지 구운란",
+  "name": "jayeonaechan-animal-welfare-grilled-egg",
   "description": "자연애찬 동물복지 구운란은 난각번호 2번 동물복지 인증 계란으로, 바쁜 아침 식사, 다이어트 간식, 아이들 영양 간식으로 간편하게 즐길 수 있는 고소하고 쫀득한 구운란입니다.",
   "offers": {
     "@type": "Offer",

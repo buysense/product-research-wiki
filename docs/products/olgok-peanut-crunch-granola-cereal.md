@@ -9,7 +9,7 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "옳곡 땅콩크런치 그래놀라 시리얼",
+  "name": "olgok-peanut-crunch-granola-cereal",
   "description": "옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식사 대용이나 건강한 간식을 찾는 소비자에게 고소함과 바삭함을 제공하는 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/53ee/438cac3800cf72dbb2168eef45d3a1657e1fd26fd04acbdded93384e1f6f.png",

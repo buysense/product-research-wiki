@@ -8,7 +8,7 @@ description: 잔스포츠 Drawsack은 14L 용량, 약 190g의 초경량 드로�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "잔스포츠 Drawsack 드로우 짐색 미니 백팩",
+  "name": "잔스포츠-drawsack-드로우-짐색-미니-백팩",
   "description": "잔스포츠 Drawsack은 14L 용량, 약 190g의 초경량 드로우스트링 미니 백팩으로, 상단의 끈을 조이면 '복조리' 모양이 완성되는 독특한 디자인이 특징입니다. 폴리에스터 100% 소재에 전면 포켓을 갖추어 간편한 일상 외출, 운동, 가벼운...",
   "offers": {
     "@type": "Offer",

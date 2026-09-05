@@ -17,13 +17,13 @@ description: GLOWNY 글로니 G SLIM TEE는 슬림핏 디자인으로 다양한 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "47600",
     "url": "https://link.coupang.com/a/fEAq2JQzwO",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-08"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +34,11 @@ description: GLOWNY 글로니 G SLIM TEE는 슬림핏 디자인으로 다양한 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 45,500원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fEAq2JQzwO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,9 +54,9 @@ description: GLOWNY 글로니 G SLIM TEE는 슬림핏 디자인으로 다양한 
 
     <path d="M 68 121 L 172 41 L 276 41 L 380 41 L 484 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 121 L 172 41 L 276 41 L 380 41 L 484 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="121" r="4" fill="#fdba74"></circle>
-    <circle cx="172" cy="41" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="41" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="121" r="4" fill="#fdba74"><title>07-25 45,500원</title></circle>
+    <circle cx="172" cy="41" r="4" fill="#fdba74"><title>07-26 47,600원</title></circle>
+    <circle cx="588" cy="41" r="5" fill="#ea580c"><title>08-01 47,600원</title></circle>
 
     <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">47,600원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
@@ -157,8 +158,9 @@ A. 면 혼방 소재의 특성상 봄, 가을에는 단독으로 입기 좋으�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 45,500원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fEAq2JQzwO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

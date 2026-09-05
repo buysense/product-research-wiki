@@ -20,8 +20,8 @@ description: 로지오가닉 당당한 젤리 3종 세트는 합성첨가물 없
     "priceCurrency": "KRW",
     "price": "32300",
     "url": "https://link.coupang.com/a/dTXyXZA9fw",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-05-28"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -32,6 +32,7 @@ description: 로지오가닉 당당한 젤리 3종 세트는 합성첨가물 없
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -46,6 +47,7 @@ description: 로지오가닉 당당한 젤리 3종 세트는 합성첨가물 없
     <a href="https://link.coupang.com/a/dTXyXZA9fw" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- /bs:chart -->
@@ -133,4 +135,5 @@ A. 각 젤리가 개별 포장되어 있어 위생적으로 보관하고 섭취�
     <a href="https://link.coupang.com/a/dTXyXZA9fw" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

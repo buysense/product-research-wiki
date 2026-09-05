@@ -19,11 +19,12 @@ description: PROJECT WAVE Square Lace Slit Top은 스퀘어 넥라인과 레이�
     "priceCurrency": "KRW",
     "price": "74200",
     "url": "https://link.coupang.com/a/f4tv3N5taS",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-16"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -38,6 +39,7 @@ description: PROJECT WAVE Square Lace Slit Top은 스퀘어 넥라인과 레이�
     <a href="https://link.coupang.com/a/f4tv3N5taS" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- /bs:chart -->
@@ -148,4 +150,5 @@ A. 슬림핏 데님 팬츠나 와이드 팬츠와 매치하여 캐주얼하면�
     <a href="https://link.coupang.com/a/f4tv3N5taS" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

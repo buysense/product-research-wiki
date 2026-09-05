@@ -17,13 +17,13 @@ description: 더콜디스트모먼트 TCM starfish patchwork backpack은 독특�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "84700",
     "url": "https://link.coupang.com/a/fxGzlralqe",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-08-07"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -34,10 +34,11 @@ description: 더콜디스트모먼트 TCM starfish patchwork backpack은 독특�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 84,700원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fxGzlralqe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,12 +54,12 @@ description: 더콜디스트모먼트 TCM starfish patchwork backpack은 독특�
 
     <path d="M 68 107 L 133 107 L 198 28 L 263 28 L 328 28 L 393 107 L 458 107 L 523 107 L 588 107 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 107 L 133 107 L 198 28 L 263 28 L 328 28 L 393 107 L 458 107 L 523 107 L 588 107" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="133" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="28" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="107" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="107" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="107" r="4" fill="#fdba74"><title>07-20 84,700원</title></circle>
+    <circle cx="133" cy="107" r="4" fill="#fdba74"><title>07-21 84,700원</title></circle>
+    <circle cx="198" cy="28" r="4" fill="#fdba74"><title>07-22 89,900원</title></circle>
+    <circle cx="328" cy="28" r="4" fill="#fdba74"><title>07-24 89,900원</title></circle>
+    <circle cx="393" cy="107" r="4" fill="#fdba74"><title>07-25 84,700원</title></circle>
+    <circle cx="588" cy="107" r="5" fill="#ea580c"><title>07-31 84,700원</title></circle>
 
     <text x="588" y="95" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">84,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
@@ -169,8 +170,9 @@ A. 일반적인 데일리 백팩과 유사한 수준의 수납 공간을 제공�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 84,700원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fxGzlralqe" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

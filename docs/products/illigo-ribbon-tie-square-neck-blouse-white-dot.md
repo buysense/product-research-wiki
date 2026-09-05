@@ -19,8 +19,8 @@ description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트�
     "priceCurrency": "KRW",
     "price": "60000",
     "url": "https://link.coupang.com/a/ga4c9Pkro4",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-02"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
@@ -55,14 +55,14 @@ description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트�
 
     <path d="M 68 141 L 133 141 L 198 141 L 263 43 L 328 43 L 393 64 L 458 64 L 523 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 141 L 133 141 L 198 141 L 263 43 L 328 43 L 393 64 L 458 64 L 523 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="198" cy="141" r="4" fill="#fdba74"></circle>
-    <circle cx="263" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="328" cy="43" r="4" fill="#fdba74"></circle>
-    <circle cx="393" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="458" cy="64" r="4" fill="#fdba74"></circle>
-    <circle cx="523" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="141" r="4" fill="#fdba74"><title>08-13 54,900원</title></circle>
+    <circle cx="198" cy="141" r="4" fill="#fdba74"><title>08-20 54,900원</title></circle>
+    <circle cx="263" cy="43" r="4" fill="#fdba74"><title>08-21 67,700원</title></circle>
+    <circle cx="328" cy="43" r="4" fill="#fdba74"><title>08-22 67,700원</title></circle>
+    <circle cx="393" cy="64" r="4" fill="#fdba74"><title>08-23 65,000원</title></circle>
+    <circle cx="458" cy="64" r="4" fill="#fdba74"><title>08-24 65,000원</title></circle>
+    <circle cx="523" cy="102" r="4" fill="#fdba74"><title>08-25 60,000원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>08-26 60,000원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">60,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-13</text>

@@ -9,7 +9,7 @@ description: 농심 육포깡 매콤한맛은 짭짤하면서도 알싸한 매�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "농심 육포깡 매콤한맛",
+  "name": "nongshim-yukpokkang-spicy-flavor",
   "description": "농심 육포깡 매콤한맛은 짭짤하면서도 알싸한 매콤함이 특징인 스낵으로, 맥주 안주나 간식으로 가볍게 즐기기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c852/2e53e5409da7680fc396a63f1c72cfb4bb6f37d7c37651c425665fcb4d51.png"

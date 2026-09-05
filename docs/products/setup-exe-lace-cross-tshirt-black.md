@@ -19,11 +19,12 @@ description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이�
     "priceCurrency": "KRW",
     "price": "101200",
     "url": "https://link.coupang.com/a/fgToeAJxtc",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-07-31"
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-12"
   }
 }
 </script>
+
 <!-- /bs:jsonld -->
 <!-- bs:notice -->
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">
@@ -38,6 +39,7 @@ description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이�
     <a href="https://link.coupang.com/a/fgToeAJxtc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta -->
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
@@ -53,8 +55,8 @@ description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이�
 
     <path d="M 68 102 L 105 102 L 142 102 L 179 102 L 217 102 L 254 102 L 291 102 L 328 102 L 365 102 L 402 102 L 439 102 L 477 102 L 514 102 L 551 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
     <path d="M 68 102 L 105 102 L 142 102 L 179 102 L 217 102 L 254 102 L 291 102 L 328 102 L 365 102 L 402 102 L 439 102 L 477 102 L 514 102 L 551 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"></circle>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-10 101,200원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>07-24 101,200원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">101,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
@@ -196,4 +198,5 @@ A. 일반적으로 레귤러 핏으로 디자인되지만, 브랜드 및 개인 
     <a href="https://link.coupang.com/a/fgToeAJxtc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
+
 <!-- /bs:cta_bottom -->

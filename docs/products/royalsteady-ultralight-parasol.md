@@ -9,7 +9,7 @@ description: 로열스테디 초경량 양산은 200g대의 가벼운 무게와 
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "로열스테디 초경량 양산",
+  "name": "royalsteady-ultralight-parasol",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c801/0bce5c6d779f2bb02484dd0bc7e38a2c8b7f4b95869efe69a2c00d7f5e68.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/428c/ef35619aaec9ac092a4cedf7205bb6fccf1ea2a1e12d1a6bb96357e7c653.png"

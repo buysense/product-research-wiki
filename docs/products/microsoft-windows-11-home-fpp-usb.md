@@ -9,7 +9,7 @@ description: 마이크로소프트 Windows 11 Home FPP USB는 조립 PC 및 운�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "마이크로소프트 Windows 11 Home FPP USB",
+  "name": "microsoft-windows-11-home-fpp-usb",
   "description": "마이크로소프트 Windows 11 Home FPP USB는 조립 PC 및 운영체제 미포함 PC 사용자에게 안정적인 윈도우 11 환경을 제공하며, 쉬운 설치와 PC 교체 시 라이선스 재사용이 가능한 정품 운영체제입니다.",
   "offers": {
     "@type": "Offer",

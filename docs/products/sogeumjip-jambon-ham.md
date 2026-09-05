@@ -9,7 +9,7 @@ description: 소금집 잠봉 햄은 담백하고 부드러운 식감으로 잠�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "소금집 잠봉",
+  "name": "sogeumjip-jambon-ham",
   "description": "소금집 잠봉 햄은 담백하고 부드러운 식감으로 잠봉뵈르, 샌드위치, 샐러드 등 홈브런치와 간편한 식사를 즐기는 소비자에게 적합한 프리미엄 햄입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/82113832759548-0b16578e-db89-4a5b-b5d1-8f6e73814eb6.jpg",

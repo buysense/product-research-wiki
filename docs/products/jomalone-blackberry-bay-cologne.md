@@ -9,7 +9,7 @@ description: 조말론런던 블랙베리 앤 베이 코롱은 남녀 모두에�
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "조말론 향수 남자, 블랙베리 앤 베이 코롱",
+  "name": "jomalone-blackberry-bay-cologne",
   "description": "조말론런던 블랙베리 앤 베이 코롱은 남녀 모두에게 사랑받는 중성적인 향수로, 상큼한 블랙베리와 싱그러운 월계수 잎, 따뜻한 시더우드가 조화를 이룹니다. 데일리 사용 및 선물용으로 적합하며, 레이어링을 통해 자신만의 시그니처 향을 연출할 수 있습니다.",
   "offers": {
     "@type": "Offer",

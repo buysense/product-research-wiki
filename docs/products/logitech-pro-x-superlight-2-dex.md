@@ -9,7 +9,7 @@ description: 로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "로지텍 PRO X SUPERLIGHT 2 DEX",
+  "name": "logitech-pro-x-superlight-2-dex",
   "description": "로지텍 PRO X SUPERLIGHT 2 DEX는 FPS 게임 플레이 시 정교한 에임과 손목 부담을 줄여주는 초경량 무선 게이밍 마우스로, 오른손 전용 비대칭 그립감을 선호하는 게이머에게 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/12/11/2/a3d50e20-1947-4c2b-af89-7bf22f4d8deb.jpg",
