@@ -20,7 +20,7 @@ description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출�
     "price": "52780",
     "url": "https://link.coupang.com/a/eygm56",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-13"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -56,33 +56,32 @@ description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">54,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">52,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 94 L 86 159 L 104 159 L 122 159 L 140 159 L 158 159 L 176 159 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 136 L 552 136 L 570 136 L 588 136 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 94 L 86 159 L 104 159 L 122 159 L 140 159 L 158 159 L 176 159 L 194 136 L 211 136 L 229 136 L 247 136 L 265 136 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 136 L 552 136 L 570 136 L 588 136" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="94" r="4" fill="#fdba74"><title>07-23 55,500원</title></circle>
-    <circle cx="86" cy="159" r="4" fill="#fdba74"><title>07-24 51,270원</title></circle>
-    <circle cx="176" cy="159" r="4" fill="#fdba74"><title>07-31 51,270원</title></circle>
-    <circle cx="194" cy="136" r="4" fill="#fdba74"><title>08-01 52,780원</title></circle>
-    <circle cx="265" cy="136" r="4" fill="#fdba74"><title>08-05 52,780원</title></circle>
-    <circle cx="283" cy="110" r="4" fill="#fdba74"><title>08-19 54,460원</title></circle>
-    <circle cx="516" cy="110" r="4" fill="#fdba74"><title>09-01 54,460원</title></circle>
-    <circle cx="534" cy="136" r="4" fill="#fdba74"><title>09-02 52,780원</title></circle>
-    <circle cx="588" cy="136" r="5" fill="#ea580c"><title>09-05 52,780원</title></circle>
+    <path d="M 68 130 L 86 130 L 104 130 L 122 130 L 140 130 L 158 130 L 176 72 L 194 72 L 211 72 L 229 72 L 247 72 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 130 L 86 130 L 104 130 L 122 130 L 140 130 L 158 130 L 176 72 L 194 72 L 211 72 L 229 72 L 247 72 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 72 L 534 72 L 552 72 L 570 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="130" r="4" fill="#fdba74"><title>07-24 51,270원</title></circle>
+    <circle cx="158" cy="130" r="4" fill="#fdba74"><title>07-31 51,270원</title></circle>
+    <circle cx="176" cy="72" r="4" fill="#fdba74"><title>08-01 52,780원</title></circle>
+    <circle cx="247" cy="72" r="4" fill="#fdba74"><title>08-05 52,780원</title></circle>
+    <circle cx="265" cy="26" r="4" fill="#fdba74"><title>08-19 54,460원</title></circle>
+    <circle cx="498" cy="26" r="4" fill="#fdba74"><title>09-01 54,460원</title></circle>
+    <circle cx="516" cy="72" r="4" fill="#fdba74"><title>09-02 52,780원</title></circle>
+    <circle cx="588" cy="72" r="5" fill="#ea580c"><title>09-06 52,780원</title></circle>
 
-    <text x="588" y="124" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">52,780원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">52,780원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
