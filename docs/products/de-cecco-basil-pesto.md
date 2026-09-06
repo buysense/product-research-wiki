@@ -21,12 +21,12 @@ description: 데체코 바질 페스토는 신선한 바질과 치즈, 견과류
     "price": "5890",
     "url": "https://link.coupang.com/a/gPlGvgqRNI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-13"
+    "priceValidUntil": "2026-09-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 28924,
+    "reviewCount": 28926,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +44,7 @@ description: 데체코 바질 페스토는 신선한 바질과 치즈, 견과류
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,890원 · 별점 4.7 · 리뷰 28,924개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,890원 · 별점 4.7 · 리뷰 28,926개</span>
     <a href="https://link.coupang.com/a/gPlGvgqRNI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -143,7 +143,7 @@ A. 데체코 바질 페스토에는 그라나파다노 치즈 등 유제품이 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,890원 · 별점 4.7 · 리뷰 28,924개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,890원 · 별점 4.7 · 리뷰 28,926개</span>
     <a href="https://link.coupang.com/a/gPlGvgqRNI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
