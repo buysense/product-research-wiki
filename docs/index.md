@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 데체코 바질 페스토 | [보기](products/de-cecco-basil-pesto.md) |
 | 디벨라 세몰리나 듀럼밀 | [보기](products/divella-semolina-durum-wheat.md) |
 | 맵다요 부트졸로키아 가루 | [보기](products/mapdayo-bhut-jolokia-powder.md) |
 | 황비홍 향취고추 부각 | [보기](products/hwangbihong-hyangchwi-gochu-bugak.md) |
