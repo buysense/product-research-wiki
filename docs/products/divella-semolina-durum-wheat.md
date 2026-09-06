@@ -20,7 +20,7 @@ description: 디벨라 세몰리나 듀럼밀은 홈메이드 파스타나 빵�
     "price": "3460",
     "url": "https://link.coupang.com/a/gPlgcVmXdY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-13"
+    "priceValidUntil": "2026-09-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
