@@ -20,12 +20,12 @@ description: 국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활�
     "price": "28800",
     "url": "https://link.coupang.com/a/fRxlPg8LSK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-13"
+    "priceValidUntil": "2026-09-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.4,
-    "reviewCount": 707,
+    "reviewCount": 711,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,800원 · 별점 4.4 · 리뷰 707개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 28,800원 · 별점 4.4 · 리뷰 711개</span>
     <a href="https://link.coupang.com/a/fRxlPg8LSK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -51,7 +51,7 @@ description: 국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 24개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,26 +60,26 @@ description: 국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
 
-    <path d="M 68 90 L 91 90 L 113 90 L 136 90 L 158 90 L 181 26 L 204 26 L 226 26 L 249 26 L 271 26 L 294 26 L 317 26 L 339 26 L 362 26 L 385 120 L 407 120 L 430 120 L 452 120 L 475 120 L 498 120 L 520 120 L 543 120 L 565 120 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 90 L 91 90 L 113 90 L 136 90 L 158 90 L 181 26 L 204 26 L 226 26 L 249 26 L 271 26 L 294 26 L 317 26 L 339 26 L 362 26 L 385 120 L 407 120 L 430 120 L 452 120 L 475 120 L 498 120 L 520 120 L 543 120 L 565 120 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 90 L 90 90 L 111 90 L 133 90 L 155 90 L 176 26 L 198 26 L 220 26 L 241 26 L 263 26 L 285 26 L 306 26 L 328 26 L 350 26 L 371 120 L 393 120 L 415 120 L 436 120 L 458 120 L 480 120 L 501 120 L 523 120 L 545 120 L 566 120 L 588 120 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 90 L 90 90 L 111 90 L 133 90 L 155 90 L 176 26 L 198 26 L 220 26 L 241 26 L 263 26 L 285 26 L 306 26 L 328 26 L 350 26 L 371 120 L 393 120 L 415 120 L 436 120 L 458 120 L 480 120 L 501 120 L 523 120 L 545 120 L 566 120 L 588 120" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="90" r="4" fill="#fdba74"><title>08-01 30,800원</title></circle>
-    <circle cx="158" cy="90" r="4" fill="#fdba74"><title>08-05 30,800원</title></circle>
-    <circle cx="181" cy="26" r="4" fill="#fdba74"><title>08-19 35,500원</title></circle>
-    <circle cx="362" cy="26" r="4" fill="#fdba74"><title>08-27 35,500원</title></circle>
-    <circle cx="385" cy="120" r="4" fill="#fdba74"><title>08-28 28,800원</title></circle>
-    <circle cx="588" cy="120" r="5" fill="#ea580c"><title>09-06 28,800원</title></circle>
+    <circle cx="155" cy="90" r="4" fill="#fdba74"><title>08-05 30,800원</title></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"><title>08-19 35,500원</title></circle>
+    <circle cx="350" cy="26" r="4" fill="#fdba74"><title>08-27 35,500원</title></circle>
+    <circle cx="371" cy="120" r="4" fill="#fdba74"><title>08-28 28,800원</title></circle>
+    <circle cx="588" cy="120" r="5" fill="#ea580c"><title>09-07 28,800원</title></circle>
 
     <text x="588" y="108" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="136" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="181" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="249" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="294" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="362" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="407" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="475" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="520" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -180,7 +180,7 @@ A. 네, 메이크업 위에 덧뿌려도 뭉치거나 밀리는 현상이 적다
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,800원 · 별점 4.4 · 리뷰 707개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 28,800원 · 별점 4.4 · 리뷰 711개</span>
     <a href="https://link.coupang.com/a/fRxlPg8LSK" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
