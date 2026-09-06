@@ -21,12 +21,12 @@ description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 �
     "price": "12910",
     "url": "https://link.coupang.com/a/fYjqEPk6vc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-13"
+    "priceValidUntil": "2026-09-14"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 153,
+    "reviewCount": 154,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,910원 · 별점 4.5 · 리뷰 153개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,910원 · 별점 4.5 · 리뷰 154개</span>
     <a href="https://link.coupang.com/a/fYjqEPk6vc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,31 +61,31 @@ description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 123 L 95 40 L 123 40 L 150 40 L 177 40 L 205 40 L 232 40 L 260 45 L 287 45 L 314 40 L 342 40 L 369 40 L 396 40 L 424 47 L 451 64 L 479 80 L 506 80 L 533 80 L 561 80 L 588 80 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 123 L 95 40 L 123 40 L 150 40 L 177 40 L 205 40 L 232 40 L 260 45 L 287 45 L 314 40 L 342 40 L 369 40 L 396 40 L 424 47 L 451 64 L 479 80 L 506 80 L 533 80 L 561 80 L 588 80" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 123 L 94 40 L 120 40 L 146 40 L 172 40 L 198 40 L 224 40 L 250 45 L 276 45 L 302 40 L 328 40 L 354 40 L 380 40 L 406 47 L 432 64 L 458 80 L 484 80 L 510 80 L 536 80 L 562 80 L 588 80 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 123 L 94 40 L 120 40 L 146 40 L 172 40 L 198 40 L 224 40 L 250 45 L 276 45 L 302 40 L 328 40 L 354 40 L 380 40 L 406 47 L 432 64 L 458 80 L 484 80 L 510 80 L 536 80 L 562 80 L 588 80" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="123" r="4" fill="#fdba74"><title>08-05 7,270원</title></circle>
-    <circle cx="95" cy="40" r="4" fill="#fdba74"><title>08-19 18,160원</title></circle>
-    <circle cx="232" cy="40" r="4" fill="#fdba74"><title>08-24 18,160원</title></circle>
-    <circle cx="260" cy="45" r="4" fill="#fdba74"><title>08-25 17,520원</title></circle>
-    <circle cx="287" cy="45" r="4" fill="#fdba74"><title>08-26 17,520원</title></circle>
-    <circle cx="314" cy="40" r="4" fill="#fdba74"><title>08-27 18,160원</title></circle>
-    <circle cx="396" cy="40" r="4" fill="#fdba74"><title>08-30 18,160원</title></circle>
-    <circle cx="424" cy="47" r="4" fill="#fdba74"><title>08-31 17,200원</title></circle>
-    <circle cx="451" cy="64" r="4" fill="#fdba74"><title>09-01 14,960원</title></circle>
-    <circle cx="479" cy="80" r="4" fill="#fdba74"><title>09-02 12,910원</title></circle>
-    <circle cx="588" cy="80" r="5" fill="#ea580c"><title>09-06 12,910원</title></circle>
+    <circle cx="94" cy="40" r="4" fill="#fdba74"><title>08-19 18,160원</title></circle>
+    <circle cx="224" cy="40" r="4" fill="#fdba74"><title>08-24 18,160원</title></circle>
+    <circle cx="250" cy="45" r="4" fill="#fdba74"><title>08-25 17,520원</title></circle>
+    <circle cx="276" cy="45" r="4" fill="#fdba74"><title>08-26 17,520원</title></circle>
+    <circle cx="302" cy="40" r="4" fill="#fdba74"><title>08-27 18,160원</title></circle>
+    <circle cx="380" cy="40" r="4" fill="#fdba74"><title>08-30 18,160원</title></circle>
+    <circle cx="406" cy="47" r="4" fill="#fdba74"><title>08-31 17,200원</title></circle>
+    <circle cx="432" cy="64" r="4" fill="#fdba74"><title>09-01 14,960원</title></circle>
+    <circle cx="458" cy="80" r="4" fill="#fdba74"><title>09-02 12,910원</title></circle>
+    <circle cx="588" cy="80" r="5" fill="#ea580c"><title>09-07 12,910원</title></circle>
 
     <text x="588" y="68" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,910원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -183,7 +183,7 @@ A. 이 제품의 말차 맛은 일반적인 말차 과자들보다는 진하게 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,910원 · 별점 4.5 · 리뷰 153개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,910원 · 별점 4.5 · 리뷰 154개</span>
     <a href="https://link.coupang.com/a/fYjqEPk6vc" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
