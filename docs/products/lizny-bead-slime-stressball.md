@@ -20,7 +20,7 @@ description: 리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에�
     "price": "5390",
     "url": "https://link.coupang.com/a/dLG0ERvbFY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-14"
+    "priceValidUntil": "2026-09-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,27 +60,27 @@ description: 리즈니 구슬 비즈 슬랑이는 직장이나 일상생활에�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 61 L 86 61 L 104 61 L 122 61 L 140 61 L 158 64 L 176 64 L 194 64 L 211 64 L 229 162 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 61 L 86 61 L 104 61 L 122 61 L 140 61 L 158 64 L 176 64 L 194 64 L 211 64 L 229 162 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="61" r="4" fill="#fdba74"><title>07-22 7,070원</title></circle>
-    <circle cx="140" cy="61" r="4" fill="#fdba74"><title>07-26 7,070원</title></circle>
-    <circle cx="158" cy="64" r="4" fill="#fdba74"><title>07-30 6,990원</title></circle>
-    <circle cx="211" cy="64" r="4" fill="#fdba74"><title>08-03 6,990원</title></circle>
-    <circle cx="229" cy="162" r="4" fill="#fdba74"><title>08-04 4,420원</title></circle>
-    <circle cx="247" cy="125" r="4" fill="#fdba74"><title>08-19 5,390원</title></circle>
-    <circle cx="588" cy="125" r="5" fill="#ea580c"><title>09-07 5,390원</title></circle>
+    <path d="M 68 61 L 86 61 L 104 61 L 122 61 L 140 64 L 158 64 L 176 64 L 194 64 L 211 162 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 61 L 86 61 L 104 61 L 122 61 L 140 64 L 158 64 L 176 64 L 194 64 L 211 162 L 229 125 L 247 125 L 265 125 L 283 125 L 301 125 L 319 125 L 337 125 L 355 125 L 373 125 L 391 125 L 409 125 L 427 125 L 445 125 L 462 125 L 480 125 L 498 125 L 516 125 L 534 125 L 552 125 L 570 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="61" r="4" fill="#fdba74"><title>07-23 7,070원</title></circle>
+    <circle cx="122" cy="61" r="4" fill="#fdba74"><title>07-26 7,070원</title></circle>
+    <circle cx="140" cy="64" r="4" fill="#fdba74"><title>07-30 6,990원</title></circle>
+    <circle cx="194" cy="64" r="4" fill="#fdba74"><title>08-03 6,990원</title></circle>
+    <circle cx="211" cy="162" r="4" fill="#fdba74"><title>08-04 4,420원</title></circle>
+    <circle cx="229" cy="125" r="4" fill="#fdba74"><title>08-19 5,390원</title></circle>
+    <circle cx="588" cy="125" r="5" fill="#ea580c"><title>09-08 5,390원</title></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,390원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
