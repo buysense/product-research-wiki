@@ -21,12 +21,12 @@ description: 쏘내추럴 올 데이 타이트 메이크업 세팅 픽서는 땀
     "price": "32800",
     "url": "https://link.coupang.com/a/fCIaFUcQEK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-14"
+    "priceValidUntil": "2026-09-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 28070,
+    "reviewCount": 28117,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 쏘내추럴 올 데이 타이트 메이크업 세팅 픽서는 땀
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 32,800원 · 별점 4.7 · 리뷰 28,070개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 32,800원 · 별점 4.7 · 리뷰 28,117개</span>
     <a href="https://link.coupang.com/a/fCIaFUcQEK" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 쏘내추럴 올 데이 타이트 메이크업 세팅 픽서는 땀
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,24 +61,24 @@ description: 쏘내추럴 올 데이 타이트 메이크업 세팅 픽서는 땀
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">32,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">31,500</text>
 
-    <path d="M 68 132 L 87 132 L 105 132 L 124 132 L 142 132 L 161 132 L 179 132 L 198 132 L 217 132 L 235 132 L 254 132 L 272 132 L 291 26 L 309 26 L 328 26 L 347 26 L 365 26 L 384 26 L 402 26 L 421 26 L 439 26 L 458 26 L 477 26 L 495 26 L 514 26 L 532 26 L 551 26 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 132 L 87 132 L 105 132 L 124 132 L 142 132 L 161 132 L 179 132 L 198 132 L 217 132 L 235 132 L 254 132 L 272 132 L 291 26 L 309 26 L 328 26 L 347 26 L 365 26 L 384 26 L 402 26 L 421 26 L 439 26 L 458 26 L 477 26 L 495 26 L 514 26 L 532 26 L 551 26 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 132 L 86 132 L 104 132 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 132 L 265 132 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 86 132 L 104 132 L 122 132 L 140 132 L 158 132 L 176 132 L 194 132 L 211 132 L 229 132 L 247 132 L 265 132 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="132" r="4" fill="#fdba74"><title>07-23 31,800원</title></circle>
-    <circle cx="272" cy="132" r="4" fill="#fdba74"><title>08-21 31,800원</title></circle>
-    <circle cx="291" cy="26" r="4" fill="#fdba74"><title>08-22 32,800원</title></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-07 32,800원</title></circle>
+    <circle cx="265" cy="132" r="4" fill="#fdba74"><title>08-21 31,800원</title></circle>
+    <circle cx="283" cy="26" r="4" fill="#fdba74"><title>08-22 32,800원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-08 32,800원</title></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">32,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -186,7 +186,7 @@ A. 네, 지성 피부 사용자들에게도 높은 만족도를 보입니다. �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 32,800원 · 별점 4.7 · 리뷰 28,070개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 32,800원 · 별점 4.7 · 리뷰 28,117개</span>
     <a href="https://link.coupang.com/a/fCIaFUcQEK" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
