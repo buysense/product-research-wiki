@@ -20,12 +20,12 @@ description: 기픈물 저스트 종이팩 해양심층수는 미세플라스틱
     "price": "24000",
     "url": "https://link.coupang.com/a/fL0FRWA5Js",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-14"
+    "priceValidUntil": "2026-09-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 18853,
+    "reviewCount": 18962,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 기픈물 저스트 종이팩 해양심층수는 미세플라스틱
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,000원 · 별점 4.7 · 리뷰 18,853개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,000원 · 별점 4.7 · 리뷰 18,962개</span>
     <a href="https://link.coupang.com/a/fL0FRWA5Js" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -51,7 +51,7 @@ description: 기픈물 저스트 종이팩 해양심층수는 미세플라스틱
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,29 +60,29 @@ description: 기픈물 저스트 종이팩 해양심층수는 미세플라스틱
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">23,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">22,000</text>
 
-    <path d="M 68 26 L 87 26 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 26 L 222 117 L 241 62 L 261 62 L 280 62 L 299 62 L 318 62 L 338 62 L 357 44 L 376 44 L 395 44 L 415 26 L 434 26 L 453 26 L 472 26 L 492 26 L 511 26 L 530 26 L 549 26 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 87 26 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 26 L 222 117 L 241 62 L 261 62 L 280 62 L 299 62 L 318 62 L 338 62 L 357 44 L 376 44 L 395 44 L 415 26 L 434 26 L 453 26 L 472 26 L 492 26 L 511 26 L 530 26 L 549 26 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 26 L 87 26 L 105 26 L 124 26 L 142 26 L 161 26 L 179 26 L 198 26 L 217 117 L 235 62 L 254 62 L 272 62 L 291 62 L 309 62 L 328 62 L 347 44 L 365 44 L 384 44 L 402 26 L 421 26 L 439 26 L 458 26 L 477 26 L 495 26 L 514 26 L 532 26 L 551 26 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 87 26 L 105 26 L 124 26 L 142 26 L 161 26 L 179 26 L 198 26 L 217 117 L 235 62 L 254 62 L 272 62 L 291 62 L 309 62 L 328 62 L 347 44 L 365 44 L 384 44 L 402 26 L 421 26 L 439 26 L 458 26 L 477 26 L 495 26 L 514 26 L 532 26 L 551 26 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-29 24,000원</title></circle>
-    <circle cx="203" cy="26" r="4" fill="#fdba74"><title>08-05 24,000원</title></circle>
-    <circle cx="222" cy="117" r="4" fill="#fdba74"><title>08-19 22,800원</title></circle>
-    <circle cx="241" cy="62" r="4" fill="#fdba74"><title>08-20 23,520원</title></circle>
-    <circle cx="338" cy="62" r="4" fill="#fdba74"><title>08-25 23,520원</title></circle>
-    <circle cx="357" cy="44" r="4" fill="#fdba74"><title>08-26 23,760원</title></circle>
-    <circle cx="395" cy="44" r="4" fill="#fdba74"><title>08-28 23,760원</title></circle>
-    <circle cx="415" cy="26" r="4" fill="#fdba74"><title>08-29 24,000원</title></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-07 24,000원</title></circle>
+    <circle cx="198" cy="26" r="4" fill="#fdba74"><title>08-05 24,000원</title></circle>
+    <circle cx="217" cy="117" r="4" fill="#fdba74"><title>08-19 22,800원</title></circle>
+    <circle cx="235" cy="62" r="4" fill="#fdba74"><title>08-20 23,520원</title></circle>
+    <circle cx="328" cy="62" r="4" fill="#fdba74"><title>08-25 23,520원</title></circle>
+    <circle cx="347" cy="44" r="4" fill="#fdba74"><title>08-26 23,760원</title></circle>
+    <circle cx="384" cy="44" r="4" fill="#fdba74"><title>08-28 23,760원</title></circle>
+    <circle cx="402" cy="26" r="4" fill="#fdba74"><title>08-29 24,000원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-08 24,000원</title></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -182,7 +182,7 @@ A. 임신 준비 중이거나 면역력이 약해 깨끗한 물이 필요한 경
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 24,000원 · 별점 4.7 · 리뷰 18,853개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 24,000원 · 별점 4.7 · 리뷰 18,962개</span>
     <a href="https://link.coupang.com/a/fL0FRWA5Js" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
