@@ -20,7 +20,7 @@ description: 다빈치 코드 보드게임은 논리적 추론과 심리전을 �
     "price": "18090",
     "url": "https://link.coupang.com/a/ezUVZB",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-14"
+    "priceValidUntil": "2026-09-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,28 +60,28 @@ description: 다빈치 코드 보드게임은 논리적 추론과 심리전을 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">18,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 144 L 86 144 L 104 144 L 122 144 L 140 144 L 158 144 L 176 144 L 194 144 L 211 176 L 229 176 L 247 94 L 265 94 L 283 94 L 301 94 L 319 94 L 337 94 L 355 94 L 373 94 L 391 94 L 409 94 L 427 94 L 445 94 L 462 94 L 480 94 L 498 94 L 516 94 L 534 94 L 552 99 L 570 99 L 588 99 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 144 L 86 144 L 104 144 L 122 144 L 140 144 L 158 144 L 176 144 L 194 144 L 211 176 L 229 176 L 247 94 L 265 94 L 283 94 L 301 94 L 319 94 L 337 94 L 355 94 L 373 94 L 391 94 L 409 94 L 427 94 L 445 94 L 462 94 L 480 94 L 498 94 L 516 94 L 534 94 L 552 99 L 570 99 L 588 99" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="144" r="4" fill="#fdba74"><title>07-25 16,900원</title></circle>
-    <circle cx="194" cy="144" r="4" fill="#fdba74"><title>08-03 16,900원</title></circle>
-    <circle cx="211" cy="176" r="4" fill="#fdba74"><title>08-04 16,050원</title></circle>
-    <circle cx="229" cy="176" r="4" fill="#fdba74"><title>08-05 16,050원</title></circle>
-    <circle cx="247" cy="94" r="4" fill="#fdba74"><title>08-19 18,200원</title></circle>
-    <circle cx="534" cy="94" r="4" fill="#fdba74"><title>09-04 18,200원</title></circle>
-    <circle cx="552" cy="99" r="4" fill="#fdba74"><title>09-05 18,090원</title></circle>
-    <circle cx="588" cy="99" r="5" fill="#ea580c"><title>09-07 18,090원</title></circle>
+    <path d="M 68 144 L 86 144 L 104 144 L 122 144 L 140 144 L 158 144 L 176 144 L 194 176 L 211 176 L 229 94 L 247 94 L 265 94 L 283 94 L 301 94 L 319 94 L 337 94 L 355 94 L 373 94 L 391 94 L 409 94 L 427 94 L 445 94 L 462 94 L 480 94 L 498 94 L 516 94 L 534 99 L 552 99 L 570 99 L 588 99 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 144 L 86 144 L 104 144 L 122 144 L 140 144 L 158 144 L 176 144 L 194 176 L 211 176 L 229 94 L 247 94 L 265 94 L 283 94 L 301 94 L 319 94 L 337 94 L 355 94 L 373 94 L 391 94 L 409 94 L 427 94 L 445 94 L 462 94 L 480 94 L 498 94 L 516 94 L 534 99 L 552 99 L 570 99 L 588 99" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="144" r="4" fill="#fdba74"><title>07-26 16,900원</title></circle>
+    <circle cx="176" cy="144" r="4" fill="#fdba74"><title>08-03 16,900원</title></circle>
+    <circle cx="194" cy="176" r="4" fill="#fdba74"><title>08-04 16,050원</title></circle>
+    <circle cx="211" cy="176" r="4" fill="#fdba74"><title>08-05 16,050원</title></circle>
+    <circle cx="229" cy="94" r="4" fill="#fdba74"><title>08-19 18,200원</title></circle>
+    <circle cx="516" cy="94" r="4" fill="#fdba74"><title>09-04 18,200원</title></circle>
+    <circle cx="534" cy="99" r="4" fill="#fdba74"><title>09-05 18,090원</title></circle>
+    <circle cx="588" cy="99" r="5" fill="#ea580c"><title>09-08 18,090원</title></circle>
 
     <text x="588" y="87" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">18,090원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
