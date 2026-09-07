@@ -17,10 +17,10 @@ description: 아타라 금핀 두피마사지 브러쉬는 두피 열감 완화�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "62370",
+    "price": "60540",
     "url": "https://link.coupang.com/a/ecLqhIbuG4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-14"
+    "priceValidUntil": "2026-09-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -42,7 +42,7 @@ description: 아타라 금핀 두피마사지 브러쉬는 두피 열감 완화�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 62,370원 · 별점 4.8 · 리뷰 255개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 60,540원 · 별점 4.8 · 리뷰 255개</span>
     <a href="https://link.coupang.com/a/ecLqhIbuG4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -51,28 +51,30 @@ description: 아타라 금핀 두피마사지 브러쉬는 두피 열감 완화�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">63,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">62,500</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">62,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">64,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">62,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
 
-    <path d="M 68 41 L 172 122 L 276 122 L 380 122 L 484 122 L 588 122 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 41 L 172 122 L 276 122 L 380 122 L 484 122 L 588 122" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="41" r="4" fill="#fdba74"><title>09-02 62,900원</title></circle>
-    <circle cx="172" cy="122" r="4" fill="#fdba74"><title>09-03 62,370원</title></circle>
-    <circle cx="588" cy="122" r="5" fill="#ea580c"><title>09-07 62,370원</title></circle>
+    <path d="M 68 68 L 155 88 L 241 88 L 328 88 L 415 88 L 501 88 L 588 157 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 68 L 155 88 L 241 88 L 328 88 L 415 88 L 501 88 L 588 157" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="68" r="4" fill="#fdba74"><title>09-02 62,900원</title></circle>
+    <circle cx="155" cy="88" r="4" fill="#fdba74"><title>09-03 62,370원</title></circle>
+    <circle cx="501" cy="88" r="4" fill="#fdba74"><title>09-07 62,370원</title></circle>
+    <circle cx="588" cy="157" r="5" fill="#ea580c"><title>09-08 60,540원</title></circle>
 
-    <text x="588" y="110" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">62,370원</text>
+    <text x="588" y="145" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">60,540원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -284,7 +286,7 @@ A. 물 세척은 권장되지 않습니다. 사용 후 브러쉬에 낀 머리�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 62,370원 · 별점 4.8 · 리뷰 255개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 60,540원 · 별점 4.8 · 리뷰 255개</span>
     <a href="https://link.coupang.com/a/ecLqhIbuG4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
