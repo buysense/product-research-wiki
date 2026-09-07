@@ -21,7 +21,7 @@ description: 불독소스 돈까스소스는 가정에서 돈까스, 튀김류 �
     "price": "6260",
     "url": "https://link.coupang.com/a/gQ0TiLNuEu",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-14"
+    "priceValidUntil": "2026-09-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
