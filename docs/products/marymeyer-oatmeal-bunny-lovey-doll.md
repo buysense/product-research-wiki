@@ -20,7 +20,7 @@ description: 메리메이어 오트밀 버니 애착인형은 부드러운 촉�
     "price": "26900",
     "url": "https://link.coupang.com/a/epSnCgAuwm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-14"
+    "priceValidUntil": "2026-09-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,30 +60,30 @@ description: 메리메이어 오트밀 버니 애착인형은 부드러운 촉�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 122 L 176 122 L 194 122 L 211 26 L 229 26 L 247 30 L 265 30 L 283 30 L 301 30 L 319 30 L 337 30 L 355 30 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 68 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 122 L 176 122 L 194 122 L 211 26 L 229 26 L 247 30 L 265 30 L 283 30 L 301 30 L 319 30 L 337 30 L 355 30 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 68" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-22 28,300원</title></circle>
-    <circle cx="140" cy="26" r="4" fill="#fdba74"><title>07-26 28,300원</title></circle>
-    <circle cx="158" cy="122" r="4" fill="#fdba74"><title>07-30 25,470원</title></circle>
-    <circle cx="194" cy="122" r="4" fill="#fdba74"><title>08-02 25,470원</title></circle>
-    <circle cx="211" cy="26" r="4" fill="#fdba74"><title>08-03 28,300원</title></circle>
-    <circle cx="229" cy="26" r="4" fill="#fdba74"><title>08-04 28,300원</title></circle>
-    <circle cx="247" cy="30" r="4" fill="#fdba74"><title>08-19 27,900원</title></circle>
-    <circle cx="355" cy="30" r="4" fill="#fdba74"><title>08-25 27,900원</title></circle>
-    <circle cx="373" cy="68" r="4" fill="#fdba74"><title>08-26 26,900원</title></circle>
-    <circle cx="588" cy="68" r="5" fill="#ea580c"><title>09-07 26,900원</title></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 122 L 158 122 L 176 122 L 194 26 L 211 26 L 229 30 L 247 30 L 265 30 L 283 30 L 301 30 L 319 30 L 337 30 L 355 68 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 68 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 122 L 158 122 L 176 122 L 194 26 L 211 26 L 229 30 L 247 30 L 265 30 L 283 30 L 301 30 L 319 30 L 337 30 L 355 68 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 68" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-23 28,300원</title></circle>
+    <circle cx="122" cy="26" r="4" fill="#fdba74"><title>07-26 28,300원</title></circle>
+    <circle cx="140" cy="122" r="4" fill="#fdba74"><title>07-30 25,470원</title></circle>
+    <circle cx="176" cy="122" r="4" fill="#fdba74"><title>08-02 25,470원</title></circle>
+    <circle cx="194" cy="26" r="4" fill="#fdba74"><title>08-03 28,300원</title></circle>
+    <circle cx="211" cy="26" r="4" fill="#fdba74"><title>08-04 28,300원</title></circle>
+    <circle cx="229" cy="30" r="4" fill="#fdba74"><title>08-19 27,900원</title></circle>
+    <circle cx="337" cy="30" r="4" fill="#fdba74"><title>08-25 27,900원</title></circle>
+    <circle cx="355" cy="68" r="4" fill="#fdba74"><title>08-26 26,900원</title></circle>
+    <circle cx="588" cy="68" r="5" fill="#ea580c"><title>09-08 26,900원</title></circle>
 
     <text x="588" y="56" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">26,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
