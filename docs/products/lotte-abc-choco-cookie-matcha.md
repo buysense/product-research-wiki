@@ -21,7 +21,7 @@ description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 �
     "price": "12910",
     "url": "https://link.coupang.com/a/fYjqEPk6vc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-14"
+    "priceValidUntil": "2026-09-15"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,7 +52,7 @@ description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,31 +61,31 @@ description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">0</text>
 
-    <path d="M 68 123 L 94 40 L 120 40 L 146 40 L 172 40 L 198 40 L 224 40 L 250 45 L 276 45 L 302 40 L 328 40 L 354 40 L 380 40 L 406 47 L 432 64 L 458 80 L 484 80 L 510 80 L 536 80 L 562 80 L 588 80 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 123 L 94 40 L 120 40 L 146 40 L 172 40 L 198 40 L 224 40 L 250 45 L 276 45 L 302 40 L 328 40 L 354 40 L 380 40 L 406 47 L 432 64 L 458 80 L 484 80 L 510 80 L 536 80 L 562 80 L 588 80" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 123 L 93 40 L 118 40 L 142 40 L 167 40 L 192 40 L 217 40 L 241 45 L 266 45 L 291 40 L 316 40 L 340 40 L 365 40 L 390 47 L 415 64 L 439 80 L 464 80 L 489 80 L 514 80 L 538 80 L 563 80 L 588 80 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 123 L 93 40 L 118 40 L 142 40 L 167 40 L 192 40 L 217 40 L 241 45 L 266 45 L 291 40 L 316 40 L 340 40 L 365 40 L 390 47 L 415 64 L 439 80 L 464 80 L 489 80 L 514 80 L 538 80 L 563 80 L 588 80" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="123" r="4" fill="#fdba74"><title>08-05 7,270원</title></circle>
-    <circle cx="94" cy="40" r="4" fill="#fdba74"><title>08-19 18,160원</title></circle>
-    <circle cx="224" cy="40" r="4" fill="#fdba74"><title>08-24 18,160원</title></circle>
-    <circle cx="250" cy="45" r="4" fill="#fdba74"><title>08-25 17,520원</title></circle>
-    <circle cx="276" cy="45" r="4" fill="#fdba74"><title>08-26 17,520원</title></circle>
-    <circle cx="302" cy="40" r="4" fill="#fdba74"><title>08-27 18,160원</title></circle>
-    <circle cx="380" cy="40" r="4" fill="#fdba74"><title>08-30 18,160원</title></circle>
-    <circle cx="406" cy="47" r="4" fill="#fdba74"><title>08-31 17,200원</title></circle>
-    <circle cx="432" cy="64" r="4" fill="#fdba74"><title>09-01 14,960원</title></circle>
-    <circle cx="458" cy="80" r="4" fill="#fdba74"><title>09-02 12,910원</title></circle>
-    <circle cx="588" cy="80" r="5" fill="#ea580c"><title>09-07 12,910원</title></circle>
+    <circle cx="93" cy="40" r="4" fill="#fdba74"><title>08-19 18,160원</title></circle>
+    <circle cx="217" cy="40" r="4" fill="#fdba74"><title>08-24 18,160원</title></circle>
+    <circle cx="241" cy="45" r="4" fill="#fdba74"><title>08-25 17,520원</title></circle>
+    <circle cx="266" cy="45" r="4" fill="#fdba74"><title>08-26 17,520원</title></circle>
+    <circle cx="291" cy="40" r="4" fill="#fdba74"><title>08-27 18,160원</title></circle>
+    <circle cx="365" cy="40" r="4" fill="#fdba74"><title>08-30 18,160원</title></circle>
+    <circle cx="390" cy="47" r="4" fill="#fdba74"><title>08-31 17,200원</title></circle>
+    <circle cx="415" cy="64" r="4" fill="#fdba74"><title>09-01 14,960원</title></circle>
+    <circle cx="439" cy="80" r="4" fill="#fdba74"><title>09-02 12,910원</title></circle>
+    <circle cx="588" cy="80" r="5" fill="#ea580c"><title>09-08 12,910원</title></circle>
 
     <text x="588" y="68" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">12,910원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
