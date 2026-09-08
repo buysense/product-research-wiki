@@ -19,7 +19,7 @@ description: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK는 도시적인 스트�
     "price": "121700",
     "url": "https://link.coupang.com/a/f1BdCzxAei",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   }
 }
 </script>
@@ -43,7 +43,7 @@ description: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK는 도시적인 스트�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 23개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,31 +52,31 @@ description: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK는 도시적인 스트�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 83 L 93 105 L 118 105 L 142 105 L 167 81 L 192 81 L 217 81 L 241 81 L 266 81 L 291 81 L 316 149 L 340 149 L 365 147 L 390 147 L 415 147 L 439 147 L 464 147 L 489 145 L 514 145 L 538 145 L 563 145 L 588 145 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 83 L 93 105 L 118 105 L 142 105 L 167 81 L 192 81 L 217 81 L 241 81 L 266 81 L 291 81 L 316 149 L 340 149 L 365 147 L 390 147 L 415 147 L 439 147 L 464 147 L 489 145 L 514 145 L 538 145 L 563 145 L 588 145" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 83 L 92 105 L 115 105 L 139 105 L 163 81 L 186 81 L 210 81 L 233 81 L 257 81 L 281 81 L 304 149 L 328 149 L 352 147 L 375 147 L 399 147 L 423 147 L 446 147 L 470 145 L 493 145 L 517 145 L 541 145 L 564 145 L 588 145 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 83 L 92 105 L 115 105 L 139 105 L 163 81 L 186 81 L 210 81 L 233 81 L 257 81 L 281 81 L 304 149 L 328 149 L 352 147 L 375 147 L 399 147 L 423 147 L 446 147 L 470 145 L 493 145 L 517 145 L 541 145 L 564 145 L 588 145" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="83" r="4" fill="#fdba74"><title>08-07 162,700원</title></circle>
-    <circle cx="93" cy="105" r="4" fill="#fdba74"><title>08-19 147,700원</title></circle>
-    <circle cx="142" cy="105" r="4" fill="#fdba74"><title>08-21 147,700원</title></circle>
-    <circle cx="167" cy="81" r="4" fill="#fdba74"><title>08-22 164,100원</title></circle>
-    <circle cx="291" cy="81" r="4" fill="#fdba74"><title>08-27 164,100원</title></circle>
-    <circle cx="316" cy="149" r="4" fill="#fdba74"><title>08-28 119,100원</title></circle>
-    <circle cx="340" cy="149" r="4" fill="#fdba74"><title>08-29 119,100원</title></circle>
-    <circle cx="365" cy="147" r="4" fill="#fdba74"><title>08-30 120,100원</title></circle>
-    <circle cx="464" cy="147" r="4" fill="#fdba74"><title>09-03 120,100원</title></circle>
-    <circle cx="489" cy="145" r="4" fill="#fdba74"><title>09-04 121,700원</title></circle>
-    <circle cx="588" cy="145" r="5" fill="#ea580c"><title>09-08 121,700원</title></circle>
+    <circle cx="92" cy="105" r="4" fill="#fdba74"><title>08-19 147,700원</title></circle>
+    <circle cx="139" cy="105" r="4" fill="#fdba74"><title>08-21 147,700원</title></circle>
+    <circle cx="163" cy="81" r="4" fill="#fdba74"><title>08-22 164,100원</title></circle>
+    <circle cx="281" cy="81" r="4" fill="#fdba74"><title>08-27 164,100원</title></circle>
+    <circle cx="304" cy="149" r="4" fill="#fdba74"><title>08-28 119,100원</title></circle>
+    <circle cx="328" cy="149" r="4" fill="#fdba74"><title>08-29 119,100원</title></circle>
+    <circle cx="352" cy="147" r="4" fill="#fdba74"><title>08-30 120,100원</title></circle>
+    <circle cx="446" cy="147" r="4" fill="#fdba74"><title>09-03 120,100원</title></circle>
+    <circle cx="470" cy="145" r="4" fill="#fdba74"><title>09-04 121,700원</title></circle>
+    <circle cx="588" cy="145" r="5" fill="#ea580c"><title>09-09 121,700원</title></circle>
 
     <text x="588" y="133" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">121,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-07</text>
-    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="186" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="233" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="423" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="470" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
