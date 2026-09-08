@@ -10,7 +10,6 @@ description: 시디즈 T60 AIR 컴퓨터 사무용 책상 의자는 장시간 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "시디즈 T60 AIR 컴퓨터 사무용 책상 의자",
-  "description": "시디즈 T60 AIR 컴퓨터 사무용 책상 의자는 장시간 착석 환경에서 쾌적함과 편안함을 제공하며, 재택근무, 학습, 사무용으로 적합한 의자입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4697/bcdb879855b0a7a475e00c4bb453757b19218bf4463678b1889aa2a3ad29.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cfd7/0b66573e791974ad9b038ddead54011d6a27e767da1042ec8ff0ff0c87b8.jpg"
@@ -21,7 +20,7 @@ description: 시디즈 T60 AIR 컴퓨터 사무용 책상 의자는 장시간 �
     "price": "504000",
     "url": "https://link.coupang.com/a/dXaLSghjuC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,24 +60,24 @@ description: 시디즈 T60 AIR 컴퓨터 사무용 책상 의자는 장시간 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">500,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">450,000</text>
 
-    <path d="M 68 164 L 86 164 L 104 164 L 122 164 L 140 164 L 158 164 L 176 164 L 194 164 L 211 164 L 229 164 L 247 164 L 265 164 L 283 164 L 301 164 L 319 164 L 337 164 L 355 164 L 373 164 L 391 164 L 409 164 L 427 164 L 445 164 L 462 96 L 480 96 L 498 96 L 516 96 L 534 96 L 552 96 L 570 96 L 588 96 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 164 L 86 164 L 104 164 L 122 164 L 140 164 L 158 164 L 176 164 L 194 164 L 211 164 L 229 164 L 247 164 L 265 164 L 283 164 L 301 164 L 319 164 L 337 164 L 355 164 L 373 164 L 391 164 L 409 164 L 427 164 L 445 164 L 462 96 L 480 96 L 498 96 L 516 96 L 534 96 L 552 96 L 570 96 L 588 96" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="164" r="4" fill="#fdba74"><title>07-23 459,000원</title></circle>
-    <circle cx="445" cy="164" r="4" fill="#fdba74"><title>08-31 459,000원</title></circle>
-    <circle cx="462" cy="96" r="4" fill="#fdba74"><title>09-01 504,000원</title></circle>
-    <circle cx="588" cy="96" r="5" fill="#ea580c"><title>09-08 504,000원</title></circle>
+    <path d="M 68 164 L 86 164 L 104 164 L 122 164 L 140 164 L 158 164 L 176 164 L 194 164 L 211 164 L 229 164 L 247 164 L 265 164 L 283 164 L 301 164 L 319 164 L 337 164 L 355 164 L 373 164 L 391 164 L 409 164 L 427 164 L 445 96 L 462 96 L 480 96 L 498 96 L 516 96 L 534 96 L 552 96 L 570 96 L 588 96 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 164 L 86 164 L 104 164 L 122 164 L 140 164 L 158 164 L 176 164 L 194 164 L 211 164 L 229 164 L 247 164 L 265 164 L 283 164 L 301 164 L 319 164 L 337 164 L 355 164 L 373 164 L 391 164 L 409 164 L 427 164 L 445 96 L 462 96 L 480 96 L 498 96 L 516 96 L 534 96 L 552 96 L 570 96 L 588 96" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="164" r="4" fill="#fdba74"><title>07-24 459,000원</title></circle>
+    <circle cx="427" cy="164" r="4" fill="#fdba74"><title>08-31 459,000원</title></circle>
+    <circle cx="445" cy="96" r="4" fill="#fdba74"><title>09-01 504,000원</title></circle>
+    <circle cx="588" cy="96" r="5" fill="#ea580c"><title>09-09 504,000원</title></circle>
 
     <text x="588" y="84" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">504,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
