@@ -10,7 +10,6 @@ description: 세븐일레븐 유자 레몬 사이다 500ml는 유자와 레몬�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "세븐일레븐 유자 레몬 사이다 500ml",
-  "description": "세븐일레븐 유자 레몬 사이다 500ml는 유자와 레몬의 상큼함이 조화로운 탄산음료로, 갈증 해소나 가벼운 간식과 함께 즐기기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f06a/e3a89caaf27e2b27efa9af39e1dc08e7f215fa2b6f0986a5e8f480fb3105.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5b19/8238a3e0627a2030144a06f42fd257f840f6c2e08f341b68c70d4de26c93.jpg"
@@ -21,7 +20,7 @@ description: 세븐일레븐 유자 레몬 사이다 500ml는 유자와 레몬�
     "price": "25960",
     "url": "https://link.coupang.com/a/fOjg79s3vU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   }
 }
 </script>
@@ -45,7 +44,7 @@ description: 세븐일레븐 유자 레몬 사이다 500ml는 유자와 레몬�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -54,22 +53,22 @@ description: 세븐일레븐 유자 레몬 사이다 500ml는 유자와 레몬�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">25,900</text>
 
-    <path d="M 68 132 L 89 132 L 110 132 L 130 132 L 151 132 L 172 132 L 193 132 L 214 132 L 234 132 L 255 132 L 276 132 L 297 132 L 318 132 L 338 132 L 359 132 L 380 132 L 401 132 L 422 132 L 442 132 L 463 132 L 484 132 L 505 132 L 526 132 L 546 132 L 567 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 132 L 89 132 L 110 132 L 130 132 L 151 132 L 172 132 L 193 132 L 214 132 L 234 132 L 255 132 L 276 132 L 297 132 L 318 132 L 338 132 L 359 132 L 380 132 L 401 132 L 422 132 L 442 132 L 463 132 L 484 132 L 505 132 L 526 132 L 546 132 L 567 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 132 L 88 132 L 108 132 L 128 132 L 148 132 L 168 132 L 188 132 L 208 132 L 228 132 L 248 132 L 268 132 L 288 132 L 308 132 L 328 132 L 348 132 L 368 132 L 388 132 L 408 132 L 428 132 L 448 132 L 468 132 L 488 132 L 508 132 L 528 132 L 548 132 L 568 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 88 132 L 108 132 L 128 132 L 148 132 L 168 132 L 188 132 L 208 132 L 228 132 L 248 132 L 268 132 L 288 132 L 308 132 L 328 132 L 348 132 L 368 132 L 388 132 L 408 132 L 428 132 L 448 132 L 468 132 L 488 132 L 508 132 L 528 132 L 548 132 L 568 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="132" r="4" fill="#fdba74"><title>07-30 25,960원</title></circle>
-    <circle cx="588" cy="132" r="5" fill="#ea580c"><title>09-08 25,960원</title></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"><title>09-09 25,960원</title></circle>
 
     <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">25,960원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
