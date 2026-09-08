@@ -10,7 +10,6 @@ description: 모네 프리미엄 트라이크 유모차는 활동적인 유아�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "모네 프리미엄 트라이크 유모차",
-  "description": "모네 프리미엄 트라이크 유모차는 활동적인 유아와의 외출, 공원 산책, 근거리 이동 시 부모의 편의성과 아이의 즐거움을 동시에 제공하는 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/05/13/16/1/afc2593a-3e68-46f6-b81c-e9267e14b4a8.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/vubjgjqg/1a52c7a6a66d47daa2480c54ae4ab089.jpg"
@@ -21,7 +20,7 @@ description: 모네 프리미엄 트라이크 유모차는 활동적인 유아�
     "price": "249330",
     "url": "https://link.coupang.com/a/dTXXZfdEXs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,29 +60,29 @@ description: 모네 프리미엄 트라이크 유모차는 활동적인 유아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">250,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 33 L 194 33 L 211 33 L 229 79 L 247 79 L 265 79 L 283 79 L 301 79 L 319 79 L 337 79 L 355 79 L 373 79 L 391 79 L 409 79 L 427 79 L 445 79 L 462 79 L 480 79 L 498 97 L 516 103 L 534 103 L 552 103 L 570 103 L 588 103 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 33 L 194 33 L 211 33 L 229 79 L 247 79 L 265 79 L 283 79 L 301 79 L 319 79 L 337 79 L 355 79 L 373 79 L 391 79 L 409 79 L 427 79 L 445 79 L 462 79 L 480 79 L 498 97 L 516 103 L 534 103 L 552 103 L 570 103 L 588 103" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-23 304,920원</title></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"><title>07-31 304,920원</title></circle>
-    <circle cx="176" cy="33" r="4" fill="#fdba74"><title>08-02 295,680원</title></circle>
-    <circle cx="211" cy="33" r="4" fill="#fdba74"><title>08-04 295,680원</title></circle>
-    <circle cx="229" cy="79" r="4" fill="#fdba74"><title>08-19 264,820원</title></circle>
-    <circle cx="480" cy="79" r="4" fill="#fdba74"><title>09-02 264,820원</title></circle>
-    <circle cx="498" cy="97" r="4" fill="#fdba74"><title>09-03 253,300원</title></circle>
-    <circle cx="516" cy="103" r="4" fill="#fdba74"><title>09-04 249,330원</title></circle>
-    <circle cx="588" cy="103" r="5" fill="#ea580c"><title>09-08 249,330원</title></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 33 L 176 33 L 194 33 L 211 79 L 229 79 L 247 79 L 265 79 L 283 79 L 301 79 L 319 79 L 337 79 L 355 79 L 373 79 L 391 79 L 409 79 L 427 79 L 445 79 L 462 79 L 480 97 L 498 103 L 516 103 L 534 103 L 552 103 L 570 103 L 588 103 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 33 L 176 33 L 194 33 L 211 79 L 229 79 L 247 79 L 265 79 L 283 79 L 301 79 L 319 79 L 337 79 L 355 79 L 373 79 L 391 79 L 409 79 L 427 79 L 445 79 L 462 79 L 480 97 L 498 103 L 516 103 L 534 103 L 552 103 L 570 103 L 588 103" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-24 304,920원</title></circle>
+    <circle cx="140" cy="26" r="4" fill="#fdba74"><title>07-31 304,920원</title></circle>
+    <circle cx="158" cy="33" r="4" fill="#fdba74"><title>08-02 295,680원</title></circle>
+    <circle cx="194" cy="33" r="4" fill="#fdba74"><title>08-04 295,680원</title></circle>
+    <circle cx="211" cy="79" r="4" fill="#fdba74"><title>08-19 264,820원</title></circle>
+    <circle cx="462" cy="79" r="4" fill="#fdba74"><title>09-02 264,820원</title></circle>
+    <circle cx="480" cy="97" r="4" fill="#fdba74"><title>09-03 253,300원</title></circle>
+    <circle cx="498" cy="103" r="4" fill="#fdba74"><title>09-04 249,330원</title></circle>
+    <circle cx="588" cy="103" r="5" fill="#ea580c"><title>09-09 249,330원</title></circle>
 
     <text x="588" y="91" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">249,330원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
