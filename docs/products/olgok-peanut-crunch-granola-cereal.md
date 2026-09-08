@@ -10,7 +10,6 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "olgok-peanut-crunch-granola-cereal",
-  "description": "옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식사 대용이나 건강한 간식을 찾는 소비자에게 고소함과 바삭함을 제공하는 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/53ee/438cac3800cf72dbb2168eef45d3a1657e1fd26fd04acbdded93384e1f6f.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/94cc/49019ac938913273af7b7f10c29c6a316c916d3b9a88739cc815a007ff14.png"
@@ -21,7 +20,7 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
     "price": "28300",
     "url": "https://link.coupang.com/a/exApag53Ce",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,27 +60,26 @@ description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 65 L 86 148 L 104 148 L 122 148 L 140 148 L 158 148 L 176 40 L 194 40 L 211 40 L 229 39 L 247 39 L 265 39 L 283 39 L 301 39 L 319 39 L 337 39 L 355 39 L 373 39 L 391 39 L 409 39 L 427 39 L 445 39 L 462 39 L 480 39 L 498 39 L 516 39 L 534 39 L 552 39 L 570 39 L 588 39 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 65 L 86 148 L 104 148 L 122 148 L 140 148 L 158 148 L 176 40 L 194 40 L 211 40 L 229 39 L 247 39 L 265 39 L 283 39 L 301 39 L 319 39 L 337 39 L 355 39 L 373 39 L 391 39 L 409 39 L 427 39 L 445 39 L 462 39 L 480 39 L 498 39 L 516 39 L 534 39 L 552 39 L 570 39 L 588 39" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="65" r="4" fill="#fdba74"><title>07-23 24,900원</title></circle>
-    <circle cx="86" cy="148" r="4" fill="#fdba74"><title>07-24 13,900원</title></circle>
-    <circle cx="158" cy="148" r="4" fill="#fdba74"><title>07-31 13,900원</title></circle>
-    <circle cx="176" cy="40" r="4" fill="#fdba74"><title>08-02 28,100원</title></circle>
-    <circle cx="211" cy="40" r="4" fill="#fdba74"><title>08-04 28,100원</title></circle>
-    <circle cx="229" cy="39" r="4" fill="#fdba74"><title>08-19 28,300원</title></circle>
-    <circle cx="588" cy="39" r="5" fill="#ea580c"><title>09-08 28,300원</title></circle>
+    <path d="M 68 148 L 86 148 L 104 148 L 122 148 L 140 148 L 158 40 L 176 40 L 194 40 L 211 39 L 229 39 L 247 39 L 265 39 L 283 39 L 301 39 L 319 39 L 337 39 L 355 39 L 373 39 L 391 39 L 409 39 L 427 39 L 445 39 L 462 39 L 480 39 L 498 39 L 516 39 L 534 39 L 552 39 L 570 39 L 588 39 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 148 L 86 148 L 104 148 L 122 148 L 140 148 L 158 40 L 176 40 L 194 40 L 211 39 L 229 39 L 247 39 L 265 39 L 283 39 L 301 39 L 319 39 L 337 39 L 355 39 L 373 39 L 391 39 L 409 39 L 427 39 L 445 39 L 462 39 L 480 39 L 498 39 L 516 39 L 534 39 L 552 39 L 570 39 L 588 39" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="148" r="4" fill="#fdba74"><title>07-24 13,900원</title></circle>
+    <circle cx="140" cy="148" r="4" fill="#fdba74"><title>07-31 13,900원</title></circle>
+    <circle cx="158" cy="40" r="4" fill="#fdba74"><title>08-02 28,100원</title></circle>
+    <circle cx="194" cy="40" r="4" fill="#fdba74"><title>08-04 28,100원</title></circle>
+    <circle cx="211" cy="39" r="4" fill="#fdba74"><title>08-19 28,300원</title></circle>
+    <circle cx="588" cy="39" r="5" fill="#ea580c"><title>09-09 28,300원</title></circle>
 
     <text x="588" y="27" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">28,300원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
