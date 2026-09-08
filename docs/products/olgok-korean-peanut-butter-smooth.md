@@ -10,7 +10,6 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "olgok-korean-peanut-butter-smooth",
-  "description": "옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 국내산 땅콩으로만 만들어져 아기 땅콩 알레르기 테스트, 아이 간식, 건강한 어른 식단 등 온 가족이 안심하고 즐기기 좋은 부드러운 땅콩버터입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6197122227286-9822671f-bfb0-47d2-b137-4bc23e44e139.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/95636074847902-85ed1c97-8ec4-4f9a-b923-30a6d36fb9a0.png"
@@ -21,12 +20,12 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
     "price": "14900",
     "url": "https://link.coupang.com/a/exAdfsMN7k",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 4460,
+    "reviewCount": 4473,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +42,7 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,900원 · 별점 4.7 · 리뷰 4,460개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,900원 · 별점 4.7 · 리뷰 4,473개</span>
     <a href="https://link.coupang.com/a/exAdfsMN7k" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,30 +60,31 @@ description: 옳곡 100% 국내산 땅콩버터 스무스는 첨가물 없이 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 34 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 34 L 534 110 L 552 110 L 570 89 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 26 L 211 34 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 34 L 534 110 L 552 110 L 570 89 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-23 15,400원</title></circle>
-    <circle cx="194" cy="26" r="4" fill="#fdba74"><title>08-03 15,400원</title></circle>
-    <circle cx="211" cy="34" r="4" fill="#fdba74"><title>08-04 14,900원</title></circle>
-    <circle cx="229" cy="26" r="4" fill="#fdba74"><title>08-19 15,400원</title></circle>
-    <circle cx="498" cy="26" r="4" fill="#fdba74"><title>09-03 15,400원</title></circle>
-    <circle cx="516" cy="34" r="4" fill="#fdba74"><title>09-04 14,900원</title></circle>
-    <circle cx="534" cy="110" r="4" fill="#fdba74"><title>09-05 13,900원</title></circle>
-    <circle cx="552" cy="110" r="4" fill="#fdba74"><title>09-06 13,900원</title></circle>
-    <circle cx="570" cy="89" r="4" fill="#fdba74"><title>09-07 14,170원</title></circle>
-    <circle cx="588" cy="34" r="5" fill="#ea580c"><title>09-08 14,900원</title></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 34 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 34 L 516 110 L 534 110 L 552 89 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 34 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 34 L 516 110 L 534 110 L 552 89 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-24 15,400원</title></circle>
+    <circle cx="176" cy="26" r="4" fill="#fdba74"><title>08-03 15,400원</title></circle>
+    <circle cx="194" cy="34" r="4" fill="#fdba74"><title>08-04 14,900원</title></circle>
+    <circle cx="211" cy="26" r="4" fill="#fdba74"><title>08-19 15,400원</title></circle>
+    <circle cx="480" cy="26" r="4" fill="#fdba74"><title>09-03 15,400원</title></circle>
+    <circle cx="498" cy="34" r="4" fill="#fdba74"><title>09-04 14,900원</title></circle>
+    <circle cx="516" cy="110" r="4" fill="#fdba74"><title>09-05 13,900원</title></circle>
+    <circle cx="534" cy="110" r="4" fill="#fdba74"><title>09-06 13,900원</title></circle>
+    <circle cx="552" cy="89" r="4" fill="#fdba74"><title>09-07 14,170원</title></circle>
+    <circle cx="570" cy="34" r="4" fill="#fdba74"><title>09-08 14,900원</title></circle>
+    <circle cx="588" cy="34" r="5" fill="#ea580c"><title>09-09 14,900원</title></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -266,7 +266,7 @@ A. 일반적인 땅콩버터는 설탕이나 소금 등의 첨가물로 맛을 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,900원 · 별점 4.7 · 리뷰 4,460개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,900원 · 별점 4.7 · 리뷰 4,473개</span>
     <a href="https://link.coupang.com/a/exAdfsMN7k" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
