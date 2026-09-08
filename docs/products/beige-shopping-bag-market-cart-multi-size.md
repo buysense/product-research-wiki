@@ -20,7 +20,7 @@ description: 베이지 손잡이 쇼핑백은 마트, 시장, 다용도로 활�
     "price": "10720",
     "url": "https://link.coupang.com/a/glysdJ05bU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,7 +52,7 @@ description: 베이지 손잡이 쇼핑백은 마트, 시장, 다용도로 활�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,22 +61,22 @@ description: 베이지 손잡이 쇼핑백은 마트, 시장, 다용도로 활�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,700</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,600</text>
 
-    <path d="M 68 87 L 94 87 L 120 87 L 146 87 L 172 87 L 198 87 L 224 87 L 250 87 L 276 87 L 302 87 L 328 87 L 354 87 L 380 87 L 406 87 L 432 87 L 458 87 L 484 87 L 510 87 L 536 87 L 562 87 L 588 87 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 87 L 94 87 L 120 87 L 146 87 L 172 87 L 198 87 L 224 87 L 250 87 L 276 87 L 302 87 L 328 87 L 354 87 L 380 87 L 406 87 L 432 87 L 458 87 L 484 87 L 510 87 L 536 87 L 562 87 L 588 87" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 87 L 93 87 L 118 87 L 142 87 L 167 87 L 192 87 L 217 87 L 241 87 L 266 87 L 291 87 L 316 87 L 340 87 L 365 87 L 390 87 L 415 87 L 439 87 L 464 87 L 489 87 L 514 87 L 538 87 L 563 87 L 588 87 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 87 L 93 87 L 118 87 L 142 87 L 167 87 L 192 87 L 217 87 L 241 87 L 266 87 L 291 87 L 316 87 L 340 87 L 365 87 L 390 87 L 415 87 L 439 87 L 464 87 L 489 87 L 514 87 L 538 87 L 563 87 L 588 87" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="87" r="4" fill="#fdba74"><title>08-19 10,720원</title></circle>
-    <circle cx="588" cy="87" r="5" fill="#ea580c"><title>09-08 10,720원</title></circle>
+    <circle cx="588" cy="87" r="5" fill="#ea580c"><title>09-09 10,720원</title></circle>
 
     <text x="588" y="75" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,720원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
