@@ -21,7 +21,7 @@ description: 닛픈 전설의 닭 튀김가루는 집에서 전문점 수준의 
     "price": "17430",
     "url": "https://link.coupang.com/a/gSHuSJnHc4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
