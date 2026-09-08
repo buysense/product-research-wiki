@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 고바야시 브레스케어 | [보기](products/kobayashi-breathcare-oral-refresher.md) |
 | 불독소스 돈까스소스 | [보기](products/bulldog-sauce-tonkatsu-sauce.md) |
 | 청정원순창 초고추장 | [보기](products/chungjungone-sunchang-chogochujang.md) |
 | 데체코 바질 페스토 | [보기](products/de-cecco-basil-pesto.md) |
