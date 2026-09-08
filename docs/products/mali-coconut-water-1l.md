@@ -10,7 +10,6 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "말리 코코넛워터",
-  "description": "태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워터는 설탕 없이 운동 후 수분 보충, 스무디 베이스, 갈증 해소에 적합한 건강 음료입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/8c1c/bd0e219431cd81b73f857d4bacf9c7210c51e131f30457749e271aa6ecaf.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/250571152901527-0ada264a-213c-47ff-b48a-f08895a3847a.png"
@@ -21,12 +20,12 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
     "price": "16980",
     "url": "https://link.coupang.com/a/eDJ5YO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 26411,
+    "reviewCount": 26440,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +42,7 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 26,411개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 26,440개</span>
     <a href="https://link.coupang.com/a/eDJ5YO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,28 +60,28 @@ description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,000</text>
 
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 104 L 355 104 L 373 104 L 391 104 L 409 116 L 427 116 L 445 116 L 462 116 L 480 116 L 498 116 L 516 104 L 534 104 L 552 104 L 570 104 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 104 L 355 104 L 373 104 L 391 104 L 409 116 L 427 116 L 445 116 L 462 116 L 480 116 L 498 116 L 516 104 L 534 104 L 552 104 L 570 104 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="28" r="4" fill="#fdba74"><title>07-23 17,980원</title></circle>
-    <circle cx="319" cy="28" r="4" fill="#fdba74"><title>08-24 17,980원</title></circle>
-    <circle cx="337" cy="104" r="4" fill="#fdba74"><title>08-25 16,980원</title></circle>
-    <circle cx="391" cy="104" r="4" fill="#fdba74"><title>08-28 16,980원</title></circle>
-    <circle cx="409" cy="116" r="4" fill="#fdba74"><title>08-29 16,810원</title></circle>
-    <circle cx="498" cy="116" r="4" fill="#fdba74"><title>09-03 16,810원</title></circle>
-    <circle cx="516" cy="104" r="4" fill="#fdba74"><title>09-04 16,980원</title></circle>
-    <circle cx="588" cy="104" r="5" fill="#ea580c"><title>09-08 16,980원</title></circle>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 104 L 337 104 L 355 104 L 373 104 L 391 116 L 409 116 L 427 116 L 445 116 L 462 116 L 480 116 L 498 104 L 516 104 L 534 104 L 552 104 L 570 104 L 588 104 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 104 L 337 104 L 355 104 L 373 104 L 391 116 L 409 116 L 427 116 L 445 116 L 462 116 L 480 116 L 498 104 L 516 104 L 534 104 L 552 104 L 570 104 L 588 104" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="28" r="4" fill="#fdba74"><title>07-24 17,980원</title></circle>
+    <circle cx="301" cy="28" r="4" fill="#fdba74"><title>08-24 17,980원</title></circle>
+    <circle cx="319" cy="104" r="4" fill="#fdba74"><title>08-25 16,980원</title></circle>
+    <circle cx="373" cy="104" r="4" fill="#fdba74"><title>08-28 16,980원</title></circle>
+    <circle cx="391" cy="116" r="4" fill="#fdba74"><title>08-29 16,810원</title></circle>
+    <circle cx="480" cy="116" r="4" fill="#fdba74"><title>09-03 16,810원</title></circle>
+    <circle cx="498" cy="104" r="4" fill="#fdba74"><title>09-04 16,980원</title></circle>
+    <circle cx="588" cy="104" r="5" fill="#ea580c"><title>09-09 16,980원</title></circle>
 
     <text x="588" y="92" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">16,980원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -338,7 +337,7 @@ A. 전해질은 우리 몸의 체액에 녹아 있는 나트륨, 칼륨, 마그�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 26,411개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 16,980원 · 별점 4.8 · 리뷰 26,440개</span>
     <a href="https://link.coupang.com/a/eDJ5YO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
