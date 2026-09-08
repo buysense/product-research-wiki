@@ -10,7 +10,6 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "samho-eomuk-barun-sagak-fish-cake",
-  "description": "삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다양한 가정 요리에 활용하기 좋은 얇고 쫄깃한 사각 어묵입니다. 양념이 잘 배어들어 맛있는 일상 식탁을 완성합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/436082475443544-839312db-5f37-4bae-8044-8d417dd0c14c.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1584338718492362-07fc4c89-6661-402b-872c-b1995f72a64b.jpg"
@@ -21,12 +20,12 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
     "price": "1330",
     "url": "https://link.coupang.com/a/eAsRTR",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 143133,
+    "reviewCount": 143507,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +42,7 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,330원 · 별점 4.8 · 리뷰 143,133개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 1,330원 · 별점 4.8 · 리뷰 143,507개</span>
     <a href="https://link.coupang.com/a/eAsRTR" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,29 +60,29 @@ description: 삼호어묵 바른사각은 김밥, 떡볶이, 볶음, 탕 등 다
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">1,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">1,000</text>
 
-    <path d="M 68 134 L 86 134 L 104 134 L 122 134 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 26 L 355 134 L 373 134 L 391 134 L 409 134 L 427 134 L 445 134 L 462 134 L 480 128 L 498 128 L 516 128 L 534 128 L 552 128 L 570 128 L 588 128 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 134 L 86 134 L 104 134 L 122 134 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 138 L 337 26 L 355 134 L 373 134 L 391 134 L 409 134 L 427 134 L 445 134 L 462 134 L 480 128 L 498 128 L 516 128 L 534 128 L 552 128 L 570 128 L 588 128" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="134" r="4" fill="#fdba74"><title>07-23 1,290원</title></circle>
-    <circle cx="122" cy="134" r="4" fill="#fdba74"><title>07-26 1,290원</title></circle>
-    <circle cx="140" cy="138" r="4" fill="#fdba74"><title>07-30 1,260원</title></circle>
-    <circle cx="319" cy="138" r="4" fill="#fdba74"><title>08-24 1,260원</title></circle>
-    <circle cx="337" cy="26" r="4" fill="#fdba74"><title>08-25 2,200원</title></circle>
-    <circle cx="355" cy="134" r="4" fill="#fdba74"><title>08-26 1,290원</title></circle>
-    <circle cx="462" cy="134" r="4" fill="#fdba74"><title>09-01 1,290원</title></circle>
-    <circle cx="480" cy="128" r="4" fill="#fdba74"><title>09-02 1,330원</title></circle>
-    <circle cx="588" cy="128" r="5" fill="#ea580c"><title>09-08 1,330원</title></circle>
+    <path d="M 68 134 L 86 134 L 104 134 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 26 L 337 134 L 355 134 L 373 134 L 391 134 L 409 134 L 427 134 L 445 134 L 462 128 L 480 128 L 498 128 L 516 128 L 534 128 L 552 128 L 570 128 L 588 128 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 134 L 86 134 L 104 134 L 122 138 L 140 138 L 158 138 L 176 138 L 194 138 L 211 138 L 229 138 L 247 138 L 265 138 L 283 138 L 301 138 L 319 26 L 337 134 L 355 134 L 373 134 L 391 134 L 409 134 L 427 134 L 445 134 L 462 128 L 480 128 L 498 128 L 516 128 L 534 128 L 552 128 L 570 128 L 588 128" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="134" r="4" fill="#fdba74"><title>07-24 1,290원</title></circle>
+    <circle cx="104" cy="134" r="4" fill="#fdba74"><title>07-26 1,290원</title></circle>
+    <circle cx="122" cy="138" r="4" fill="#fdba74"><title>07-30 1,260원</title></circle>
+    <circle cx="301" cy="138" r="4" fill="#fdba74"><title>08-24 1,260원</title></circle>
+    <circle cx="319" cy="26" r="4" fill="#fdba74"><title>08-25 2,200원</title></circle>
+    <circle cx="337" cy="134" r="4" fill="#fdba74"><title>08-26 1,290원</title></circle>
+    <circle cx="445" cy="134" r="4" fill="#fdba74"><title>09-01 1,290원</title></circle>
+    <circle cx="462" cy="128" r="4" fill="#fdba74"><title>09-02 1,330원</title></circle>
+    <circle cx="588" cy="128" r="5" fill="#ea580c"><title>09-09 1,330원</title></circle>
 
     <text x="588" y="116" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">1,330원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -348,7 +347,7 @@ A. 연육(중국산), 밀가루(밀/미국산, 호주산), 정제소금(국산),
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,330원 · 별점 4.8 · 리뷰 143,133개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 1,330원 · 별점 4.8 · 리뷰 143,507개</span>
     <a href="https://link.coupang.com/a/eAsRTR" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
