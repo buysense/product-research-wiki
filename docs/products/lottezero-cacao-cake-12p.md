@@ -10,7 +10,6 @@ description: 당류 0g으로 부담 없이 즐기는 롯데제로 카카오 케�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "롯데제로 카카오 케이크 12p, 171g, 2개",
-  "description": "당류 0g으로 부담 없이 즐기는 롯데제로 카카오 케이크 구매 가이드. 총 24개 낱개 포장으로 식단 관리 중이거나 아이들 간식으로 적합하며, 촉촉한 식감과 진한 카카오 풍미를 제공합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/32089040334907-2ca508fa-0e3c-4083-9ffc-f14aba74ffd1.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4362276392309-ab630ba6-83e9-4626-97ab-565495c430df.jpg"
@@ -21,12 +20,12 @@ description: 당류 0g으로 부담 없이 즐기는 롯데제로 카카오 케�
     "price": "7460",
     "url": "https://link.coupang.com/a/dGIXbXuxDo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 18475,
+    "reviewCount": 18486,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +42,7 @@ description: 당류 0g으로 부담 없이 즐기는 롯데제로 카카오 케�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,460원 · 별점 4.6 · 리뷰 18,475개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,460원 · 별점 4.6 · 리뷰 18,486개</span>
     <a href="https://link.coupang.com/a/dGIXbXuxDo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,25 +60,24 @@ description: 당류 0g으로 부담 없이 즐기는 롯데제로 카카오 케�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,400</text>
 
-    <path d="M 68 41 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 132 L 247 132 L 265 132 L 283 132 L 301 132 L 319 132 L 337 132 L 355 132 L 373 132 L 391 132 L 409 132 L 427 132 L 445 132 L 462 132 L 480 132 L 498 132 L 516 132 L 534 132 L 552 132 L 570 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 41 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 117 L 229 132 L 247 132 L 265 132 L 283 132 L 301 132 L 319 132 L 337 132 L 355 132 L 373 132 L 391 132 L 409 132 L 427 132 L 445 132 L 462 132 L 480 132 L 498 132 L 516 132 L 534 132 L 552 132 L 570 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="41" r="4" fill="#fdba74"><title>07-23 7,580원</title></circle>
-    <circle cx="86" cy="117" r="4" fill="#fdba74"><title>07-24 7,480원</title></circle>
-    <circle cx="211" cy="117" r="4" fill="#fdba74"><title>08-04 7,480원</title></circle>
-    <circle cx="229" cy="132" r="4" fill="#fdba74"><title>08-19 7,460원</title></circle>
-    <circle cx="588" cy="132" r="5" fill="#ea580c"><title>09-08 7,460원</title></circle>
+    <path d="M 68 117 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 132 L 229 132 L 247 132 L 265 132 L 283 132 L 301 132 L 319 132 L 337 132 L 355 132 L 373 132 L 391 132 L 409 132 L 427 132 L 445 132 L 462 132 L 480 132 L 498 132 L 516 132 L 534 132 L 552 132 L 570 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 117 L 86 117 L 104 117 L 122 117 L 140 117 L 158 117 L 176 117 L 194 117 L 211 132 L 229 132 L 247 132 L 265 132 L 283 132 L 301 132 L 319 132 L 337 132 L 355 132 L 373 132 L 391 132 L 409 132 L 427 132 L 445 132 L 462 132 L 480 132 L 498 132 L 516 132 L 534 132 L 552 132 L 570 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="117" r="4" fill="#fdba74"><title>07-24 7,480원</title></circle>
+    <circle cx="194" cy="117" r="4" fill="#fdba74"><title>08-04 7,480원</title></circle>
+    <circle cx="211" cy="132" r="4" fill="#fdba74"><title>08-19 7,460원</title></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"><title>09-09 7,460원</title></circle>
 
     <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,460원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -320,7 +318,7 @@ A. 냉장고에 잠시 넣어 차갑게 먹으면 초콜릿 케이크의 식감�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,460원 · 별점 4.6 · 리뷰 18,475개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,460원 · 별점 4.6 · 리뷰 18,486개</span>
     <a href="https://link.coupang.com/a/dGIXbXuxDo" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
