@@ -10,7 +10,6 @@ description: 매일바이오 그릭 요거트 무가당 플레인은 건강한 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "매일바이오 그릭 요거트 무가당 플레인",
-  "description": "매일바이오 그릭 요거트 무가당 플레인은 건강한 식단 관리를 위해 설탕 없이 즐길 수 있는 플레인 그릭 요거트로, 아침 식사나 간식, 다양한 요리 재료로 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/337372380146665-dded00f9-3385-4f41-b6a1-536278a07552.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/311976675213080-87f463d3-f609-45b1-9ba8-2aca0f95f1fb.jpg"
@@ -21,12 +20,12 @@ description: 매일바이오 그릭 요거트 무가당 플레인은 건강한 �
     "price": "13540",
     "url": "https://link.coupang.com/a/gBUcRl3gSO",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 182012,
+    "reviewCount": 182660,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +43,7 @@ description: 매일바이오 그릭 요거트 무가당 플레인은 건강한 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,540원 · 별점 4.8 · 리뷰 182,012개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 13,540원 · 별점 4.8 · 리뷰 182,660개</span>
     <a href="https://link.coupang.com/a/gBUcRl3gSO" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -53,7 +52,7 @@ description: 매일바이오 그릭 요거트 무가당 플레인은 건강한 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 11개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,25 +61,25 @@ description: 매일바이오 그릭 요거트 무가당 플레인은 건강한 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,500</text>
 
-    <path d="M 68 31 L 120 31 L 172 31 L 224 31 L 276 105 L 328 172 L 380 172 L 432 172 L 484 172 L 536 172 L 588 172 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 31 L 120 31 L 172 31 L 224 31 L 276 105 L 328 172 L 380 172 L 432 172 L 484 172 L 536 172 L 588 172" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 31 L 115 31 L 163 31 L 210 31 L 257 105 L 304 172 L 352 172 L 399 172 L 446 172 L 493 172 L 541 172 L 588 172 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 31 L 115 31 L 163 31 L 210 31 L 257 105 L 304 172 L 352 172 L 399 172 L 446 172 L 493 172 L 541 172 L 588 172" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="31" r="4" fill="#fdba74"><title>08-29 14,470원</title></circle>
-    <circle cx="224" cy="31" r="4" fill="#fdba74"><title>09-01 14,470원</title></circle>
-    <circle cx="276" cy="105" r="4" fill="#fdba74"><title>09-02 13,980원</title></circle>
-    <circle cx="328" cy="172" r="4" fill="#fdba74"><title>09-03 13,540원</title></circle>
-    <circle cx="588" cy="172" r="5" fill="#ea580c"><title>09-08 13,540원</title></circle>
+    <circle cx="210" cy="31" r="4" fill="#fdba74"><title>09-01 14,470원</title></circle>
+    <circle cx="257" cy="105" r="4" fill="#fdba74"><title>09-02 13,980원</title></circle>
+    <circle cx="304" cy="172" r="4" fill="#fdba74"><title>09-03 13,540원</title></circle>
+    <circle cx="588" cy="172" r="5" fill="#ea580c"><title>09-09 13,540원</title></circle>
 
     <text x="588" y="160" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,540원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -175,7 +174,7 @@ A. 매일바이오 그릭 요거트는 일반 요거트보다 수분을 더 많�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,540원 · 별점 4.8 · 리뷰 182,012개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 13,540원 · 별점 4.8 · 리뷰 182,660개</span>
     <a href="https://link.coupang.com/a/gBUcRl3gSO" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
