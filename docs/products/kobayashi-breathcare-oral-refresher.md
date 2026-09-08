@@ -21,7 +21,7 @@ description: 고바야시 브레스케어는 식사 후, 회의 전, 중요한 �
     "price": "19800",
     "url": "https://link.coupang.com/a/gSGUBu3ovk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
