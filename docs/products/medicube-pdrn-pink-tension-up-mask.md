@@ -10,7 +10,6 @@ description: 메디큐브 PDRN 핑크 텐션 업 마스크는 피부 탄력과 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "medicube-pdrn-pink-tension-up-mask",
-  "description": "메디큐브 PDRN 핑크 텐션 업 마스크는 피부 탄력과 생기 부여에 중점을 둔 마스크팩으로, 중요한 날을 위한 집중 케어나 특별한 홈 케어 시 활용됩니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0c5b/d0f92cc225adc44b9443d77e302942c29639fc078081e73252e4d6eb3434.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8f83/faf89fe9d57951e9096f3e7ae6ecc2618a6cd6700bdffd78708f120cb9d9.jpg"
@@ -21,7 +20,7 @@ description: 메디큐브 PDRN 핑크 텐션 업 마스크는 피부 탄력과 �
     "price": "23560",
     "url": "https://link.coupang.com/a/eIbjNpDEWa",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,29 +60,29 @@ description: 메디큐브 PDRN 핑크 텐션 업 마스크는 피부 탄력과 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">25,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 158 L 265 158 L 283 158 L 301 158 L 319 103 L 337 113 L 355 113 L 373 113 L 391 113 L 409 113 L 427 113 L 445 113 L 462 113 L 480 113 L 498 124 L 516 124 L 534 124 L 552 124 L 570 124 L 588 124 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 41 L 247 158 L 265 158 L 283 158 L 301 158 L 319 103 L 337 113 L 355 113 L 373 113 L 391 113 L 409 113 L 427 113 L 445 113 L 462 113 L 480 113 L 498 124 L 516 124 L 534 124 L 552 124 L 570 124 L 588 124" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="41" r="4" fill="#fdba74"><title>07-23 29,000원</title></circle>
-    <circle cx="229" cy="41" r="4" fill="#fdba74"><title>08-19 29,000원</title></circle>
-    <circle cx="247" cy="158" r="4" fill="#fdba74"><title>08-20 21,300원</title></circle>
-    <circle cx="301" cy="158" r="4" fill="#fdba74"><title>08-23 21,300원</title></circle>
-    <circle cx="319" cy="103" r="4" fill="#fdba74"><title>08-24 24,960원</title></circle>
-    <circle cx="337" cy="113" r="4" fill="#fdba74"><title>08-25 24,260원</title></circle>
-    <circle cx="480" cy="113" r="4" fill="#fdba74"><title>09-02 24,260원</title></circle>
-    <circle cx="498" cy="124" r="4" fill="#fdba74"><title>09-03 23,560원</title></circle>
-    <circle cx="588" cy="124" r="5" fill="#ea580c"><title>09-08 23,560원</title></circle>
+    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 158 L 247 158 L 265 158 L 283 158 L 301 103 L 319 113 L 337 113 L 355 113 L 373 113 L 391 113 L 409 113 L 427 113 L 445 113 L 462 113 L 480 124 L 498 124 L 516 124 L 534 124 L 552 124 L 570 124 L 588 124 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 41 L 86 41 L 104 41 L 122 41 L 140 41 L 158 41 L 176 41 L 194 41 L 211 41 L 229 158 L 247 158 L 265 158 L 283 158 L 301 103 L 319 113 L 337 113 L 355 113 L 373 113 L 391 113 L 409 113 L 427 113 L 445 113 L 462 113 L 480 124 L 498 124 L 516 124 L 534 124 L 552 124 L 570 124 L 588 124" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="41" r="4" fill="#fdba74"><title>07-24 29,000원</title></circle>
+    <circle cx="211" cy="41" r="4" fill="#fdba74"><title>08-19 29,000원</title></circle>
+    <circle cx="229" cy="158" r="4" fill="#fdba74"><title>08-20 21,300원</title></circle>
+    <circle cx="283" cy="158" r="4" fill="#fdba74"><title>08-23 21,300원</title></circle>
+    <circle cx="301" cy="103" r="4" fill="#fdba74"><title>08-24 24,960원</title></circle>
+    <circle cx="319" cy="113" r="4" fill="#fdba74"><title>08-25 24,260원</title></circle>
+    <circle cx="462" cy="113" r="4" fill="#fdba74"><title>09-02 24,260원</title></circle>
+    <circle cx="480" cy="124" r="4" fill="#fdba74"><title>09-03 23,560원</title></circle>
+    <circle cx="588" cy="124" r="5" fill="#ea580c"><title>09-09 23,560원</title></circle>
 
     <text x="588" y="112" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">23,560원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
