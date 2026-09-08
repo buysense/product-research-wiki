@@ -10,14 +10,13 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "nissin-yakisoba-ufo-oomori",
-  "description": "1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 소스 기반의 감칠맛과 쫄깃한 면발이 특징인 일본 대표 컵 볶음면입니다. 일본 여행 기념품이나 간편한 식사, 야식으로 인기가 많습니다.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
     "price": "30360",
     "url": "https://link.coupang.com/a/elPCqb",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-16"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -55,32 +54,33 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 84 L 86 84 L 104 84 L 122 84 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 49 L 247 104 L 265 104 L 283 104 L 301 104 L 319 104 L 337 173 L 355 173 L 373 173 L 391 173 L 409 173 L 427 173 L 445 173 L 462 157 L 480 157 L 498 157 L 516 157 L 534 157 L 552 157 L 570 157 L 588 173 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 84 L 86 84 L 104 84 L 122 84 L 140 114 L 158 114 L 176 114 L 194 114 L 211 114 L 229 49 L 247 104 L 265 104 L 283 104 L 301 104 L 319 104 L 337 173 L 355 173 L 373 173 L 391 173 L 409 173 L 427 173 L 445 173 L 462 157 L 480 157 L 498 157 L 516 157 L 534 157 L 552 157 L 570 157 L 588 173" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="84" r="4" fill="#fdba74"><title>07-23 36,170원</title></circle>
-    <circle cx="122" cy="84" r="4" fill="#fdba74"><title>07-26 36,170원</title></circle>
-    <circle cx="140" cy="114" r="4" fill="#fdba74"><title>07-30 34,240원</title></circle>
-    <circle cx="211" cy="114" r="4" fill="#fdba74"><title>08-04 34,240원</title></circle>
-    <circle cx="229" cy="49" r="4" fill="#fdba74"><title>08-19 38,480원</title></circle>
-    <circle cx="247" cy="104" r="4" fill="#fdba74"><title>08-20 34,900원</title></circle>
-    <circle cx="319" cy="104" r="4" fill="#fdba74"><title>08-24 34,900원</title></circle>
-    <circle cx="337" cy="173" r="4" fill="#fdba74"><title>08-25 30,360원</title></circle>
-    <circle cx="445" cy="173" r="4" fill="#fdba74"><title>08-31 30,360원</title></circle>
-    <circle cx="462" cy="157" r="4" fill="#fdba74"><title>09-01 31,410원</title></circle>
-    <circle cx="570" cy="157" r="4" fill="#fdba74"><title>09-07 31,410원</title></circle>
-    <circle cx="588" cy="173" r="5" fill="#ea580c"><title>09-08 30,360원</title></circle>
+    <path d="M 68 84 L 86 84 L 104 84 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 49 L 229 104 L 247 104 L 265 104 L 283 104 L 301 104 L 319 173 L 337 173 L 355 173 L 373 173 L 391 173 L 409 173 L 427 173 L 445 157 L 462 157 L 480 157 L 498 157 L 516 157 L 534 157 L 552 157 L 570 173 L 588 173 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 84 L 86 84 L 104 84 L 122 114 L 140 114 L 158 114 L 176 114 L 194 114 L 211 49 L 229 104 L 247 104 L 265 104 L 283 104 L 301 104 L 319 173 L 337 173 L 355 173 L 373 173 L 391 173 L 409 173 L 427 173 L 445 157 L 462 157 L 480 157 L 498 157 L 516 157 L 534 157 L 552 157 L 570 173 L 588 173" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="84" r="4" fill="#fdba74"><title>07-24 36,170원</title></circle>
+    <circle cx="104" cy="84" r="4" fill="#fdba74"><title>07-26 36,170원</title></circle>
+    <circle cx="122" cy="114" r="4" fill="#fdba74"><title>07-30 34,240원</title></circle>
+    <circle cx="194" cy="114" r="4" fill="#fdba74"><title>08-04 34,240원</title></circle>
+    <circle cx="211" cy="49" r="4" fill="#fdba74"><title>08-19 38,480원</title></circle>
+    <circle cx="229" cy="104" r="4" fill="#fdba74"><title>08-20 34,900원</title></circle>
+    <circle cx="301" cy="104" r="4" fill="#fdba74"><title>08-24 34,900원</title></circle>
+    <circle cx="319" cy="173" r="4" fill="#fdba74"><title>08-25 30,360원</title></circle>
+    <circle cx="427" cy="173" r="4" fill="#fdba74"><title>08-31 30,360원</title></circle>
+    <circle cx="445" cy="157" r="4" fill="#fdba74"><title>09-01 31,410원</title></circle>
+    <circle cx="552" cy="157" r="4" fill="#fdba74"><title>09-07 31,410원</title></circle>
+    <circle cx="570" cy="173" r="4" fill="#fdba74"><title>09-08 30,360원</title></circle>
+    <circle cx="588" cy="173" r="5" fill="#ea580c"><title>09-09 30,360원</title></circle>
 
     <text x="588" y="161" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">30,360원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
