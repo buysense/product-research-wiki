@@ -16,10 +16,10 @@ description: 밈더워드로브 빈티지 워시드 체크 셔츠는 캐주얼�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "81900",
+    "price": "76200",
     "url": "https://link.coupang.com/a/fPWM6vplpA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   }
 }
 </script>
@@ -34,7 +34,7 @@ description: 밈더워드로브 빈티지 워시드 체크 셔츠는 캐주얼�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 81,900원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 76,200원</span>
     <a href="https://link.coupang.com/a/fPWM6vplpA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -43,7 +43,7 @@ description: 밈더워드로브 빈티지 워시드 체크 셔츠는 캐주얼�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,33 +52,34 @@ description: 밈더워드로브 빈티지 워시드 체크 셔츠는 캐주얼�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
 
-    <path d="M 68 163 L 89 138 L 110 137 L 130 137 L 151 63 L 172 63 L 193 63 L 214 63 L 234 63 L 255 100 L 276 100 L 297 100 L 318 146 L 338 146 L 359 146 L 380 146 L 401 146 L 422 146 L 442 91 L 463 91 L 484 91 L 505 91 L 526 91 L 546 91 L 567 91 L 588 95 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 163 L 89 138 L 110 137 L 130 137 L 151 63 L 172 63 L 193 63 L 214 63 L 234 63 L 255 100 L 276 100 L 297 100 L 318 146 L 338 146 L 359 146 L 380 146 L 401 146 L 422 146 L 442 91 L 463 91 L 484 91 L 505 91 L 526 91 L 546 91 L 567 91 L 588 95" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 163 L 88 138 L 108 137 L 128 137 L 148 63 L 168 63 L 188 63 L 208 63 L 228 63 L 248 100 L 268 100 L 288 100 L 308 146 L 328 146 L 348 146 L 368 146 L 388 146 L 408 146 L 428 91 L 448 91 L 468 91 L 488 91 L 508 91 L 528 91 L 548 91 L 568 95 L 588 116 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 163 L 88 138 L 108 137 L 128 137 L 148 63 L 168 63 L 188 63 L 208 63 L 228 63 L 248 100 L 268 100 L 288 100 L 308 146 L 328 146 L 348 146 L 368 146 L 388 146 L 408 146 L 428 91 L 448 91 L 468 91 L 488 91 L 508 91 L 528 91 L 548 91 L 568 95 L 588 116" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="163" r="4" fill="#fdba74"><title>07-31 64,000원</title></circle>
-    <circle cx="89" cy="138" r="4" fill="#fdba74"><title>08-02 70,500원</title></circle>
-    <circle cx="110" cy="137" r="4" fill="#fdba74"><title>08-03 70,800원</title></circle>
-    <circle cx="130" cy="137" r="4" fill="#fdba74"><title>08-04 70,800원</title></circle>
-    <circle cx="151" cy="63" r="4" fill="#fdba74"><title>08-19 90,300원</title></circle>
-    <circle cx="234" cy="63" r="4" fill="#fdba74"><title>08-23 90,300원</title></circle>
-    <circle cx="255" cy="100" r="4" fill="#fdba74"><title>08-24 80,400원</title></circle>
-    <circle cx="297" cy="100" r="4" fill="#fdba74"><title>08-26 80,400원</title></circle>
-    <circle cx="318" cy="146" r="4" fill="#fdba74"><title>08-27 68,300원</title></circle>
-    <circle cx="422" cy="146" r="4" fill="#fdba74"><title>09-01 68,300원</title></circle>
-    <circle cx="442" cy="91" r="4" fill="#fdba74"><title>09-02 82,800원</title></circle>
-    <circle cx="567" cy="91" r="4" fill="#fdba74"><title>09-08 82,800원</title></circle>
-    <circle cx="588" cy="95" r="5" fill="#ea580c"><title>09-09 81,900원</title></circle>
+    <circle cx="88" cy="138" r="4" fill="#fdba74"><title>08-02 70,500원</title></circle>
+    <circle cx="108" cy="137" r="4" fill="#fdba74"><title>08-03 70,800원</title></circle>
+    <circle cx="128" cy="137" r="4" fill="#fdba74"><title>08-04 70,800원</title></circle>
+    <circle cx="148" cy="63" r="4" fill="#fdba74"><title>08-19 90,300원</title></circle>
+    <circle cx="228" cy="63" r="4" fill="#fdba74"><title>08-23 90,300원</title></circle>
+    <circle cx="248" cy="100" r="4" fill="#fdba74"><title>08-24 80,400원</title></circle>
+    <circle cx="288" cy="100" r="4" fill="#fdba74"><title>08-26 80,400원</title></circle>
+    <circle cx="308" cy="146" r="4" fill="#fdba74"><title>08-27 68,300원</title></circle>
+    <circle cx="408" cy="146" r="4" fill="#fdba74"><title>09-01 68,300원</title></circle>
+    <circle cx="428" cy="91" r="4" fill="#fdba74"><title>09-02 82,800원</title></circle>
+    <circle cx="548" cy="91" r="4" fill="#fdba74"><title>09-08 82,800원</title></circle>
+    <circle cx="568" cy="95" r="4" fill="#fdba74"><title>09-09 81,900원</title></circle>
+    <circle cx="588" cy="116" r="5" fill="#ea580c"><title>09-10 76,200원</title></circle>
 
-    <text x="588" y="83" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">81,900원</text>
+    <text x="588" y="104" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">76,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -167,7 +168,7 @@ A. 빈티지 워싱 처리는 원단에 인위적으로 사용감을 주어 자�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 81,900원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 76,200원</span>
     <a href="https://link.coupang.com/a/fPWM6vplpA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
