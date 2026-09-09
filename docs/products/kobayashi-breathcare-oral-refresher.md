@@ -10,7 +10,6 @@ description: 고바야시 브레스케어는 식사 후, 회의 전, 중요한 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "고바야시 브레스케어",
-  "description": "고바야시 브레스케어는 식사 후, 회의 전, 중요한 만남 등 구취가 신경 쓰이는 상황에서 간편하게 입안을 상쾌하게 해주는 구강 관리 보조제입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f0d4/404dfb6dbace73c3c0a8261a5dbf4f53f809c18c4449f538f9274892e652.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6760/a845702f175e88c4e363858808ff132f4a543f4475fc529b0f765d9f8ff7.png"
@@ -21,7 +20,7 @@ description: 고바야시 브레스케어는 식사 후, 회의 전, 중요한 �
     "price": "19800",
     "url": "https://link.coupang.com/a/gSGUBu3ovk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -51,6 +50,29 @@ description: 고바야시 브레스케어는 식사 후, 회의 전, 중요한 �
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">19,900</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">19,800</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">19,700</text>
+
+    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>09-08 19,800원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-10 19,800원</title></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요
