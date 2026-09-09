@@ -10,7 +10,6 @@ description: 닛픈 전설의 닭 튀김가루는 집에서 전문점 수준의 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "닛픈 전설의 닭 튀김가루",
-  "description": "닛픈 전설의 닭 튀김가루는 집에서 전문점 수준의 바삭하고 맛있는 닭튀김을 간편하게 만들 수 있도록 돕는 제품입니다. 온 가족 간식이나 홈파티 요리로 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/228b/4503f7814ee09a00ab423699d34cc113ed54cc380f305964fb80166d84b9.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ae39/3f230afcd01ddfed777b0428f098aebd987f35e1b0ba05ff2440d39cc998.jpg"
@@ -21,7 +20,7 @@ description: 닛픈 전설의 닭 튀김가루는 집에서 전문점 수준의 
     "price": "17430",
     "url": "https://link.coupang.com/a/gSHuSJnHc4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -51,6 +50,29 @@ description: 닛픈 전설의 닭 튀김가루는 집에서 전문점 수준의 
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">17,500</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">17,400</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">17,300</text>
+
+    <path d="M 68 79 L 328 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 328 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="79" r="4" fill="#fdba74"><title>09-08 17,430원</title></circle>
+    <circle cx="588" cy="79" r="5" fill="#ea580c"><title>09-10 17,430원</title></circle>
+
+    <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,430원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요

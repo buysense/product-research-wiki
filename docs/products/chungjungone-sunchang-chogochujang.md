@@ -10,7 +10,6 @@ description: 청정원순창 초고추장은 새콤달콤한 맛으로 다양한
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "청정원순창 초고추장",
-  "description": "청정원순창 초고추장은 새콤달콤한 맛으로 다양한 해산물 요리나 비빔밥 등 일상 식탁에서 활용하기 좋은 만능 소스입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/204686927490121-979b6fda-e964-412b-aecc-b9194f821968.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/437279909275301-054153c4-d12e-4e7e-af5c-96b616de03db.jpg"
@@ -21,12 +20,12 @@ description: 청정원순창 초고추장은 새콤달콤한 맛으로 다양한
     "price": "3720",
     "url": "https://link.coupang.com/a/gQYDRGFvpI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 91105,
+    "reviewCount": 91179,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +43,7 @@ description: 청정원순창 초고추장은 새콤달콤한 맛으로 다양한
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 3,720원 · 별점 4.8 · 리뷰 91,105개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 3,720원 · 별점 4.8 · 리뷰 91,179개</span>
     <a href="https://link.coupang.com/a/gQYDRGFvpI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -53,7 +52,7 @@ description: 청정원순창 초고추장은 새콤달콤한 맛으로 다양한
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,15 +61,16 @@ description: 청정원순창 초고추장은 새콤달콤한 맛으로 다양한
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">3,700</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">3,600</text>
 
-    <path d="M 68 87 L 328 87 L 588 87 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 87 L 328 87 L 588 87" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 87 L 241 87 L 415 87 L 588 87 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 87 L 241 87 L 415 87 L 588 87" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="87" r="4" fill="#fdba74"><title>09-07 3,720원</title></circle>
-    <circle cx="588" cy="87" r="5" fill="#ea580c"><title>09-09 3,720원</title></circle>
+    <circle cx="588" cy="87" r="5" fill="#ea580c"><title>09-10 3,720원</title></circle>
 
     <text x="588" y="75" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">3,720원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -165,7 +165,7 @@ A. 일반적인 고추장보다는 단맛과 신맛이 강조되어 덜 맵게 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 3,720원 · 별점 4.8 · 리뷰 91,105개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 3,720원 · 별점 4.8 · 리뷰 91,179개</span>
     <a href="https://link.coupang.com/a/gQYDRGFvpI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
