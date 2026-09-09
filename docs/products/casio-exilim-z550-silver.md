@@ -10,7 +10,6 @@ description: 카시오 엑슬림 Z550 o -실버는 일상 스냅과 가벼운 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "카시오 엑슬림 z550 o -실버",
-  "description": "카시오 엑슬림 Z550 o -실버는 일상 스냅과 가벼운 여행 기록에 적합한 콤팩트 디지털 카메라입니다. 휴대성과 간편한 조작을 찾는 사용자에게 유용합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7138/7648c01bc1e445885e5dca8ffd8a9872069303bf51ed11f144274bc69513.png"
   ],
@@ -20,7 +19,7 @@ description: 카시오 엑슬림 Z550 o -실버는 일상 스냅과 가벼운 �
     "price": "340200",
     "url": "https://link.coupang.com/a/gKo8E6z7G8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   }
 }
 </script>
@@ -45,7 +44,7 @@ description: 카시오 엑슬림 Z550 o -실버는 일상 스냅과 가벼운 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 8개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -54,19 +53,20 @@ description: 카시오 엑슬림 Z550 o -실버는 일상 스냅과 가벼운 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">340,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">340,100</text>
 
-    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 102 L 501 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 102 L 501 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 142 102 L 217 102 L 291 102 L 365 102 L 439 102 L 514 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"><title>09-03 340,200원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-09 340,200원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-10 340,200원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">340,200원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
