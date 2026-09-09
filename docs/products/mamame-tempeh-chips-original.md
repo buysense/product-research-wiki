@@ -21,7 +21,7 @@ description: 마마메 템페 칩스 오리지널은 발효 템페로 만든 바
     "price": "7150",
     "url": "https://link.coupang.com/a/gUlwoor4VM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
