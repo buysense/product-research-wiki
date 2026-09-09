@@ -20,7 +20,7 @@ description: 올가홀푸드 유기가공식품 인증 떡볶이떡은 유기농
     "price": "7900",
     "url": "https://link.coupang.com/a/fMFgLOEAcS",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -51,7 +51,7 @@ description: 올가홀푸드 유기가공식품 인증 떡볶이떡은 유기농
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,25 +60,25 @@ description: 올가홀푸드 유기가공식품 인증 떡볶이떡은 유기농
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">6,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
 
-    <path d="M 68 121 L 87 121 L 107 121 L 126 121 L 145 91 L 164 30 L 184 30 L 203 30 L 222 30 L 241 30 L 261 30 L 280 30 L 299 30 L 318 30 L 338 30 L 357 30 L 376 30 L 395 30 L 415 30 L 434 30 L 453 30 L 472 30 L 492 30 L 511 30 L 530 30 L 549 30 L 569 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 121 L 87 121 L 107 121 L 126 121 L 145 91 L 164 30 L 184 30 L 203 30 L 222 30 L 241 30 L 261 30 L 280 30 L 299 30 L 318 30 L 338 30 L 357 30 L 376 30 L 395 30 L 415 30 L 434 30 L 453 30 L 472 30 L 492 30 L 511 30 L 530 30 L 549 30 L 569 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 121 L 87 121 L 105 121 L 124 121 L 142 91 L 161 30 L 179 30 L 198 30 L 217 30 L 235 30 L 254 30 L 272 30 L 291 30 L 309 30 L 328 30 L 347 30 L 365 30 L 384 30 L 402 30 L 421 30 L 439 30 L 458 30 L 477 30 L 495 30 L 514 30 L 532 30 L 551 30 L 569 30 L 588 30 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 121 L 87 121 L 105 121 L 124 121 L 142 91 L 161 30 L 179 30 L 198 30 L 217 30 L 235 30 L 254 30 L 272 30 L 291 30 L 309 30 L 328 30 L 347 30 L 365 30 L 384 30 L 402 30 L 421 30 L 439 30 L 458 30 L 477 30 L 495 30 L 514 30 L 532 30 L 551 30 L 569 30 L 588 30" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="121" r="4" fill="#fdba74"><title>07-29 5,500원</title></circle>
-    <circle cx="126" cy="121" r="4" fill="#fdba74"><title>08-02 5,500원</title></circle>
-    <circle cx="145" cy="91" r="4" fill="#fdba74"><title>08-03 6,300원</title></circle>
-    <circle cx="164" cy="30" r="4" fill="#fdba74"><title>08-04 7,900원</title></circle>
-    <circle cx="588" cy="30" r="5" fill="#ea580c"><title>09-09 7,900원</title></circle>
+    <circle cx="124" cy="121" r="4" fill="#fdba74"><title>08-02 5,500원</title></circle>
+    <circle cx="142" cy="91" r="4" fill="#fdba74"><title>08-03 6,300원</title></circle>
+    <circle cx="161" cy="30" r="4" fill="#fdba74"><title>08-04 7,900원</title></circle>
+    <circle cx="588" cy="30" r="5" fill="#ea580c"><title>09-10 7,900원</title></circle>
 
     <text x="588" y="18" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">7,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
