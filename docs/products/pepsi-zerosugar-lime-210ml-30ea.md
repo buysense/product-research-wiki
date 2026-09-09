@@ -20,12 +20,12 @@ description: 펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리�
     "price": "14480",
     "url": "https://link.coupang.com/a/fluvpMt8O4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 219230,
+    "reviewCount": 219419,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,480원 · 별점 4.9 · 리뷰 219,230개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 14,480원 · 별점 4.9 · 리뷰 219,419개</span>
     <a href="https://link.coupang.com/a/fluvpMt8O4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,37 +60,38 @@ description: 펩시 제로슈거 라임향 210ml 30개 팩은 제로 칼로리�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,600</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,400</text>
 
-    <path d="M 68 94 L 86 94 L 104 94 L 122 94 L 140 91 L 158 94 L 176 98 L 194 91 L 211 91 L 229 91 L 247 91 L 265 91 L 283 91 L 301 91 L 319 91 L 337 91 L 355 91 L 373 140 L 391 91 L 409 91 L 427 91 L 445 110 L 462 91 L 480 87 L 498 91 L 516 34 L 534 34 L 552 34 L 570 34 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 94 L 86 94 L 104 94 L 122 94 L 140 91 L 158 94 L 176 98 L 194 91 L 211 91 L 229 91 L 247 91 L 265 91 L 283 91 L 301 91 L 319 91 L 337 91 L 355 91 L 373 140 L 391 91 L 409 91 L 427 91 L 445 110 L 462 91 L 480 87 L 498 91 L 516 34 L 534 34 L 552 34 L 570 34 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="94" r="4" fill="#fdba74"><title>07-24 14,620원</title></circle>
-    <circle cx="122" cy="94" r="4" fill="#fdba74"><title>07-30 14,620원</title></circle>
-    <circle cx="140" cy="91" r="4" fill="#fdba74"><title>07-31 14,630원</title></circle>
-    <circle cx="158" cy="94" r="4" fill="#fdba74"><title>08-02 14,620원</title></circle>
-    <circle cx="176" cy="98" r="4" fill="#fdba74"><title>08-03 14,610원</title></circle>
-    <circle cx="194" cy="91" r="4" fill="#fdba74"><title>08-04 14,630원</title></circle>
-    <circle cx="355" cy="91" r="4" fill="#fdba74"><title>08-27 14,630원</title></circle>
-    <circle cx="373" cy="140" r="4" fill="#fdba74"><title>08-28 14,500원</title></circle>
-    <circle cx="391" cy="91" r="4" fill="#fdba74"><title>08-29 14,630원</title></circle>
-    <circle cx="427" cy="91" r="4" fill="#fdba74"><title>08-31 14,630원</title></circle>
-    <circle cx="445" cy="110" r="4" fill="#fdba74"><title>09-01 14,580원</title></circle>
-    <circle cx="462" cy="91" r="4" fill="#fdba74"><title>09-02 14,630원</title></circle>
-    <circle cx="480" cy="87" r="4" fill="#fdba74"><title>09-03 14,640원</title></circle>
-    <circle cx="498" cy="91" r="4" fill="#fdba74"><title>09-04 14,630원</title></circle>
-    <circle cx="516" cy="34" r="4" fill="#fdba74"><title>09-05 14,780원</title></circle>
-    <circle cx="570" cy="34" r="4" fill="#fdba74"><title>09-08 14,780원</title></circle>
-    <circle cx="588" cy="148" r="5" fill="#ea580c"><title>09-09 14,480원</title></circle>
+    <path d="M 68 94 L 86 94 L 104 94 L 122 91 L 140 94 L 158 98 L 176 91 L 194 91 L 211 91 L 229 91 L 247 91 L 265 91 L 283 91 L 301 91 L 319 91 L 337 91 L 355 140 L 373 91 L 391 91 L 409 91 L 427 110 L 445 91 L 462 87 L 480 91 L 498 34 L 516 34 L 534 34 L 552 34 L 570 148 L 588 148 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 94 L 86 94 L 104 94 L 122 91 L 140 94 L 158 98 L 176 91 L 194 91 L 211 91 L 229 91 L 247 91 L 265 91 L 283 91 L 301 91 L 319 91 L 337 91 L 355 140 L 373 91 L 391 91 L 409 91 L 427 110 L 445 91 L 462 87 L 480 91 L 498 34 L 516 34 L 534 34 L 552 34 L 570 148 L 588 148" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="94" r="4" fill="#fdba74"><title>07-25 14,620원</title></circle>
+    <circle cx="104" cy="94" r="4" fill="#fdba74"><title>07-30 14,620원</title></circle>
+    <circle cx="122" cy="91" r="4" fill="#fdba74"><title>07-31 14,630원</title></circle>
+    <circle cx="140" cy="94" r="4" fill="#fdba74"><title>08-02 14,620원</title></circle>
+    <circle cx="158" cy="98" r="4" fill="#fdba74"><title>08-03 14,610원</title></circle>
+    <circle cx="176" cy="91" r="4" fill="#fdba74"><title>08-04 14,630원</title></circle>
+    <circle cx="337" cy="91" r="4" fill="#fdba74"><title>08-27 14,630원</title></circle>
+    <circle cx="355" cy="140" r="4" fill="#fdba74"><title>08-28 14,500원</title></circle>
+    <circle cx="373" cy="91" r="4" fill="#fdba74"><title>08-29 14,630원</title></circle>
+    <circle cx="409" cy="91" r="4" fill="#fdba74"><title>08-31 14,630원</title></circle>
+    <circle cx="427" cy="110" r="4" fill="#fdba74"><title>09-01 14,580원</title></circle>
+    <circle cx="445" cy="91" r="4" fill="#fdba74"><title>09-02 14,630원</title></circle>
+    <circle cx="462" cy="87" r="4" fill="#fdba74"><title>09-03 14,640원</title></circle>
+    <circle cx="480" cy="91" r="4" fill="#fdba74"><title>09-04 14,630원</title></circle>
+    <circle cx="498" cy="34" r="4" fill="#fdba74"><title>09-05 14,780원</title></circle>
+    <circle cx="552" cy="34" r="4" fill="#fdba74"><title>09-08 14,780원</title></circle>
+    <circle cx="570" cy="148" r="4" fill="#fdba74"><title>09-09 14,480원</title></circle>
+    <circle cx="588" cy="148" r="5" fill="#ea580c"><title>09-10 14,480원</title></circle>
 
     <text x="588" y="136" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,480원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -206,7 +207,7 @@ A. 라임향이 첨가되어 제로 음료 특유의 인공적인 단맛이나 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,480원 · 별점 4.9 · 리뷰 219,230개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 14,480원 · 별점 4.9 · 리뷰 219,419개</span>
     <a href="https://link.coupang.com/a/fluvpMt8O4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
