@@ -20,7 +20,7 @@ description: 아타라 금핀 두피마사지 브러쉬는 두피 열감 완화�
     "price": "62370",
     "url": "https://link.coupang.com/a/ecLqhIbuG4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -51,7 +51,7 @@ description: 아타라 금핀 두피마사지 브러쉬는 두피 열감 완화�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 8개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,23 +60,25 @@ description: 아타라 금핀 두피마사지 브러쉬는 두피 열감 완화�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">62,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
 
-    <path d="M 68 68 L 142 88 L 217 88 L 291 88 L 365 88 L 439 88 L 514 157 L 588 88 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 68 L 142 88 L 217 88 L 291 88 L 365 88 L 439 88 L 514 157 L 588 88" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 68 L 133 88 L 198 88 L 263 88 L 328 88 L 393 88 L 458 157 L 523 88 L 588 88 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 68 L 133 88 L 198 88 L 263 88 L 328 88 L 393 88 L 458 157 L 523 88 L 588 88" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="68" r="4" fill="#fdba74"><title>09-02 62,900원</title></circle>
-    <circle cx="142" cy="88" r="4" fill="#fdba74"><title>09-03 62,370원</title></circle>
-    <circle cx="439" cy="88" r="4" fill="#fdba74"><title>09-07 62,370원</title></circle>
-    <circle cx="514" cy="157" r="4" fill="#fdba74"><title>09-08 60,540원</title></circle>
-    <circle cx="588" cy="88" r="5" fill="#ea580c"><title>09-09 62,370원</title></circle>
+    <circle cx="133" cy="88" r="4" fill="#fdba74"><title>09-03 62,370원</title></circle>
+    <circle cx="393" cy="88" r="4" fill="#fdba74"><title>09-07 62,370원</title></circle>
+    <circle cx="458" cy="157" r="4" fill="#fdba74"><title>09-08 60,540원</title></circle>
+    <circle cx="523" cy="88" r="4" fill="#fdba74"><title>09-09 62,370원</title></circle>
+    <circle cx="588" cy="88" r="5" fill="#ea580c"><title>09-10 62,370원</title></circle>
 
     <text x="588" y="76" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">62,370원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
