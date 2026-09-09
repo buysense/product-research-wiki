@@ -20,7 +20,7 @@ description: 룸모 콘낄리에 리가테는 소스를 잘 머금는 조개 모
     "price": "5130",
     "url": "https://link.coupang.com/a/goOHN9cSYu",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,7 +52,7 @@ description: 룸모 콘낄리에 리가테는 소스를 잘 머금는 조개 모
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,22 +61,22 @@ description: 룸모 콘낄리에 리가테는 소스를 잘 머금는 조개 모
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">5,100</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 79 L 95 79 L 123 79 L 150 79 L 177 79 L 205 79 L 232 79 L 260 79 L 287 79 L 314 79 L 342 79 L 369 79 L 396 79 L 424 79 L 451 79 L 479 79 L 506 79 L 533 79 L 561 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 79 L 95 79 L 123 79 L 150 79 L 177 79 L 205 79 L 232 79 L 260 79 L 287 79 L 314 79 L 342 79 L 369 79 L 396 79 L 424 79 L 451 79 L 479 79 L 506 79 L 533 79 L 561 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 79 L 94 79 L 120 79 L 146 79 L 172 79 L 198 79 L 224 79 L 250 79 L 276 79 L 302 79 L 328 79 L 354 79 L 380 79 L 406 79 L 432 79 L 458 79 L 484 79 L 510 79 L 536 79 L 562 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 94 79 L 120 79 L 146 79 L 172 79 L 198 79 L 224 79 L 250 79 L 276 79 L 302 79 L 328 79 L 354 79 L 380 79 L 406 79 L 432 79 L 458 79 L 484 79 L 510 79 L 536 79 L 562 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="79" r="4" fill="#fdba74"><title>08-21 5,130원</title></circle>
-    <circle cx="588" cy="79" r="5" fill="#ea580c"><title>09-09 5,130원</title></circle>
+    <circle cx="588" cy="79" r="5" fill="#ea580c"><title>09-10 5,130원</title></circle>
 
     <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,130원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
