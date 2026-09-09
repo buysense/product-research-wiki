@@ -20,12 +20,12 @@ description: 시디즈 T60 AIR 컴퓨터 사무용 책상 의자는 장시간 �
     "price": "504000",
     "url": "https://link.coupang.com/a/dXaLSghjuC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-17"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 13,
+    "reviewCount": 14,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 시디즈 T60 AIR 컴퓨터 사무용 책상 의자는 장시간 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 504,000원 · 별점 4.9 · 리뷰 13개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 504,000원 · 별점 4.9 · 리뷰 14개</span>
     <a href="https://link.coupang.com/a/dXaLSghjuC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,24 +60,24 @@ description: 시디즈 T60 AIR 컴퓨터 사무용 책상 의자는 장시간 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">500,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">450,000</text>
 
-    <path d="M 68 164 L 86 164 L 104 164 L 122 164 L 140 164 L 158 164 L 176 164 L 194 164 L 211 164 L 229 164 L 247 164 L 265 164 L 283 164 L 301 164 L 319 164 L 337 164 L 355 164 L 373 164 L 391 164 L 409 164 L 427 164 L 445 96 L 462 96 L 480 96 L 498 96 L 516 96 L 534 96 L 552 96 L 570 96 L 588 96 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 164 L 86 164 L 104 164 L 122 164 L 140 164 L 158 164 L 176 164 L 194 164 L 211 164 L 229 164 L 247 164 L 265 164 L 283 164 L 301 164 L 319 164 L 337 164 L 355 164 L 373 164 L 391 164 L 409 164 L 427 164 L 445 96 L 462 96 L 480 96 L 498 96 L 516 96 L 534 96 L 552 96 L 570 96 L 588 96" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="164" r="4" fill="#fdba74"><title>07-24 459,000원</title></circle>
-    <circle cx="427" cy="164" r="4" fill="#fdba74"><title>08-31 459,000원</title></circle>
-    <circle cx="445" cy="96" r="4" fill="#fdba74"><title>09-01 504,000원</title></circle>
-    <circle cx="588" cy="96" r="5" fill="#ea580c"><title>09-09 504,000원</title></circle>
+    <path d="M 68 164 L 86 164 L 104 164 L 122 164 L 140 164 L 158 164 L 176 164 L 194 164 L 211 164 L 229 164 L 247 164 L 265 164 L 283 164 L 301 164 L 319 164 L 337 164 L 355 164 L 373 164 L 391 164 L 409 164 L 427 96 L 445 96 L 462 96 L 480 96 L 498 96 L 516 96 L 534 96 L 552 96 L 570 96 L 588 96 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 164 L 86 164 L 104 164 L 122 164 L 140 164 L 158 164 L 176 164 L 194 164 L 211 164 L 229 164 L 247 164 L 265 164 L 283 164 L 301 164 L 319 164 L 337 164 L 355 164 L 373 164 L 391 164 L 409 164 L 427 96 L 445 96 L 462 96 L 480 96 L 498 96 L 516 96 L 534 96 L 552 96 L 570 96 L 588 96" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="164" r="4" fill="#fdba74"><title>07-25 459,000원</title></circle>
+    <circle cx="409" cy="164" r="4" fill="#fdba74"><title>08-31 459,000원</title></circle>
+    <circle cx="427" cy="96" r="4" fill="#fdba74"><title>09-01 504,000원</title></circle>
+    <circle cx="588" cy="96" r="5" fill="#ea580c"><title>09-10 504,000원</title></circle>
 
     <text x="588" y="84" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">504,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -317,7 +317,7 @@ A. 등판의 메쉬 부분은 부드러운 솔이나 진공청소기로 먼지�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 504,000원 · 별점 4.9 · 리뷰 13개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 504,000원 · 별점 4.9 · 리뷰 14개</span>
     <a href="https://link.coupang.com/a/dXaLSghjuC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
