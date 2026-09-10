@@ -21,7 +21,7 @@ description: 유리창청소도구는 높은 창문, 욕실 거울 등 손 닿�
     "price": "3500",
     "url": "https://link.coupang.com/a/eLrf7yCHgi",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-17"
+    "priceValidUntil": "2026-09-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -61,27 +61,27 @@ description: 유리창청소도구는 높은 창문, 욕실 거울 등 손 닿�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">4,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">2,000</text>
 
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 121 L 319 121 L 337 121 L 355 47 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 121 L 552 121 L 570 121 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 26 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 121 L 319 121 L 337 121 L 355 47 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 121 L 552 121 L 570 121 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-25 6,440원</title></circle>
-    <circle cx="176" cy="26" r="4" fill="#fdba74"><title>08-05 6,440원</title></circle>
-    <circle cx="194" cy="121" r="4" fill="#fdba74"><title>08-19 3,500원</title></circle>
-    <circle cx="337" cy="121" r="4" fill="#fdba74"><title>08-27 3,500원</title></circle>
-    <circle cx="355" cy="47" r="4" fill="#fdba74"><title>08-28 5,440원</title></circle>
-    <circle cx="373" cy="121" r="4" fill="#fdba74"><title>08-29 3,500원</title></circle>
-    <circle cx="588" cy="121" r="5" fill="#ea580c"><title>09-10 3,500원</title></circle>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 121 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 121 L 319 121 L 337 47 L 355 121 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 121 L 552 121 L 570 121 L 588 121 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 86 26 L 104 26 L 122 26 L 140 26 L 158 26 L 176 121 L 194 121 L 211 121 L 229 121 L 247 121 L 265 121 L 283 121 L 301 121 L 319 121 L 337 47 L 355 121 L 373 121 L 391 121 L 409 121 L 427 121 L 445 121 L 462 121 L 480 121 L 498 121 L 516 121 L 534 121 L 552 121 L 570 121 L 588 121" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="26" r="4" fill="#fdba74"><title>07-26 6,440원</title></circle>
+    <circle cx="158" cy="26" r="4" fill="#fdba74"><title>08-05 6,440원</title></circle>
+    <circle cx="176" cy="121" r="4" fill="#fdba74"><title>08-19 3,500원</title></circle>
+    <circle cx="319" cy="121" r="4" fill="#fdba74"><title>08-27 3,500원</title></circle>
+    <circle cx="337" cy="47" r="4" fill="#fdba74"><title>08-28 5,440원</title></circle>
+    <circle cx="355" cy="121" r="4" fill="#fdba74"><title>08-29 3,500원</title></circle>
+    <circle cx="588" cy="121" r="5" fill="#ea580c"><title>09-11 3,500원</title></circle>
 
     <text x="588" y="109" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">3,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
