@@ -21,7 +21,7 @@ description: 바세린 유니레버 바디 밤 오리지널 젤리 스틱은 건
     "price": "8700",
     "url": "https://link.coupang.com/a/gV0COltVi9",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-17"
+    "priceValidUntil": "2026-09-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
