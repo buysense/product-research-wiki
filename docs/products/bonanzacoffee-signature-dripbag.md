@@ -21,7 +21,7 @@ description: 보난자커피 시그니처 에디션 드립백은 집, 사무실,
     "price": "48510",
     "url": "https://link.coupang.com/a/gV0kURarIq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-17"
+    "priceValidUntil": "2026-09-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
