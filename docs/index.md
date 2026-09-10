@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 보난자커피 시그니처 에디션 드립백 | [보기](products/bonanzacoffee-signature-dripbag.md) |
 | 클럽 슷핀 파우더 화이트 플로럴 부케향 | [보기](products/club-suppin-powder-white-floral-bouquet.md) |
 | 마마메 템페 칩스 오리지널 | [보기](products/mamame-tempeh-chips-original.md) |
 | 닛픈 전설의 닭 튀김가루 | [보기](products/nippon-densetsu-karaage-powder.md) |
