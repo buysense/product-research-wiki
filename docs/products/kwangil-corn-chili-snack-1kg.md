@@ -20,12 +20,12 @@ description: 광일식품 옥수수 고추맛콘은 1kg 대용량 옛날과자�
     "price": "8100",
     "url": "https://link.coupang.com/a/fRw1CyMa5I",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-17"
+    "priceValidUntil": "2026-09-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 3729,
+    "reviewCount": 3734,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 광일식품 옥수수 고추맛콘은 1kg 대용량 옛날과자�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,100원 · 별점 4.7 · 리뷰 3,729개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,100원 · 별점 4.7 · 리뷰 3,734개</span>
     <a href="https://link.coupang.com/a/fRw1CyMa5I" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -51,7 +51,7 @@ description: 광일식품 옥수수 고추맛콘은 1kg 대용량 옛날과자�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 27개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,24 +60,24 @@ description: 광일식품 옥수수 고추맛콘은 1kg 대용량 옛날과자�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">7,800</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">7,600</text>
 
-    <path d="M 68 140 L 88 140 L 108 26 L 128 26 L 148 26 L 168 26 L 188 26 L 208 26 L 228 26 L 248 26 L 268 26 L 288 26 L 308 26 L 328 26 L 348 26 L 368 26 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 26 L 508 26 L 528 26 L 548 26 L 568 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 88 140 L 108 26 L 128 26 L 148 26 L 168 26 L 188 26 L 208 26 L 228 26 L 248 26 L 268 26 L 288 26 L 308 26 L 328 26 L 348 26 L 368 26 L 388 26 L 408 26 L 428 26 L 448 26 L 468 26 L 488 26 L 508 26 L 528 26 L 548 26 L 568 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 140 L 87 140 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 26 L 222 26 L 241 26 L 261 26 L 280 26 L 299 26 L 318 26 L 338 26 L 357 26 L 376 26 L 395 26 L 415 26 L 434 26 L 453 26 L 472 26 L 492 26 L 511 26 L 530 26 L 549 26 L 569 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 87 140 L 107 26 L 126 26 L 145 26 L 164 26 L 184 26 L 203 26 L 222 26 L 241 26 L 261 26 L 280 26 L 299 26 L 318 26 L 338 26 L 357 26 L 376 26 L 395 26 L 415 26 L 434 26 L 453 26 L 472 26 L 492 26 L 511 26 L 530 26 L 549 26 L 569 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="140" r="4" fill="#fdba74"><title>08-01 7,700원</title></circle>
-    <circle cx="88" cy="140" r="4" fill="#fdba74"><title>08-02 7,700원</title></circle>
-    <circle cx="108" cy="26" r="4" fill="#fdba74"><title>08-03 8,100원</title></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-10 8,100원</title></circle>
+    <circle cx="87" cy="140" r="4" fill="#fdba74"><title>08-02 7,700원</title></circle>
+    <circle cx="107" cy="26" r="4" fill="#fdba74"><title>08-03 8,100원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-11 8,100원</title></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,100원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="128" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="248" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="408" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="528" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -171,7 +171,7 @@ A. 가장 큰 장점은 1kg의 넉넉한 양과 뛰어난 가성비입니다. �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,100원 · 별점 4.7 · 리뷰 3,729개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,100원 · 별점 4.7 · 리뷰 3,734개</span>
     <a href="https://link.coupang.com/a/fRw1CyMa5I" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
