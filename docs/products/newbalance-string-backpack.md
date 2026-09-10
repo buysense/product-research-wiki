@@ -20,7 +20,7 @@ description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 �
     "price": "95200",
     "url": "https://link.coupang.com/a/eyNW4T",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-17"
+    "priceValidUntil": "2026-09-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,25 +60,25 @@ description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">95,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
 
-    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 99 L 176 171 L 194 99 L 211 99 L 229 99 L 247 99 L 265 99 L 283 99 L 301 99 L 319 99 L 337 99 L 355 99 L 373 99 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 99 L 176 171 L 194 99 L 211 99 L 229 99 L 247 99 L 265 99 L 283 99 L 301 99 L 319 99 L 337 99 L 355 99 L 373 99 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="99" r="4" fill="#fdba74"><title>07-25 95,200원</title></circle>
-    <circle cx="158" cy="99" r="4" fill="#fdba74"><title>08-03 95,200원</title></circle>
-    <circle cx="176" cy="171" r="4" fill="#fdba74"><title>08-04 90,440원</title></circle>
-    <circle cx="194" cy="99" r="4" fill="#fdba74"><title>08-19 95,200원</title></circle>
-    <circle cx="588" cy="99" r="5" fill="#ea580c"><title>09-10 95,200원</title></circle>
+    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 171 L 176 99 L 194 99 L 211 99 L 229 99 L 247 99 L 265 99 L 283 99 L 301 99 L 319 99 L 337 99 L 355 99 L 373 99 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 99 L 86 99 L 104 99 L 122 99 L 140 99 L 158 171 L 176 99 L 194 99 L 211 99 L 229 99 L 247 99 L 265 99 L 283 99 L 301 99 L 319 99 L 337 99 L 355 99 L 373 99 L 391 99 L 409 99 L 427 99 L 445 99 L 462 99 L 480 99 L 498 99 L 516 99 L 534 99 L 552 99 L 570 99 L 588 99" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="99" r="4" fill="#fdba74"><title>07-26 95,200원</title></circle>
+    <circle cx="140" cy="99" r="4" fill="#fdba74"><title>08-03 95,200원</title></circle>
+    <circle cx="158" cy="171" r="4" fill="#fdba74"><title>08-04 90,440원</title></circle>
+    <circle cx="176" cy="99" r="4" fill="#fdba74"><title>08-19 95,200원</title></circle>
+    <circle cx="588" cy="99" r="5" fill="#ea580c"><title>09-11 95,200원</title></circle>
 
     <text x="588" y="87" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">95,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
