@@ -21,7 +21,7 @@ description: ISDG 중화방 마라탕은 집에서 간편하게 중화풍 마라
     "price": "5500",
     "url": "https://link.coupang.com/a/gV0LG14aaW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-17"
+    "priceValidUntil": "2026-09-18"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
