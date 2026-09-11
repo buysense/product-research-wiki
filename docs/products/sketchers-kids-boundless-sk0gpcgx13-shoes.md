@@ -20,12 +20,12 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
     "price": "49000",
     "url": "https://link.coupang.com/a/e5cvl2EOTQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-18"
+    "priceValidUntil": "2026-09-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 134,
+    "reviewCount": 135,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 49,000원 · 별점 4.8 · 리뷰 134개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 49,000원 · 별점 4.8 · 리뷰 135개</span>
     <a href="https://link.coupang.com/a/e5cvl2EOTQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -60,30 +60,29 @@ description: 스케쳐스키즈 바운드리스 운동화 SK0GPCGX13은 초등�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 170 L 86 102 L 104 102 L 122 102 L 140 170 L 158 116 L 176 41 L 194 93 L 211 93 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 41 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 170 L 86 102 L 104 102 L 122 102 L 140 170 L 158 116 L 176 41 L 194 93 L 211 93 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 41 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="170" r="4" fill="#fdba74"><title>07-26 40,500원</title></circle>
-    <circle cx="86" cy="102" r="4" fill="#fdba74"><title>07-30 45,000원</title></circle>
-    <circle cx="122" cy="102" r="4" fill="#fdba74"><title>08-02 45,000원</title></circle>
-    <circle cx="140" cy="170" r="4" fill="#fdba74"><title>08-03 40,500원</title></circle>
-    <circle cx="158" cy="116" r="4" fill="#fdba74"><title>08-05 44,100원</title></circle>
-    <circle cx="176" cy="41" r="4" fill="#fdba74"><title>08-19 49,000원</title></circle>
-    <circle cx="194" cy="93" r="4" fill="#fdba74"><title>08-20 45,570원</title></circle>
-    <circle cx="211" cy="93" r="4" fill="#fdba74"><title>08-21 45,570원</title></circle>
-    <circle cx="229" cy="41" r="4" fill="#fdba74"><title>08-22 49,000원</title></circle>
-    <circle cx="588" cy="41" r="5" fill="#ea580c"><title>09-11 49,000원</title></circle>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 170 L 140 116 L 158 41 L 176 93 L 194 93 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 41 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 170 L 140 116 L 158 41 L 176 93 L 194 93 L 211 41 L 229 41 L 247 41 L 265 41 L 283 41 L 301 41 L 319 41 L 337 41 L 355 41 L 373 41 L 391 41 L 409 41 L 427 41 L 445 41 L 462 41 L 480 41 L 498 41 L 516 41 L 534 41 L 552 41 L 570 41 L 588 41" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-30 45,000원</title></circle>
+    <circle cx="104" cy="102" r="4" fill="#fdba74"><title>08-02 45,000원</title></circle>
+    <circle cx="122" cy="170" r="4" fill="#fdba74"><title>08-03 40,500원</title></circle>
+    <circle cx="140" cy="116" r="4" fill="#fdba74"><title>08-05 44,100원</title></circle>
+    <circle cx="158" cy="41" r="4" fill="#fdba74"><title>08-19 49,000원</title></circle>
+    <circle cx="176" cy="93" r="4" fill="#fdba74"><title>08-20 45,570원</title></circle>
+    <circle cx="194" cy="93" r="4" fill="#fdba74"><title>08-21 45,570원</title></circle>
+    <circle cx="211" cy="41" r="4" fill="#fdba74"><title>08-22 49,000원</title></circle>
+    <circle cx="588" cy="41" r="5" fill="#ea580c"><title>09-12 49,000원</title></circle>
 
     <text x="588" y="29" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">49,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -221,7 +220,7 @@ A. 메쉬 소재의 가장 큰 장점은 뛰어난 통기성으로 발에 땀이
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 49,000원 · 별점 4.8 · 리뷰 134개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 49,000원 · 별점 4.8 · 리뷰 135개</span>
     <a href="https://link.coupang.com/a/e5cvl2EOTQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
