@@ -10,7 +10,6 @@ description: 농심 사리곰탕 큰사발면은 깊고 진한 사골 육수 맛
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "농심 사리곰탕 큰사발면",
-  "description": "농심 사리곰탕 큰사발면은 깊고 진한 사골 육수 맛이 특징인 컵라면으로, 간편한 한 끼 식사, 야식, 해장용으로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/111493556866563-7b70da52-68ad-45d6-97e9-3a3a13b696c4.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/462771767538348-7fecd14f-8e23-4dbc-9c66-4773d62dd827.jpg"
@@ -21,7 +20,7 @@ description: 농심 사리곰탕 큰사발면은 깊고 진한 사골 육수 맛
     "price": "17860",
     "url": "https://link.coupang.com/a/gXBtxbUHRs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-18"
+    "priceValidUntil": "2026-09-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
