@@ -10,7 +10,6 @@ description: 백제 쌀국수 얼큰한맛은 간편하게 즐길 수 있는 매
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "백제 쌀국수 얼큰한맛",
-  "description": "백제 쌀국수 얼큰한맛은 간편하게 즐길 수 있는 매콤한 맛의 인스턴트 쌀국수로, 빠른 한 끼 식사나 야식으로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/a85142f6-25c6-42c8-bac9-af9258b2de04_fixing_v2.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d8c5/035da26556f28528f24e4f92fe0a2ab9a07150e8cee97d0a2c2c19bb8f16.jpg"
@@ -21,12 +20,12 @@ description: 백제 쌀국수 얼큰한맛은 간편하게 즐길 수 있는 매
     "price": "30400",
     "url": "https://link.coupang.com/a/gXBD3b3CY8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-18"
+    "priceValidUntil": "2026-09-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 7059,
+    "reviewCount": 7063,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +43,7 @@ description: 백제 쌀국수 얼큰한맛은 간편하게 즐길 수 있는 매
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 30,400원 · 별점 4.6 · 리뷰 7,059개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 30,400원 · 별점 4.6 · 리뷰 7,063개</span>
     <a href="https://link.coupang.com/a/gXBD3b3CY8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -142,7 +141,7 @@ A. 제품 자체로도 충분히 맛있지만, 기호에 따라 계란, 송송 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 30,400원 · 별점 4.6 · 리뷰 7,059개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 30,400원 · 별점 4.6 · 리뷰 7,063개</span>
     <a href="https://link.coupang.com/a/gXBD3b3CY8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
