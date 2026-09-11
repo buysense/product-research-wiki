@@ -10,7 +10,6 @@ description: 동화CNF 미니약과는 쫄깃한 식감과 달콤한 맛이 특�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "동화CNF 미니약과",
-  "description": "동화CNF 미니약과는 쫄깃한 식감과 달콤한 맛이 특징인 한입 크기 약과로, 간식, 선물, 디저트 등 다양한 상황에서 부담 없이 즐기기 좋은 전통 과자입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6990/11801be374dcc3442fdef6cabfd333fc194a804fab146876495d55a27d73.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ba00/61a07b6b0030712e2734848ae56061d6be4bda55e63ff9430d8bef6b76e8.jpg"
@@ -21,7 +20,7 @@ description: 동화CNF 미니약과는 쫄깃한 식감과 달콤한 맛이 특�
     "price": "19400",
     "url": "https://link.coupang.com/a/gXzr6Ym7ye",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-18"
+    "priceValidUntil": "2026-09-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
