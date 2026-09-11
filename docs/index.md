@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 동화CNF 미니약과 | [보기](products/donghwa-cnf-mini-yakgwa.md) |
 | ISDG 중화방 마라탕 | [보기](products/isdg-zhonghuafang-malatang.md) |
 | 바세린 유니레버 바디 밤 오리지널 젤리 스틱 | [보기](products/vaseline-unilever-body-balm-original-jelly-stick.md) |
 | 보난자커피 시그니처 에디션 드립백 | [보기](products/bonanzacoffee-signature-dripbag.md) |
