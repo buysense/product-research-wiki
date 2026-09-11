@@ -20,7 +20,7 @@ description: 유아용 곰돌이 다용도 플레이매트 볼풀장은 활동�
     "price": "34900",
     "url": "https://link.coupang.com/a/eOq6dOCaIe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-18"
+    "priceValidUntil": "2026-09-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -56,27 +56,26 @@ description: 유아용 곰돌이 다용도 플레이매트 볼풀장은 활동�
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">36,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">34,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">32,000</text>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">34,900</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">34,800</text>
 
-    <path d="M 68 176 L 86 68 L 104 68 L 122 68 L 140 68 L 158 68 L 176 68 L 194 68 L 211 68 L 229 68 L 247 68 L 265 68 L 283 68 L 301 68 L 319 68 L 337 68 L 355 68 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 68 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 176 L 86 68 L 104 68 L 122 68 L 140 68 L 158 68 L 176 68 L 194 68 L 211 68 L 229 68 L 247 68 L 265 68 L 283 68 L 301 68 L 319 68 L 337 68 L 355 68 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 68" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="176" r="4" fill="#fdba74"><title>07-31 32,050원</title></circle>
-    <circle cx="86" cy="68" r="4" fill="#fdba74"><title>08-01 34,900원</title></circle>
-    <circle cx="588" cy="68" r="5" fill="#ea580c"><title>09-11 34,900원</title></circle>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 86 102 L 104 102 L 122 102 L 140 102 L 158 102 L 176 102 L 194 102 L 211 102 L 229 102 L 247 102 L 265 102 L 283 102 L 301 102 L 319 102 L 337 102 L 355 102 L 373 102 L 391 102 L 409 102 L 427 102 L 445 102 L 462 102 L 480 102 L 498 102 L 516 102 L 534 102 L 552 102 L 570 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>08-01 34,900원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-12 34,900원</title></circle>
 
-    <text x="588" y="56" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">34,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
