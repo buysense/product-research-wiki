@@ -20,7 +20,7 @@ description: 해피키드 회전하는 물고기는 유아의 시각 및 소근�
     "price": "10410",
     "url": "https://link.coupang.com/a/eBr0jdQ5K0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-18"
+    "priceValidUntil": "2026-09-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,24 +60,23 @@ description: 해피키드 회전하는 물고기는 유아의 시각 및 소근�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,400</text>
 
-    <path d="M 68 87 L 86 87 L 104 170 L 122 170 L 140 170 L 158 170 L 176 170 L 194 170 L 211 170 L 229 170 L 247 170 L 265 170 L 283 170 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 170 L 409 170 L 427 170 L 445 170 L 462 170 L 480 170 L 498 170 L 516 170 L 534 170 L 552 170 L 570 170 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 87 L 86 87 L 104 170 L 122 170 L 140 170 L 158 170 L 176 170 L 194 170 L 211 170 L 229 170 L 247 170 L 265 170 L 283 170 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 170 L 409 170 L 427 170 L 445 170 L 462 170 L 480 170 L 498 170 L 516 170 L 534 170 L 552 170 L 570 170 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="87" r="4" fill="#fdba74"><title>07-31 10,520원</title></circle>
-    <circle cx="86" cy="87" r="4" fill="#fdba74"><title>08-01 10,520원</title></circle>
-    <circle cx="104" cy="170" r="4" fill="#fdba74"><title>08-02 10,410원</title></circle>
-    <circle cx="588" cy="170" r="5" fill="#ea580c"><title>09-11 10,410원</title></circle>
+    <path d="M 68 87 L 86 170 L 104 170 L 122 170 L 140 170 L 158 170 L 176 170 L 194 170 L 211 170 L 229 170 L 247 170 L 265 170 L 283 170 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 170 L 409 170 L 427 170 L 445 170 L 462 170 L 480 170 L 498 170 L 516 170 L 534 170 L 552 170 L 570 170 L 588 170 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 87 L 86 170 L 104 170 L 122 170 L 140 170 L 158 170 L 176 170 L 194 170 L 211 170 L 229 170 L 247 170 L 265 170 L 283 170 L 301 170 L 319 170 L 337 170 L 355 170 L 373 170 L 391 170 L 409 170 L 427 170 L 445 170 L 462 170 L 480 170 L 498 170 L 516 170 L 534 170 L 552 170 L 570 170 L 588 170" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="87" r="4" fill="#fdba74"><title>08-01 10,520원</title></circle>
+    <circle cx="86" cy="170" r="4" fill="#fdba74"><title>08-02 10,410원</title></circle>
+    <circle cx="588" cy="170" r="5" fill="#ea580c"><title>09-12 10,410원</title></circle>
 
     <text x="588" y="158" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,410원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
