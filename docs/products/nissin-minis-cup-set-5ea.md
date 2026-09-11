@@ -20,12 +20,12 @@ description: 닛신 미니즈 컵 세트 (5개입)는 5가지 인기 일본 미�
     "price": "8630",
     "url": "https://link.coupang.com/a/fPDGkvxNNA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-18"
+    "priceValidUntil": "2026-09-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 534,
+    "reviewCount": 537,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 닛신 미니즈 컵 세트 (5개입)는 5가지 인기 일본 미�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,630원 · 별점 4.7 · 리뷰 534개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,630원 · 별점 4.7 · 리뷰 537개</span>
     <a href="https://link.coupang.com/a/fPDGkvxNNA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -51,7 +51,7 @@ description: 닛신 미니즈 컵 세트 (5개입)는 5가지 인기 일본 미�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,29 +60,29 @@ description: 닛신 미니즈 컵 세트 (5개입)는 5가지 인기 일본 미�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,000</text>
 
-    <path d="M 68 166 L 87 79 L 107 79 L 126 79 L 145 108 L 164 108 L 184 108 L 203 108 L 222 108 L 241 108 L 261 127 L 280 127 L 299 127 L 318 127 L 338 127 L 357 127 L 376 127 L 395 123 L 415 123 L 434 123 L 453 123 L 472 123 L 492 123 L 511 123 L 530 123 L 549 123 L 569 123 L 588 123 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 166 L 87 79 L 107 79 L 126 79 L 145 108 L 164 108 L 184 108 L 203 108 L 222 108 L 241 108 L 261 127 L 280 127 L 299 127 L 318 127 L 338 127 L 357 127 L 376 127 L 395 123 L 415 123 L 434 123 L 453 123 L 472 123 L 492 123 L 511 123 L 530 123 L 549 123 L 569 123 L 588 123" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 166 L 87 79 L 105 79 L 124 79 L 142 108 L 161 108 L 179 108 L 198 108 L 217 108 L 235 108 L 254 127 L 272 127 L 291 127 L 309 127 L 328 127 L 347 127 L 365 127 L 384 123 L 402 123 L 421 123 L 439 123 L 458 123 L 477 123 L 495 123 L 514 123 L 532 123 L 551 123 L 569 123 L 588 123 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 166 L 87 79 L 105 79 L 124 79 L 142 108 L 161 108 L 179 108 L 198 108 L 217 108 L 235 108 L 254 127 L 272 127 L 291 127 L 309 127 L 328 127 L 347 127 L 365 127 L 384 123 L 402 123 L 421 123 L 439 123 L 458 123 L 477 123 L 495 123 L 514 123 L 532 123 L 551 123 L 569 123 L 588 123" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="166" r="4" fill="#fdba74"><title>07-31 5,810원</title></circle>
     <circle cx="87" cy="79" r="4" fill="#fdba74"><title>08-02 11,500원</title></circle>
-    <circle cx="126" cy="79" r="4" fill="#fdba74"><title>08-04 11,500원</title></circle>
-    <circle cx="145" cy="108" r="4" fill="#fdba74"><title>08-19 9,590원</title></circle>
-    <circle cx="241" cy="108" r="4" fill="#fdba74"><title>08-24 9,590원</title></circle>
-    <circle cx="261" cy="127" r="4" fill="#fdba74"><title>08-25 8,340원</title></circle>
-    <circle cx="376" cy="127" r="4" fill="#fdba74"><title>08-31 8,340원</title></circle>
-    <circle cx="395" cy="123" r="4" fill="#fdba74"><title>09-01 8,630원</title></circle>
-    <circle cx="588" cy="123" r="5" fill="#ea580c"><title>09-11 8,630원</title></circle>
+    <circle cx="124" cy="79" r="4" fill="#fdba74"><title>08-04 11,500원</title></circle>
+    <circle cx="142" cy="108" r="4" fill="#fdba74"><title>08-19 9,590원</title></circle>
+    <circle cx="235" cy="108" r="4" fill="#fdba74"><title>08-24 9,590원</title></circle>
+    <circle cx="254" cy="127" r="4" fill="#fdba74"><title>08-25 8,340원</title></circle>
+    <circle cx="365" cy="127" r="4" fill="#fdba74"><title>08-31 8,340원</title></circle>
+    <circle cx="384" cy="123" r="4" fill="#fdba74"><title>09-01 8,630원</title></circle>
+    <circle cx="588" cy="123" r="5" fill="#ea580c"><title>09-12 8,630원</title></circle>
 
     <text x="588" y="111" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,630원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -177,7 +177,7 @@ A. 대부분의 일본 컵라면과 같이 전자레인지 조리용이 아니�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,630원 · 별점 4.7 · 리뷰 534개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,630원 · 별점 4.7 · 리뷰 537개</span>
     <a href="https://link.coupang.com/a/fPDGkvxNNA" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
