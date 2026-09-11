@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 농심 사리곰탕 큰사발면 | [보기](products/nongshim-sarigomtang-cup-noodle.md) |
 | 삼립 미니꿀 약과 | [보기](products/samlip-minihoney-yakgwa.md) |
 | 동화CNF 미니약과 | [보기](products/donghwa-cnf-mini-yakgwa.md) |
 | ISDG 중화방 마라탕 | [보기](products/isdg-zhonghuafang-malatang.md) |
