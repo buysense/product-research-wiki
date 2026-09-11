@@ -10,7 +10,6 @@ description: 보난자커피 시그니처 에디션 드립백은 집, 사무실,
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "보난자커피 시그니처 에디션 드립백",
-  "description": "보난자커피 시그니처 에디션 드립백은 집, 사무실, 여행지 등 언제 어디서든 간편하게 고품질 커피를 즐기기 위한 제품입니다. 바쁜 일상 속에서 특별한 커피 경험을 선사합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/02/18/6/57d6ff7d-5d85-4d4b-82f9-b0a826303888.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/02/18/7/067ce8f5-beed-4a88-af33-a6d4158f74f5.jpg"
@@ -21,7 +20,7 @@ description: 보난자커피 시그니처 에디션 드립백은 집, 사무실,
     "price": "48510",
     "url": "https://link.coupang.com/a/gV0kURarIq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-18"
+    "priceValidUntil": "2026-09-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -51,6 +50,29 @@ description: 보난자커피 시그니처 에디션 드립백은 집, 사무실,
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">48,600</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">48,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">48,400</text>
+
+    <path d="M 68 94 L 328 94 L 588 94 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 94 L 328 94 L 588 94" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="94" r="4" fill="#fdba74"><title>09-10 48,510원</title></circle>
+    <circle cx="588" cy="94" r="5" fill="#ea580c"><title>09-12 48,510원</title></circle>
+
+    <text x="588" y="82" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">48,510원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요
