@@ -10,7 +10,6 @@ description: 삼립 미니꿀 약과는 한입 크기로 즐기기 좋은 달콤
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "삼립 미니꿀 약과",
-  "description": "삼립 미니꿀 약과는 한입 크기로 즐기기 좋은 달콤한 전통 간식으로, 일상 스낵이나 손님 접대용으로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2e5c/44468febe16f83e3cd63f6621c0850882adfba06d7c8a03b2e56877f72ce.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8ea4/e77a55cfab4c2785a863075b7e918bf90e4496e54ddd4908df5dc6c50259.png"
@@ -21,12 +20,12 @@ description: 삼립 미니꿀 약과는 한입 크기로 즐기기 좋은 달콤
     "price": "12730",
     "url": "https://link.coupang.com/a/gXzCVJfWcC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-18"
+    "priceValidUntil": "2026-09-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 67083,
+    "reviewCount": 67137,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +43,7 @@ description: 삼립 미니꿀 약과는 한입 크기로 즐기기 좋은 달콤
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,730원 · 별점 4.7 · 리뷰 67,083개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 12,730원 · 별점 4.7 · 리뷰 67,137개</span>
     <a href="https://link.coupang.com/a/gXzCVJfWcC" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -142,7 +141,7 @@ A. 꿀이 들어가 있어 단맛이 명확하게 느껴지는 편입니다. 일
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,730원 · 별점 4.7 · 리뷰 67,083개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 12,730원 · 별점 4.7 · 리뷰 67,137개</span>
     <a href="https://link.coupang.com/a/gXzCVJfWcC" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
