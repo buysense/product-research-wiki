@@ -17,15 +17,15 @@ description: 나우푸드 실리마린 밀크 시슬 추출물은 야근과 피�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "25370",
+    "price": "25650",
     "url": "https://link.coupang.com/a/fZtcYhuRtQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-18"
+    "priceValidUntil": "2026-09-19"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 72854,
+    "reviewCount": 72890,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -42,7 +42,7 @@ description: 나우푸드 실리마린 밀크 시슬 추출물은 야근과 피�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 25,370원 · 별점 4.8 · 리뷰 72,854개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 25,650원 · 별점 4.8 · 리뷰 72,890개</span>
     <a href="https://link.coupang.com/a/fZtcYhuRtQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -51,7 +51,7 @@ description: 나우푸드 실리마린 밀크 시슬 추출물은 야근과 피�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -60,42 +60,43 @@ description: 나우푸드 실리마린 밀크 시슬 추출물은 야근과 피�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">26,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
 
-    <path d="M 68 62 L 90 26 L 111 26 L 133 61 L 155 90 L 176 90 L 198 91 L 220 91 L 241 37 L 263 85 L 285 40 L 306 94 L 328 41 L 350 41 L 371 41 L 393 88 L 415 88 L 436 88 L 458 102 L 480 115 L 501 122 L 523 122 L 545 122 L 566 122 L 588 126 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 62 L 90 26 L 111 26 L 133 61 L 155 90 L 176 90 L 198 91 L 220 91 L 241 37 L 263 85 L 285 40 L 306 94 L 328 41 L 350 41 L 371 41 L 393 88 L 415 88 L 436 88 L 458 102 L 480 115 L 501 122 L 523 122 L 545 122 L 566 122 L 588 126" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 62 L 89 26 L 110 26 L 130 61 L 151 90 L 172 90 L 193 91 L 214 91 L 234 37 L 255 85 L 276 40 L 297 94 L 318 41 L 338 41 L 359 41 L 380 88 L 401 88 L 422 88 L 442 102 L 463 115 L 484 122 L 505 122 L 526 122 L 546 122 L 567 126 L 588 115 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 62 L 89 26 L 110 26 L 130 61 L 151 90 L 172 90 L 193 91 L 214 91 L 234 37 L 255 85 L 276 40 L 297 94 L 318 41 L 338 41 L 359 41 L 380 88 L 401 88 L 422 88 L 442 102 L 463 115 L 484 122 L 505 122 L 526 122 L 546 122 L 567 126 L 588 115" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="62" r="4" fill="#fdba74"><title>08-06 27,060원</title></circle>
-    <circle cx="90" cy="26" r="4" fill="#fdba74"><title>08-19 28,300원</title></circle>
-    <circle cx="111" cy="26" r="4" fill="#fdba74"><title>08-20 28,280원</title></circle>
-    <circle cx="133" cy="61" r="4" fill="#fdba74"><title>08-21 27,070원</title></circle>
-    <circle cx="155" cy="90" r="4" fill="#fdba74"><title>08-22 26,320원</title></circle>
-    <circle cx="176" cy="90" r="4" fill="#fdba74"><title>08-23 26,320원</title></circle>
-    <circle cx="198" cy="91" r="4" fill="#fdba74"><title>08-24 26,280원</title></circle>
-    <circle cx="220" cy="91" r="4" fill="#fdba74"><title>08-25 26,280원</title></circle>
-    <circle cx="241" cy="37" r="4" fill="#fdba74"><title>08-26 27,700원</title></circle>
-    <circle cx="263" cy="85" r="4" fill="#fdba74"><title>08-27 26,440원</title></circle>
-    <circle cx="285" cy="40" r="4" fill="#fdba74"><title>08-28 27,620원</title></circle>
-    <circle cx="306" cy="94" r="4" fill="#fdba74"><title>08-29 26,200원</title></circle>
-    <circle cx="328" cy="41" r="4" fill="#fdba74"><title>08-30 27,600원</title></circle>
-    <circle cx="371" cy="41" r="4" fill="#fdba74"><title>09-01 27,600원</title></circle>
-    <circle cx="393" cy="88" r="4" fill="#fdba74"><title>09-02 26,380원</title></circle>
-    <circle cx="436" cy="88" r="4" fill="#fdba74"><title>09-04 26,380원</title></circle>
-    <circle cx="458" cy="102" r="4" fill="#fdba74"><title>09-05 26,010원</title></circle>
-    <circle cx="480" cy="115" r="4" fill="#fdba74"><title>09-06 25,670원</title></circle>
-    <circle cx="501" cy="122" r="4" fill="#fdba74"><title>09-07 25,480원</title></circle>
-    <circle cx="545" cy="122" r="4" fill="#fdba74"><title>09-09 25,480원</title></circle>
-    <circle cx="566" cy="122" r="4" fill="#fdba74"><title>09-10 25,470원</title></circle>
-    <circle cx="588" cy="126" r="5" fill="#ea580c"><title>09-11 25,370원</title></circle>
+    <circle cx="89" cy="26" r="4" fill="#fdba74"><title>08-19 28,300원</title></circle>
+    <circle cx="110" cy="26" r="4" fill="#fdba74"><title>08-20 28,280원</title></circle>
+    <circle cx="130" cy="61" r="4" fill="#fdba74"><title>08-21 27,070원</title></circle>
+    <circle cx="151" cy="90" r="4" fill="#fdba74"><title>08-22 26,320원</title></circle>
+    <circle cx="172" cy="90" r="4" fill="#fdba74"><title>08-23 26,320원</title></circle>
+    <circle cx="193" cy="91" r="4" fill="#fdba74"><title>08-24 26,280원</title></circle>
+    <circle cx="214" cy="91" r="4" fill="#fdba74"><title>08-25 26,280원</title></circle>
+    <circle cx="234" cy="37" r="4" fill="#fdba74"><title>08-26 27,700원</title></circle>
+    <circle cx="255" cy="85" r="4" fill="#fdba74"><title>08-27 26,440원</title></circle>
+    <circle cx="276" cy="40" r="4" fill="#fdba74"><title>08-28 27,620원</title></circle>
+    <circle cx="297" cy="94" r="4" fill="#fdba74"><title>08-29 26,200원</title></circle>
+    <circle cx="318" cy="41" r="4" fill="#fdba74"><title>08-30 27,600원</title></circle>
+    <circle cx="359" cy="41" r="4" fill="#fdba74"><title>09-01 27,600원</title></circle>
+    <circle cx="380" cy="88" r="4" fill="#fdba74"><title>09-02 26,380원</title></circle>
+    <circle cx="422" cy="88" r="4" fill="#fdba74"><title>09-04 26,380원</title></circle>
+    <circle cx="442" cy="102" r="4" fill="#fdba74"><title>09-05 26,010원</title></circle>
+    <circle cx="463" cy="115" r="4" fill="#fdba74"><title>09-06 25,670원</title></circle>
+    <circle cx="484" cy="122" r="4" fill="#fdba74"><title>09-07 25,480원</title></circle>
+    <circle cx="526" cy="122" r="4" fill="#fdba74"><title>09-09 25,480원</title></circle>
+    <circle cx="546" cy="122" r="4" fill="#fdba74"><title>09-10 25,470원</title></circle>
+    <circle cx="567" cy="126" r="4" fill="#fdba74"><title>09-11 25,370원</title></circle>
+    <circle cx="588" cy="115" r="5" fill="#ea580c"><title>09-12 25,650원</title></circle>
 
-    <text x="588" y="114" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">25,370원</text>
+    <text x="588" y="103" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">25,650원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-06</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -185,7 +186,7 @@ A. 이 제품은 간 건강 핵심 성분 위주로 구성되어 불필요한 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 25,370원 · 별점 4.8 · 리뷰 72,854개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 25,650원 · 별점 4.8 · 리뷰 72,890개</span>
     <a href="https://link.coupang.com/a/fZtcYhuRtQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
