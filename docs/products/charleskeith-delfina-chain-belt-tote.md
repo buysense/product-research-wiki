@@ -19,7 +19,7 @@ description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세�
     "price": "129200",
     "url": "https://link.coupang.com/a/fb9V8Zz1iv",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -59,26 +59,26 @@ description: 찰스앤키스 델피나 체인 사이드 벨트 토트백은 세�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 66 L 86 66 L 104 66 L 122 66 L 140 66 L 158 66 L 176 66 L 194 66 L 211 66 L 229 66 L 247 66 L 265 66 L 283 66 L 301 66 L 319 66 L 337 66 L 355 66 L 373 66 L 391 66 L 409 66 L 427 66 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 134 L 552 134 L 570 134 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 66 L 86 66 L 104 66 L 122 66 L 140 66 L 158 66 L 176 66 L 194 66 L 211 66 L 229 66 L 247 66 L 265 66 L 283 66 L 301 66 L 319 66 L 337 66 L 355 66 L 373 66 L 391 66 L 409 66 L 427 66 L 445 140 L 462 140 L 480 140 L 498 140 L 516 140 L 534 134 L 552 134 L 570 134 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="66" r="4" fill="#fdba74"><title>08-01 173,700원</title></circle>
-    <circle cx="427" cy="66" r="4" fill="#fdba74"><title>09-03 173,700원</title></circle>
-    <circle cx="445" cy="140" r="4" fill="#fdba74"><title>09-04 125,000원</title></circle>
-    <circle cx="516" cy="140" r="4" fill="#fdba74"><title>09-08 125,000원</title></circle>
-    <circle cx="534" cy="134" r="4" fill="#fdba74"><title>09-09 129,200원</title></circle>
-    <circle cx="588" cy="134" r="5" fill="#ea580c"><title>09-12 129,200원</title></circle>
+    <path d="M 68 66 L 86 66 L 104 66 L 122 66 L 140 66 L 158 66 L 176 66 L 194 66 L 211 66 L 229 66 L 247 66 L 265 66 L 283 66 L 301 66 L 319 66 L 337 66 L 355 66 L 373 66 L 391 66 L 409 66 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 134 L 534 134 L 552 134 L 570 134 L 588 134 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 66 L 86 66 L 104 66 L 122 66 L 140 66 L 158 66 L 176 66 L 194 66 L 211 66 L 229 66 L 247 66 L 265 66 L 283 66 L 301 66 L 319 66 L 337 66 L 355 66 L 373 66 L 391 66 L 409 66 L 427 140 L 445 140 L 462 140 L 480 140 L 498 140 L 516 134 L 534 134 L 552 134 L 570 134 L 588 134" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="66" r="4" fill="#fdba74"><title>08-02 173,700원</title></circle>
+    <circle cx="409" cy="66" r="4" fill="#fdba74"><title>09-03 173,700원</title></circle>
+    <circle cx="427" cy="140" r="4" fill="#fdba74"><title>09-04 125,000원</title></circle>
+    <circle cx="498" cy="140" r="4" fill="#fdba74"><title>09-08 125,000원</title></circle>
+    <circle cx="516" cy="134" r="4" fill="#fdba74"><title>09-09 129,200원</title></circle>
+    <circle cx="588" cy="134" r="5" fill="#ea580c"><title>09-13 129,200원</title></circle>
 
     <text x="588" y="122" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">129,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
