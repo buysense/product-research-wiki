@@ -17,15 +17,15 @@ description: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스는 2025�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "50100",
+    "price": "50080",
     "url": "https://link.coupang.com/a/ejmtdY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.6,
-    "reviewCount": 208,
+    "ratingValue": 4.7,
+    "reviewCount": 1815,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -40,7 +40,7 @@ description: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스는 2025�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 50,100원 · 별점 4.6 · 리뷰 208개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 50,080원 · 별점 4.7 · 리뷰 1,815개</span>
     <a href="https://link.coupang.com/a/ejmtdY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -58,30 +58,30 @@ description: 다니엘트루스 오일 퍼퓸 시그니처 밤쉘루스는 2025�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 88 L 86 129 L 104 129 L 122 129 L 140 88 L 158 176 L 176 176 L 194 176 L 211 176 L 229 176 L 247 176 L 265 176 L 283 176 L 301 176 L 319 176 L 337 176 L 355 176 L 373 176 L 391 176 L 409 176 L 427 176 L 445 176 L 462 176 L 480 176 L 498 176 L 516 176 L 534 176 L 552 176 L 570 176 L 588 176 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 88 L 86 129 L 104 129 L 122 129 L 140 88 L 158 176 L 176 176 L 194 176 L 211 176 L 229 176 L 247 176 L 265 176 L 283 176 L 301 176 L 319 176 L 337 176 L 355 176 L 373 176 L 391 176 L 409 176 L 427 176 L 445 176 L 462 176 L 480 176 L 498 176 L 516 176 L 534 176 L 552 176 L 570 176 L 588 176" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="88" r="4" fill="#fdba74"><title>08-01 55,900원</title></circle>
-    <circle cx="86" cy="129" r="4" fill="#fdba74"><title>08-02 53,200원</title></circle>
-    <circle cx="122" cy="129" r="4" fill="#fdba74"><title>08-04 53,200원</title></circle>
-    <circle cx="140" cy="88" r="4" fill="#fdba74"><title>08-05 55,900원</title></circle>
-    <circle cx="158" cy="176" r="4" fill="#fdba74"><title>08-19 50,120원</title></circle>
-    <circle cx="265" cy="176" r="4" fill="#fdba74"><title>08-25 50,120원</title></circle>
-    <circle cx="283" cy="176" r="4" fill="#fdba74"><title>08-26 50,110원</title></circle>
-    <circle cx="373" cy="176" r="4" fill="#fdba74"><title>08-31 50,110원</title></circle>
-    <circle cx="391" cy="176" r="4" fill="#fdba74"><title>09-01 50,100원</title></circle>
-    <circle cx="588" cy="176" r="5" fill="#ea580c"><title>09-12 50,100원</title></circle>
+    <path d="M 68 129 L 86 129 L 104 129 L 122 88 L 140 176 L 158 176 L 176 176 L 194 176 L 211 176 L 229 176 L 247 176 L 265 176 L 283 176 L 301 176 L 319 176 L 337 176 L 355 176 L 373 176 L 391 176 L 409 176 L 427 176 L 445 176 L 462 176 L 480 176 L 498 176 L 516 176 L 534 176 L 552 176 L 570 176 L 588 177 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 129 L 86 129 L 104 129 L 122 88 L 140 176 L 158 176 L 176 176 L 194 176 L 211 176 L 229 176 L 247 176 L 265 176 L 283 176 L 301 176 L 319 176 L 337 176 L 355 176 L 373 176 L 391 176 L 409 176 L 427 176 L 445 176 L 462 176 L 480 176 L 498 176 L 516 176 L 534 176 L 552 176 L 570 176 L 588 177" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="129" r="4" fill="#fdba74"><title>08-02 53,200원</title></circle>
+    <circle cx="104" cy="129" r="4" fill="#fdba74"><title>08-04 53,200원</title></circle>
+    <circle cx="122" cy="88" r="4" fill="#fdba74"><title>08-05 55,900원</title></circle>
+    <circle cx="140" cy="176" r="4" fill="#fdba74"><title>08-19 50,120원</title></circle>
+    <circle cx="247" cy="176" r="4" fill="#fdba74"><title>08-25 50,120원</title></circle>
+    <circle cx="265" cy="176" r="4" fill="#fdba74"><title>08-26 50,110원</title></circle>
+    <circle cx="355" cy="176" r="4" fill="#fdba74"><title>08-31 50,110원</title></circle>
+    <circle cx="373" cy="176" r="4" fill="#fdba74"><title>09-01 50,100원</title></circle>
+    <circle cx="570" cy="176" r="4" fill="#fdba74"><title>09-12 50,100원</title></circle>
+    <circle cx="588" cy="177" r="5" fill="#ea580c"><title>09-13 50,080원</title></circle>
 
-    <text x="588" y="164" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">50,100원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="588" y="165" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">50,080원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -398,7 +398,7 @@ A. '시그니처 밤쉘루스'는 기존 '밤쉘'의 베스트셀러 향을 유�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 50,100원 · 별점 4.6 · 리뷰 208개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 50,080원 · 별점 4.7 · 리뷰 1,815개</span>
     <a href="https://link.coupang.com/a/ejmtdY" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
