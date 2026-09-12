@@ -17,10 +17,10 @@ description: 르젠 레트로 BLDC 빈티카 선풍기 30cm(12인치)는 레트�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "93800",
+    "price": "98800",
     "url": "https://link.coupang.com/a/glpbhSmrE4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -43,7 +43,7 @@ description: 르젠 레트로 BLDC 빈티카 선풍기 30cm(12인치)는 레트�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 93,800원 · 별점 4.8 · 리뷰 63개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 98,800원 · 별점 4.8 · 리뷰 63개</span>
     <a href="https://link.coupang.com/a/glpbhSmrE4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 르젠 레트로 BLDC 빈티카 선풍기 30cm(12인치)는 레트�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,29 +61,30 @@ description: 르젠 레트로 BLDC 빈티카 선풍기 30cm(12인치)는 레트�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">90,000</text>
 
-    <path d="M 68 81 L 90 81 L 111 81 L 133 81 L 155 81 L 176 41 L 198 41 L 220 41 L 241 41 L 263 41 L 285 41 L 306 41 L 328 41 L 350 41 L 371 41 L 393 41 L 415 34 L 436 111 L 458 111 L 480 111 L 501 111 L 523 111 L 545 111 L 566 149 L 588 149 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 81 L 90 81 L 111 81 L 133 81 L 155 81 L 176 41 L 198 41 L 220 41 L 241 41 L 263 41 L 285 41 L 306 41 L 328 41 L 350 41 L 371 41 L 393 41 L 415 34 L 436 111 L 458 111 L 480 111 L 501 111 L 523 111 L 545 111 L 566 149 L 588 149" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 81 L 89 81 L 110 81 L 130 81 L 151 81 L 172 41 L 193 41 L 214 41 L 234 41 L 255 41 L 276 41 L 297 41 L 318 41 L 338 41 L 359 41 L 380 41 L 401 34 L 422 111 L 442 111 L 463 111 L 484 111 L 505 111 L 526 111 L 546 149 L 567 149 L 588 111 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 81 L 89 81 L 110 81 L 130 81 L 151 81 L 172 41 L 193 41 L 214 41 L 234 41 L 255 41 L 276 41 L 297 41 L 318 41 L 338 41 L 359 41 L 380 41 L 401 34 L 422 111 L 442 111 L 463 111 L 484 111 L 505 111 L 526 111 L 546 149 L 567 149 L 588 111" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="81" r="4" fill="#fdba74"><title>08-19 102,730원</title></circle>
-    <circle cx="155" cy="81" r="4" fill="#fdba74"><title>08-23 102,730원</title></circle>
-    <circle cx="176" cy="41" r="4" fill="#fdba74"><title>08-24 108,000원</title></circle>
-    <circle cx="393" cy="41" r="4" fill="#fdba74"><title>09-03 108,000원</title></circle>
-    <circle cx="415" cy="34" r="4" fill="#fdba74"><title>09-04 109,000원</title></circle>
-    <circle cx="436" cy="111" r="4" fill="#fdba74"><title>09-05 98,800원</title></circle>
-    <circle cx="545" cy="111" r="4" fill="#fdba74"><title>09-10 98,800원</title></circle>
-    <circle cx="566" cy="149" r="4" fill="#fdba74"><title>09-11 93,800원</title></circle>
-    <circle cx="588" cy="149" r="5" fill="#ea580c"><title>09-12 93,800원</title></circle>
+    <circle cx="151" cy="81" r="4" fill="#fdba74"><title>08-23 102,730원</title></circle>
+    <circle cx="172" cy="41" r="4" fill="#fdba74"><title>08-24 108,000원</title></circle>
+    <circle cx="380" cy="41" r="4" fill="#fdba74"><title>09-03 108,000원</title></circle>
+    <circle cx="401" cy="34" r="4" fill="#fdba74"><title>09-04 109,000원</title></circle>
+    <circle cx="422" cy="111" r="4" fill="#fdba74"><title>09-05 98,800원</title></circle>
+    <circle cx="526" cy="111" r="4" fill="#fdba74"><title>09-10 98,800원</title></circle>
+    <circle cx="546" cy="149" r="4" fill="#fdba74"><title>09-11 93,800원</title></circle>
+    <circle cx="567" cy="149" r="4" fill="#fdba74"><title>09-12 93,800원</title></circle>
+    <circle cx="588" cy="111" r="5" fill="#ea580c"><title>09-13 98,800원</title></circle>
 
-    <text x="588" y="137" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">93,800원</text>
+    <text x="588" y="99" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">98,800원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -177,7 +178,7 @@ A. BLDC 모터가 적용되어 일반 선풍기보다 소음이 현저히 적습
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 93,800원 · 별점 4.8 · 리뷰 63개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 98,800원 · 별점 4.8 · 리뷰 63개</span>
     <a href="https://link.coupang.com/a/glpbhSmrE4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

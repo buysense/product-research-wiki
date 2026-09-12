@@ -20,7 +20,7 @@ description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출�
     "price": "53900",
     "url": "https://link.coupang.com/a/eygm56",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,28 +60,28 @@ description: 휠라 뉴엔트리 백은 일상적인 활동과 가벼운 외출�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">53,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">52,000</text>
 
-    <path d="M 68 119 L 86 119 L 104 119 L 122 119 L 140 119 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 119 L 427 119 L 445 119 L 462 119 L 480 119 L 498 119 L 516 119 L 534 119 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 119 L 86 119 L 104 119 L 122 119 L 140 119 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 26 L 409 119 L 427 119 L 445 119 L 462 119 L 480 119 L 498 119 L 516 119 L 534 119 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="119" r="4" fill="#fdba74"><title>08-01 52,780원</title></circle>
-    <circle cx="140" cy="119" r="4" fill="#fdba74"><title>08-05 52,780원</title></circle>
-    <circle cx="158" cy="26" r="4" fill="#fdba74"><title>08-19 54,460원</title></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"><title>09-01 54,460원</title></circle>
-    <circle cx="409" cy="119" r="4" fill="#fdba74"><title>09-02 52,780원</title></circle>
-    <circle cx="534" cy="119" r="4" fill="#fdba74"><title>09-09 52,780원</title></circle>
-    <circle cx="552" cy="34" r="4" fill="#fdba74"><title>09-10 53,900원</title></circle>
-    <circle cx="588" cy="34" r="5" fill="#ea580c"><title>09-12 53,900원</title></circle>
+    <path d="M 68 119 L 86 119 L 104 119 L 122 119 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 119 L 409 119 L 427 119 L 445 119 L 462 119 L 480 119 L 498 119 L 516 119 L 534 34 L 552 34 L 570 34 L 588 34 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 119 L 86 119 L 104 119 L 122 119 L 140 26 L 158 26 L 176 26 L 194 26 L 211 26 L 229 26 L 247 26 L 265 26 L 283 26 L 301 26 L 319 26 L 337 26 L 355 26 L 373 26 L 391 119 L 409 119 L 427 119 L 445 119 L 462 119 L 480 119 L 498 119 L 516 119 L 534 34 L 552 34 L 570 34 L 588 34" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="119" r="4" fill="#fdba74"><title>08-02 52,780원</title></circle>
+    <circle cx="122" cy="119" r="4" fill="#fdba74"><title>08-05 52,780원</title></circle>
+    <circle cx="140" cy="26" r="4" fill="#fdba74"><title>08-19 54,460원</title></circle>
+    <circle cx="373" cy="26" r="4" fill="#fdba74"><title>09-01 54,460원</title></circle>
+    <circle cx="391" cy="119" r="4" fill="#fdba74"><title>09-02 52,780원</title></circle>
+    <circle cx="516" cy="119" r="4" fill="#fdba74"><title>09-09 52,780원</title></circle>
+    <circle cx="534" cy="34" r="4" fill="#fdba74"><title>09-10 53,900원</title></circle>
+    <circle cx="588" cy="34" r="5" fill="#ea580c"><title>09-13 53,900원</title></circle>
 
     <text x="588" y="22" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">53,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

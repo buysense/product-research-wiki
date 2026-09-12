@@ -16,7 +16,7 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
     "price": "30360",
     "url": "https://link.coupang.com/a/elPCqb",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -54,31 +54,31 @@ description: 1976년 출시된 닛신 야끼소바 U.F.O.는 진한 우스터 �
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 114 L 158 49 L 176 104 L 194 104 L 211 104 L 229 104 L 247 104 L 265 173 L 283 173 L 301 173 L 319 173 L 337 173 L 355 173 L 373 173 L 391 157 L 409 157 L 427 157 L 445 157 L 462 157 L 480 157 L 498 157 L 516 173 L 534 173 L 552 173 L 570 173 L 588 173 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 114 L 158 49 L 176 104 L 194 104 L 211 104 L 229 104 L 247 104 L 265 173 L 283 173 L 301 173 L 319 173 L 337 173 L 355 173 L 373 173 L 391 157 L 409 157 L 427 157 L 445 157 L 462 157 L 480 157 L 498 157 L 516 173 L 534 173 L 552 173 L 570 173 L 588 173" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="114" r="4" fill="#fdba74"><title>07-30 34,240원</title></circle>
-    <circle cx="140" cy="114" r="4" fill="#fdba74"><title>08-04 34,240원</title></circle>
-    <circle cx="158" cy="49" r="4" fill="#fdba74"><title>08-19 38,480원</title></circle>
-    <circle cx="176" cy="104" r="4" fill="#fdba74"><title>08-20 34,900원</title></circle>
-    <circle cx="247" cy="104" r="4" fill="#fdba74"><title>08-24 34,900원</title></circle>
-    <circle cx="265" cy="173" r="4" fill="#fdba74"><title>08-25 30,360원</title></circle>
-    <circle cx="373" cy="173" r="4" fill="#fdba74"><title>08-31 30,360원</title></circle>
-    <circle cx="391" cy="157" r="4" fill="#fdba74"><title>09-01 31,410원</title></circle>
-    <circle cx="498" cy="157" r="4" fill="#fdba74"><title>09-07 31,410원</title></circle>
-    <circle cx="516" cy="173" r="4" fill="#fdba74"><title>09-08 30,360원</title></circle>
-    <circle cx="588" cy="173" r="5" fill="#ea580c"><title>09-12 30,360원</title></circle>
+    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 49 L 158 104 L 176 104 L 194 104 L 211 104 L 229 104 L 247 173 L 265 173 L 283 173 L 301 173 L 319 173 L 337 173 L 355 173 L 373 157 L 391 157 L 409 157 L 427 157 L 445 157 L 462 157 L 480 157 L 498 173 L 516 173 L 534 173 L 552 173 L 570 173 L 588 173 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 114 L 86 114 L 104 114 L 122 114 L 140 49 L 158 104 L 176 104 L 194 104 L 211 104 L 229 104 L 247 173 L 265 173 L 283 173 L 301 173 L 319 173 L 337 173 L 355 173 L 373 157 L 391 157 L 409 157 L 427 157 L 445 157 L 462 157 L 480 157 L 498 173 L 516 173 L 534 173 L 552 173 L 570 173 L 588 173" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="114" r="4" fill="#fdba74"><title>07-31 34,240원</title></circle>
+    <circle cx="122" cy="114" r="4" fill="#fdba74"><title>08-04 34,240원</title></circle>
+    <circle cx="140" cy="49" r="4" fill="#fdba74"><title>08-19 38,480원</title></circle>
+    <circle cx="158" cy="104" r="4" fill="#fdba74"><title>08-20 34,900원</title></circle>
+    <circle cx="229" cy="104" r="4" fill="#fdba74"><title>08-24 34,900원</title></circle>
+    <circle cx="247" cy="173" r="4" fill="#fdba74"><title>08-25 30,360원</title></circle>
+    <circle cx="355" cy="173" r="4" fill="#fdba74"><title>08-31 30,360원</title></circle>
+    <circle cx="373" cy="157" r="4" fill="#fdba74"><title>09-01 31,410원</title></circle>
+    <circle cx="480" cy="157" r="4" fill="#fdba74"><title>09-07 31,410원</title></circle>
+    <circle cx="498" cy="173" r="4" fill="#fdba74"><title>09-08 30,360원</title></circle>
+    <circle cx="588" cy="173" r="5" fill="#ea580c"><title>09-13 30,360원</title></circle>
 
     <text x="588" y="161" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">30,360원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
