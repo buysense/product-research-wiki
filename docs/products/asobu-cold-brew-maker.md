@@ -20,7 +20,7 @@ description: 아소부 콜드브루 메이커는 집에서 간편하게 콜드�
     "price": "48900",
     "url": "https://link.coupang.com/a/e4Y9dzqJFc",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -57,30 +57,29 @@ description: 아소부 콜드브루 메이커는 집에서 간편하게 콜드�
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
     <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">48,000</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">46,000</text>
 
-    <path d="M 68 138 L 86 66 L 104 66 L 122 66 L 140 66 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 43 L 373 43 L 391 43 L 409 43 L 427 43 L 445 43 L 462 43 L 480 43 L 498 43 L 516 43 L 534 43 L 552 43 L 570 43 L 588 43 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 138 L 86 66 L 104 66 L 122 66 L 140 66 L 158 28 L 176 28 L 194 28 L 211 28 L 229 28 L 247 28 L 265 28 L 283 28 L 301 28 L 319 28 L 337 28 L 355 43 L 373 43 L 391 43 L 409 43 L 427 43 L 445 43 L 462 43 L 480 43 L 498 43 L 516 43 L 534 43 L 552 43 L 570 43 L 588 43" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="138" r="4" fill="#fdba74"><title>08-01 42,650원</title></circle>
-    <circle cx="86" cy="66" r="4" fill="#fdba74"><title>08-02 47,400원</title></circle>
-    <circle cx="140" cy="66" r="4" fill="#fdba74"><title>08-05 47,400원</title></circle>
-    <circle cx="158" cy="28" r="4" fill="#fdba74"><title>08-19 49,900원</title></circle>
-    <circle cx="337" cy="28" r="4" fill="#fdba74"><title>08-29 49,900원</title></circle>
-    <circle cx="355" cy="43" r="4" fill="#fdba74"><title>08-30 48,900원</title></circle>
-    <circle cx="588" cy="43" r="5" fill="#ea580c"><title>09-12 48,900원</title></circle>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 30 L 158 30 L 176 30 L 194 30 L 211 30 L 229 30 L 247 30 L 265 30 L 283 30 L 301 30 L 319 30 L 337 68 L 355 68 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 68 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 86 125 L 104 125 L 122 125 L 140 30 L 158 30 L 176 30 L 194 30 L 211 30 L 229 30 L 247 30 L 265 30 L 283 30 L 301 30 L 319 30 L 337 68 L 355 68 L 373 68 L 391 68 L 409 68 L 427 68 L 445 68 L 462 68 L 480 68 L 498 68 L 516 68 L 534 68 L 552 68 L 570 68 L 588 68" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="125" r="4" fill="#fdba74"><title>08-02 47,400원</title></circle>
+    <circle cx="122" cy="125" r="4" fill="#fdba74"><title>08-05 47,400원</title></circle>
+    <circle cx="140" cy="30" r="4" fill="#fdba74"><title>08-19 49,900원</title></circle>
+    <circle cx="319" cy="30" r="4" fill="#fdba74"><title>08-29 49,900원</title></circle>
+    <circle cx="337" cy="68" r="4" fill="#fdba74"><title>08-30 48,900원</title></circle>
+    <circle cx="588" cy="68" r="5" fill="#ea580c"><title>09-13 48,900원</title></circle>
 
-    <text x="588" y="31" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">48,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="588" y="56" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">48,900원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
