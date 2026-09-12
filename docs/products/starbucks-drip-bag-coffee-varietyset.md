@@ -20,7 +20,7 @@ description: 스타벅스 드립백은 집, 캠핑, 여행 등 다양한 상황�
     "price": "36270",
     "url": "https://link.coupang.com/a/eySGWC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,36 +60,36 @@ description: 스타벅스 드립백은 집, 캠핑, 여행 등 다양한 상황�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">20,000</text>
 
-    <path d="M 68 170 L 86 170 L 104 170 L 122 170 L 140 148 L 158 155 L 176 148 L 194 148 L 211 148 L 229 148 L 247 148 L 265 47 L 283 47 L 301 47 L 319 48 L 337 48 L 355 47 L 373 47 L 391 51 L 409 51 L 427 54 L 445 54 L 462 54 L 480 54 L 498 54 L 516 54 L 534 54 L 552 54 L 570 54 L 588 54 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 170 L 86 170 L 104 170 L 122 170 L 140 148 L 158 155 L 176 148 L 194 148 L 211 148 L 229 148 L 247 148 L 265 47 L 283 47 L 301 47 L 319 48 L 337 48 L 355 47 L 373 47 L 391 51 L 409 51 L 427 54 L 445 54 L 462 54 L 480 54 L 498 54 L 516 54 L 534 54 L 552 54 L 570 54 L 588 54" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="170" r="4" fill="#fdba74"><title>07-30 21,110원</title></circle>
-    <circle cx="122" cy="170" r="4" fill="#fdba74"><title>08-03 21,110원</title></circle>
-    <circle cx="140" cy="148" r="4" fill="#fdba74"><title>08-05 23,990원</title></circle>
-    <circle cx="158" cy="155" r="4" fill="#fdba74"><title>08-19 22,990원</title></circle>
-    <circle cx="176" cy="148" r="4" fill="#fdba74"><title>08-20 23,990원</title></circle>
-    <circle cx="247" cy="148" r="4" fill="#fdba74"><title>08-24 23,990원</title></circle>
-    <circle cx="265" cy="47" r="4" fill="#fdba74"><title>08-25 37,270원</title></circle>
-    <circle cx="301" cy="47" r="4" fill="#fdba74"><title>08-27 37,270원</title></circle>
-    <circle cx="319" cy="48" r="4" fill="#fdba74"><title>08-28 37,110원</title></circle>
-    <circle cx="337" cy="48" r="4" fill="#fdba74"><title>08-29 37,110원</title></circle>
-    <circle cx="355" cy="47" r="4" fill="#fdba74"><title>08-30 37,270원</title></circle>
-    <circle cx="373" cy="47" r="4" fill="#fdba74"><title>08-31 37,270원</title></circle>
-    <circle cx="391" cy="51" r="4" fill="#fdba74"><title>09-01 36,710원</title></circle>
-    <circle cx="409" cy="51" r="4" fill="#fdba74"><title>09-02 36,710원</title></circle>
-    <circle cx="427" cy="54" r="4" fill="#fdba74"><title>09-03 36,270원</title></circle>
-    <circle cx="588" cy="54" r="5" fill="#ea580c"><title>09-12 36,270원</title></circle>
+    <path d="M 68 170 L 86 170 L 104 170 L 122 148 L 140 155 L 158 148 L 176 148 L 194 148 L 211 148 L 229 148 L 247 47 L 265 47 L 283 47 L 301 48 L 319 48 L 337 47 L 355 47 L 373 51 L 391 51 L 409 54 L 427 54 L 445 54 L 462 54 L 480 54 L 498 54 L 516 54 L 534 54 L 552 54 L 570 54 L 588 54 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 170 L 86 170 L 104 170 L 122 148 L 140 155 L 158 148 L 176 148 L 194 148 L 211 148 L 229 148 L 247 47 L 265 47 L 283 47 L 301 48 L 319 48 L 337 47 L 355 47 L 373 51 L 391 51 L 409 54 L 427 54 L 445 54 L 462 54 L 480 54 L 498 54 L 516 54 L 534 54 L 552 54 L 570 54 L 588 54" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="170" r="4" fill="#fdba74"><title>07-31 21,110원</title></circle>
+    <circle cx="104" cy="170" r="4" fill="#fdba74"><title>08-03 21,110원</title></circle>
+    <circle cx="122" cy="148" r="4" fill="#fdba74"><title>08-05 23,990원</title></circle>
+    <circle cx="140" cy="155" r="4" fill="#fdba74"><title>08-19 22,990원</title></circle>
+    <circle cx="158" cy="148" r="4" fill="#fdba74"><title>08-20 23,990원</title></circle>
+    <circle cx="229" cy="148" r="4" fill="#fdba74"><title>08-24 23,990원</title></circle>
+    <circle cx="247" cy="47" r="4" fill="#fdba74"><title>08-25 37,270원</title></circle>
+    <circle cx="283" cy="47" r="4" fill="#fdba74"><title>08-27 37,270원</title></circle>
+    <circle cx="301" cy="48" r="4" fill="#fdba74"><title>08-28 37,110원</title></circle>
+    <circle cx="319" cy="48" r="4" fill="#fdba74"><title>08-29 37,110원</title></circle>
+    <circle cx="337" cy="47" r="4" fill="#fdba74"><title>08-30 37,270원</title></circle>
+    <circle cx="355" cy="47" r="4" fill="#fdba74"><title>08-31 37,270원</title></circle>
+    <circle cx="373" cy="51" r="4" fill="#fdba74"><title>09-01 36,710원</title></circle>
+    <circle cx="391" cy="51" r="4" fill="#fdba74"><title>09-02 36,710원</title></circle>
+    <circle cx="409" cy="54" r="4" fill="#fdba74"><title>09-03 36,270원</title></circle>
+    <circle cx="588" cy="54" r="5" fill="#ea580c"><title>09-13 36,270원</title></circle>
 
     <text x="588" y="42" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,270원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
