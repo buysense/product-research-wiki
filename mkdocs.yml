@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 고바야시 쇼슈겐 한방울 방향제 금목서향: products/kobayashi-shoshugen-one-drop-osmanthus.md
     - 백제 쌀국수 얼큰한맛: products/baekje-rice-noodles-spicy-flavor.md
     - 농심 사리곰탕 큰사발면: products/nongshim-sarigomtang-cup-noodle.md
     - 삼립 미니꿀 약과: products/samlip-minihoney-yakgwa.md

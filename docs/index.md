@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 고바야시 쇼슈겐 한방울 방향제 금목서향 | [보기](products/kobayashi-shoshugen-one-drop-osmanthus.md) |
 | 백제 쌀국수 얼큰한맛 | [보기](products/baekje-rice-noodles-spicy-flavor.md) |
 | 농심 사리곰탕 큰사발면 | [보기](products/nongshim-sarigomtang-cup-noodle.md) |
 | 삼립 미니꿀 약과 | [보기](products/samlip-minihoney-yakgwa.md) |
