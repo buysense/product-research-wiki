@@ -20,12 +20,12 @@ description: 벨지오이오조 모짜렐라 로그슬라이스는 신선한 맛
     "price": "10120",
     "url": "https://link.coupang.com/a/gvoOVc1IhU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 73,
+    "reviewCount": 74,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 벨지오이오조 모짜렐라 로그슬라이스는 신선한 맛
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,120원 · 별점 4.7 · 리뷰 73개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,120원 · 별점 4.7 · 리뷰 74개</span>
     <a href="https://link.coupang.com/a/gvoOVc1IhU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 벨지오이오조 모짜렐라 로그슬라이스는 신선한 맛
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 20개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,25 +61,26 @@ description: 벨지오이오조 모짜렐라 로그슬라이스는 신선한 맛
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
 
-    <path d="M 68 68 L 97 68 L 126 68 L 155 68 L 184 68 L 212 68 L 241 68 L 270 68 L 299 68 L 328 77 L 357 77 L 386 77 L 415 77 L 444 77 L 472 77 L 501 77 L 530 77 L 559 77 L 588 173 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 68 L 97 68 L 126 68 L 155 68 L 184 68 L 212 68 L 241 68 L 270 68 L 299 68 L 328 77 L 357 77 L 386 77 L 415 77 L 444 77 L 472 77 L 501 77 L 530 77 L 559 77 L 588 173" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 68 68 L 95 68 L 123 68 L 150 68 L 177 68 L 205 68 L 232 68 L 260 68 L 287 68 L 314 77 L 342 77 L 369 77 L 396 77 L 424 77 L 451 77 L 479 77 L 506 77 L 533 77 L 561 173 L 588 173 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 68 L 95 68 L 123 68 L 150 68 L 177 68 L 205 68 L 232 68 L 260 68 L 287 68 L 314 77 L 342 77 L 369 77 L 396 77 L 424 77 L 451 77 L 479 77 L 506 77 L 533 77 L 561 173 L 588 173" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="68" r="4" fill="#fdba74"><title>08-25 12,900원</title></circle>
-    <circle cx="299" cy="68" r="4" fill="#fdba74"><title>09-02 12,900원</title></circle>
-    <circle cx="328" cy="77" r="4" fill="#fdba74"><title>09-03 12,650원</title></circle>
-    <circle cx="559" cy="77" r="4" fill="#fdba74"><title>09-11 12,650원</title></circle>
-    <circle cx="588" cy="173" r="5" fill="#ea580c"><title>09-12 10,120원</title></circle>
+    <circle cx="287" cy="68" r="4" fill="#fdba74"><title>09-02 12,900원</title></circle>
+    <circle cx="314" cy="77" r="4" fill="#fdba74"><title>09-03 12,650원</title></circle>
+    <circle cx="533" cy="77" r="4" fill="#fdba74"><title>09-11 12,650원</title></circle>
+    <circle cx="561" cy="173" r="4" fill="#fdba74"><title>09-12 10,120원</title></circle>
+    <circle cx="588" cy="173" r="5" fill="#ea580c"><title>09-13 10,120원</title></circle>
 
     <text x="588" y="161" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,120원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="123" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
+    <text x="177" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="232" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="287" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="369" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="424" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="479" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="533" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -157,7 +158,7 @@ A. 기본적인 맛과 재료는 유사하지만, 로그슬라이스는 미리 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,120원 · 별점 4.7 · 리뷰 73개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,120원 · 별점 4.7 · 리뷰 74개</span>
     <a href="https://link.coupang.com/a/gvoOVc1IhU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
