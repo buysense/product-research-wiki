@@ -20,7 +20,7 @@ description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간
     "price": "303170",
     "url": "https://link.coupang.com/a/eTmwEK7NYG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -60,44 +60,44 @@ description: 쿠쿠 W8300 공기청정기는 96.8㎡(약 29평)의 넓은 공간
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">250,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
 
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 44 L 176 74 L 194 102 L 211 98 L 229 120 L 247 120 L 265 120 L 283 120 L 301 120 L 319 122 L 337 60 L 355 67 L 373 30 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 28 L 158 44 L 176 74 L 194 102 L 211 98 L 229 120 L 247 120 L 265 120 L 283 120 L 301 120 L 319 122 L 337 60 L 355 67 L 373 30 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="28" r="4" fill="#fdba74"><title>08-01 299,000원</title></circle>
-    <circle cx="140" cy="28" r="4" fill="#fdba74"><title>08-05 299,000원</title></circle>
-    <circle cx="158" cy="44" r="4" fill="#fdba74"><title>08-19 288,300원</title></circle>
-    <circle cx="176" cy="74" r="4" fill="#fdba74"><title>08-20 268,750원</title></circle>
-    <circle cx="194" cy="102" r="4" fill="#fdba74"><title>08-21 249,970원</title></circle>
-    <circle cx="211" cy="98" r="4" fill="#fdba74"><title>08-22 252,450원</title></circle>
-    <circle cx="229" cy="120" r="4" fill="#fdba74"><title>08-23 238,360원</title></circle>
-    <circle cx="247" cy="120" r="4" fill="#fdba74"><title>08-24 238,390원</title></circle>
-    <circle cx="265" cy="120" r="4" fill="#fdba74"><title>08-25 238,340원</title></circle>
-    <circle cx="283" cy="120" r="4" fill="#fdba74"><title>08-26 238,280원</title></circle>
-    <circle cx="301" cy="120" r="4" fill="#fdba74"><title>08-27 238,220원</title></circle>
-    <circle cx="319" cy="122" r="4" fill="#fdba74"><title>08-28 237,140원</title></circle>
-    <circle cx="337" cy="60" r="4" fill="#fdba74"><title>08-29 277,550원</title></circle>
-    <circle cx="355" cy="67" r="4" fill="#fdba74"><title>08-30 272,820원</title></circle>
-    <circle cx="373" cy="30" r="4" fill="#fdba74"><title>08-31 297,050원</title></circle>
-    <circle cx="391" cy="26" r="4" fill="#fdba74"><title>09-01 302,120원</title></circle>
-    <circle cx="409" cy="26" r="4" fill="#fdba74"><title>09-02 303,170원</title></circle>
-    <circle cx="445" cy="26" r="4" fill="#fdba74"><title>09-04 303,170원</title></circle>
-    <circle cx="462" cy="26" r="4" fill="#fdba74"><title>09-05 302,120원</title></circle>
-    <circle cx="516" cy="26" r="4" fill="#fdba74"><title>09-08 302,120원</title></circle>
-    <circle cx="534" cy="26" r="4" fill="#fdba74"><title>09-09 305,870원</title></circle>
-    <circle cx="552" cy="26" r="4" fill="#fdba74"><title>09-10 305,870원</title></circle>
-    <circle cx="570" cy="26" r="4" fill="#fdba74"><title>09-11 303,170원</title></circle>
-    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-12 303,170원</title></circle>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 44 L 158 74 L 176 102 L 194 98 L 211 120 L 229 120 L 247 120 L 265 120 L 283 120 L 301 122 L 319 60 L 337 67 L 355 30 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 28 L 86 28 L 104 28 L 122 28 L 140 44 L 158 74 L 176 102 L 194 98 L 211 120 L 229 120 L 247 120 L 265 120 L 283 120 L 301 122 L 319 60 L 337 67 L 355 30 L 373 26 L 391 26 L 409 26 L 427 26 L 445 26 L 462 26 L 480 26 L 498 26 L 516 26 L 534 26 L 552 26 L 570 26 L 588 26" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="28" r="4" fill="#fdba74"><title>08-02 299,000원</title></circle>
+    <circle cx="122" cy="28" r="4" fill="#fdba74"><title>08-05 299,000원</title></circle>
+    <circle cx="140" cy="44" r="4" fill="#fdba74"><title>08-19 288,300원</title></circle>
+    <circle cx="158" cy="74" r="4" fill="#fdba74"><title>08-20 268,750원</title></circle>
+    <circle cx="176" cy="102" r="4" fill="#fdba74"><title>08-21 249,970원</title></circle>
+    <circle cx="194" cy="98" r="4" fill="#fdba74"><title>08-22 252,450원</title></circle>
+    <circle cx="211" cy="120" r="4" fill="#fdba74"><title>08-23 238,360원</title></circle>
+    <circle cx="229" cy="120" r="4" fill="#fdba74"><title>08-24 238,390원</title></circle>
+    <circle cx="247" cy="120" r="4" fill="#fdba74"><title>08-25 238,340원</title></circle>
+    <circle cx="265" cy="120" r="4" fill="#fdba74"><title>08-26 238,280원</title></circle>
+    <circle cx="283" cy="120" r="4" fill="#fdba74"><title>08-27 238,220원</title></circle>
+    <circle cx="301" cy="122" r="4" fill="#fdba74"><title>08-28 237,140원</title></circle>
+    <circle cx="319" cy="60" r="4" fill="#fdba74"><title>08-29 277,550원</title></circle>
+    <circle cx="337" cy="67" r="4" fill="#fdba74"><title>08-30 272,820원</title></circle>
+    <circle cx="355" cy="30" r="4" fill="#fdba74"><title>08-31 297,050원</title></circle>
+    <circle cx="373" cy="26" r="4" fill="#fdba74"><title>09-01 302,120원</title></circle>
+    <circle cx="391" cy="26" r="4" fill="#fdba74"><title>09-02 303,170원</title></circle>
+    <circle cx="427" cy="26" r="4" fill="#fdba74"><title>09-04 303,170원</title></circle>
+    <circle cx="445" cy="26" r="4" fill="#fdba74"><title>09-05 302,120원</title></circle>
+    <circle cx="498" cy="26" r="4" fill="#fdba74"><title>09-08 302,120원</title></circle>
+    <circle cx="516" cy="26" r="4" fill="#fdba74"><title>09-09 305,870원</title></circle>
+    <circle cx="534" cy="26" r="4" fill="#fdba74"><title>09-10 305,870원</title></circle>
+    <circle cx="552" cy="26" r="4" fill="#fdba74"><title>09-11 303,170원</title></circle>
+    <circle cx="588" cy="26" r="5" fill="#ea580c"><title>09-13 303,170원</title></circle>
 
     <text x="588" y="14" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">303,170원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
