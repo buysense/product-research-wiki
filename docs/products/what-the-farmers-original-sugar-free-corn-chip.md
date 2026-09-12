@@ -21,12 +21,12 @@ description: 왓더파머스 오리지널 무설탕 옥수수칩은 다이어트
     "price": "10570",
     "url": "https://link.coupang.com/a/dGFp60QiK4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 4730,
+    "reviewCount": 4761,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 왓더파머스 오리지널 무설탕 옥수수칩은 다이어트
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,570원 · 별점 4.6 · 리뷰 4,730개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,570원 · 별점 4.6 · 리뷰 4,761개</span>
     <a href="https://link.coupang.com/a/dGFp60QiK4" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -61,32 +61,33 @@ description: 왓더파머스 오리지널 무설탕 옥수수칩은 다이어트
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">10,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">9,000</text>
 
-    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 59 L 158 59 L 176 59 L 194 59 L 211 59 L 229 59 L 247 59 L 265 59 L 283 59 L 301 59 L 319 37 L 337 34 L 355 34 L 373 34 L 391 150 L 409 150 L 427 150 L 445 150 L 462 150 L 480 150 L 498 150 L 516 34 L 534 34 L 552 34 L 570 34 L 588 59 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 83 L 86 83 L 104 83 L 122 83 L 140 59 L 158 59 L 176 59 L 194 59 L 211 59 L 229 59 L 247 59 L 265 59 L 283 59 L 301 59 L 319 37 L 337 34 L 355 34 L 373 34 L 391 150 L 409 150 L 427 150 L 445 150 L 462 150 L 480 150 L 498 150 L 516 34 L 534 34 L 552 34 L 570 34 L 588 59" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="83" r="4" fill="#fdba74"><title>07-30 10,250원</title></circle>
-    <circle cx="122" cy="83" r="4" fill="#fdba74"><title>08-03 10,250원</title></circle>
-    <circle cx="140" cy="59" r="4" fill="#fdba74"><title>08-05 10,570원</title></circle>
-    <circle cx="301" cy="59" r="4" fill="#fdba74"><title>08-27 10,570원</title></circle>
-    <circle cx="319" cy="37" r="4" fill="#fdba74"><title>08-28 10,850원</title></circle>
-    <circle cx="337" cy="34" r="4" fill="#fdba74"><title>08-29 10,900원</title></circle>
-    <circle cx="373" cy="34" r="4" fill="#fdba74"><title>08-31 10,900원</title></circle>
-    <circle cx="391" cy="150" r="4" fill="#fdba74"><title>09-01 9,370원</title></circle>
-    <circle cx="498" cy="150" r="4" fill="#fdba74"><title>09-07 9,370원</title></circle>
-    <circle cx="516" cy="34" r="4" fill="#fdba74"><title>09-08 10,900원</title></circle>
-    <circle cx="570" cy="34" r="4" fill="#fdba74"><title>09-11 10,900원</title></circle>
-    <circle cx="588" cy="59" r="5" fill="#ea580c"><title>09-12 10,570원</title></circle>
+    <path d="M 68 83 L 86 83 L 104 83 L 122 59 L 140 59 L 158 59 L 176 59 L 194 59 L 211 59 L 229 59 L 247 59 L 265 59 L 283 59 L 301 37 L 319 34 L 337 34 L 355 34 L 373 150 L 391 150 L 409 150 L 427 150 L 445 150 L 462 150 L 480 150 L 498 34 L 516 34 L 534 34 L 552 34 L 570 59 L 588 59 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 83 L 86 83 L 104 83 L 122 59 L 140 59 L 158 59 L 176 59 L 194 59 L 211 59 L 229 59 L 247 59 L 265 59 L 283 59 L 301 37 L 319 34 L 337 34 L 355 34 L 373 150 L 391 150 L 409 150 L 427 150 L 445 150 L 462 150 L 480 150 L 498 34 L 516 34 L 534 34 L 552 34 L 570 59 L 588 59" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="83" r="4" fill="#fdba74"><title>07-31 10,250원</title></circle>
+    <circle cx="104" cy="83" r="4" fill="#fdba74"><title>08-03 10,250원</title></circle>
+    <circle cx="122" cy="59" r="4" fill="#fdba74"><title>08-05 10,570원</title></circle>
+    <circle cx="283" cy="59" r="4" fill="#fdba74"><title>08-27 10,570원</title></circle>
+    <circle cx="301" cy="37" r="4" fill="#fdba74"><title>08-28 10,850원</title></circle>
+    <circle cx="319" cy="34" r="4" fill="#fdba74"><title>08-29 10,900원</title></circle>
+    <circle cx="355" cy="34" r="4" fill="#fdba74"><title>08-31 10,900원</title></circle>
+    <circle cx="373" cy="150" r="4" fill="#fdba74"><title>09-01 9,370원</title></circle>
+    <circle cx="480" cy="150" r="4" fill="#fdba74"><title>09-07 9,370원</title></circle>
+    <circle cx="498" cy="34" r="4" fill="#fdba74"><title>09-08 10,900원</title></circle>
+    <circle cx="552" cy="34" r="4" fill="#fdba74"><title>09-11 10,900원</title></circle>
+    <circle cx="570" cy="59" r="4" fill="#fdba74"><title>09-12 10,570원</title></circle>
+    <circle cx="588" cy="59" r="5" fill="#ea580c"><title>09-13 10,570원</title></circle>
 
     <text x="588" y="47" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,570원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -328,7 +329,7 @@ A. 한 봉지당 25g의 용량이며, 약 95kcal의 열량을 가지고 있습�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,570원 · 별점 4.6 · 리뷰 4,730개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,570원 · 별점 4.6 · 리뷰 4,761개</span>
     <a href="https://link.coupang.com/a/dGFp60QiK4" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
