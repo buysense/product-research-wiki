@@ -21,7 +21,7 @@ description: 고바야시 쇼슈겐 한방울 방향제 금목서향은 화장�
     "price": "19900",
     "url": "https://link.coupang.com/a/gZlHWANO6S",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-19"
+    "priceValidUntil": "2026-09-20"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
