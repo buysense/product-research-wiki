@@ -20,12 +20,12 @@ description: 알리사 100단 아이스 터보 MAX 휴대용 선풍기는 강력
     "price": "27840",
     "url": "https://link.coupang.com/a/gm2K6Ljyp2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-20"
+    "priceValidUntil": "2026-09-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 12602,
+    "reviewCount": 12651,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 알리사 100단 아이스 터보 MAX 휴대용 선풍기는 강력
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 27,840원 · 별점 4.7 · 리뷰 12,602개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 27,840원 · 별점 4.7 · 리뷰 12,651개</span>
     <a href="https://link.coupang.com/a/gm2K6Ljyp2" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 알리사 100단 아이스 터보 MAX 휴대용 선풍기는 강력
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 25개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 26일 중 26일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,30 +61,72 @@ description: 알리사 100단 아이스 터보 MAX 휴대용 선풍기는 강력
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">27,500</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">27,000</text>
 
-    <path d="M 68 119 L 90 119 L 111 119 L 133 119 L 155 119 L 176 119 L 198 119 L 220 119 L 241 119 L 263 119 L 285 119 L 306 119 L 328 26 L 350 26 L 371 26 L 393 26 L 415 26 L 436 26 L 458 26 L 480 26 L 501 34 L 523 34 L 545 50 L 566 50 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 119 L 90 119 L 111 119 L 133 119 L 155 119 L 176 119 L 198 119 L 220 119 L 241 119 L 263 119 L 285 119 L 306 119 L 328 26 L 350 26 L 371 26 L 393 26 L 415 26 L 436 26 L 458 26 L 480 26 L 501 34 L 523 34 L 545 50 L 566 50 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-08-20" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-21" x1="89" y1="178" x2="89" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-22" x1="110" y1="178" x2="110" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-23" x1="130" y1="178" x2="130" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-24" x1="151" y1="178" x2="151" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-25" x1="172" y1="178" x2="172" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-26" x1="193" y1="178" x2="193" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-27" x1="214" y1="178" x2="214" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-28" x1="234" y1="178" x2="234" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-29" x1="255" y1="178" x2="255" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-30" x1="276" y1="178" x2="276" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-31" x1="297" y1="178" x2="297" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-01" x1="318" y1="178" x2="318" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-02" x1="338" y1="178" x2="338" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-03" x1="359" y1="178" x2="359" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-04" x1="380" y1="178" x2="380" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-05" x1="401" y1="178" x2="401" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-06" x1="422" y1="178" x2="422" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-07" x1="442" y1="178" x2="442" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-08" x1="463" y1="178" x2="463" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-09" x1="484" y1="178" x2="484" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-10" x1="505" y1="178" x2="505" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-11" x1="526" y1="178" x2="526" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-12" x1="546" y1="178" x2="546" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-13" x1="567" y1="178" x2="567" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-14" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 119 L 89 119 L 110 119 L 130 119 L 151 119 L 172 119 L 193 119 L 214 119 L 234 119 L 255 119 L 276 119 L 297 119 L 318 26 L 338 26 L 359 26 L 380 26 L 401 26 L 422 26 L 442 26 L 463 26 L 484 34 L 505 34 L 526 50 L 546 50 L 567 50 L 588 50 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 119 L 89 119 L 110 119 L 130 119 L 151 119 L 172 119 L 193 119 L 214 119 L 234 119 L 255 119 L 276 119 L 297 119 L 318 26 L 338 26 L 359 26 L 380 26 L 401 26 L 422 26 L 442 26 L 463 26 L 484 34 L 505 34 L 526 50 L 546 50 L 567 50 L 588 50" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="119" r="4" fill="#fdba74"><title>08-20 27,390원</title></circle>
-    <circle cx="306" cy="119" r="4" fill="#fdba74"><title>08-31 27,390원</title></circle>
-    <circle cx="328" cy="26" r="4" fill="#fdba74"><title>09-01 28,380원</title></circle>
-    <circle cx="436" cy="26" r="4" fill="#fdba74"><title>09-06 28,380원</title></circle>
-    <circle cx="458" cy="26" r="4" fill="#fdba74"><title>09-07 28,280원</title></circle>
-    <circle cx="480" cy="26" r="4" fill="#fdba74"><title>09-08 28,170원</title></circle>
-    <circle cx="501" cy="34" r="4" fill="#fdba74"><title>09-09 27,950원</title></circle>
-    <circle cx="523" cy="34" r="4" fill="#fdba74"><title>09-10 27,950원</title></circle>
-    <circle cx="545" cy="50" r="4" fill="#fdba74"><title>09-11 27,840원</title></circle>
-    <circle cx="588" cy="50" r="5" fill="#ea580c"><title>09-13 27,840원</title></circle>
+    <circle cx="89" cy="119" r="4" fill="#fdba74"><title>08-21 27,390원</title></circle>
+    <circle cx="110" cy="119" r="4" fill="#fdba74"><title>08-22 27,390원</title></circle>
+    <circle cx="130" cy="119" r="4" fill="#fdba74"><title>08-23 27,390원</title></circle>
+    <circle cx="151" cy="119" r="4" fill="#fdba74"><title>08-24 27,390원</title></circle>
+    <circle cx="172" cy="119" r="4" fill="#fdba74"><title>08-25 27,390원</title></circle>
+    <circle cx="193" cy="119" r="4" fill="#fdba74"><title>08-26 27,390원</title></circle>
+    <circle cx="214" cy="119" r="4" fill="#fdba74"><title>08-27 27,390원</title></circle>
+    <circle cx="234" cy="119" r="4" fill="#fdba74"><title>08-28 27,390원</title></circle>
+    <circle cx="255" cy="119" r="4" fill="#fdba74"><title>08-29 27,390원</title></circle>
+    <circle cx="276" cy="119" r="4" fill="#fdba74"><title>08-30 27,390원</title></circle>
+    <circle cx="297" cy="119" r="4" fill="#fdba74"><title>08-31 27,390원</title></circle>
+    <circle cx="318" cy="26" r="4" fill="#fdba74"><title>09-01 28,380원</title></circle>
+    <circle cx="338" cy="26" r="4" fill="#fdba74"><title>09-02 28,380원</title></circle>
+    <circle cx="359" cy="26" r="4" fill="#fdba74"><title>09-03 28,380원</title></circle>
+    <circle cx="380" cy="26" r="4" fill="#fdba74"><title>09-04 28,380원</title></circle>
+    <circle cx="401" cy="26" r="4" fill="#fdba74"><title>09-05 28,380원</title></circle>
+    <circle cx="422" cy="26" r="4" fill="#fdba74"><title>09-06 28,380원</title></circle>
+    <circle cx="442" cy="26" r="4" fill="#fdba74"><title>09-07 28,280원</title></circle>
+    <circle cx="463" cy="26" r="4" fill="#fdba74"><title>09-08 28,170원</title></circle>
+    <circle cx="484" cy="34" r="4" fill="#fdba74"><title>09-09 27,950원</title></circle>
+    <circle cx="505" cy="34" r="4" fill="#fdba74"><title>09-10 27,950원</title></circle>
+    <circle cx="526" cy="50" r="4" fill="#fdba74"><title>09-11 27,840원</title></circle>
+    <circle cx="546" cy="50" r="4" fill="#fdba74"><title>09-12 27,840원</title></circle>
+    <circle cx="567" cy="50" r="4" fill="#fdba74"><title>09-13 27,840원</title></circle>
+    <circle cx="588" cy="50" r="5" fill="#ea580c"><title>09-14 27,840원</title></circle>
 
     <text x="588" y="38" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">27,840원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="306" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="350" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
+    <text x="130" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="193" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
+    <text x="234" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
+    <text x="297" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
+    <text x="359" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="422" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="463" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="526" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -183,7 +225,7 @@ A. '아이스' 기능은 주변 공기를 직접적으로 냉각시켜 송풍하
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 27,840원 · 별점 4.7 · 리뷰 12,602개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 27,840원 · 별점 4.7 · 리뷰 12,651개</span>
     <a href="https://link.coupang.com/a/gm2K6Ljyp2" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
