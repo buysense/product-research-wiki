@@ -10,7 +10,6 @@ description: 캔메이크 클리어 베일 세팅 파우더는 메이크업 고�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "캔메이크 클리어 베일 세팅 파우더",
-  "description": "캔메이크 클리어 베일 세팅 파우더는 메이크업 고정과 피부 유분 조절에 도움을 주어 보송하고 화사한 마무리감을 연출하고자 할 때 적합한 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a5ca/4cb1904c17fd7ae2bf92a7d52dfb02723ce1e0c25b3565ac4d25aa5250b7.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2ca6/0c7614c8becdfef51150a2b775df06cedab9e9cd2949e924be5b069b50f5.png"
@@ -18,10 +17,10 @@ description: 캔메이크 클리어 베일 세팅 파우더는 메이크업 고�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "21000",
+    "price": "19500",
     "url": "https://link.coupang.com/a/g0O4yMvOFM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-20"
+    "priceValidUntil": "2026-09-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -44,7 +43,7 @@ description: 캔메이크 클리어 베일 세팅 파우더는 메이크업 고�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,000원 · 별점 4.1 · 리뷰 30개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,500원 · 별점 4.1 · 리뷰 30개</span>
     <a href="https://link.coupang.com/a/g0O4yMvOFM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -127,7 +126,7 @@ A. 네, 이 제품은 컴팩트한 용기에 담겨 있어 파우치에 넣어 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,000원 · 별점 4.1 · 리뷰 30개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,500원 · 별점 4.1 · 리뷰 30개</span>
     <a href="https://link.coupang.com/a/g0O4yMvOFM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
