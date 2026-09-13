@@ -20,7 +20,7 @@ description: 시눈 sinoon Ribbon Shirring Puff T-Shirt (Cream)은 리본 셔링
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fF12Q8Dt6q",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-15"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
