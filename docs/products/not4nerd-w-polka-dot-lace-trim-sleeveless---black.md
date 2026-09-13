@@ -19,7 +19,7 @@ description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/e6TryVOGey",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
@@ -43,7 +43,7 @@ description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,21 +52,21 @@ description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">56,200</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">56,100</text>
 
-    <path d="M 68 102 L 94 102 L 120 102 L 146 102 L 172 102 L 198 102 L 224 102 L 250 102 L 276 102 L 302 102 L 328 102 L 354 102 L 380 102 L 406 102 L 432 102 L 458 102 L 484 102 L 510 102 L 536 102 L 562 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 94 102 L 120 102 L 146 102 L 172 102 L 198 102 L 224 102 L 250 102 L 276 102 L 302 102 L 328 102 L 354 102 L 380 102 L 406 102 L 432 102 L 458 102 L 484 102 L 510 102 L 536 102 L 562 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-08 56,200원</title></circle>
+    <path d="M 68 102 L 111 102 L 155 102 L 198 102 L 241 102 L 285 102 L 328 102 L 371 102 L 415 102 L 458 102 L 501 102 L 545 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 111 102 L 155 102 L 198 102 L 241 102 L 285 102 L 328 102 L 371 102 L 415 102 L 458 102 L 501 102 L 545 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-16 56,200원</title></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"><title>07-31 56,200원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">56,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>

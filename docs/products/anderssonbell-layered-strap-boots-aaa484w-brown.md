@@ -19,7 +19,7 @@ description: 앤더슨벨 레이어드 스트랩 부츠 aaa484w 브라운은 독
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fqcS54FiVw",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
