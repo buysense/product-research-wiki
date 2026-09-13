@@ -19,7 +19,7 @@ description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/ga4c9Pkro4",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-20"
+    "priceValidUntil": "2026-09-21"
   }
 }
 </script>
@@ -43,7 +43,7 @@ description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14일 중 9일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,26 +52,42 @@ description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">60,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 141 L 133 141 L 198 141 L 263 43 L 328 43 L 393 64 L 458 64 L 523 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 141 L 133 141 L 198 141 L 263 43 L 328 43 L 393 64 L 458 64 L 523 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-08-13" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-14" x1="108" y1="178" x2="108" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-15" x1="148" y1="178" x2="148" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-16" x1="188" y1="178" x2="188" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-17" x1="228" y1="178" x2="228" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-18" x1="268" y1="178" x2="268" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-19" x1="308" y1="178" x2="308" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-20" x1="348" y1="178" x2="348" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-21" x1="388" y1="178" x2="388" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-22" x1="428" y1="178" x2="428" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-23" x1="468" y1="178" x2="468" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-24" x1="508" y1="178" x2="508" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-25" x1="548" y1="178" x2="548" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-26" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 141 L 308 141 L 348 141 L 388 43 L 428 43 L 468 64 L 508 64 L 548 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 141 L 308 141 L 348 141 L 388 43 L 428 43 L 468 64 L 508 64 L 548 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="141" r="4" fill="#fdba74"><title>08-13 54,900원</title></circle>
-    <circle cx="198" cy="141" r="4" fill="#fdba74"><title>08-20 54,900원</title></circle>
-    <circle cx="263" cy="43" r="4" fill="#fdba74"><title>08-21 67,700원</title></circle>
-    <circle cx="328" cy="43" r="4" fill="#fdba74"><title>08-22 67,700원</title></circle>
-    <circle cx="393" cy="64" r="4" fill="#fdba74"><title>08-23 65,000원</title></circle>
-    <circle cx="458" cy="64" r="4" fill="#fdba74"><title>08-24 65,000원</title></circle>
-    <circle cx="523" cy="102" r="4" fill="#fdba74"><title>08-25 60,000원</title></circle>
+    <circle cx="308" cy="141" r="4" fill="#fdba74"><title>08-19 54,900원</title></circle>
+    <circle cx="348" cy="141" r="4" fill="#fdba74"><title>08-20 54,900원</title></circle>
+    <circle cx="388" cy="43" r="4" fill="#fdba74"><title>08-21 67,700원</title></circle>
+    <circle cx="428" cy="43" r="4" fill="#fdba74"><title>08-22 67,700원</title></circle>
+    <circle cx="468" cy="64" r="4" fill="#fdba74"><title>08-23 65,000원</title></circle>
+    <circle cx="508" cy="64" r="4" fill="#fdba74"><title>08-24 65,000원</title></circle>
+    <circle cx="548" cy="102" r="4" fill="#fdba74"><title>08-25 60,000원</title></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"><title>08-26 60,000원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">60,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-13</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
+    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-14</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-16</text>
+    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-17</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-20</text>
+    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-22</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-23</text>
+    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-25</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-26</text>
   </svg>
 </div>
