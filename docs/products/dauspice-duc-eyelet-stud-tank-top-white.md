@@ -17,10 +17,9 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "43300",
     "url": "https://link.coupang.com/a/eXdTgfWhzg",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
@@ -35,7 +34,7 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 43,300원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/eXdTgfWhzg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -44,7 +43,7 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 28개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -53,34 +52,33 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 124 L 86 104 L 104 104 L 122 104 L 140 104 L 158 104 L 176 104 L 194 104 L 211 104 L 229 104 L 247 104 L 265 104 L 283 104 L 301 155 L 319 155 L 337 155 L 355 124 L 373 124 L 391 124 L 409 124 L 427 124 L 445 153 L 462 153 L 480 153 L 498 124 L 516 124 L 534 40 L 552 124 L 570 153 L 588 153 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 124 L 86 104 L 104 104 L 122 104 L 140 104 L 158 104 L 176 104 L 194 104 L 211 104 L 229 104 L 247 104 L 265 104 L 283 104 L 301 155 L 319 155 L 337 155 L 355 124 L 373 124 L 391 124 L 409 124 L 427 124 L 445 153 L 462 153 L 480 153 L 498 124 L 516 124 L 534 40 L 552 124 L 570 153 L 588 153" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="124" r="4" fill="#fdba74"><title>07-14 47,100원</title></circle>
-    <circle cx="86" cy="104" r="4" fill="#fdba74"><title>07-15 49,800원</title></circle>
-    <circle cx="283" cy="104" r="4" fill="#fdba74"><title>07-26 49,800원</title></circle>
-    <circle cx="301" cy="155" r="4" fill="#fdba74"><title>07-29 43,000원</title></circle>
-    <circle cx="337" cy="155" r="4" fill="#fdba74"><title>07-31 43,000원</title></circle>
-    <circle cx="355" cy="124" r="4" fill="#fdba74"><title>08-01 47,100원</title></circle>
-    <circle cx="427" cy="124" r="4" fill="#fdba74"><title>08-05 47,100원</title></circle>
-    <circle cx="445" cy="153" r="4" fill="#fdba74"><title>08-19 43,300원</title></circle>
-    <circle cx="480" cy="153" r="4" fill="#fdba74"><title>08-21 43,300원</title></circle>
-    <circle cx="498" cy="124" r="4" fill="#fdba74"><title>08-22 47,100원</title></circle>
-    <circle cx="516" cy="124" r="4" fill="#fdba74"><title>08-23 47,100원</title></circle>
-    <circle cx="534" cy="40" r="4" fill="#fdba74"><title>08-24 58,200원</title></circle>
-    <circle cx="552" cy="124" r="4" fill="#fdba74"><title>08-25 47,100원</title></circle>
-    <circle cx="570" cy="153" r="4" fill="#fdba74"><title>08-26 43,300원</title></circle>
+    <path d="M 68 104 L 87 104 L 107 104 L 126 104 L 145 104 L 164 104 L 184 104 L 203 104 L 222 104 L 241 104 L 261 104 L 280 155 L 299 155 L 318 155 L 338 124 L 357 124 L 376 124 L 395 124 L 415 124 L 434 153 L 453 153 L 472 153 L 492 124 L 511 124 L 530 40 L 549 124 L 569 153 L 588 153 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 104 L 87 104 L 107 104 L 126 104 L 145 104 L 164 104 L 184 104 L 203 104 L 222 104 L 241 104 L 261 104 L 280 155 L 299 155 L 318 155 L 338 124 L 357 124 L 376 124 L 395 124 L 415 124 L 434 153 L 453 153 L 472 153 L 492 124 L 511 124 L 530 40 L 549 124 L 569 153 L 588 153" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="104" r="4" fill="#fdba74"><title>07-16 49,800원</title></circle>
+    <circle cx="261" cy="104" r="4" fill="#fdba74"><title>07-26 49,800원</title></circle>
+    <circle cx="280" cy="155" r="4" fill="#fdba74"><title>07-29 43,000원</title></circle>
+    <circle cx="318" cy="155" r="4" fill="#fdba74"><title>07-31 43,000원</title></circle>
+    <circle cx="338" cy="124" r="4" fill="#fdba74"><title>08-01 47,100원</title></circle>
+    <circle cx="415" cy="124" r="4" fill="#fdba74"><title>08-05 47,100원</title></circle>
+    <circle cx="434" cy="153" r="4" fill="#fdba74"><title>08-19 43,300원</title></circle>
+    <circle cx="472" cy="153" r="4" fill="#fdba74"><title>08-21 43,300원</title></circle>
+    <circle cx="492" cy="124" r="4" fill="#fdba74"><title>08-22 47,100원</title></circle>
+    <circle cx="511" cy="124" r="4" fill="#fdba74"><title>08-23 47,100원</title></circle>
+    <circle cx="530" cy="40" r="4" fill="#fdba74"><title>08-24 58,200원</title></circle>
+    <circle cx="549" cy="124" r="4" fill="#fdba74"><title>08-25 47,100원</title></circle>
+    <circle cx="569" cy="153" r="4" fill="#fdba74"><title>08-26 43,300원</title></circle>
     <circle cx="588" cy="153" r="5" fill="#ea580c"><title>08-27 43,300원</title></circle>
 
     <text x="588" y="141" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">43,300원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-14</text>
-    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
-    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-21</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-24</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
   </svg>
 </div>
@@ -236,7 +234,7 @@ A. 흰색 의류의 특성상 비침이 있을 수 있습니다. 소재의 두�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 43,300원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/eXdTgfWhzg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
