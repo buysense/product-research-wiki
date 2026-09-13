@@ -17,15 +17,15 @@ description: 백제 쌀국수 얼큰한맛은 간편하게 즐길 수 있는 매
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "33500",
+    "price": "31900",
     "url": "https://link.coupang.com/a/gXBD3b3CY8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-20"
+    "priceValidUntil": "2026-09-21"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 7095,
+    "reviewCount": 7099,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 백제 쌀국수 얼큰한맛은 간편하게 즐길 수 있는 매
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 33,500원 · 별점 4.6 · 리뷰 7,095개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 31,900원 · 별점 4.6 · 리뷰 7,099개</span>
     <a href="https://link.coupang.com/a/gXBD3b3CY8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 백제 쌀국수 얼큰한맛은 간편하게 즐길 수 있는 매
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4일 중 4일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,16 +61,22 @@ description: 백제 쌀국수 얼큰한맛은 간편하게 즐길 수 있는 매
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">32,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">30,000</text>
 
-    <path d="M 68 163 L 328 163 L 588 45 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 163 L 328 163 L 588 45" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-09-11" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-12" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-13" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-14" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 163 L 241 163 L 415 45 L 588 106 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 163 L 241 163 L 415 45 L 588 106" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="163" r="4" fill="#fdba74"><title>09-11 30,400원</title></circle>
-    <circle cx="328" cy="163" r="4" fill="#fdba74"><title>09-12 30,400원</title></circle>
-    <circle cx="588" cy="45" r="5" fill="#ea580c"><title>09-13 33,500원</title></circle>
+    <circle cx="241" cy="163" r="4" fill="#fdba74"><title>09-12 30,400원</title></circle>
+    <circle cx="415" cy="45" r="4" fill="#fdba74"><title>09-13 33,500원</title></circle>
+    <circle cx="588" cy="106" r="5" fill="#ea580c"><title>09-14 31,900원</title></circle>
 
-    <text x="588" y="33" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">33,500원</text>
+    <text x="588" y="94" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">31,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -165,7 +171,7 @@ A. 제품 자체로도 충분히 맛있지만, 기호에 따라 계란, 송송 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 33,500원 · 별점 4.6 · 리뷰 7,095개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 31,900원 · 별점 4.6 · 리뷰 7,099개</span>
     <a href="https://link.coupang.com/a/gXBD3b3CY8" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
