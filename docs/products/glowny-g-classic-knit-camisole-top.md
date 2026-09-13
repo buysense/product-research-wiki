@@ -10,7 +10,6 @@ description: GLOWNY G CLASSIC KNIT CAMISOLE은 부드러운 착용감과 뛰어�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "GLOWNY G CLASSIC KNIT CAMISOLE",
-  "description": "GLOWNY G CLASSIC KNIT CAMISOLE은 부드러운 착용감과 뛰어난 활용도를 자랑하며, 단독 착용부터 다양한 상의 안에 레이어드하기 좋은 데일리 아이템입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dfbc/88e5e6fe8ae541322bfe67c185731f6c4469356e9ca58b1f245bec5c0a8b.jpg"
   ],
@@ -19,7 +18,7 @@ description: GLOWNY G CLASSIC KNIT CAMISOLE은 부드러운 착용감과 뛰어�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f1zNcBlFro",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-20"
+    "priceValidUntil": "2026-09-21"
   }
 }
 </script>
