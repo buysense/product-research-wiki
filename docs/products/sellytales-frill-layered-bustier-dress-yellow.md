@@ -19,7 +19,7 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/faukkoH7im",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
@@ -43,7 +43,7 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,35 +52,29 @@ description: 셀리테일즈 프릴 레이어드 뷔스티에 드레스 옐로�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
 
-    <path d="M 68 145 L 94 145 L 120 100 L 146 100 L 172 100 L 198 42 L 224 153 L 250 100 L 276 100 L 302 100 L 328 100 L 354 166 L 380 100 L 406 100 L 432 100 L 458 100 L 484 129 L 510 129 L 536 177 L 562 166 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 145 L 94 145 L 120 100 L 146 100 L 172 100 L 198 42 L 224 153 L 250 100 L 276 100 L 302 100 L 328 100 L 354 166 L 380 100 L 406 100 L 432 100 L 458 100 L 484 129 L 510 129 L 536 177 L 562 166 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="145" r="4" fill="#fdba74"><title>07-08 121,700원</title></circle>
-    <circle cx="94" cy="145" r="4" fill="#fdba74"><title>07-09 121,700원</title></circle>
-    <circle cx="120" cy="100" r="4" fill="#fdba74"><title>07-10 151,500원</title></circle>
-    <circle cx="172" cy="100" r="4" fill="#fdba74"><title>07-12 151,500원</title></circle>
-    <circle cx="198" cy="42" r="4" fill="#fdba74"><title>07-13 189,400원</title></circle>
-    <circle cx="224" cy="153" r="4" fill="#fdba74"><title>07-14 116,300원</title></circle>
-    <circle cx="250" cy="100" r="4" fill="#fdba74"><title>07-15 151,500원</title></circle>
-    <circle cx="328" cy="100" r="4" fill="#fdba74"><title>07-18 151,500원</title></circle>
-    <circle cx="354" cy="166" r="4" fill="#fdba74"><title>07-19 108,200원</title></circle>
-    <circle cx="380" cy="100" r="4" fill="#fdba74"><title>07-20 151,500원</title></circle>
-    <circle cx="458" cy="100" r="4" fill="#fdba74"><title>07-23 151,500원</title></circle>
-    <circle cx="484" cy="129" r="4" fill="#fdba74"><title>07-24 132,500원</title></circle>
-    <circle cx="510" cy="129" r="4" fill="#fdba74"><title>07-25 132,500원</title></circle>
-    <circle cx="536" cy="177" r="4" fill="#fdba74"><title>07-26 100,600원</title></circle>
-    <circle cx="562" cy="166" r="4" fill="#fdba74"><title>07-30 108,100원</title></circle>
+    <path d="M 68 100 L 111 100 L 155 100 L 198 166 L 241 100 L 285 100 L 328 100 L 371 100 L 415 129 L 458 129 L 501 177 L 545 166 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 100 L 111 100 L 155 100 L 198 166 L 241 100 L 285 100 L 328 100 L 371 100 L 415 129 L 458 129 L 501 177 L 545 166 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="100" r="4" fill="#fdba74"><title>07-16 151,500원</title></circle>
+    <circle cx="155" cy="100" r="4" fill="#fdba74"><title>07-18 151,500원</title></circle>
+    <circle cx="198" cy="166" r="4" fill="#fdba74"><title>07-19 108,200원</title></circle>
+    <circle cx="241" cy="100" r="4" fill="#fdba74"><title>07-20 151,500원</title></circle>
+    <circle cx="371" cy="100" r="4" fill="#fdba74"><title>07-23 151,500원</title></circle>
+    <circle cx="415" cy="129" r="4" fill="#fdba74"><title>07-24 132,500원</title></circle>
+    <circle cx="458" cy="129" r="4" fill="#fdba74"><title>07-25 132,500원</title></circle>
+    <circle cx="501" cy="177" r="4" fill="#fdba74"><title>07-26 100,600원</title></circle>
+    <circle cx="545" cy="166" r="4" fill="#fdba74"><title>07-30 108,100원</title></circle>
     <circle cx="588" cy="129" r="5" fill="#ea580c"><title>07-31 132,500원</title></circle>
 
     <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">132,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-08</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-10</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-12</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
