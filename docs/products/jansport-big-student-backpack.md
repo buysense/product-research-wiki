@@ -20,7 +20,7 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/exUBa1",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
