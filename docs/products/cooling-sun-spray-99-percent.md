@@ -19,7 +19,7 @@ description: 국내 최초 99.94% 지속 쿨링 선 스프레이는 야외 활�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fRxlPg8LSK",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-16"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>

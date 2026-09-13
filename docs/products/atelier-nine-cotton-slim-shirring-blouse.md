@@ -17,10 +17,9 @@ description: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE는 슬림한 실루
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "114300",
     "url": "https://link.coupang.com/a/fZVPAWkBMW",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
@@ -35,7 +34,7 @@ description: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE는 슬림한 실루
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 114,300원</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fZVPAWkBMW" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -125,7 +124,7 @@ A. 단정한 디자인으로 슬랙스나 스커트와 매치하여 오피스룩
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 114,300원</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fZVPAWkBMW" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

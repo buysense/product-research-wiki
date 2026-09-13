@@ -19,7 +19,7 @@ description: 크록스 클래식 발레 블랙 플랫슈즈는 가볍고 편안�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/exzZOTf1bg",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-13"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
