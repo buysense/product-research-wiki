@@ -19,7 +19,7 @@ description: GLOWNY 글로니 G SLIM TEE는 슬림핏 디자인으로 다양한 
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fEAq2JQzwO",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>

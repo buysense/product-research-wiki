@@ -19,7 +19,7 @@ description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fiLGJZbuQ8",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
@@ -43,7 +43,7 @@ description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14개 가격 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,35 +52,31 @@ description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">100,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">50,000</text>
 
-    <path d="M 68 106 L 97 106 L 126 106 L 155 81 L 184 81 L 212 111 L 241 81 L 270 81 L 299 141 L 328 141 L 357 141 L 386 141 L 415 149 L 444 91 L 472 91 L 501 114 L 530 91 L 559 127 L 588 127 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 106 L 97 106 L 126 106 L 155 81 L 184 81 L 212 111 L 241 81 L 270 81 L 299 141 L 328 141 L 357 141 L 386 141 L 415 149 L 444 91 L 472 91 L 501 114 L 530 91 L 559 127 L 588 127" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="106" r="4" fill="#fdba74"><title>07-11 97,200원</title></circle>
-    <circle cx="126" cy="106" r="4" fill="#fdba74"><title>07-13 97,200원</title></circle>
-    <circle cx="155" cy="81" r="4" fill="#fdba74"><title>07-14 113,500원</title></circle>
-    <circle cx="184" cy="81" r="4" fill="#fdba74"><title>07-15 113,500원</title></circle>
-    <circle cx="212" cy="111" r="4" fill="#fdba74"><title>07-16 94,000원</title></circle>
-    <circle cx="241" cy="81" r="4" fill="#fdba74"><title>07-17 113,500원</title></circle>
-    <circle cx="270" cy="81" r="4" fill="#fdba74"><title>07-18 113,500원</title></circle>
-    <circle cx="299" cy="141" r="4" fill="#fdba74"><title>07-19 74,100원</title></circle>
-    <circle cx="386" cy="141" r="4" fill="#fdba74"><title>07-22 74,100원</title></circle>
-    <circle cx="415" cy="149" r="4" fill="#fdba74"><title>07-23 69,300원</title></circle>
-    <circle cx="444" cy="91" r="4" fill="#fdba74"><title>07-24 107,400원</title></circle>
-    <circle cx="472" cy="91" r="4" fill="#fdba74"><title>07-25 107,400원</title></circle>
-    <circle cx="501" cy="114" r="4" fill="#fdba74"><title>07-26 92,100원</title></circle>
-    <circle cx="530" cy="91" r="4" fill="#fdba74"><title>07-29 107,400원</title></circle>
-    <circle cx="559" cy="127" r="4" fill="#fdba74"><title>07-30 83,500원</title></circle>
+    <path d="M 68 111 L 108 81 L 148 81 L 188 141 L 228 141 L 268 141 L 308 141 L 348 149 L 388 91 L 428 91 L 468 114 L 508 91 L 548 127 L 588 127 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 111 L 108 81 L 148 81 L 188 141 L 228 141 L 268 141 L 308 141 L 348 149 L 388 91 L 428 91 L 468 114 L 508 91 L 548 127 L 588 127" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="111" r="4" fill="#fdba74"><title>07-16 94,000원</title></circle>
+    <circle cx="108" cy="81" r="4" fill="#fdba74"><title>07-17 113,500원</title></circle>
+    <circle cx="148" cy="81" r="4" fill="#fdba74"><title>07-18 113,500원</title></circle>
+    <circle cx="188" cy="141" r="4" fill="#fdba74"><title>07-19 74,100원</title></circle>
+    <circle cx="308" cy="141" r="4" fill="#fdba74"><title>07-22 74,100원</title></circle>
+    <circle cx="348" cy="149" r="4" fill="#fdba74"><title>07-23 69,300원</title></circle>
+    <circle cx="388" cy="91" r="4" fill="#fdba74"><title>07-24 107,400원</title></circle>
+    <circle cx="428" cy="91" r="4" fill="#fdba74"><title>07-25 107,400원</title></circle>
+    <circle cx="468" cy="114" r="4" fill="#fdba74"><title>07-26 92,100원</title></circle>
+    <circle cx="508" cy="91" r="4" fill="#fdba74"><title>07-29 107,400원</title></circle>
+    <circle cx="548" cy="127" r="4" fill="#fdba74"><title>07-30 83,500원</title></circle>
     <circle cx="588" cy="127" r="5" fill="#ea580c"><title>07-31 83,500원</title></circle>
 
     <text x="588" y="115" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">83,500원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-11</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-13</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-15</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
+    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
