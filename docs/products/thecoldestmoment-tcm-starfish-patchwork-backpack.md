@@ -19,7 +19,7 @@ description: 더콜디스트모먼트 TCM starfish patchwork backpack은 독특�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fxGzlralqe",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
