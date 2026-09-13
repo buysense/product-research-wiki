@@ -19,7 +19,7 @@ description: 더콜디스트모먼트 TCM starfish patchwork backpack은 독특�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fxGzlralqe",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-20"
+    "priceValidUntil": "2026-09-21"
   }
 }
 </script>
@@ -43,7 +43,7 @@ description: 더콜디스트모먼트 TCM starfish patchwork backpack은 독특�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12일 중 9일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,24 +52,40 @@ description: 더콜디스트모먼트 TCM starfish patchwork backpack은 독특�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">85,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">80,000</text>
 
-    <path d="M 68 107 L 133 107 L 198 28 L 263 28 L 328 28 L 393 107 L 458 107 L 523 107 L 588 107 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 107 L 133 107 L 198 28 L 263 28 L 328 28 L 393 107 L 458 107 L 523 107 L 588 107" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-07-20" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-21" x1="115" y1="178" x2="115" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-22" x1="163" y1="178" x2="163" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-23" x1="210" y1="178" x2="210" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-24" x1="257" y1="178" x2="257" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-25" x1="304" y1="178" x2="304" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-26" x1="352" y1="178" x2="352" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-27" x1="399" y1="178" x2="399" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-28" x1="446" y1="178" x2="446" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-29" x1="493" y1="178" x2="493" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-30" x1="541" y1="178" x2="541" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-31" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 107 L 115 107 L 163 28 L 210 28 L 257 28 L 304 107 L 352 107 L 541 107 L 588 107 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 107 L 115 107 L 163 28 L 210 28 L 257 28 L 304 107 L 352 107 L 541 107 L 588 107" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="107" r="4" fill="#fdba74"><title>07-20 84,700원</title></circle>
-    <circle cx="133" cy="107" r="4" fill="#fdba74"><title>07-21 84,700원</title></circle>
-    <circle cx="198" cy="28" r="4" fill="#fdba74"><title>07-22 89,900원</title></circle>
-    <circle cx="328" cy="28" r="4" fill="#fdba74"><title>07-24 89,900원</title></circle>
-    <circle cx="393" cy="107" r="4" fill="#fdba74"><title>07-25 84,700원</title></circle>
+    <circle cx="115" cy="107" r="4" fill="#fdba74"><title>07-21 84,700원</title></circle>
+    <circle cx="163" cy="28" r="4" fill="#fdba74"><title>07-22 89,900원</title></circle>
+    <circle cx="210" cy="28" r="4" fill="#fdba74"><title>07-23 89,900원</title></circle>
+    <circle cx="257" cy="28" r="4" fill="#fdba74"><title>07-24 89,900원</title></circle>
+    <circle cx="304" cy="107" r="4" fill="#fdba74"><title>07-25 84,700원</title></circle>
+    <circle cx="352" cy="107" r="4" fill="#fdba74"><title>07-26 84,700원</title></circle>
+    <circle cx="541" cy="107" r="4" fill="#fdba74"><title>07-30 84,700원</title></circle>
     <circle cx="588" cy="107" r="5" fill="#ea580c"><title>07-31 84,700원</title></circle>
 
     <text x="588" y="95" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">84,700원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-27</text>
+    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>
