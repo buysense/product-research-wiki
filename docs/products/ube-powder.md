@@ -16,7 +16,7 @@ description: 필리핀산 보라색 참마를 건조한 우베파우더는 인�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/elmmTG",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-20"
+    "priceValidUntil": "2026-09-21"
   }
 }
 </script>
@@ -38,7 +38,7 @@ description: 필리핀산 보라색 참마를 건조한 우베파우더는 인�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 13개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15일 중 12일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -47,21 +47,46 @@ description: 필리핀산 보라색 참마를 건조한 우베파우더는 인�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">33,900</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">33,800</text>
 
-    <path d="M 68 102 L 111 102 L 155 102 L 198 102 L 241 102 L 285 102 L 328 102 L 371 102 L 415 102 L 458 102 L 501 102 L 545 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 111 102 L 155 102 L 198 102 L 241 102 L 285 102 L 328 102 L 371 102 L 415 102 L 458 102 L 501 102 L 545 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-16 33,900원</title></circle>
+    <line data-date-tick="2026-07-17" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-18" x1="105" y1="178" x2="105" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-19" x1="142" y1="178" x2="142" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-20" x1="179" y1="178" x2="179" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-21" x1="217" y1="178" x2="217" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-22" x1="254" y1="178" x2="254" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-23" x1="291" y1="178" x2="291" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-24" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-25" x1="365" y1="178" x2="365" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-26" x1="402" y1="178" x2="402" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-27" x1="439" y1="178" x2="439" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-28" x1="477" y1="178" x2="477" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-29" x1="514" y1="178" x2="514" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-30" x1="551" y1="178" x2="551" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-31" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 102 L 105 102 L 142 102 L 179 102 L 217 102 L 254 102 L 291 102 L 328 102 L 365 102 L 477 102 L 551 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 105 102 L 142 102 L 179 102 L 217 102 L 254 102 L 291 102 L 328 102 L 365 102 L 477 102 L 551 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-17 33,900원</title></circle>
+    <circle cx="105" cy="102" r="4" fill="#fdba74"><title>07-18 33,900원</title></circle>
+    <circle cx="142" cy="102" r="4" fill="#fdba74"><title>07-19 33,900원</title></circle>
+    <circle cx="179" cy="102" r="4" fill="#fdba74"><title>07-20 33,900원</title></circle>
+    <circle cx="217" cy="102" r="4" fill="#fdba74"><title>07-21 33,900원</title></circle>
+    <circle cx="254" cy="102" r="4" fill="#fdba74"><title>07-22 33,900원</title></circle>
+    <circle cx="291" cy="102" r="4" fill="#fdba74"><title>07-23 33,900원</title></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>07-24 33,900원</title></circle>
+    <circle cx="365" cy="102" r="4" fill="#fdba74"><title>07-25 33,900원</title></circle>
+    <circle cx="477" cy="102" r="4" fill="#fdba74"><title>07-28 33,900원</title></circle>
+    <circle cx="551" cy="102" r="4" fill="#fdba74"><title>07-30 33,900원</title></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"><title>07-31 33,900원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">33,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="111" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="285" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="371" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="545" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>

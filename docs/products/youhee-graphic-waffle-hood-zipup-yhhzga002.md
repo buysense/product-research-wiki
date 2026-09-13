@@ -19,7 +19,7 @@ description: 유희 그래픽 와플 후드 집업 YHHZGA002는 캐주얼하고 
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fnIs8uxzq0",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-20"
+    "priceValidUntil": "2026-09-21"
   }
 }
 </script>
@@ -43,7 +43,7 @@ description: 유희 그래픽 와플 후드 집업 YHHZGA002는 캐주얼하고 
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15일 중 11일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,28 +52,45 @@ description: 유희 그래픽 와플 후드 집업 YHHZGA002는 캐주얼하고 
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <path d="M 68 76 L 115 76 L 163 160 L 210 160 L 257 160 L 304 76 L 352 76 L 399 67 L 446 67 L 493 67 L 541 67 L 588 55 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 76 L 115 76 L 163 160 L 210 160 L 257 160 L 304 76 L 352 76 L 399 67 L 446 67 L 493 67 L 541 67 L 588 55" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="76" r="4" fill="#fdba74"><title>07-16 46,700원</title></circle>
-    <circle cx="115" cy="76" r="4" fill="#fdba74"><title>07-17 46,700원</title></circle>
-    <circle cx="163" cy="160" r="4" fill="#fdba74"><title>07-18 41,200원</title></circle>
-    <circle cx="257" cy="160" r="4" fill="#fdba74"><title>07-20 41,200원</title></circle>
-    <circle cx="304" cy="76" r="4" fill="#fdba74"><title>07-22 46,700원</title></circle>
-    <circle cx="352" cy="76" r="4" fill="#fdba74"><title>07-23 46,700원</title></circle>
-    <circle cx="399" cy="67" r="4" fill="#fdba74"><title>07-24 47,300원</title></circle>
-    <circle cx="541" cy="67" r="4" fill="#fdba74"><title>07-30 47,300원</title></circle>
+    <line data-date-tick="2026-07-17" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-18" x1="105" y1="178" x2="105" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-19" x1="142" y1="178" x2="142" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-20" x1="179" y1="178" x2="179" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-21" x1="217" y1="178" x2="217" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-22" x1="254" y1="178" x2="254" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-23" x1="291" y1="178" x2="291" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-24" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-25" x1="365" y1="178" x2="365" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-26" x1="402" y1="178" x2="402" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-27" x1="439" y1="178" x2="439" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-28" x1="477" y1="178" x2="477" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-29" x1="514" y1="178" x2="514" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-30" x1="551" y1="178" x2="551" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-31" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 76 L 105 160 L 142 160 L 179 160 L 254 76 L 291 76 L 328 67 L 365 67 L 402 67 L 551 67 L 588 55 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 76 L 105 160 L 142 160 L 179 160 L 254 76 L 291 76 L 328 67 L 365 67 L 402 67 L 551 67 L 588 55" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="76" r="4" fill="#fdba74"><title>07-17 46,700원</title></circle>
+    <circle cx="105" cy="160" r="4" fill="#fdba74"><title>07-18 41,200원</title></circle>
+    <circle cx="142" cy="160" r="4" fill="#fdba74"><title>07-19 41,200원</title></circle>
+    <circle cx="179" cy="160" r="4" fill="#fdba74"><title>07-20 41,200원</title></circle>
+    <circle cx="254" cy="76" r="4" fill="#fdba74"><title>07-22 46,700원</title></circle>
+    <circle cx="291" cy="76" r="4" fill="#fdba74"><title>07-23 46,700원</title></circle>
+    <circle cx="328" cy="67" r="4" fill="#fdba74"><title>07-24 47,300원</title></circle>
+    <circle cx="365" cy="67" r="4" fill="#fdba74"><title>07-25 47,300원</title></circle>
+    <circle cx="402" cy="67" r="4" fill="#fdba74"><title>07-26 47,300원</title></circle>
+    <circle cx="551" cy="67" r="4" fill="#fdba74"><title>07-30 47,300원</title></circle>
     <circle cx="588" cy="55" r="5" fill="#ea580c"><title>07-31 48,100원</title></circle>
 
     <text x="588" y="43" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">48,100원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
   </svg>
 </div>

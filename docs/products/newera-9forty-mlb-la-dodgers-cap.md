@@ -20,7 +20,7 @@ description: 뉴에라 9 FORTY MLB LA 다저스 야구모자는 어떤 옷에도
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/eXd8PDF9dA",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-20"
+    "priceValidUntil": "2026-09-21"
   }
 }
 </script>
