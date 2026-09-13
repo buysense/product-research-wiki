@@ -19,7 +19,7 @@ description: 노매뉴얼 R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL은 캐�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fpoctez3oO",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-20"
+    "priceValidUntil": "2026-09-21"
   }
 }
 </script>
@@ -43,7 +43,7 @@ description: 노매뉴얼 R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL은 캐�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10개 가격 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9일 중 9일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,21 +52,36 @@ description: 노매뉴얼 R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL은 캐�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">55,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">54,900</text>
 
-    <path d="M 68 102 L 126 102 L 184 102 L 241 102 L 299 102 L 357 102 L 415 102 L 472 102 L 530 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 126 102 L 184 102 L 241 102 L 299 102 L 357 102 L 415 102 L 472 102 L 530 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-16 55,000원</title></circle>
+    <line data-date-tick="2026-07-17" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-18" x1="133" y1="178" x2="133" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-19" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-20" x1="263" y1="178" x2="263" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-21" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-22" x1="393" y1="178" x2="393" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-23" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-24" x1="523" y1="178" x2="523" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-25" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 102 L 133 102 L 198 102 L 263 102 L 328 102 L 393 102 L 458 102 L 523 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 133 102 L 198 102 L 263 102 L 328 102 L 393 102 L 458 102 L 523 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-17 55,000원</title></circle>
+    <circle cx="133" cy="102" r="4" fill="#fdba74"><title>07-18 55,000원</title></circle>
+    <circle cx="198" cy="102" r="4" fill="#fdba74"><title>07-19 55,000원</title></circle>
+    <circle cx="263" cy="102" r="4" fill="#fdba74"><title>07-20 55,000원</title></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>07-21 55,000원</title></circle>
+    <circle cx="393" cy="102" r="4" fill="#fdba74"><title>07-22 55,000원</title></circle>
+    <circle cx="458" cy="102" r="4" fill="#fdba74"><title>07-23 55,000원</title></circle>
+    <circle cx="523" cy="102" r="4" fill="#fdba74"><title>07-24 55,000원</title></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"><title>07-25 55,000원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">55,000원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-16</text>
-    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
-    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
-    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
-    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-17</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-20</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-21</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
   </svg>
 </div>
