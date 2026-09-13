@@ -16,7 +16,7 @@ description: 닌텐도 스위치 OLED는 휴대 및 거치형 게임기를 고�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/ebhuXi",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-12"
+    "priceValidUntil": "2026-09-20"
   }
 }
 </script>
