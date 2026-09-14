@@ -21,7 +21,7 @@ description: 카메다 해피턴 쌀과자는 특유의 달콤 짭짤한 맛과 
     "price": "8980",
     "url": "https://link.coupang.com/a/g2EO5c7q8q",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-21"
+    "priceValidUntil": "2026-09-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
