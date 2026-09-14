@@ -10,7 +10,6 @@ description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "천연 소가죽 원통 숄더백 파크백",
-  "description": "천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 넉넉한 수납공간을 갖춰 일상에서 편안하게 들기 좋은 데일리 가방입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/21c2/b74bb653ad3cd28eaa54ac4eb54f237bf0f87eccd85ff4df0df7bcc4e80d.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3846/64ac038268c9456cc9c7eaa7de803c85c3c94915d69097876eb223dc81de.jpg"
@@ -20,7 +19,7 @@ description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fHFCAOL6wS",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-21"
+    "priceValidUntil": "2026-09-22"
   }
 }
 </script>

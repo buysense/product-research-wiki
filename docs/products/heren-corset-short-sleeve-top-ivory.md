@@ -10,7 +10,6 @@ description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 �
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "[플리즈노팔로우] Heren Corset Short Sleeve Top (Ivory)",
-  "description": "Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 강조하는 트렌디한 디자인으로, 다양한 캐주얼 및 세미 포멀 스타일에 활용하기 좋은 반팔 상의입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e813/92a3184f47065d35c18d45a4bbb264d15a62bc761821d27bfb4a1619f95b.jpg"
   ],
@@ -19,7 +18,7 @@ description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fuoMphQxS8",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-21"
+    "priceValidUntil": "2026-09-22"
   }
 }
 </script>
