@@ -20,7 +20,7 @@ description: 신당동 우할매 짜장떡볶이는 집에서 간편하게 추�
     "price": "40250",
     "url": "https://link.coupang.com/a/g2wf5QjWtU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-21"
+    "priceValidUntil": "2026-09-22"
   }
 }
 </script>
