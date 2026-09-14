@@ -19,7 +19,7 @@ description: 디벨라 세몰리나 듀럼밀은 홈메이드 파스타나 빵�
     "price": "3460",
     "url": "https://link.coupang.com/a/gPlgcVmXdY",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-21"
+    "priceValidUntil": "2026-09-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -51,7 +51,7 @@ description: 디벨라 세몰리나 듀럼밀은 홈메이드 파스타나 빵�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9일 중 9일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10일 중 10일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -61,36 +61,39 @@ description: 디벨라 세몰리나 듀럼밀은 홈메이드 파스타나 빵�
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">3,400</text>
 
     <line data-date-tick="2026-09-06" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-07" x1="133" y1="178" x2="133" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-08" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-09" x1="263" y1="178" x2="263" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-10" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-11" x1="393" y1="178" x2="393" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-12" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-13" x1="523" y1="178" x2="523" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-14" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 132 L 133 132 L 198 132 L 263 132 L 328 132 L 393 132 L 458 132 L 523 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 132 L 133 132 L 198 132 L 263 132 L 328 132 L 393 132 L 458 132 L 523 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-09-07" x1="126" y1="178" x2="126" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-08" x1="184" y1="178" x2="184" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-09" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-10" x1="299" y1="178" x2="299" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-11" x1="357" y1="178" x2="357" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-12" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-13" x1="472" y1="178" x2="472" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-14" x1="530" y1="178" x2="530" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-15" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 132 L 126 132 L 184 132 L 241 132 L 299 132 L 357 132 L 415 132 L 472 132 L 530 132 L 588 132 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 132 L 126 132 L 184 132 L 241 132 L 299 132 L 357 132 L 415 132 L 472 132 L 530 132 L 588 132" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="132" r="4" fill="#fdba74"><title>09-06 3,460원</title></circle>
-    <circle cx="133" cy="132" r="4" fill="#fdba74"><title>09-07 3,460원</title></circle>
-    <circle cx="198" cy="132" r="4" fill="#fdba74"><title>09-08 3,460원</title></circle>
-    <circle cx="263" cy="132" r="4" fill="#fdba74"><title>09-09 3,460원</title></circle>
-    <circle cx="328" cy="132" r="4" fill="#fdba74"><title>09-10 3,460원</title></circle>
-    <circle cx="393" cy="132" r="4" fill="#fdba74"><title>09-11 3,460원</title></circle>
-    <circle cx="458" cy="132" r="4" fill="#fdba74"><title>09-12 3,460원</title></circle>
-    <circle cx="523" cy="132" r="4" fill="#fdba74"><title>09-13 3,460원</title></circle>
-    <circle cx="588" cy="132" r="5" fill="#ea580c"><title>09-14 3,460원</title></circle>
+    <circle cx="126" cy="132" r="4" fill="#fdba74"><title>09-07 3,460원</title></circle>
+    <circle cx="184" cy="132" r="4" fill="#fdba74"><title>09-08 3,460원</title></circle>
+    <circle cx="241" cy="132" r="4" fill="#fdba74"><title>09-09 3,460원</title></circle>
+    <circle cx="299" cy="132" r="4" fill="#fdba74"><title>09-10 3,460원</title></circle>
+    <circle cx="357" cy="132" r="4" fill="#fdba74"><title>09-11 3,460원</title></circle>
+    <circle cx="415" cy="132" r="4" fill="#fdba74"><title>09-12 3,460원</title></circle>
+    <circle cx="472" cy="132" r="4" fill="#fdba74"><title>09-13 3,460원</title></circle>
+    <circle cx="530" cy="132" r="4" fill="#fdba74"><title>09-14 3,460원</title></circle>
+    <circle cx="588" cy="132" r="5" fill="#ea580c"><title>09-15 3,460원</title></circle>
 
     <text x="588" y="120" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">3,460원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
