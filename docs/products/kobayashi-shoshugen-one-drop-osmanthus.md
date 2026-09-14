@@ -10,7 +10,6 @@ description: 고바야시 쇼슈겐 한방울 방향제 금목서향은 화장�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "고바야시 쇼슈겐 한방울 방향제 금목서향",
-  "description": "고바야시 쇼슈겐 한방울 방향제 금목서향은 화장실의 불쾌한 냄새를 한 방울로 빠르게 제거하며, 은은한 금목서 향으로 상쾌함을 선사하는 휴대용 방향제입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e2a5/9763a3f7cf8eb686166a6f685f0cf6db2b7b1847303ff0784d80141c7682.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5ef4/6c48cfd2bfd55c63870e451233e430f3ac1cca38b88ca0ee3dfd147e1af0.png"
@@ -21,7 +20,7 @@ description: 고바야시 쇼슈겐 한방울 방향제 금목서향은 화장�
     "price": "19900",
     "url": "https://link.coupang.com/a/gZlHWANO6S",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-21"
+    "priceValidUntil": "2026-09-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -53,7 +52,7 @@ description: 고바야시 쇼슈겐 한방울 방향제 금목서향은 화장�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3일 중 3일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4일 중 4일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -63,18 +62,21 @@ description: 고바야시 쇼슈겐 한방울 방향제 금목서향은 화장�
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">19,800</text>
 
     <line data-date-tick="2026-09-12" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-13" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-14" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-09-13" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-14" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-15" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 102 L 241 102 L 415 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 241 102 L 415 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"><title>09-12 19,900원</title></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>09-13 19,900원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-14 19,900원</title></circle>
+    <circle cx="241" cy="102" r="4" fill="#fdba74"><title>09-13 19,900원</title></circle>
+    <circle cx="415" cy="102" r="4" fill="#fdba74"><title>09-14 19,900원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-15 19,900원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">19,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
