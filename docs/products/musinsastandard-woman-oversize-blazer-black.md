@@ -10,7 +10,6 @@ description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "무신사 스탠다드 우먼 MUSINSASTANDARDWOMAN 우먼즈 오버 숄더 오버사이즈 블레이저 블랙",
-  "description": "무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블레이저 블랙은 편안하면서도 스타일리시한 연출을 위한 아우터로, 일상복부터 세미 오피스룩까지 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c072/9e1183dbe40a239750ef9408c0c1b52e9ddc55cc22c3aaba0f7469f03d00.jpg"
   ],
@@ -19,7 +18,7 @@ description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f4t4rxRyP6",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-21"
+    "priceValidUntil": "2026-09-22"
   }
 }
 </script>
