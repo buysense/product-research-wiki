@@ -10,7 +10,6 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "jansport-big-student-backpack",
-  "description": "잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공간과 편안한 착용감을 제공하여 중고등학생들의 학용품이나 여행용품을 보관하기에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/21/16/2/95fa6cc5-7736-406e-b7d7-76c00f4be60f.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/px6orrhz/9b02f4c62c1445c982e98e85743b4c30.jpg"
@@ -20,7 +19,7 @@ description: 잔스포츠 빅스튜던트 백팩은 34L의 넉넉한 수납공�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/exUBa1",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-21"
+    "priceValidUntil": "2026-09-22"
   }
 }
 </script>

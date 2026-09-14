@@ -10,7 +10,6 @@ description: 뉴에라 9 FORTY MLB LA 다저스 야구모자는 어떤 옷에도
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "뉴에라 9 FORTY MLB 야구모자 LA 다저스",
-  "description": "뉴에라 9 FORTY MLB LA 다저스 야구모자는 어떤 옷에도 무난하게 잘 어울리며, 안정적인 핏과 깊이감으로 데일리 코디나 가벼운 외출 시 활용하기 좋은 아이템입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b44f/5f61c4d1b3ea1f5a79d0906d0b4bd2a09f9ad099f6ebb8aa00f865f443e7.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b931/c5c68d7d1c95bf894fe6a4078607e668ca5f0ab613e168d91ee12903b4c6.jpg"
@@ -20,7 +19,7 @@ description: 뉴에라 9 FORTY MLB LA 다저스 야구모자는 어떤 옷에도
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/eXd8PDF9dA",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-21"
+    "priceValidUntil": "2026-09-22"
   }
 }
 </script>

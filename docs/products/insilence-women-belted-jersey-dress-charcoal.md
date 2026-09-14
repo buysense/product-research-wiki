@@ -10,7 +10,6 @@ description: 인사일런스 벨티드 져지 원피스 차콜은 편안한 착�
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL",
-  "description": "인사일런스 벨티드 져지 원피스 차콜은 편안한 착용감과 세련된 디자인으로 데일리룩, 오피스룩, 캐주얼 모임 등 다양한 상황에 활용하기 좋은 여성 의류입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e493/2ff2a6a9c592d1c7d6c5d311aa71cffd4953f26fb7c455f7b27cbda54b12.jpg"
   ],
@@ -19,7 +18,7 @@ description: 인사일런스 벨티드 져지 원피스 차콜은 편안한 착�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f8bxoGsrWS",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-21"
+    "priceValidUntil": "2026-09-22"
   }
 }
 </script>
