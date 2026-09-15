@@ -18,7 +18,7 @@ description: 무신사 스탠다드 우먼즈 오버 숄더 오버사이즈 블�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f4t4rxRyP6",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-22"
+    "priceValidUntil": "2026-09-23"
   }
 }
 </script>

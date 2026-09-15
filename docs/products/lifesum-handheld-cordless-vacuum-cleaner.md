@@ -19,7 +19,7 @@ description: 라이프썸 핸디형 무선 청소기는 감각적인 디자인�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dTVFBE3xgO",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-22"
+    "priceValidUntil": "2026-09-23"
   }
 }
 </script>
@@ -43,7 +43,7 @@ description: 라이프썸 핸디형 무선 청소기는 감각적인 디자인�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 33일 중 15일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 32일 중 14일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -52,67 +52,65 @@ description: 라이프썸 핸디형 무선 청소기는 감각적인 디자인�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">45,000</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">40,000</text>
 
-    <line data-date-tick="2026-07-18" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-19" x1="84" y1="178" x2="84" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-20" x1="101" y1="178" x2="101" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-21" x1="117" y1="178" x2="117" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-22" x1="133" y1="178" x2="133" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-23" x1="149" y1="178" x2="149" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-24" x1="166" y1="178" x2="166" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-25" x1="182" y1="178" x2="182" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-26" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-27" x1="214" y1="178" x2="214" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-28" x1="231" y1="178" x2="231" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-29" x1="247" y1="178" x2="247" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-30" x1="263" y1="178" x2="263" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-31" x1="279" y1="178" x2="279" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-01" x1="296" y1="178" x2="296" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-02" x1="312" y1="178" x2="312" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-03" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-04" x1="344" y1="178" x2="344" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-05" x1="361" y1="178" x2="361" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-06" x1="377" y1="178" x2="377" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-07" x1="393" y1="178" x2="393" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-08" x1="409" y1="178" x2="409" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-09" x1="426" y1="178" x2="426" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-10" x1="442" y1="178" x2="442" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-11" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-12" x1="474" y1="178" x2="474" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-13" x1="491" y1="178" x2="491" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-14" x1="507" y1="178" x2="507" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-15" x1="523" y1="178" x2="523" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-16" x1="539" y1="178" x2="539" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-17" x1="556" y1="178" x2="556" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-18" x1="572" y1="178" x2="572" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-19" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-20" x1="85" y1="178" x2="85" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-21" x1="102" y1="178" x2="102" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-22" x1="118" y1="178" x2="118" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-23" x1="135" y1="178" x2="135" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-24" x1="152" y1="178" x2="152" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-25" x1="169" y1="178" x2="169" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-26" x1="185" y1="178" x2="185" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-27" x1="202" y1="178" x2="202" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-28" x1="219" y1="178" x2="219" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-29" x1="236" y1="178" x2="236" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-30" x1="253" y1="178" x2="253" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-31" x1="269" y1="178" x2="269" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-01" x1="286" y1="178" x2="286" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-02" x1="303" y1="178" x2="303" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-03" x1="320" y1="178" x2="320" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-04" x1="336" y1="178" x2="336" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-05" x1="353" y1="178" x2="353" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-06" x1="370" y1="178" x2="370" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-07" x1="387" y1="178" x2="387" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-08" x1="403" y1="178" x2="403" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-09" x1="420" y1="178" x2="420" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-10" x1="437" y1="178" x2="437" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-11" x1="454" y1="178" x2="454" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-12" x1="471" y1="178" x2="471" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-13" x1="487" y1="178" x2="487" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-14" x1="504" y1="178" x2="504" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-15" x1="521" y1="178" x2="521" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-16" x1="538" y1="178" x2="538" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-17" x1="554" y1="178" x2="554" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-18" x1="571" y1="178" x2="571" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
     <line data-date-tick="2026-08-19" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 28 L 84 28 L 101 28 L 117 28 L 133 28 L 149 28 L 166 28 L 182 28 L 198 28 L 263 28 L 279 28 L 312 28 L 328 28 L 344 28 L 588 119 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 28 L 84 28 L 101 28 L 117 28 L 133 28 L 149 28 L 166 28 L 182 28 L 198 28 L 263 28 L 279 28 L 312 28 L 328 28 L 344 28 L 588 119" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="28" r="4" fill="#fdba74"><title>07-18 49,900원</title></circle>
-    <circle cx="84" cy="28" r="4" fill="#fdba74"><title>07-19 49,900원</title></circle>
-    <circle cx="101" cy="28" r="4" fill="#fdba74"><title>07-20 49,900원</title></circle>
-    <circle cx="117" cy="28" r="4" fill="#fdba74"><title>07-21 49,900원</title></circle>
-    <circle cx="133" cy="28" r="4" fill="#fdba74"><title>07-22 49,900원</title></circle>
-    <circle cx="149" cy="28" r="4" fill="#fdba74"><title>07-23 49,900원</title></circle>
-    <circle cx="166" cy="28" r="4" fill="#fdba74"><title>07-24 49,900원</title></circle>
-    <circle cx="182" cy="28" r="4" fill="#fdba74"><title>07-25 49,900원</title></circle>
-    <circle cx="198" cy="28" r="4" fill="#fdba74"><title>07-26 49,900원</title></circle>
-    <circle cx="263" cy="28" r="4" fill="#fdba74"><title>07-30 49,900원</title></circle>
-    <circle cx="279" cy="28" r="4" fill="#fdba74"><title>07-31 49,900원</title></circle>
-    <circle cx="312" cy="28" r="4" fill="#fdba74"><title>08-02 49,900원</title></circle>
-    <circle cx="328" cy="28" r="4" fill="#fdba74"><title>08-03 49,900원</title></circle>
-    <circle cx="344" cy="28" r="4" fill="#fdba74"><title>08-04 49,900원</title></circle>
+    <path d="M 68 28 L 85 28 L 102 28 L 118 28 L 135 28 L 152 28 L 169 28 L 185 28 L 253 28 L 269 28 L 303 28 L 320 28 L 336 28 L 588 119 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 28 L 85 28 L 102 28 L 118 28 L 135 28 L 152 28 L 169 28 L 185 28 L 253 28 L 269 28 L 303 28 L 320 28 L 336 28 L 588 119" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="28" r="4" fill="#fdba74"><title>07-19 49,900원</title></circle>
+    <circle cx="85" cy="28" r="4" fill="#fdba74"><title>07-20 49,900원</title></circle>
+    <circle cx="102" cy="28" r="4" fill="#fdba74"><title>07-21 49,900원</title></circle>
+    <circle cx="118" cy="28" r="4" fill="#fdba74"><title>07-22 49,900원</title></circle>
+    <circle cx="135" cy="28" r="4" fill="#fdba74"><title>07-23 49,900원</title></circle>
+    <circle cx="152" cy="28" r="4" fill="#fdba74"><title>07-24 49,900원</title></circle>
+    <circle cx="169" cy="28" r="4" fill="#fdba74"><title>07-25 49,900원</title></circle>
+    <circle cx="185" cy="28" r="4" fill="#fdba74"><title>07-26 49,900원</title></circle>
+    <circle cx="253" cy="28" r="4" fill="#fdba74"><title>07-30 49,900원</title></circle>
+    <circle cx="269" cy="28" r="4" fill="#fdba74"><title>07-31 49,900원</title></circle>
+    <circle cx="303" cy="28" r="4" fill="#fdba74"><title>08-02 49,900원</title></circle>
+    <circle cx="320" cy="28" r="4" fill="#fdba74"><title>08-03 49,900원</title></circle>
+    <circle cx="336" cy="28" r="4" fill="#fdba74"><title>08-04 49,900원</title></circle>
     <circle cx="588" cy="119" r="5" fill="#ea580c"><title>08-19 43,910원</title></circle>
 
     <text x="588" y="107" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">43,910원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-18</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="182" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="296" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="361" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-08</text>
-    <text x="474" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-12</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-15</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-19</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
+    <text x="185" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="236" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="303" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-02</text>
+    <text x="353" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
+    <text x="420" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-09</text>
+    <text x="471" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-12</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-16</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-19</text>
   </svg>
 </div>
