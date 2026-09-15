@@ -18,7 +18,7 @@ description: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE는 슬림한 실루
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fZVPAWkBMW",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-22"
+    "priceValidUntil": "2026-09-23"
   }
 }
 </script>
