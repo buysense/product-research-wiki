@@ -19,7 +19,7 @@ description: PROJECT WAVE Square Lace Slit Top은 스퀘어 넥라인과 레이�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f4tv3N5taS",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-22"
+    "priceValidUntil": "2026-09-23"
   }
 }
 </script>
