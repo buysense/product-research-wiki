@@ -16,9 +16,17 @@ description: 도도레이블 휴대용 아이돌 화이트태닝 스프레이는
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
+    "price": "17000",
     "url": "https://link.coupang.com/a/gyJgoYowBV",
-    "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-23"
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-09-24"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.6,
+    "reviewCount": 142,
+    "bestRating": 5,
+    "worstRating": 1
   }
 }
 </script>
@@ -34,7 +42,7 @@ description: 도도레이블 휴대용 아이돌 화이트태닝 스프레이는
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 17,000원 · 별점 4.6 · 리뷰 142개</span>
     <a href="https://link.coupang.com/a/gyJgoYowBV" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -43,7 +51,7 @@ description: 도도레이블 휴대용 아이돌 화이트태닝 스프레이는
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7일 중 7일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22일 중 8일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -53,30 +61,49 @@ description: 도도레이블 휴대용 아이돌 화이트태닝 스프레이는
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">16,900</text>
 
     <line data-date-tick="2026-08-27" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-28" x1="155" y1="178" x2="155" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-29" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-30" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-31" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-01" x1="501" y1="178" x2="501" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-02" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 102 L 501 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 155 102 L 241 102 L 328 102 L 415 102 L 501 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-08-28" x1="93" y1="178" x2="93" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-29" x1="118" y1="178" x2="118" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-30" x1="142" y1="178" x2="142" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-08-31" x1="167" y1="178" x2="167" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-01" x1="192" y1="178" x2="192" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-02" x1="217" y1="178" x2="217" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-03" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-04" x1="266" y1="178" x2="266" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-05" x1="291" y1="178" x2="291" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-06" x1="316" y1="178" x2="316" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-07" x1="340" y1="178" x2="340" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-08" x1="365" y1="178" x2="365" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-09" x1="390" y1="178" x2="390" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-10" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-11" x1="439" y1="178" x2="439" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-12" x1="464" y1="178" x2="464" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-13" x1="489" y1="178" x2="489" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-14" x1="514" y1="178" x2="514" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-15" x1="538" y1="178" x2="538" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-16" x1="563" y1="178" x2="563" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-17" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 102 L 93 102 L 118 102 L 142 102 L 167 102 L 192 102 L 217 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 93 102 L 118 102 L 142 102 L 167 102 L 192 102 L 217 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"><title>08-27 17,000원</title></circle>
-    <circle cx="155" cy="102" r="4" fill="#fdba74"><title>08-28 17,000원</title></circle>
-    <circle cx="241" cy="102" r="4" fill="#fdba74"><title>08-29 17,000원</title></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>08-30 17,000원</title></circle>
-    <circle cx="415" cy="102" r="4" fill="#fdba74"><title>08-31 17,000원</title></circle>
-    <circle cx="501" cy="102" r="4" fill="#fdba74"><title>09-01 17,000원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-02 17,000원</title></circle>
+    <circle cx="93" cy="102" r="4" fill="#fdba74"><title>08-28 17,000원</title></circle>
+    <circle cx="118" cy="102" r="4" fill="#fdba74"><title>08-29 17,000원</title></circle>
+    <circle cx="142" cy="102" r="4" fill="#fdba74"><title>08-30 17,000원</title></circle>
+    <circle cx="167" cy="102" r="4" fill="#fdba74"><title>08-31 17,000원</title></circle>
+    <circle cx="192" cy="102" r="4" fill="#fdba74"><title>09-01 17,000원</title></circle>
+    <circle cx="217" cy="102" r="4" fill="#fdba74"><title>09-02 17,000원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-17 17,000원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">17,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-27</text>
-    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-28</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-31</text>
-    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-29</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -171,7 +198,7 @@ A. 스프레이 도포 후 충분히 건조시키지 않으면 옷이나 소지�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 17,000원 · 별점 4.6 · 리뷰 142개</span>
     <a href="https://link.coupang.com/a/gyJgoYowBV" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
