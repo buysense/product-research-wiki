@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 일본 큐렐 입욕제 배쓰밀크 | [보기](products/japan-curel-bath-milk.md) |
 | 카메다 해피턴 쌀과자 | [보기](products/kameda-happy-turn-rice-cracker.md) |
 | 신당동 우할매 짜장떡볶이 | [보기](products/sindangdong-woo-halmae-jjajang-tteokbokki.md) |
 | 포카칩 오리온 황치즈 | [보기](products/pocachip-orion-hwangcheese.md) |
