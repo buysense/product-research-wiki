@@ -21,7 +21,7 @@ description: 일본 큐렐 입욕제 배쓰밀크는 건조하고 민감한 피�
     "price": "29750",
     "url": "https://link.coupang.com/a/g5QT9edN4m",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-23"
+    "priceValidUntil": "2026-09-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
