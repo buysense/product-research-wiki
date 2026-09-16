@@ -21,7 +21,7 @@ description: 파예 무지방 그릭 요거트 허니는 건강한 식단 관리
     "price": "11440",
     "url": "https://link.coupang.com/a/g5TcOVeDpA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-23"
+    "priceValidUntil": "2026-09-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
