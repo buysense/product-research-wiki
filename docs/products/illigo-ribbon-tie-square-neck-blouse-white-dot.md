@@ -18,7 +18,7 @@ description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/ga4c9Pkro4",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-23"
+    "priceValidUntil": "2026-09-24"
   }
 }
 </script>
