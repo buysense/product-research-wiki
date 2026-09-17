@@ -19,7 +19,7 @@ description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fF1B0SKg32",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-24"
+    "priceValidUntil": "2026-09-25"
   }
 }
 </script>
@@ -34,60 +34,13 @@ description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
-    <a href="https://link.coupang.com/a/fF1B0SKg32" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+    <span style="font-size: 0.9em; color: #888; font-weight: bold; white-space: nowrap;">현재 판매중지</span>
+    <a href="https://link.coupang.com/a/fF1B0SKg32" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12일 중 7일 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">250,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">200,000</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">150,000</text>
-
-    <line data-date-tick="2026-07-25" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-26" x1="115" y1="178" x2="115" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-27" x1="163" y1="178" x2="163" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-28" x1="210" y1="178" x2="210" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-29" x1="257" y1="178" x2="257" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-30" x1="304" y1="178" x2="304" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-31" x1="352" y1="178" x2="352" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-01" x1="399" y1="178" x2="399" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-02" x1="446" y1="178" x2="446" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-03" x1="493" y1="178" x2="493" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-04" x1="541" y1="178" x2="541" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-05" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 133 L 115 133 L 304 133 L 352 133 L 446 39 L 493 39 L 588 39 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 133 L 115 133 L 304 133 L 352 133 L 446 39 L 493 39 L 588 39" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="133" r="4" fill="#fdba74"><title>07-25 179,800원</title></circle>
-    <circle cx="115" cy="133" r="4" fill="#fdba74"><title>07-26 179,800원</title></circle>
-    <circle cx="304" cy="133" r="4" fill="#fdba74"><title>07-30 179,800원</title></circle>
-    <circle cx="352" cy="133" r="4" fill="#fdba74"><title>07-31 179,800원</title></circle>
-    <circle cx="446" cy="39" r="4" fill="#fdba74"><title>08-02 241,600원</title></circle>
-    <circle cx="493" cy="39" r="4" fill="#fdba74"><title>08-03 241,600원</title></circle>
-    <circle cx="588" cy="39" r="5" fill="#ea580c"><title>08-05 241,600원</title></circle>
-
-    <text x="588" y="27" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">241,600원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-27</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-03</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-04</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-05</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 
@@ -177,8 +130,8 @@ A. 일상적인 카페 방문, 친구와의 약속, 가벼운 외출 시 데일�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡에서 가격 확인</span>
-    <a href="https://link.coupang.com/a/fF1B0SKg32" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+    <span style="font-size:0.9em; color:#888; font-weight:bold;">현재 판매중지</span>
+    <a href="https://link.coupang.com/a/fF1B0SKg32" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
 
