@@ -21,7 +21,7 @@ description: 일본 큐렐 입욕제 배쓰밀크는 건조하고 민감한 피�
     "price": "29750",
     "url": "https://link.coupang.com/a/g5QT9edN4m",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-24"
+    "priceValidUntil": "2026-09-25"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -51,6 +51,33 @@ description: 일본 큐렐 입욕제 배쓰밀크는 건조하고 민감한 피�
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3일 중 3일 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">29,900</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">29,800</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">29,700</text>
+
+    <line data-date-tick="2026-09-16" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-17" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-18" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 140 L 328 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 328 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="140" r="4" fill="#fdba74"><title>09-16 29,750원</title></circle>
+    <circle cx="328" cy="140" r="4" fill="#fdba74"><title>09-17 29,750원</title></circle>
+    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>09-18 29,750원</title></circle>
+
+    <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">29,750원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-16</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-17</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-18</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요
