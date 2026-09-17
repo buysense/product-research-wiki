@@ -17,17 +17,9 @@ description: 명가삼대떡집 전통발효술떡 방울증편 잔기지떡은 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "11900",
     "url": "https://link.coupang.com/a/gIEskOlIXY",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-24"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": 4.3,
-    "reviewCount": 49,
-    "bestRating": 5,
-    "worstRating": 1
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-09-25"
   }
 }
 </script>
@@ -43,73 +35,13 @@ description: 명가삼대떡집 전통발효술떡 방울증편 잔기지떡은 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,900원 · 별점 4.3 · 리뷰 49개</span>
-    <a href="https://link.coupang.com/a/gIEskOlIXY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+    <span style="font-size: 0.9em; color: #888; font-weight: bold; white-space: nowrap;">현재 판매중지</span>
+    <a href="https://link.coupang.com/a/gIEskOlIXY" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 16일 중 16일 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">12,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">11,900</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">11,800</text>
-
-    <line data-date-tick="2026-09-02" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-03" x1="103" y1="178" x2="103" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-04" x1="137" y1="178" x2="137" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-05" x1="172" y1="178" x2="172" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-06" x1="207" y1="178" x2="207" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-07" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-08" x1="276" y1="178" x2="276" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-09" x1="311" y1="178" x2="311" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-10" x1="345" y1="178" x2="345" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-11" x1="380" y1="178" x2="380" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-12" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-13" x1="449" y1="178" x2="449" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-14" x1="484" y1="178" x2="484" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-15" x1="519" y1="178" x2="519" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-16" x1="553" y1="178" x2="553" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-17" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 102 L 103 102 L 137 102 L 172 102 L 207 102 L 241 102 L 276 102 L 311 102 L 345 102 L 380 102 L 415 102 L 449 102 L 484 102 L 519 102 L 553 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 103 102 L 137 102 L 172 102 L 207 102 L 241 102 L 276 102 L 311 102 L 345 102 L 380 102 L 415 102 L 449 102 L 484 102 L 519 102 L 553 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>09-02 11,900원</title></circle>
-    <circle cx="103" cy="102" r="4" fill="#fdba74"><title>09-03 11,900원</title></circle>
-    <circle cx="137" cy="102" r="4" fill="#fdba74"><title>09-04 11,900원</title></circle>
-    <circle cx="172" cy="102" r="4" fill="#fdba74"><title>09-05 11,900원</title></circle>
-    <circle cx="207" cy="102" r="4" fill="#fdba74"><title>09-06 11,900원</title></circle>
-    <circle cx="241" cy="102" r="4" fill="#fdba74"><title>09-07 11,900원</title></circle>
-    <circle cx="276" cy="102" r="4" fill="#fdba74"><title>09-08 11,900원</title></circle>
-    <circle cx="311" cy="102" r="4" fill="#fdba74"><title>09-09 11,900원</title></circle>
-    <circle cx="345" cy="102" r="4" fill="#fdba74"><title>09-10 11,900원</title></circle>
-    <circle cx="380" cy="102" r="4" fill="#fdba74"><title>09-11 11,900원</title></circle>
-    <circle cx="415" cy="102" r="4" fill="#fdba74"><title>09-12 11,900원</title></circle>
-    <circle cx="449" cy="102" r="4" fill="#fdba74"><title>09-13 11,900원</title></circle>
-    <circle cx="484" cy="102" r="4" fill="#fdba74"><title>09-14 11,900원</title></circle>
-    <circle cx="519" cy="102" r="4" fill="#fdba74"><title>09-15 11,900원</title></circle>
-    <circle cx="553" cy="102" r="4" fill="#fdba74"><title>09-16 11,900원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-17 11,900원</title></circle>
-
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">11,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-02</text>
-    <text x="137" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-05</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="311" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
-    <text x="345" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
-    <text x="519" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-17</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요
@@ -187,8 +119,8 @@ A. 전통 막걸리 발효 방식을 사용하기 때문에 은은한 발효 향
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,900원 · 별점 4.3 · 리뷰 49개</span>
-    <a href="https://link.coupang.com/a/gIEskOlIXY" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+    <span style="font-size:0.9em; color:#888; font-weight:bold;">현재 판매중지</span>
+    <a href="https://link.coupang.com/a/gIEskOlIXY" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
 
