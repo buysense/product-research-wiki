@@ -18,7 +18,7 @@ description: 한스킨 블랙헤드 클렌징 오일 PHA는 모공 속 블랙헤
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/erHbFNwEdU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-24"
+    "priceValidUntil": "2026-09-25"
   }
 }
 </script>
