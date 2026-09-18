@@ -20,7 +20,7 @@ description: 로지오가닉 당당한 젤리 3종 세트는 합성첨가물 없
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dTXyXZA9fw",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>
