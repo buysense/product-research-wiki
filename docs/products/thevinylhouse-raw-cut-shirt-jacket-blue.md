@@ -19,7 +19,7 @@ description: THEVINYLHOUSE RAW CUT SHIRT JACKET BLUE는 자연스러운 날 것�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f1AbuHTz2G",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>

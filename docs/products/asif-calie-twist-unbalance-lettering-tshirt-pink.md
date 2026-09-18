@@ -18,7 +18,7 @@ description: 에즈이프 캘리 트위스트 언밸런스 레터링 티셔츠 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fpnMdS6W0y",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>
