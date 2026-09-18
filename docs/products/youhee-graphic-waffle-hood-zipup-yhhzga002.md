@@ -19,7 +19,7 @@ description: 유희 그래픽 와플 후드 집업 YHHZGA002는 캐주얼하고 
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fnIs8uxzq0",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>

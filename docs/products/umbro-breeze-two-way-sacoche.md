@@ -19,7 +19,7 @@ description: 엄브로 브리즈 투웨이 샤코슈는 가볍고 활동적인 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/evri57",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>
