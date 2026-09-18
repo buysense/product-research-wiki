@@ -19,7 +19,7 @@ description: 라이프썸 핸디형 무선 청소기는 감각적인 디자인�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dTVFBE3xgO",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>
