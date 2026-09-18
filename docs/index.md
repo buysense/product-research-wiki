@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 츠바키 프리미엄 리페어 헤어 마스크 | [보기](products/tsubaki-premium-repair-hair-mask.md) |
 | NIMS 님스 코코크런치 크리스피 초코컵 | [보기](products/nims-cococrunch-crispy-chococup.md) |
 | 파예 무지방 그릭 요거트 허니 | [보기](products/fage-total-0-greek-yogurt-honey.md) |
 | 일본 큐렐 입욕제 배쓰밀크 | [보기](products/japan-curel-bath-milk.md) |
