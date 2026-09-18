@@ -21,12 +21,12 @@ description: 포카칩 오리온 황치즈는 기존 포카칩에 황치즈 맛�
     "price": "2670",
     "url": "https://link.coupang.com/a/g0PpAk3SVg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 216,
+    "reviewCount": 247,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +44,7 @@ description: 포카칩 오리온 황치즈는 기존 포카칩에 황치즈 맛�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,670원 · 별점 4.5 · 리뷰 216개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 2,670원 · 별점 4.5 · 리뷰 247개</span>
     <a href="https://link.coupang.com/a/g0PpAk3SVg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -53,7 +53,7 @@ description: 포카칩 오리온 황치즈는 기존 포카칩에 황치즈 맛�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6일 중 6일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 7일 중 7일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -63,27 +63,30 @@ description: 포카칩 오리온 황치즈는 기존 포카칩에 황치즈 맛�
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">2,600</text>
 
     <line data-date-tick="2026-09-13" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-14" x1="172" y1="178" x2="172" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-15" x1="276" y1="178" x2="276" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-16" x1="380" y1="178" x2="380" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-17" x1="484" y1="178" x2="484" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-18" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 125 L 172 125 L 276 125 L 380 125 L 484 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 125 L 172 125 L 276 125 L 380 125 L 484 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-09-14" x1="155" y1="178" x2="155" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-15" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-16" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-17" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-18" x1="501" y1="178" x2="501" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-19" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 125 L 155 125 L 241 125 L 328 125 L 415 125 L 501 125 L 588 125 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 125 L 155 125 L 241 125 L 328 125 L 415 125 L 501 125 L 588 125" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="125" r="4" fill="#fdba74"><title>09-13 2,670원</title></circle>
-    <circle cx="172" cy="125" r="4" fill="#fdba74"><title>09-14 2,670원</title></circle>
-    <circle cx="276" cy="125" r="4" fill="#fdba74"><title>09-15 2,670원</title></circle>
-    <circle cx="380" cy="125" r="4" fill="#fdba74"><title>09-16 2,670원</title></circle>
-    <circle cx="484" cy="125" r="4" fill="#fdba74"><title>09-17 2,670원</title></circle>
-    <circle cx="588" cy="125" r="5" fill="#ea580c"><title>09-18 2,670원</title></circle>
+    <circle cx="155" cy="125" r="4" fill="#fdba74"><title>09-14 2,670원</title></circle>
+    <circle cx="241" cy="125" r="4" fill="#fdba74"><title>09-15 2,670원</title></circle>
+    <circle cx="328" cy="125" r="4" fill="#fdba74"><title>09-16 2,670원</title></circle>
+    <circle cx="415" cy="125" r="4" fill="#fdba74"><title>09-17 2,670원</title></circle>
+    <circle cx="501" cy="125" r="4" fill="#fdba74"><title>09-18 2,670원</title></circle>
+    <circle cx="588" cy="125" r="5" fill="#ea580c"><title>09-19 2,670원</title></circle>
 
     <text x="588" y="113" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">2,670원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-16</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-18</text>
+    <text x="155" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-16</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-17</text>
+    <text x="501" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-19</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -161,7 +164,7 @@ A. 개봉 후에는 밀봉하여 습기가 없는 서늘한 곳에 보관하는 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,670원 · 별점 4.5 · 리뷰 216개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 2,670원 · 별점 4.5 · 리뷰 247개</span>
     <a href="https://link.coupang.com/a/g0PpAk3SVg" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
