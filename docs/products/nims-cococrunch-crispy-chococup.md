@@ -18,15 +18,15 @@ description: NIMS 님스 코코크런치 크리스피 초코컵은 바삭한 초
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "7160",
+    "price": "7150",
     "url": "https://link.coupang.com/a/g8WW53CU5k",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 241,
+    "reviewCount": 242,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +44,7 @@ description: NIMS 님스 코코크런치 크리스피 초코컵은 바삭한 초
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,160원 · 별점 4.6 · 리뷰 241개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,150원 · 별점 4.6 · 리뷰 242개</span>
     <a href="https://link.coupang.com/a/g8WW53CU5k" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -139,7 +139,7 @@ A. 달콤한 맛과 바삭한 식감으로 인해 아이들도 일반적으로 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,160원 · 별점 4.6 · 리뷰 241개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,150원 · 별점 4.6 · 리뷰 242개</span>
     <a href="https://link.coupang.com/a/g8WW53CU5k" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>

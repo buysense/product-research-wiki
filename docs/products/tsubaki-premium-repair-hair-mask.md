@@ -21,7 +21,7 @@ description: 츠바키 프리미엄 리페어 헤어 마스크는 손상된 모�
     "price": "13360",
     "url": "https://link.coupang.com/a/g8XcD2fFqm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
