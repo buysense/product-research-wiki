@@ -18,7 +18,7 @@ description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fun277NGQ8",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>

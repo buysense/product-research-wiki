@@ -19,7 +19,7 @@ description: 락케이크 Classic Henly Neck Top - Gray는 편안하면서도 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/ga3L7cwg6m",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>
