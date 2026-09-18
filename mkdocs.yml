@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - NIMS 님스 코코크런치 크리스피 초코컵: products/nims-cococrunch-crispy-chococup.md
     - 파예 무지방 그릭 요거트 허니: products/fage-total-0-greek-yogurt-honey.md
     - 일본 큐렐 입욕제 배쓰밀크: products/japan-curel-bath-milk.md
     - 카메다 해피턴 쌀과자: products/kameda-happy-turn-rice-cracker.md
