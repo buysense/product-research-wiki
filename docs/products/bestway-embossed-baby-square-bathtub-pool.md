@@ -19,7 +19,7 @@ description: 베스트웨이 엠보싱 유아 사각 욕조 풀장은 집에서 
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dSIm468pHg",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>

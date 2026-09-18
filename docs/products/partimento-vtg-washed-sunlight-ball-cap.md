@@ -19,7 +19,7 @@ description: 파르티멘토 VTG 워시드 리뉴얼 선라이트 볼 캡은 자
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f9Pd0BivRs",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>
