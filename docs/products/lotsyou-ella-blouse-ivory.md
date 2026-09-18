@@ -18,7 +18,7 @@ description: 랏츠유 엘라 블라우스 아이보리 109501은 단정하고 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fftO3c7Xbw",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-25"
+    "priceValidUntil": "2026-09-26"
   }
 }
 </script>
