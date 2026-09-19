@@ -20,12 +20,12 @@ description: 꼬깔콘 애플 시나몬맛은 익숙한 꼬깔콘에 사과와 �
     "price": "10910",
     "url": "https://link.coupang.com/a/gDHxPpTOpx",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-26"
+    "priceValidUntil": "2026-09-27"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.5,
-    "reviewCount": 8,
+    "ratingValue": 4.6,
+    "reviewCount": 9,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 꼬깔콘 애플 시나몬맛은 익숙한 꼬깔콘에 사과와 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,910원 · 별점 4.5 · 리뷰 8개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,910원 · 별점 4.6 · 리뷰 9개</span>
     <a href="https://link.coupang.com/a/gDHxPpTOpx" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 꼬깔콘 애플 시나몬맛은 익숙한 꼬깔콘에 사과와 �
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 21일 중 9일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 22일 중 10일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,49 +62,51 @@ description: 꼬깔콘 애플 시나몬맛은 익숙한 꼬깔콘에 사과와 �
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">10,500</text>
 
     <line data-date-tick="2026-08-30" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-08-31" x1="94" y1="178" x2="94" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-01" x1="120" y1="178" x2="120" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-02" x1="146" y1="178" x2="146" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-03" x1="172" y1="178" x2="172" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-04" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-05" x1="224" y1="178" x2="224" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-06" x1="250" y1="178" x2="250" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-07" x1="276" y1="178" x2="276" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-08" x1="302" y1="178" x2="302" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-09" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-10" x1="354" y1="178" x2="354" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-11" x1="380" y1="178" x2="380" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-12" x1="406" y1="178" x2="406" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-13" x1="432" y1="178" x2="432" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-14" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-15" x1="484" y1="178" x2="484" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-16" x1="510" y1="178" x2="510" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-17" x1="536" y1="178" x2="536" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-18" x1="562" y1="178" x2="562" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-19" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 46 L 94 46 L 432 46 L 458 46 L 484 46 L 510 116 L 536 116 L 562 116 L 588 116 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 46 L 94 46 L 432 46 L 458 46 L 484 46 L 510 116 L 536 116 L 562 116 L 588 116" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-08-31" x1="93" y1="178" x2="93" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-01" x1="118" y1="178" x2="118" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-02" x1="142" y1="178" x2="142" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-03" x1="167" y1="178" x2="167" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-04" x1="192" y1="178" x2="192" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-05" x1="217" y1="178" x2="217" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-06" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-07" x1="266" y1="178" x2="266" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-08" x1="291" y1="178" x2="291" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-09" x1="316" y1="178" x2="316" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-10" x1="340" y1="178" x2="340" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-11" x1="365" y1="178" x2="365" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-12" x1="390" y1="178" x2="390" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-13" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-14" x1="439" y1="178" x2="439" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-15" x1="464" y1="178" x2="464" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-16" x1="489" y1="178" x2="489" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-17" x1="514" y1="178" x2="514" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-18" x1="538" y1="178" x2="538" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-19" x1="563" y1="178" x2="563" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-20" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 46 L 93 46 L 415 46 L 439 46 L 464 46 L 489 116 L 514 116 L 538 116 L 563 116 L 588 116 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 46 L 93 46 L 415 46 L 439 46 L 464 46 L 489 116 L 514 116 L 538 116 L 563 116 L 588 116" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="46" r="4" fill="#fdba74"><title>08-30 11,370원</title></circle>
-    <circle cx="94" cy="46" r="4" fill="#fdba74"><title>08-31 11,370원</title></circle>
-    <circle cx="432" cy="46" r="4" fill="#fdba74"><title>09-13 11,370원</title></circle>
-    <circle cx="458" cy="46" r="4" fill="#fdba74"><title>09-14 11,370원</title></circle>
-    <circle cx="484" cy="46" r="4" fill="#fdba74"><title>09-15 11,370원</title></circle>
-    <circle cx="510" cy="116" r="4" fill="#fdba74"><title>09-16 10,910원</title></circle>
-    <circle cx="536" cy="116" r="4" fill="#fdba74"><title>09-17 10,910원</title></circle>
-    <circle cx="562" cy="116" r="4" fill="#fdba74"><title>09-18 10,910원</title></circle>
-    <circle cx="588" cy="116" r="5" fill="#ea580c"><title>09-19 10,910원</title></circle>
+    <circle cx="93" cy="46" r="4" fill="#fdba74"><title>08-31 11,370원</title></circle>
+    <circle cx="415" cy="46" r="4" fill="#fdba74"><title>09-13 11,370원</title></circle>
+    <circle cx="439" cy="46" r="4" fill="#fdba74"><title>09-14 11,370원</title></circle>
+    <circle cx="464" cy="46" r="4" fill="#fdba74"><title>09-15 11,370원</title></circle>
+    <circle cx="489" cy="116" r="4" fill="#fdba74"><title>09-16 10,910원</title></circle>
+    <circle cx="514" cy="116" r="4" fill="#fdba74"><title>09-17 10,910원</title></circle>
+    <circle cx="538" cy="116" r="4" fill="#fdba74"><title>09-18 10,910원</title></circle>
+    <circle cx="563" cy="116" r="4" fill="#fdba74"><title>09-19 10,910원</title></circle>
+    <circle cx="588" cy="116" r="5" fill="#ea580c"><title>09-20 10,910원</title></circle>
 
     <text x="588" y="104" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">10,910원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-30</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-03</text>
-    <text x="250" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="302" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="354" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
-    <text x="406" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-17</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-19</text>
+    <text x="118" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-01</text>
+    <text x="192" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-04</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
+    <text x="464" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
+    <text x="538" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-18</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-20</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -195,7 +197,7 @@ A. 네, 애플 시나몬맛 코팅으로 인해 기존 꼬깔콘보다 단맛이
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,910원 · 별점 4.5 · 리뷰 8개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,910원 · 별점 4.6 · 리뷰 9개</span>
     <a href="https://link.coupang.com/a/gDHxPpTOpx" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
