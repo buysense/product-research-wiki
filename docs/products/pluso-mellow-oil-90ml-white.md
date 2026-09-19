@@ -20,7 +20,7 @@ description: 플뤼스오 멜로우 오일 90ml 화이트는 피부에 부드러
     "price": "25500",
     "url": "https://link.coupang.com/a/haX00yaG5Y",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-26"
+    "priceValidUntil": "2026-09-27"
   }
 }
 </script>
