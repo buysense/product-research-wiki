@@ -20,7 +20,7 @@ description: 아누아 아젤라산 아젤라익 애씨드는 민감하고 트�
     "price": "76440",
     "url": "https://link.coupang.com/a/haHvDRguaq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-26"
+    "priceValidUntil": "2026-09-27"
   }
 }
 </script>
