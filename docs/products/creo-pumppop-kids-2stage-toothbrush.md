@@ -20,7 +20,7 @@ description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/efCz8fp8I8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-26"
+    "priceValidUntil": "2026-09-27"
   }
 }
 </script>
@@ -44,7 +44,7 @@ description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 11일 중 9일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10일 중 8일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -53,39 +53,37 @@ description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아�
     <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">14,900</text>
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">14,800</text>
 
-    <line data-date-tick="2026-07-22" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-23" x1="120" y1="178" x2="120" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-24" x1="172" y1="178" x2="172" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-25" x1="224" y1="178" x2="224" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-26" x1="276" y1="178" x2="276" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-27" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-28" x1="380" y1="178" x2="380" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-29" x1="432" y1="178" x2="432" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-30" x1="484" y1="178" x2="484" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-07-31" x1="536" y1="178" x2="536" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-23" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-24" x1="126" y1="178" x2="126" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-25" x1="184" y1="178" x2="184" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-26" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-27" x1="299" y1="178" x2="299" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-28" x1="357" y1="178" x2="357" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-29" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-30" x1="472" y1="178" x2="472" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-07-31" x1="530" y1="178" x2="530" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
     <line data-date-tick="2026-08-01" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 102 L 120 102 L 172 102 L 224 102 L 276 102 L 432 102 L 484 102 L 536 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 120 102 L 172 102 L 224 102 L 276 102 L 432 102 L 484 102 L 536 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-22 14,900원</title></circle>
-    <circle cx="120" cy="102" r="4" fill="#fdba74"><title>07-23 14,900원</title></circle>
-    <circle cx="172" cy="102" r="4" fill="#fdba74"><title>07-24 14,900원</title></circle>
-    <circle cx="224" cy="102" r="4" fill="#fdba74"><title>07-25 14,900원</title></circle>
-    <circle cx="276" cy="102" r="4" fill="#fdba74"><title>07-26 14,900원</title></circle>
-    <circle cx="432" cy="102" r="4" fill="#fdba74"><title>07-29 14,900원</title></circle>
-    <circle cx="484" cy="102" r="4" fill="#fdba74"><title>07-30 14,900원</title></circle>
-    <circle cx="536" cy="102" r="4" fill="#fdba74"><title>07-31 14,900원</title></circle>
+    <path d="M 68 102 L 126 102 L 184 102 L 241 102 L 415 102 L 472 102 L 530 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 126 102 L 184 102 L 241 102 L 415 102 L 472 102 L 530 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>07-23 14,900원</title></circle>
+    <circle cx="126" cy="102" r="4" fill="#fdba74"><title>07-24 14,900원</title></circle>
+    <circle cx="184" cy="102" r="4" fill="#fdba74"><title>07-25 14,900원</title></circle>
+    <circle cx="241" cy="102" r="4" fill="#fdba74"><title>07-26 14,900원</title></circle>
+    <circle cx="415" cy="102" r="4" fill="#fdba74"><title>07-29 14,900원</title></circle>
+    <circle cx="472" cy="102" r="4" fill="#fdba74"><title>07-30 14,900원</title></circle>
+    <circle cx="530" cy="102" r="4" fill="#fdba74"><title>07-31 14,900원</title></circle>
     <circle cx="588" cy="102" r="5" fill="#ea580c"><title>08-01 14,900원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">14,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-22</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-23</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-24</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-25</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-26</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-27</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-28</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-29</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-30</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">07-31</text>
     <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">08-01</text>
   </svg>
 </div>
