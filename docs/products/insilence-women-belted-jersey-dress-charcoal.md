@@ -18,7 +18,7 @@ description: 인사일런스 벨티드 져지 원피스 차콜은 편안한 착�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f8bxoGsrWS",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-26"
+    "priceValidUntil": "2026-09-27"
   }
 }
 </script>
