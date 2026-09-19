@@ -20,7 +20,7 @@ description: 타미힐피거 슬림 오프숄더 립 탑은 슬림핏과 립 조
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fWzC3ol7me",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-26"
+    "priceValidUntil": "2026-09-27"
   }
 }
 </script>

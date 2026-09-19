@@ -19,7 +19,7 @@ description: 딥디크 캔들 베이 190g은 플로럴하고 포근한 향과 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/ecHYpQAD0e",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-26"
+    "priceValidUntil": "2026-09-27"
   }
 }
 </script>
