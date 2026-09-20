@@ -20,7 +20,7 @@ description: by 365 파우더리 UV 썬크림은 산뜻한 마무리감을 선�
     "price": "21000",
     "url": "https://link.coupang.com/a/hcCjruT2rs",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-27"
+    "priceValidUntil": "2026-09-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
