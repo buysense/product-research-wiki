@@ -19,7 +19,7 @@ description: 로제프란츠 포켓 반팔 니트 가디건은 간절기 또는 
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fME1eQFh7Y",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-27"
+    "priceValidUntil": "2026-09-28"
   }
 }
 </script>
