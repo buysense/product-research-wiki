@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - "앤드허니 &honey 마토메이크 스틱 4.0 슈퍼 홀드": products/andhoney-matomake-stick-4-super-hold.md
     - 플뤼스오 멜로우 오일 90ml 화이트: products/pluso-mellow-oil-90ml-white.md
     - ANUA 아젤라산 아젤라익 애씨드: products/anua-azelaic-acid-serum.md
     - 츠바키 프리미엄 리페어 헤어 마스크: products/tsubaki-premium-repair-hair-mask.md
