@@ -21,7 +21,7 @@ description: 앤드허니 &honey 마토메이크 스틱 4.0 슈퍼 홀드는 잔
     "price": "18510",
     "url": "https://link.coupang.com/a/hcBzjcyUz6",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-27"
+    "priceValidUntil": "2026-09-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
