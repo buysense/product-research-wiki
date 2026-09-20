@@ -20,7 +20,7 @@ description: 위드스타 쫀득쫀득 얼음 말랑이는 초등학생 아이�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dLGwX829xk",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-27"
+    "priceValidUntil": "2026-09-28"
   }
 }
 </script>
