@@ -20,7 +20,7 @@ description: 핑크퐁 아기상어 에어쿠션 풀은 귀여운 디자인과 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dSHPhWwHfw",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-27"
+    "priceValidUntil": "2026-09-28"
   }
 }
 </script>
