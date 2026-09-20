@@ -20,12 +20,12 @@ description: 청정원순창 초고추장은 새콤달콤한 맛으로 다양한
     "price": "3680",
     "url": "https://link.coupang.com/a/gQYDRGFvpI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-27"
+    "priceValidUntil": "2026-09-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 91957,
+    "reviewCount": 92042,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 청정원순창 초고추장은 새콤달콤한 맛으로 다양한
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 3,680원 · 별점 4.8 · 리뷰 91,957개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 3,680원 · 별점 4.8 · 리뷰 92,042개</span>
     <a href="https://link.coupang.com/a/gQYDRGFvpI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 청정원순창 초고추장은 새콤달콤한 맛으로 다양한
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 14일 중 14일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 15일 중 15일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,47 +62,49 @@ description: 청정원순창 초고추장은 새콤달콤한 맛으로 다양한
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">3,600</text>
 
     <line data-date-tick="2026-09-07" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-08" x1="108" y1="178" x2="108" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-09" x1="148" y1="178" x2="148" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-10" x1="188" y1="178" x2="188" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-11" x1="228" y1="178" x2="228" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-12" x1="268" y1="178" x2="268" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-13" x1="308" y1="178" x2="308" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-14" x1="348" y1="178" x2="348" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-15" x1="388" y1="178" x2="388" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-16" x1="428" y1="178" x2="428" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-17" x1="468" y1="178" x2="468" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-18" x1="508" y1="178" x2="508" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-19" x1="548" y1="178" x2="548" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-20" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 87 L 108 87 L 148 87 L 188 87 L 228 87 L 268 87 L 308 87 L 348 87 L 388 87 L 428 87 L 468 87 L 508 117 L 548 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 87 L 108 87 L 148 87 L 188 87 L 228 87 L 268 87 L 308 87 L 348 87 L 388 87 L 428 87 L 468 87 L 508 117 L 548 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-09-08" x1="105" y1="178" x2="105" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-09" x1="142" y1="178" x2="142" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-10" x1="179" y1="178" x2="179" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-11" x1="217" y1="178" x2="217" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-12" x1="254" y1="178" x2="254" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-13" x1="291" y1="178" x2="291" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-14" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-15" x1="365" y1="178" x2="365" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-16" x1="402" y1="178" x2="402" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-17" x1="439" y1="178" x2="439" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-18" x1="477" y1="178" x2="477" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-19" x1="514" y1="178" x2="514" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-20" x1="551" y1="178" x2="551" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-21" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 87 L 105 87 L 142 87 L 179 87 L 217 87 L 254 87 L 291 87 L 328 87 L 365 87 L 402 87 L 439 87 L 477 117 L 514 117 L 551 117 L 588 117 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 87 L 105 87 L 142 87 L 179 87 L 217 87 L 254 87 L 291 87 L 328 87 L 365 87 L 402 87 L 439 87 L 477 117 L 514 117 L 551 117 L 588 117" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="87" r="4" fill="#fdba74"><title>09-07 3,720원</title></circle>
-    <circle cx="108" cy="87" r="4" fill="#fdba74"><title>09-08 3,720원</title></circle>
-    <circle cx="148" cy="87" r="4" fill="#fdba74"><title>09-09 3,720원</title></circle>
-    <circle cx="188" cy="87" r="4" fill="#fdba74"><title>09-10 3,720원</title></circle>
-    <circle cx="228" cy="87" r="4" fill="#fdba74"><title>09-11 3,720원</title></circle>
-    <circle cx="268" cy="87" r="4" fill="#fdba74"><title>09-12 3,720원</title></circle>
-    <circle cx="308" cy="87" r="4" fill="#fdba74"><title>09-13 3,720원</title></circle>
-    <circle cx="348" cy="87" r="4" fill="#fdba74"><title>09-14 3,720원</title></circle>
-    <circle cx="388" cy="87" r="4" fill="#fdba74"><title>09-15 3,720원</title></circle>
-    <circle cx="428" cy="87" r="4" fill="#fdba74"><title>09-16 3,720원</title></circle>
-    <circle cx="468" cy="87" r="4" fill="#fdba74"><title>09-17 3,720원</title></circle>
-    <circle cx="508" cy="117" r="4" fill="#fdba74"><title>09-18 3,680원</title></circle>
-    <circle cx="548" cy="117" r="4" fill="#fdba74"><title>09-19 3,680원</title></circle>
-    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>09-20 3,680원</title></circle>
+    <circle cx="105" cy="87" r="4" fill="#fdba74"><title>09-08 3,720원</title></circle>
+    <circle cx="142" cy="87" r="4" fill="#fdba74"><title>09-09 3,720원</title></circle>
+    <circle cx="179" cy="87" r="4" fill="#fdba74"><title>09-10 3,720원</title></circle>
+    <circle cx="217" cy="87" r="4" fill="#fdba74"><title>09-11 3,720원</title></circle>
+    <circle cx="254" cy="87" r="4" fill="#fdba74"><title>09-12 3,720원</title></circle>
+    <circle cx="291" cy="87" r="4" fill="#fdba74"><title>09-13 3,720원</title></circle>
+    <circle cx="328" cy="87" r="4" fill="#fdba74"><title>09-14 3,720원</title></circle>
+    <circle cx="365" cy="87" r="4" fill="#fdba74"><title>09-15 3,720원</title></circle>
+    <circle cx="402" cy="87" r="4" fill="#fdba74"><title>09-16 3,720원</title></circle>
+    <circle cx="439" cy="87" r="4" fill="#fdba74"><title>09-17 3,720원</title></circle>
+    <circle cx="477" cy="117" r="4" fill="#fdba74"><title>09-18 3,680원</title></circle>
+    <circle cx="514" cy="117" r="4" fill="#fdba74"><title>09-19 3,680원</title></circle>
+    <circle cx="551" cy="117" r="4" fill="#fdba74"><title>09-20 3,680원</title></circle>
+    <circle cx="588" cy="117" r="5" fill="#ea580c"><title>09-21 3,680원</title></circle>
 
     <text x="588" y="105" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">3,680원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-07</text>
-    <text x="108" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="188" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
-    <text x="228" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
-    <text x="308" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
-    <text x="348" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
-    <text x="428" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-16</text>
-    <text x="468" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-17</text>
-    <text x="548" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-20</text>
+    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-09</text>
+    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="254" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
+    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
+    <text x="402" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-16</text>
+    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-18</text>
+    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-19</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -197,7 +199,7 @@ A. 일반적인 고추장보다는 단맛과 신맛이 강조되어 덜 맵게 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 3,680원 · 별점 4.8 · 리뷰 91,957개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 3,680원 · 별점 4.8 · 리뷰 92,042개</span>
     <a href="https://link.coupang.com/a/gQYDRGFvpI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
