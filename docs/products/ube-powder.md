@@ -16,7 +16,7 @@ description: 필리핀산 보라색 참마를 건조한 우베파우더는 인�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/elmmTG",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-27"
+    "priceValidUntil": "2026-09-28"
   }
 }
 </script>

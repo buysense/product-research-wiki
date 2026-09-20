@@ -18,7 +18,7 @@ description: 마시모두띠 3448 화이트블랙 스트라이프 면 오각포�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/gAmmUYKtEW",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-27"
+    "priceValidUntil": "2026-09-28"
   }
 }
 </script>
