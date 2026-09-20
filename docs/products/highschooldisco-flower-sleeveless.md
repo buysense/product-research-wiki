@@ -18,7 +18,7 @@ description: 하이스쿨디스코 플라워 슬리브리스는 다채로운 꽃
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/e5sW4XEOzY",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-27"
+    "priceValidUntil": "2026-09-28"
   }
 }
 </script>
