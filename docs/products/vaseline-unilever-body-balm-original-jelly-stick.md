@@ -21,12 +21,12 @@ description: 바세린 유니레버 바디 밤 오리지널 젤리 스틱은 건
     "price": "8330",
     "url": "https://link.coupang.com/a/gV0COltVi9",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-27"
+    "priceValidUntil": "2026-09-28"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.7,
-    "reviewCount": 258,
+    "ratingValue": 4.8,
+    "reviewCount": 268,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -44,7 +44,7 @@ description: 바세린 유니레버 바디 밤 오리지널 젤리 스틱은 건
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,330원 · 별점 4.7 · 리뷰 258개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 8,330원 · 별점 4.8 · 리뷰 268개</span>
     <a href="https://link.coupang.com/a/gV0COltVi9" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -53,7 +53,7 @@ description: 바세린 유니레버 바디 밤 오리지널 젤리 스틱은 건
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 11일 중 11일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12일 중 12일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -63,41 +63,43 @@ description: 바세린 유니레버 바디 밤 오리지널 젤리 스틱은 건
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">8,200</text>
 
     <line data-date-tick="2026-09-10" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-11" x1="120" y1="178" x2="120" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-12" x1="172" y1="178" x2="172" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-13" x1="224" y1="178" x2="224" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-14" x1="276" y1="178" x2="276" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-15" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-16" x1="380" y1="178" x2="380" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-17" x1="432" y1="178" x2="432" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-18" x1="484" y1="178" x2="484" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-19" x1="536" y1="178" x2="536" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-20" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 26 L 120 26 L 172 26 L 224 26 L 276 129 L 328 129 L 380 129 L 432 129 L 484 129 L 536 129 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 26 L 120 26 L 172 26 L 224 26 L 276 129 L 328 129 L 380 129 L 432 129 L 484 129 L 536 129 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-09-11" x1="115" y1="178" x2="115" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-12" x1="163" y1="178" x2="163" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-13" x1="210" y1="178" x2="210" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-14" x1="257" y1="178" x2="257" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-15" x1="304" y1="178" x2="304" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-16" x1="352" y1="178" x2="352" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-17" x1="399" y1="178" x2="399" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-18" x1="446" y1="178" x2="446" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-19" x1="493" y1="178" x2="493" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-20" x1="541" y1="178" x2="541" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-21" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 26 L 115 26 L 163 26 L 210 26 L 257 129 L 304 129 L 352 129 L 399 129 L 446 129 L 493 129 L 541 129 L 588 129 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 26 L 115 26 L 163 26 L 210 26 L 257 129 L 304 129 L 352 129 L 399 129 L 446 129 L 493 129 L 541 129 L 588 129" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="26" r="4" fill="#fdba74"><title>09-10 8,700원</title></circle>
-    <circle cx="120" cy="26" r="4" fill="#fdba74"><title>09-11 8,700원</title></circle>
-    <circle cx="172" cy="26" r="4" fill="#fdba74"><title>09-12 8,700원</title></circle>
-    <circle cx="224" cy="26" r="4" fill="#fdba74"><title>09-13 8,700원</title></circle>
-    <circle cx="276" cy="129" r="4" fill="#fdba74"><title>09-14 8,330원</title></circle>
-    <circle cx="328" cy="129" r="4" fill="#fdba74"><title>09-15 8,330원</title></circle>
-    <circle cx="380" cy="129" r="4" fill="#fdba74"><title>09-16 8,330원</title></circle>
-    <circle cx="432" cy="129" r="4" fill="#fdba74"><title>09-17 8,330원</title></circle>
-    <circle cx="484" cy="129" r="4" fill="#fdba74"><title>09-18 8,330원</title></circle>
-    <circle cx="536" cy="129" r="4" fill="#fdba74"><title>09-19 8,330원</title></circle>
-    <circle cx="588" cy="129" r="5" fill="#ea580c"><title>09-20 8,330원</title></circle>
+    <circle cx="115" cy="26" r="4" fill="#fdba74"><title>09-11 8,700원</title></circle>
+    <circle cx="163" cy="26" r="4" fill="#fdba74"><title>09-12 8,700원</title></circle>
+    <circle cx="210" cy="26" r="4" fill="#fdba74"><title>09-13 8,700원</title></circle>
+    <circle cx="257" cy="129" r="4" fill="#fdba74"><title>09-14 8,330원</title></circle>
+    <circle cx="304" cy="129" r="4" fill="#fdba74"><title>09-15 8,330원</title></circle>
+    <circle cx="352" cy="129" r="4" fill="#fdba74"><title>09-16 8,330원</title></circle>
+    <circle cx="399" cy="129" r="4" fill="#fdba74"><title>09-17 8,330원</title></circle>
+    <circle cx="446" cy="129" r="4" fill="#fdba74"><title>09-18 8,330원</title></circle>
+    <circle cx="493" cy="129" r="4" fill="#fdba74"><title>09-19 8,330원</title></circle>
+    <circle cx="541" cy="129" r="4" fill="#fdba74"><title>09-20 8,330원</title></circle>
+    <circle cx="588" cy="129" r="5" fill="#ea580c"><title>09-21 8,330원</title></circle>
 
     <text x="588" y="117" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">8,330원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
-    <text x="120" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
-    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
-    <text x="224" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-13</text>
-    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
-    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-16</text>
-    <text x="432" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-17</text>
-    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-18</text>
-    <text x="536" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-19</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-20</text>
+    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-11</text>
+    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
+    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
+    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-16</text>
+    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-17</text>
+    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-19</text>
+    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-20</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-21</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -193,7 +195,7 @@ A. 핵심 성분은 유사하나, 스틱형은 휴대성과 사용 편의성에 
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,330원 · 별점 4.7 · 리뷰 258개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 8,330원 · 별점 4.8 · 리뷰 268개</span>
     <a href="https://link.coupang.com/a/gV0COltVi9" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
