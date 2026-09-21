@@ -20,7 +20,7 @@ description: 일본 돈키호테 마늘 참깨 가츠오맛 후리카케는 마�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fK0USOUcdU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-28"
+    "priceValidUntil": "2026-09-29"
   }
 }
 </script>
