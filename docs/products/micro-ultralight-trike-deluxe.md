@@ -18,7 +18,7 @@ description: 마이크로 초경량 트라이크 디럭스는 뛰어난 휴대�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dTXMTbymzs",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-28"
+    "priceValidUntil": "2026-09-29"
   }
 }
 </script>
