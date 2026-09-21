@@ -21,7 +21,7 @@ description: 하겐다즈 파인트 마카다미아 넛은 진한 바닐라 아�
     "price": "11400",
     "url": "https://link.coupang.com/a/hehWxmVXY4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-28"
+    "priceValidUntil": "2026-09-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
