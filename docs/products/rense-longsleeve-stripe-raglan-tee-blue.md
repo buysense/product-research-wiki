@@ -19,7 +19,7 @@ description: 렌세 긴팔 스트라이프 래글런 스티치 티셔츠는 캐�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fZUsXj5Pjg",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-28"
+    "priceValidUntil": "2026-09-29"
   }
 }
 </script>

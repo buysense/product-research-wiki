@@ -19,7 +19,7 @@ description: 레고클래식 브릭 박스 혼합색상 DX5898은 아이들의 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dIgFPgtowm",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-28"
+    "priceValidUntil": "2026-09-29"
   }
 }
 </script>
