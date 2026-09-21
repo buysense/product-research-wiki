@@ -19,7 +19,7 @@ description: 한성 미니 시카고피자 10개는 간편한 조리로 1~2인�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dGAffru5iC",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-28"
+    "priceValidUntil": "2026-09-29"
   }
 }
 </script>
