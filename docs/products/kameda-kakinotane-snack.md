@@ -21,7 +21,7 @@ description: 카메다 카키노타네 스낵은 짭짤하고 바삭한 식감�
     "price": "10800",
     "url": "https://link.coupang.com/a/hegA5IN5W0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-28"
+    "priceValidUntil": "2026-09-29"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
