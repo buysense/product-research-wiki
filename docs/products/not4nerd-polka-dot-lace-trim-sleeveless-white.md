@@ -19,7 +19,7 @@ description: NOT4NERD W 폴카 도트 레이스 트림 슬리브리스 화이트
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/e6T7t3k0zI",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-28"
+    "priceValidUntil": "2026-09-29"
   }
 }
 </script>
