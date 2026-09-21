@@ -18,7 +18,7 @@ description: 잔스포츠 아가베는 일상생활, 통학, 가벼운 외출 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/ettsw1",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-28"
+    "priceValidUntil": "2026-09-29"
   }
 }
 </script>
