@@ -21,7 +21,7 @@ description: 갭 후디 토트백 숄더백 S는 후드티 소재의 부드러�
     "price": "128000",
     "url": "https://link.coupang.com/a/hfR203rPie",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-29"
+    "priceValidUntil": "2026-09-30"
   }
 }
 </script>
