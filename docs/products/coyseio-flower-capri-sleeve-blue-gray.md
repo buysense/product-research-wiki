@@ -18,7 +18,7 @@ description: 코이세이오 플라워 카프리 슬리브 블루 그레이는 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f6tmUQrMs0",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-29"
+    "priceValidUntil": "2026-09-30"
   }
 }
 </script>

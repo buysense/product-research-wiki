@@ -19,7 +19,7 @@ description: 농심 삼계탕 사발면은 간편하게 삼계탕의 풍미를 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f9MCzn3XYO",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-29"
+    "priceValidUntil": "2026-09-30"
   }
 }
 </script>

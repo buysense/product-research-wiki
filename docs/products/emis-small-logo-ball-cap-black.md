@@ -20,7 +20,7 @@ description: 이미스 스몰 로고 볼캡 블랙 1042405는 일상 패션 아�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fHFP6RFGz6",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-29"
+    "priceValidUntil": "2026-09-30"
   }
 }
 </script>
