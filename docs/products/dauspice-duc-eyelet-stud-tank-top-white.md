@@ -18,7 +18,7 @@ description: 디오스피스 DAUSPICE DUC Eyelet Stud Tank Top White는 캐주�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/eXdTgfWhzg",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-29"
+    "priceValidUntil": "2026-09-30"
   }
 }
 </script>

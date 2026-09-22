@@ -19,7 +19,7 @@ description: 셋업이엑스이 P/L 래글런 탑 블랙은 활동성과 편안�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/e6R5PJXVLg",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-29"
+    "priceValidUntil": "2026-09-30"
   }
 }
 </script>
