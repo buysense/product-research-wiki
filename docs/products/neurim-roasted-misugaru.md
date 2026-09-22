@@ -21,7 +21,7 @@ description: 느으림 건강하게 두 번 볶은 국산 옛날미숫가루는 
     "price": "10500",
     "url": "https://link.coupang.com/a/hfURWnPOay",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-29"
+    "priceValidUntil": "2026-09-30"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
