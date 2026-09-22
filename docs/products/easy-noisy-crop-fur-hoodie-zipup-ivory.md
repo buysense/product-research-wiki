@@ -18,7 +18,7 @@ description: [이지노이지] 크롭 퍼 후드 집업 아이보리는 따뜻�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fkrONQmn5E",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-29"
+    "priceValidUntil": "2026-09-30"
   }
 }
 </script>
