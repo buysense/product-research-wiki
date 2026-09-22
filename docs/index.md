@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 느으림 건강하게 두 번 볶은 국산 옛날미숫가루 | [보기](products/neurim-roasted-misugaru.md) |
 | 갭 후디 토트백 숄더백 S | [보기](products/gap-hoodie-tote-shoulder-bag-s.md) |
 | 하겐다즈 파인트 마카다미아 넛 | [보기](products/haagen-dazs-pint-macadamia-nut.md) |
 | 카메다 카키노타네 스낵 | [보기](products/kameda-kakinotane-snack.md) |

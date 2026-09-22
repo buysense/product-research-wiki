@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 느으림 건강하게 두 번 볶은 국산 옛날미숫가루: products/neurim-roasted-misugaru.md
     - 갭 후디 토트백 숄더백 S: products/gap-hoodie-tote-shoulder-bag-s.md
     - 하겐다즈 파인트 마카다미아 넛: products/haagen-dazs-pint-macadamia-nut.md
     - 카메다 카키노타네 스낵: products/kameda-kakinotane-snack.md
