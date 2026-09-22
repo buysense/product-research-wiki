@@ -19,7 +19,7 @@ description: 노매뉴얼 R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL은 캐�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fpoctez3oO",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-29"
+    "priceValidUntil": "2026-09-30"
   }
 }
 </script>
