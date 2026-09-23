@@ -20,7 +20,7 @@ description: 아누아 아젤라산 아젤라익 애씨드는 민감하고 트�
     "price": "76440",
     "url": "https://link.coupang.com/a/haHvDRguaq",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   }
 }
 </script>
@@ -45,7 +45,7 @@ description: 아누아 아젤라산 아젤라익 애씨드는 민감하고 트�
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5일 중 5일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6일 중 6일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -55,24 +55,27 @@ description: 아누아 아젤라산 아젤라익 애씨드는 민감하고 트�
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">76,300</text>
 
     <line data-date-tick="2026-09-19" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-20" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-21" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-22" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-23" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 72 L 198 72 L 328 72 L 458 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 72 L 198 72 L 328 72 L 458 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-09-20" x1="172" y1="178" x2="172" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-21" x1="276" y1="178" x2="276" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-22" x1="380" y1="178" x2="380" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-23" x1="484" y1="178" x2="484" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-24" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 72 L 172 72 L 276 72 L 380 72 L 484 72 L 588 72 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 72 L 172 72 L 276 72 L 380 72 L 484 72 L 588 72" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="72" r="4" fill="#fdba74"><title>09-19 76,440원</title></circle>
-    <circle cx="198" cy="72" r="4" fill="#fdba74"><title>09-20 76,440원</title></circle>
-    <circle cx="328" cy="72" r="4" fill="#fdba74"><title>09-21 76,440원</title></circle>
-    <circle cx="458" cy="72" r="4" fill="#fdba74"><title>09-22 76,440원</title></circle>
-    <circle cx="588" cy="72" r="5" fill="#ea580c"><title>09-23 76,440원</title></circle>
+    <circle cx="172" cy="72" r="4" fill="#fdba74"><title>09-20 76,440원</title></circle>
+    <circle cx="276" cy="72" r="4" fill="#fdba74"><title>09-21 76,440원</title></circle>
+    <circle cx="380" cy="72" r="4" fill="#fdba74"><title>09-22 76,440원</title></circle>
+    <circle cx="484" cy="72" r="4" fill="#fdba74"><title>09-23 76,440원</title></circle>
+    <circle cx="588" cy="72" r="5" fill="#ea580c"><title>09-24 76,440원</title></circle>
 
     <text x="588" y="60" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">76,440원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-19</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-20</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-21</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-23</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-20</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-21</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-22</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->

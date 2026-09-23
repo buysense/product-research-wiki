@@ -20,7 +20,7 @@ description: 도브 크리미 바디 스크럽 피치 화이트티는 복숭아�
     "price": "19900",
     "url": "https://link.coupang.com/a/hhB1DNiuIK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   }
 }
 </script>
