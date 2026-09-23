@@ -18,7 +18,7 @@ description: 캘빈클라인 진 47C910G 여성 우븐라벨 베이비립 브이
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fiMa3rVXVI",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   }
 }
 </script>

@@ -20,7 +20,7 @@ description: 풍심당 국내산 연근칩은 국내산 연근을 주원료로 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dGFDhpPesm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   }
 }
 </script>
