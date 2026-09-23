@@ -18,7 +18,7 @@ description: 글로니 G 딥 스쿱 티 화이트는 부드러운 면 소재와 
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fzbtCFf6cu",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   }
 }
 </script>
