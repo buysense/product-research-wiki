@@ -19,7 +19,7 @@ description: 오와이 NOISE CHAOS TRACK JACKET - BLACK은 유니크한 디자�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/e8KmNQQEiO",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   }
 }
 </script>
