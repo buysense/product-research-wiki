@@ -20,7 +20,7 @@ description: 풍국면 들기름 막국수는 80년 전통의 제면 기술로 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dGz1HG0ObI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   }
 }
 </script>
