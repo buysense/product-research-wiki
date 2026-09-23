@@ -19,7 +19,7 @@ description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fHFCAOL6wS",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   }
 }
 </script>

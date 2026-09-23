@@ -18,7 +18,7 @@ description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fuoMphQxS8",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   }
 }
 </script>
