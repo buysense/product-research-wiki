@@ -20,7 +20,7 @@ description: 말랑스테이 왁뿌볼 세트는 세탁 시 의류에 붙은 보
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dLEzuGLCG4",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   }
 }
 </script>
