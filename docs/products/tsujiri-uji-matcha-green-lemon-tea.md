@@ -21,7 +21,7 @@ description: 일본 교토 츠지리의 우지말차와 상큼한 레몬이 조�
     "price": "40780",
     "url": "https://link.coupang.com/a/hhBbNpXXmm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
