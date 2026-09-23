@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| Dove 도브 크리미 바디 스크럽 피치 화이트티 | [보기](products/dove-creamy-body-scrub-peach-whitetea.md) |
 | 일본 교토 츠지리 우지말차가 들어간 그린 레몬티 | [보기](products/tsujiri-uji-matcha-green-lemon-tea.md) |
 | 느으림 건강하게 두 번 볶은 국산 옛날미숫가루 | [보기](products/neurim-roasted-misugaru.md) |
 | 갭 후디 토트백 숄더백 S | [보기](products/gap-hoodie-tote-shoulder-bag-s.md) |

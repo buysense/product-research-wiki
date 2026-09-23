@@ -102,6 +102,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - Dove 도브 크리미 바디 스크럽 피치 화이트티: products/dove-creamy-body-scrub-peach-whitetea.md
     - 일본 교토 츠지리 우지말차가 들어간 그린 레몬티: products/tsujiri-uji-matcha-green-lemon-tea.md
     - 느으림 건강하게 두 번 볶은 국산 옛날미숫가루: products/neurim-roasted-misugaru.md
     - 갭 후디 토트백 숄더백 S: products/gap-hoodie-tote-shoulder-bag-s.md
