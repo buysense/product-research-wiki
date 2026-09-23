@@ -20,12 +20,12 @@ description: 데체코 바질 페스토는 신선한 바질과 치즈, 견과류
     "price": "5950",
     "url": "https://link.coupang.com/a/gPlGvgqRNI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-09-30"
+    "priceValidUntil": "2026-10-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.7,
-    "reviewCount": 29298,
+    "reviewCount": 29319,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ description: 데체코 바질 페스토는 신선한 바질과 치즈, 견과류
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,950원 · 별점 4.7 · 리뷰 29,298개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 5,950원 · 별점 4.7 · 리뷰 29,319개</span>
     <a href="https://link.coupang.com/a/gPlGvgqRNI" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ description: 데체코 바질 페스토는 신선한 바질과 치즈, 견과류
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 18일 중 18일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 19일 중 19일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,55 +62,57 @@ description: 데체코 바질 페스토는 신선한 바질과 치즈, 견과류
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">5,800</text>
 
     <line data-date-tick="2026-09-06" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-07" x1="99" y1="178" x2="99" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-08" x1="129" y1="178" x2="129" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-09" x1="160" y1="178" x2="160" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-10" x1="190" y1="178" x2="190" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-11" x1="221" y1="178" x2="221" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-12" x1="252" y1="178" x2="252" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-13" x1="282" y1="178" x2="282" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-14" x1="313" y1="178" x2="313" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-15" x1="343" y1="178" x2="343" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-16" x1="374" y1="178" x2="374" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-17" x1="404" y1="178" x2="404" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-18" x1="435" y1="178" x2="435" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-19" x1="466" y1="178" x2="466" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-20" x1="496" y1="178" x2="496" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-21" x1="527" y1="178" x2="527" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-22" x1="557" y1="178" x2="557" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-09-23" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 110 L 99 110 L 129 64 L 160 64 L 190 64 L 221 64 L 252 64 L 282 64 L 313 64 L 343 64 L 374 64 L 404 64 L 435 64 L 466 64 L 496 64 L 527 64 L 557 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 99 110 L 129 64 L 160 64 L 190 64 L 221 64 L 252 64 L 282 64 L 313 64 L 343 64 L 374 64 L 404 64 L 435 64 L 466 64 L 496 64 L 527 64 L 557 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-09-07" x1="97" y1="178" x2="97" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-08" x1="126" y1="178" x2="126" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-09" x1="155" y1="178" x2="155" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-10" x1="184" y1="178" x2="184" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-11" x1="212" y1="178" x2="212" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-12" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-13" x1="270" y1="178" x2="270" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-14" x1="299" y1="178" x2="299" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-15" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-16" x1="357" y1="178" x2="357" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-17" x1="386" y1="178" x2="386" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-18" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-19" x1="444" y1="178" x2="444" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-20" x1="472" y1="178" x2="472" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-21" x1="501" y1="178" x2="501" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-22" x1="530" y1="178" x2="530" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-23" x1="559" y1="178" x2="559" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-24" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 110 L 97 110 L 126 64 L 155 64 L 184 64 L 212 64 L 241 64 L 270 64 L 299 64 L 328 64 L 357 64 L 386 64 L 415 64 L 444 64 L 472 64 L 501 64 L 530 64 L 559 64 L 588 64 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 97 110 L 126 64 L 155 64 L 184 64 L 212 64 L 241 64 L 270 64 L 299 64 L 328 64 L 357 64 L 386 64 L 415 64 L 444 64 L 472 64 L 501 64 L 530 64 L 559 64 L 588 64" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"><title>09-06 5,890원</title></circle>
-    <circle cx="99" cy="110" r="4" fill="#fdba74"><title>09-07 5,890원</title></circle>
-    <circle cx="129" cy="64" r="4" fill="#fdba74"><title>09-08 5,950원</title></circle>
-    <circle cx="160" cy="64" r="4" fill="#fdba74"><title>09-09 5,950원</title></circle>
-    <circle cx="190" cy="64" r="4" fill="#fdba74"><title>09-10 5,950원</title></circle>
-    <circle cx="221" cy="64" r="4" fill="#fdba74"><title>09-11 5,950원</title></circle>
-    <circle cx="252" cy="64" r="4" fill="#fdba74"><title>09-12 5,950원</title></circle>
-    <circle cx="282" cy="64" r="4" fill="#fdba74"><title>09-13 5,950원</title></circle>
-    <circle cx="313" cy="64" r="4" fill="#fdba74"><title>09-14 5,950원</title></circle>
-    <circle cx="343" cy="64" r="4" fill="#fdba74"><title>09-15 5,950원</title></circle>
-    <circle cx="374" cy="64" r="4" fill="#fdba74"><title>09-16 5,950원</title></circle>
-    <circle cx="404" cy="64" r="4" fill="#fdba74"><title>09-17 5,950원</title></circle>
-    <circle cx="435" cy="64" r="4" fill="#fdba74"><title>09-18 5,950원</title></circle>
-    <circle cx="466" cy="64" r="4" fill="#fdba74"><title>09-19 5,950원</title></circle>
-    <circle cx="496" cy="64" r="4" fill="#fdba74"><title>09-20 5,950원</title></circle>
-    <circle cx="527" cy="64" r="4" fill="#fdba74"><title>09-21 5,950원</title></circle>
-    <circle cx="557" cy="64" r="4" fill="#fdba74"><title>09-22 5,950원</title></circle>
-    <circle cx="588" cy="64" r="5" fill="#ea580c"><title>09-23 5,950원</title></circle>
+    <circle cx="97" cy="110" r="4" fill="#fdba74"><title>09-07 5,890원</title></circle>
+    <circle cx="126" cy="64" r="4" fill="#fdba74"><title>09-08 5,950원</title></circle>
+    <circle cx="155" cy="64" r="4" fill="#fdba74"><title>09-09 5,950원</title></circle>
+    <circle cx="184" cy="64" r="4" fill="#fdba74"><title>09-10 5,950원</title></circle>
+    <circle cx="212" cy="64" r="4" fill="#fdba74"><title>09-11 5,950원</title></circle>
+    <circle cx="241" cy="64" r="4" fill="#fdba74"><title>09-12 5,950원</title></circle>
+    <circle cx="270" cy="64" r="4" fill="#fdba74"><title>09-13 5,950원</title></circle>
+    <circle cx="299" cy="64" r="4" fill="#fdba74"><title>09-14 5,950원</title></circle>
+    <circle cx="328" cy="64" r="4" fill="#fdba74"><title>09-15 5,950원</title></circle>
+    <circle cx="357" cy="64" r="4" fill="#fdba74"><title>09-16 5,950원</title></circle>
+    <circle cx="386" cy="64" r="4" fill="#fdba74"><title>09-17 5,950원</title></circle>
+    <circle cx="415" cy="64" r="4" fill="#fdba74"><title>09-18 5,950원</title></circle>
+    <circle cx="444" cy="64" r="4" fill="#fdba74"><title>09-19 5,950원</title></circle>
+    <circle cx="472" cy="64" r="4" fill="#fdba74"><title>09-20 5,950원</title></circle>
+    <circle cx="501" cy="64" r="4" fill="#fdba74"><title>09-21 5,950원</title></circle>
+    <circle cx="530" cy="64" r="4" fill="#fdba74"><title>09-22 5,950원</title></circle>
+    <circle cx="559" cy="64" r="4" fill="#fdba74"><title>09-23 5,950원</title></circle>
+    <circle cx="588" cy="64" r="5" fill="#ea580c"><title>09-24 5,950원</title></circle>
 
     <text x="588" y="52" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">5,950원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-06</text>
-    <text x="129" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
-    <text x="190" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
-    <text x="252" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
-    <text x="313" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
-    <text x="343" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-15</text>
-    <text x="404" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-17</text>
-    <text x="466" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-19</text>
-    <text x="527" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-23</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-08</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-10</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-12</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-14</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-16</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-18</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-20</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-22</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -206,7 +208,7 @@ A. 데체코 바질 페스토에는 그라나파다노 치즈 등 유제품이 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,950원 · 별점 4.7 · 리뷰 29,298개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 5,950원 · 별점 4.7 · 리뷰 29,319개</span>
     <a href="https://link.coupang.com/a/gPlGvgqRNI" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
