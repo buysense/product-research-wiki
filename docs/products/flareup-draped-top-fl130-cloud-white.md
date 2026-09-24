@@ -18,7 +18,7 @@ description: 플레어업 FLAREUP Draped Top FL-130_Cloud White 176060은 드레
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f6s5l80Iou",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>
