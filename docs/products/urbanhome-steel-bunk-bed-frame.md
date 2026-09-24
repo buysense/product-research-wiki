@@ -20,7 +20,7 @@ description: 어반홈 철제 2층 벙커 침대 프레임은 아이들 방 공�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/er2k9H",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>

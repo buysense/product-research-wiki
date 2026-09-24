@@ -19,7 +19,7 @@ description: 명가삼대떡집 전통발효술떡 방울증편 잔기지떡은 
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/gIEskOlIXY",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>
