@@ -20,7 +20,7 @@ description: 아이들의 건강한 간식과 외출용 음료로 적합한 요�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/efDG9hEhky",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>
