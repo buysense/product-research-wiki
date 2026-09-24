@@ -20,7 +20,7 @@ description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/e5iA32qdEW",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>
