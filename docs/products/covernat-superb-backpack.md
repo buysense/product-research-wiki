@@ -18,7 +18,7 @@ description: 커버낫 수퍼브는 초등 고학년 및 중학생을 위한 가
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/exWdfA",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>

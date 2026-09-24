@@ -18,7 +18,7 @@ description: Amanda Shirring Long Sleeve Top (White)은 데일리룩부터 세�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fnIcy0mGLQ",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>
