@@ -19,7 +19,7 @@ description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 �
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fCHSYndlS0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>

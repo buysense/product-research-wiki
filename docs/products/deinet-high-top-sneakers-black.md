@@ -18,7 +18,7 @@ description: 다이닛 DEINET HIGH TOP SNEAKERS IN BLACK는 도시적인 스트�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/f1BdCzxAei",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>
