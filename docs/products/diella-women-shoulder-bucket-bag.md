@@ -19,7 +19,7 @@ description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fF1oEj8qlM",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>
