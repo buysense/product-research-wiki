@@ -20,7 +20,7 @@ description: 메이토 로얄 밀크티 분말은 집에서 간편하게 즐길 
     "price": "14680",
     "url": "https://link.coupang.com/a/hjgRVnG8Q0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
