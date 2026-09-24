@@ -20,7 +20,7 @@ description: 크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/efCz8fp8I8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>

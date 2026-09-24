@@ -19,7 +19,7 @@ description: 락케이크 슬로건 메쉬 탑 블랙은 시원하고 통기성�
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fgUAeg8tvE",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   }
 }
 </script>
