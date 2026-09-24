@@ -21,7 +21,7 @@ description: 아일레스 애플유자티 25T는 상큼한 사과와 유자의 �
     "price": "13500",
     "url": "https://link.coupang.com/a/hjhUnZ3feC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-01"
+    "priceValidUntil": "2026-10-02"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
