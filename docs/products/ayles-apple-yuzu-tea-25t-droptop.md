@@ -22,7 +22,7 @@ contentUpdated: 2026-09-24
     "price": "13500",
     "url": "https://link.coupang.com/a/hjhUnZ3feC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-02"
+    "priceValidUntil": "2026-10-03"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,6 +52,33 @@ contentUpdated: 2026-09-24
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3일 중 3일 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">13,600</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">13,500</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">13,400</text>
+
+    <line data-date-tick="2026-09-24" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-25" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-09-26" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>09-24 13,500원</title></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>09-25 13,500원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>09-26 13,500원</title></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">13,500원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-24</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-25</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">09-26</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요
