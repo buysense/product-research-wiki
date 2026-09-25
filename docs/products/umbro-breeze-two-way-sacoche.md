@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 엄브로 브리즈 투웨이 샤코슈 구매 가이드
 date: 2026-04-24
 description: 엄브로 브리즈 투웨이 샤코슈는 가볍고 활동적인 디자인으로 일상 외출, 여행, 가벼운 야외활동 시 필수품을 간편하게 휴대하기 좋은 가방입니다.
+contentUpdated: 2026-04-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

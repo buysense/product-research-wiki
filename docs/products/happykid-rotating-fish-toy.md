@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 해피키드 회전하는 물고기 구매 가이드
 date: 2026-06-16
 description: 해피키드 회전하는 물고기는 유아의 시각 및 소근육 발달을 돕는 장난감으로, 가정에서 아기들의 놀이 시간을 풍부하게 만들어줍니다.
+contentUpdated: 2026-06-16
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

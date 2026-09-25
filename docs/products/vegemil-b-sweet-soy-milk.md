@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 베지밀 비 달콤한 두유 구매 가이드
 date: 2026-05-30
 description: 베지밀 비 달콤한 두유는 190ml 용량의 병 타입 두유로, 바쁜 아침 식사 대용, 아이들 간식, 또는 간편한 식물성 단백질 음료를 찾는 소비자에게 적합합니다.
+contentUpdated: 2026-05-30
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

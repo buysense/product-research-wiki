@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 옳곡 땅콩크런치 그래놀라 시리얼 구매 가이드
 date: 2026-06-13
 description: 옳곡 땅콩크런치 그래놀라 시리얼은 바쁜 아침 식사 대용이나 건강한 간식을 찾는 소비자에게 고소함과 바삭함을 제공하는 제품입니다.
+contentUpdated: 2026-06-13
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

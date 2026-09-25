@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 비세 레이어드 후루리 티크 블러셔 구매 가이드
 date: 2026-06-05
 description: 비세 레이어드 후루리 티크 블러셔는 자연스러운 혈색과 입체감을 연출하며, 데일리 메이크업이나 섬세한 치크 표현에 적합합니다.
+contentUpdated: 2026-06-05
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

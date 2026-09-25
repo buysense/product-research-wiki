@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 튤립 사운드북 한글이 세트 전 3권 + 실리콘커버 세트 구매 가이드
 date: 2026-05-21
 description: 튤립 사운드북 한글이 세트는 영유아의 첫 사운드북 또는 장난감으로 적합하며, 한글 및 동요 노출을 위한 실용적인 유아용품입니다. 휴대성 및 안전성을 갖춰 외출용으로도 활용됩니다.
+contentUpdated: 2026-05-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

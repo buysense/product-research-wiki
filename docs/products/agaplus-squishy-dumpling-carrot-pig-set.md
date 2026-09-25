@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트 구매 가이드
 date: 2026-05-15
 description: 아가플러스 말랑이 만두 + 당근 + 핑크돼지 4p 세트는 아이들 선물, 생일 파티 답례품, 또는 일상적인 촉감놀이를 위한 완구입니다. 말랑하고 부드러운 촉감으로 아이들의 심리적 안정과 역할놀이에 도움을 줍니다.
+contentUpdated: 2026-05-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

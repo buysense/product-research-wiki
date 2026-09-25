@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 마마메 템페 칩스 오리지널 구매 가이드
 date: 2026-09-09
 description: 마마메 템페 칩스 오리지널은 발효 템페로 만든 바삭하고 고소한 스낵으로, 건강한 간식이나 비건 식단을 추구하는 이들에게 적합합니다.
+contentUpdated: 2026-09-09
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

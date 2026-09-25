@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 클럽 슷핀 파우더 화이트 플로럴 부케향 구매 가이드
 date: 2026-09-09
 description: 클럽 슷핀 파우더 화이트 플로럴 부케향은 밤샘 공부, 가벼운 외출 등 민낯을 보정하고 피부를 보송하게 유지하고 싶을 때 적합한 페이스 파우더입니다.
+contentUpdated: 2026-09-09
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

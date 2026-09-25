@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 데체코 바질 페스토 구매 가이드
 date: 2026-09-06
 description: 데체코 바질 페스토는 신선한 바질과 치즈, 견과류로 만든 이탈리아식 소스로, 파스타, 빵, 샐러드 등 다양한 요리에 활용하기 좋은 제품입니다.
+contentUpdated: 2026-09-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

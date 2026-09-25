@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 피노 프리미엄 터치 헤어 마스크 비 구매 가이드
 date: 2026-06-19
 description: 잦은 염색과 열기구 사용으로 손상된 모발을 관리하는 데 도움을 주는 헤어 마스크로, 꾸덕한 제형과 부드러운 사용감이 특징입니다.
+contentUpdated: 2026-06-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

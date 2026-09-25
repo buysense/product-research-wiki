@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 엄마가 유령이 되었어! 구매 가이드
 date: 2026-05-13
 description: 아이의 시선으로 이별과 엄마의 사랑을 따뜻하게 그린 그림책 '엄마가 유령이 되었어!' 구매 가이드. 부모와 아이가 함께 감정을 나누고 성장하는 독서 경험을 제공합니다.
+contentUpdated: 2026-05-13
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

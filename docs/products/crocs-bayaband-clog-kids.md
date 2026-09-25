@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 크록스 슈즈 크록스공식 유아 BAYABAND CLOG 구매 가이드
 date: 2026-07-03
 description: 크록스 유아 바야밴드 클로그는 아이들이 편안하게 신을 수 있는 경량 슈즈로, 물놀이, 야외 활동, 일상 착용 등 다양한 상황에 적합합니다.
+contentUpdated: 2026-07-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 샌드에이스 크림라떼 구매 가이드
 date: 2026-08-30
 description: 샌드에이스 크림라떼는 달콤하고 부드러운 맛을 특징으로 하는 음료입니다. 일상 속 간편한 휴식이나 디저트 대용으로 적합합니다.
+contentUpdated: 2026-08-30
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

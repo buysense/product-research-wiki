@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 슈콤마보니 Ribbon jelly sandal 구매 가이드
 date: 2026-06-14
 description: 슈콤마보니 리본 젤리 샌들은 여름철 휴양지 및 일상에서 편안함과 스타일을 동시에 추구하는 소비자에게 적합한 여성 샌들입니다.
+contentUpdated: 2026-06-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

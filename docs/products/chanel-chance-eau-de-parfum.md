@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 샤넬 여성 샹스 오 드 퍼퓸 구매 가이드
 date: 2026-04-10
 description: 샤넬 샹스 오 드 퍼퓸은 2019년 출시된 플로럴 프루티 향수로, 여성스럽고 밝은 이미지를 연출하며 선물 및 데일리 향수로 활용하기 좋습니다.
+contentUpdated: 2026-04-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

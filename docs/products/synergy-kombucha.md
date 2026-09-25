@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 시너지 콤부차 구매 가이드
 date: 2026-05-05
 description: 시너지 콤부차는 새콤달콤한 맛과 탄산으로 상쾌함을 제공하는 발효 음료로, 식사 중이나 건강한 음료 대안으로 소비하기에 적합합니다.
+contentUpdated: 2026-05-05
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

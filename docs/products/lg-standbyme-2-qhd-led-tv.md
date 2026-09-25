@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: LG전자 QHD 스탠바이미 2 LED TV 구매 가이드
 date: 2026-05-15
 description: LG전자 QHD 스탠바이미 2 LED TV는 집안 어디든 자유롭게 이동하며 개인 맞춤형 콘텐츠를 즐길 수 있는 무선 스마트 스크린입니다.
+contentUpdated: 2026-05-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

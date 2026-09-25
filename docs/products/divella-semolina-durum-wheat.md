@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 디벨라 세몰리나 듀럼밀 구매 가이드
 date: 2026-09-06
 description: 디벨라 세몰리나 듀럼밀은 홈메이드 파스타나 빵을 만드는 데 최적화된 밀가루입니다. 높은 단백질 함량으로 쫄깃한 식감을 제공하며, 다양한 가정 요리에 활용됩니다.
+contentUpdated: 2026-09-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

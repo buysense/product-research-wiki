@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 프린세스 캐치티니핑 피크닉 도시락 세트 구매 가이드
 date: 2026-05-12
 description: 프린세스 캐치티니핑 피크닉 도시락 세트는 유치원생의 새학기 선물이나 소풍, 현장체험학습에 적합하며, 2단 구성과 가방으로 휴대성을 높인 제품입니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

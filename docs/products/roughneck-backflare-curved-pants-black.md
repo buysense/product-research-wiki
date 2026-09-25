@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: ROUGHNECK 백플레어 커브드 팬츠 블랙 구매 가이드
 date: 2026-06-23
 description: ROUGHNECK 백플레어 커브드 팬츠 블랙은 독특한 백플레어와 커브드 핏으로 일상복부터 개성 있는 스타일링까지 연출 가능한 유니크한 디자인의 팬츠입니다.
+contentUpdated: 2026-06-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

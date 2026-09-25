@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 마나 슈파토 우산 구매 가이드
 date: 2026-06-18
 description: 마나 슈파토 우산은 갑작스러운 비나 일상생활에서 간편하게 사용할 수 있는 일반적인 우산입니다. 휴대성과 기본적인 방수 기능을 제공합니다.
+contentUpdated: 2026-06-18
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

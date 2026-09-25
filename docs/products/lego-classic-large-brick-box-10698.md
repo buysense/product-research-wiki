@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 레고클래식 라지 조립 박스 10698 구매 가이드
 date: 2026-05-13
 description: 레고클래식 라지 조립 박스 10698은 790개의 다채로운 블록으로 아이들의 창의력과 집중력을 키워주며, 입문용 선물이나 가족 놀이용으로 적합한 제품입니다.
+contentUpdated: 2026-05-13
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

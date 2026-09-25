@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 그라노로 쿠스쿠스 구매 가이드
 date: 2026-04-14
 description: 이탈리아산 듀럼밀 세몰리나 100%로 만든 그라노로 쿠스쿠스는 5분 만에 완성되는 간편함으로 다이어트 식단, 샐러드, 스튜 등 다양한 건강한 한 끼를 찾는 분들에게 적합합니다.
+contentUpdated: 2026-04-14
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

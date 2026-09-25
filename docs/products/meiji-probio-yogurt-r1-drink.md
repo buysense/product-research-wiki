@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 메이지 프로비요 요거트 (R-1 드링크) 구매 가이드
 date: 2026-04-17
 description: 메이지 프로비요 요거트 (R-1 드링크)는 R-1 유산균을 함유하여 면역 관리를 돕는 마시는 요구르트로, 간편하게 장 건강과 활력을 챙기려는 소비자들이 일상에서 섭취하기 적합합니다.
+contentUpdated: 2026-04-17
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

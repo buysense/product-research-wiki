@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black 구매 가이드
 date: 2026-07-04
 description: NOT4NERD W Polka Dot Lace Trim Sleeveless - Black은 폴카 도트 패턴과 레이스 트림이 특징인 여성용 민소매 상의입니다. 구매 전 소재감, 비침, 사이즈, 관리 방법을 확인하는 것이 좋습니다.
+contentUpdated: 2026-07-05
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

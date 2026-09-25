@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 이미스 EMIS SMALL LOGO BALL CAP-BLACK 1042405 구매 가이드
 date: 2026-07-26
 description: 이미스 스몰 로고 볼캡 블랙 1042405는 일상 패션 아이템으로, 캐주얼한 착장부터 다양한 스타일에 활용하기 좋은 모자입니다.
+contentUpdated: 2026-07-26
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: NIMS 님스 코코크런치 크리스피 초코컵 구매 가이드
 date: 2026-09-18
 description: NIMS 님스 코코크런치 크리스피 초코컵은 바삭한 초코 크런치가 담긴 개별 컵 제품으로, 간편한 아침 식사나 출출할 때의 간식으로 적합합니다.
+contentUpdated: 2026-09-18
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

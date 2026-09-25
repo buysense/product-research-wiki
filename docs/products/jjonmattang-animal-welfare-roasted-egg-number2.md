@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 쫀득하고 맛있고 탱탱한 동물복지 구운란 (난각번호 2번) 구매 가이드
 date: 2026-04-03
 description: 쫀득하고 맛있고 탱탱한 동물복지 구운란은 난각번호 2번 계란으로 만든 고단백 간식입니다. 아침 대용, 아이 간식, 다이어트 식단에 적합합니다.
+contentUpdated: 2026-04-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

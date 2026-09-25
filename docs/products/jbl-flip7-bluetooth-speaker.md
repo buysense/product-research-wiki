@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: JBL FLIP7 블루투스 스피커 구매 가이드
 date: 2026-06-24
 description: JBL FLIP7 블루투스 스피커는 강력한 사운드와 휴대성을 겸비하여 야외 활동, 파티, 여행 등 다양한 상황에서 음악을 즐기기 좋은 제품입니다.
+contentUpdated: 2026-06-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림 구매 가이드
 date: 2026-05-06
 description: 하겐다즈 크리스피 샌드위치 리치 카라멜 아이스크림은 바삭한 웨이퍼와 진한 카라멜 아이스크림이 조화로운 프리미엄 디저트입니다. 집에서 즐기는 간식, 식후 디저트, 또는 선물용으로 적합합니다.
+contentUpdated: 2026-05-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

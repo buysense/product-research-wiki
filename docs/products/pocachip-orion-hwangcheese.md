@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 포카칩 오리온 황치즈 구매 가이드
 date: 2026-09-13
 description: 포카칩 오리온 황치즈는 기존 포카칩에 황치즈 맛을 더한 스낵으로, 짭짤하고 고소한 맛을 선호하는 이들에게 간식이나 맥주 안주로 적합합니다.
+contentUpdated: 2026-09-13
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

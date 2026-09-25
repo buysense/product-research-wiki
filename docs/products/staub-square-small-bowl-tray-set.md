@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트 구매 가이드
 date: 2026-08-27
 description: 스타우브 스퀘어 스몰 볼 4개입 + 쟁반 세트는 모던한 디자인으로 일상 식탁이나 손님 접대 시 활용하기 좋은 다용도 식기 세트입니다.
+contentUpdated: 2026-08-27
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

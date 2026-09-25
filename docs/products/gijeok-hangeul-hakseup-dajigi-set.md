@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 기적의 한글 학습 다지기 세트 전 5권 구매 가이드
 date: 2026-04-29
 description: 기적의 한글 학습 다지기 세트 전 5권은 초등 입학을 앞둔 7세 아동 또는 기본적인 한글을 뗀 아이들이 받침과 받아쓰기를 복습하며 한글 실력을 다지기에 적합한 학습 교재입니다.
+contentUpdated: 2026-04-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

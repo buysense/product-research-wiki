@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail
 title: 하겐다즈 파인트 마카다미아 넛 구매 가이드
 date: 2026-09-21
 description: 하겐다즈 파인트 마카다미아 넛은 진한 바닐라 아이스크림에 고소한 마카다미아 넛이 어우러진 제품으로, 집에서 즐기는 간식이나 디저트로 적합합니다.
+contentUpdated: 2026-09-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

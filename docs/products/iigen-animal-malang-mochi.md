@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: iiGEN 애니멀 말랑 모찌, 랜덤 발송, 5개 구매 가이드
 date: 2026-05-15
 description: iiGEN 애니멀 말랑 모찌는 부드러운 촉감과 귀여운 디자인으로 아이들 장난감이나 가벼운 스트레스 해소용으로 적합하며, 랜덤 발송 5개 구성으로 수집의 재미를 더합니다.
+contentUpdated: 2026-05-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

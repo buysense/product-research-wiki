@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트 구매 가이드
 date: 2026-07-18
 description: 하이스쿨디스코 엔젤 레이스 슬리브리스_화이트는 섬세한 레이스 디자인과 편안한 착용감으로 다양한 레이어드룩이나 단독 착용에 활용하기 좋은 민소매 상의입니다.
+contentUpdated: 2026-07-18
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

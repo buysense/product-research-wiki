@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor
 title: 일본 큐렐 입욕제 배쓰밀크 구매 가이드
 date: 2026-09-16
 description: 일본 큐렐 입욕제 배쓰밀크는 건조하고 민감한 피부를 위한 저자극 보습 입욕제로, 목욕 중 피부 건조함을 완화하고 촉촉함을 유지하고자 할 때 유용합니다.
+contentUpdated: 2026-09-16
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

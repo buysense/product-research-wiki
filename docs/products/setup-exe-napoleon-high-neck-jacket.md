@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: SETUP-EXE NAPOLEON HIGH-NECK JACKET 구매 가이드
 date: 2026-06-16
 description: SETUP-EXE 나폴레옹 하이넥 재킷은 세련된 디자인과 보온성을 겸비하여 간절기부터 초겨울까지 다양한 캐주얼 및 포멀 착장에 활용하기 좋은 아우터입니다.
+contentUpdated: 2026-06-16
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

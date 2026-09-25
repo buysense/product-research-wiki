@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 잔스포츠 라이트팩 구매 가이드
 date: 2026-04-21
 description: 잔스포츠 라이트팩은 코듀라 원단과 스웨이드 바닥으로 뛰어난 내구성을 자랑하며, 학생부터 직장인까지 일상, 통학, 가벼운 여행 등 다목적으로 활용하기 좋은 클래식 백팩입니다.
+contentUpdated: 2026-04-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

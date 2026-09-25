@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 쿠크다스 쵸코케이크 구매 가이드
 date: 2026-08-23
 description: 쿠크다스 쵸코케이크는 부드러운 시트에 초콜릿이 더해진 과자로, 일상 간식이나 커피/차와 함께하는 디저트로 즐기기 좋습니다.
+contentUpdated: 2026-08-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

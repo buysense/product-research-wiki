@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 청정원 조청쌀엿 구매 가이드
 date: 2026-05-17
 description: 청정원 조청쌀엿은 쌀 100%로 만든 전통 감미료로, 요리에 깊고 자연스러운 단맛과 윤기를 더하며, 설탕이나 일반 물엿 대신 건강하게 사용할 수 있어 가정 요리나 전통 디저트에 적합합니다.
+contentUpdated: 2026-05-17
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

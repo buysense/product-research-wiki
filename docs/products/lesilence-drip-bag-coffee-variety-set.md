@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 르시랑스 드립백커피 구매 가이드
 date: 2026-04-29
 description: 르시랑스 드립백커피는 다양한 원두 구성과 간편한 추출 방식으로 사무실, 가정에서 즐기기 좋은 데일리 커피입니다. 선물용으로도 적합합니다.
+contentUpdated: 2026-04-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

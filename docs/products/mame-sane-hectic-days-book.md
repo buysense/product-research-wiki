@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: "아직 제정신입니다 : 마메의 정신없는 날들 구매 가이드"
 date: 2026-08-25
 description: "마메 작가의 '아직 제정신입니다 : 마메의 정신없는 날들'은 정신없이 흘러가는 일상 속에서 공감과 위로를 얻고 싶은 독자를 위한 에세이/코믹 도서입니다."
+contentUpdated: 2026-08-25
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor
 title: 아일레스 애플유자티 25T 아하기프트 드롭탑 애플티 구매 가이드
 date: 2026-09-24
 description: 아일레스 애플유자티 25T는 상큼한 사과와 유자의 조화로운 맛과 향이 특징인 티백 제품으로, 따뜻하게 또는 시원하게 즐기기 좋고 선물용으로도 인기가 많습니다.
+contentUpdated: 2026-09-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

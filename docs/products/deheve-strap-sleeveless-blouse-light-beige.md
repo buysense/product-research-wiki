@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 드헤베 Strap S리 Leeveless Blouse Light Beige 구매 가이드
 date: 2026-08-18
 description: 드헤베 스트랩 슬리브리스 블라우스 라이트 베이지는 시원하고 편안한 착용감을 제공하며, 여름철 데일리룩부터 오피스룩, 휴가지 스타일링까지 다채롭게 활용하기 좋습니다.
+contentUpdated: 2026-08-18
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

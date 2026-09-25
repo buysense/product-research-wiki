@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 말리 코코넛워터 구매 가이드
 date: 2026-05-06
 description: 태국산 프리미엄 코코넛 100%로 만든 말리 코코넛워터는 설탕 없이 운동 후 수분 보충, 스무디 베이스, 갈증 해소에 적합한 건강 음료입니다.
+contentUpdated: 2026-05-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

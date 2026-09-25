@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 앤더슨벨 ADSB ANDERSSON BELL LAYERED STRAP BOOTS aaa484w BROWN 구매 가이드
 date: 2026-07-16
 description: 앤더슨벨 레이어드 스트랩 부츠 aaa484w 브라운은 독특한 레이어드 스트랩 디테일이 특징인 첼시 부츠로, 세련된 데일리룩이나 특별한 스타일링을 연출할 때 활용됩니다.
+contentUpdated: 2026-07-16
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

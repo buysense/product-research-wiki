@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: GNC 밀크시슬 1300mg 타블렛 (120정, 3개) 구매 가이드
 date: 2026-06-16
 description: GNC 밀크시슬 1300mg 타블렛은 잦은 야근과 회식, 만성 피로로 간 건강 관리가 필요한 직장인과 성인을 위한 고함량 건강기능식품입니다.
+contentUpdated: 2026-06-16
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 고은담 명인이 만든 보리차 진액 구매 가이드
 date: 2026-08-23
 description: 고은담 명인이 만든 보리차 진액은 물에 희석하여 간편하게 즐길 수 있는 전통 보리차로, 가족 모두의 건강한 음료나 선물용으로 적합합니다.
+contentUpdated: 2026-08-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

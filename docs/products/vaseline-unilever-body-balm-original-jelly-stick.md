@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 바세린 유니레버 바디 밤 오리지널 젤리 스틱 구매 가이드
 date: 2026-09-10
 description: 바세린 유니레버 바디 밤 오리지널 젤리 스틱은 건조한 피부에 편리하게 보습을 제공하며, 휴대성이 좋아 언제 어디서든 사용하기 적합합니다.
+contentUpdated: 2026-09-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

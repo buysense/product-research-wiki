@@ -3,6 +3,7 @@ image: //i.namu.wiki/i/0z8EHLmYQ3RMF-zx3LolRNkkI_V0b81BoDkD1X_QqTW6_GfQ40MAEjj36
 title: 아사히 시나모롤 핑크 실내화 구매 가이드
 date: 2026-03-31
 description: 아사히 시나모롤 핑크 실내화는 140~210mm 사이즈의 유아동용 발등밴드 실내화로, 미끄럼방지 기능과 KC 안전확인 인증을 통해 유치원 및 초등학생의 편안하고 안전한 실내 생활을 돕습니다.
+contentUpdated: 2026-03-31
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

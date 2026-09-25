@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 아기 멜로디 휴대폰 버튼식 강아지 구매 가이드
 date: 2026-06-09
 description: 아기 멜로디 휴대폰 버튼식 강아지는 어른 휴대폰에 관심 많은 아기를 위한 장난감으로, 다양한 소리와 멜로디, 둥근 디자인이 특징입니다. 외출 시나 집에서 아이의 호기심을 자극하며 소근육 발달을 돕습니다.
+contentUpdated: 2026-06-09
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

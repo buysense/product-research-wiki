@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 두닷 책선반 구매 가이드
 date: 2026-04-19
 description: 두닷 책선반은 좁은 공간에 많은 책을 효율적으로 수납하며, 인테리어 효과까지 고려하는 사용자를 위한 견고하고 깔끔한 수직형 수납 솔루션입니다. 집 정리 및 서재 꾸미기 시 활용됩니다.
+contentUpdated: 2026-04-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

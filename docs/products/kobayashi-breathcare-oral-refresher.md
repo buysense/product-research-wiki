@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 고바야시 브레스케어 구매 가이드
 date: 2026-09-08
 description: 고바야시 브레스케어는 식사 후, 회의 전, 중요한 만남 등 구취가 신경 쓰이는 상황에서 간편하게 입안을 상쾌하게 해주는 구강 관리 보조제입니다.
+contentUpdated: 2026-09-08
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 농심 사리곰탕 큰사발면 구매 가이드
 date: 2026-09-11
 description: 농심 사리곰탕 큰사발면은 깊고 진한 사골 육수 맛이 특징인 컵라면으로, 간편한 한 끼 식사, 야식, 해장용으로 적합합니다.
+contentUpdated: 2026-09-11
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

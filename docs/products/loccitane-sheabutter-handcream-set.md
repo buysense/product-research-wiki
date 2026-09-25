@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 록시땅 시어 버터 핸드 크림 세트 구매 가이드
 date: 2026-05-06
 description: 록시땅 시어 버터 핸드 크림 세트는 높은 보습력과 휴대성을 갖춘 소용량 핸드크림 세트로, 가벼운 선물이나 일상적인 휴대용으로 적합합니다.
+contentUpdated: 2026-05-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

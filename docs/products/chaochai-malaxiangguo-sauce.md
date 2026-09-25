@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 차오차이 마라샹궈 소스 구매 가이드
 date: 2026-09-01
 description: 차오차이 마라샹궈 소스는 집에서 간편하게 전문점 수준의 마라샹궈를 만들고자 할 때 유용한 제품입니다. 다양한 재료와 함께 매콤한 맛을 즐길 수 있습니다.
+contentUpdated: 2026-09-01
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

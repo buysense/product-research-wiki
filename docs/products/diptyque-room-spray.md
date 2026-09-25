@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 딥디크 룸 스프레이 구매 가이드
 date: 2026-04-13
 description: 딥디크 룸 스프레이는 공간의 품격을 높여주는 고급 향기로, 다양한 향을 통해 침실, 거실 등 특정 공간의 분위기를 변화시키는 데 활용됩니다. 집들이 선물로도 인기가 많습니다.
+contentUpdated: 2026-04-13
 ---
 <!-- bs:jsonld -->
 <!-- /bs:jsonld -->

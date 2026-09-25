@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 몰리멜리 차차 플리츠 시원 플리츠 구매 가이드
 date: 2026-05-11
 description: 몰리멜리 차차 플리츠 시원 플리츠는 활동성과 시원함을 겸비한 하의로, 봄부터 가을까지 데일리룩이나 편안한 외출복으로 적합합니다.
+contentUpdated: 2026-05-11
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

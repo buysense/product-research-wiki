@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 기적의 한글 학습 1~5 세트 구매 가이드
 date: 2026-04-29
 description: 기적의 한글 학습 1~5 세트는 유아 및 초등 입학 전 아동이 가정에서 체계적으로 한글을 배우고 기초를 다질 때 활용되는 학습 교재 세트입니다.
+contentUpdated: 2026-04-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: [플리즈노팔로우] Amelia Lace Halter Long Sleeve Top (Ivory) 구매 가이드
 date: 2026-07-01
 description: Amelia Lace Halter Long Sleeve Top (Ivory)은 섬세한 레이스 디자인과 홀터넥 스타일로 특별한 날이나 포멀한 자리에 우아함을 더하는 여성 의류입니다. 다양한 아우터와 레이어드하여 활용하기 좋습니다.
+contentUpdated: 2026-07-01
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

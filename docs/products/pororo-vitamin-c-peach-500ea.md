@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 뽀로로 비타민 C 복숭아맛, 500정 구매 가이드
 date: 2026-06-02
 description: 뽀로로 비타민 C 복숭아맛 500정은 아이들의 면역력 증진을 돕고, 간식처럼 즐길 수 있는 비타민 보충용 건강기능식품입니다. 대용량과 개별 포장으로 일상 및 외출 시 편리하게 활용됩니다.
+contentUpdated: 2026-06-02
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

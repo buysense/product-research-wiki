@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 인사일런스 INSILENCE WOMEN 벨티드 져지 원피스 CHARCOAL 구매 가이드
 date: 2026-08-11
 description: 인사일런스 벨티드 져지 원피스 차콜은 편안한 착용감과 세련된 디자인으로 데일리룩, 오피스룩, 캐주얼 모임 등 다양한 상황에 활용하기 좋은 여성 의류입니다.
+contentUpdated: 2026-08-11
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

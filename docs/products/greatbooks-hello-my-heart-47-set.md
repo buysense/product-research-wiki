@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 그레이트북스 안녕 마음아 (전 47종) 구매 가이드
 date: 2026-05-20
 description: 그레이트북스 안녕 마음아 (전 47종)는 2세~4세 유아의 감정 이해와 표현을 돕는 유아 그림책 전집입니다. 아이의 마음 성장을 지원하며 부모와 아이가 함께 공감하며 읽기 좋은 제품입니다.
+contentUpdated: 2026-05-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

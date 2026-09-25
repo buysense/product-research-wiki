@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 모모즈랩 두바이 카스테라 찹쌀떡 구매 가이드
 date: 2026-09-02
 description: 모모즈랩 두바이 카스테라 찹쌀떡은 부드러운 카스테라와 쫄깃한 찹쌀떡의 조화로 독특한 식감과 달콤한 맛을 선사하며, 간식이나 선물용으로 적합한 디저트입니다.
+contentUpdated: 2026-09-02
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

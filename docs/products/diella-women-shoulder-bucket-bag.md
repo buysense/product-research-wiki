@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 디엘라 여성숄더백 버킷백 구매 가이드
 date: 2026-07-25
 description: 디엘라 여성숄더백 버킷백은 일상적인 외출, 캐주얼한 모임, 가벼운 여행 등 다양한 상황에서 활용하기 좋은 디자인과 수납력을 겸비한 가방입니다.
+contentUpdated: 2026-07-25
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

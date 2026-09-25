@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 카시오 엑슬림 z550 o -실버 구매 가이드
 date: 2026-09-03
 description: 카시오 엑슬림 Z550 o -실버는 일상 스냅과 가벼운 여행 기록에 적합한 콤팩트 디지털 카메라입니다. 휴대성과 간편한 조작을 찾는 사용자에게 유용합니다.
+contentUpdated: 2026-09-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

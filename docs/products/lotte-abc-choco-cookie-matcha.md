@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: ABC 초코쿠키 말차 (130g, 4개) 구매 가이드
 date: 2026-08-05
 description: ABC 초코쿠키 말차는 바삭한 초코쿠키와 쌉싸름한 말차 맛의 조화가 특징인 롯데웰푸드 제품입니다. 깔끔한 개별 포장으로 아이들 간식, 커피나 우유와 함께 가볍게 즐기기 좋습니다.
+contentUpdated: 2026-08-05
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

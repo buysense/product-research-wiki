@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: [셋업이엑스이] LACE CROSS T-SHIRT / BLACK 구매 가이드
 date: 2026-07-10
 description: 셋업이엑스이 LACE CROSS T-SHIRT / BLACK은 독특한 레이스 크로스 디테일로 개성을 표현하며, 일상 캐주얼부터 특별한 날까지 활용하기 좋은 티셔츠입니다.
+contentUpdated: 2026-07-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

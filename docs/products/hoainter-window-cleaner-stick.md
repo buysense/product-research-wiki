@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 호아인터 유리창닦이 구매 가이드
 date: 2026-06-21
 description: 호아인터 유리창닦이는 길이 조절과 각도 조절이 가능한 듀얼 헤드 청소 도구로, 아파트나 베란다의 높은 창문 및 외부 유리창을 안전하고 편리하게 청소할 때 적합합니다.
+contentUpdated: 2026-06-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

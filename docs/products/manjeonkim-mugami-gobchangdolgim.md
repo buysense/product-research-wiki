@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 만전김 무가미 곱창돌김 구매 가이드
 date: 2026-05-12
 description: 만전김 무가미 곱창돌김은 조미되지 않아 담백하고 고소한 맛이 특징인 곱창돌김으로, 아이 반찬이나 도시락, 건강한 한 끼 식사에 적합합니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

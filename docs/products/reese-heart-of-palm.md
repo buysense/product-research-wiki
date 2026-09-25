@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 리스 하트 오브 팜 구매 가이드
 date: 2026-09-01
 description: 리스 하트 오브 팜은 야자수 심을 가공한 식재료로, 다양한 요리에 활용 가능합니다. 낮은 평점과 제한된 정보로 구매 전 신중한 확인이 필요합니다.
+contentUpdated: 2026-09-01
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

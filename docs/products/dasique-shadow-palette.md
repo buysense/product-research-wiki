@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 데이지크 섀도우 팔레트 구매 가이드
 date: 2026-06-05
 description: 데이지크 섀도우 팔레트는 다양한 색상과 부드러운 발색으로 데일리 메이크업부터 포인트 메이크업까지 활용하기 좋은 팔레트입니다.
+contentUpdated: 2026-06-05
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

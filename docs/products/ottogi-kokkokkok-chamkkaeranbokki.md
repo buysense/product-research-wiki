@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 오뚜기 콕콕콕 참깨란볶이 구매 가이드
 date: 2026-08-24
 description: 오뚜기 콕콕콕 참깨란볶이는 고소한 참깨와 계란 풍미가 특징인 컵라면으로, 간편한 한 끼 식사나 야식으로 적합합니다.
+contentUpdated: 2026-08-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 렌세 긴팔 Stripe Raglan Stitch Tee Blue 115326 구매 가이드
 date: 2026-08-06
 description: 렌세 긴팔 스트라이프 래글런 스티치 티셔츠는 캐주얼한 데일리룩과 편안한 착용감을 제공하며, 다양한 계절에 활용하기 좋은 기본 아이템입니다.
+contentUpdated: 2026-08-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

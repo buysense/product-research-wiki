@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 새우깡 (90g, 15개) 구매 가이드
 date: 2023-10-27
 description: 농심 새우깡 90g 15개입은 고소하고 짭조름한 맛으로 남녀노소 즐기기 좋은 국민 과자입니다. 간식, 영화 감상, 맥주 안주 등 다양한 상황에 어울리며, 대용량으로 편리하게 즐길 수 있습니다.
+contentUpdated: 2026-07-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

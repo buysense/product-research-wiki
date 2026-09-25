@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 포카칩 오리지널 구매 가이드
 date: 2026-05-10
 description: 포카칩 오리지널은 100% 생감자로 만든 얇고 바삭한 감자칩으로, 아이들 간식, 시원한 음료나 맥주 안주 등 다양한 상황에서 부담 없이 즐기기 좋습니다.
+contentUpdated: 2026-05-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

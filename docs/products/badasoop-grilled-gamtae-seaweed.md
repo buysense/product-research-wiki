@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 바다숲 밥에 싸먹는 구운감태 구매 가이드
 date: 2026-07-28
 description: 바다숲 밥에 싸먹는 구운감태는 신선한 감태를 고소하게 구워내 밥반찬, 간식, 요리 토핑 등 다양하게 활용 가능한 건강 해조류입니다.
+contentUpdated: 2026-07-28
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

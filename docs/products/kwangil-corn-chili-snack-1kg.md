@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 광일식품 옥수수 고추맛콘 구매 가이드
 date: 2026-08-01
 description: 광일식품 옥수수 고추맛콘은 1kg 대용량 옛날과자로, 온 가족 간식이나 맥주 안주, 운전 중 졸음 방지용으로 적합합니다. 고소한 옥수수와 은은한 매콤함이 특징입니다.
+contentUpdated: 2026-08-01
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

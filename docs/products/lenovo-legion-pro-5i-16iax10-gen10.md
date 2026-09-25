@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 레노버 2025 리전 프로 5i 16IAX10 Gen10 코어Ultra7 구매 가이드
 date: 2026-08-24
 description: 레노버 2025 리전 프로 5i는 고성능 게이밍과 전문 작업을 위한 노트북으로, 최신 코어Ultra7 프로세서를 탑재하여 강력한 성능을 제공합니다.
+contentUpdated: 2026-08-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

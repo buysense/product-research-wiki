@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 락피쉬웨더웨어 GLAIR STRAPPY SANDALS - CLEAR STAR 구매 가이드
 date: 2026-08-18
 description: 락피쉬웨더웨어 GLAIR STRAPPY SANDALS - CLEAR STAR는 여름철 일상, 휴가지, 물놀이 등 다양한 캐주얼 상황에서 개성을 표현하기 좋은 투명 스트랩 샌들입니다.
+contentUpdated: 2026-08-18
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

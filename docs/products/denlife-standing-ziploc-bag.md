@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 덴라이프 스탠딩지퍼백 구매 가이드
 date: 2026-04-29
 description: 덴라이프 스탠딩지퍼백은 식재료 보관, 소분, 밀봉에 용이하며, 냉장·냉동 보관부터 캠핑까지 다양한 상황에서 활용 가능한 주방 필수품입니다.
+contentUpdated: 2026-04-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

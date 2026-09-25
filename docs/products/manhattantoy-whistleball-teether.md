@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구 구매 가이드
 date: 2026-06-15
 description: 아기의 이앓이 시기와 촉감 발달을 돕는 맨하탄토이 휘슬볼 컬러팝 치발기 촉감발달완구 구매 가이드입니다. 오감 발달을 위한 장점을 확인하세요.
+contentUpdated: 2026-06-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

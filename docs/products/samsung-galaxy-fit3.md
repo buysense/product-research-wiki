@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 삼성전자 갤럭시 핏3 구매 가이드
 date: 2026-04-30
 description: 삼성전자 갤럭시 핏3는 가벼운 착용감과 긴 배터리를 제공하는 스마트밴드로, 일상 건강 관리와 스마트폰 알림 확인에 적합합니다.
+contentUpdated: 2026-04-30
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

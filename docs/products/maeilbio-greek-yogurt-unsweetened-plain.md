@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 매일바이오 그릭 요거트 무가당 플레인 구매 가이드
 date: 2026-08-29
 description: 매일바이오 그릭 요거트 무가당 플레인은 건강한 식단 관리를 위해 설탕 없이 즐길 수 있는 플레인 그릭 요거트로, 아침 식사나 간식, 다양한 요리 재료로 활용하기 좋습니다.
+contentUpdated: 2026-08-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 히가시마루 카키다시 (일본 굴 간장) 구매 가이드
 date: 2026-04-15
 description: 히가시마루 카키다시 (일본 굴 간장)는 깊은 굴 감칠맛으로 일본 요리 및 다양한 요리의 풍미를 더해주는 조미료입니다.
+contentUpdated: 2026-04-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

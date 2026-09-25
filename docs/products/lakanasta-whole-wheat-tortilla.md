@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 라카나스타 통밀 또띠아 구매 가이드
 date: 2026-05-13
 description: 라카나스타 통밀 또띠아는 식단 관리와 건강한 식사를 원하는 소비자를 위한 제품으로, 퀘사디아, 랩 등 다양한 요리에 활용하기 좋습니다.
+contentUpdated: 2026-05-13
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 신당동 우할매 짜장떡볶이 구매 가이드
 date: 2026-09-14
 description: 신당동 우할매 짜장떡볶이는 집에서 간편하게 추억의 맛을 즐기고 싶을 때 적합한 간편식으로, 달콤 짭짤한 짜장 소스와 쫄깃한 떡이 특징입니다.
+contentUpdated: 2026-09-14
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

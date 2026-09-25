@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: Dove 도브 크리미 바디 스크럽 피치 화이트티 구매 가이드
 date: 2026-09-23
 description: 도브 크리미 바디 스크럽 피치 화이트티는 복숭아와 화이트티 향으로 피부를 부드럽게 각질 제거하고 촉촉하게 가꿔주는 제품입니다. 매일의 샤워 루틴에서 편안한 스킨케어를 원하는 분들에게 적합합니다.
+contentUpdated: 2026-09-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

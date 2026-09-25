@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: [레이즈미야] 베이비 글라스 시어 풀오버 [BLACK] 구매 가이드
 date: 2026-07-11
 description: 레이즈미야 베이비 글라스 시어 풀오버 블랙은 가볍고 비침 있는 소재의 상의로, 계절에 구애받지 않고 다양한 스타일에 활용하기 좋은 패션 아이템입니다.
+contentUpdated: 2026-07-11
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

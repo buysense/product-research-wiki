@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: Heren Corset Short Sleeve Top (Ivory) 구매 가이드
 date: 2026-07-18
 description: Heren Corset Short Sleeve Top (아이보리)는 허리 라인을 강조하는 트렌디한 디자인으로, 다양한 캐주얼 및 세미 포멀 스타일에 활용하기 좋은 반팔 상의입니다.
+contentUpdated: 2026-07-18
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

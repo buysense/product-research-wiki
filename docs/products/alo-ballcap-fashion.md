@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 알로 볼캡 구매 가이드
 date: 2026-05-08
 description: 알로 볼캡은 데일리 캐주얼룩이나 애슬레저 스타일에 활용하기 좋은 패션 아이템으로, 디자인과 편안함을 중시하는 소비자를 위한 구매 가이드입니다.
+contentUpdated: 2026-05-08
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

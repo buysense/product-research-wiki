@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 티젠 콤부차 요구르트 구매 가이드
 date: 2026-05-12
 description: 티젠 콤부차 요구르트는 물 대신 가볍게 마시거나 식후 입가심, 운동 후 갈증 해소에 좋은 스틱형 발효 음료입니다. 달콤 상큼한 요구르트 맛과 낮은 칼로리로 부담 없이 즐길 수 있습니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

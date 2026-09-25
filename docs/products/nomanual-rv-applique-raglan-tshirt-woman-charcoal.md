@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: [노매뉴얼] R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL 구매 가이드
 date: 2026-07-15
 description: 노매뉴얼 R.V APPLIQUE RAGLAN T-SHIRT (WOMAN) - CHARCOAL은 캐주얼하면서도 개성 있는 스타일을 연출하는 여성용 티셔츠로, 일상적인 착용 및 레이어드 코디에 적합합니다.
+contentUpdated: 2026-07-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

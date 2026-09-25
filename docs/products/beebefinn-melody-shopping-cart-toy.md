@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 베베핀 멜로디 쇼핑카트 구매 가이드
 date: 2026-07-03
 description: 베베핀 멜로디 쇼핑카트는 16개월부터 4세 전후 아이들이 마트놀이, 소꿉놀이 등 역할놀이를 즐기기에 적합한 장난감입니다. 베베핀 피규어와 다양한 소품, 멜로디 기능으로 아이들의 상상력을 자극합니다.
+contentUpdated: 2026-07-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

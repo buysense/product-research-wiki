@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 자라 ZARA 여성 카프리 팬츠 구매 가이드
 date: 2026-05-28
 description: 자라 ZARA 여성 카프리 팬츠는 봄여름 시즌 데일리룩, 오피스룩, 휴가지 패션 등 다양한 상황에 활용하기 좋은 슬림핏 하의입니다.
+contentUpdated: 2026-05-28
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

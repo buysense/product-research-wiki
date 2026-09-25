@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 뉴발란스 스트링 백팩 구매 가이드
 date: 2026-04-29
 description: 뉴발란스 스트링 백팩은 중고등학생의 등하교 및 학원 가방, 일상용으로 적합한 실용적인 수납력과 견고한 디자인의 가방입니다.
+contentUpdated: 2026-04-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

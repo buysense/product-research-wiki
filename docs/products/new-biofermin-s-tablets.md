@@ -3,6 +3,7 @@ image: https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin
 title: 신비오페르민 구매 가이드
 date: 2026-03-31
 description: 신비오페르민은 100년 역사의 일본 대표 정장제로, 비피더스균 등 3종 유산균이 장 건강을 돕습니다. 변비, 설사, 복부 팽만감 완화에 효과적이며, 일본 여행 시 쇼핑 리스트나 해외직구로 많이 찾는 지정의약부외품입니다.
+contentUpdated: 2026-03-31
 ---
 <!-- bs:jsonld -->
 <!-- /bs:jsonld -->

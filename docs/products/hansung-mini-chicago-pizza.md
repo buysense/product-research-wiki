@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 한성 미니 시카고피자 10개 구매 가이드
 date: 2026-05-12
 description: 한성 미니 시카고피자 10개는 간편한 조리로 1~2인이 즐기기 좋은 간식, 야식 또는 식사 대용입니다. 진한 치즈와 풍부한 토핑으로 아이들 간식이나 맥주 안주로 활용하기 좋습니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

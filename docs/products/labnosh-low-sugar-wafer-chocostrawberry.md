@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 랩노쉬 저당 웨하스 초코딸기 구매 가이드
 date: 2026-05-24
 description: 랩노쉬 저당 웨하스 초코딸기는 당 섭취를 줄이면서도 바삭하고 달콤한 간식을 찾는 소비자를 위한 제품입니다. 다이어트 중이거나 혈당 관리가 필요한 상황에서 부담 없이 즐기기 좋습니다.
+contentUpdated: 2026-05-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

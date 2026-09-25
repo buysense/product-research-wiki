@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: LIVINGSMILE 포켓형 직사각 기저귀정리함 구매 가이드
 date: 2026-05-20
 description: LIVINGSMILE 포켓형 직사각 기저귀정리함은 4단 수납과 뚜껑, 전면 포켓을 갖춰 출산준비물, 아기용품, 반려동물 용품 정리 등 다양한 상황에 활용하기 좋은 수납함입니다.
+contentUpdated: 2026-05-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

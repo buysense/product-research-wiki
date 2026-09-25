@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 매직캐슬 토끼 손인형 구매 가이드
 date: 2026-04-27
 description: 매직캐슬 토끼 손인형은 아이들의 인형극, 애착 인형, 부모와의 상호작용 및 반려동물 놀이 등 다양한 상황에서 활용할 수 있는 부드러운 토끼 손인형입니다.
+contentUpdated: 2026-04-27
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

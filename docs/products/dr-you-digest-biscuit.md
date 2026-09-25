@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 닥터유 다이제 구매 가이드
 date: 2026-08-19
 description: 닥터유 다이제는 통밀을 주재료로 하여 건강하고 든든하게 즐길 수 있는 비스킷으로, 간식이나 간단한 식사 대용으로 인기가 많습니다.
+contentUpdated: 2026-08-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

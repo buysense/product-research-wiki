@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor
 title: 츠바키 프리미엄 리페어 헤어 마스크 구매 가이드
 date: 2026-09-18
 description: 츠바키 프리미엄 리페어 헤어 마스크는 손상된 모발 관리를 위한 집중 트리트먼트 제품으로, 집에서 전문적인 헤어 케어 효과를 원하는 소비자에게 적합합니다.
+contentUpdated: 2026-09-18
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

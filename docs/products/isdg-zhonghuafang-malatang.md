@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: ISDG 중화방 마라탕 구매 가이드
 date: 2026-09-10
 description: ISDG 중화방 마라탕은 집에서 간편하게 중화풍 마라탕의 얼얼하고 매콤한 맛을 즐기고자 하는 소비자에게 적합한 제품입니다.
+contentUpdated: 2026-09-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 앤드허니 &honey 마토메이크 스틱 4.0 슈퍼 홀드 구매 가이드
 date: 2026-09-20
 description: 앤드허니 &honey 마토메이크 스틱 4.0 슈퍼 홀드는 잔머리나 삐져나온 머리를 깔끔하게 정리하여 단정하고 흐트러짐 없는 헤어스타일을 연출하고자 할 때 적합한 제품입니다.
+contentUpdated: 2026-09-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 룸모 콘낄리에 리가테 구매 가이드
 date: 2026-08-21
 description: 룸모 콘낄리에 리가테는 소스를 잘 머금는 조개 모양의 프리미엄 파스타로, 가정에서 다양한 파스타 요리를 즐기기에 적합합니다.
+contentUpdated: 2026-08-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

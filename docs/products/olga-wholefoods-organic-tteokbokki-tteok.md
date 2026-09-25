@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 올가홀푸드 유기가공식품 인증 떡볶이떡 구매 가이드
 date: 2026-07-29
 description: 올가홀푸드 유기가공식품 인증 떡볶이떡은 유기농 멥쌀 99%로 만들어져 온 가족이 안심하고 즐길 수 있으며, 쫄깃한 식감과 다양한 요리 활용이 특징입니다.
+contentUpdated: 2026-07-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

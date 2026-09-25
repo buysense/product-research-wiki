@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 아타라 VIP 패키지 금핀 두피마사지 브러쉬 구매 가이드
 date: 2026-05-31
 description: 아타라 금핀 두피마사지 브러쉬는 두피 열감 완화와 시원한 마사지를 제공하며, 두피 관리와 선물용으로 적합한 프리미엄 브러쉬입니다.
+contentUpdated: 2026-05-31
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

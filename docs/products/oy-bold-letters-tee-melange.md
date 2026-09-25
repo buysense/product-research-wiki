@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 오와이 BOLD LETTERS TEE - MELANGE 구매 가이드
 date: 2026-07-06
 description: 오와이 BOLD LETTERS TEE - MELANGE는 멜란지 컬러의 레터링 티셔츠로, 편안한 착용감과 다양한 스타일 연출이 가능하여 일상복이나 캐주얼룩으로 적합합니다.
+contentUpdated: 2026-07-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

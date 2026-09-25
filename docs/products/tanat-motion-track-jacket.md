@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 타낫 모션 트랙 자켓 구매 가이드
 date: 2026-06-10
 description: 타낫 모션 트랙 자켓은 뛰어난 활동성과 세련된 디자인으로 가벼운 운동이나 일상생활에서 편안함과 스타일을 동시에 제공하는 기능성 자켓입니다.
+contentUpdated: 2026-06-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

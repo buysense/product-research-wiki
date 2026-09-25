@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 지오다노 라운드 반팔 면티 구매 가이드
 date: 2026-04-07
 description: 지오다노 라운드 반팔 면티는 면 100% 소재로 부드러운 착용감을 제공하며, 교복 이너나 데일리룩에 활용하기 좋은 스테디셀러 기본템입니다.
+contentUpdated: 2026-04-07
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

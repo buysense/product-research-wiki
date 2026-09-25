@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: COYSEIO 코이세이오 플라워 카프리 슬리브 블루 그레이 구매 가이드
 date: 2026-08-10
 description: 코이세이오 플라워 카프리 슬리브 블루 그레이는 꽃무늬 디자인과 카프리 소매가 특징인 상의로, 봄부터 가을까지 일상복이나 캐주얼한 외출복으로 활용하기 좋습니다.
+contentUpdated: 2026-08-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

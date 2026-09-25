@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 도도레이블 휴대용 아이돌 화이트태닝 스프레이 구매 가이드
 date: 2026-08-27
 description: 도도레이블 휴대용 아이돌 화이트태닝 스프레이는 바쁜 일상 속에서도 즉각적으로 밝고 균일한 피부 톤을 연출하고 싶은 사용자를 위한 간편한 스프레이형 제품입니다.
+contentUpdated: 2026-08-27
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

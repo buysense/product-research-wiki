@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장노트 구매 가이드
 date: 2026-06-20
 description: 아이코닉 수베니어 B6 라인 줄 유선 하드커버 양장노트는 일기, 업무 기록, 아이디어 정리 등 일상과 비즈니스 상황에서 깔끔하고 견고하게 활용하기 좋은 노트입니다.
+contentUpdated: 2026-06-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

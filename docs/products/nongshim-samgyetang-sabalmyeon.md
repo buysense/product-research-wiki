@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 농심 삼계탕 사발면 구매 가이드
 date: 2026-08-12
 description: 농심 삼계탕 사발면은 간편하게 삼계탕의 풍미를 즐길 수 있는 컵라면으로, 바쁜 일상 속 식사나 야외 활동 시 따뜻한 국물이 필요한 상황에 적합합니다.
+contentUpdated: 2026-08-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

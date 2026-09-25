@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 메디큐브 PDRN 핑크 텐션 업 마스크 구매 가이드
 date: 2026-06-19
 description: 메디큐브 PDRN 핑크 텐션 업 마스크는 피부 탄력과 생기 부여에 중점을 둔 마스크팩으로, 중요한 날을 위한 집중 케어나 특별한 홈 케어 시 활용됩니다.
+contentUpdated: 2026-06-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

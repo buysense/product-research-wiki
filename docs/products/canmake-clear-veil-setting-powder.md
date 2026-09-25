@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 캔메이크 클리어 베일 세팅 파우더 구매 가이드
 date: 2026-09-13
 description: 캔메이크 클리어 베일 세팅 파우더는 메이크업 고정과 피부 유분 조절에 도움을 주어 보송하고 화사한 마무리감을 연출하고자 할 때 적합한 제품입니다.
+contentUpdated: 2026-09-13
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 참을 수 없는 존재의 가벼움 구매 가이드
 date: 2026-08-02
 description: 밀란 쿤데라의 참을 수 없는 존재의 가벼움은 인간 존재의 본질, 사랑, 자유를 탐구하며 깊은 사유를 즐기는 독자에게 적합합니다.
+contentUpdated: 2026-08-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

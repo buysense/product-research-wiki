@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 레이벤 RB4466D 플랫바 선글라스 구매 가이드
 date: 2026-06-01
 description: 레이벤 RB4466D 플랫바 선글라스는 일상생활부터 휴가지까지 다양한 상황에서 스타일과 눈 보호를 동시에 제공하는 현대적인 디자인의 선글라스입니다.
+contentUpdated: 2026-06-01
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

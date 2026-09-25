@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 시디즈 T60 AIR 컴퓨터 사무용 책상 의자 구매 가이드
 date: 2026-05-22
 description: 시디즈 T60 AIR 컴퓨터 사무용 책상 의자는 장시간 착석 환경에서 쾌적함과 편안함을 제공하며, 재택근무, 학습, 사무용으로 적합한 의자입니다.
+contentUpdated: 2026-05-22
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

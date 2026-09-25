@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 에즈이프 캘리 ASIF CALIE FLOWER APPLIQUE BOOTCUT PANTS CHARCOAL 구매 가이드
 date: 2026-07-20
 description: 에즈이프 캘리 플라워 아플리케 부츠컷 팬츠 차콜은 유니크한 꽃 자수 디자인과 편안한 부츠컷 핏이 특징입니다. 데일리 캐주얼부터 특별한 날까지 다양한 스타일 연출에 활용됩니다.
+contentUpdated: 2026-07-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: [이지노이지] 크롭 퍼 후드 집업 - 아이보리 구매 가이드
 date: 2026-07-12
 description: [이지노이지] 크롭 퍼 후드 집업 아이보리는 따뜻한 퍼 소재와 트렌디한 크롭 기장으로 일상 속 스타일리시한 캐주얼룩을 완성하며 간절기부터 겨울까지 활용하기 좋은 패션 아이템입니다.
+contentUpdated: 2026-07-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

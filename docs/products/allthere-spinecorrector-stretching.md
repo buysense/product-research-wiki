@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quo
 title: 올더히어 허리 스트레칭 구매 가이드
 date: 2026-04-16
 description: 올더히어 허리 스트레칭기는 거북목, 허리 통증, 장시간 앉아있는 분들을 위한 스파인코렉터입니다. 홈트 및 자세 교정에 효과적이며 가볍고 튼튼합니다.
+contentUpdated: 2026-04-16
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

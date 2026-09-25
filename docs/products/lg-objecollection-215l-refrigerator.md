@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: LG전자 오브제컬렉션 215L 냉장고 구매 가이드
 date: 2026-06-26
 description: LG전자 오브제컬렉션 215L 냉장고는 1~2인 가구, 자취생, 원룸 거주자에게 적합한 소형 냉장고로, 세련된 디자인과 효율적인 공간 활용이 특징입니다.
+contentUpdated: 2026-06-26
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

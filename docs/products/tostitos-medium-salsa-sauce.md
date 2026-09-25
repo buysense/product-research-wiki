@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 토스티토스 미디움 살사소스 구매 가이드
 date: 2026-04-27
 description: 토스티토스 미디움 살사소스는 다이어트 식단, 나초, 타코 등 다양한 멕시칸 요리에 활용하기 좋은 균형 잡힌 맛의 살사소스입니다.
+contentUpdated: 2026-04-27
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 비에스코리아 전동 에어펌프 구매 가이드
 date: 2026-04-14
 description: 비에스코리아 전동 에어펌프 HT-196은 가정, 캠핑, 물놀이 등에서 에어매트, 튜브 등 대형 공기 주입 용품을 빠르고 편리하게 채우고 빼는 데 최적화된 유선형 제품입니다.
+contentUpdated: 2026-04-14
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

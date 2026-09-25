@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 촉촉한 황치즈칩 구매 가이드
 date: 2026-05-09
 description: 촉촉한 황치즈칩은 진한 황치즈 풍미와 부드럽고 꾸덕한 식감이 특징인 과자로, 커피와 함께 즐기는 디저트나 간식으로 적합합니다.
+contentUpdated: 2026-05-09
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

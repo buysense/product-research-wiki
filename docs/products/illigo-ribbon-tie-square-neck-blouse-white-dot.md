@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트 구매 가이드
 date: 2026-08-13
 description: 일리고 리본 타이 스퀘어넥 블라우스 화이트 도트는 리본 디테일과 스퀘어넥 디자인이 돋보이는 제품으로, 데일리룩, 오피스룩, 데이트룩 등 다양한 상황에서 여성스러운 분위기를 연출하기 좋습니다.
+contentUpdated: 2026-08-13
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

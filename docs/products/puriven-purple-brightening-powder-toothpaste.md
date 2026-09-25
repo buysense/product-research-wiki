@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 퓨리븐 퍼플 브라이트닝 가루치약 구매 가이드
 date: 2026-04-13
 description: 퓨리븐 퍼플 브라이트닝 가루치약은 개그우먼 김신영이 '나 혼자 산다'에서 사용해 화제가 된 보색 원리 기반의 가루 치약으로, 누런 치아 착색 고민 해소와 상쾌한 구강 관리를 원하는 분께 적합합니다.
+contentUpdated: 2026-04-13
 ---
 <!-- bs:jsonld -->
 <!-- /bs:jsonld -->

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 스타벅스 드립백 구매 가이드
 date: 2026-04-29
 description: 스타벅스 드립백은 집, 캠핑, 여행 등 다양한 상황에서 간편하게 스타벅스 커피를 즐길 수 있는 제품으로, 3가지 블렌드 맛을 제공합니다.
+contentUpdated: 2026-04-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

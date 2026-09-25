@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 키넬라이프 외창문 클리너 구매 가이드
 date: 2026-07-11
 description: 키넬라이프 외창문 클리너는 손 닿지 않는 외부 창문을 쉽고 안전하게 청소하도록 돕는 도구입니다. 아파트나 높은 층의 창문 청소, 묵은 먼지 제거에 유용합니다.
+contentUpdated: 2026-07-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

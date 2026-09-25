@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 리뗀클로르 4단 아기트롤리 기저귀 보관함 구매 가이드
 date: 2026-05-20
 description: 리뗀클로르 4단 아기트롤리는 육아 중인 가구에서 기저귀, 손수건 등 아기용품을 위생적으로 보관하고 편리하게 이동하며 사용하기에 적합한 서랍형 보관함입니다.
+contentUpdated: 2026-05-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

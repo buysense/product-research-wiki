@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 딥디크 캔들 베이 구매 가이드
 date: 2026-05-31
 description: 딥디크 캔들 베이 190g은 플로럴하고 포근한 향과 고급스러운 디자인으로 집안 분위기를 연출하거나 특별한 선물을 준비하는 소비자에게 적합한 캔들입니다.
+contentUpdated: 2026-05-31
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor
 title: 갭 후디 토트백 숄더백 S 구매 가이드
 date: 2026-09-22
 description: 갭 후디 토트백 숄더백 S는 후드티 소재의 부드러움과 캐주얼한 디자인이 특징인 소형 가방입니다. 데일리 외출, 가벼운 짐 보관, 간편한 스타일링에 적합합니다.
+contentUpdated: 2026-09-22
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

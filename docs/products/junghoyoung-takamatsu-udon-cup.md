@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 정호영 다카마쓰 우동 컵라면 구매 가이드
 date: 2026-05-13
 description: 정호영 셰프의 다카마쓰 우동 컵라면은 집에서 간편하게 즐기는 우동으로, 면발과 국물의 맛이 특징이며 전자레인지 조리가 가능합니다.
+contentUpdated: 2026-05-13
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

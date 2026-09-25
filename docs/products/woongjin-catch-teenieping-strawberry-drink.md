@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 웅진 캐치 티니핑 딸기맛, 200ml, 24개 구매 가이드
 date: 2026-05-29
 description: 아이들이 좋아하는 캐치 티니핑 캐릭터가 그려진 웅진 캐치 티니핑 딸기맛 음료는 200ml 용량 24개 구성으로, 어린이집 간식, 외출 시 휴대용 음료, 또는 집에서 간편하게 즐기기 좋습니다.
+contentUpdated: 2026-05-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

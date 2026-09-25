@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 혼쯔유 코이다시 구매 가이드
 date: 2026-04-14
 description: 혼쯔유 코이다시는 깊은 감칠맛을 내는 4배 농축 쯔유로, 다양한 일식 및 한식 요리에 간편하게 활용되어 가정 요리의 품격을 높여줍니다.
+contentUpdated: 2026-04-14
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

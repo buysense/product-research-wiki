@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 3448 마시모두띠 화이트블랙 스트라이프 면 오각포켓대비셔츠 구매 가이드
 date: 2026-08-28
 description: 마시모두띠 3448 화이트블랙 스트라이프 면 오각포켓대비셔츠는 면 소재의 편안함과 세련된 스트라이프 디자인이 특징이며, 캐주얼부터 비즈니스 캐주얼까지 다양한 상황에 활용하기 좋습니다.
+contentUpdated: 2026-08-28
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

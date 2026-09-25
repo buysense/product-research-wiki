@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 천연 소가죽 원통 숄더백 파크백 구매 가이드
 date: 2026-07-26
 description: 천연 소가죽 원통 숄더백 파크백은 가벼운 무게와 넉넉한 수납공간을 갖춰 일상에서 편안하게 들기 좋은 데일리 가방입니다.
+contentUpdated: 2026-07-26
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

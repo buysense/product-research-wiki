@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 고재스툴 원목 빈티지 디자인 우드스툴 나무의자 화분스툴 사각 원형 미니 구매 가이드
 date: 2026-05-28
 description: 고재스툴 원목 빈티지 디자인 우드스툴은 현관 신발 착용 보조, 높은 곳 물건 보관, 화분 스탠드 등 다용도로 활용 가능한 안전하고 실용적인 미니 의자입니다.
+contentUpdated: 2026-05-28
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

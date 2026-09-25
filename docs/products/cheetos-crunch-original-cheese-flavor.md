@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 치토스 크런치 오리지널 치즈맛 구매 가이드
 date: 2026-08-26
 description: 치토스 크런치 오리지널 치즈맛은 독특한 치즈 시즈닝과 바삭한 식감이 특징인 스낵으로, TV 시청이나 간식으로 즐기기 적합합니다.
+contentUpdated: 2026-08-26
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

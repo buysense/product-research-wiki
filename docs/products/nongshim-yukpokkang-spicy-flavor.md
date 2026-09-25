@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 농심 육포깡 매콤한맛 구매 가이드
 date: 2026-06-12
 description: 농심 육포깡 매콤한맛은 짭짤하면서도 알싸한 매콤함이 특징인 스낵으로, 맥주 안주나 간식으로 가볍게 즐기기 좋습니다.
+contentUpdated: 2026-06-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

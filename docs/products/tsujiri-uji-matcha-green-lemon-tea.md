@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor
 title: 일본 교토 츠지리 우지말차가 들어간 그린 레몬티 구매 가이드
 date: 2026-09-23
 description: 일본 교토 츠지리의 우지말차와 상큼한 레몬이 조화로운 그린 레몬티는 색다른 맛을 추구하는 분들에게 일상 속 특별한 휴식을 선사합니다.
+contentUpdated: 2026-09-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

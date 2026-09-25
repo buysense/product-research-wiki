@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 고바야시 쇼슈겐 한방울 방향제 금목서향 구매 가이드
 date: 2026-09-12
 description: 고바야시 쇼슈겐 한방울 방향제 금목서향은 화장실의 불쾌한 냄새를 한 방울로 빠르게 제거하며, 은은한 금목서 향으로 상쾌함을 선사하는 휴대용 방향제입니다.
+contentUpdated: 2026-09-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

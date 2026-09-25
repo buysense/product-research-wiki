@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 칼디 포션 커피 구매 가이드
 date: 2026-06-14
 description: 칼디 포션 커피는 믹스 커피 대신 깔끔하고 부담 없는 아메리카노를 간편하게 즐기고 싶은 소비자에게 적합한 농축 커피입니다.
+contentUpdated: 2026-06-14
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

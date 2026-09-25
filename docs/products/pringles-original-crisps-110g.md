@@ -3,6 +3,7 @@ title: 프링글스 오리지날 110g 구매 가이드
 date: 2026-04-07
 description: 프링글스 오리지날 110g은 가정에서 여럿이 나눠 먹거나 혼자 여유롭게 즐기기 좋은 표준 용량으로, g당 가격 효율이 가장 높은 선택지입니다.
 slug_en: pringles-original-crisps-110g
+contentUpdated: 2026-04-07
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

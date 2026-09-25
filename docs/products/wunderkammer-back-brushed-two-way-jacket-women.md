@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 분더캄머 백 브러쉬드 투웨이 자켓 여성 기모 재킷 점퍼 아우터 구매 가이드
 date: 2026-08-28
 description: 분더캄머 백 브러쉬드 투웨이 자켓은 따뜻한 기모 안감과 활용도 높은 투웨이 디자인이 특징인 여성 아우터로, 간절기 및 초겨울 데일리룩에 적합합니다.
+contentUpdated: 2026-08-28
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

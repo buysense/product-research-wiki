@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 아몬드초코볼 애플요거트 구매 가이드
 date: 2026-08-31
 description: 아몬드초코볼 애플요거트는 바삭한 아몬드와 달콤한 초콜릿, 상큼한 애플 요거트 코팅이 조화로운 간식으로, 출출할 때나 가볍게 즐기기 좋습니다.
+contentUpdated: 2026-08-31
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 솔리앤 문어 괄사 지압 전신 마사지기 구매 가이드
 date: 2026-06-11
 description: 솔리앤 문어 괄사 지압 전신 마사지기는 오래 앉거나 서서 일하는 현대인들의 목, 어깨, 종아리 등 전신 근육 뭉침을 집에서 간편하게 완화할 수 있는 마사지 도구입니다.
+contentUpdated: 2026-06-11
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

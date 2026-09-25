@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 트와이닝 클래식 차 컬렉션 티백 구매 가이드
 date: 2026-05-06
 description: 트와이닝 클래식 차 컬렉션 티백은 5가지 대표 홍차를 한 번에 맛볼 수 있어, 차 입문자나 다양한 맛을 즐기려는 소비자에게 적합합니다. 퇴근 후 휴식, 커피 대체, 또는 선물용으로 좋은 선택입니다.
+contentUpdated: 2026-05-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

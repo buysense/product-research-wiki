@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 빵부장 솔티꽈배기 구매 가이드
 date: 2026-05-14
 description: 빵부장 솔티꽈배기는 진한 카라멜과 프랑스산 게랑드 소금의 단짠 조화가 돋보이는 바삭한 스낵으로, 커피나 우유와 함께 즐기기 좋은 간식입니다.
+contentUpdated: 2026-05-14
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

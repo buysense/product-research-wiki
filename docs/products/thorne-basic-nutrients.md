@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: THORNE 기본 영양소 구매 가이드
 date: 2026-05-06
 description: THORNE 기본 영양소는 일상적인 영양 균형 유지와 전반적인 건강 관리를 돕는 종합 비타민 미네랄 보충제로, 꾸준한 건강 관리를 원하는 소비자에게 적합합니다.
+contentUpdated: 2026-05-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

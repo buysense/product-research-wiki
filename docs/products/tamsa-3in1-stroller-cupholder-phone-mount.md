@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 탐사 3in1 유모차 2구 컵홀더 + 스마트폰 거치대 세트 구매 가이드
 date: 2026-05-21
 description: 탐사 3in1 유모차 컵홀더는 외출 시 유모차 사용자에게 음료와 스마트폰을 동시에 거치하여 두 손의 자유로움을 제공하는 실용적인 액세서리입니다.
+contentUpdated: 2026-05-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

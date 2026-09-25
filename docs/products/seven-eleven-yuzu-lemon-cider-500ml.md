@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 세븐일레븐 유자 레몬 사이다 500ml 구매 가이드
 date: 2026-07-30
 description: 세븐일레븐 유자 레몬 사이다 500ml는 유자와 레몬의 상큼함이 조화로운 탄산음료로, 갈증 해소나 가벼운 간식과 함께 즐기기 좋습니다.
+contentUpdated: 2026-07-30
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

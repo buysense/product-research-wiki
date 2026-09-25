@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 풀무원 블럭치즈 돈가스 구매 가이드
 date: 2026-05-07
 description: 풀무원 블럭치즈 돈가스는 두툼한 블럭 모짜렐라 치즈와 바삭한 튀김옷이 특징인 냉동 돈가스로, 바쁜 일상 속 간편한 한 끼 식사나 아이들 반찬으로 적합합니다.
+contentUpdated: 2026-05-07
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

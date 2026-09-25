@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 백제 쌀국수 얼큰한맛 구매 가이드
 date: 2026-09-11
 description: 백제 쌀국수 얼큰한맛은 간편하게 즐길 수 있는 매콤한 맛의 인스턴트 쌀국수로, 빠른 한 끼 식사나 야식으로 적합합니다.
+contentUpdated: 2026-09-11
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 드헤베 시스루 소프트 가디건 구매 가이드
 date: 2026-05-26
 description: 드헤베 시스루 소프트 가디건은 가볍고 부드러운 소재로 제작되어 간절기 및 여름철 시원하고 스타일리시한 레이어드룩 연출에 적합합니다.
+contentUpdated: 2026-05-26
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

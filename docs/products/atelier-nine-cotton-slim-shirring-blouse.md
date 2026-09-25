@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE 구매 가이드
 date: 2026-08-06
 description: 아틀리에 나인 COTTON SLIM SHIRRING BLOUSE는 슬림한 실루엣과 셔링 디테일이 특징인 면 소재 블라우스로, 데일리룩부터 오피스룩까지 활용하기 좋습니다.
+contentUpdated: 2026-08-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

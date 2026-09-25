@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 태기스 헝겊책 촉감 발달 완구 구매 가이드
 date: 2026-06-08
 description: 태기스 헝겊책 촉감 발달 완구는 신생아부터 사용 가능한 부드러운 촉감책으로, 다양한 태그와 소리로 아기 감각 발달 및 집중력 향상에 도움을 줍니다. 외출 시 휴대하기 편리하며 수면 교육, 출산 선물용으로도 적합합니다.
+contentUpdated: 2026-06-08
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

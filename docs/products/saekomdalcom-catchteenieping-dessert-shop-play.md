@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 새콤달콤 캐치티니핑 디저트샵 소꿉놀이 구매 가이드
 date: 2026-07-03
 description: 새콤달콤 캐치티니핑 디저트샵 소꿉놀이는 캐치티니핑 캐릭터를 좋아하는 아이들이 디저트 가게 역할놀이를 통해 상상력과 소근육 발달을 키울 수 있도록 고안된 자석 소꿉놀이 장난감입니다.
+contentUpdated: 2026-07-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

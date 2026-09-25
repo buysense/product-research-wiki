@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 로지오가닉 당당한 젤리 3종 세트 구매 가이드
 date: 2026-05-20
 description: 로지오가닉 당당한 젤리 3종 세트는 합성첨가물 없이 아이들 눈, 장, 목 건강을 챙기는 유기농 젤리로, 건강한 간식을 찾는 부모에게 적합합니다.
+contentUpdated: 2026-05-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

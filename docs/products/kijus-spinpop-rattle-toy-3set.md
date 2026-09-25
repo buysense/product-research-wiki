@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 키저스 빙글빙글 스핀팝 딸랑이 장난감 3종 세트 구매 가이드
 date: 2026-05-21
 description: 키저스 빙글빙글 스핀팝 딸랑이 장난감 3종 세트는 강력한 흡착력과 다채로운 색감으로 아기의 소근육 발달과 집중력 향상에 도움을 줍니다. 이유식 시간, 외출, 목욕 등 다양한 상황에서 활용하기 좋습니다.
+contentUpdated: 2026-05-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

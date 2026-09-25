@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 골든잇츠 유기농 퀵 오트밀 구매 가이드
 date: 2026-05-19
 description: 골든잇츠 유기농 퀵 오트밀은 바쁜 아침, 건강한 식단 관리, 아기 이유식 등 다양한 상황에서 간편하고 영양가 있는 한 끼를 제공하는 유기농 퀵 오트밀입니다.
+contentUpdated: 2026-05-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 모네 프리미엄 트라이크 유모차 구매 가이드
 date: 2026-05-20
 description: 모네 프리미엄 트라이크 유모차는 활동적인 유아와의 외출, 공원 산책, 근거리 이동 시 부모의 편의성과 아이의 즐거움을 동시에 제공하는 제품입니다.
+contentUpdated: 2026-05-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

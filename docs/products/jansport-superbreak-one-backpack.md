@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 잔스포츠 슈퍼브레이크 원 구매 가이드
 date: 2026-04-28
 description: 잔스포츠 슈퍼브레이크 원 백팩은 가벼운 무게, 심플한 디자인으로 학생부터 성인까지 일상에서 부담 없이 활용하기 좋은 데일리 백팩입니다.
+contentUpdated: 2026-04-28
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

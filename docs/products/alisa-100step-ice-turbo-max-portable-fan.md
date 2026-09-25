@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 알리사 100단 아이스 터보 MAX 휴대용 선풍기 구매 가이드
 date: 2026-08-20
 description: 알리사 100단 아이스 터보 MAX 휴대용 선풍기는 강력한 바람과 휴대성을 겸비하여 야외 활동, 대중교통 이용 등 다양한 상황에서 시원함을 제공합니다.
+contentUpdated: 2026-08-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

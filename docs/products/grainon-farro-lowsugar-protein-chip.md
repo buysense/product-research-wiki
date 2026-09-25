@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 그레인온 파로 저당 단백칩 10개 구매 가이드
 date: 2026-05-12
 description: 그레인온 파로 저당 단백칩 10개는 체중 조절, 혈당 관리, 운동 후 간식으로 부담 없이 즐길 수 있는 식물성 고단백 구운 스낵입니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

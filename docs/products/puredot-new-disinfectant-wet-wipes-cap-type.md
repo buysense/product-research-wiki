@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 퓨어닷 NEW 소독 물티슈 캡형 구매 가이드
 date: 2026-09-01
 description: 퓨어닷 NEW 소독 물티슈 캡형은 일상생활 속 다양한 환경에서 간편하게 위생 관리를 돕는 제품입니다.
+contentUpdated: 2026-09-01
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

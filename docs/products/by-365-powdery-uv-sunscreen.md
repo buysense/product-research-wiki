@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor
 title: by 365 파우더리 UV 썬크림 구매 가이드
 date: 2026-09-20
 description: by 365 파우더리 UV 썬크림은 산뜻한 마무리감을 선호하는 사용자를 위한 자외선 차단제입니다. 일상생활에서 피부를 보호하며 보송한 사용감을 제공합니다.
+contentUpdated: 2026-09-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

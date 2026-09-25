@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 팔도비빔면 20개입 구매 가이드
 date: 2026-04-24
 description: 팔도비빔면 20개입은 새콤달콤매콤한 맛과 쫄깃한 면발이 특징인 비빔라면으로, 더운 여름철은 물론 사계절 내내 온 가족이 즐기기 좋은 간편식입니다. 156g의 넉넉한 용량으로 한 끼 식사로 충분하며, 대용량 구매로 실용성을 높였습니다.
+contentUpdated: 2026-04-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

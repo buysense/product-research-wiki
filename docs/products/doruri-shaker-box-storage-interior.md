@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 도르리 셰이커박스 구매 가이드
 date: 2026-04-19
 description: 도르리 셰이커박스는 대용량 수납과 감성적인 디자인을 겸비하여 집안 정돈과 인테리어 효과를 동시에 원하는 소비자를 위한 다용도 수납함입니다.
+contentUpdated: 2026-04-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

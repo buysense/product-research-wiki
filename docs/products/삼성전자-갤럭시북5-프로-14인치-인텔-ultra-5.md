@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5 구매 가이드
 date: 2026-03-29
 description: 삼성전자 갤럭시북5 프로 14인치 인텔 Ultra 5는 뛰어난 휴대성, 선명한 AMOLED 터치 디스플레이, 강력한 AI 성능을 갖춰 이동이 잦은 직장인과 학생에게 최적화된 프리미엄 노트북입니다.
+contentUpdated: 2026-03-29
 ---
 <!-- bs:jsonld -->
 <!-- /bs:jsonld -->

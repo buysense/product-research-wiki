@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 차일드라이프 퓨어 DHA 오메가3 딸기맛 90정 구매 가이드
 date: 2026-05-06
 description: 성장기 아이들의 두뇌 발달과 눈 건강을 위한 차일드라이프 퓨어 DHA 오메가3 딸기맛 90정은 달콤한 맛으로 아이들이 거부감 없이 섭취하기 편리한 영양제입니다.
+contentUpdated: 2026-05-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

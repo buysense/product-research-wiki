@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 해태 오예스 베이크하우스 얼그레이&쇼콜라 280g 구매 가이드
 date: 2026-08-31
 description: 해태 오예스 베이크하우스 얼그레이&쇼콜라 280g은 얼그레이와 쇼콜라의 조화로운 맛을 선사하는 고급스러운 미니 케이크입니다. 커피나 차와 함께 즐기기 좋은 간식으로, 일상 속 작은 여유를 찾는 분께 적합합니다.
+contentUpdated: 2026-08-31
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

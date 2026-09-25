@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 하밍 맑은 쌀뜨물 비비 로션 구매 가이드
 date: 2026-06-03
 description: 하밍 맑은 쌀뜨물 비비 로션은 가벼운 외출 시 자연스러운 피부 표현을 돕거나, 파운데이션과 섞어 사용하여 촉촉함과 밀착력을 높이는 데 적합한 제품입니다.
+contentUpdated: 2026-06-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

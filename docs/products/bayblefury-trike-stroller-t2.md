@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 베이블퓨어리 트라이크 유모차 T2 구매 가이드
 date: 2026-05-20
 description: 베이블퓨어리 트라이크 유모차 T2는 3.7kg 초경량 무게와 간편한 폴딩으로 근거리 외출, 여행 시 휴대성이 뛰어난 제품입니다. 유모차 거부 시 대안으로 활용됩니다.
+contentUpdated: 2026-05-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

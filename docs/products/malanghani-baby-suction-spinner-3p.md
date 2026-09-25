@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 말랑하니 유아용 흡착스피너 빙글빙글 3종세트 구매 가이드
 date: 2026-06-09
 description: 말랑하니 유아용 흡착스피너 빙글빙글 3종세트는 푸드그레이드 실리콘 소재로 아기에게 안전하며, 식사 시간이나 외출 시 아기를 즐겁게 해주고 소근육 발달을 돕는 유아 장난감입니다.
+contentUpdated: 2026-06-09
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

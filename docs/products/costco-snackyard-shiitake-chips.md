@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 코스트코 스낵야드 표고버섯 칩 구매 가이드
 date: 2026-05-12
 description: 코스트코 스낵야드 표고버섯 칩은 통 표고버섯을 그대로 건조하고 단짠 시즈닝을 더한 300g 대용량 스낵으로, 일반 과자 대신 즐길 건강한 간식이나 영화 감상 시 독특한 안주를 찾는 소비자에게 적합합니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

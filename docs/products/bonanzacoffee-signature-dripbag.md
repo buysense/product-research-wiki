@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 보난자커피 시그니처 에디션 드립백 구매 가이드
 date: 2026-09-10
 description: 보난자커피 시그니처 에디션 드립백은 집, 사무실, 여행지 등 언제 어디서든 간편하게 고품질 커피를 즐기기 위한 제품입니다. 바쁜 일상 속에서 특별한 커피 경험을 선사합니다.
+contentUpdated: 2026-09-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

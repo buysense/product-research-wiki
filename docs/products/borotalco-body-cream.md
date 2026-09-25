@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 보로탈코 바디크림 구매 가이드
 date: 2026-06-07
 description: 보로탈코 바디크림은 건조한 피부에 보습과 포근한 베이비파우더 향을 제공하는 제품으로, 샤워 후나 수영 후 건조함이 느껴질 때 사용하기 적합합니다. 끈적임 없는 보송한 마무리감이 특징입니다.
+contentUpdated: 2026-06-07
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

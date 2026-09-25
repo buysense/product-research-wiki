@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quo
 title: 모던앳 초코 말랑이 왁뿌볼 구매 가이드
 date: 2026-05-15
 description: 모던앳 초코 말랑이 왁뿌볼은 겉면의 바스락거리는 파괴감과 내부의 말랑한 촉감을 동시에 제공하며, 스트레스 해소 및 수집용으로 인기가 높은 장난감입니다.
+contentUpdated: 2026-05-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

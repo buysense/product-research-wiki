@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 빌리프 뉴메로 10 에센스 (75ml) 구매 가이드
 date: 2026-06-24
 description: 빌리프 뉴메로 10 에센스 (75ml)는 세안 직후 증발하는 수분을 빠르게 잡아주는 퍼스트 에센스로, 건조함이 느껴지는 모든 피부 타입에 적합합니다.
+contentUpdated: 2026-06-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 마이크로킥보드 맥시T 디럭스 LED 구매 가이드
 date: 2026-04-28
 description: 마이크로킥보드 맥시T 디럭스 LED는 5세부터 초등학생까지 넓은 연령대의 아이들이 일상에서 안전하고 즐겁게 킥보드를 즐길 수 있도록 설계된 모델입니다. 뛰어난 핸들링과 부드러운 주행감, 야간 안전을 위한 LED 바퀴가 특징입니다.
+contentUpdated: 2026-04-28
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 유니프랜드 쿨 주름지 플리츠 7부 구매 가이드
 date: 2026-05-11
 description: 유니프랜드 쿨 주름지 플리츠 7부는 봄부터 여름까지 아이들이 편안하고 시원하게 착용할 수 있는 7부 상하의 세트로, 실내복 및 외출복으로 활용도가 높습니다.
+contentUpdated: 2026-05-11
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

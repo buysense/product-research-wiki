@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 비렌느 스팟 엑스 구매 가이드
 date: 2026-07-23
 description: 비렌느 스팟 엑스는 쥐젖, 편평사마귀, 트러블 등 국소 부위 피부 고민을 집에서 관리하고자 할 때 적합한 세럼입니다. 병풀추출물과 율무 성분으로 자극 없이 피부를 진정하고 개선하는 데 도움을 줍니다.
+contentUpdated: 2026-07-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

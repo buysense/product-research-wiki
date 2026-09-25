@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 니도 드림드롭 구매 가이드
 date: 2026-09-03
 description: 니도 드림드롭은 일상 속 스트레스 해소와 편안한 휴식을 돕는 제품입니다. 잠들기 전 또는 긴장을 완화하고 싶을 때 고려해볼 수 있습니다.
+contentUpdated: 2026-09-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

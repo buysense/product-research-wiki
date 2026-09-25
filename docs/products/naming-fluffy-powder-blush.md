@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 네이밍 플러피 파우더 블러쉬 구매 가이드
 date: 2024-07-29
 description: 네이밍 플러피 파우더 블러쉬는 고운 입자로 맑고 자연스러운 혈색을 연출하며, 데일리 메이크업에 활용하기 좋은 빌더블 타입 블러셔입니다.
+contentUpdated: 2026-06-04
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

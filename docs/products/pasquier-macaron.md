@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 파스키에 마카롱 구매 가이드
 date: 2026-08-18
 description: 파스키에 마카롱은 프랑스 정통 스타일의 냉동 디저트로, 6가지 다양한 맛과 쫀득한 식감, 합리적인 가격이 특징입니다. 홈카페, 간식, 손님 접대 등 다양한 상황에서 고급스러운 달콤함을 선사합니다.
+contentUpdated: 2026-08-18
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

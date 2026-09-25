@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 바다 100층짜리 집 구매 가이드
 date: 2026-06-23
 description: 바다 100층짜리 집은 독특한 세로형 구성으로 바닷속 100층 아파트에 사는 다양한 해양 생물을 탐험하며 숫자 학습과 관찰력을 키우는 그림책입니다. 3-7세 아동에게 적합하며, 인스타그램 등 SNS에서 인기를 얻고 있습니다.
+contentUpdated: 2026-06-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

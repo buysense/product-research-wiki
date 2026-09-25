@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 야물야물 그림책 전 20권 최신 개정판 구매 가이드
 date: 2026-05-20
 description: 야물야물 그림책 전 20권 최신 개정판은 영유아기 아이들의 언어 및 인지 발달을 돕는 종합 그림책 세트로, 가정 내 독서 습관 형성 및 학습 지원에 적합합니다.
+contentUpdated: 2026-05-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

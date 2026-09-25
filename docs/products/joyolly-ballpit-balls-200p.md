@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 조이올리 볼풀공 200p 구매 가이드
 date: 2026-06-23
 description: 조이올리 볼풀공 200p는 5.5cm 크기의 안전한 볼풀공으로, 아기 볼풀장, 놀이텐트, 어르신 신체 프로그램 등 다양한 실내 놀이 환경에 적합합니다.
+contentUpdated: 2026-06-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

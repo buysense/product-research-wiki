@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 모모야 라유 구매 가이드
 date: 2026-04-10
 description: 모모야 라유는 튀긴 마늘과 양파의 바삭한 식감, 고소함, 부담 없는 매콤함이 특징인 일본식 고추기름으로, 밥, 면, 만두 등 다양한 요리에 활용하기 좋습니다.
+contentUpdated: 2026-04-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

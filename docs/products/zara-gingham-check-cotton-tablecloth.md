@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: ZARA 깅엄 체크 코튼 테이블보 구매 가이드
 date: 2026-05-28
 description: ZARA 깅엄 체크 코튼 테이블보는 클래식한 패턴과 부드러운 면 소재가 특징인 테이블보로, 일상 식탁이나 특별한 홈 파티 연출에 활용됩니다.
+contentUpdated: 2026-05-28
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

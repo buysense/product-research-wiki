@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 닛픈 전설의 닭 튀김가루 구매 가이드
 date: 2026-09-08
 description: 닛픈 전설의 닭 튀김가루는 집에서 전문점 수준의 바삭하고 맛있는 닭튀김을 간편하게 만들 수 있도록 돕는 제품입니다. 온 가족 간식이나 홈파티 요리로 활용하기 좋습니다.
+contentUpdated: 2026-09-08
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

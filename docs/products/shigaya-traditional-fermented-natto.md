@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 시가야 전통발효 낫또 구매 가이드
 date: 2026-04-17
 description: 시가야 전통발효 낫또는 일본 카고시마 공장의 전통 방식으로 만들어진 낫또로, 개별 포장되어 바쁜 아침 식사나 건강 간편식으로 적합합니다.
+contentUpdated: 2026-04-17
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

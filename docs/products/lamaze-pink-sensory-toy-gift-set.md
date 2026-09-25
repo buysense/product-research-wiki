@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 라마즈 핑크 촉감발달완구 선물세트 구매 가이드
 date: 2026-06-08
 description: 라마즈 핑크 촉감발달완구 선물세트는 신생아부터 영아기 아기의 오감 발달을 돕는 완구 세트로, 출산·백일 선물로 인기가 많습니다.
+contentUpdated: 2026-06-08
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

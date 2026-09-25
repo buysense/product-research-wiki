@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 동화CNF 미니약과 구매 가이드
 date: 2026-09-11
 description: 동화CNF 미니약과는 쫄깃한 식감과 달콤한 맛이 특징인 한입 크기 약과로, 간식, 선물, 디저트 등 다양한 상황에서 부담 없이 즐기기 좋은 전통 과자입니다.
+contentUpdated: 2026-09-11
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

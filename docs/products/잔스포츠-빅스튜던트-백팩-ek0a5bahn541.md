@@ -2,6 +2,7 @@
 title: 잔스포츠 빅스튜던트 백팩 EK0A5BAHN541 구매 가이드
 date: 2026-03-13
 description: 잔스포츠(JanSport)는 1967년 미국에서 창립된 글로벌 아웃도어 가방 브랜드로, 전 세계 백팩 시장 상위권에 자리잡은 장기 스테디셀러 브랜드입니다. 빅스튜던트(Big Student)는 잔스포츠의 데일리 백팩 라인을 대표하는 모델로, 34 ...
+contentUpdated: 2026-03-13
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

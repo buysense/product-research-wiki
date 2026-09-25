@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 꼬깔콘 애플 시나몬맛 구매 가이드
 date: 2026-08-30
 description: 꼬깔콘 애플 시나몬맛은 익숙한 꼬깔콘에 사과와 시나몬 향이 더해진 스낵으로, 달콤하면서도 고소한 맛이 특징입니다. 가벼운 간식이나 특별한 맛을 찾는 소비 상황에 적합합니다.
+contentUpdated: 2026-08-30
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

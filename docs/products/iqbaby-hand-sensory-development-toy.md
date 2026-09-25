@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: "IQ베이비: 손감각 발달토이 구매 가이드"
 date: 2026-06-15
 description: IQ베이비 손감각 발달토이는 신생아부터 6개월 전후 아기의 손과 오감 발달을 돕는 장난감입니다. 다양한 촉감과 안전한 소재로 구강기 아기의 탐색 본능을 충족시키며, 출산 선물로도 인기가 많습니다.
+contentUpdated: 2026-06-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

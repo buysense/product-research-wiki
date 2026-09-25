@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 바릴라 엔젤헤어 구매 가이드
 date: 2026-04-27
 description: 바릴라 엔젤헤어는 얇고 섬세한 면으로, 빠른 조리가 가능하며 가벼운 소스와 잘 어울려 가정에서 간편한 식사를 준비할 때 적합합니다.
+contentUpdated: 2026-04-27
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

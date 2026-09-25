@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 왕뚜껑 라볶이 구매 가이드
 date: 2026-05-09
 description: 왕뚜껑 라볶이는 매콤달콤한 라볶이 맛을 컵라면으로 간편하게 즐길 수 있는 제품으로, 바쁜 일상 속 간편한 식사나 야식으로 적합합니다.
+contentUpdated: 2026-05-09
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

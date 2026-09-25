@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 풀리 비건 그린 토마토 클레이 팩 클렌저 구매 가이드
 date: 2026-07-17
 description: 풀리 비건 그린 토마토 클레이 팩 클렌저는 모공과 피지 관리를 한 번에 해결하고 싶은 사용자에게 적합한 2in1 제품입니다. 바쁜 일상 속에서 간편하게 피부 노폐물과 블랙헤드를 관리하며 매끈한 피부결을 유지할 수 있도록 돕습니다.
+contentUpdated: 2026-07-17
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

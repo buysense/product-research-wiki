@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 가농 1+ 중란으로 만든 구운란 구매 가이드
 date: 2026-04-03
 description: 1+ 등급 중란으로 만든 가농 구운란은 다이어트, 단백질 보충을 위한 건강한 간식 및 간편한 식사 대용으로 적합합니다.
+contentUpdated: 2026-04-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

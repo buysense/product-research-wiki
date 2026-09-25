@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 노블레빗 토끼 애착 인형 구매 가이드
 date: 2026-06-09
 description: 노블레빗 토끼 애착 인형은 부드러운 촉감과 귀여운 디자인으로 아이들의 정서적 안정과 애착 형성을 돕는 인형입니다. 합리적인 가격에 높은 품질을 제공하여 인기 있는 선택지입니다.
+contentUpdated: 2026-06-09
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

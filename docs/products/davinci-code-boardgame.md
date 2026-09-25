@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 다빈치 코드 구매 가이드
 date: 2026-04-30
 description: 다빈치 코드 보드게임은 논리적 추론과 심리전을 즐길 수 있는 숫자 추리 게임입니다. 가족 모임, 친구들과의 파티, 여행 시 간편하게 즐기기 적합하며, 아이부터 어른까지 온 가족이 함께 두뇌 개발과 즐거움을 동시에 느낄 수 있습니다.
+contentUpdated: 2026-05-01
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

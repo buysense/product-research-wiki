@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 삼양 불닭볶음면 구매 가이드
 date: 2026-05-18
 description: 삼양 불닭볶음면은 매콤하고 중독성 있는 맛으로 스트레스 해소와 다양한 레시피 활용에 적합하며, 주기적으로 생각나는 매운맛을 찾는 소비자에게 인기 있는 볶음면입니다.
+contentUpdated: 2026-05-18
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

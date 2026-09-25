@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 편강율 키즈 앤 베이비 모이스처 선크림 SPF50+ PA++++, 1개, 150ml 구매 가이드
 date: 2026-06-02
 description: 편강율 키즈 앤 베이비 모이스처 선크림은 SPF50+ PA++++의 높은 차단력과 순한 사용감으로 야외활동이 많은 아이와 온 가족이 함께 사용하기 좋은 대용량 선크림입니다.
+contentUpdated: 2026-06-02
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

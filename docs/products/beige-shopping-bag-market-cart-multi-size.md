@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 베이지 손잡이 쇼핑백 마트 장바구니 시장 바구니 다용도 2size 구매 가이드
 date: 2026-08-19
 description: 베이지 손잡이 쇼핑백은 마트, 시장, 다용도로 활용 가능한 장바구니로, 2가지 사이즈로 제공되어 다양한 쇼핑 상황에 적합합니다.
+contentUpdated: 2026-08-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

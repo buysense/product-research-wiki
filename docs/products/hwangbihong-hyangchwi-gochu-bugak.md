@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 황비홍 향취고추 부각 구매 가이드
 date: 2026-09-04
 description: 황비홍 향취고추 부각은 매콤하고 바삭한 식감이 특징인 고추튀각으로, 식사 반찬이나 술안주, 간식 등 다양한 상황에서 즐기기 적합합니다.
+contentUpdated: 2026-09-04
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 마이노멀 밀가루 없는 제로칩 어니언맛 구매 가이드
 date: 2026-06-08
 description: 마이노멀 밀가루 없는 제로칩 어니언맛은 다이어트 중이거나 건강한 간식을 찾는 소비자를 위한 바삭하고 고소한 현미칩입니다. 죄책감 없이 즐길 수 있는 저당 스낵으로 입이 심심할 때나 맥주 안주로 적합합니다.
+contentUpdated: 2026-06-08
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 레이지지 슬로우 멜로우 데일리 집업 후드 구매 가이드
 date: 2026-05-23
 description: 레이지지 슬로우 멜로우 데일리 집업 후드는 일상생활에서 편안함과 실용성을 추구하며, 가벼운 외출이나 실내 활동에 적합한 집업 후드입니다.
+contentUpdated: 2026-05-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

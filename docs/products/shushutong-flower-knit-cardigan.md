@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: SHUSHUTONG 플라워 니트 가디건 구매 가이드
 date: 2026-05-12
 description: SHUSHUTONG 플라워 니트 가디건은 화사한 플라워 패턴과 부드러운 니트 소재가 특징으로, 간절기 데일리룩이나 특별한 외출 시 포인트를 더해주는 아이템입니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

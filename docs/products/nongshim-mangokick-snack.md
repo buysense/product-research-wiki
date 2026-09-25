@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 농심 망고킥 구매 가이드
 date: 2026-06-25
 description: 농심 망고킥은 바나나킥의 부드러운 식감에 애플망고의 진한 풍미를 더한 과자입니다. 아이들 간식, 영화 감상 시, 커피나 차와 함께 즐기기 좋습니다.
+contentUpdated: 2026-06-25
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

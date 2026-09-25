@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 맵다요 부트졸로키아 가루 구매 가이드
 date: 2026-09-04
 description: 맵다요 부트졸로키아 가루는 최상급 부트졸로키아 고추를 갈아 만든 매운맛 향신료로, 극한의 매운맛을 추구하는 요리나 음식에 사용됩니다.
+contentUpdated: 2026-09-04
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

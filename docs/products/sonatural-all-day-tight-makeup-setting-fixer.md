@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 쏘내추럴 올 데이 타이트 메이크업 세팅 픽서 구매 가이드
 date: 2026-07-23
 description: 쏘내추럴 올 데이 타이트 메이크업 세팅 픽서는 땀과 유분, 마스크 착용으로 무너지기 쉬운 메이크업을 오랫동안 고정해 주는 제품입니다. 하루 종일 깔끔하고 자연스러운 피부 표현을 유지하고 싶은 분들에게 적합합니다.
+contentUpdated: 2026-07-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

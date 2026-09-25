@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 이금기 중화 두반장 구매 가이드
 date: 2026-04-24
 description: 이금기 중화 두반장은 집에서 중화요리 특유의 깊은 맛과 감칠맛을 내고 싶을 때 활용하기 좋은 만능 소스입니다. 마파두부, 볶음밥 등 다양한 요리에 사용됩니다.
+contentUpdated: 2026-04-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

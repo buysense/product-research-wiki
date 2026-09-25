@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor
 title: 느으림 건강하게 두 번 볶은 국산 옛날미숫가루 구매 가이드
 date: 2026-09-22
 description: 느으림 건강하게 두 번 볶은 국산 옛날미숫가루는 바쁜 일상 속 간편한 아침 식사나 영양 간식으로 활용하기 좋은 곡물 음료입니다.
+contentUpdated: 2026-09-22
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

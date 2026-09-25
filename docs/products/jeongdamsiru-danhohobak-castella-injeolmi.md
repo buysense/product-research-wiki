@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quo
 title: 정담시루 단호박 듬뿍 카스테라 인절미떡 구매 가이드
 date: 2026-05-12
 description: 정담시루 단호박 듬뿍 카스테라 인절미떡은 자연스러운 단맛과 쫀득한 식감이 특징인 냉동 떡입니다. 바쁜 아침 식사 대용, 간식, 온 가족 영양 간식으로 활용하기 좋습니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

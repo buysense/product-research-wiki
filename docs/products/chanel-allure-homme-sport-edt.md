@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛 구매 가이드
 date: 2026-04-02
 description: 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛은 2004년 출시된 남성 향수로, 상쾌한 시트러스와 우디 노트가 조화로운 향을 선사합니다. 데일리 사용은 물론, 특별한 날 품격을 더해 자신감 넘치는 현대 남성에게 적합합니다.
+contentUpdated: 2026-04-02
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

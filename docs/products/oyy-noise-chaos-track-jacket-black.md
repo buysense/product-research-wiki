@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 오와이 NOISE CHAOS TRACK JACKET - BLACK 구매 가이드
 date: 2026-07-05
 description: 오와이 NOISE CHAOS TRACK JACKET - BLACK은 유니크한 디자인과 편안한 착용감을 제공하는 트랙 재킷으로, 일상 캐주얼룩이나 간절기 아우터로 활용하기 좋습니다.
+contentUpdated: 2026-07-05
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

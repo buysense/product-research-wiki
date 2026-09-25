@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail
 title: 파예 무지방 그릭 요거트 허니 구매 가이드
 date: 2026-09-16
 description: 파예 무지방 그릭 요거트 허니는 건강한 식단 관리나 간편한 아침 식사를 위해 즐겨 찾는 제품으로, 무지방과 달콤한 꿀의 조화가 특징입니다.
+contentUpdated: 2026-09-16
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

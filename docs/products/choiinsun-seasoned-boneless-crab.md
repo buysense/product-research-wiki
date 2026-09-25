@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 최인선 양념 순살 꽃게장 구매 가이드
 date: 2026-04-22
 description: 최인선 양념 순살 꽃게장은 껍질 없이 간편하게 즐기는 냉동 꽃게장으로, 혼밥이나 간편한 집밥, 술안주 등으로 활용하기 좋습니다.
+contentUpdated: 2026-04-22
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

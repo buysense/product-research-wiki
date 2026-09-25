@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 가쓰오부시 구매 가이드
 date: 2026-04-15
 description: 야마끼 하나 가쓰오부시 150g은 진한 감칠맛과 훈연 풍미를 자랑하는 제품으로, 집에서 타코야키, 우동 등 일식 요리 토핑이나 깊은 육수를 낼 때 유용합니다.
+contentUpdated: 2026-04-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

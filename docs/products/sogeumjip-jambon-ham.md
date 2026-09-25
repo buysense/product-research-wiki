@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 소금집 잠봉 햄 구매 가이드
 date: 2026-05-07
 description: 소금집 잠봉 햄은 담백하고 부드러운 식감으로 잠봉뵈르, 샌드위치, 샐러드 등 홈브런치와 간편한 식사를 즐기는 소비자에게 적합한 프리미엄 햄입니다.
+contentUpdated: 2026-05-07
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

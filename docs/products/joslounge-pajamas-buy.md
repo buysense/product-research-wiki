@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 조스라운지 잠옷 구매 가이드
 date: 2026-05-01
 description: 조스라운지 잠옷은 집에서 편안한 휴식과 숙면을 위해 선택하기 좋은 제품으로, 부드러운 소재와 편안한 디자인이 특징입니다.
+contentUpdated: 2026-05-01
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

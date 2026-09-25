@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 키저스 빙글빙글 캔디스핀팝 흡착회전딸랑이 3종 세트 구매 가이드
 date: 2026-05-21
 description: 키저스 빙글빙글 캔디스핀팝 흡착회전딸랑이 3종 세트는 아기의 시각·청각·촉각 발달을 돕는 멀티 기능 장난감으로, 신생아 선물이나 아기들의 다양한 놀이 상황에서 활용됩니다.
+contentUpdated: 2026-05-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

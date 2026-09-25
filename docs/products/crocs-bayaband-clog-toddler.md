@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 크록스 바야밴드 클로그 토들러 구매 가이드
 date: 2026-07-03
 description: 크록스 바야밴드 클로그 토들러는 활동량 많은 아이들이 학교, 놀이터, 물놀이 등 일상에서 편안하게 신을 수 있도록 설계된 아동용 신발입니다.
+contentUpdated: 2026-07-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

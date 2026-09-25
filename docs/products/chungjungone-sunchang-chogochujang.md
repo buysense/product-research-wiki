@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 청정원순창 초고추장 구매 가이드
 date: 2026-09-07
 description: 청정원순창 초고추장은 새콤달콤한 맛으로 다양한 해산물 요리나 비빔밥 등 일상 식탁에서 활용하기 좋은 만능 소스입니다.
+contentUpdated: 2026-09-07
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

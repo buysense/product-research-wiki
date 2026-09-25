@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 미스터리 파티 시리즈 몇 번이고 푸른달에 불을 붙였다 구매 가이드
 date: 2026-08-22
 description: 미스터리 파티 시리즈 몇 번이고 푸른달에 불을 붙였다는 친구, 가족과 함께 즐기기 좋은 추리형 보드게임으로, 몰입감 있는 스토리와 반전이 특징입니다.
+contentUpdated: 2026-08-22
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

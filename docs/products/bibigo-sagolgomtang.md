@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 비비고 사골곰탕 구매 가이드
 date: 2026-04-27
 description: 바쁜 일상 속 직장인과 자취생을 위한 비비고 사골곰탕 구매 가이드. 간편하게 즐기는 깊고 진한 국물 맛과 다양한 요리 활용법, 보관 팁을 소개합니다.
+contentUpdated: 2026-04-27
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

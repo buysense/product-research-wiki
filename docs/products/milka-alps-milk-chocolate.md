@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 밀카 알프스밀크 구매 가이드
 date: 2026-04-07
 description: 밀카 알프스밀크는 100% 알프스 우유로 만들어진 부드럽고 달콤한 밀크 초콜릿입니다. 당 충전이 필요한 순간, 간식 또는 발렌타인데이 선물로 적합하며, 커피나 우유와 함께 즐기기 좋습니다.
+contentUpdated: 2026-04-07
 ---
 <!-- bs:jsonld -->
 <!-- /bs:jsonld -->

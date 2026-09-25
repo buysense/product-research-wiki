@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 유디엘 유모차 걸이 후크 2개입 구매 가이드
 date: 2026-05-27
 description: 유디엘 유모차 걸이 후크는 유모차에 가방, 쇼핑백 등 짐을 걸어 수납공간을 확장해주는 액세서리입니다. 아이와 함께 외출 시 짐을 편리하게 운반하는 데 도움을 줍니다.
+contentUpdated: 2026-05-27
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

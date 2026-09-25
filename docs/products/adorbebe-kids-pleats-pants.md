@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quo
 title: 아도르베베 아동용 항아리 플리츠 바지 구매 가이드
 date: 2026-06-02
 description: 아도르베베 아동용 항아리 플리츠 바지는 아이들의 편안한 활동과 스타일을 모두 만족시키는 제품으로, 일상복부터 캐주얼한 외출복까지 다양하게 활용하기 좋습니다.
+contentUpdated: 2026-06-02
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

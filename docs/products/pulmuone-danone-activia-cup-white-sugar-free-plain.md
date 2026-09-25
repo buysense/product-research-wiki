@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레인 구매 가이드
 date: 2026-05-12
 description: 풀무원다논 액티비아 컵 화이트 설탕 무첨가 플레인은 깔끔하고 담백한 맛으로 아침 식사, 간식, 식단 관리에 적합한 요거트입니다. 장 건강을 위한 유산균이 함유되어 있으며, 80g 소용량 컵으로 편리하게 섭취할 수 있습니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

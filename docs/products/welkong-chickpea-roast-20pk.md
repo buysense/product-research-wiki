@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 웰콩 병아리콩 볶음, 20개 구매 가이드
 date: 2026-05-12
 description: 웰콩 병아리콩 볶음 20개입은 100% 캐나다산 병아리콩을 열풍 로스팅하여 만든 건강 간식입니다. 식단 관리, 어린이 간식, 사무실 간식, 맥주 안주 등 다양한 상황에서 바삭하고 고소하게 즐기기 좋습니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 훗카이도 한정 가리비맛 프링글스 구매 가이드
 date: 2026-05-02
 description: 훗카이도 한정 가리비맛 프링글스는 일본 훗카이도 지역 특산물인 가리비 맛을 담아낸 특별한 스낵으로, 여행 기념품이나 이색적인 간식을 찾는 소비자에게 적합합니다.
+contentUpdated: 2026-05-02
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

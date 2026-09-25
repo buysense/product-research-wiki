@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 시트몰이 단색 시트지 구매 가이드
 date: 2026-04-19
 description: 시트몰이 단색 시트지는 셀프 인테리어와 가구 리폼에 최적화된 시트지로, 초보자도 쉽게 활용하여 집안 분위기를 효과적으로 변화시킬 수 있습니다.
+contentUpdated: 2026-04-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

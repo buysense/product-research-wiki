@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 알레시 안나G 와인오프너 구매 가이드
 date: 2026-05-06
 description: 알레시 안나G 와인오프너는 독특한 인형 디자인과 세련된 색감으로 주방 인테리어 효과를 높이며 와인을 즐기는 소비자와 특별한 선물용으로 적합한 제품입니다.
+contentUpdated: 2026-05-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

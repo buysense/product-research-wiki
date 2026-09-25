@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 공 벽등 6인치 구매 가이드
 date: 2026-04-27
 description: 베란다, 테라스 등 실내외 공간에 밝고 깔끔한 조명을 제공하는 공 벽등 6인치 구매 가이드. 방수 기능으로 물 사용 공간에서도 안심하고 사용할 수 있습니다.
+contentUpdated: 2026-04-27
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

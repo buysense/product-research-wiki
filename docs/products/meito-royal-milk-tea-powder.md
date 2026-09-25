@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor
 title: 메이토 로얄 밀크티 분말 구매 가이드
 date: 2026-09-24
 description: 메이토 로얄 밀크티 분말은 집에서 간편하게 즐길 수 있는 밀크티로, 따뜻하거나 시원하게 다양한 방법으로 활용 가능합니다.
+contentUpdated: 2026-09-24
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

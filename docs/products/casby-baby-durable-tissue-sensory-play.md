@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 캐스비 유아용 튼튼 티슈촉감놀이 구매 가이드
 date: 2024-07-29
 description: 6개월 이상 아기들의 티슈 뽑기 본능을 해소하고 소근육 발달을 돕는 유아용 촉감 놀이 장난감. 안전하고 다양한 촉감으로 실내외에서 활용하기 좋습니다.
+contentUpdated: 2026-06-09
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

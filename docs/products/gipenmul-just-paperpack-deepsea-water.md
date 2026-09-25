@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 기픈물 저스트 종이팩 해양심층수 구매 가이드
 date: 2026-07-29
 description: 기픈물 저스트 종이팩 해양심층수는 미세플라스틱 걱정 없이 깨끗하고 부드러운 물을 찾는 임산부, 환자, 아이를 포함한 온 가족의 일상 음용에 적합한 친환경 생수입니다.
+contentUpdated: 2026-07-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

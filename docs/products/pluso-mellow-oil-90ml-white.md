@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor
 title: 플뤼스오 멜로우 오일 90ml 화이트 구매 가이드
 date: 2026-09-19
 description: 플뤼스오 멜로우 오일 90ml 화이트는 피부에 부드러운 사용감과 촉촉함을 선사하는 페이스/바디 오일로, 민감한 피부나 건조함으로 고민하는 사용자가 일상적인 보습 및 진정 관리를 위해 활용하기 적합합니다.
+contentUpdated: 2026-09-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

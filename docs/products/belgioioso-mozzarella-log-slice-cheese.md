@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quo
 title: 벨지오이오조 모짜렐라 로그슬라이스 구매 가이드
 date: 2026-08-25
 description: 벨지오이오조 모짜렐라 로그슬라이스는 신선한 맛과 편리한 슬라이스 형태로 샐러드, 샌드위치, 카프레제 등 다양한 요리에 간편하게 활용하기 좋은 제품입니다.
+contentUpdated: 2026-08-25
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

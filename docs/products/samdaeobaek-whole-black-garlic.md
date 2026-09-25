@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 삼대오백 통 흑마늘 구매 가이드
 date: 2026-05-21
 description: 삼대오백 통 흑마늘은 120일 발효를 거친 무첨가 흑마늘로, 피로 회복과 활력 증진을 위해 간식처럼 섭취하기 좋은 건강식품입니다.
+contentUpdated: 2026-05-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

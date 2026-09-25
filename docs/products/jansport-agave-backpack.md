@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 잔스포츠 아가베 구매 가이드
 date: 2026-04-21
 description: 잔스포츠 아가베는 일상생활, 통학, 가벼운 외출 등 다양한 상황에서 활용하기 좋은 실용적인 캐주얼 백팩입니다.
+contentUpdated: 2026-04-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

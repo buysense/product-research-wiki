@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 명가삼대떡집 전통발효술떡 방울증편 잔기지떡 구매 가이드
 date: 2026-09-02
 description: 명가삼대떡집 전통발효술떡 방울증편 잔기지떡은 전통 발효 방식으로 만든 쫄깃하고 부드러운 떡으로, 간식, 아침 식사 대용, 선물용으로 좋습니다.
+contentUpdated: 2026-09-02
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

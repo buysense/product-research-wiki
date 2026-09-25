@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail
 title: 카메다 카키노타네 스낵 구매 가이드
 date: 2026-09-21
 description: 카메다 카키노타네 스낵은 짭짤하고 바삭한 식감으로 맥주 안주나 가벼운 간식으로 인기가 많으며, 일본 현지의 맛을 즐기기에 좋은 쌀과자입니다.
+contentUpdated: 2026-09-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

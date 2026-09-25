@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 써지컬 스틸 미아방지 목걸이 캐릭터 팬던트 구매 가이드
 date: 2026-05-15
 description: 써지컬 스틸 미아방지 목걸이 캐릭터 팬던트는 자녀의 미아 방지를 위해 귀여운 캐릭터 디자인으로 아이들이 거부감 없이 착용할 수 있도록 돕는 제품입니다.
+contentUpdated: 2026-05-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

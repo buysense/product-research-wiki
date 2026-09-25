@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quo
 title: 곤약잡채면 구매 가이드
 date: 2026-08-23
 description: 곤약잡채면은 칼로리 부담 없이 잡채의 맛을 즐길 수 있는 제품으로, 건강하고 가벼운 식사를 원하는 소비자에게 적합합니다. 다이어트 중이거나 야식으로도 좋은 선택입니다.
+contentUpdated: 2026-08-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

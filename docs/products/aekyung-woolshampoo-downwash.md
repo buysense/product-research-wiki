@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 애경 울샴푸 다운워시 구매 가이드
 date: 2026-05-01
 description: 애경 울샴푸 다운워시는 패딩, 구스다운 등 다운 의류를 집에서 손상 없이 세탁하고 관리할 수 있는 중성세제입니다. 세탁 비용 절감과 의류 손상을 최소화하려는 소비자를 위한 제품입니다.
+contentUpdated: 2026-05-01
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

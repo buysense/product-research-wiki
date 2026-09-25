@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 조선호텔 포기김치 프레시 구매 가이드
 date: 2026-05-15
 description: 조선호텔 포기김치 프레시는 국내산 배추와 황태육수로 만든 깔끔하고 감칠맛 나는 프리미엄 김치로, 집밥은 물론 특별한 식탁에도 어울립니다.
+contentUpdated: 2026-05-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

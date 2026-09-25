@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 카스가이 젤리 구매 가이드
 date: 2026-08-22
 description: 카스가이 젤리는 일본의 대표적인 제과 브랜드에서 선보이는 젤리로, 달콤하고 쫀득한 식감으로 간편한 간식, 디저트, 또는 가벼운 선물용으로 인기가 높습니다.
+contentUpdated: 2026-08-22
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

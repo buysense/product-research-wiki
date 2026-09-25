@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 르젠 레트로 BLDC 빈티카 선풍기 30cm(12인치) 구매 가이드
 date: 2026-08-19
 description: 르젠 레트로 BLDC 빈티카 선풍기 30cm(12인치)는 레트로 디자인과 저소음 BLDC 모터가 특징으로, 조용하고 감성적인 인테리어를 원하는 공간에 적합합니다.
+contentUpdated: 2026-08-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

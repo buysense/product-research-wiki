@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 타미힐피거 슬림 오프숄더 립 탑 구매 가이드
 date: 2026-08-04
 description: 타미힐피거 슬림 오프숄더 립 탑은 슬림핏과 립 조직 소재가 특징인 상의로, 일상적인 스타일부터 특별한 날까지 다양한 분위기 연출에 적합합니다.
+contentUpdated: 2026-08-04
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

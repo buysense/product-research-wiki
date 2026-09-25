@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor
 title: ANUA 아젤라산 아젤라익 애씨드 구매 가이드
 date: 2026-09-19
 description: 아누아 아젤라산 아젤라익 애씨드는 민감하고 트러블성 피부를 진정시키고 개선하는 데 도움을 주는 세럼으로, 자극 없이 매일 사용할 수 있도록 설계되었습니다.
+contentUpdated: 2026-09-19
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

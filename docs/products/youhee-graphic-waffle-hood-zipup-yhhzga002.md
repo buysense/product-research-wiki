@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: YOUHEE 유희 GRAPHIC WAFFLE HOOD ZIP-UP YHHZGA002 1446019 구매 가이드
 date: 2026-07-14
 description: 유희 그래픽 와플 후드 집업 YHHZGA002는 캐주얼하고 편안한 착용감을 제공하며, 일상복이나 간절기 아우터로 활용하기 좋은 제품입니다.
+contentUpdated: 2026-07-14
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

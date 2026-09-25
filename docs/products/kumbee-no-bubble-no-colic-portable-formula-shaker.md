@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 꿈비 노거품 노배앓이 휴대용 무선 자동 분유쉐이커 구매 가이드
 date: 2024-05-20
 description: 밤중 수유나 외출 시 편리하게 분유를 타주는 꿈비 노거품 노배앓이 휴대용 무선 자동 분유쉐이커는 거품 생성과 배앓이 가능성을 줄여줍니다.
+contentUpdated: 2026-05-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

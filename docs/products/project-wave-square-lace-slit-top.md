@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: PROJECT WAVE Square Lace Slit Top 구매 가이드
 date: 2026-08-09
 description: PROJECT WAVE Square Lace Slit Top은 스퀘어 넥라인과 레이스, 슬릿 디테일이 돋보이는 상의로, 일상적인 스타일부터 특별한 날까지 다양한 분위기를 연출하고자 하는 소비자에게 적합합니다.
+contentUpdated: 2026-08-09
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: HP 파빌리온 인텔 14세대 코어 Ultra 7 구매 가이드
 date: 2026-03-29
 description: AI 작업과 일상 멀티태스킹에 최적화된 HP 파빌리온 인텔 14세대 코어 Ultra 7 노트북은 강력한 성능과 뛰어난 휴대성을 제공하여 대학생부터 직장인까지 다양한 사용 환경에 적합합니다.
+contentUpdated: 2026-03-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

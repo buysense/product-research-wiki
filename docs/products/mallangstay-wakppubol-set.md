@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 말랑스테이 왁뿌볼 세트 구매 가이드
 date: 2026-05-15
 description: 말랑스테이 왁뿌볼 세트는 세탁 시 의류에 붙은 보푸라기, 반려동물 털 등을 효과적으로 제거하여 옷감 손상을 줄이고 깨끗한 세탁을 돕는 세탁 보조용품입니다.
+contentUpdated: 2026-05-15
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

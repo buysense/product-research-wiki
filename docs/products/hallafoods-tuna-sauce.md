@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 한라식품 참치액 구매 가이드
 date: 2026-05-06
 description: 한라식품 참치액은 요리의 감칠맛을 더하고 싶을 때, 육수 없이 깊은 맛을 낼 때 활용하기 좋은 만능 액상 조미료입니다. 특히 국, 찌개, 나물 등 다양한 한식 요리에 깊이를 더합니다.
+contentUpdated: 2026-05-06
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

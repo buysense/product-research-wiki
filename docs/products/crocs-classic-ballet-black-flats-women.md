@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 크록스 클래식 발레 블랙 플랫슈즈 여성 샌들 구매 가이드
 date: 2026-06-13
 description: 크록스 클래식 발레 블랙 플랫슈즈는 가볍고 편안한 착용감으로 데일리 착용 및 여행에 적합하며, 지비츠로 개성 표현이 가능한 여성 샌들입니다.
+contentUpdated: 2026-06-13
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 호미펫 움직이는 춤추는 오징어장난감 구매 가이드
 date: 2026-04-23
 description: 호미펫 움직이는 춤추는 오징어장난감은 SNS에서 화제된 아이템으로, 아이들 선물, 반려동물 놀이, 스트레스 해소 등 다양한 상황에서 즐거움을 제공합니다.
+contentUpdated: 2026-04-23
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

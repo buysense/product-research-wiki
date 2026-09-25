@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 로열스테디 초경량 양산 구매 가이드
 date: 2026-06-14
 description: 로열스테디 초경량 양산은 200g대의 가벼운 무게와 UV 차단 기능을 갖춰 햇볕이 강한 날이나 갑작스러운 비에도 데일리로 휴대하기 좋은 접이식 양우산입니다.
+contentUpdated: 2026-06-14
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

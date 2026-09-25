@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 비비디아 여성용 투피스 구매 가이드
 date: 2026-05-10
 description: 비비디아 여성용 투피스는 자켓과 롱스커트 세트로 오피스룩, 하객룩, 모임룩 등 격식 있는 자리에 적합하며 고급스럽고 단정한 스타일을 연출합니다.
+contentUpdated: 2026-05-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

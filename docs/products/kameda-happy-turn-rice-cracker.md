@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 카메다 해피턴 쌀과자 구매 가이드
 date: 2026-09-14
 description: 카메다 해피턴 쌀과자는 특유의 달콤 짭짤한 맛과 바삭한 식감이 특징인 일본 쌀과자로, 남녀노소 누구나 가볍게 즐기기 좋은 일상 스낵입니다.
+contentUpdated: 2026-09-14
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

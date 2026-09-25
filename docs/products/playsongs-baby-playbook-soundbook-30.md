@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 플레이송스 유아 놀이북 사운드북 30종 구매 가이드
 date: 2026-05-21
 description: 플레이송스 유아 놀이북 사운드북 30종은 영유아의 오감 발달과 언어 학습을 돕는 교육 완구로, 가정이나 외출 시 아이와 상호작용하며 즐기기에 적합합니다.
+contentUpdated: 2026-05-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

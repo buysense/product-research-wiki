@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 삼립 미니꿀 약과 구매 가이드
 date: 2026-09-11
 description: 삼립 미니꿀 약과는 한입 크기로 즐기기 좋은 달콤한 전통 간식으로, 일상 스낵이나 손님 접대용으로 적합합니다.
+contentUpdated: 2026-09-11
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

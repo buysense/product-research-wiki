@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트 구매 가이드
 date: 2026-07-03
 description: 에디슨 이지 그립 실리콘 스푼 포크 케이스 세트는 아기가 스스로 식사를 시작할 때 부드러운 실리콘 소재와 인체공학적 디자인으로 자기 주도 이유식 연습에 최적화된 휴대용 유아 식기 세트입니다.
+contentUpdated: 2026-07-03
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

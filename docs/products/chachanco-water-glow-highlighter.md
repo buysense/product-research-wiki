@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 차차앤코 물광 글로우 하이라이터 구매 가이드
 date: 2026-06-22
 description: 차차앤코 물광 글로우 하이라이터는 자연스러운 물광 메이크업과 윤광 피부 표현을 원하는 이들을 위한 제품으로, 데일리 메이크업에 활용하기 좋습니다.
+contentUpdated: 2026-06-22
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

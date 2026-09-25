@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 가나 빅 마일드 초콜릿 구매 가이드
 date: 2026-04-07
 description: 가나 빅 마일드 초콜릿은 부드럽고 달콤한 밀크 초콜릿으로, 온 가족 간식 및 당 충전에 적합합니다. 110g 대용량으로 넉넉하게 즐길 수 있습니다.
+contentUpdated: 2026-04-07
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

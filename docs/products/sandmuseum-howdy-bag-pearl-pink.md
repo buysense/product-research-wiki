@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 샌드뮤지엄 SAND MUSEUM HOWDY BAG Pearl Pink 구매 가이드
 date: 2026-07-25
 description: 샌드뮤지엄 하우디 백 펄 핑크는 컴팩트한 디자인과 사랑스러운 펄 핑크 색상이 특징인 핸드백으로, 데일리룩에 포인트를 주거나 특별한 날 스타일을 완성하기에 적합합니다.
+contentUpdated: 2026-07-25
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

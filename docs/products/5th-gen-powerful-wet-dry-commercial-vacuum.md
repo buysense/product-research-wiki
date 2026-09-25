@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 5세대 초강력 건습식 업소용 청소기 구매 가이드
 date: 2026-06-26
 description: 5세대 초강력 건습식 업소용 청소기는 사무실, 로비, 반려동물 가정, 스튜디오, 병원, 주택 등 다양한 환경에서 강력한 흡입력과 건습식 겸용 기능을 제공하는 다목적 청소기입니다.
+contentUpdated: 2026-06-26
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

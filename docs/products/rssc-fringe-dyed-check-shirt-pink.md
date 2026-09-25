@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 알에스에스씨 RSSC FRINGE DYED CHECK SHIRT - PINK 구매 가이드
 date: 2026-07-21
 description: 알에스에스씨 RSSC 프렌지 다이드 체크 셔츠 핑크는 유니크한 프린지 디테일과 다이드 염색으로 포인트를 준 체크 셔츠입니다. 캐주얼한 일상복이나 개성 있는 간절기 스타일링에 활용하기 좋습니다.
+contentUpdated: 2026-07-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

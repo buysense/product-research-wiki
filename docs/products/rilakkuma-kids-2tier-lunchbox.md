@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_a
 title: 리락쿠마 아동용 사각 밀폐 2단 도시락 구매 가이드
 date: 2026-05-12
 description: 리락쿠마 아동용 사각 밀폐 2단 도시락은 어린이집, 유치원 소풍, 견학 및 외출 시 사용하기 적합하며, 가벼운 무게와 귀여운 디자인이 특징입니다.
+contentUpdated: 2026-05-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 상하목장 유기농주스 사과오렌지케일4 + 사과블루베리케일4+ 사과딸기케일4(총12팩) 구매 가이드
 date: 2026-05-29
 description: 상하목장 유기농주스 12팩은 사과, 오렌지, 케일 등 유기농 과채를 담아 아이 간식이나 바쁜 일상 속 건강한 음료로 좋습니다.
+contentUpdated: 2026-05-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

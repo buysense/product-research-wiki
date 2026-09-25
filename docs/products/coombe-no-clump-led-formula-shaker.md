@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 꿈비 뭉침없는 LED 분유쉐이커 구매 가이드
 date: 2026-05-20
 description: 꿈비 뭉침없는 LED 분유쉐이커는 손목 부담과 아기 배앓이 걱정을 덜고 싶은 부모를 위한 제품으로, 거품 없이 분유를 혼합하여 편리한 수유 환경을 제공합니다.
+contentUpdated: 2026-05-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

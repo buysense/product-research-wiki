@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 코이체 베이직 라인 접이식 자동차 트렁크 정리함 구매 가이드
 date: 2026-05-20
 description: 코이체 베이직 라인 접이식 자동차 트렁크 정리함은 차량 내부 짐을 깔끔하게 정리하고 주행 중 물건이 굴러다니는 것을 방지하여 운전 환경을 개선합니다.
+contentUpdated: 2026-05-20
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

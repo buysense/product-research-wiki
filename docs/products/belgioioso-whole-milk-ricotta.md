@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 벨지오이오조 홀밀크 리코타 구매 가이드
 date: 2026-08-29
 description: 벨지오이오조 홀밀크 리코타는 풍부하고 크리미한 질감으로 파스타, 디저트, 스프레드 등 다양한 요리에 활용하기 좋은 구매 가이드입니다.
+contentUpdated: 2026-08-29
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

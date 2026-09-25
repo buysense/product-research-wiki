@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 코라빈 스파클링 패키지 와인세이버 보존시스템 구매 가이드
 date: 2026-08-21
 description: 코라빈 스파클링 패키지 와인세이버 보존시스템은 스파클링 와인의 탄산을 장기간 보존하여 여러 번 나누어 즐기려는 사용자에게 적합한 와인 보존 장치입니다.
+contentUpdated: 2026-08-21
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

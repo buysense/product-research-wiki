@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 불독소스 돈까스소스 구매 가이드
 date: 2026-09-07
 description: 불독소스 돈까스소스는 가정에서 돈까스, 튀김류 등 다양한 요리에 활용하기 좋은 제품입니다. 짭짤하면서도 달콤한 맛의 균형이 특징입니다.
+contentUpdated: 2026-09-07
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

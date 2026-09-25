@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail
 title: 양재중 어란 구매 가이드
 date: 2026-04-26
 description: 양재중 어란은 국내산 숭어로 만든 어란으로, 부모님 선물이나 특별한 날 특식으로 적합합니다. 짭조름한 풍미와 부드러운 식감이 특징입니다.
+contentUpdated: 2026-04-26
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

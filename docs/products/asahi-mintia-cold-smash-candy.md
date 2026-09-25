@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 아사히 민티아 콜드 스매시 구매 가이드
 date: 2026-04-12
 description: 아사히 민티아 콜드 스매시는 강력한 쿨링감으로 졸음 방지, 입안 상쾌함이 필요한 운전자, 수험생, 직장인에게 최적화된 무설탕 민트 캔디입니다. 슬림한 휴대성과 경제적인 대용량 구성이 특징입니다.
+contentUpdated: 2026-04-12
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

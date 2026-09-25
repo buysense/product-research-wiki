@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 플라이밀 단백질 쉐이크 파우치 스타터팩 구매 가이드
 date: 2026-04-10
 description: 플라이밀 단백질 쉐이크 파우치 스타터팩은 13가지 다양한 맛과 간편한 휴대성으로 식단 관리나 바쁜 일상 속 한 끼 대용으로 적합합니다.
+contentUpdated: 2026-04-10
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

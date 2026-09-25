@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245 구매 가이드
 date: 2026-08-18
 description: 글로니 GLOWNY G ELLA STRAP SLEEVELESS (IVORY)GC26SPSL0040IV 142245는 스트랩 디테일이 돋보이는 아이보리 민소매 상의로, 단독 착용이나 레이어드 스타일링에 활용됩니다.
+contentUpdated: 2026-08-18
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">

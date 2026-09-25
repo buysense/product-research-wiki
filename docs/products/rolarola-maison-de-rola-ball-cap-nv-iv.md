@@ -3,6 +3,7 @@ image: https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor
 title: ROLAROLA MAISON DE ROLA BALL CAP NV+IV 구매 가이드
 date: 2026-07-02
 description: 로라로라 메종 드 로라 볼캡 NV+IV는 캐주얼한 스타일과 편안한 착용감을 제공하는 볼캡으로, 일상적인 외출이나 가벼운 야외 활동 시 활용하기 좋습니다.
+contentUpdated: 2026-07-02
 ---
 <!-- bs:jsonld -->
 <script type="application/ld+json">
