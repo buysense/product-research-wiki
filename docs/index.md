@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| orange care 혀 클리너 교체 브러시 | [보기](products/orange-care-tongue-cleaner-replacement-brush.md) |
 | KNFLAX 스테인레스 백태 제거 혀클리너 | [보기](products/knflax-stainless-tongue-cleaner.md) |
 | 소소이지 캡슐 세제 미니 그러너리 머스크 | [보기](products/soso-easy-capsule-detergent-mini-greener-musk.md) |
 | 몽당 블루베리 모찌케이크 | [보기](products/mongdang-blueberry-mochi-cake.md) |
