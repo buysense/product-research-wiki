@@ -19,7 +19,7 @@ contentUpdated: 2026-07-18
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fun277NGQ8",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-03"
+    "priceValidUntil": "2026-10-04"
   }
 }
 </script>
