@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 소소이지 캡슐 세제 미니 그러너리 머스크 | [보기](products/soso-easy-capsule-detergent-mini-greener-musk.md) |
 | 몽당 블루베리 모찌케이크 | [보기](products/mongdang-blueberry-mochi-cake.md) |
 | 아일레스 애플유자티 25T 아하기프트 드롭탑 애플티 | [보기](products/ayles-apple-yuzu-tea-25t-droptop.md) |
 | 메이토 로얄 밀크티 분말 | [보기](products/meito-royal-milk-tea-powder.md) |
