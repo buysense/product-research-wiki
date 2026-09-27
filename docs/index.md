@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 요지야 기름종이 | [보기](products/yojiya-aburatorigami-oil-blotting-paper.md) |
 | 빅트레인 바닐라라떼 파우더 | [보기](products/bigtrain-vanilla-latte-powder.md) |
 | 카메인 아리마온천 핸드크림 유자향 | [보기](products/kamein-arimaonsen-handcream-yuzu.md) |
 | 카메인 아리마 온천수 보습 유자향 핸드크림 | [보기](products/kamein-arima-onsen-yuzu-handcream.md) |
