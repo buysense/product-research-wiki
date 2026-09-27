@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 아일레스 디럭스 티백 애플: products/ailesse-deluxe-teabag-apple.md
     - 요지야 기름종이: products/yojiya-aburatorigami-oil-blotting-paper.md
     - 빅트레인 바닐라라떼 파우더: products/bigtrain-vanilla-latte-powder.md
     - 카메인 아리마온천 핸드크림 유자향: products/kamein-arimaonsen-handcream-yuzu.md
