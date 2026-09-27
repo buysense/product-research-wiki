@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 빅트레인 바닐라라떼 파우더: products/bigtrain-vanilla-latte-powder.md
     - 카메인 아리마온천 핸드크림 유자향: products/kamein-arimaonsen-handcream-yuzu.md
     - 카메인 아리마 온천수 보습 유자향 핸드크림: products/kamein-arima-onsen-yuzu-handcream.md
     - orange care 혀 클리너 교체 브러시: products/orange-care-tongue-cleaner-replacement-brush.md
