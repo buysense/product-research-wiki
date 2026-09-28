@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 밀크터치 바쿠치올 포어 블러 프라이머: products/milktouch-bakuchiol-pore-blur-primer.md
     - 동명 아삭상큼 국내산 청매실 깐매실 설탕절임: products/dongmyeong-green-plum-sugar-preserve.md
     - 아일레스 디럭스 티백 애플: products/ailesse-deluxe-teabag-apple.md
     - 요지야 기름종이: products/yojiya-aburatorigami-oil-blotting-paper.md
