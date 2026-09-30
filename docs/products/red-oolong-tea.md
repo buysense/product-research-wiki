@@ -19,15 +19,15 @@ contentUpdated: 2026-09-30
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "25850",
+    "price": "24650",
     "url": "https://link.coupang.com/a/hsFL7GUxOe",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-07"
+    "priceValidUntil": "2026-10-08"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 410,
+    "reviewCount": 412,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -45,7 +45,7 @@ contentUpdated: 2026-09-30
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 25,850원 · 별점 4.9 · 리뷰 410개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 24,650원 · 별점 4.9 · 리뷰 412개</span>
     <a href="https://link.coupang.com/a/hsFL7GUxOe" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -143,7 +143,7 @@ A. 차의 향과 맛을 오래 유지하기 위해서는 직사광선을 피하�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 25,850원 · 별점 4.9 · 리뷰 410개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 24,650원 · 별점 4.9 · 리뷰 412개</span>
     <a href="https://link.coupang.com/a/hsFL7GUxOe" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
