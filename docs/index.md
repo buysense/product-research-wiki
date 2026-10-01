@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 오뚜기 크림진짬뽕 | [보기](products/ottogi-cream-jinjjambbong.md) |
 | gs25 한정선 요거트 찹쌀떡 | [보기](products/gs25-hanjeongseon-yogurt-chapssaltteok.md) |
 | 붉은빛의 우롱티 | [보기](products/red-oolong-tea.md) |
 | 다이소 대웅제약 멀티비타민 | [보기](products/daiso-daewoong-multivitamin.md) |
