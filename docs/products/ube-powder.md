@@ -17,7 +17,7 @@ contentUpdated: 2026-04-09
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/elmmTG",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-09"
+    "priceValidUntil": "2026-10-10"
   }
 }
 </script>
