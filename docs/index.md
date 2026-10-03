@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 세이카 본탄아메 | [보기](products/seika-bontaname-candy.md) |
 | 세이카 아메 캬라멜 | [보기](products/seika-ame-caramel.md) |
 | 고디바 초콜릿 모찌 | [보기](products/godiva-chocolate-mochi.md) |
 | CU. 리센느 빵 포토카드 | [보기](products/cu-le-sserafim-bread-photocard.md) |
