@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| CU. 리센느 빵 포토카드 | [보기](products/cu-le-sserafim-bread-photocard.md) |
 | 오뚜기 크림진짬뽕 | [보기](products/ottogi-cream-jinjjambbong.md) |
 | gs25 한정선 요거트 찹쌀떡 | [보기](products/gs25-hanjeongseon-yogurt-chapssaltteok.md) |
 | 붉은빛의 우롱티 | [보기](products/red-oolong-tea.md) |
