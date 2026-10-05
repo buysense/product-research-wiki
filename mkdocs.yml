@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 도브 바디스크럽: products/dove-body-scrub.md
     - 몽쉘 생크림케이크 호빵맨 콜라보: products/moncher-freshcreamcake-anpanman-collabo.md
     - 세이카 본탄아메: products/seika-bontaname-candy.md
     - 세이카 아메 캬라멜: products/seika-ame-caramel.md
