@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 케아나 나데시코 쌀 마스크팩: products/keana-nadeshiko-rice-mask-pack.md
     - 온더바디 발을씻자: products/onthebody-balssisja-footwash.md
     - 란도린 섬유탈취제: products/laundrin-fabric-refresher-deodorizer.md
     - 도브 바디스크럽: products/dove-body-scrub.md

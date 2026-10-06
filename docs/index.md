@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 케아나 나데시코 쌀 마스크팩 | [보기](products/keana-nadeshiko-rice-mask-pack.md) |
 | 온더바디 발을씻자 | [보기](products/onthebody-balssisja-footwash.md) |
 | 란도린 섬유탈취제 | [보기](products/laundrin-fabric-refresher-deodorizer.md) |
 | 도브 바디스크럽 | [보기](products/dove-body-scrub.md) |
