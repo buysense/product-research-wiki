@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 마츠기요 생약 입욕제: products/matsukiyo-herbal-bath-salts.md
     - LG전자 4K UHD 울트라HD - 32UP830K: products/lg-electronics-32up830k-uhd-monitor.md
     - 케아나 나데시코 쌀 마스크팩: products/keana-nadeshiko-rice-mask-pack.md
     - 온더바디 발을씻자: products/onthebody-balssisja-footwash.md
