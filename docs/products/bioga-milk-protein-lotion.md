@@ -17,17 +17,9 @@ contentUpdated: 2026-05-24
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "19800",
     "url": "https://link.coupang.com/a/d0TzEOH6k0",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-14"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": 4.8,
-    "reviewCount": 768,
-    "bestRating": 5,
-    "worstRating": 1
+    "priceValidUntil": "2026-10-15"
   }
 }
 </script>
@@ -42,8 +34,8 @@ contentUpdated: 2026-05-24
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 19,800원 · 별점 4.8 · 리뷰 768개</span>
-    <a href="https://link.coupang.com/a/d0TzEOH6k0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+    <span style="font-size: 0.9em; color: #888; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
+    <a href="https://link.coupang.com/a/d0TzEOH6k0" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
 
@@ -369,8 +361,8 @@ A. 충분한 보습감을 제공하지만, 매우 건조한 겨울철이나 극�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 19,800원 · 별점 4.8 · 리뷰 768개</span>
-    <a href="https://link.coupang.com/a/d0TzEOH6k0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+    <span style="font-size:0.9em; color:#888; font-weight:bold;">쿠팡에서 가격 확인</span>
+    <a href="https://link.coupang.com/a/d0TzEOH6k0" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
 
