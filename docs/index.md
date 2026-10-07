@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 쿠라콘 시오콘부 | [보기](products/kurakon-shiokonbu.md) |
 | 마츠기요 생약 입욕제 | [보기](products/matsukiyo-herbal-bath-salts.md) |
 | LG전자 4K UHD 울트라HD - 32UP830K | [보기](products/lg-electronics-32up830k-uhd-monitor.md) |
 | 케아나 나데시코 쌀 마스크팩 | [보기](products/keana-nadeshiko-rice-mask-pack.md) |
