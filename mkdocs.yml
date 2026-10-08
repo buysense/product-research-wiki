@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 노노지 양배추 채칼: products/nonoji-cabbage-slicer.md
     - 쿠라콘 시오콘부: products/kurakon-shiokonbu.md
     - 마츠기요 생약 입욕제: products/matsukiyo-herbal-bath-salts.md
     - LG전자 4K UHD 울트라HD - 32UP830K: products/lg-electronics-32up830k-uhd-monitor.md
