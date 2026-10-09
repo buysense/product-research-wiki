@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 달바 화이트 트러플 퍼스트 스프레이 세럼: products/dalba-white-truffle-first-spray-serum.md
     - 마나: products/mana-beverage.md
     - 노노지 양배추 채칼: products/nonoji-cabbage-slicer.md
     - 쿠라콘 시오콘부: products/kurakon-shiokonbu.md
