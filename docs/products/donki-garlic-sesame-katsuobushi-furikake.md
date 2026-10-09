@@ -20,8 +20,8 @@ contentUpdated: 2026-07-28
     "@type": "Offer",
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fK0USOUcdU",
-    "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-16"
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-10-17"
   }
 }
 </script>
@@ -36,7 +36,7 @@ contentUpdated: 2026-07-28
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #888; font-weight: bold; white-space: nowrap;">현재 판매중지</span>
+    <span style="font-size: 0.9em; color: #888; font-weight: bold; white-space: nowrap;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fK0USOUcdU" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
@@ -129,7 +129,7 @@ A. '후리카케(ふりかけ)'는 일본어로 '뿌리다'라는 뜻의 동사�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#888; font-weight:bold;">현재 판매중지</span>
+    <span style="font-size:0.9em; color:#888; font-weight:bold;">쿠팡에서 가격 확인</span>
     <a href="https://link.coupang.com/a/fK0USOUcdU" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
