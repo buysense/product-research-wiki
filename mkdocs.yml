@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 카라다 스코야카차: products/karada-sukoyakacha.md
     - 조스이안 츠쿠시모찌 후쿠오카: products/josuian-tsukushimochi-fukuoka.md
     - 달바 화이트 트러플 퍼스트 스프레이 세럼: products/dalba-white-truffle-first-spray-serum.md
     - 마나: products/mana-beverage.md
