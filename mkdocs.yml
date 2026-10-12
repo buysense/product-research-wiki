@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 립톤 밀크티: products/lipton-milk-tea.md
     - 퀵클 세면대 클리너: products/quickl-washbasin-cleaner.md
     - 카라다 스코야카차: products/karada-sukoyakacha.md
     - 조스이안 츠쿠시모찌 후쿠오카: products/josuian-tsukushimochi-fukuoka.md
