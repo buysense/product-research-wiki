@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 우타마로 세탁비누 | [보기](products/utamaro-laundry-soap.md) |
 | 립톤 밀크티 | [보기](products/lipton-milk-tea.md) |
 | 퀵클 세면대 클리너 | [보기](products/quickl-washbasin-cleaner.md) |
 | 카라다 스코야카차 | [보기](products/karada-sukoyakacha.md) |
