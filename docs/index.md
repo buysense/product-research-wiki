@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 메디큐브 포에버체리 브러쉬 | [보기](products/medicube-forevercherry-brush.md) |
 | 카오 어택 제로 | [보기](products/kao-attack-zero-laundry-detergent.md) |
 | 우타마로 세탁비누 | [보기](products/utamaro-laundry-soap.md) |
 | 립톤 밀크티 | [보기](products/lipton-milk-tea.md) |
