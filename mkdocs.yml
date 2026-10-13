@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 사로니아 글로시 케어 헤어 브러쉬: products/salonia-glossy-care-hair-brush.md
     - 메디큐브 포에버체리 브러쉬: products/medicube-forevercherry-brush.md
     - 카오 어택 제로: products/kao-attack-zero-laundry-detergent.md
     - 우타마로 세탁비누: products/utamaro-laundry-soap.md
