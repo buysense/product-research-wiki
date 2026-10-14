@@ -21,7 +21,7 @@ contentUpdated: 2026-06-01
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/edSuyUR2Wa",
     "availability": "https://schema.org/OutOfStock",
-    "priceValidUntil": "2026-10-21"
+    "priceValidUntil": "2026-10-22"
   }
 }
 </script>
