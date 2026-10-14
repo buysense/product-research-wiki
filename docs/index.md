@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 키야 KIYA 강철 오리지널 손톱깎이 | [보기](products/kiya-steel-original-nail-clipper.md) |
 | 질스튜어트 딥 헤드 클렌즈 화이트 플로럴 | [보기](products/jillstuart-deep-head-cleanse-white-floral.md) |
 | 사로니아 글로시 케어 헤어 브러쉬 | [보기](products/salonia-glossy-care-hair-brush.md) |
 | 메디큐브 포에버체리 브러쉬 | [보기](products/medicube-forevercherry-brush.md) |
