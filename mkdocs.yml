@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 농심 생생 신툼바 떡볶이면: products/nongshim-saengsaeng-sintumba-tteokbokkimyeon.md
     - 뿌셔뿌셔 감튀맛: products/bbusyeobbusyeo-gamtwi-mat.md
     - HP 2026 하이퍼엑스 오멘 15 코어I7 인텔 14세대 지포스 RTX 5060: products/hp-2026-hyperx-omen-15-corei7-rtx5060.md
     - MSI 2026 크로스헤어 16 HX 코어i9 인텔 14세대 지포스 RTX 5070: products/msi-crosshair-16-hx-i9-rtx5070.md
