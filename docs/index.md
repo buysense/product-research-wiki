@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 뿌셔뿌셔 감튀맛 | [보기](products/bbusyeobbusyeo-gamtwi-mat.md) |
 | HP 2026 하이퍼엑스 오멘 15 코어I7 인텔 14세대 지포스 RTX 5060 | [보기](products/hp-2026-hyperx-omen-15-corei7-rtx5060.md) |
 | MSI 2026 크로스헤어 16 HX 코어i9 인텔 14세대 지포스 RTX 5070 | [보기](products/msi-crosshair-16-hx-i9-rtx5070.md) |
 | 키야 KIYA 강철 오리지널 손톱깎이 | [보기](products/kiya-steel-original-nail-clipper.md) |
