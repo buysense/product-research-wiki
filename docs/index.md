@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| HP 2026 하이퍼엑스 오멘 15 코어i7 인텔 14세대 지포스 RTX 5060 | [보기](products/hp-hyperx-omen-15-corei7-14th-rtx5060.md) |
 | 티파니앤코 | [보기](products/tiffany-co-jewelry.md) |
 | 핑거수트 네일 폴리쉬 | [보기](products/fingersuit-nail-polish-beauty.md) |
 | 농심 생생 신툼바 떡볶이면 | [보기](products/nongshim-saengsaeng-sintumba-tteokbokkimyeon.md) |
