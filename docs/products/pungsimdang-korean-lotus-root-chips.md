@@ -11,7 +11,6 @@ contentUpdated: 2026-05-12
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "풍심당 국내산 연근칩",
-  "description": "풍심당 국내산 연근칩은 국내산 연근을 주원료로 한 건강 간식입니다. 아기 간식, 다이어트 중 입이 심심할 때, 또는 일상에서 건강하게 바삭한 맛을 즐기고 싶을 때 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2bda651f-181b-4ab9-a2af-e002e3f1680c10302076699210871846.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9aa2/9f16624ca4771c89fbfd522f2eb3da67227c3f20d7d4c306a2101bbc1186.jpg"
@@ -21,7 +20,7 @@ contentUpdated: 2026-05-12
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dGFDhpPesm",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-22"
+    "priceValidUntil": "2026-10-24"
   }
 }
 </script>
