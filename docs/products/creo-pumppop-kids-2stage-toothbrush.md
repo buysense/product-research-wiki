@@ -11,7 +11,6 @@ contentUpdated: 2026-06-02
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "크리오 펌프팝 키즈 2단계 어린이 칫솔",
-  "description": "크리오 펌프팝 키즈 2단계 어린이 칫솔은 3~5세 아이들이 스스로 양치하는 습관을 기를 수 있도록 돕는 초극세모 칫솔입니다. 위생적인 대용량 구성으로 어린이집 준비물이나 잦은 교체에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/48c8/8e6f26a1cda3d78afdf0b85e0cf9c40f58ca766634185d3cd59a6a6704c3.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/539f/c8c6f6aa16bfa5cf0e6b998609e0f14f779b56c1bb41a59c3c57369a33a4.jpg"
@@ -21,7 +20,7 @@ contentUpdated: 2026-06-02
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/efCz8fp8I8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-23"
+    "priceValidUntil": "2026-10-24"
   }
 }
 </script>
