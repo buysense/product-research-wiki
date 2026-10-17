@@ -11,7 +11,6 @@ contentUpdated: 2026-07-26
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "이미스 EMIS SMALL LOGO BALL CAP-BLACK 1042405",
-  "description": "이미스 스몰 로고 볼캡 블랙 1042405는 일상 패션 아이템으로, 캐주얼한 착장부터 다양한 스타일에 활용하기 좋은 모자입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/114d/3434acc5dbe3e3305b98dad3f4f2eeb8382b72ef2d208ff7930aaed84e33.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/56f3/16387869837cb3202db7dd319fdb27673eb39c8d4bc66858f21d7824c542.jpg"
@@ -21,7 +20,7 @@ contentUpdated: 2026-07-26
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fHFP6RFGz6",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-23"
+    "priceValidUntil": "2026-10-24"
   }
 }
 </script>
