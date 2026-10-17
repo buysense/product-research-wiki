@@ -11,7 +11,6 @@ contentUpdated: 2026-10-13
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "메디큐브 포에버체리 브러쉬",
-  "description": "메디큐브 포에버체리 브러쉬는 정교하고 섬세한 메이크업 표현을 돕는 도구로, 특히 좁은 부위나 피부 결점을 커버할 때 유용하게 활용됩니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ffe4/93c088812bf3177c0a81bc09b3e8312bbabae5a601ffc8fbac88f449df8e.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e720/7be6a37c3757ac37f7d4a11ae44b017cbda16995e4b92f5ed8253f0fabb0.jpg"
@@ -22,7 +21,7 @@ contentUpdated: 2026-10-13
     "price": "37900",
     "url": "https://link.coupang.com/a/hOuPvtqvbE",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-23"
+    "priceValidUntil": "2026-10-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -54,7 +53,7 @@ contentUpdated: 2026-10-13
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4일 중 3일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5일 중 4일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -64,20 +63,23 @@ contentUpdated: 2026-10-13
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">37,800</text>
 
     <line data-date-tick="2026-10-13" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-14" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-15" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-16" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 102 L 415 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 415 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-10-14" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-15" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-16" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-17" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 102 L 328 102 L 458 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 328 102 L 458 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"><title>10-13 37,900원</title></circle>
-    <circle cx="415" cy="102" r="4" fill="#fdba74"><title>10-15 37,900원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>10-16 37,900원</title></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>10-15 37,900원</title></circle>
+    <circle cx="458" cy="102" r="4" fill="#fdba74"><title>10-16 37,900원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>10-17 37,900원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">37,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-13</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-14</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-16</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-14</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-15</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-16</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
