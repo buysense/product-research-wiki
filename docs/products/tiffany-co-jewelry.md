@@ -11,7 +11,6 @@ contentUpdated: 2026-10-16
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "티파니앤코",
-  "description": "티파니앤코는 명품 주얼리 브랜드로, 다이아몬드 주얼리, 약혼반지, 시그니처 컬렉션을 통해 특별한 기념일 선물, 결혼 예물, 개인 소장을 위한 최상의 선택지를 제공합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f419/b25fd3ad1186819f2b2f2d79145f6b90bb85610fbaf55dc1f35b8499a3ce.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4e9b/48e26966cf4921b70fc16dc75d4fee96e4e25c9ebb5f89da9635639de401.jpg"
@@ -22,7 +21,7 @@ contentUpdated: 2026-10-16
     "price": "1226000",
     "url": "https://link.coupang.com/a/hTLIqqkPBI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-23"
+    "priceValidUntil": "2026-10-24"
   }
 }
 </script>
