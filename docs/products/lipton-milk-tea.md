@@ -11,7 +11,6 @@ contentUpdated: 2026-10-12
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "립톤 밀크티",
-  "description": "립톤 밀크티는 부드러운 맛과 향으로 언제 어디서든 간편하게 즐기기 좋은 음료입니다. 바쁜 일상 속 가벼운 휴식이나 당 충전이 필요할 때 적합하며, 접근성 높은 밀크티를 찾는 소비자에게 실질적인 정보를 제공합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f147/3f9769b7eb83fcf3a81ba4fc88d4ba6ffe002a54c37931dc0265b2cea9c1.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/d485/3f66612bd4306e0d33411cbfc21f67043b930a0db22b3d6dce66570dc162.jpg"
@@ -22,7 +21,7 @@ contentUpdated: 2026-10-12
     "price": "35100",
     "url": "https://link.coupang.com/a/hLuvo9k1i8",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-23"
+    "priceValidUntil": "2026-10-24"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -54,7 +53,7 @@ contentUpdated: 2026-10-12
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5일 중 5일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 6일 중 6일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -64,24 +63,27 @@ contentUpdated: 2026-10-12
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">35,000</text>
 
     <line data-date-tick="2026-10-12" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-13" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-14" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-15" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-16" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 102 L 198 102 L 328 102 L 458 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 198 102 L 328 102 L 458 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-10-13" x1="172" y1="178" x2="172" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-14" x1="276" y1="178" x2="276" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-15" x1="380" y1="178" x2="380" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-16" x1="484" y1="178" x2="484" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-17" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 102 L 172 102 L 276 102 L 380 102 L 484 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 172 102 L 276 102 L 380 102 L 484 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"><title>10-12 35,100원</title></circle>
-    <circle cx="198" cy="102" r="4" fill="#fdba74"><title>10-13 35,100원</title></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>10-14 35,100원</title></circle>
-    <circle cx="458" cy="102" r="4" fill="#fdba74"><title>10-15 35,100원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>10-16 35,100원</title></circle>
+    <circle cx="172" cy="102" r="4" fill="#fdba74"><title>10-13 35,100원</title></circle>
+    <circle cx="276" cy="102" r="4" fill="#fdba74"><title>10-14 35,100원</title></circle>
+    <circle cx="380" cy="102" r="4" fill="#fdba74"><title>10-15 35,100원</title></circle>
+    <circle cx="484" cy="102" r="4" fill="#fdba74"><title>10-16 35,100원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>10-17 35,100원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">35,100원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-12</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-13</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-14</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-15</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-16</text>
+    <text x="172" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-13</text>
+    <text x="276" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-14</text>
+    <text x="380" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-15</text>
+    <text x="484" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-16</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-17</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
