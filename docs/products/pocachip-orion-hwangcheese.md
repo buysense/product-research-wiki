@@ -11,7 +11,6 @@ contentUpdated: 2026-09-13
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "포카칩 오리온 황치즈",
-  "description": "포카칩 오리온 황치즈는 기존 포카칩에 황치즈 맛을 더한 스낵으로, 짭짤하고 고소한 맛을 선호하는 이들에게 간식이나 맥주 안주로 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/08/21/14/2/7301b998-1581-42d9-abd7-64d6e7c65076.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/528d37d0-abfb-4c71-a911-7edb52e3b64010726780881883424261.png"
@@ -21,7 +20,7 @@ contentUpdated: 2026-09-13
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/g0PpAk3SVg",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-22"
+    "priceValidUntil": "2026-10-24"
   }
 }
 </script>
