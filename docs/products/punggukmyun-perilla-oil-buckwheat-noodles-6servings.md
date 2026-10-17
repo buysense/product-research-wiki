@@ -11,7 +11,6 @@ contentUpdated: 2026-05-12
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "픙국면 들기름 막국수 6인분 798g, 2개",
-  "description": "풍국면 들기름 막국수는 80년 전통의 제면 기술로 만든 탄력 있는 메밀면과 진한 들기름의 고소함이 특징입니다. 온 가족 간편식이나 더운 날씨에 불 없이 즐기기 좋은 별미로, 전문점 수준의 막국수를 집에서 손쉽게 맛볼 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/628d/5342a905e2bb877946f243232ca6d94c0bd8db8bb67be0d4f59997acdf83.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0870/8693adea3ad3fc315032f5082542fafd69e1831df164a438278e513951bc.jpg"
@@ -21,7 +20,7 @@ contentUpdated: 2026-05-12
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/dGz1HG0ObI",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-23"
+    "priceValidUntil": "2026-10-24"
   }
 }
 </script>
