@@ -11,7 +11,6 @@ contentUpdated: 2026-07-28
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "일본 돈키호테 마늘 참깨 가츠오맛 후리카케",
-  "description": "일본 돈키호테 마늘 참깨 가츠오맛 후리카케는 마늘, 참깨, 가츠오의 감칠맛이 특징인 일본식 밥 양념으로, 바쁜 일상 속 간편한 식사나 도시락 반찬으로 활용하기에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/e7400881-48b2-459d-8665-fab5ec8de9bd_fixing_v2.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0de7/af8dd2de88ae7193aa06191a1495ab5c12b3e8612bc4864b13a39421bf47.jpg"
@@ -21,7 +20,7 @@ contentUpdated: 2026-07-28
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/fK0USOUcdU",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-23"
+    "priceValidUntil": "2026-10-24"
   }
 }
 </script>
