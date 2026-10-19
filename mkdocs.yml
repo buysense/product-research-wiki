@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 바운티 밀크 코코넛초콜릿: products/bounty-milk-coconut-chocolate.md
     - 빔즈 로고 후드티: products/beams-logo-hoodie.md
     - 제너럴밀스 시나몬 토스트 크런치 시리얼: products/generalmills-cinnamon-toast-crunch-cereal.md
     - Apple USB-C 커넥터 EarPods: products/apple-usb-c-earpods.md
