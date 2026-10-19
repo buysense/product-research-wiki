@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 스탠다드 프로덕트 보냉백 | [보기](products/standard-product-cooler-bag.md) |
 | 바운티 밀크 코코넛초콜릿 | [보기](products/bounty-milk-coconut-chocolate.md) |
 | 빔즈 로고 후드티 | [보기](products/beams-logo-hoodie.md) |
 | 제너럴밀스 시나몬 토스트 크런치 시리얼 | [보기](products/generalmills-cinnamon-toast-crunch-cereal.md) |
