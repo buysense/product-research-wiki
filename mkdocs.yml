@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 케아나 나데시코 모공 쌀크림: products/keana-nadeshiko-pore-rice-cream.md
     - 동결건조 복숭아: products/freeze-dried-peach.md
     - 스탠다드 프로덕트 보냉백: products/standard-product-cooler-bag.md
     - 바운티 밀크 코코넛초콜릿: products/bounty-milk-coconut-chocolate.md

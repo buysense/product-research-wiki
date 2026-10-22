@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 케아나 나데시코 모공 쌀크림 | [보기](products/keana-nadeshiko-pore-rice-cream.md) |
 | 동결건조 복숭아 | [보기](products/freeze-dried-peach.md) |
 | 스탠다드 프로덕트 보냉백 | [보기](products/standard-product-cooler-bag.md) |
 | 바운티 밀크 코코넛초콜릿 | [보기](products/bounty-milk-coconut-chocolate.md) |
