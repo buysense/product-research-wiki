@@ -18,17 +18,9 @@ contentUpdated: 2026-10-18
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "21200",
     "url": "https://link.coupang.com/a/hWTvf8zLjM",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-10-29"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": 4.6,
-    "reviewCount": 550,
-    "bestRating": 5,
-    "worstRating": 1
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-10-30"
   }
 }
 </script>
@@ -44,46 +36,13 @@ contentUpdated: 2026-10-18
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 21,200원 · 별점 4.6 · 리뷰 550개</span>
-    <a href="https://link.coupang.com/a/hWTvf8zLjM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+    <span style="font-size: 0.9em; color: #888; font-weight: bold; white-space: nowrap;">현재 판매중지</span>
+    <a href="https://link.coupang.com/a/hWTvf8zLjM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5일 중 5일 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">21,300</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">21,200</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">21,100</text>
-
-    <line data-date-tick="2026-10-18" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-19" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-20" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-21" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-22" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 102 L 198 102 L 328 102 L 458 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 198 102 L 328 102 L 458 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>10-18 21,200원</title></circle>
-    <circle cx="198" cy="102" r="4" fill="#fdba74"><title>10-19 21,200원</title></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>10-20 21,200원</title></circle>
-    <circle cx="458" cy="102" r="4" fill="#fdba74"><title>10-21 21,200원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>10-22 21,200원</title></circle>
-
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">21,200원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-18</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-19</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-20</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-22</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요
@@ -172,8 +131,8 @@ A. 당 함량을 고려하여 한 번에 섭취하는 양을 조절하거나, �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 21,200원 · 별점 4.6 · 리뷰 550개</span>
-    <a href="https://link.coupang.com/a/hWTvf8zLjM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+    <span style="font-size:0.9em; color:#888; font-weight:bold;">현재 판매중지</span>
+    <a href="https://link.coupang.com/a/hWTvf8zLjM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
 
