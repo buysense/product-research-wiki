@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 휘태커스 초콜렛 | [보기](products/whittakers-chocolate.md) |
 | 케아나 나데시코 모공 쌀크림 | [보기](products/keana-nadeshiko-pore-rice-cream.md) |
 | 동결건조 복숭아 | [보기](products/freeze-dried-peach.md) |
 | 스탠다드 프로덕트 보냉백 | [보기](products/standard-product-cooler-bag.md) |
