@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 오시도리 밀크 케이크: products/osidori-milk-cake.md
     - 휘태커스 초콜렛: products/whittakers-chocolate.md
     - 케아나 나데시코 모공 쌀크림: products/keana-nadeshiko-pore-rice-cream.md
     - 동결건조 복숭아: products/freeze-dried-peach.md
