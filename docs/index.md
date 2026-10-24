@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 마장미쏀 | [보기](products/majjang-misen.md) |
 | 오시도리 밀크 케이크 | [보기](products/osidori-milk-cake.md) |
 | 휘태커스 초콜렛 | [보기](products/whittakers-chocolate.md) |
 | 케아나 나데시코 모공 쌀크림 | [보기](products/keana-nadeshiko-pore-rice-cream.md) |
