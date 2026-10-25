@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 프리츠 마성옥수수: products/pretz-magical-corn-snack.md
     - 우루리스 헤어오일: products/ururis-hair-oil.md
     - 우소츠키 마스카라: products/usotsuki-mascara-eyelashes.md
     - 마장미쏀: products/majjang-misen.md
