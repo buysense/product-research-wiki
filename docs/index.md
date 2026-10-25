@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 우루리스 헤어오일 | [보기](products/ururis-hair-oil.md) |
 | 우소츠키 마스카라 | [보기](products/usotsuki-mascara-eyelashes.md) |
 | 마장미쏀 | [보기](products/majjang-misen.md) |
 | 오시도리 밀크 케이크 | [보기](products/osidori-milk-cake.md) |
