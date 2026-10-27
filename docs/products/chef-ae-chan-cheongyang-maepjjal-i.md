@@ -11,7 +11,6 @@ contentUpdated: 2026-10-27
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "셰프애찬 청양맵짤이",
-  "description": "셰프애찬 청양맵짤이는 매콤 짭짤한 맛으로 밥반찬, 술안주, 캠핑 간편식으로 활용하기 좋은 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b267/17835858911d69d85b2ad26f8607aba28b84ff2109014642303225e82b35.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5400/a905f6112c5c1db8a9058aeb7d973e1138d24cbf8be5ea28b87b9d10d397.jpg"
@@ -22,12 +21,12 @@ contentUpdated: 2026-10-27
     "price": "20500",
     "url": "https://link.coupang.com/a/ibSzVRHfdQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-03"
+    "priceValidUntil": "2026-11-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 20825,
+    "reviewCount": 20829,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -45,7 +44,7 @@ contentUpdated: 2026-10-27
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,500원 · 별점 4.6 · 리뷰 20,825개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 20,500원 · 별점 4.6 · 리뷰 20,829개</span>
     <a href="https://link.coupang.com/a/ibSzVRHfdQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -127,7 +126,7 @@ A. 미개봉 상태에서는 서늘한 곳에 보관하고, 개봉 후에는 반
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,500원 · 별점 4.6 · 리뷰 20,825개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 20,500원 · 별점 4.6 · 리뷰 20,829개</span>
     <a href="https://link.coupang.com/a/ibSzVRHfdQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
