@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 모찌시트: products/mochi-sheet-cushion-comfort.md
     - 캔메이크: products/canmake-juicy-pure-eyes-eyeshadow.md
     - 프리츠 마성옥수수: products/pretz-magical-corn-snack.md
     - 우루리스 헤어오일: products/ururis-hair-oil.md
