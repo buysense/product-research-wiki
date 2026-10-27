@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 볶음 너구리: products/bokkeum-neoguri-noodle.md
     - 모찌시트: products/mozzi-sheet.md
     - 캔메이크: products/canmake-juicy-pure-eyes-eyeshadow.md
     - 프리츠 마성옥수수: products/pretz-magical-corn-snack.md
