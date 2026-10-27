@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 셰프애찬 청양맵짤이 | [보기](products/chef-aechan-cheongyang-maepjjal-i.md) |
 | 볶음 너구리 | [보기](products/bokkeum-neoguri-noodle.md) |
 | 모찌시트 | [보기](products/mozzi-sheet.md) |
 | 캔메이크 | [보기](products/canmake-juicy-pure-eyes-eyeshadow.md) |
