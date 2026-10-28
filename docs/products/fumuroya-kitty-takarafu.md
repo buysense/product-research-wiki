@@ -11,7 +11,6 @@ contentUpdated: 2026-10-27
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "후무로야 키티 타카라후",
-  "description": "후무로야 키티 타카라후는 일본 요리에 시각적인 즐거움을 더하는 장식용 밀글루텐으로, 특히 아이들 식사나 특별한 날 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dd77/29c57d3b21a554b3ac98b1855459510028935b2f24e3a62d7c6faba5ee73.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/72ec/9c899165030a6d13d17fc5e9d906eca23803bac337ccb3f65f8951a777e4.jpg"
@@ -22,7 +21,7 @@ contentUpdated: 2026-10-27
     "price": "49400",
     "url": "https://link.coupang.com/a/ibEAHlL3D2",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-03"
+    "priceValidUntil": "2026-11-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
