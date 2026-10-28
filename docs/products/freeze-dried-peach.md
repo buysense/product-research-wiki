@@ -11,7 +11,6 @@ contentUpdated: 2026-10-20
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "동결건조 복숭아",
-  "description": "동결건조 복숭아는 신선한 복숭아의 맛과 향을 그대로 담아낸 바삭한 간식입니다. 요거트 토핑, 베이킹 재료, 또는 건강한 휴대용 간식으로 다양한 상황에서 즐길 수 있습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e323/332b893e7658defca816d9c846d46ffe40a2865fedf0fbe6f92b43e79af0.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4573/50e1f727ae9820e4202cc280e2ed54bd9fe9fa185805729b5678e90df2ce.jpg"
@@ -22,7 +21,7 @@ contentUpdated: 2026-10-20
     "price": "24030",
     "url": "https://link.coupang.com/a/hYAIpUoAoK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-03"
+    "priceValidUntil": "2026-11-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -54,7 +53,7 @@ contentUpdated: 2026-10-20
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 8일 중 8일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9일 중 9일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -64,33 +63,36 @@ contentUpdated: 2026-10-20
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">24,000</text>
 
     <line data-date-tick="2026-10-20" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-21" x1="142" y1="178" x2="142" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-22" x1="217" y1="178" x2="217" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-23" x1="291" y1="178" x2="291" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-24" x1="365" y1="178" x2="365" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-25" x1="439" y1="178" x2="439" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-26" x1="514" y1="178" x2="514" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-27" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 75 L 142 75 L 217 75 L 291 117 L 365 177 L 439 177 L 514 177 L 588 177 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 75 L 142 75 L 217 75 L 291 117 L 365 177 L 439 177 L 514 177 L 588 177" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-10-21" x1="133" y1="178" x2="133" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-22" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-23" x1="263" y1="178" x2="263" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-24" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-25" x1="393" y1="178" x2="393" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-26" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-27" x1="523" y1="178" x2="523" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-28" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 75 L 133 75 L 198 75 L 263 117 L 328 177 L 393 177 L 458 177 L 523 177 L 588 177 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 75 L 133 75 L 198 75 L 263 117 L 328 177 L 393 177 L 458 177 L 523 177 L 588 177" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="75" r="4" fill="#fdba74"><title>10-20 26,700원</title></circle>
-    <circle cx="142" cy="75" r="4" fill="#fdba74"><title>10-21 26,700원</title></circle>
-    <circle cx="217" cy="75" r="4" fill="#fdba74"><title>10-22 26,700원</title></circle>
-    <circle cx="291" cy="117" r="4" fill="#fdba74"><title>10-23 25,610원</title></circle>
-    <circle cx="365" cy="177" r="4" fill="#fdba74"><title>10-24 24,030원</title></circle>
-    <circle cx="439" cy="177" r="4" fill="#fdba74"><title>10-25 24,030원</title></circle>
-    <circle cx="514" cy="177" r="4" fill="#fdba74"><title>10-26 24,030원</title></circle>
-    <circle cx="588" cy="177" r="5" fill="#ea580c"><title>10-27 24,030원</title></circle>
+    <circle cx="133" cy="75" r="4" fill="#fdba74"><title>10-21 26,700원</title></circle>
+    <circle cx="198" cy="75" r="4" fill="#fdba74"><title>10-22 26,700원</title></circle>
+    <circle cx="263" cy="117" r="4" fill="#fdba74"><title>10-23 25,610원</title></circle>
+    <circle cx="328" cy="177" r="4" fill="#fdba74"><title>10-24 24,030원</title></circle>
+    <circle cx="393" cy="177" r="4" fill="#fdba74"><title>10-25 24,030원</title></circle>
+    <circle cx="458" cy="177" r="4" fill="#fdba74"><title>10-26 24,030원</title></circle>
+    <circle cx="523" cy="177" r="4" fill="#fdba74"><title>10-27 24,030원</title></circle>
+    <circle cx="588" cy="177" r="5" fill="#ea580c"><title>10-28 24,030원</title></circle>
 
     <text x="588" y="165" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">24,030원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-20</text>
-    <text x="142" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-21</text>
-    <text x="217" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-22</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-23</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-24</text>
-    <text x="439" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-25</text>
-    <text x="514" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-26</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-27</text>
+    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-21</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-22</text>
+    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-23</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-24</text>
+    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-25</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-26</text>
+    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-27</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-28</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
