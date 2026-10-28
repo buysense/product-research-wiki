@@ -11,7 +11,6 @@ contentUpdated: 2026-10-27
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "캔메이크",
-  "description": "캔메이크 쥬시 퓨어 아이즈 아이섀도우는 데일리 메이크업부터 특별한 날 연출까지 활용하기 좋은 팔레트로, 부담 없는 가격과 다양한 컬러 조합이 특징입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/416453393637513-dc0345cb-06f7-4d4e-8c50-54d12490f5e9.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/416451375449987-a31d6f3c-fa6a-404b-ad0f-ebeb681f46f3.jpg"
@@ -19,15 +18,15 @@ contentUpdated: 2026-10-27
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "11900",
+    "price": "10610",
     "url": "https://link.coupang.com/a/h9YhHSCwHQ",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-03"
+    "priceValidUntil": "2026-11-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 371,
+    "reviewCount": 374,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -45,7 +44,7 @@ contentUpdated: 2026-10-27
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 11,900원 · 별점 4.6 · 리뷰 371개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 10,610원 · 별점 4.6 · 리뷰 374개</span>
     <a href="https://link.coupang.com/a/h9YhHSCwHQ" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -128,7 +127,7 @@ A. 네, 쥬시 퓨어 아이즈는 부드러운 제형과 자연스러운 발색
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 11,900원 · 별점 4.6 · 리뷰 371개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 10,610원 · 별점 4.6 · 리뷰 374개</span>
     <a href="https://link.coupang.com/a/h9YhHSCwHQ" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
