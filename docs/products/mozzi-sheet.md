@@ -11,7 +11,6 @@ contentUpdated: 2026-10-27
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "모찌시트",
-  "description": "모찌시트는 부드럽고 탄성 있는 특성을 지닌 시트형 제품으로, 특정 공간에 편안함을 더하기 위해 고려됩니다. (제공된 정보가 제한적이므로 일반적인 설명)",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e973/7bda8d11cbfcd0fc8e903b808c34f9c2bb89d2b2274567949b6e1b058928.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ba58/085dec5b88f7cb54df3e38c53fc14f873dd3b6665a6ff43f30a116e1f1a5.jpg"
@@ -22,7 +21,7 @@ contentUpdated: 2026-10-27
     "price": "11000",
     "url": "https://link.coupang.com/a/ibzBJJcABo",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-03"
+    "priceValidUntil": "2026-11-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
