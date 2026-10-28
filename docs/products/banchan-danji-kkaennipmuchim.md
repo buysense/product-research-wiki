@@ -11,7 +11,6 @@ contentUpdated: 2026-10-27
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "반찬단지 깻잎무침",
-  "description": "반찬단지 깻잎무침은 바쁜 일상 속에서도 밥상을 풍성하게 채워주는 간편한 밑반찬입니다. 특유의 감칠맛으로 밥도둑 역할을 하며, 가정식은 물론 캠핑, 도시락 등 다양한 상황에서 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/291105927881740-0b99b96f-22bc-4e21-94c1-3fd3c019885b.JPG",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/288935547681279-4b122c58-1c3e-402d-bb88-e1a83290b5d9.JPG"
@@ -19,15 +18,15 @@ contentUpdated: 2026-10-27
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "7500",
+    "price": "7490",
     "url": "https://link.coupang.com/a/ibEn09IV88",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-03"
+    "priceValidUntil": "2026-11-04"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 58923,
+    "reviewCount": 58937,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -45,7 +44,7 @@ contentUpdated: 2026-10-27
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,500원 · 별점 4.6 · 리뷰 58,923개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,490원 · 별점 4.6 · 리뷰 58,937개</span>
     <a href="https://link.coupang.com/a/ibEn09IV88" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -144,7 +143,7 @@ A. 깻잎 특유의 향긋한 풍미에 간장, 고춧가루, 마늘 등으로 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,500원 · 별점 4.6 · 리뷰 58,923개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,490원 · 별점 4.6 · 리뷰 58,937개</span>
     <a href="https://link.coupang.com/a/ibEn09IV88" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
