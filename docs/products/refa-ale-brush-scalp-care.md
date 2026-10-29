@@ -11,7 +11,6 @@ contentUpdated: 2026-10-28
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "리파 에일 브러시",
-  "description": "리파 에일 브러시는 샴푸 시 두피 마사지 및 클렌징 효과를 높여 모발 건강 관리에 도움을 주는 헤어 케어 도구입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b257/389d7b0016686cd48a15ed159bf36e68857d71ed587df3fcdf30981a8e69.jpg"
   ],
@@ -21,7 +20,7 @@ contentUpdated: 2026-10-28
     "price": "57130",
     "url": "https://link.coupang.com/a/idhaLxGRmC",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-05"
+    "priceValidUntil": "2026-11-06"
   }
 }
 </script>
@@ -44,6 +43,33 @@ contentUpdated: 2026-10-28
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3일 중 3일 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">57,200</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">57,100</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">57,000</text>
+
+    <line data-date-tick="2026-10-28" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-29" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-30" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 79 L 328 79 L 588 79 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 79 L 328 79 L 588 79" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="79" r="4" fill="#fdba74"><title>10-28 57,130원</title></circle>
+    <circle cx="328" cy="79" r="4" fill="#fdba74"><title>10-29 57,130원</title></circle>
+    <circle cx="588" cy="79" r="5" fill="#ea580c"><title>10-30 57,130원</title></circle>
+
+    <text x="588" y="67" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">57,130원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-28</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-29</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-30</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요
