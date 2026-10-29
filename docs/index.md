@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 비오레 금목서 | [보기](products/biore-osmanthus-buy.md) |
 | 리파 에일 브러시 | [보기](products/refa-ale-brush-scalp-care.md) |
 | 어바웃톤 스킨 레이어 핏 파운데이션 | [보기](products/abouttone-skin-layer-fit-foundation.md) |
 | 반찬단지 깻잎무침 | [보기](products/banchan-danji-kkaennipmuchim.md) |
