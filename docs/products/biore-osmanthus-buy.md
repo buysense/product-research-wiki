@@ -11,7 +11,6 @@ contentUpdated: 2026-10-29
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "비오레 금목서",
-  "description": "비오레 금목서 제품은 특유의 금목서 향을 담아 가을철 특별한 분위기를 연출하고 싶은 소비자를 위한 바디케어 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b1d8/44407611e171f4c403ead7880de206c39310cd20934aec9d08d601384042.png",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6f98/0ea3c05486490ba6a92d564efb35c72413f41a73ab7654ae259c8f58e85e.png"
