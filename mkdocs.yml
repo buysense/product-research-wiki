@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 라볶퀸: products/rabokki-queen-instant-meal.md
     - 비오레 금목서: products/biore-osmanthus-buy.md
     - 리파 에일 브러시: products/refa-ale-brush-scalp-care.md
     - 어바웃톤 스킨 레이어 핏 파운데이션: products/abouttone-skin-layer-fit-foundation.md
