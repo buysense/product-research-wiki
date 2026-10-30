@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 탑텐: products/topten-apparel-daily.md
     - 라볶퀸: products/rabokki-queen-instant-meal.md
     - 비오레 금목서: products/biore-osmanthus-buy.md
     - 리파 에일 브러시: products/refa-ale-brush-scalp-care.md
