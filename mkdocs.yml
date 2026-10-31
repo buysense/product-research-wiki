@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 더마팩토리 스피큘: products/dermafactory-spicule.md
     - 수아레 파인 캐시미어 니트: products/suare-fine-cashmere-knit.md
     - 탑텐: products/topten-apparel-daily.md
     - 라볶퀸: products/rabokki-queen-instant-meal.md
