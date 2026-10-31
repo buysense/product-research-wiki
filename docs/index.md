@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 컬러그램 | [보기](products/colorgram-makeup.md) |
 | 나이아신마이드 | [보기](products/niacinamide-ingredient.md) |
 | 더마팩토리 스피큘 | [보기](products/dermafactory-spicule.md) |
 | 수아레 파인 캐시미어 니트 | [보기](products/suare-fine-cashmere-knit.md) |
