@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 닥터X 슈가시럽: products/drx-sugar-syrup.md
     - 김지원 치약: products/kimjiwon-toothpaste.md
     - 올리브영 블프: products/oliveyoung-blackfriday-sale-tips.md
     - 컬러그램: products/colorgram-makeup.md

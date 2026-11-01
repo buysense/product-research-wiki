@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 닥터X 슈가시럽 | [보기](products/drx-sugar-syrup.md) |
 | 김지원 치약 | [보기](products/kimjiwon-toothpaste.md) |
 | 올리브영 블프 | [보기](products/oliveyoung-blackfriday-sale-tips.md) |
 | 컬러그램 | [보기](products/colorgram-makeup.md) |
