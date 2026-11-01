@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 올리브영 블프: products/oliveyoung-blackfriday-sale-tips.md
     - 컬러그램: products/colorgram-makeup.md
     - 나이아신마이드: products/niacinamide-ingredient.md
     - 더마팩토리 스피큘: products/dermafactory-spicule.md
