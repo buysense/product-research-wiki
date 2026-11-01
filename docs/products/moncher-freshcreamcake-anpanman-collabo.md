@@ -20,12 +20,12 @@ contentUpdated: 2026-10-04
     "price": "26990",
     "url": "https://link.coupang.com/a/hzMiXsuQuG",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-08"
+    "priceValidUntil": "2026-11-09"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.6,
-    "reviewCount": 12,
+    "reviewCount": 13,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -43,7 +43,7 @@ contentUpdated: 2026-10-04
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 26,990원 · 별점 4.6 · 리뷰 12개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 26,990원 · 별점 4.6 · 리뷰 13개</span>
     <a href="https://link.coupang.com/a/hzMiXsuQuG" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -52,7 +52,7 @@ contentUpdated: 2026-10-04
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 29일 중 29일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 30일 중 30일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -62,77 +62,79 @@ contentUpdated: 2026-10-04
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">26,900</text>
 
     <line data-date-tick="2026-10-04" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-05" x1="87" y1="178" x2="87" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-06" x1="105" y1="178" x2="105" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-07" x1="124" y1="178" x2="124" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-08" x1="142" y1="178" x2="142" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-09" x1="161" y1="178" x2="161" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-10" x1="179" y1="178" x2="179" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-11" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-12" x1="217" y1="178" x2="217" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-13" x1="235" y1="178" x2="235" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-14" x1="254" y1="178" x2="254" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-15" x1="272" y1="178" x2="272" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-16" x1="291" y1="178" x2="291" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-17" x1="309" y1="178" x2="309" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-18" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-19" x1="347" y1="178" x2="347" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-20" x1="365" y1="178" x2="365" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-21" x1="384" y1="178" x2="384" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-22" x1="402" y1="178" x2="402" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-23" x1="421" y1="178" x2="421" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-24" x1="439" y1="178" x2="439" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-25" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-26" x1="477" y1="178" x2="477" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-27" x1="495" y1="178" x2="495" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-28" x1="514" y1="178" x2="514" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-29" x1="532" y1="178" x2="532" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-30" x1="551" y1="178" x2="551" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-10-31" x1="569" y1="178" x2="569" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-01" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 110 L 87 110 L 105 110 L 124 110 L 142 110 L 161 110 L 179 110 L 198 110 L 217 110 L 235 110 L 254 110 L 272 110 L 291 110 L 309 110 L 328 110 L 347 110 L 365 110 L 384 110 L 402 110 L 421 110 L 439 110 L 458 110 L 477 110 L 495 110 L 514 110 L 532 110 L 551 110 L 569 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 110 L 87 110 L 105 110 L 124 110 L 142 110 L 161 110 L 179 110 L 198 110 L 217 110 L 235 110 L 254 110 L 272 110 L 291 110 L 309 110 L 328 110 L 347 110 L 365 110 L 384 110 L 402 110 L 421 110 L 439 110 L 458 110 L 477 110 L 495 110 L 514 110 L 532 110 L 551 110 L 569 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-10-05" x1="86" y1="178" x2="86" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-06" x1="104" y1="178" x2="104" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-07" x1="122" y1="178" x2="122" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-08" x1="140" y1="178" x2="140" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-09" x1="158" y1="178" x2="158" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-10" x1="176" y1="178" x2="176" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-11" x1="194" y1="178" x2="194" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-12" x1="211" y1="178" x2="211" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-13" x1="229" y1="178" x2="229" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-14" x1="247" y1="178" x2="247" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-15" x1="265" y1="178" x2="265" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-16" x1="283" y1="178" x2="283" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-17" x1="301" y1="178" x2="301" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-18" x1="319" y1="178" x2="319" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-19" x1="337" y1="178" x2="337" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-20" x1="355" y1="178" x2="355" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-21" x1="373" y1="178" x2="373" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-22" x1="391" y1="178" x2="391" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-23" x1="409" y1="178" x2="409" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-24" x1="427" y1="178" x2="427" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-25" x1="445" y1="178" x2="445" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-26" x1="462" y1="178" x2="462" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-27" x1="480" y1="178" x2="480" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-28" x1="498" y1="178" x2="498" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-29" x1="516" y1="178" x2="516" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-30" x1="534" y1="178" x2="534" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-10-31" x1="552" y1="178" x2="552" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-01" x1="570" y1="178" x2="570" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-02" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 110 L 86 110 L 104 110 L 122 110 L 140 110 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 110 L 86 110 L 104 110 L 122 110 L 140 110 L 158 110 L 176 110 L 194 110 L 211 110 L 229 110 L 247 110 L 265 110 L 283 110 L 301 110 L 319 110 L 337 110 L 355 110 L 373 110 L 391 110 L 409 110 L 427 110 L 445 110 L 462 110 L 480 110 L 498 110 L 516 110 L 534 110 L 552 110 L 570 110 L 588 110" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="110" r="4" fill="#fdba74"><title>10-04 26,990원</title></circle>
-    <circle cx="87" cy="110" r="4" fill="#fdba74"><title>10-05 26,990원</title></circle>
-    <circle cx="105" cy="110" r="4" fill="#fdba74"><title>10-06 26,990원</title></circle>
-    <circle cx="124" cy="110" r="4" fill="#fdba74"><title>10-07 26,990원</title></circle>
-    <circle cx="142" cy="110" r="4" fill="#fdba74"><title>10-08 26,990원</title></circle>
-    <circle cx="161" cy="110" r="4" fill="#fdba74"><title>10-09 26,990원</title></circle>
-    <circle cx="179" cy="110" r="4" fill="#fdba74"><title>10-10 26,990원</title></circle>
-    <circle cx="198" cy="110" r="4" fill="#fdba74"><title>10-11 26,990원</title></circle>
-    <circle cx="217" cy="110" r="4" fill="#fdba74"><title>10-12 26,990원</title></circle>
-    <circle cx="235" cy="110" r="4" fill="#fdba74"><title>10-13 26,990원</title></circle>
-    <circle cx="254" cy="110" r="4" fill="#fdba74"><title>10-14 26,990원</title></circle>
-    <circle cx="272" cy="110" r="4" fill="#fdba74"><title>10-15 26,990원</title></circle>
-    <circle cx="291" cy="110" r="4" fill="#fdba74"><title>10-16 26,990원</title></circle>
-    <circle cx="309" cy="110" r="4" fill="#fdba74"><title>10-17 26,990원</title></circle>
-    <circle cx="328" cy="110" r="4" fill="#fdba74"><title>10-18 26,990원</title></circle>
-    <circle cx="347" cy="110" r="4" fill="#fdba74"><title>10-19 26,990원</title></circle>
-    <circle cx="365" cy="110" r="4" fill="#fdba74"><title>10-20 26,990원</title></circle>
-    <circle cx="384" cy="110" r="4" fill="#fdba74"><title>10-21 26,990원</title></circle>
-    <circle cx="402" cy="110" r="4" fill="#fdba74"><title>10-22 26,990원</title></circle>
-    <circle cx="421" cy="110" r="4" fill="#fdba74"><title>10-23 26,990원</title></circle>
-    <circle cx="439" cy="110" r="4" fill="#fdba74"><title>10-24 26,990원</title></circle>
-    <circle cx="458" cy="110" r="4" fill="#fdba74"><title>10-25 26,990원</title></circle>
-    <circle cx="477" cy="110" r="4" fill="#fdba74"><title>10-26 26,990원</title></circle>
-    <circle cx="495" cy="110" r="4" fill="#fdba74"><title>10-27 26,990원</title></circle>
-    <circle cx="514" cy="110" r="4" fill="#fdba74"><title>10-28 26,990원</title></circle>
-    <circle cx="532" cy="110" r="4" fill="#fdba74"><title>10-29 26,990원</title></circle>
-    <circle cx="551" cy="110" r="4" fill="#fdba74"><title>10-30 26,990원</title></circle>
-    <circle cx="569" cy="110" r="4" fill="#fdba74"><title>10-31 26,990원</title></circle>
-    <circle cx="588" cy="110" r="5" fill="#ea580c"><title>11-01 26,990원</title></circle>
+    <circle cx="86" cy="110" r="4" fill="#fdba74"><title>10-05 26,990원</title></circle>
+    <circle cx="104" cy="110" r="4" fill="#fdba74"><title>10-06 26,990원</title></circle>
+    <circle cx="122" cy="110" r="4" fill="#fdba74"><title>10-07 26,990원</title></circle>
+    <circle cx="140" cy="110" r="4" fill="#fdba74"><title>10-08 26,990원</title></circle>
+    <circle cx="158" cy="110" r="4" fill="#fdba74"><title>10-09 26,990원</title></circle>
+    <circle cx="176" cy="110" r="4" fill="#fdba74"><title>10-10 26,990원</title></circle>
+    <circle cx="194" cy="110" r="4" fill="#fdba74"><title>10-11 26,990원</title></circle>
+    <circle cx="211" cy="110" r="4" fill="#fdba74"><title>10-12 26,990원</title></circle>
+    <circle cx="229" cy="110" r="4" fill="#fdba74"><title>10-13 26,990원</title></circle>
+    <circle cx="247" cy="110" r="4" fill="#fdba74"><title>10-14 26,990원</title></circle>
+    <circle cx="265" cy="110" r="4" fill="#fdba74"><title>10-15 26,990원</title></circle>
+    <circle cx="283" cy="110" r="4" fill="#fdba74"><title>10-16 26,990원</title></circle>
+    <circle cx="301" cy="110" r="4" fill="#fdba74"><title>10-17 26,990원</title></circle>
+    <circle cx="319" cy="110" r="4" fill="#fdba74"><title>10-18 26,990원</title></circle>
+    <circle cx="337" cy="110" r="4" fill="#fdba74"><title>10-19 26,990원</title></circle>
+    <circle cx="355" cy="110" r="4" fill="#fdba74"><title>10-20 26,990원</title></circle>
+    <circle cx="373" cy="110" r="4" fill="#fdba74"><title>10-21 26,990원</title></circle>
+    <circle cx="391" cy="110" r="4" fill="#fdba74"><title>10-22 26,990원</title></circle>
+    <circle cx="409" cy="110" r="4" fill="#fdba74"><title>10-23 26,990원</title></circle>
+    <circle cx="427" cy="110" r="4" fill="#fdba74"><title>10-24 26,990원</title></circle>
+    <circle cx="445" cy="110" r="4" fill="#fdba74"><title>10-25 26,990원</title></circle>
+    <circle cx="462" cy="110" r="4" fill="#fdba74"><title>10-26 26,990원</title></circle>
+    <circle cx="480" cy="110" r="4" fill="#fdba74"><title>10-27 26,990원</title></circle>
+    <circle cx="498" cy="110" r="4" fill="#fdba74"><title>10-28 26,990원</title></circle>
+    <circle cx="516" cy="110" r="4" fill="#fdba74"><title>10-29 26,990원</title></circle>
+    <circle cx="534" cy="110" r="4" fill="#fdba74"><title>10-30 26,990원</title></circle>
+    <circle cx="552" cy="110" r="4" fill="#fdba74"><title>10-31 26,990원</title></circle>
+    <circle cx="570" cy="110" r="4" fill="#fdba74"><title>11-01 26,990원</title></circle>
+    <circle cx="588" cy="110" r="5" fill="#ea580c"><title>11-02 26,990원</title></circle>
 
     <text x="588" y="98" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">26,990원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-04</text>
-    <text x="124" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-07</text>
-    <text x="179" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-10</text>
-    <text x="235" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-13</text>
-    <text x="291" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-16</text>
-    <text x="365" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-20</text>
-    <text x="421" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-23</text>
-    <text x="477" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-26</text>
-    <text x="532" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-29</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-01</text>
+    <text x="122" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-07</text>
+    <text x="176" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-10</text>
+    <text x="247" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-14</text>
+    <text x="301" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-17</text>
+    <text x="355" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-20</text>
+    <text x="409" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-23</text>
+    <text x="480" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-27</text>
+    <text x="534" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">10-30</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-02</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
@@ -227,7 +229,7 @@ A. 기본적인 케이크와 크림의 맛은 기존 몽쉘 생크림케이크�
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 26,990원 · 별점 4.6 · 리뷰 12개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 26,990원 · 별점 4.6 · 리뷰 13개</span>
     <a href="https://link.coupang.com/a/hzMiXsuQuG" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
