@@ -576,7 +576,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 | 서프라이즈 용돈 박스 돈티슈 플라워 | [보기](products/surprise-money-tissue-flower-box.md) |
 | 카네이션 용돈박스 | [보기](products/carnation-money-box.md) |
 | 휠라 뉴엔트리 백 | [보기](products/fila-newentry-bag.md) |
-| 초록매실 제로 | [보기](products/chorokmaesil-zero-beverage.md) |
+| 초록매실 제로 | [보기](products/chorokmaesil-zero-drink.md) |
 | 초록매실 1.5L | [보기](products/woongjin-chorooc-maesil-15l-zero-drink.md) |
 | 동원에프앤비 비엔나소시지 | [보기](products/dongwon-fnb-vienna-sausage.md) |
 | 커버낫 수퍼브 | [보기](products/covernat-superb-backpack.md) |
