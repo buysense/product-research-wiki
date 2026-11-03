@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 두피 괄사 | [보기](products/scalp-gua-sha-massage-tool.md) |
 | 까망베르 치즈 | [보기](products/camembert-cheese.md) |
 | 요할배 홋카이도 버터 | [보기](products/yohalbae-hokkaido-butter.md) |
 | 닥터X 슈가시럽 | [보기](products/drx-sugar-syrup.md) |
