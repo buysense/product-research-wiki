@@ -11,7 +11,6 @@ contentUpdated: 2026-11-04
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "요아정",
-  "description": "요아정은 신선한 요거트 베이스의 아이스크림으로, 다양한 토핑과 함께 즐기기 좋습니다. 간식이나 식사 후 디저트로 가볍게 소비하기에 적합합니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/07/16/9/c724de33-e2d5-4675-a296-6d715d996a73.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/07/07/16/5/bd2735d1-3395-43e5-bbe4-15f25bc32b29.jpg"
@@ -22,7 +21,7 @@ contentUpdated: 2026-11-04
     "price": "19500",
     "url": "https://link.coupang.com/a/ioLmqri5SK",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-11"
+    "priceValidUntil": "2026-11-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
