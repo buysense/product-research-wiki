@@ -11,7 +11,6 @@ contentUpdated: 2026-11-02
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "요할배 홋카이도 버터",
-  "description": "요할배 홋카이도 버터는 일본 홋카이도의 고품질 유크림으로 만들어진 버터로, 풍부한 풍미와 부드러운 질감이 특징입니다. 빵에 발라 먹거나 베이킹, 요리 등 다양한 상황에서 활용하기 좋습니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1958/083168bf931a32f447dd5557a331cadf23ff36b693cb0dc709a4015cb417.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/922d/905aedb6ff07798547b69398873984d1a03b2098408d764c057440a501fd.jpg"
@@ -22,7 +21,7 @@ contentUpdated: 2026-11-02
     "price": "54800",
     "url": "https://link.coupang.com/a/ilXP3fX2No",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-10"
+    "priceValidUntil": "2026-11-11"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -52,6 +51,33 @@ contentUpdated: 2026-11-02
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
+<!-- PRICE_CHART_START -->
+<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3일 중 3일 기록</div>
+  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
+    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
+    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
+    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">54,900</text>
+    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">54,800</text>
+    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">54,700</text>
+
+    <line data-date-tick="2026-11-02" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-03" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-04" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>11-02 54,800원</title></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>11-03 54,800원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>11-04 54,800원</title></circle>
+
+    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">54,800원</text>
+    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-02</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-03</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-04</text>
+  </svg>
+</div>
+<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요
