@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 요아정: products/yoajung-yogurt-icecream.md
     - 곰팡이 싹: products/gompangi-ssak-mold-remover.md
     - 두피 괄사: products/scalp-gua-sha-massage-tool.md
     - 까망베르 치즈: products/camembert-cheese.md
