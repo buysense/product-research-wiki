@@ -11,7 +11,6 @@ contentUpdated: 2026-11-04
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "던킨도너츠",
-  "description": "던킨도너츠는 다양한 종류의 도넛과 커피를 제공하며, 간식, 아침 식사, 선물 등 일상 속 달콤한 순간과 휴식을 위한 선택입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/215494412970751-7748a46e-34f1-45e3-a571-c7bbd2474675.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/215541507451628-72f7662d-5aff-44c7-9ecb-bad91ac3e8de.jpg"
@@ -22,12 +21,12 @@ contentUpdated: 2026-11-04
     "price": "7980",
     "url": "https://link.coupang.com/a/ioMroM5cdM",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-11"
+    "priceValidUntil": "2026-11-12"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.8,
-    "reviewCount": 9624,
+    "reviewCount": 9630,
     "bestRating": 5,
     "worstRating": 1
   }
@@ -45,7 +44,7 @@ contentUpdated: 2026-11-04
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,980원 · 별점 4.8 · 리뷰 9,624개</span>
+    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 7,980원 · 별점 4.8 · 리뷰 9,630개</span>
     <a href="https://link.coupang.com/a/ioMroM5cdM" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
@@ -129,7 +128,7 @@ A. 던킨도너츠는 ‘글레이즈드’, ‘올드훼션드’, ‘보스턴
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,980원 · 별점 4.8 · 리뷰 9,624개</span>
+    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 7,980원 · 별점 4.8 · 리뷰 9,630개</span>
     <a href="https://link.coupang.com/a/ioMroM5cdM" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
   </div>
 </div>
