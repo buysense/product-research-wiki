@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 다마고치 초코 비스킷: products/tamagotchi-choco-biscuit.md
     - 가시제거연구소: products/gasijegyeoyeonguso-bone-remover.md
     - 던킨도너츠: products/dunkin-donuts-menu-coffee-treats.md
     - 요아정: products/yoajung-yogurt-icecream.md

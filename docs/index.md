@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 다마고치 초코 비스킷 | [보기](products/tamagotchi-choco-biscuit.md) |
 | 가시제거연구소 | [보기](products/gasijegyeoyeonguso-bone-remover.md) |
 | 던킨도너츠 | [보기](products/dunkin-donuts-menu-coffee-treats.md) |
 | 요아정 | [보기](products/yoajung-yogurt-icecream.md) |
