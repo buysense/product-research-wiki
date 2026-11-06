@@ -11,7 +11,6 @@ contentUpdated: 2026-11-06
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "조셉앤스테이시",
-  "description": "조셉앤스테이시 가방은 가볍고 실용적인 디자인이 특징으로, 일상적인 외출부터 여행까지 다양한 상황에서 활용하기 좋은 니트백입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a610/c81613d80f30aaad4aa9fd122939a385dc6d8cd7fc13f8b8b51ba22c1c3a.jpg"
   ],
