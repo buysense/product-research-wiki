@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 퓌: products/phy-cosmetics-buying.md
     - 조셉앤스테이시: products/josephandstacey-knit-bag.md
     - 다마고치 초코 비스킷: products/tamagotchi-choco-biscuit.md
     - 가시제거연구소: products/gasijegyeoyeonguso-bone-remover.md
