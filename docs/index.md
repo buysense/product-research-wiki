@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 삼성 갤럭시 핏3 SM-R390 1.6인치 AMOLED 디스플레이 국제모델 | [보기](products/samsung-galaxy-fit3-sm-r390-fitness.md) |
 | 퓌 | [보기](products/phy-cosmetics-buying.md) |
 | 조셉앤스테이시 | [보기](products/josephandstacey-knit-bag.md) |
 | 다마고치 초코 비스킷 | [보기](products/tamagotchi-choco-biscuit.md) |
