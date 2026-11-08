@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 그릭데이 블프: products/greekday-blackfriday-yogurt.md
     - 멘소래담 셀선 샴푸 50ml: products/dokbak-beverage.md
     - 삼성 갤럭시 핏3 SM-R390 1.6인치 AMOLED 디스플레이 국제모델: products/samsung-galaxy-fit3-sm-r390-fitness.md
     - 퓌: products/phy-cosmetics-buying.md
