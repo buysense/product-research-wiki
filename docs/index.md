@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 배스킨라빈스 할인 | [보기](products/baskinrobbins-discount-voucher.md) |
 | 스투시 시즌오프 | [보기](products/stussy-season-off.md) |
 | 그릭데이 블프 | [보기](products/greekday-blackfriday-yogurt.md) |
 | 멘소래담 셀선 샴푸 50ml | [보기](products/dokbak-beverage.md) |

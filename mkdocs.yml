@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 배스킨라빈스 할인: products/baskinrobbins-discount-voucher.md
     - 스투시 시즌오프: products/stussy-season-off.md
     - 그릭데이 블프: products/greekday-blackfriday-yogurt.md
     - 멘소래담 셀선 샴푸 50ml: products/dokbak-beverage.md
