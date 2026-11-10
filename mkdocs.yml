@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 트립닷컴: products/tripcom-travel-booking.md
     - 무인양품: products/muji-short-sleeve-tshirt.md
     - 배스킨라빈스 할인: products/baskinrobbins-discount-voucher.md
     - 스투시 시즌오프: products/stussy-season-off.md
