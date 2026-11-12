@@ -22,7 +22,7 @@ contentUpdated: 2026-11-12
     "price": "39900",
     "url": "https://link.coupang.com/a/iB51zPyXhA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-19"
+    "priceValidUntil": "2026-11-20"
   }
 }
 </script>
