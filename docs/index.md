@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 일본 마운자로 | [보기](products/japan-mounjaro-tirzepatide.md) |
 | 얼터 블프 | [보기](products/alter-black-friday-item.md) |
 | 호카 메가세일 | [보기](products/hoka-megasale-buying.md) |
 | 엽떡데이 | [보기](products/yupdduk-day-promotion.md) |
