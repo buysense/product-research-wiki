@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 아디다스: products/adidas-buying.md
     - 일본 마운자로: products/japan-mounjaro-tirzepatide.md
     - 얼터 블프: products/alter-black-friday-item.md
     - 호카 메가세일: products/hoka-megasale-buying.md
