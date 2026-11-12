@@ -20,7 +20,7 @@ contentUpdated: 2026-04-25
     "priceCurrency": "KRW",
     "url": "https://link.coupang.com/a/ewdo03",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-19"
+    "priceValidUntil": "2026-11-20"
   }
 }
 </script>
