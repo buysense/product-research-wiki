@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 칸쵸 호빵 | [보기](products/kancho-hoppang.md) |
 | 반스 블프 | [보기](products/vans-black-friday-shopping-tips.md) |
 | 아디다스 | [보기](products/adidas-buying.md) |
 | 일본 마운자로 | [보기](products/japan-mounjaro-tirzepatide.md) |

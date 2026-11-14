@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 칸쵸 호빵: products/kancho-hoppang.md
     - 반스 블프: products/vans-black-friday-shopping-tips.md
     - 아디다스: products/adidas-buying.md
     - 일본 마운자로: products/japan-mounjaro-tirzepatide.md
