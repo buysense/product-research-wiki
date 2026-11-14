@@ -21,7 +21,7 @@ contentUpdated: 2026-11-06
     "price": "36250",
     "url": "https://link.coupang.com/a/isAzxdE18e",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-21"
+    "priceValidUntil": "2026-11-22"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -53,7 +53,7 @@ contentUpdated: 2026-11-06
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 9일 중 9일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 10일 중 10일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -63,36 +63,39 @@ contentUpdated: 2026-11-06
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">36,200</text>
 
     <line data-date-tick="2026-11-06" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-07" x1="133" y1="178" x2="133" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-08" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-09" x1="263" y1="178" x2="263" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-10" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-11" x1="393" y1="178" x2="393" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-12" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-13" x1="523" y1="178" x2="523" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-14" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 140 L 133 140 L 198 140 L 263 140 L 328 140 L 393 140 L 458 140 L 523 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 140 L 133 140 L 198 140 L 263 140 L 328 140 L 393 140 L 458 140 L 523 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-11-07" x1="126" y1="178" x2="126" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-08" x1="184" y1="178" x2="184" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-09" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-10" x1="299" y1="178" x2="299" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-11" x1="357" y1="178" x2="357" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-12" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-13" x1="472" y1="178" x2="472" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-14" x1="530" y1="178" x2="530" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-15" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 140 L 126 140 L 184 140 L 241 140 L 299 140 L 357 140 L 415 140 L 472 140 L 530 140 L 588 140 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 140 L 126 140 L 184 140 L 241 140 L 299 140 L 357 140 L 415 140 L 472 140 L 530 140 L 588 140" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="140" r="4" fill="#fdba74"><title>11-06 36,250원</title></circle>
-    <circle cx="133" cy="140" r="4" fill="#fdba74"><title>11-07 36,250원</title></circle>
-    <circle cx="198" cy="140" r="4" fill="#fdba74"><title>11-08 36,250원</title></circle>
-    <circle cx="263" cy="140" r="4" fill="#fdba74"><title>11-09 36,250원</title></circle>
-    <circle cx="328" cy="140" r="4" fill="#fdba74"><title>11-10 36,250원</title></circle>
-    <circle cx="393" cy="140" r="4" fill="#fdba74"><title>11-11 36,250원</title></circle>
-    <circle cx="458" cy="140" r="4" fill="#fdba74"><title>11-12 36,250원</title></circle>
-    <circle cx="523" cy="140" r="4" fill="#fdba74"><title>11-13 36,250원</title></circle>
-    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>11-14 36,250원</title></circle>
+    <circle cx="126" cy="140" r="4" fill="#fdba74"><title>11-07 36,250원</title></circle>
+    <circle cx="184" cy="140" r="4" fill="#fdba74"><title>11-08 36,250원</title></circle>
+    <circle cx="241" cy="140" r="4" fill="#fdba74"><title>11-09 36,250원</title></circle>
+    <circle cx="299" cy="140" r="4" fill="#fdba74"><title>11-10 36,250원</title></circle>
+    <circle cx="357" cy="140" r="4" fill="#fdba74"><title>11-11 36,250원</title></circle>
+    <circle cx="415" cy="140" r="4" fill="#fdba74"><title>11-12 36,250원</title></circle>
+    <circle cx="472" cy="140" r="4" fill="#fdba74"><title>11-13 36,250원</title></circle>
+    <circle cx="530" cy="140" r="4" fill="#fdba74"><title>11-14 36,250원</title></circle>
+    <circle cx="588" cy="140" r="5" fill="#ea580c"><title>11-15 36,250원</title></circle>
 
     <text x="588" y="128" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">36,250원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-06</text>
-    <text x="133" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-07</text>
-    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-08</text>
-    <text x="263" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-09</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-10</text>
-    <text x="393" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-11</text>
-    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-12</text>
-    <text x="523" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-13</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-14</text>
+    <text x="126" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-07</text>
+    <text x="184" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-08</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-09</text>
+    <text x="299" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-10</text>
+    <text x="357" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-11</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-12</text>
+    <text x="472" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-13</text>
+    <text x="530" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-14</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-15</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
