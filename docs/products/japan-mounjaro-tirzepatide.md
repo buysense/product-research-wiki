@@ -11,7 +11,6 @@ contentUpdated: 2026-11-12
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "일본 마운자로",
-  "description": "일본 마운자로(티르제파타이드)의 주요 특징, 효능, 구매 시 고려사항 및 일본 내 사용 규정을 다루는 실용적인 구매 가이드입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/357e/09ce8b5c6a7e828f06a7c62afb711a08f8ddde14f6a8bf99ad4302d28b39.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/8e15/74a81d1ebb69bb140f1eee02cbf194d6103ae22f1f24ccb72a2fbc674951.jpg"
@@ -22,7 +21,7 @@ contentUpdated: 2026-11-12
     "price": "39900",
     "url": "https://link.coupang.com/a/iB51zPyXhA",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-22"
+    "priceValidUntil": "2026-11-23"
   }
 }
 </script>
@@ -47,7 +46,7 @@ contentUpdated: 2026-11-12
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4일 중 4일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 5일 중 5일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -57,21 +56,24 @@ contentUpdated: 2026-11-12
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">39,800</text>
 
     <line data-date-tick="2026-11-12" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-13" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-14" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-15" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 102 L 241 102 L 415 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 241 102 L 415 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-11-13" x1="198" y1="178" x2="198" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-14" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-15" x1="458" y1="178" x2="458" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-16" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 102 L 198 102 L 328 102 L 458 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 198 102 L 328 102 L 458 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"><title>11-12 39,900원</title></circle>
-    <circle cx="241" cy="102" r="4" fill="#fdba74"><title>11-13 39,900원</title></circle>
-    <circle cx="415" cy="102" r="4" fill="#fdba74"><title>11-14 39,900원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>11-15 39,900원</title></circle>
+    <circle cx="198" cy="102" r="4" fill="#fdba74"><title>11-13 39,900원</title></circle>
+    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>11-14 39,900원</title></circle>
+    <circle cx="458" cy="102" r="4" fill="#fdba74"><title>11-15 39,900원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>11-16 39,900원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">39,900원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-12</text>
-    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-13</text>
-    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-14</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-15</text>
+    <text x="198" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-13</text>
+    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-14</text>
+    <text x="458" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-15</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-16</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
