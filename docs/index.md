@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 헤트라스 | [보기](products/hetras-product-info.md) |
 | LMC | [보기](products/lmc-signature-logo-tshirt.md) |
 | 빽다방 할인 | [보기](products/paiks-coffee-discount.md) |
 | 설빙 | [보기](products/sulbing-bingsu-dessert-cafe.md) |
