@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 크록스: products/crocs-comfort-footwear.md
     - 지베르니: products/giverny-milchak-cover-foundation.md
     - 헤트라스: products/hetras-product-info.md
     - LMC: products/lmc-streetwear-apparel.md
