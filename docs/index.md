@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 팬틴 | [보기](products/pantene-hair-care-selection.md) |
 | 크록스 | [보기](products/crocs-comfort-footwear.md) |
 | 지베르니 | [보기](products/giverny-milchak-cover-foundation.md) |
 | 헤트라스 | [보기](products/hetras-product-info.md) |
