@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 로라메르시에 클리어런스: products/laura-mercier-clearance.md
     - 팬틴: products/pantene-hair-care-selection.md
     - 크록스: products/crocs-comfort-footwear.md
     - 지베르니: products/giverny-milchak-cover-foundation.md
