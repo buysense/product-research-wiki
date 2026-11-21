@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 마르디 할인: products/mardi-discount-buying.md
     - 서브웨이 할인: products/subway-discount.md
     - 한성컴퓨터 4K UHD QLED 이동형 스마트 TV: products/hansung-4k-uhd-qled-portable-smart-tv.md
     - 클럽 클리오 세일: products/club-clio-sale.md
