@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 한성컴퓨터 4K UHD QLED 이동형 스마트 TV: products/hansung-4k-uhd-qled-portable-smart-tv.md
     - 클럽 클리오 세일: products/club-clio-sale.md
     - 세타필 크림: products/cetaphil-cream-moisturizer.md
     - 로라메르시에 클리어런스: products/laura-mercier-clearance.md

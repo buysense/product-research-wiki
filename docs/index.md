@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 한성컴퓨터 4K UHD QLED 이동형 스마트 TV | [보기](products/hansung-4k-uhd-qled-portable-smart-tv.md) |
 | 클럽 클리오 세일 | [보기](products/club-clio-sale.md) |
 | 세타필 크림 | [보기](products/cetaphil-cream-moisturizer.md) |
 | 로라메르시에 클리어런스 | [보기](products/laura-mercier-clearance.md) |
