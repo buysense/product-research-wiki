@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 다이슨 블프: products/dyson-black-friday-deals.md
     - 입생로랑: products/ysl-beauty-fashion.md
     - 무신사 무진장: products/musinsa-mujinjjang-event.md
     - 마르디 할인: products/mardi-discount-buying.md

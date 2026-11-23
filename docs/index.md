@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 다이슨 블프 | [보기](products/dyson-black-friday-deals.md) |
 | 입생로랑 | [보기](products/ysl-beauty-fashion.md) |
 | 무신사 무진장 | [보기](products/musinsa-mujinjjang-event.md) |
 | 마르디 할인 | [보기](products/mardi-discount-buying.md) |
