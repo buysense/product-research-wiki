@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 케이트 블프 | [보기](products/kate-blackfriday-deals.md) |
 | 마샬 블프 | [보기](products/marshall-black-friday-speaker.md) |
 | 다이슨 블프 | [보기](products/dyson-black-friday-deals.md) |
 | 입생로랑 | [보기](products/ysl-beauty-fashion.md) |
