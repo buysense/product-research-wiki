@@ -11,7 +11,6 @@ contentUpdated: 2026-11-17
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "크록스",
-  "description": "크록스는 편안함과 실용성을 겸비한 신발로, 캐주얼한 일상, 물놀이, 가드닝 등 다양한 상황에서 활용됩니다. 가볍고 세척이 용이하여 범용적으로 사용하기 좋은 제품입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ea14/49d1ebe61e7bee69d20e9c7f5337aa645033e930a410fcdb2910c0481950.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2b9c/dc7ac1573829047bed2b23a7bc56775948db18655b7136df46d4056dfe45.jpg"
@@ -19,17 +18,9 @@ contentUpdated: 2026-11-17
   "offers": {
     "@type": "Offer",
     "priceCurrency": "KRW",
-    "price": "33900",
     "url": "https://link.coupang.com/a/iKMkvdJlym",
-    "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-29"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": 5,
-    "reviewCount": 57,
-    "bestRating": 5,
-    "worstRating": 1
+    "availability": "https://schema.org/OutOfStock",
+    "priceValidUntil": "2026-12-01"
   }
 }
 </script>
@@ -45,64 +36,13 @@ contentUpdated: 2026-11-17
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; width:100%;">
-    <span style="font-size: 0.9em; color: #c83718; font-weight: bold; white-space: nowrap;">쿠팡 현재가: 33,900원 · 별점 5.0 · 리뷰 57개</span>
-    <a href="https://link.coupang.com/a/iKMkvdJlym" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🛒 쿠팡에서 구매하기</a>
+    <span style="font-size: 0.9em; color: #888; font-weight: bold; white-space: nowrap;">현재 판매중지</span>
+    <a href="https://link.coupang.com/a/iKMkvdJlym" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #c83718; color: #ffffff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.95em; white-space: nowrap;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
 
 <!-- /bs:cta -->
 <!-- bs:chart -->
-<!-- PRICE_CHART_START -->
-<div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 12일 중 11일 기록</div>
-  <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
-    <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
-    <line x1="42" y1="178" x2="614" y2="178" stroke="#f1f5f9" stroke-width="1"></line>
-    <text x="10" y="30" text-anchor="start" font-size="11" fill="#94a3b8">34,000</text>
-    <text x="10" y="106" text-anchor="start" font-size="11" fill="#94a3b8">33,900</text>
-    <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">33,800</text>
-
-    <line data-date-tick="2026-11-11" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-12" x1="115" y1="178" x2="115" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-13" x1="163" y1="178" x2="163" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-14" x1="210" y1="178" x2="210" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-15" x1="257" y1="178" x2="257" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-16" x1="304" y1="178" x2="304" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-17" x1="352" y1="178" x2="352" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-18" x1="399" y1="178" x2="399" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-19" x1="446" y1="178" x2="446" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-20" x1="493" y1="178" x2="493" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-21" x1="541" y1="178" x2="541" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-22" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 102 L 115 102 L 163 102 L 210 102 L 257 102 L 352 102 L 399 102 L 446 102 L 493 102 L 541 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 115 102 L 163 102 L 210 102 L 257 102 L 352 102 L 399 102 L 446 102 L 493 102 L 541 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-    <circle cx="68" cy="102" r="4" fill="#fdba74"><title>11-11 33,900원</title></circle>
-    <circle cx="115" cy="102" r="4" fill="#fdba74"><title>11-12 33,900원</title></circle>
-    <circle cx="163" cy="102" r="4" fill="#fdba74"><title>11-13 33,900원</title></circle>
-    <circle cx="210" cy="102" r="4" fill="#fdba74"><title>11-14 33,900원</title></circle>
-    <circle cx="257" cy="102" r="4" fill="#fdba74"><title>11-15 33,900원</title></circle>
-    <circle cx="352" cy="102" r="4" fill="#fdba74"><title>11-17 33,900원</title></circle>
-    <circle cx="399" cy="102" r="4" fill="#fdba74"><title>11-18 33,900원</title></circle>
-    <circle cx="446" cy="102" r="4" fill="#fdba74"><title>11-19 33,900원</title></circle>
-    <circle cx="493" cy="102" r="4" fill="#fdba74"><title>11-20 33,900원</title></circle>
-    <circle cx="541" cy="102" r="4" fill="#fdba74"><title>11-21 33,900원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>11-22 33,900원</title></circle>
-
-    <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">33,900원</text>
-    <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-11</text>
-    <text x="115" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-12</text>
-    <text x="163" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-13</text>
-    <text x="257" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-15</text>
-    <text x="304" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-16</text>
-    <text x="352" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-17</text>
-    <text x="399" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-18</text>
-    <text x="493" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-20</text>
-    <text x="541" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-21</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-22</text>
-  </svg>
-</div>
-<!-- PRICE_CHART_END -->
 <!-- /bs:chart -->
 
 ## 상품 개요
@@ -196,8 +136,8 @@ A. 오염이 생겼을 때는 물과 중성세제를 사용하여 부드럽게 �
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 18px 0 8px;">
   <span style="font-size: 0.8em; color: #888;">※ 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</span>
   <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap;">
-    <span style="font-size:0.9em; color:#c83718; font-weight:bold;">쿠팡 현재가: 33,900원 · 별점 5.0 · 리뷰 57개</span>
-    <a href="https://link.coupang.com/a/iKMkvdJlym" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🛒 쿠팡에서 구매하기</a>
+    <span style="font-size:0.9em; color:#888; font-weight:bold;">현재 판매중지</span>
+    <a href="https://link.coupang.com/a/iKMkvdJlym" target="_blank" rel="noopener noreferrer" style="display:inline-block; background-color:#c83718; color:#ffffff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.95em;">🔍 쿠팡에서 확인하기</a>
   </div>
 </div>
 
