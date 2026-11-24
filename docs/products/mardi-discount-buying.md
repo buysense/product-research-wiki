@@ -11,7 +11,6 @@ contentUpdated: 2026-11-21
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "마르디 할인",
-  "description": "마르디 제품을 합리적인 가격에 구매하기 위한 할인 정보, 구매 팁, 그리고 주요 할인 시기를 안내하는 가이드입니다.",
   "image": [
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/84832819236343-c4116d64-97ba-4fe9-9c98-8201b9421ae4.jpg",
     "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/84840034902348-58bcf01f-176b-442d-bc6a-069b92e6e093.jpg"
@@ -22,7 +21,7 @@ contentUpdated: 2026-11-21
     "price": "108000",
     "url": "https://link.coupang.com/a/iRxtZHjm2u",
     "availability": "https://schema.org/InStock",
-    "priceValidUntil": "2026-11-30"
+    "priceValidUntil": "2026-12-01"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -54,7 +53,7 @@ contentUpdated: 2026-11-21
 <!-- bs:chart -->
 <!-- PRICE_CHART_START -->
 <div style="background:#ffffff; border:1px solid #e5e7eb; border-radius:12px; padding:14px 14px 10px; margin:14px 0 20px;">
-  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 3일 중 3일 기록</div>
+  <div style="margin:0 0 8px 2px; font-size:12px; color:#94a3b8;">최근 4일 중 4일 기록</div>
   <svg viewBox="0 0 640 210" style="display:block; width:100%; height:auto;" aria-label="최근 가격 추이">
     <line x1="42" y1="26" x2="614" y2="26" stroke="#f1f5f9" stroke-width="1"></line>
     <line x1="42" y1="102" x2="614" y2="102" stroke="#f1f5f9" stroke-width="1"></line>
@@ -64,18 +63,21 @@ contentUpdated: 2026-11-21
     <text x="10" y="182" text-anchor="start" font-size="11" fill="#94a3b8">107,900</text>
 
     <line data-date-tick="2026-11-21" x1="68" y1="178" x2="68" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-22" x1="328" y1="178" x2="328" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <line data-date-tick="2026-11-23" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
-    <path d="M 68 102 L 328 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
-    <path d="M 68 102 L 328 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <line data-date-tick="2026-11-22" x1="241" y1="178" x2="241" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-23" x1="415" y1="178" x2="415" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <line data-date-tick="2026-11-24" x1="588" y1="178" x2="588" y2="183" stroke="#cbd5e1" stroke-width="1"></line>
+    <path d="M 68 102 L 241 102 L 415 102 L 588 102 L 588 178 L 68 178 Z" fill="rgba(249,115,22,0.08)"></path>
+    <path d="M 68 102 L 241 102 L 415 102 L 588 102" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
     <circle cx="68" cy="102" r="4" fill="#fdba74"><title>11-21 108,000원</title></circle>
-    <circle cx="328" cy="102" r="4" fill="#fdba74"><title>11-22 108,000원</title></circle>
-    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>11-23 108,000원</title></circle>
+    <circle cx="241" cy="102" r="4" fill="#fdba74"><title>11-22 108,000원</title></circle>
+    <circle cx="415" cy="102" r="4" fill="#fdba74"><title>11-23 108,000원</title></circle>
+    <circle cx="588" cy="102" r="5" fill="#ea580c"><title>11-24 108,000원</title></circle>
 
     <text x="588" y="90" text-anchor="end" font-size="12" font-weight="700" fill="#c2410c">108,000원</text>
     <text x="68" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-21</text>
-    <text x="328" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-22</text>
-    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-23</text>
+    <text x="241" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-22</text>
+    <text x="415" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-23</text>
+    <text x="588" y="198" text-anchor="middle" font-size="11" fill="#94a3b8">11-24</text>
   </svg>
 </div>
 <!-- PRICE_CHART_END -->
