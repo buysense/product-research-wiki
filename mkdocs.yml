@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 리들샷 시크릿 세일: products/needleshot-secret-sale-skin-care.md
     - 판도라 블프: products/pandora-black-friday-jewelry.md
     - 케이트 블프: products/kate-blackfriday-deals.md
     - 마샬 블프: products/marshall-black-friday-selection.md
