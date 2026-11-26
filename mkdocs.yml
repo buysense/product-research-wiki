@@ -103,6 +103,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 찰스앤키스 할인: products/charleskeith-discount-overview.md
     - 코치 할인: products/coach-discount-buying.md
     - 리들샷 시크릿 세일: products/reedle-shot-secret-sale.md
     - 판도라 블프: products/pandora-black-friday-jewelry.md

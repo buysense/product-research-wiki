@@ -18,6 +18,7 @@ AI가 인터넷 리뷰와 기사를 분석하여 작성한 상품 구매 가이�
 
 | 상품 | 바로가기 |
 |------|----------|
+| 찰스앤키스 할인 | [보기](products/charleskeith-discount-overview.md) |
 | 코치 할인 | [보기](products/coach-discount-buying.md) |
 | 리들샷 시크릿 세일 | [보기](products/reedle-shot-secret-sale.md) |
 | 판도라 블프 | [보기](products/pandora-black-friday-jewelry.md) |
